@@ -1,0 +1,568 @@
+[
+  {
+    "id": "anatomy",
+    "type": "anatomy",
+    "name": "Parts of an egg",
+    "summary": "The main parts of a chicken egg, from the outside in.",
+    "details": {
+      "terms": [
+        {
+          "term": "Cuticle (bloom)",
+          "meaning": "A thin natural coating on the shell that seals the pores and helps keep bacteria out. Washing removes it."
+        },
+        {
+          "term": "Shell",
+          "meaning": "Mostly calcium carbonate, with thousands of tiny pores that let air and moisture pass."
+        },
+        {
+          "term": "Shell membranes",
+          "meaning": "Two thin layers (inner and outer) just inside the shell that help block bacteria."
+        },
+        {
+          "term": "Air cell",
+          "meaning": "An air pocket, usually at the wide end, that forms as the egg cools after laying and grows as the egg ages."
+        },
+        {
+          "term": "Albumen (egg white)",
+          "meaning": "Made of thick and thin layers. The thick white thins out as the egg ages."
+        },
+        {
+          "term": "Chalazae",
+          "meaning": "Twisted rope-like strands that hold the yolk in the centre. More visible in fresh eggs, and safe to eat."
+        },
+        {
+          "term": "Vitelline membrane",
+          "meaning": "The clear membrane around the yolk. It weakens with age, so old yolks break easily."
+        },
+        {
+          "term": "Yolk",
+          "meaning": "The food supply for a developing embryo. Colour comes mostly from pigments in the hen's diet, such as greens and corn. A darker yolk does not by itself mean a more nutritious egg."
+        },
+        {
+          "term": "Germinal disc (blastodisc)",
+          "meaning": "A small pale spot on the yolk. In a fertile egg it is called the blastoderm and looks like a bullseye."
+        },
+        {
+          "term": "Blood and meat spots",
+          "meaning": "Small spots from a burst blood vessel or tissue during egg formation. Harmless and can be removed."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+        "publisher": "USDA Food Safety and Inspection Service",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "colour-blue",
+    "type": "egg-colour",
+    "name": "Blue eggs",
+    "summary": "Blue eggs come from breeds that carry the blue-egg gene. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Araucana",
+        "Ameraucana",
+        "Cream Legbar",
+        "some Easter Eggers"
+      ],
+      "how_the_colour_forms": "Blue pigment (biliverdin) runs right through the shell, so the inside of the shell is blue too."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "colour-brown",
+    "type": "egg-colour",
+    "name": "Brown eggs",
+    "summary": "Brown is the most common colour from backyard dual-purpose breeds. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Rhode Island Red",
+        "Plymouth Rock",
+        "Orpington",
+        "Australorp",
+        "Wyandotte",
+        "Brahma",
+        "sex-link hybrids"
+      ],
+      "how_the_colour_forms": "Brown pigment (protoporphyrin) is added to the outside of the shell in the last hours before laying. The inside of the shell is white."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "colour-cream-tinted",
+    "type": "egg-colour",
+    "name": "Cream or tinted eggs",
+    "summary": "Cream or lightly tinted eggs are laid by several breeds that sit between white and brown. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Sussex",
+        "Faverolles",
+        "Silkie",
+        "Cochin (light brown to tinted)"
+      ],
+      "how_the_colour_forms": "A light layer of brown pigment on a white shell."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "colour-dark-brown",
+    "type": "egg-colour",
+    "name": "Dark brown (chocolate) eggs",
+    "summary": "The darkest brown eggs come from a few breeds known for them. Shade varies from hen to hen and fades during the laying season. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Marans (especially Black Copper)",
+        "Welsummer (terracotta, often speckled)",
+        "Barnevelder",
+        "Penedesenca"
+      ],
+      "how_the_colour_forms": "Brown pigment (protoporphyrin) is added to the outside of the shell in the last hours before laying. Hens often lay darker eggs at the start of a laying cycle."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "colour-green",
+    "type": "egg-colour",
+    "name": "Green eggs",
+    "summary": "Green eggs come from hens with the blue-egg gene that also add a brown coating. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Easter Eggers",
+        "Favaucana",
+        "Isbar",
+        "crosses of blue-egg and brown-egg breeds"
+      ],
+      "how_the_colour_forms": "A blue shell with a light brown coating on top looks green. The inside of the shell stays blue."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "colour-olive",
+    "type": "egg-colour",
+    "name": "Olive eggs",
+    "summary": "Olive eggs come from crossing a blue-egg breed with a dark-brown-egg breed. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Olive Egger crosses (for example Marans x Ameraucana or Cream Legbar)"
+      ],
+      "how_the_colour_forms": "A blue shell covered with a heavier brown coating gives an olive colour."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "colour-pink",
+    "type": "egg-colour",
+    "name": "Pinkish eggs",
+    "summary": "Some light brown and tinted eggs look pink, mainly because of the protective bloom on the shell. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Light Sussex",
+        "Mottled Java",
+        "Faverolles",
+        "some Barred Rocks and Easter Eggers"
+      ],
+      "how_the_colour_forms": "A very light brown shell with a thick bloom (cuticle) can look pink. The effect can rub or wash off."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": "colour-white",
+    "type": "egg-colour",
+    "name": "White eggs",
+    "summary": "White eggs come mostly from Mediterranean breeds, which are often light, active and very productive. Shell colour does not change taste or nutrition. It comes from the hen's breed.",
+    "details": {
+      "breed_examples": [
+        "Leghorn",
+        "Ancona",
+        "Minorca",
+        "Andalusian",
+        "Hamburg",
+        "Polish"
+      ],
+      "how_the_colour_forms": "No pigment is added to the shell. White earlobes often go with white eggs, but this is a loose rule with exceptions."
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://livestockconservancy.org/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.poultryclub.org/",
+        "publisher": "The Poultry Club of Great Britain",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "float-test",
+    "type": "freshness",
+    "name": "Egg float test",
+    "summary": "The float test shows roughly how old an egg is, because the air cell grows as the egg loses moisture through the shell.",
+    "details": {
+      "how_to": "Gently place the egg in a bowl of cold water.",
+      "results": [
+        {
+          "result": "Sinks and lies flat on its side",
+          "meaning": "Very fresh."
+        },
+        {
+          "result": "Sinks but tilts or stands on its end",
+          "meaning": "Older but usually fine to eat. Best used soon, and good for hard boiling."
+        },
+        {
+          "result": "Floats",
+          "meaning": "Old, with a large air cell. Most guidance says throw it away."
+        }
+      ],
+      "cautions": [
+        "The float test shows age, not safety. A sinking egg can still be contaminated, and a cracked or smelly egg should be thrown away whatever it does in water.",
+        "Wetting an unwashed egg removes some of the bloom, so only float-test eggs just before using them."
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "laying-age",
+    "type": "laying-age",
+    "name": "When hens start and slow down laying",
+    "summary": "Most hens start laying at about 18 to 22 weeks old, lay best in their first year or two, then lay fewer eggs each year.",
+    "details": {
+      "point_of_lay": "About 16 to 24 weeks, depending on breed. Hybrid layers and Leghorns tend to start earlier. Large heritage breeds such as Brahmas and Orpingtons can take 6 months or more.",
+      "peak": "The first laying year is usually the most productive. Early eggs are often small, and double yolks are more common in young hens.",
+      "decline": "Output falls gradually after the second year. Many hens keep laying at a lower rate for several years.",
+      "pauses": [
+        "Moulting, usually once a year in late summer or autumn, stops laying for several weeks while feathers regrow.",
+        "Short winter days (under about 12 to 14 hours of light) slow or stop laying.",
+        "Broodiness, stress, illness, heat and poor diet all reduce laying."
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "size-uk",
+    "type": "size-classes",
+    "name": "UK and EU egg sizes",
+    "summary": "UK and EU sizes are set by the weight of each single egg.",
+    "details": {
+      "unit": "grams per egg",
+      "classes": [
+        {
+          "size": "Very Large",
+          "grams": "73 g and over"
+        },
+        {
+          "size": "Large",
+          "grams": "63 g to under 73 g"
+        },
+        {
+          "size": "Medium",
+          "grams": "53 g to under 63 g"
+        },
+        {
+          "size": "Small",
+          "grams": "under 53 g"
+        }
+      ],
+      "note": "Eggs sold in shops are Class A. Class B eggs go to food manufacturing."
+    },
+    "sources": [
+      {
+        "url": "https://www.egginfo.co.uk/",
+        "publisher": "British Egg Information Service (British Egg Industry Council)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.food.gov.uk/",
+        "publisher": "UK Food Standards Agency",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "publisher": "UK Department for Environment, Food and Rural Affairs",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "size-us",
+    "type": "size-classes",
+    "name": "US egg sizes (USDA)",
+    "summary": "US sizes are set by the minimum net weight per dozen eggs, not by the size of a single egg.",
+    "details": {
+      "unit": "ounces per dozen (minimum)",
+      "classes": [
+        {
+          "size": "Jumbo",
+          "min_oz_per_dozen": 30
+        },
+        {
+          "size": "Extra Large",
+          "min_oz_per_dozen": 27
+        },
+        {
+          "size": "Large",
+          "min_oz_per_dozen": 24
+        },
+        {
+          "size": "Medium",
+          "min_oz_per_dozen": 21
+        },
+        {
+          "size": "Small",
+          "min_oz_per_dozen": 18
+        },
+        {
+          "size": "Peewee",
+          "min_oz_per_dozen": 15
+        }
+      ],
+      "note": "Size is separate from quality grade. USDA quality grades are AA, A and B, based on shell, air cell, white and yolk."
+    },
+    "sources": [
+      {
+        "url": "https://www.ams.usda.gov/",
+        "publisher": "USDA Agricultural Marketing Service",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+        "publisher": "USDA Food Safety and Inspection Service",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "washed-vs-unwashed",
+    "type": "storage",
+    "name": "Washed vs unwashed eggs (US vs UK and EU)",
+    "summary": "The US and the UK and EU handle eggs in opposite ways, which is why US eggs are always refrigerated and UK and EU shop eggs often are not.",
+    "details": {
+      "us": "Commercial US eggs must be washed and sanitised, which removes the protective cuticle. They must then be kept refrigerated, at 45 F (7 C) or below by regulation, and USDA advises home storage at 40 F (4 C) or below. USDA says refrigerated raw shell eggs keep for about 3 to 5 weeks.",
+      "uk_eu": "Class A eggs in the UK and EU must not be washed, so the cuticle stays in place. UK hens under the British Lion scheme are vaccinated against Salmonella. Shop eggs are often sold unrefrigerated, but the UK Food Standards Agency advises storing eggs in the fridge at home.",
+      "backyard": [
+        "Unwashed clean eggs keep their bloom. Refrigeration still makes them last longer.",
+        "Once an egg has been refrigerated, keep it cold. Taking cold eggs to room temperature causes condensation, which can help bacteria pass through the shell.",
+        "If a dirty egg must be washed, use water warmer than the egg (never cold water, which can pull bacteria in), dry it, and refrigerate it.",
+        "Collect eggs at least daily and keep nest boxes clean to reduce dirty eggs."
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+        "publisher": "USDA Food Safety and Inspection Service",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.food.gov.uk/",
+        "publisher": "UK Food Standards Agency",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.egginfo.co.uk/",
+        "publisher": "British Egg Information Service (British Egg Industry Council)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.cdc.gov/",
+        "publisher": "US Centers for Disease Control and Prevention (backyard poultry guidance)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  }
+]

@@ -1,0 +1,756 @@
+[
+  {
+    "id": "brooder-temp-week-1",
+    "topic": "Brooder temperature, week 1",
+    "value_text": "90 to 95 F (32 to 35 C) at chick height under the heat source",
+    "min": 90,
+    "max": 95,
+    "unit": "degrees F",
+    "applies_to": "chicks",
+    "notes": "Start at the top of this range for day-old chicks. Watch the chicks: huddled under the heat and peeping loudly means too cold, spread far away and panting means too hot. Give a cooler area so chicks can move away from the heat.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "brooder-temp-week-2",
+    "topic": "Brooder temperature, week 2",
+    "value_text": "85 to 90 F (29 to 32 C) at chick height under the heat source",
+    "min": 85,
+    "max": 90,
+    "unit": "degrees F",
+    "applies_to": "chicks",
+    "notes": "Lower by about 5 F (3 C) a week. Watch the chicks: huddled under the heat and peeping loudly means too cold, spread far away and panting means too hot. Give a cooler area so chicks can move away from the heat.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "brooder-temp-week-3",
+    "topic": "Brooder temperature, week 3",
+    "value_text": "80 to 85 F (27 to 29 C) at chick height under the heat source",
+    "min": 80,
+    "max": 85,
+    "unit": "degrees F",
+    "applies_to": "chicks",
+    "notes": "Chicks start growing feathers and need less heat. Watch the chicks: huddled under the heat and peeping loudly means too cold, spread far away and panting means too hot. Give a cooler area so chicks can move away from the heat.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "brooder-temp-week-4",
+    "topic": "Brooder temperature, week 4",
+    "value_text": "75 to 80 F (24 to 27 C) at chick height under the heat source",
+    "min": 75,
+    "max": 80,
+    "unit": "degrees F",
+    "applies_to": "chicks",
+    "notes": "Keep lowering by about 5 F a week. Watch the chicks: huddled under the heat and peeping loudly means too cold, spread far away and panting means too hot. Give a cooler area so chicks can move away from the heat.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "brooder-temp-week-5",
+    "topic": "Brooder temperature, week 5",
+    "value_text": "70 to 75 F (21 to 24 C) at chick height under the heat source",
+    "min": 70,
+    "max": 75,
+    "unit": "degrees F",
+    "applies_to": "chicks",
+    "notes": "Well-feathered chicks may need only a little heat. Watch the chicks: huddled under the heat and peeping loudly means too cold, spread far away and panting means too hot. Give a cooler area so chicks can move away from the heat.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "brooder-temp-week-6",
+    "topic": "Brooder temperature, week 6",
+    "value_text": "65 to 70 F (18 to 21 C) at chick height under the heat source",
+    "min": 65,
+    "max": 70,
+    "unit": "degrees F",
+    "applies_to": "chicks",
+    "notes": "Once fully feathered, usually about 6 weeks, chicks can manage without heat if the weather is mild. Move them out gradually. Watch the chicks: huddled under the heat and peeping loudly means too cold, spread far away and panting means too hot. Give a cooler area so chicks can move away from the heat.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "coop-floor-space-bantam",
+    "topic": "Coop floor space per bantam",
+    "value_text": "About 2 square feet (about 0.2 square metres) per bantam, with a run",
+    "min": 1.5,
+    "max": 2,
+    "unit": "sq ft per bird",
+    "applies_to": "bantam chickens",
+    "notes": "Give more if bantams are confined for long periods.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "coop-floor-space-standard",
+    "topic": "Coop floor space per standard bird",
+    "value_text": "3 to 4 square feet (about 0.3 to 0.4 square metres) per bird, when birds also have an outdoor run",
+    "min": 3,
+    "max": 4,
+    "unit": "sq ft per bird",
+    "applies_to": "standard (large fowl) chickens",
+    "notes": "Allow more, around 7 to 10 square feet per bird, if birds are shut in for long periods in winter or have no run. Crowding raises pecking and disease.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "feed-per-hen-per-day",
+    "topic": "Feed eaten per hen per day",
+    "value_text": "About 1/4 pound (roughly 100 to 130 grams) of complete feed per standard laying hen per day",
+    "min": 100,
+    "max": 130,
+    "unit": "grams per hen per day",
+    "applies_to": "standard laying hens",
+    "notes": "Birds eat more in cold weather and when laying heavily, and less in hot weather. Bantams eat roughly half. Treats should not be more than about 10% of the total.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umd.edu/",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "feeder-space",
+    "topic": "Feeder space per bird",
+    "value_text": "About 3 to 4 inches (8 to 10 cm) of trough feeder space per adult bird",
+    "min": 3,
+    "max": 4,
+    "unit": "inches per bird",
+    "applies_to": "adult chickens",
+    "notes": "Chicks need about 1 inch each. With round hanging feeders, the goal is that most birds can eat at once. Hang feeders at about the height of the birds' backs to cut waste.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "grit",
+    "topic": "Grit",
+    "value_text": "Offer insoluble grit (crushed granite) free choice to any birds that eat anything besides complete feed",
+    "min": null,
+    "max": null,
+    "unit": "free choice",
+    "applies_to": "all chickens eating treats or forage",
+    "notes": "Chickens have no teeth and use grit in the gizzard to grind food. Birds on complete feed only do not strictly need it. Free-range birds pick up some grit naturally. Use chick-size grit for chicks given anything other than starter feed. Grit is not the same as oyster shell.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "grower-feed-protein",
+    "topic": "Grower feed protein",
+    "value_text": "About 15 to 18% protein, from about 6 to 8 weeks until laying starts",
+    "min": 15,
+    "max": 18,
+    "unit": "percent protein",
+    "applies_to": "pullets and young birds",
+    "notes": "Many brands sell a combined starter-grower feed used until point of lay. Switch to layer feed at about 16 to 20 weeks or when the first egg appears.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "layer-feed-calcium",
+    "topic": "Layer feed calcium",
+    "value_text": "About 3.5 to 4.5% calcium",
+    "min": 3.5,
+    "max": 4.5,
+    "unit": "percent calcium",
+    "applies_to": "laying hens",
+    "notes": "Growing chicks need only about 1% calcium. Feeding layer feed to chicks can damage their kidneys. Always check the feed tag.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "layer-feed-protein",
+    "topic": "Layer feed protein",
+    "value_text": "About 16% protein, typical range 15 to 18%",
+    "min": 15,
+    "max": 18,
+    "unit": "percent protein",
+    "applies_to": "laying hens",
+    "notes": "Some keepers switch to a higher-protein all-flock feed during moult and give oyster shell on the side.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "lighting-for-laying",
+    "topic": "Day length for laying",
+    "value_text": "About 14 to 16 hours of light a day keeps hens laying well",
+    "min": 14,
+    "max": 16,
+    "unit": "hours of light per day",
+    "applies_to": "laying hens",
+    "notes": "Laying slows or stops when days fall below about 12 to 14 hours. Added light is optional. If used, add it in the early morning so birds go to roost at natural dusk, and increase it gradually. Many keepers let hens rest in winter.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "nest-box-size",
+    "topic": "Nest box size",
+    "value_text": "About 12 x 12 x 12 inches (30 cm cube) for standard hens",
+    "min": 12,
+    "max": 14,
+    "unit": "inches (each side)",
+    "applies_to": "standard (large fowl) hens",
+    "notes": "Large breeds such as Brahmas and Jersey Giants need about 14 inches. Bantams manage with about 10 inches. Put boxes lower than the roosts, in a dim spot.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "nest-boxes-per-hen",
+    "topic": "Nest boxes per hen",
+    "value_text": "1 nest box for every 4 to 5 hens",
+    "min": 4,
+    "max": 5,
+    "unit": "hens per box",
+    "applies_to": "laying hens",
+    "notes": "Hens often all choose the same favourite box, so a few extra boxes do not hurt.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "oyster-shell",
+    "topic": "Oyster shell",
+    "value_text": "Offer crushed oyster shell free choice in a separate dish for laying hens",
+    "min": null,
+    "max": null,
+    "unit": "free choice",
+    "applies_to": "laying hens",
+    "notes": "Layer feed already contains calcium, but hens vary in need. Keep it in its own dish so non-laying birds are not forced to eat extra calcium. Not for chicks or growers.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "roost-height",
+    "topic": "Roost height",
+    "value_text": "About 2 to 4 feet (60 to 120 cm) off the floor, higher than the nest boxes",
+    "min": 2,
+    "max": 4,
+    "unit": "feet",
+    "applies_to": "all chickens",
+    "notes": "Keep roosts higher than nest boxes or birds may sleep in the boxes. Heavy breeds do better with lower roosts or a ladder. If using several bars, space them about 12 inches (30 cm) apart and set them at the same height to reduce squabbling.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "roost-length-per-bird",
+    "topic": "Roost length per bird",
+    "value_text": "8 to 10 inches (20 to 25 cm) of perch per standard bird",
+    "min": 8,
+    "max": 10,
+    "unit": "inches per bird",
+    "applies_to": "standard (large fowl) chickens",
+    "notes": "Bantams need about 6 to 8 inches. Birds huddle closer in winter and spread out in summer.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "roost-width",
+    "topic": "Roost bar width",
+    "value_text": "A bar 2 to 4 inches (5 to 10 cm) wide, such as a 2x4 with the wide side up",
+    "min": 2,
+    "max": 4,
+    "unit": "inches",
+    "applies_to": "all chickens",
+    "notes": "A wide flat perch lets birds cover their toes with their bodies in cold weather, which helps prevent frostbite.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "run-space-standard",
+    "topic": "Outdoor run space per bird",
+    "value_text": "At least 8 to 10 square feet (about 0.75 to 1 square metre) per standard bird",
+    "min": 8,
+    "max": 10,
+    "unit": "sq ft per bird",
+    "applies_to": "standard (large fowl) chickens",
+    "notes": "More space is always better. Bantams can manage with roughly half. Small runs turn to bare mud quickly, so moveable or rotated runs help.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "starter-feed-protein",
+    "topic": "Chick starter protein",
+    "value_text": "About 18 to 20% protein for egg-laying breeds",
+    "min": 18,
+    "max": 20,
+    "unit": "percent protein",
+    "applies_to": "chicks, 0 to about 6 to 8 weeks",
+    "notes": "Meat breeds such as Cornish Cross often get 20 to 24%. Medicated starter (usually amprolium) helps prevent coccidiosis. Vaccinated chicks may not need it.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "ventilation",
+    "topic": "Coop ventilation",
+    "value_text": "Commonly about 1 square foot of vent per 10 square feet of floor, placed high up near the roof",
+    "min": 1,
+    "max": 1,
+    "unit": "sq ft of vent per 10 sq ft of floor",
+    "applies_to": "all coops",
+    "notes": "Guidance varies between sources. Some suggest about 1 square foot per bird. Vents should be high, above roost level, so fresh air moves without draughts on roosting birds. Condensation, ammonia smell or frost inside the coop means more ventilation is needed. Cover vents with 1/2 inch welded mesh.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "water-per-hen-per-day",
+    "topic": "Water drunk per hen per day",
+    "value_text": "Roughly 1/2 pint to 1 pint (about 250 to 500 ml) per hen per day, and more in hot weather",
+    "min": 250,
+    "max": 500,
+    "unit": "ml per hen per day",
+    "applies_to": "standard laying hens",
+    "notes": "Birds drink about twice as much water as feed by weight. Intake can double in hot weather. Eggs are mostly water, so even a short lack of water can stop laying.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umd.edu/",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "waterer-space",
+    "topic": "Waterer space per bird",
+    "value_text": "About 1 inch (2.5 cm) of drinking space per bird, or one nipple drinker for every 3 to 5 birds",
+    "min": 1,
+    "max": 1,
+    "unit": "inches per bird",
+    "applies_to": "adult chickens",
+    "notes": "Provide at least two water points so a bossy bird cannot block access. Check water at least daily and more in hot weather.",
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  }
+]

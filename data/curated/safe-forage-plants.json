@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "alfalfa",
+    "name": "Alfalfa (lucerne)",
+    "scientific_name": "Medicago sativa",
+    "type": "legume",
+    "edible_parts": [
+      "leaves",
+      "young shoots",
+      "flowers"
+    ],
+    "benefits": [
+      "High in protein for a green.",
+      "Rich in pigments that deepen yolk colour."
+    ],
+    "cautions": [
+      "Long stems in hay can cause crop impaction."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "amaranth",
+    "name": "Amaranth",
+    "scientific_name": "Amaranthus spp.",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "seed heads"
+    ],
+    "benefits": [
+      "Leaves and seeds are both eaten."
+    ],
+    "cautions": [
+      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day.",
+      "Can build up nitrates when grown on heavily fertilised ground. Only a concern in large amounts."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "scientific_name": "Ocimum basilicum",
+    "type": "herb",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Aromatic garden herb, well liked."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "blackberry-bramble",
+    "name": "Blackberry bramble",
+    "scientific_name": "Rubus fruticosus agg.",
+    "type": "tree-shrub",
+    "edible_parts": [
+      "berries",
+      "leaves"
+    ],
+    "benefits": [
+      "Berries in late summer.",
+      "Thickets give shelter from hawks."
+    ],
+    "cautions": [
+      "Thorns can snag feathers and eyes."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "borage",
+    "name": "Borage",
+    "scientific_name": "Borago officinalis",
+    "type": "herb",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Attracts pollinators and insects for birds to catch."
+    ],
+    "cautions": [
+      "Contains small amounts of pyrrolizidine alkaloids. Best as an occasional nibble, not a main green."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "calendula",
+    "name": "Calendula (pot marigold)",
+    "scientific_name": "Calendula officinalis",
+    "type": "herb",
+    "edible_parts": [
+      "petals",
+      "leaves"
+    ],
+    "benefits": [
+      "Petals add colour to yolks."
+    ],
+    "cautions": [
+      "Not the same as French or African marigolds (Tagetes), which are less palatable."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "chickweed",
+    "name": "Chickweed",
+    "scientific_name": "Stellaria media",
+    "type": "weed",
+    "edible_parts": [
+      "whole plant"
+    ],
+    "benefits": [
+      "Soft, easy to eat and a favourite in cool seasons."
+    ],
+    "cautions": [
+      "Scarlet pimpernel, a mildly toxic lookalike with orange-red flowers, can grow alongside it."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "chicory",
+    "name": "Chicory",
+    "scientific_name": "Cichorium intybus",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers",
+      "roots"
+    ],
+    "benefits": [
+      "Deep rooted, stays green in dry weather.",
+      "Used in pasture mixes for poultry and livestock."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro (coriander)",
+    "scientific_name": "Coriandrum sativum",
+    "type": "herb",
+    "edible_parts": [
+      "leaves",
+      "stems",
+      "seeds"
+    ],
+    "benefits": [
+      "Well liked."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "cleavers",
+    "name": "Cleavers (goosegrass)",
+    "scientific_name": "Galium aparine",
+    "type": "weed",
+    "edible_parts": [
+      "young leaves and stems"
+    ],
+    "benefits": [
+      "Early spring green. Traditionally fed to geese and poultry."
+    ],
+    "cautions": [
+      "Sticky mature stems can tangle. Offer young growth."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "dandelion",
+    "name": "Dandelion",
+    "scientific_name": "Taraxacum officinale",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers",
+      "roots"
+    ],
+    "benefits": [
+      "Rich in vitamins A and K.",
+      "Flowers add yolk colour."
+    ],
+    "cautions": [
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "dead-nettle",
+    "name": "Purple dead nettle",
+    "scientific_name": "Lamium purpureum",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Early spring forage. Does not sting."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "dill",
+    "name": "Dill",
+    "scientific_name": "Anethum graveolens",
+    "type": "herb",
+    "edible_parts": [
+      "fronds",
+      "seeds"
+    ],
+    "benefits": [
+      "Well liked."
+    ],
+    "cautions": [
+      "Wild carrot-family lookalikes include deadly poison hemlock. Only feed dill you grew or bought."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "duckweed",
+    "name": "Duckweed",
+    "scientific_name": "Lemna spp.",
+    "type": "weed",
+    "edible_parts": [
+      "whole plant"
+    ],
+    "benefits": [
+      "High in protein.",
+      "Easy to grow in a tub."
+    ],
+    "cautions": [
+      "Collect from clean water only."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "fennel",
+    "name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "type": "herb",
+    "edible_parts": [
+      "fronds",
+      "seeds",
+      "bulb"
+    ],
+    "benefits": [
+      "Aromatic, well liked."
+    ],
+    "cautions": [
+      "Carrot-family lookalikes include poison hemlock. Only feed plants you can identify."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "grass-short",
+    "name": "Grass (short, fresh)",
+    "scientific_name": "Poaceae (lawn and pasture grasses)",
+    "type": "grass",
+    "edible_parts": [
+      "young leaf blades",
+      "seed heads"
+    ],
+    "benefits": [
+      "The base of free-range forage.",
+      "Gives yolks a deeper colour."
+    ],
+    "cautions": [
+      "Long grass and clippings can ball up in the crop.",
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "henbit",
+    "name": "Henbit",
+    "scientific_name": "Lamium amplexicaule",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Common early spring weed chickens eat readily."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "kale",
+    "name": "Kale",
+    "scientific_name": "Brassica oleracea (Acephala group)",
+    "type": "vegetable-crop",
+    "edible_parts": [
+      "leaves"
+    ],
+    "benefits": [
+      "Hardy winter green, rich in vitamins and calcium."
+    ],
+    "cautions": [
+      "Cabbage-family goitrogens only matter in very large amounts."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "lambs-quarters",
+    "name": "Lamb's quarters (fat hen)",
+    "scientific_name": "Chenopodium album",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "seeds"
+    ],
+    "benefits": [
+      "Nutritious leaves and plenty of seed."
+    ],
+    "cautions": [
+      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day.",
+      "Can build up nitrates when grown on heavily fertilised ground. Only a concern in large amounts."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "lemon-balm",
+    "name": "Lemon balm",
+    "scientific_name": "Melissa officinalis",
+    "type": "herb",
+    "edible_parts": [
+      "leaves"
+    ],
+    "benefits": [
+      "Aromatic. Often used in nest boxes."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "mallow",
+    "name": "Common mallow",
+    "scientific_name": "Malva sylvestris, Malva neglecta",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers",
+      "seeds"
+    ],
+    "benefits": [
+      "Soft leaves and plenty of seed."
+    ],
+    "cautions": [
+      "Can build up nitrates when grown on heavily fertilised ground. Only a concern in large amounts."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "scientific_name": "Mentha spp.",
+    "type": "herb",
+    "edible_parts": [
+      "leaves"
+    ],
+    "benefits": [
+      "Hardy herb. Often hung in coops or nest boxes."
+    ],
+    "cautions": [
+      "Spreads fast in beds."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "mulberry-leaves",
+    "name": "Mulberry leaves and fruit",
+    "scientific_name": "Morus spp.",
+    "type": "tree-shrub",
+    "edible_parts": [
+      "leaves",
+      "ripe fruit"
+    ],
+    "benefits": [
+      "Leaves are a traditional livestock fodder.",
+      "Fallen fruit is a summer treat."
+    ],
+    "cautions": [
+      "Unripe fruit and milky sap can upset the gut in quantity."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "mustard-greens",
+    "name": "Mustard greens",
+    "scientific_name": "Brassica juncea",
+    "type": "vegetable-crop",
+    "edible_parts": [
+      "leaves",
+      "seeds"
+    ],
+    "benefits": [
+      "Fast-growing cover crop for runs."
+    ],
+    "cautions": [
+      "Cabbage-family goitrogens only matter in very large amounts."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "nasturtium",
+    "name": "Nasturtium",
+    "scientific_name": "Tropaeolum majus",
+    "type": "herb",
+    "edible_parts": [
+      "leaves",
+      "flowers",
+      "seeds"
+    ],
+    "benefits": [
+      "Peppery leaves and flowers are eaten readily."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "scientific_name": "Origanum vulgare",
+    "type": "herb",
+    "edible_parts": [
+      "leaves"
+    ],
+    "benefits": [
+      "Hardy perennial herb."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "type": "herb",
+    "edible_parts": [
+      "leaves",
+      "stems"
+    ],
+    "benefits": [
+      "Rich in vitamins."
+    ],
+    "cautions": [
+      "Feed in normal treat amounts."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "plantain-broadleaf",
+    "name": "Broadleaf plantain",
+    "scientific_name": "Plantago major",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "seed spikes"
+    ],
+    "benefits": [
+      "Very common lawn weed, eaten readily."
+    ],
+    "cautions": [
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "plantain-ribwort",
+    "name": "Ribwort plantain",
+    "scientific_name": "Plantago lanceolata",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "seed spikes"
+    ],
+    "benefits": [
+      "Included in some pasture seed mixes."
+    ],
+    "cautions": [
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "purslane",
+    "name": "Purslane",
+    "scientific_name": "Portulaca oleracea",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "stems"
+    ],
+    "benefits": [
+      "Succulent, stays green in heat.",
+      "Source of omega-3 fatty acids."
+    ],
+    "cautions": [
+      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "red-clover",
+    "name": "Red clover",
+    "scientific_name": "Trifolium pratense",
+    "type": "legume",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Protein-rich legume forage."
+    ],
+    "cautions": [
+      "Mouldy clover hay can cause bleeding problems in livestock. Feed fresh."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "shepherds-purse",
+    "name": "Shepherd's purse",
+    "scientific_name": "Capsella bursa-pastoris",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "seed pods"
+    ],
+    "benefits": [
+      "Common weed with plenty of small seeds."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "sow-thistle",
+    "name": "Sow thistle",
+    "scientific_name": "Sonchus oleraceus",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Soft, spineless thistle relative that chickens eat readily."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "stinging-nettle",
+    "name": "Stinging nettle",
+    "scientific_name": "Urtica dioica",
+    "type": "weed",
+    "edible_parts": [
+      "young tips",
+      "wilted or dried leaves"
+    ],
+    "benefits": [
+      "Very nutritious once the sting is gone."
+    ],
+    "cautions": [
+      "Wilt or dry it first to remove the sting."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "scientific_name": "Helianthus annuus",
+    "type": "vegetable-crop",
+    "edible_parts": [
+      "seeds",
+      "leaves",
+      "petals"
+    ],
+    "benefits": [
+      "Dried seed heads are good winter enrichment.",
+      "Tall plants give shade and cover."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "swiss-chard",
+    "name": "Swiss chard",
+    "scientific_name": "Beta vulgaris subsp. vulgaris",
+    "type": "vegetable-crop",
+    "edible_parts": [
+      "leaves",
+      "stems"
+    ],
+    "benefits": [
+      "Productive garden green."
+    ],
+    "cautions": [
+      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "scientific_name": "Thymus vulgaris",
+    "type": "herb",
+    "edible_parts": [
+      "leaves"
+    ],
+    "benefits": [
+      "Hardy herb."
+    ],
+    "cautions": [],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "violet",
+    "name": "Wild violet",
+    "scientific_name": "Viola spp.",
+    "type": "weed",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Common shade weed, edible leaves and flowers."
+    ],
+    "cautions": [
+      "Do not confuse with African violet, a houseplant, or with unrelated plants called violets."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "white-clover",
+    "name": "White clover",
+    "scientific_name": "Trifolium repens",
+    "type": "legume",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Low-growing legume that survives scratching. Good for run edges."
+    ],
+    "cautions": [
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "wild-strawberry",
+    "name": "Wild strawberry",
+    "scientific_name": "Fragaria vesca",
+    "type": "weed",
+    "edible_parts": [
+      "berries",
+      "leaves"
+    ],
+    "benefits": [
+      "Berries and leaves are both eaten."
+    ],
+    "cautions": [
+      "Mock strawberry (Potentilla indica) is a lookalike. It is not toxic but tasteless."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "yarrow",
+    "name": "Yarrow",
+    "scientific_name": "Achillea millefolium",
+    "type": "herb",
+    "edible_parts": [
+      "leaves",
+      "flowers"
+    ],
+    "benefits": [
+      "Popular in nest boxes for its scent."
+    ],
+    "cautions": [
+      "Large amounts are bitter and are reported as mildly toxic to some livestock. Chickens nibble it rather than eat it in bulk."
+    ],
+    "sources": [
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  }
+]

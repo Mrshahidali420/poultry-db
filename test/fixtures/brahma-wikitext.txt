@@ -1,0 +1,83 @@
+{{short description|American breed of chicken}}
+{{infobox poultry breed
+| name          = Brahma
+| image         = Brahmahahn (cropped).png
+| image_size    =
+| alt           = 
+| image_caption = Light, male
+| status        = 
+| altname       = {{unbulleted list|Brahma Pootra|Burnham|Gray Chittagong|Shanghai}}
+| country       = United States
+| distribution  =
+| standard      =
+| use           = 
+| nickname      =
+| apa           = Asiatic{{r|apa}}
+| aba           = feather legged
+| ee            = yes{{r|ee}}
+| pcgb          = soft feather: heavy{{r|pcgb}}
+| maleweight    = 5.5 kg 
+| femaleweight  = 4.5 kg
+| skincolor     = 
+| eggcolor      = brown
+| comb          = pea
+| note          = 
+| type          = [[Chicken]]
+| latin         = Gallus gallus domesticus
+}}
+
+The '''Brahma''' is an American [[list of chicken breeds|breed]] of [[chicken]]. It is believed that it was first bred in the United States from birds imported from the Chinese port of [[Shanghai]],{{r|roberts|page=78}} and was the principal American meat breed from the 1850s until about 1930.{{r|albc}}
+
+== History ==
+[[File:Tab03 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg|thumb|Light cock and hen, illustration from  Jean Bungartz, {{lang|de|Geflügel-Album}}, 1885]]
+[[File:Tab04 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg|thumb|Dark cock and hen, illustration from  Jean Bungartz, {{lang|de|Geflügel-Album}}, 1885]]
+There has been controversy and confusion over the origin of the Brahma. It appears to have developed in the United States from large birds, with heavily feathered legs, imported in the 1840s from the Chinese port of [[Shanghai]], and thus known as "Shanghai" birds.{{r|roberts|page=78}} The distinctive head shape and [[pea comb]] of the Brahma probably result from [[cross-breeding]] with Grey Chittagong birds of [[Malay (chicken)|Malay]] type, imported from [[Chittagong]] in eastern [[Bengal]] (now [[Bangladesh]]); these characteristics distinguish the Brahma from the [[Cochin (chicken)|Cochin]], which also derives from "Shanghai" birds.{{r|albc}} 
+
+At first there were many different strains and at least a dozen different names for the breed.{{r|roberts|page=78|albc}} At a meeting of poultry judges in [[Boston]] in 1852, agreement was reached to name it "[[Brahmaputra River|Brahmapootra]]"; this later became "Brahma".{{r|roberts|page=78}}
+
+Brahmas were first exported to England in December 1852, when George Burnham sent nine "Gray Shanghaes" to [[Queen Victoria]] as a gift.{{r|burnham|page=71}} The Dark Brahma variety was developed by English breeders from this stock, and later re-exported to the United States.{{r|albc}} Both the light and the dark (pencilled) Brahma were included in the first [[British Poultry Standard|''Standard of Excellence'']], published by the original [[Poultry Club of Great Britain]] in 1865.{{r|roberts|page=78}} Both were included in the first ''[[Standard of Perfection]]'' of the [[American Poultry Association]], published in 1874;{{r|albc}} the buff variant was added in 1924{{r|albc}} or 1929.{{r|ars}}
+
+The Brahma was the principal meat breed in the United States from the 1850s until about 1930. Some birds were very large: weights of about {{cvt|8|kg}} for cocks and {{cvt|6|kg}} for hens were recorded.{{r|albc}}
+
+== Characteristics ==
+
+Three [[List of chicken colours|color varieties]] are recognised in the American ''Standard of Perfection'': light, dark, and buff. The light Brahma has a base color of white, with black [[list of chicken feathers|hackles]] edged in white and a black tail; the saddle-feathers of the cock are striped with black. The dark Brahma has the most notable [[sexual dimorphism|difference between cock and hen]]: the hen has a dark gray and black penciled coloration with the same hackle as the light, whereas the cock has black and white hackles and saddle feathers, and a black base and tail; the wings are white-shouldered, and the [[remiges|primary feathers]] are edged with white. The Buff Brahma has the same pattern of black as the light, but with a golden buff base color instead of white.{{r|ars}}
+
+The [[Australian Poultry Association]] has accepted black, blue, partridge, {{not a typo|crele}} and barred varieties of Brahma in addition to the standard light, dark, and buff.{{cn|date=July 2013}}
+
+Weight averages about {{cvt|5.5|kg}} for cocks and {{cvt|4.5|kg|0}} for hens.{{r|albc}}
+
+== Use ==
+
+The Brahma was an important meat breed in the United States from the 1850s until about 1930.{{r|albc}} It is a good winter layer of large brown eggs,{{r|albc}} which weigh approximately {{val|55|–|60|u=g}}.{{r|cyril}}
+<gallery mode=packed heights=160px style="text-align:left; font-size:93%">
+File:Dark Brahma hen, Oregon (cropped).jpg |Dark hen
+File:Brahma chicken.JPG|The buff
+File:Buff Brahma bantam at poultry show.jpg|Buff [[Bantam (chicken)|bantam]]
+</gallery>
+
+== References ==
+{{commonscat}}
+<references>
+
+<ref name=albc>[http://albc-usa.org/cpl/brahma.html Brahma Chicken]. The Livestock Conservancy. Accessed December 2018.</ref>
+
+<ref name=apa>[https://web.archive.org/web/20171104135004/http://www.amerpoultryassn.com/PDF%20Forms/APA%20Recognized%20Breeds%20and%20Varieties%20Sept2012.pdf APA Recognized Breeds and Varieties: As of January 1, 2012]. American Poultry Association. Archived 4 November 2017.</ref>
+
+<ref name=ars>[s.n.] (1954). [https://books.google.com/books?id=b1ObBDdoz1IC&pg=PA15 ''Breeds of Chickens For Meat and Egg Production'']. ''Farmers' Bulletin'' 2065. Washington, D.C.: United States Department of Agriculture. Pages 14–15.</ref>
+
+<ref name=burnham>George Pickering Burnham (1874). [https://www.biodiversitylibrary.org/item/82246#page/75/mode/1up ''The China Fowl: Shanghae, Cochin, and "Brahma"'']. Melrose, Massachusetts: Rand, Avery and Co.</ref>
+
+<ref name=cyril>Cyril Hrnčár, Monika Hässlerová, Jozef Bujko (2013). [http://spasb.ro/index.php/spasb/article/download/114/38 The Effect of Oviposition Time on Egg Quality Parameters in Brown Leghorn, Oravka and Brahma Hens]. ''Scientific Papers: Animal Science and Biotechnologies'' '''46''' (1).</ref>
+
+<ref name=ee>[https://web.archive.org/web/20130616062803/http://www.entente-ee.com/deutsch/sparten/gefluegel/dateien/2013/Verzeichnis%20R%20F%2028042013.xls Liste des races et variétés homologuée dans les pays EE (28.04.2013)]. Entente Européenne d’Aviculture et de Cuniculture. Archived 16 June 2013.</ref>
+
+<ref name=pcgb>[https://web.archive.org/web/20180612143235/http://www.poultryclub.org/img/Breed%20Classification.pdf Breed Classification]. Poultry Club of Great Britain. Archived 12 June 2018.</ref>
+
+<ref name=roberts>Victoria Roberts (2008). [https://books.google.com/books?id=nAfyUHY42u0C ''British poultry standards: complete specifications and judging points of all standardized breeds and varieties of poultry as compiled by the specialist breed clubs and recognised by the Poultry Club of Great Britain'']. Oxford: Blackwell. {{ISBN|9781405156424}}.</ref>
+
+</references>
+
+{{Chicken breeds of the United States}}
+[[Category:Chicken breeds]]
+[[Category:Chicken breeds originating in India]]

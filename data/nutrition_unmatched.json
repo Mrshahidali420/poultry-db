@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bok-choy",
+    "name": "bok choy",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "bugs",
+    "name": "bugs",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "cashews",
+    "name": "cashews",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "clover",
+    "name": "clover",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "cockroaches",
+    "name": "cockroaches",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "cucumbers",
+    "name": "cucumbers",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "dandelions",
+    "name": "dandelions",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "grasshoppers",
+    "name": "grasshoppers",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "jalapenos",
+    "name": "jalapenos",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "pistachios",
+    "name": "pistachios",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "stink-bugs",
+    "name": "stink bugs",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "weeds",
+    "name": "weeds",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  },
+  {
+    "id": "worms",
+    "name": "worms",
+    "reason": "no_confident_match",
+    "best_score": 0.15
+  }
+]

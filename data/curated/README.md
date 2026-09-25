@@ -1,0 +1,61 @@
+# Curated reference data
+
+Hand-written animal-health and care facts for the backyard chicken site. These
+files feed published pages, so accuracy matters more than volume. Every file is
+a JSON array, sorted by `id` (kebab-case, unique), pretty-printed.
+
+## Files
+
+| File | Records | What it holds |
+|---|---|---|
+| `food-safety.json` | 193 | One record per food from `niche-research/12-chicken-food-pages.md` (variants such as peels, seeds, rinds, skins, cooked/raw are `parts`, not separate records). Verdict, reason, per-part verdicts, toxic compounds, preparation, serving guidance, benefits, chick safety. |
+| `toxic-plants.json` | 53 | Garden plants and weeds harmful to chickens: toxic parts, compound, severity, signs, notes. |
+| `safe-forage-plants.json` | 41 | Common safe greens, weeds and herbs chickens forage: edible parts, benefits, cautions. |
+| `predators.json` | 22 | US and UK chicken predators: region, active time, attack signs (how to tell who did it), what they take, prevention. |
+| `incubation.json` | 10 | Incubation days, forced-air and still-air temperatures, humidity before and during lockdown, lockdown and stop-turning day per species. Temperatures and humidity are `{min, max}` ranges. |
+| `coop-specs.json` | 26 | Rules of thumb with ranges: coop, run and roost space, nest boxes, ventilation, lighting, brooder temperature by week, feeder and water space, feed and water intake, grit, oyster shell, feed protein and calcium. |
+| `egg-facts.json` | 14 | Egg colours and breeds, US and UK/EU size classes, egg anatomy, float test, washed vs unwashed storage, laying age. |
+
+## Field notes
+
+- `verdict` (foods): `safe` (fine as a regular treat), `moderation` (occasional,
+  small amounts), `limit` (rarely, a taste at most, many keepers skip it),
+  `unsafe` (do not feed). Where experts disagree, the record says so in
+  `verdict_reason` and leans to the cautious verdict.
+- `serving_guidance` never gives gram-level amounts. The rule across the site is
+  treats about 10% of the diet, complete feed about 90%.
+- `chick_safe`: `true`, `false`, `with-care` (fine for chicks over a couple of
+  weeks old with chick grit, in small pieces) or `unknown`.
+- `confidence` (`high`, `medium`, `low`) is about the fact itself, not the
+  source link.
+
+## Source policy
+
+- Sources are university and extension services, government agriculture and
+  food-safety agencies (USDA FSIS, AMS, APHIS, CDC, UK FSA, Defra, APHA),
+  veterinary references (Merck Veterinary Manual), Cornell's Plants Poisonous to
+  Livestock database, the ASPCA plant list, and poultry bodies (Poultry Club of
+  Great Britain, The Livestock Conservancy, British Egg Industry Council, British
+  Hen Welfare Trust). Wikipedia is not used.
+- Each source is `{url, publisher, source_confidence}`.
+  `source_confidence: "page"` means the URL is a specific page known to exist.
+  `"domain"` means the URL is the publisher's site root, because no deep link was
+  verified. No deep links were guessed.
+- Almost every source is currently domain-level. Before publishing, replace each
+  domain root with the specific extension or government page that supports the
+  claim, and change it to `"page"`.
+
+## needs_review
+
+`needs_review` is `true` when `confidence` is not `high` or any source is only
+domain-level. Right now that is every record, because of the domain-level
+sources. **Every `needs_review: true` record must be checked by a human before
+it is published.** Suggested order: `confidence: "low"` first, then `"medium"`,
+then any food with an `unsafe` or `limit` verdict or part, then the rest.
+
+## Rules for editing
+
+- Plain, short sentences. No em dashes.
+- No invented statistics or studies. Use ranges, not fake precision.
+- Keep ids unique and files sorted by id. Validate with
+  `node -e "JSON.parse(require('fs').readFileSync('food-safety.json','utf8'))"`.

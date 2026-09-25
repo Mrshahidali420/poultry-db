@@ -1,0 +1,1826 @@
+{
+  "breeds_extra": {
+    "alsacienne": {
+      "id": "alsacienne",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "altsteirer": {
+      "id": "altsteirer",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "amarela": {
+      "id": "amarela",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ameraucana": {
+      "id": "ameraucana",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "american-game": {
+      "id": "american-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ancona-chicken": {
+      "id": "ancona-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "appenzeller-barthuhn": {
+      "id": "appenzeller-barthuhn",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "appenzeller-spitzhauben": {
+      "id": "appenzeller-spitzhauben",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "araucana": {
+      "id": "araucana",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ardennaise": {
+      "id": "ardennaise",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "asil-chicken": {
+      "id": "asil-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "augsburger": {
+      "id": "augsburger",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "australian-game": {
+      "id": "australian-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "australian-langshan": {
+      "id": "australian-langshan",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "australian-pit-game-fowl": {
+      "id": "australian-pit-game-fowl",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "australorp": {
+      "id": "australorp",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ayam-cemani": {
+      "id": "ayam-cemani",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ayam-kampong": {
+      "id": "ayam-kampong",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ayam-kedu": {
+      "id": "ayam-kedu",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ayam-ketawa": {
+      "id": "ayam-ketawa",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barbu-danvers": {
+      "id": "barbu-danvers",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barbu-de-boitsfort": {
+      "id": "barbu-de-boitsfort",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barbu-de-grubbe": {
+      "id": "barbu-de-grubbe",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barbu-de-watermael": {
+      "id": "barbu-de-watermael",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barbu-deverberg": {
+      "id": "barbu-deverberg",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barbu-duccle": {
+      "id": "barbu-duccle",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "barnevelder": {
+      "id": "barnevelder",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bassette-li-geoise": {
+      "id": "bassette-li-geoise",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "belgian-bantam": {
+      "id": "belgian-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bergische-kr-her": {
+      "id": "bergische-kr-her",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bergische-schlotterkamm": {
+      "id": "bergische-schlotterkamm",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bianca-di-saluzzo": {
+      "id": "bianca-di-saluzzo",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bielefelder-kennhuhn": {
+      "id": "bielefelder-kennhuhn",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bionda-piemontese": {
+      "id": "bionda-piemontese",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "black-shumen": {
+      "id": "black-shumen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "blue-andalusian": {
+      "id": "blue-andalusian",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "booted-bantam": {
+      "id": "booted-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bourbonnaise-chicken": {
+      "id": "bourbonnaise-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "brabanter": {
+      "id": "brabanter",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "braekel": {
+      "id": "braekel",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "brahma-chicken": {
+      "id": "brahma-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "branca-chicken": {
+      "id": "branca-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "bresse-gauloise": {
+      "id": "bresse-gauloise",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "broiler": {
+      "id": "broiler",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "brugse-vechter": {
+      "id": "brugse-vechter",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "buckeye-chicken": {
+      "id": "buckeye-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "burmese-bantam": {
+      "id": "burmese-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "california-gray": {
+      "id": "california-gray",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "campine-chicken": {
+      "id": "campine-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "castellana-negra": {
+      "id": "castellana-negra",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "catalana": {
+      "id": "catalana",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "chantecler-chicken": {
+      "id": "chantecler-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "cochin-chicken": {
+      "id": "cochin-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "coucou-des-flandres": {
+      "id": "coucou-des-flandres",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "cr-vec-ur-chicken": {
+      "id": "cr-vec-ur-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "croad-langshan": {
+      "id": "croad-langshan",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "cubalaya": {
+      "id": "cubalaya",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "czech-gold-brindled-hen": {
+      "id": "czech-gold-brindled-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "delaware-blue-hen": {
+      "id": "delaware-blue-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "delaware-chicken": {
+      "id": "delaware-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "denizli-chicken": {
+      "id": "denizli-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "derbyshire-redcap": {
+      "id": "derbyshire-redcap",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "dominique-chicken": {
+      "id": "dominique-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "dong-tao-chicken": {
+      "id": "dong-tao-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "dorking-chicken": {
+      "id": "dorking-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "dutch-bantam": {
+      "id": "dutch-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ermellinata-di-rovigo": {
+      "id": "ermellinata-di-rovigo",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "estaires-chicken": {
+      "id": "estaires-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "euskal-oiloa": {
+      "id": "euskal-oiloa",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "faverolles-chicken": {
+      "id": "faverolles-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "fayoumi": {
+      "id": "fayoumi",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "friesian-chicken": {
+      "id": "friesian-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "frizzle-chicken-breed": {
+      "id": "frizzle-chicken-breed",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "german-langshan": {
+      "id": "german-langshan",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "giriraja": {
+      "id": "giriraja",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "golden-comet": {
+      "id": "golden-comet",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "green-legged-partridge": {
+      "id": "green-legged-partridge",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "h-chicken": {
+      "id": "h-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "hamburg-chicken": {
+      "id": "hamburg-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "houdan-chicken": {
+      "id": "houdan-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "hrvatica-chicken": {
+      "id": "hrvatica-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "icelandic-chicken": {
+      "id": "icelandic-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "indian-game-poultry": {
+      "id": "indian-game-poultry",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "iowa-blue": {
+      "id": "iowa-blue",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "isa-brown": {
+      "id": "isa-brown",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ixworth-chicken": {
+      "id": "ixworth-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "j-rh-ns": {
+      "id": "j-rh-ns",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "jangmigye": {
+      "id": "jangmigye",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "japanese-bantam": {
+      "id": "japanese-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "java-chicken": {
+      "id": "java-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "jersey-giant": {
+      "id": "jersey-giant",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "kadaknath": {
+      "id": "kadaknath",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "kokok-balenggek": {
+      "id": "kokok-balenggek",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "kosovo-longcrower": {
+      "id": "kosovo-longcrower",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "kr-per": {
+      "id": "kr-per",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "kraienkopp": {
+      "id": "kraienkopp",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "la-fl-che-chicken": {
+      "id": "la-fl-che-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "lakenvelder": {
+      "id": "lakenvelder",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "lamona": {
+      "id": "lamona",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "legbar": {
+      "id": "legbar",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "leghorn-chicken": {
+      "id": "leghorn-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "luikse-vechter": {
+      "id": "luikse-vechter",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "malay-game": {
+      "id": "malay-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "malines-chicken": {
+      "id": "malines-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "marans": {
+      "id": "marans",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "marsh-daisy-chicken": {
+      "id": "marsh-daisy-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "mericanel-della-brianza": {
+      "id": "mericanel-della-brianza",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "minorca-chicken": {
+      "id": "minorca-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "modern-game": {
+      "id": "modern-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "modern-langshan": {
+      "id": "modern-langshan",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "mugellese": {
+      "id": "mugellese",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "naked-neck": {
+      "id": "naked-neck",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "nankin-bantam": {
+      "id": "nankin-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ndio-gigante": {
+      "id": "ndio-gigante",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "new-hampshire-red": {
+      "id": "new-hampshire-red",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "niederrheiner": {
+      "id": "niederrheiner",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "norfolk-grey": {
+      "id": "norfolk-grey",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "north-holland-blue": {
+      "id": "north-holland-blue",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ohiki": {
+      "id": "ohiki",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "old-english-game": {
+      "id": "old-english-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "old-english-pheasant-fowl": {
+      "id": "old-english-pheasant-fowl",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "onagadori": {
+      "id": "onagadori",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "orloff-chicken": {
+      "id": "orloff-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "orpington-chicken": {
+      "id": "orpington-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ostfriesische-m-we": {
+      "id": "ostfriesische-m-we",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "p-poi": {
+      "id": "p-poi",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "padovana-chicken": {
+      "id": "padovana-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "pedr-s-portuguesa": {
+      "id": "pedr-s-portuguesa",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "pekin-bantam": {
+      "id": "pekin-bantam",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "penedesenca": {
+      "id": "penedesenca",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "phoenix-chicken": {
+      "id": "phoenix-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "pictave": {
+      "id": "pictave",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "pita-pinta-asturiana": {
+      "id": "pita-pinta-asturiana",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "plymouth-rock-chicken": {
+      "id": "plymouth-rock-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "polbar": {
+      "id": "polbar",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "polish-chicken": {
+      "id": "polish-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "polverara-chicken": {
+      "id": "polverara-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "potchefstroom-koekoek": {
+      "id": "potchefstroom-koekoek",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "preta-lusit-nica": {
+      "id": "preta-lusit-nica",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "pyncheon": {
+      "id": "pyncheon",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "ramelsloher": {
+      "id": "ramelsloher",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "rhode-island-red": {
+      "id": "rhode-island-red",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "rhode-island-white": {
+      "id": "rhode-island-white",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "robusta-lionata": {
+      "id": "robusta-lionata",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "robusta-maculata": {
+      "id": "robusta-maculata",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "romagnola-chicken": {
+      "id": "romagnola-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "rosecomb": {
+      "id": "rosecomb",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "rumpless-game": {
+      "id": "rumpless-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "satsumadori": {
+      "id": "satsumadori",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "schweizer-chicken": {
+      "id": "schweizer-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "scots-dumpy": {
+      "id": "scots-dumpy",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "scots-grey": {
+      "id": "scots-grey",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sebright-chicken": {
+      "id": "sebright-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sentul-chicken": {
+      "id": "sentul-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "serama": {
+      "id": "serama",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sicilian-buttercup": {
+      "id": "sicilian-buttercup",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "siciliana-chicken": {
+      "id": "siciliana-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "silkie-chicken-breed": {
+      "id": "silkie-chicken-breed",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "silverudd-blue": {
+      "id": "silverudd-blue",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "slovene-late-feathered-hen": {
+      "id": "slovene-late-feathered-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "slovenian-barred-hen": {
+      "id": "slovenian-barred-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "slovenian-brown-hen": {
+      "id": "slovenian-brown-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "slovenian-silver-hen": {
+      "id": "slovenian-silver-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sombor-kaporka": {
+      "id": "sombor-kaporka",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "stara-zagora-red": {
+      "id": "stara-zagora-red",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sulmtaler": {
+      "id": "sulmtaler",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sultan-chicken": {
+      "id": "sultan-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sumatra-chicken": {
+      "id": "sumatra-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "sussex-chicken": {
+      "id": "sussex-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "swedish-flower-hen": {
+      "id": "swedish-flower-hen",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "taiwanese-game": {
+      "id": "taiwanese-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "thai-game": {
+      "id": "thai-game",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "tiense-vechter": {
+      "id": "tiense-vechter",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "tomaru": {
+      "id": "tomaru",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "tuzo-chicken": {
+      "id": "tuzo-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "umavanka": {
+      "id": "umavanka",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "utrerana": {
+      "id": "utrerana",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "valdarnese": {
+      "id": "valdarnese",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "valdarno-chicken": {
+      "id": "valdarno-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "vanaraja": {
+      "id": "vanaraja",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "vorwerk-chicken": {
+      "id": "vorwerk-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "welsummer": {
+      "id": "welsummer",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "westf-lischer-totleger": {
+      "id": "westf-lischer-totleger",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "white-faced-black-spanish": {
+      "id": "white-faced-black-spanish",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "wyandotte-chicken": {
+      "id": "wyandotte-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "yakido": {
+      "id": "yakido",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    },
+    "yokohama-chicken": {
+      "id": "yokohama-chicken",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:19.467Z"
+    }
+  },
+  "diseases_extra": {
+    "1984-rajneeshee-bioterror-attack": {
+      "id": "1984-rajneeshee-bioterror-attack",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "2008-united-states-salmonellosis-outbreak": {
+      "id": "2008-united-states-salmonellosis-outbreak",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "2009-peanut-corporation-of-america-recall": {
+      "id": "2009-peanut-corporation-of-america-recall",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "2012-outbreak-of-salmonella": {
+      "id": "2012-outbreak-of-salmonella",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "2018-american-salmonella-outbreak": {
+      "id": "2018-american-salmonella-outbreak",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "airsacculitis": {
+      "id": "airsacculitis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "animal-health-and-welfare-act-1984": {
+      "id": "animal-health-and-welfare-act-1984",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "ascaridia-galli": {
+      "id": "ascaridia-galli",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "aspergillosis": {
+      "id": "aspergillosis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avastrovirus-2": {
+      "id": "avastrovirus-2",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-adenovirus": {
+      "id": "avian-adenovirus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-infectious-bronchitis": {
+      "id": "avian-infectious-bronchitis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-influenza": {
+      "id": "avian-influenza",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-metaavulavirus-2": {
+      "id": "avian-metaavulavirus-2",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-orthoreovirus": {
+      "id": "avian-orthoreovirus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-sarcoma-leukosis-virus": {
+      "id": "avian-sarcoma-leukosis-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "avian-veterinarian": {
+      "id": "avian-veterinarian",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "borrelia-anserina": {
+      "id": "borrelia-anserina",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "botulism": {
+      "id": "botulism",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "campylobacteriosis": {
+      "id": "campylobacteriosis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "chicken-anemia-virus": {
+      "id": "chicken-anemia-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "coccidiosis": {
+      "id": "coccidiosis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "dermanyssus-gallinae": {
+      "id": "dermanyssus-gallinae",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "derzsys-disease": {
+      "id": "derzsys-disease",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "duck-circovirus": {
+      "id": "duck-circovirus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "duck-hepatitis-b-virus": {
+      "id": "duck-hepatitis-b-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "duck-hepatitis-virus": {
+      "id": "duck-hepatitis-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "duck-plague": {
+      "id": "duck-plague",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "egg-binding": {
+      "id": "egg-binding",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "egg-drop-syndrome": {
+      "id": "egg-drop-syndrome",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "eimeria": {
+      "id": "eimeria",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "fatty-liver-hemorrhagic-syndrome": {
+      "id": "fatty-liver-hemorrhagic-syndrome",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "fowlpox": {
+      "id": "fowlpox",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "gallid-herpesvirus-1": {
+      "id": "gallid-herpesvirus-1",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "gapeworm": {
+      "id": "gapeworm",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "haemoproteus": {
+      "id": "haemoproteus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "haemoproteus-columbae": {
+      "id": "haemoproteus-columbae",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "haemoproteus-plataleae": {
+      "id": "haemoproteus-plataleae",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "histomonas": {
+      "id": "histomonas",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "histomoniasis": {
+      "id": "histomoniasis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "hock-burns": {
+      "id": "hock-burns",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "infectious-bronchitis-virus": {
+      "id": "infectious-bronchitis-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "infectious-bursal-disease": {
+      "id": "infectious-bursal-disease",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "infectious-coryza-in-chickens": {
+      "id": "infectious-coryza-in-chickens",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "leucocytozoon": {
+      "id": "leucocytozoon",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "leucocytozoon-andrewsi": {
+      "id": "leucocytozoon-andrewsi",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "mardivirus": {
+      "id": "mardivirus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "mareks-disease": {
+      "id": "mareks-disease",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "ornidazole": {
+      "id": "ornidazole",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "ornithobacterium-rhinotracheale": {
+      "id": "ornithobacterium-rhinotracheale",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "ornithonyssus-sylviarum": {
+      "id": "ornithonyssus-sylviarum",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "paratyphoid-fever": {
+      "id": "paratyphoid-fever",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "plasmodium-durae": {
+      "id": "plasmodium-durae",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "plasmodium-gallinaceum": {
+      "id": "plasmodium-gallinaceum",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "plasmodium-relictum": {
+      "id": "plasmodium-relictum",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "poultry-disease": {
+      "id": "poultry-disease",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "psittacosis": {
+      "id": "psittacosis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "pullorum-disease": {
+      "id": "pullorum-disease",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "reticuloendotheliosis-virus": {
+      "id": "reticuloendotheliosis-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "riemerella-anatipestifer": {
+      "id": "riemerella-anatipestifer",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "runting-stunting-syndrome-in-broilers": {
+      "id": "runting-stunting-syndrome-in-broilers",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "salmonellosis": {
+      "id": "salmonellosis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "salmonellosis-in-the-united-states": {
+      "id": "salmonellosis-in-the-united-states",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "spraddle-leg": {
+      "id": "spraddle-leg",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "streptococcal-infection-in-poultry": {
+      "id": "streptococcal-infection-in-poultry",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "tibial-dyschondroplasia": {
+      "id": "tibial-dyschondroplasia",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "toxoplasmosis": {
+      "id": "toxoplasmosis",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "tremovirus": {
+      "id": "tremovirus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "trichobilharzia-regenti": {
+      "id": "trichobilharzia-regenti",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "turkeypox-virus": {
+      "id": "turkeypox-virus",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "verruconis-gallopava": {
+      "id": "verruconis-gallopava",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "viral-arthritis-poultry": {
+      "id": "viral-arthritis-poultry",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    },
+    "virulent-newcastle-disease": {
+      "id": "virulent-newcastle-disease",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:43:41.827Z"
+    }
+  }
+}

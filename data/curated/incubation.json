@@ -1,0 +1,602 @@
+[
+  {
+    "id": "bantam-chicken",
+    "name": "Chicken (bantam)",
+    "incubation_days": 20,
+    "incubation_days_range": {
+      "min": 19,
+      "max": 21
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 40,
+      "max": 50
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 17,
+    "turning_stop_day": 17,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Bantam eggs are smaller and often hatch a day earlier than large fowl, so many keepers lock down on day 17 or 18.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken (large fowl)",
+    "incubation_days": 21,
+    "incubation_days_range": {
+      "min": 20,
+      "max": 22
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 40,
+      "max": 50
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 18,
+    "turning_stop_day": 18,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Some keepers run 45 to 55% humidity in dry climates or use dry hatching. Cool or old eggs may hatch a day late.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "coturnix-quail",
+    "name": "Quail (Coturnix)",
+    "incubation_days": 17,
+    "incubation_days_range": {
+      "min": 16,
+      "max": 18
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 45,
+      "max": 50
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 14,
+    "turning_stop_day": 14,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Use small egg turner rails. Chicks are tiny, so cover waterers with marbles or stones after hatch.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "duck",
+    "name": "Duck (most breeds, for example Pekin)",
+    "incubation_days": 28,
+    "incubation_days_range": {
+      "min": 26,
+      "max": 29
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 50,
+      "max": 60
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 25,
+    "turning_stop_day": 25,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Many keepers mist or cool duck eggs once a day from about the second week, but this is not required in all incubators.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "goose",
+    "name": "Goose",
+    "incubation_days": 30,
+    "incubation_days_range": {
+      "min": 28,
+      "max": 35
+    },
+    "temp_forced_air_c": {
+      "min": 37.2,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 37.8,
+      "max": 38.6
+    },
+    "temp_still_air_f": {
+      "min": 100,
+      "max": 101.5
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 50,
+      "max": 55
+    },
+    "humidity_lockdown_pct": {
+      "min": 70,
+      "max": 80
+    },
+    "lockdown_day": 27,
+    "turning_stop_day": 27,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Length varies by breed: lighter breeds about 28 to 30 days, heavy breeds up to 35. Goose eggs are often cooled and misted daily. Lock down about 3 days before the expected hatch.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "guinea-fowl",
+    "name": "Guinea fowl",
+    "incubation_days": 27,
+    "incubation_days_range": {
+      "min": 26,
+      "max": 28
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 45,
+      "max": 55
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 24,
+    "turning_stop_day": 24,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "muscovy-duck",
+    "name": "Muscovy duck",
+    "incubation_days": 35,
+    "incubation_days_range": {
+      "min": 33,
+      "max": 35
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 50,
+      "max": 60
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 32,
+    "turning_stop_day": 32,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Muscovies are a different species from other domestic ducks and take about a week longer.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "peafowl",
+    "name": "Peafowl",
+    "incubation_days": 28,
+    "incubation_days_range": {
+      "min": 28,
+      "max": 30
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 50,
+      "max": 60
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 25,
+    "turning_stop_day": 25,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "pheasant",
+    "name": "Pheasant (ring-necked)",
+    "incubation_days": 24,
+    "incubation_days_range": {
+      "min": 23,
+      "max": 26
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 45,
+      "max": 55
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 21,
+    "turning_stop_day": 21,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Other pheasant species vary by a day or two.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "incubation_days": 28,
+    "incubation_days_range": {
+      "min": 27,
+      "max": 29
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.5
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 99.5
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 50,
+      "max": 60
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 25,
+    "turning_stop_day": 25,
+    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers.",
+    "sources": [
+      {
+        "url": "http://extension.msstate.edu/",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://content.ces.ncsu.edu/",
+        "publisher": "NC State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  }
+]

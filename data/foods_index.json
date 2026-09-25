@@ -1,0 +1,692 @@
+[
+  {
+    "id": "almonds",
+    "name": "almonds",
+    "search_term": "almonds for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "apples",
+    "name": "apples",
+    "search_term": "apples for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "apricots",
+    "name": "apricots",
+    "search_term": "apricots for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "arugula",
+    "name": "arugula",
+    "search_term": "arugula for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "asparagus",
+    "name": "asparagus",
+    "search_term": "asparagus for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "avocado",
+    "name": "avocado",
+    "search_term": "avocado for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "bananas",
+    "name": "bananas",
+    "search_term": "bananas for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "basil",
+    "name": "basil",
+    "search_term": "basil for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "beans",
+    "name": "beans",
+    "search_term": "beans for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "beets",
+    "name": "beets",
+    "search_term": "beets for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "bell-peppers",
+    "name": "bell peppers",
+    "search_term": "bell peppers for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "bird-seed",
+    "name": "bird seed",
+    "search_term": "bird seed for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "blackberries",
+    "name": "blackberries",
+    "search_term": "blackberries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "blueberries",
+    "name": "blueberries",
+    "search_term": "blueberries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "bok-choy",
+    "name": "bok choy",
+    "search_term": "bok choy for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "bread",
+    "name": "bread",
+    "search_term": "bread for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "broccoli",
+    "name": "broccoli",
+    "search_term": "broccoli for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "brussels-sprouts",
+    "name": "brussels sprouts",
+    "search_term": "brussels sprouts for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "bugs",
+    "name": "bugs",
+    "search_term": "bugs for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cabbage",
+    "name": "cabbage",
+    "search_term": "cabbage for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cantaloupe",
+    "name": "cantaloupe",
+    "search_term": "cantaloupe for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "carrots",
+    "name": "carrots",
+    "search_term": "carrots for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cashews",
+    "name": "cashews",
+    "search_term": "cashews for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cat-food",
+    "name": "cat food",
+    "search_term": "cat food for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cauliflower",
+    "name": "cauliflower",
+    "search_term": "cauliflower for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "celery",
+    "name": "celery",
+    "search_term": "celery for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cereal",
+    "name": "cereal",
+    "search_term": "cereal for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cheerios",
+    "name": "cheerios",
+    "search_term": "cheerios for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cheese",
+    "name": "cheese",
+    "search_term": "cheese for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cherries",
+    "name": "cherries",
+    "search_term": "cherries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "chia-seeds",
+    "name": "chia seeds",
+    "search_term": "chia seeds for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "chicken",
+    "name": "chicken",
+    "search_term": "chicken for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "chocolate",
+    "name": "chocolate",
+    "search_term": "chocolate for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cilantro",
+    "name": "cilantro",
+    "search_term": "cilantro for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "citrus",
+    "name": "citrus",
+    "search_term": "citrus for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "clover",
+    "name": "clover",
+    "search_term": "clover for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cockroaches",
+    "name": "cockroaches",
+    "search_term": "cockroaches for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "collard-greens",
+    "name": "collard greens",
+    "search_term": "collard greens for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "corn",
+    "name": "corn",
+    "search_term": "corn for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "crackers",
+    "name": "crackers",
+    "search_term": "crackers for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cranberries",
+    "name": "cranberries",
+    "search_term": "cranberries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "cucumbers",
+    "name": "cucumbers",
+    "search_term": "cucumbers for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "dandelions",
+    "name": "dandelions",
+    "search_term": "dandelions for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "dates",
+    "name": "dates",
+    "search_term": "dates for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "dragon-fruit",
+    "name": "dragon fruit",
+    "search_term": "dragon fruit for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "duck-food",
+    "name": "duck food",
+    "search_term": "duck food for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "eggplant",
+    "name": "eggplant",
+    "search_term": "eggplant for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "eggs",
+    "name": "eggs",
+    "search_term": "eggs for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "fennel",
+    "name": "fennel",
+    "search_term": "fennel for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "fish",
+    "name": "fish",
+    "search_term": "fish for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "french-fries",
+    "name": "french fries",
+    "search_term": "french fries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "garlic",
+    "name": "garlic",
+    "search_term": "garlic for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "grapefruit",
+    "name": "grapefruit",
+    "search_term": "grapefruit for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "grapes",
+    "name": "grapes",
+    "search_term": "grapes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "grasshoppers",
+    "name": "grasshoppers",
+    "search_term": "grasshoppers for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "green-beans",
+    "name": "green beans",
+    "search_term": "green beans for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "hay",
+    "name": "hay",
+    "search_term": "hay for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "honey",
+    "name": "honey",
+    "search_term": "honey for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "honeydew",
+    "name": "honeydew",
+    "search_term": "honeydew for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "hot-dogs",
+    "name": "hot dogs",
+    "search_term": "hot dogs for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "jalapenos",
+    "name": "jalapenos",
+    "search_term": "jalapenos for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "kale",
+    "name": "kale",
+    "search_term": "kale for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "kiwi",
+    "name": "kiwi",
+    "search_term": "kiwi for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "leeks",
+    "name": "leeks",
+    "search_term": "leeks for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "lemons",
+    "name": "lemons",
+    "search_term": "lemons for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "lettuce",
+    "name": "lettuce",
+    "search_term": "lettuce for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "limes",
+    "name": "limes",
+    "search_term": "limes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "mac-and-cheese",
+    "name": "mac and cheese",
+    "search_term": "mac and cheese for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "mango",
+    "name": "mango",
+    "search_term": "mango for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "marshmallows",
+    "name": "marshmallows",
+    "search_term": "marshmallows for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "meat",
+    "name": "meat",
+    "search_term": "meat for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "mushrooms",
+    "name": "mushrooms",
+    "search_term": "mushrooms for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "nectarines",
+    "name": "nectarines",
+    "search_term": "nectarines for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "noodles",
+    "name": "noodles",
+    "search_term": "noodles for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "nuts",
+    "name": "nuts",
+    "search_term": "nuts for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "oats",
+    "name": "oats",
+    "search_term": "oats for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "okra",
+    "name": "okra",
+    "search_term": "okra for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "olives",
+    "name": "olives",
+    "search_term": "olives for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "onions",
+    "name": "onions",
+    "search_term": "onions for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "oranges",
+    "name": "oranges",
+    "search_term": "oranges for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pancakes",
+    "name": "pancakes",
+    "search_term": "pancakes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pasta",
+    "name": "pasta",
+    "search_term": "pasta for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "peaches",
+    "name": "peaches",
+    "search_term": "peaches for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "peanuts",
+    "name": "peanuts",
+    "search_term": "peanuts for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pears",
+    "name": "pears",
+    "search_term": "pears for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "peas",
+    "name": "peas",
+    "search_term": "peas for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pecans",
+    "name": "pecans",
+    "search_term": "pecans for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pickles",
+    "name": "pickles",
+    "search_term": "pickles for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pineapple",
+    "name": "pineapple",
+    "search_term": "pineapple for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pistachios",
+    "name": "pistachios",
+    "search_term": "pistachios for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pizza",
+    "name": "pizza",
+    "search_term": "pizza for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "plums",
+    "name": "plums",
+    "search_term": "plums for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pomegranate",
+    "name": "pomegranate",
+    "search_term": "pomegranate for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "potatoes",
+    "name": "potatoes",
+    "search_term": "potatoes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "pumpkin",
+    "name": "pumpkin",
+    "search_term": "pumpkin for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "radishes",
+    "name": "radishes",
+    "search_term": "radishes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "raisins",
+    "name": "raisins",
+    "search_term": "raisins for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "raspberries",
+    "name": "raspberries",
+    "search_term": "raspberries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "rhubarb",
+    "name": "rhubarb",
+    "search_term": "rhubarb for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "rice",
+    "name": "rice",
+    "search_term": "rice for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "sauerkraut",
+    "name": "sauerkraut",
+    "search_term": "sauerkraut for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "spaghetti",
+    "name": "spaghetti",
+    "search_term": "spaghetti for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "spinach",
+    "name": "spinach",
+    "search_term": "spinach for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "squash",
+    "name": "squash",
+    "search_term": "squash for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "stink-bugs",
+    "name": "stink bugs",
+    "search_term": "stink bugs for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "strawberries",
+    "name": "strawberries",
+    "search_term": "strawberries for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "sweet-potatoes",
+    "name": "sweet potatoes",
+    "search_term": "sweet potatoes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "tangerines",
+    "name": "tangerines",
+    "search_term": "tangerines for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "tomatoes",
+    "name": "tomatoes",
+    "search_term": "tomatoes for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "turnips",
+    "name": "turnips",
+    "search_term": "turnips for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "walnuts",
+    "name": "walnuts",
+    "search_term": "walnuts for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "watermelon",
+    "name": "watermelon",
+    "search_term": "watermelon for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "weeds",
+    "name": "weeds",
+    "search_term": "weeds for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "worms",
+    "name": "worms",
+    "search_term": "worms for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  },
+  {
+    "id": "zucchini",
+    "name": "zucchini",
+    "search_term": "zucchini for chickens",
+    "source_file": "research/12-chicken-food-pages.md"
+  }
+]

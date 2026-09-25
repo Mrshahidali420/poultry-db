@@ -1,0 +1,19 @@
+{
+  "name": "poultry-db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Data collection pipeline for a backyard-chicken information website: breeds, diseases, nutrition and keyword data gathered from free/licensed sources.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "fetch:breeds": "node scripts/fetch-breeds.mjs",
+    "fetch:diseases": "node scripts/fetch-diseases.mjs",
+    "fetch:nutrition": "node scripts/fetch-nutrition.mjs",
+    "keywords": "node scripts/build-keywords.mjs",
+    "enrich": "node scripts/enrich-llm.mjs",
+    "all": "node scripts/run-all.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

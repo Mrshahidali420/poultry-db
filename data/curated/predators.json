@@ -1,0 +1,867 @@
+[
+  {
+    "id": "badger",
+    "name": "Badger",
+    "regions": [
+      "uk"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Coop doors, panels or weak wire torn open by force",
+      "Deep digging under fences",
+      "Birds eaten on site, with parts left and heavy disturbance",
+      "Eggs eaten"
+    ],
+    "what_they_take": "Adult birds and eggs. Can break into poorly built coops.",
+    "prevention": [
+      "Build a strong coop with solid timber and secure fixings.",
+      "Stop digging with a buried wire apron or skirt, about 12 inches (30 cm) down or laid flat outward along the base of the run.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "Electric poultry netting or offset electric wires around the run are very effective."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/",
+        "publisher": "The Wildlife Trusts (UK)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.rspca.org.uk/",
+        "publisher": "RSPCA",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "bears",
+    "name": "Bears",
+    "regions": [
+      "us"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "Coop, fence or feed store badly smashed",
+      "Feed bins opened and emptied",
+      "Birds and eggs gone, with heavy damage everywhere"
+    ],
+    "what_they_take": "Feed first, then birds and eggs. Black bears are the usual culprit.",
+    "prevention": [
+      "Electric fencing around coop and run.",
+      "Store feed in metal bins and remove feeders at night.",
+      "Do not leave kitchen scraps or compost near the coop."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "bobcat",
+    "name": "Bobcat",
+    "regions": [
+      "us"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "One bird taken, sometimes cached under leaves or debris nearby",
+      "Bite marks to the head and neck",
+      "Can climb or jump fences"
+    ],
+    "what_they_take": "Usually one adult bird at a time.",
+    "prevention": [
+      "Cover the run with a solid roof or mesh.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "cats",
+    "name": "Cats (domestic and feral)",
+    "regions": [
+      "both"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "Chicks or small bantams missing or partly eaten, often starting at the head",
+      "Adult full-size hens are usually left alone",
+      "Feathers scattered near cover"
+    ],
+    "what_they_take": "Chicks, young birds and bantams. Rarely adult large-fowl hens.",
+    "prevention": [
+      "Keep chicks in a covered brooder or pen.",
+      "Cover the run with a solid roof or mesh.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "coyote",
+    "name": "Coyote",
+    "regions": [
+      "us"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "Whole birds taken and carried off, few remains",
+      "Scattered feathers where the bird was caught",
+      "May jump or dig under fences",
+      "Daytime attacks are common where coyotes are used to people"
+    ],
+    "what_they_take": "One or more adult birds, usually carried away.",
+    "prevention": [
+      "Electric poultry netting or offset electric wires around the run are very effective.",
+      "Stop digging with a buried wire apron or skirt, about 12 inches (30 cm) down or laid flat outward along the base of the run.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "A tall fence (about 6 feet) with an outward overhang or electric top wire."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "crows-and-magpies",
+    "name": "Crows, ravens and magpies",
+    "regions": [
+      "both"
+    ],
+    "active_time": "day",
+    "attack_signs": [
+      "Eggs missing, or shells with a hole pecked in and contents gone",
+      "Shells carried away and found some distance from the nest",
+      "Chicks taken from open runs"
+    ],
+    "what_they_take": "Eggs and chicks.",
+    "prevention": [
+      "Collect eggs at least daily.",
+      "Put nest boxes inside the coop, out of sight.",
+      "Cover the run with a solid roof or mesh."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "dogs",
+    "name": "Dogs",
+    "regions": [
+      "both"
+    ],
+    "active_time": "day",
+    "attack_signs": [
+      "Many birds killed or badly mauled but not eaten",
+      "Feathers everywhere and signs of a chase",
+      "Fence damage or digging at the base",
+      "Bodies scattered around the yard"
+    ],
+    "what_they_take": "Several birds at once, often killed but left.",
+    "prevention": [
+      "A strong perimeter fence.",
+      "Electric poultry netting or offset electric wires around the run are very effective.",
+      "Talk to neighbours about loose dogs. In the UK, dog attacks on poultry can be reported to the police."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "eagles",
+    "name": "Eagles",
+    "regions": [
+      "us"
+    ],
+    "active_time": "day",
+    "attack_signs": [
+      "Whole bird carried away with no remains",
+      "A few feathers where the bird was grabbed",
+      "Talon punctures on the back if a bird escapes"
+    ],
+    "what_they_take": "Adult birds carried away. Bald and golden eagles are protected by law.",
+    "prevention": [
+      "Cover the run with a solid roof or mesh.",
+      "Provide shrubs, covered areas or shelters birds can run under.",
+      "All eagles and hawks are protected in the US and UK. Only non-lethal prevention is allowed."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "fox",
+    "name": "Red fox",
+    "regions": [
+      "both"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "One or more birds missing, often taken away whole",
+      "Clumps of feathers where birds were caught, sometimes a feather trail",
+      "Several birds killed at once if the fox gets into the coop (surplus killing)",
+      "Bodies sometimes cached or buried",
+      "Digging under fences"
+    ],
+    "what_they_take": "Adult birds, usually carried off. May kill many if trapped in with them.",
+    "prevention": [
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "Electric poultry netting or offset electric wires around the run are very effective.",
+      "Stop digging with a buried wire apron or skirt, about 12 inches (30 cm) down or laid flat outward along the base of the run.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Foxes also hunt in daylight in spring and summer when feeding cubs."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/",
+        "publisher": "The Wildlife Trusts (UK)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "hawks",
+    "name": "Hawks",
+    "regions": [
+      "both"
+    ],
+    "active_time": "day",
+    "attack_signs": [
+      "Bird killed in the open run or yard during the day",
+      "Feathers plucked, with a scatter or pile of feathers around the body",
+      "Breast meat eaten on the spot",
+      "Talon puncture wounds on the back and head",
+      "Small birds and chicks may be carried off"
+    ],
+    "what_they_take": "Chicks, bantams and some adult hens. In the UK, goshawks, sparrowhawks and buzzards occasionally take poultry.",
+    "prevention": [
+      "Cover the run with a solid roof or mesh.",
+      "Provide cover such as shrubs or a shelter to hide under.",
+      "A rooster can give warning calls.",
+      "All hawks are protected in the US and UK. Only non-lethal prevention is allowed."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "hedgehogs",
+    "name": "Hedgehogs",
+    "regions": [
+      "uk"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Eggs broken and eaten in nest boxes at ground level",
+      "Messy shell fragments left behind"
+    ],
+    "what_they_take": "Eggs. They do not harm adult birds.",
+    "prevention": [
+      "Collect eggs at least daily.",
+      "Raise nest boxes off the ground.",
+      "Hedgehogs are a declining protected species. Keep them out, never harm them."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/",
+        "publisher": "The Wildlife Trusts (UK)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.rspca.org.uk/",
+        "publisher": "RSPCA",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "mink",
+    "name": "Mink",
+    "regions": [
+      "both"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Several birds killed at once",
+      "Bite wounds to the head and neck",
+      "Bodies piled or dragged into a corner or hole",
+      "Usually near water"
+    ],
+    "what_they_take": "Several birds in one attack. American mink is also a feral invasive species in the UK.",
+    "prevention": [
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "opossum",
+    "name": "Opossum",
+    "regions": [
+      "us"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "One bird killed inside the coop, often partly eaten from the belly or vent",
+      "Messy scene",
+      "Eggs eaten, shells left crushed in the nest",
+      "Chicks taken"
+    ],
+    "what_they_take": "Eggs, chicks and sometimes a single adult bird.",
+    "prevention": [
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Collect eggs at least daily.",
+      "Store feed in metal bins and remove feeders at night."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "owls",
+    "name": "Owls",
+    "regions": [
+      "both"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Bird taken from an open run or tree roost at night",
+      "Head and neck eaten, rest of the body left",
+      "Feathers scattered around the body",
+      "Great horned owls can take full-size hens"
+    ],
+    "what_they_take": "Birds roosting outside or in open-top runs. In the US, great horned owls are the main threat.",
+    "prevention": [
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "Cover the run with a solid roof or mesh.",
+      "Do not let birds roost in trees or on open fences.",
+      "Owls are protected in the US and UK."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "pine-marten",
+    "name": "Pine marten",
+    "regions": [
+      "uk"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Several birds killed, often bites to the head or neck",
+      "Can climb well and enter through small gaps high up",
+      "Bodies may be cached"
+    ],
+    "what_they_take": "Birds and eggs. Pine martens are rare and legally protected in the UK.",
+    "prevention": [
+      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/",
+        "publisher": "The Wildlife Trusts (UK)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.rspca.org.uk/",
+        "publisher": "RSPCA",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "polecat",
+    "name": "Polecat",
+    "regions": [
+      "uk"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Several birds killed at once",
+      "Bites to the back of the head and neck",
+      "Bodies stored or cached together"
+    ],
+    "what_they_take": "Several birds in one visit, and eggs.",
+    "prevention": [
+      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.wildlifetrusts.org/",
+        "publisher": "The Wildlife Trusts (UK)",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.rspca.org.uk/",
+        "publisher": "RSPCA",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "raccoon",
+    "name": "Raccoon",
+    "regions": [
+      "us"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Birds pulled through wire, with heads or legs missing",
+      "Head and crop eaten, breast torn open",
+      "Several birds killed in one night",
+      "Eggs eaten, shells left nearby",
+      "Latches and doors opened"
+    ],
+    "what_they_take": "Adult birds, chicks and eggs.",
+    "prevention": [
+      "Use two-step latches or carabiners. Simple hooks and turn buttons can be opened.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps.",
+      "Chicken wire is easily torn by raccoons."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "rats",
+    "name": "Rats",
+    "regions": [
+      "both"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Eggs disappear without trace or are rolled away",
+      "Chicks missing or dragged into burrows",
+      "Bites to the feet, legs or backs of sleeping birds",
+      "Burrows near the coop and droppings in feed"
+    ],
+    "what_they_take": "Eggs, chicks and feed. Rarely kill adults but can wound them.",
+    "prevention": [
+      "Store feed in metal bins and remove feeders at night.",
+      "Collect eggs at least daily.",
+      "Build on a solid floor or bury mesh under the coop.",
+      "Clear spilled feed daily."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "skunk",
+    "name": "Skunk",
+    "regions": [
+      "us"
+    ],
+    "active_time": "night",
+    "attack_signs": [
+      "Eggs eaten with an opened end and contents gone, often messy",
+      "Chicks killed and partly eaten",
+      "Musky smell around the coop",
+      "Shallow digging around the coop"
+    ],
+    "what_they_take": "Mainly eggs and chicks. Rarely adults.",
+    "prevention": [
+      "Collect eggs at least daily.",
+      "Stop digging with a buried wire apron or skirt, about 12 inches (30 cm) down or laid flat outward along the base of the run.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "snakes",
+    "name": "Snakes",
+    "regions": [
+      "us"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "Eggs vanish completely with no shell left",
+      "Chicks swallowed whole and missing without trace",
+      "A snake found in a nest box, sometimes too swollen to leave"
+    ],
+    "what_they_take": "Eggs and chicks. Rat snakes are common egg thieves in the US. UK snakes do not normally take poultry.",
+    "prevention": [
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Collect eggs at least daily."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.psu.edu/",
+        "publisher": "Penn State Extension",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "stoat",
+    "name": "Stoat (ermine)",
+    "regions": [
+      "both"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "Several birds killed at once",
+      "Small bite wounds at the back of the head or neck",
+      "Bodies neatly stacked or dragged away",
+      "Entry through a small gap"
+    ],
+    "what_they_take": "Several birds and eggs in one visit. Called ermine or short-tailed weasel in the US.",
+    "prevention": [
+      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "weasel",
+    "name": "Weasel",
+    "regions": [
+      "both"
+    ],
+    "active_time": "both",
+    "attack_signs": [
+      "Several birds killed at once, often small birds or chicks",
+      "Small puncture wounds to the head and neck",
+      "Bodies left neatly or cached",
+      "Entry through holes as small as about 1 inch (2.5 cm)"
+    ],
+    "what_they_take": "Chicks, bantams and eggs. Can kill adult hens.",
+    "prevention": [
+      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+    ],
+    "sources": [
+      {
+        "url": "https://icwdm.org/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://extension.umn.edu/",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  }
+]

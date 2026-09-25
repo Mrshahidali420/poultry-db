@@ -1,0 +1,1976 @@
+[
+  {
+    "id": "autumn-crocus",
+    "name": "Autumn crocus",
+    "scientific_name": "Colchicum autumnale",
+    "toxic_parts": [
+      "all parts",
+      "especially bulbs (corms) and seeds"
+    ],
+    "compound": "colchicine",
+    "severity": "severe",
+    "signs": [
+      "diarrhoea",
+      "weakness",
+      "collapse",
+      "death"
+    ],
+    "notes": "Not a true crocus. Spring garden crocus (Crocus species) is far less toxic. Chickens usually avoid bitter plants when they have plenty of other forage. Risk rises in bare runs, when prunings are thrown in, or when plants are dried into hay or bedding.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "avocado-tree",
+    "name": "Avocado tree",
+    "scientific_name": "Persea americana",
+    "toxic_parts": [
+      "leaves",
+      "bark",
+      "fruit skin",
+      "pit"
+    ],
+    "compound": "persin",
+    "severity": "severe",
+    "signs": [
+      "breathing difficulty",
+      "fluffed feathers",
+      "weakness",
+      "sudden death"
+    ],
+    "notes": "Birds are among the most sensitive animals to persin. Guatemalan types such as Hass are reported as most toxic. Keep fallen leaves and fruit away from the flock.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "bittersweet-nightshade",
+    "name": "Bittersweet nightshade",
+    "scientific_name": "Solanum dulcamara",
+    "toxic_parts": [
+      "leaves",
+      "unripe berries",
+      "stems"
+    ],
+    "compound": "solanine (glycoalkaloids)",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "weakness"
+    ],
+    "notes": "A climbing weed of hedges and fences with purple flowers and red berries. Common in both the US and UK.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "black-locust",
+    "name": "Black locust",
+    "scientific_name": "Robinia pseudoacacia",
+    "toxic_parts": [
+      "bark",
+      "seeds",
+      "young shoots",
+      "leaves"
+    ],
+    "compound": "robin and phasin (toxalbumins)",
+    "severity": "moderate",
+    "signs": [
+      "depression",
+      "weakness",
+      "diarrhoea",
+      "death in severe cases"
+    ],
+    "notes": "Poisoning of poultry that ate the seeds or bark has been reported. The flowers are less toxic.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "black-nightshade",
+    "name": "Black nightshade",
+    "scientific_name": "Solanum nigrum",
+    "toxic_parts": [
+      "leaves",
+      "unripe green berries"
+    ],
+    "compound": "solanine (glycoalkaloids)",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "trembling",
+      "weakness"
+    ],
+    "notes": "Common garden weed with white flowers and black berries. Toxin levels vary a lot between plants and with ripeness.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "boxwood",
+    "name": "Boxwood",
+    "scientific_name": "Buxus sempervirens",
+    "toxic_parts": [
+      "leaves",
+      "stems"
+    ],
+    "compound": "steroidal alkaloids (for example cyclobuxine)",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "trembling"
+    ],
+    "notes": "Bitter, so rarely eaten. Do not throw hedge trimmings into the run.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "bracken-fern",
+    "name": "Bracken fern",
+    "scientific_name": "Pteridium aquilinum",
+    "toxic_parts": [
+      "fronds",
+      "rhizomes"
+    ],
+    "compound": "thiaminase and ptaquiloside",
+    "severity": "moderate",
+    "signs": [
+      "weight loss",
+      "weakness",
+      "bleeding problems with long exposure"
+    ],
+    "notes": "Harm comes from eating it over time. Most reports are in cattle and horses. Do not use dried bracken as bedding where birds will eat it.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "buttercups",
+    "name": "Buttercups",
+    "scientific_name": "Ranunculus spp.",
+    "toxic_parts": [
+      "whole plant, especially when flowering"
+    ],
+    "compound": "protoanemonin (from ranunculin)",
+    "severity": "mild",
+    "signs": [
+      "mouth irritation",
+      "diarrhoea"
+    ],
+    "notes": "Very bitter and blistering, so animals rarely eat much. Drying into hay makes it harmless.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "castor-bean",
+    "name": "Castor bean",
+    "scientific_name": "Ricinus communis",
+    "toxic_parts": [
+      "seeds",
+      "whole plant to a lesser degree"
+    ],
+    "compound": "ricin (toxalbumin)",
+    "severity": "severe",
+    "signs": [
+      "severe diarrhoea",
+      "weakness",
+      "collapse",
+      "death"
+    ],
+    "notes": "Grown as an ornamental. The seeds are among the most toxic plant materials known. Remove from any area birds can reach.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "cherry-laurel",
+    "name": "Cherry laurel",
+    "scientific_name": "Prunus laurocerasus",
+    "toxic_parts": [
+      "leaves",
+      "seeds",
+      "stems"
+    ],
+    "compound": "cyanogenic glycosides (amygdalin, prunasin)",
+    "severity": "severe",
+    "signs": [
+      "breathing difficulty",
+      "gasping",
+      "bright red blood",
+      "sudden death"
+    ],
+    "notes": "Common hedge in the UK and US. Wilted leaves after trimming are the most dangerous. Never throw laurel clippings into a run.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "chokecherry-wild-cherry",
+    "name": "Wild black cherry and chokecherry",
+    "scientific_name": "Prunus serotina, Prunus virginiana",
+    "toxic_parts": [
+      "leaves (especially wilted)",
+      "bark",
+      "seeds"
+    ],
+    "compound": "cyanogenic glycosides",
+    "severity": "severe",
+    "signs": [
+      "breathing difficulty",
+      "gasping",
+      "sudden death"
+    ],
+    "notes": "A classic livestock poison after storms break branches. The ripe fruit flesh is not the danger; the pit, leaves and bark are.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "clematis",
+    "name": "Clematis",
+    "scientific_name": "Clematis spp.",
+    "toxic_parts": [
+      "leaves",
+      "stems"
+    ],
+    "compound": "protoanemonin",
+    "severity": "mild",
+    "signs": [
+      "mouth irritation",
+      "diarrhoea"
+    ],
+    "notes": "Bitter and irritating, so animals rarely eat much.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "cocklebur",
+    "name": "Cocklebur",
+    "scientific_name": "Xanthium strumarium",
+    "toxic_parts": [
+      "seeds",
+      "seedlings at the two-leaf stage"
+    ],
+    "compound": "carboxyatractyloside",
+    "severity": "severe",
+    "signs": [
+      "depression",
+      "weakness",
+      "convulsions",
+      "death"
+    ],
+    "notes": "Seedlings and burs are the risk. Poisoning is best documented in pigs and cattle, with poultry reports as well.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "coffee-senna",
+    "name": "Coffee senna",
+    "scientific_name": "Senna occidentalis",
+    "toxic_parts": [
+      "seeds",
+      "leaves"
+    ],
+    "compound": "anthraquinones and other toxins",
+    "severity": "moderate",
+    "signs": [
+      "weakness",
+      "diarrhoea",
+      "leg weakness",
+      "death"
+    ],
+    "notes": "A weed of the southern US and tropics. Poultry have been poisoned by feed contaminated with its seeds.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "corn-cockle",
+    "name": "Corn cockle",
+    "scientific_name": "Agrostemma githago",
+    "toxic_parts": [
+      "seeds"
+    ],
+    "compound": "saponins (githagin)",
+    "severity": "moderate",
+    "signs": [
+      "reduced growth",
+      "diarrhoea",
+      "weakness"
+    ],
+    "notes": "Historically poisoned poultry through contaminated grain. Now rare in farm crops but sold in wildflower mixes.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "crotalaria",
+    "name": "Rattlebox (crotalaria)",
+    "scientific_name": "Crotalaria spp.",
+    "toxic_parts": [
+      "seeds",
+      "whole plant"
+    ],
+    "compound": "pyrrolizidine alkaloids (monocrotaline)",
+    "severity": "severe",
+    "signs": [
+      "weight loss",
+      "drop in laying",
+      "weakness",
+      "death after weeks or months of exposure"
+    ],
+    "notes": "A weed of the southern US. Seed contaminating grain has caused serious poultry losses.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "daffodil",
+    "name": "Daffodil",
+    "scientific_name": "Narcissus spp.",
+    "toxic_parts": [
+      "bulbs",
+      "leaves",
+      "flowers"
+    ],
+    "compound": "lycorine and other alkaloids",
+    "severity": "moderate",
+    "signs": [
+      "vomiting or regurgitation",
+      "diarrhoea",
+      "weakness"
+    ],
+    "notes": "The bulbs hold the most toxin. Chickens scratching up stored or planted bulbs is the usual risk.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "daphne",
+    "name": "Daphne",
+    "scientific_name": "Daphne mezereum and other Daphne spp.",
+    "toxic_parts": [
+      "berries",
+      "bark",
+      "leaves"
+    ],
+    "compound": "mezerein (diterpenes)",
+    "severity": "severe",
+    "signs": [
+      "mouth and gut irritation",
+      "bloody diarrhoea",
+      "weakness"
+    ],
+    "notes": "Garden shrub with scented flowers and red berries.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "deadly-nightshade",
+    "name": "Deadly nightshade",
+    "scientific_name": "Atropa belladonna",
+    "toxic_parts": [
+      "all parts",
+      "berries and roots"
+    ],
+    "compound": "tropane alkaloids (atropine, scopolamine)",
+    "severity": "severe",
+    "signs": [
+      "dilated pupils",
+      "rapid heartbeat",
+      "excitement then depression",
+      "death"
+    ],
+    "notes": "Mostly a UK and European plant. Remove it from any area birds can reach.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "delphinium-larkspur",
+    "name": "Delphinium and larkspur",
+    "scientific_name": "Delphinium spp., Consolida spp.",
+    "toxic_parts": [
+      "whole plant",
+      "seeds",
+      "young growth"
+    ],
+    "compound": "diterpenoid alkaloids",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "wobbly walking",
+      "trembling",
+      "paralysis",
+      "death in severe cases"
+    ],
+    "notes": "Garden and wild species. Young plants are the most toxic.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "english-ivy",
+    "name": "English ivy",
+    "scientific_name": "Hedera helix",
+    "toxic_parts": [
+      "leaves",
+      "berries"
+    ],
+    "compound": "triterpenoid saponins (hederin)",
+    "severity": "mild",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite"
+    ],
+    "notes": "Bitter. Large amounts are needed to cause harm.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "foxglove",
+    "name": "Foxglove",
+    "scientific_name": "Digitalis purpurea",
+    "toxic_parts": [
+      "all parts",
+      "leaves and seeds"
+    ],
+    "compound": "cardiac glycosides (digitoxin)",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "drooping",
+      "irregular heartbeat",
+      "diarrhoea",
+      "sudden death"
+    ],
+    "notes": "Very common in UK gardens and hedgerows. Stays toxic when dried.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "hellebore",
+    "name": "Hellebore (Christmas rose)",
+    "scientific_name": "Helleborus spp.",
+    "toxic_parts": [
+      "all parts",
+      "roots"
+    ],
+    "compound": "cardiac glycosides and protoanemonin",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "weakness"
+    ],
+    "notes": "Winter-flowering garden plant.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "horse-chestnut",
+    "name": "Horse chestnut and buckeye",
+    "scientific_name": "Aesculus spp.",
+    "toxic_parts": [
+      "nuts (conkers)",
+      "leaves",
+      "young shoots",
+      "bark"
+    ],
+    "compound": "aesculin and saponins",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "trembling",
+      "wobbly walking"
+    ],
+    "notes": "Do not confuse with edible sweet chestnut (Castanea).",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "hounds-tongue",
+    "name": "Hound's tongue",
+    "scientific_name": "Cynoglossum officinale",
+    "toxic_parts": [
+      "leaves",
+      "whole plant, including when dried"
+    ],
+    "compound": "pyrrolizidine alkaloids",
+    "severity": "moderate",
+    "signs": [
+      "weight loss",
+      "drop in laying",
+      "weakness",
+      "death after weeks or months of exposure"
+    ],
+    "notes": "Liver damage builds up over time. Dangerous in hay.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "hyacinth",
+    "name": "Hyacinth",
+    "scientific_name": "Hyacinthus orientalis",
+    "toxic_parts": [
+      "bulbs"
+    ],
+    "compound": "alkaloids and calcium oxalate",
+    "severity": "mild",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite"
+    ],
+    "notes": "Mostly a risk when bulbs are dug up.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "jimsonweed",
+    "name": "Jimsonweed",
+    "scientific_name": "Datura stramonium",
+    "toxic_parts": [
+      "all parts",
+      "especially seeds"
+    ],
+    "compound": "tropane alkaloids (atropine, scopolamine)",
+    "severity": "severe",
+    "signs": [
+      "dilated pupils",
+      "rapid heartbeat",
+      "loss of coordination",
+      "death"
+    ],
+    "notes": "Spiny seed pods. Seeds contaminating grain have poisoned poultry and livestock.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "laburnum",
+    "name": "Laburnum",
+    "scientific_name": "Laburnum anagyroides",
+    "toxic_parts": [
+      "seeds",
+      "pods",
+      "bark",
+      "flowers"
+    ],
+    "compound": "cytisine (quinolizidine alkaloid)",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "wobbly walking",
+      "trembling",
+      "paralysis",
+      "death in severe cases"
+    ],
+    "notes": "Common UK garden tree with yellow hanging flowers. Pods fall into runs in late summer.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "lantana",
+    "name": "Lantana",
+    "scientific_name": "Lantana camara",
+    "toxic_parts": [
+      "leaves",
+      "unripe berries"
+    ],
+    "compound": "pentacyclic triterpenes (lantadenes)",
+    "severity": "moderate",
+    "signs": [
+      "liver damage",
+      "reduced appetite",
+      "weakness"
+    ],
+    "notes": "Invasive in warm US states. Most poisoning reports are in cattle.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "lily-of-the-valley",
+    "name": "Lily of the valley",
+    "scientific_name": "Convallaria majalis",
+    "toxic_parts": [
+      "all parts"
+    ],
+    "compound": "cardiac glycosides (convallatoxin)",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "drooping",
+      "irregular heartbeat",
+      "diarrhoea",
+      "sudden death"
+    ],
+    "notes": "Shade garden plant that spreads by roots.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "lupins",
+    "name": "Lupins",
+    "scientific_name": "Lupinus spp.",
+    "toxic_parts": [
+      "seeds",
+      "pods",
+      "young plants"
+    ],
+    "compound": "quinolizidine alkaloids",
+    "severity": "moderate",
+    "signs": [
+      "weakness",
+      "wobbly walking",
+      "trembling",
+      "paralysis",
+      "death in severe cases"
+    ],
+    "notes": "Garden and wild lupins. Sweet lupin varieties bred for feed are low in alkaloids.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "milkweed",
+    "name": "Milkweed",
+    "scientific_name": "Asclepias spp.",
+    "toxic_parts": [
+      "leaves",
+      "stems",
+      "sap"
+    ],
+    "compound": "cardiac glycosides (cardenolides)",
+    "severity": "moderate",
+    "signs": [
+      "weakness",
+      "drooping",
+      "irregular heartbeat",
+      "diarrhoea",
+      "sudden death"
+    ],
+    "notes": "Planted for monarch butterflies in the US. Narrow-leaved species are the most toxic.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "monkshood",
+    "name": "Monkshood",
+    "scientific_name": "Aconitum napellus and other Aconitum spp.",
+    "toxic_parts": [
+      "all parts",
+      "especially roots"
+    ],
+    "compound": "aconitine",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "irregular heartbeat",
+      "paralysis",
+      "death"
+    ],
+    "notes": "One of the most toxic garden plants in the UK and US.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "morning-glory",
+    "name": "Morning glory",
+    "scientific_name": "Ipomoea spp.",
+    "toxic_parts": [
+      "seeds"
+    ],
+    "compound": "ergoline (lysergic acid) alkaloids",
+    "severity": "mild",
+    "signs": [
+      "loss of coordination",
+      "digestive upset"
+    ],
+    "notes": "Seeds are the main concern. Chicken-specific evidence is limited.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": "mountain-laurel",
+    "name": "Mountain laurel",
+    "scientific_name": "Kalmia latifolia",
+    "toxic_parts": [
+      "leaves",
+      "flowers",
+      "twigs",
+      "nectar"
+    ],
+    "compound": "grayanotoxins",
+    "severity": "severe",
+    "signs": [
+      "drooling",
+      "weakness",
+      "loss of coordination",
+      "digestive upset",
+      "death in severe cases"
+    ],
+    "notes": "Evergreen shrub of the eastern US. Stays green in winter when other forage is scarce.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "oak",
+    "name": "Oak",
+    "scientific_name": "Quercus spp.",
+    "toxic_parts": [
+      "acorns (especially green)",
+      "young leaves",
+      "buds"
+    ],
+    "compound": "tannins (gallotannins)",
+    "severity": "mild",
+    "signs": [
+      "reduced appetite",
+      "reduced laying",
+      "digestive upset"
+    ],
+    "notes": "Serious poisoning is mostly seen in cattle and horses eating large amounts. Chickens nibbling a few acorns is common, but heavy eating is best prevented.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "oleander",
+    "name": "Oleander",
+    "scientific_name": "Nerium oleander",
+    "toxic_parts": [
+      "all parts, fresh or dry"
+    ],
+    "compound": "cardiac glycosides (oleandrin)",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "drooping",
+      "irregular heartbeat",
+      "diarrhoea",
+      "sudden death"
+    ],
+    "notes": "Common in warm US states. Small amounts can be fatal. Keep prunings well away from the flock.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "pieris",
+    "name": "Pieris (Japanese andromeda)",
+    "scientific_name": "Pieris japonica",
+    "toxic_parts": [
+      "leaves",
+      "flowers",
+      "nectar"
+    ],
+    "compound": "grayanotoxins",
+    "severity": "severe",
+    "signs": [
+      "drooling",
+      "weakness",
+      "loss of coordination",
+      "digestive upset",
+      "death in severe cases"
+    ],
+    "notes": "Popular evergreen garden shrub in the UK and US.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "poison-hemlock",
+    "name": "Poison hemlock",
+    "scientific_name": "Conium maculatum",
+    "toxic_parts": [
+      "all parts",
+      "especially seeds and roots"
+    ],
+    "compound": "coniine and related piperidine alkaloids",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "wobbly walking",
+      "trembling",
+      "paralysis",
+      "death in severe cases"
+    ],
+    "notes": "Tall weed with purple-spotted stems and a mousy smell. Poultry poisoning has been reported.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "pokeweed",
+    "name": "Pokeweed",
+    "scientific_name": "Phytolacca americana",
+    "toxic_parts": [
+      "roots",
+      "berries",
+      "mature leaves and stems"
+    ],
+    "compound": "saponins (phytolaccatoxin) and mitogens",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "weakness"
+    ],
+    "notes": "Wild birds eat the berries, but poisoning of turkeys and other poultry has been reported. Roots are most toxic.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "potato-plant",
+    "name": "Potato plant",
+    "scientific_name": "Solanum tuberosum",
+    "toxic_parts": [
+      "leaves",
+      "stems",
+      "sprouts",
+      "green tubers",
+      "berries"
+    ],
+    "compound": "solanine (glycoalkaloids)",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite",
+      "weakness",
+      "trembling"
+    ],
+    "notes": "Keep birds out of potato beds and away from sprouting or green potatoes.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "privet",
+    "name": "Privet",
+    "scientific_name": "Ligustrum spp.",
+    "toxic_parts": [
+      "berries",
+      "leaves"
+    ],
+    "compound": "secoiridoid glycosides (for example ligustrin)",
+    "severity": "mild",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite"
+    ],
+    "notes": "Common hedge. Serious poisoning in animals is uncommon.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "low",
+    "needs_review": true
+  },
+  {
+    "id": "ragwort",
+    "name": "Common ragwort",
+    "scientific_name": "Jacobaea vulgaris (Senecio jacobaea)",
+    "toxic_parts": [
+      "whole plant, fresh or dried"
+    ],
+    "compound": "pyrrolizidine alkaloids",
+    "severity": "severe",
+    "signs": [
+      "weight loss",
+      "drop in laying",
+      "weakness",
+      "death after weeks or months of exposure"
+    ],
+    "notes": "Listed as an injurious weed in the UK. Damage builds up over time and is not reversible.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "rhododendron-azalea",
+    "name": "Rhododendron and azalea",
+    "scientific_name": "Rhododendron spp.",
+    "toxic_parts": [
+      "leaves",
+      "flowers",
+      "nectar"
+    ],
+    "compound": "grayanotoxins",
+    "severity": "severe",
+    "signs": [
+      "drooling",
+      "weakness",
+      "loss of coordination",
+      "digestive upset",
+      "death in severe cases"
+    ],
+    "notes": "Very common garden shrubs. Fallen leaves and trimmings are the usual risk.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "rhubarb-plant",
+    "name": "Rhubarb plant",
+    "scientific_name": "Rheum x hybridum (Rheum rhabarbarum)",
+    "toxic_parts": [
+      "leaves",
+      "stalks to a lesser degree"
+    ],
+    "compound": "oxalic acid (soluble oxalates) and anthraquinones",
+    "severity": "moderate",
+    "signs": [
+      "weakness",
+      "kidney damage",
+      "drop in laying",
+      "diarrhoea"
+    ],
+    "notes": "Leaves are the main danger. Oxalates also bind the calcium hens need for shells.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "rosary-pea",
+    "name": "Rosary pea",
+    "scientific_name": "Abrus precatorius",
+    "toxic_parts": [
+      "seeds"
+    ],
+    "compound": "abrin (toxalbumin)",
+    "severity": "severe",
+    "signs": [
+      "severe diarrhoea",
+      "collapse",
+      "death"
+    ],
+    "notes": "Tropical vine, invasive in Florida. Red and black seeds.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "sweet-pea",
+    "name": "Sweet pea",
+    "scientific_name": "Lathyrus odoratus",
+    "toxic_parts": [
+      "seeds",
+      "pods"
+    ],
+    "compound": "lathyrogens (for example beta-aminopropionitrile)",
+    "severity": "moderate",
+    "signs": [
+      "leg weakness",
+      "skeletal and blood vessel problems with long exposure"
+    ],
+    "notes": "Garden flower. Harm comes from repeated eating of the seeds. The edible garden pea (Pisum) is safe.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "tobacco",
+    "name": "Tobacco",
+    "scientific_name": "Nicotiana spp.",
+    "toxic_parts": [
+      "leaves",
+      "stems"
+    ],
+    "compound": "nicotine and anabasine",
+    "severity": "severe",
+    "signs": [
+      "weakness",
+      "wobbly walking",
+      "trembling",
+      "paralysis",
+      "death in severe cases"
+    ],
+    "notes": "Includes ornamental flowering tobacco. Also keep cigarette ends out of runs.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "tomato-plant",
+    "name": "Tomato plant",
+    "scientific_name": "Solanum lycopersicum",
+    "toxic_parts": [
+      "leaves",
+      "stems",
+      "vines",
+      "green fruit"
+    ],
+    "compound": "tomatine and solanine (glycoalkaloids)",
+    "severity": "mild",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite"
+    ],
+    "notes": "Ripe red fruit is safe. Birds usually avoid the strong-smelling leaves, but fence them out of tomato beds.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poultry.extension.org/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "domain"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "tulip",
+    "name": "Tulip",
+    "scientific_name": "Tulipa spp.",
+    "toxic_parts": [
+      "bulbs",
+      "to a lesser degree leaves and flowers"
+    ],
+    "compound": "tulipalin (glycosides)",
+    "severity": "mild",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite"
+    ],
+    "notes": "The bulbs are the main risk.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "water-hemlock",
+    "name": "Water hemlock",
+    "scientific_name": "Cicuta spp.",
+    "toxic_parts": [
+      "roots",
+      "whole plant"
+    ],
+    "compound": "cicutoxin",
+    "severity": "severe",
+    "signs": [
+      "convulsions",
+      "trembling",
+      "death, often within hours"
+    ],
+    "notes": "Grows in wet ground and ditches. Considered the most toxic plant in North America. UK relative hemlock water dropwort (Oenanthe crocata) is similar.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  },
+  {
+    "id": "wisteria",
+    "name": "Wisteria",
+    "scientific_name": "Wisteria spp.",
+    "toxic_parts": [
+      "seeds",
+      "pods"
+    ],
+    "compound": "lectins and wisterin",
+    "severity": "moderate",
+    "signs": [
+      "diarrhoea",
+      "drooping and fluffed feathers",
+      "reduced appetite"
+    ],
+    "notes": "Pods drop in autumn and can fall into runs.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true
+  },
+  {
+    "id": "yew",
+    "name": "Yew",
+    "scientific_name": "Taxus spp.",
+    "toxic_parts": [
+      "leaves (needles)",
+      "seeds",
+      "bark",
+      "wilted clippings"
+    ],
+    "compound": "taxine alkaloids",
+    "severity": "severe",
+    "signs": [
+      "sudden death",
+      "trembling",
+      "breathing difficulty",
+      "collapse"
+    ],
+    "notes": "Common in UK churchyards and US landscaping. Often causes sudden death with few signs. The red flesh of the berry is less toxic but the seed inside is deadly. Never throw clippings into a run.",
+    "sources": [
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "domain"
+      },
+      {
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": true
+  }
+]
