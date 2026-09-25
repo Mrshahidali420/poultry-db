@@ -1,72 +1,138 @@
 # poultry-db
 
 Data-collection pipeline for a backyard-chicken information website. Gathers
-facts from free/licensed sources into JSON files under `data/`. Runs locally
-and via a GitHub Actions cron in small, resumable batches.
+facts from free sources into JSON files under `data/`. Runs locally and via a
+GitHub Actions cron in small, resumable batches.
 
-Node 24, ESM (`"type": "module"`), no heavy dependencies, built-in `fetch`.
+Node 24, ESM, no dependencies, built-in `fetch`. Tests use `node:test`.
 
 ## Datasets (`data/`)
 
-| File | Contents | Source | License |
-|---|---|---|---|
-| `breeds.json` | Every chicken breed article with an `{{Infobox poultry breed}}` template on Wikipedia (from `Category:Chicken breeds` + `List of chicken breeds`). Fields: names, country, APA/ABA/PCGB class, weights, egg colour, comb, status, use, plain-text summary, lead image. | Wikipedia | Text/facts CC BY-SA 4.0 |
-| `breeds_extra.json` | LLM-extracted fields per breed (eggs/year, temperament, broodiness, hardiness, purpose, etc.), extracted only from the Wikipedia article text, `null` when not stated. `needs_review: true` on every row. | GitHub Models (from Wikipedia text) | Same as source text |
-| `diseases.json` | Every article in `Category:Poultry diseases` and its direct subcategories, with whatever infobox fields the article has, a plain-text summary, and lead image. | Wikipedia | CC BY-SA 4.0 |
-| `diseases_extra.json` | LLM-extracted fields (cause type, contagion, symptoms, prevention, vaccine availability). Not veterinary advice. | GitHub Models | Same as source text |
-| `foods_index.json` | ~200 food ids/names/search terms for the "can chickens eat X" pages, derived from `research/12-chicken-food-pages.md`. | Internal research | n/a |
-| `nutrition.json` | Per-100g nutrition facts matched from the USDA SR Legacy dataset for each food in `foods_index.json`. | USDA FoodData Central | Public domain (US government work) |
-| `nutrition_unmatched.json` | Foods that could not be confidently matched to an SR Legacy item. | — | — |
-| `keywords.json` | Keyword/volume/KD rows parsed from the three research markdown files in `research/`. | Internal research (Semrush data) | Internal |
-| `sources.json` | Every source URL actually used, with its license. | — | — |
+| File | What it holds | Source |
+|---|---|---|
+| `breeds.json` | Every Wikipedia chicken breed with an `{{Infobox poultry breed}}` (from `Category:Chicken breeds` + `List of chicken breeds`): names, country, APA/ABA/PCGB class, weights, egg and skin colour, comb, status, use, summary, image. | Wikipedia, Wikimedia Commons, Harris730 image fallback |
+| `breeds_extra.json` | Extracted breed facts (eggs/year, egg size and colour, temperament, broodiness, hardiness, purpose, weights, autosexing, varieties, lifespan...). Every field is a provenance fact, see below. Also `tags` (e.g. `BROWN LAYERS`). | GitHub Models over Wikipedia + reference pages + Harris730 text; imports |
+| `breeds_missing.json` | Breeds named in the Harris730 dataset that are not in `breeds.json`, for manual review. | Harris730 |
+| `breeds_global.json` | FAO DAD-IS chicken breed populations: name, other names, country, transboundary name, risk status, population size and trend, main uses, link to `breeds.json`. Empty until a manual export is added (see below). | FAO DAD-IS |
+| `diseases.json` | Every article in `Category:Poultry diseases` and its direct subcategories: summary, infobox fields, image. | Wikipedia |
+| `diseases_extra.json` | Extracted disease facts (cause, contagious, zoonotic, symptoms, prevention, vaccine, notifiable). Provenance facts. Not veterinary advice. | GitHub Models over Wikipedia + reference pages |
+| `reference_sources.json` | Reference pages that answered HTTP 200, with the breeds/diseases each covers. Page text itself stays in `cache/`. | See `sources/reference-urls.json` |
+| `foods_index.json` | Food ids, names and USDA search terms, built from `data/curated/food-safety.json` (falls back to `research/12-chicken-food-pages.md`). | Curated table |
+| `nutrition.json` / `nutrition_unmatched.json` | Per-100 g nutrition for each food, matched to USDA SR Legacy; foods with no confident match. | USDA FoodData Central |
+| `stats_by_country.json` | Chickens (head), laying hens, hen egg production (t), chicken meat production (t) by country, latest 10 years. | FAOSTAT QCL |
+| `stats_us_states.json` | NASS chickens and eggs series by US state, annual survey totals, latest 10 years, long form (`state, year, series, unit, value`). | USDA NASS Quick Stats bulk file |
+| `keywords.json` | Keyword / volume / KD rows parsed from `research/*.md`. | Internal research |
+| `sources.json` | Every source URL used, with publisher and licence note. | |
+| `images/breeds/` | Fallback breed images (only for breeds with no Commons image). | Harris730 |
+| `curated/` | Hand-written tables (food safety, toxic plants, predators, incubation, coop specs, eggs). Not generated by this pipeline. | By hand |
 
-Images: each breed/disease image record carries its own Commons license,
-license URL, author, and an `attribution_required` flag pulled from the
-Commons `imageinfo` API — check it per image before reuse.
+## Provenance
 
-`data/curated/` is reserved for hand-written tables (food safety verdicts,
-toxic plants, predators, incubation, coop specs) that a person writes and
-sources by hand; this pipeline does not generate them.
+Every extracted field in `breeds_extra.json` and `diseases_extra.json` is a fact:
+
+```json
+{ "value": 250, "source_url": "https://starmilling.com/poultry-chicken-breeds/", "origin": "github:Harris730/Chicken_breed_dataset" }
+```
+
+- `{ "value": null, "source_url": null }` means no source states it. Nothing is guessed.
+- When sources disagree the fact keeps every value:
+  `{ "value": 150, "source_url": "<a>", "conflict": true, "values": [{ "value": 150, "source_url": "<a>" }, { "value": 200, "source_url": "<b>" }] }`
+- The model may only cite URLs it was given. A value citing any other URL is dropped.
+- Every row carries `needs_review: true`.
+
+Which source wins a field, strongest first:
+
+1. Wikipedia infobox value in `breeds.json`
+2. A fact extracted by the model with its own `source_url` (Wikipedia text, reference pages, Harris730 text)
+3. `chatgpt-import` rows from `imports/`
+4. `github:iamthechickenlady-netizen/chicken-dictionary` rows (lowest)
+
+Imports only fill empty fields and never overwrite a stronger source.
+
+## `imports/` schema
+
+Drop JSON or CSV files into `imports/` and run `npm run merge:imports`.
+One row per fact:
+
+| column | required | meaning |
+|---|---|---|
+| `entity_id` | yes | id from `breeds.json` or `diseases.json` (kebab-case) |
+| `field` | yes | field name, e.g. `temperament`, `eggs_per_year_min` |
+| `value` | yes | the value; in CSV, `true`/`false`, numbers and `["a","b"]` arrays are converted |
+| `source_url` | yes | page that states the fact |
+| `origin` | no | defaults to `chatgpt-import` |
+| `entity_type` | no | `breed` or `disease`, only needed if an id exists in both |
+
+Merged values are tagged with their `origin` and `needs_review: true`.
+`imports/github-chicken-dictionary.json` is generated by `npm run import:github`.
+
+## Sources and licences
+
+- **Wikipedia** text and facts: CC BY-SA 4.0. Each record carries a licence note.
+- **Wikimedia Commons** images: licence, author and licence URL stored per image.
+- **Reference pages** (Livestock Conservancy, Poultry Club of Great Britain, American Poultry Association, FAO DAD-IS, Merck Veterinary Manual, USDA APHIS, Defra/APHA, CDC, Penn State, Mississippi State, NC State and Maryland extension, Cornell Plants Poisonous to Livestock): the fetcher checks each URL for HTTP 200 and drops dead ones. UMN and UCANR block automated requests (403) and are dropped.
+- **Harris730/Chicken_breed_dataset** (GitHub): breed text credited to starmilling.com; used as an extraction source and for fallback images.
+- **iamthechickenlady-netizen/chicken-dictionary** (GitHub): 15 breeds of structured data, lowest-priority import.
+- **USDA FoodData Central** and **USDA NASS**: public domain. **FAOSTAT**: CC BY 4.0.
+
+Content policy: licence type does not decide which sources are used. Source
+URLs are always kept for attribution. Long third-party prose (article and page
+text) is never committed; it lives only in `cache/`, which is gitignored, and
+only extracted facts plus `source_url` reach `data/`. Images and structured or
+tabular data may be committed.
+
+## FAO DAD-IS: manual export, then parse
+
+The DAD-IS export is a browser app, not a downloadable file, and this pipeline
+does not automate a browser session for it. To fill `breeds_global.json`:
+
+1. Open https://www.fao.org/dad-is/data/data-export/en and choose **Data Export - Breeds**
+   (https://dadis-hub-ws.web.app/?app=breeds-export&lang=en).
+2. Select species **Chicken** and all countries.
+3. Include breed name, other names, country, transboundary name, risk status,
+   population size, population trend and main uses if the form offers them.
+4. Export as CSV or Excel and save the file in `imports/dad-is/`.
+5. Run `npm run import:dadis`.
+
+The parser matches column names loosely, so small wording changes in the export
+are fine. It keeps only chicken rows and links each breed to `breeds.json` by
+name, transboundary name or other names.
 
 ## Running locally
 
 ```
-npm install   # no dependencies to install, but keeps npm happy
-npm test               # run all node:test suites
-npm run fetch:breeds   # full Wikipedia breed crawl (~minutes)
-npm run fetch:diseases # full Wikipedia disease crawl
-npm run keywords       # parse research/*.md into data/keywords.json
-npm run fetch:nutrition # tries USDA; logs "skipped: USDA unreachable" and
-                         # exits 0 if the host can't be reached (expected on
-                         # some networks — it works from GitHub Actions)
-npm run enrich          # LLM enrichment batch; needs GITHUB_TOKEN, otherwise
-                         # logs "skipped: no GITHUB_TOKEN" and exits 0
-npm run all             # runs everything above in order
+npm test                 # all node:test suites
+npm run fetch:breeds     # Wikipedia breed crawl (several minutes)
+npm run fetch:github     # Harris730 CSV + chicken-dictionary into cache/
+npm run fetch:images     # fallback images for breeds with no Commons image
+npm run fetch:diseases   # Wikipedia disease crawl
+npm run fetch:sources    # check reference URLs, cache page text
+npm run fetch:nutrition  # USDA SR Legacy; exits 0 with "skipped: USDA unreachable" if offline
+npm run fetch:faostat    # FAOSTAT bulk (34 MB), monthly
+npm run fetch:nass       # NASS bulk (~440 MB gzipped, streamed), monthly
+npm run keywords         # research/*.md -> keywords.json
+npm run import:github    # tags, breeds_missing.json, chicken-dictionary import rows
+npm run import:dadis     # parse a manual DAD-IS export, if present
+npm run merge:imports    # merge imports/ into *_extra.json
+npm run enrich           # LLM batch; needs GITHUB_TOKEN, else "skipped: no GITHUB_TOKEN"
+npm run all              # everything above, in order
 ```
 
-Fetchers are incremental: an item fetched within the last 30 days is reused
-unless you pass `--force` (e.g. `node scripts/fetch-breeds.mjs --force`).
+Fetchers are incremental: anything fetched in the last 30 days is reused unless
+you pass `--force` (e.g. `node scripts/fetch-sources.mjs --force`). Failed URLs
+are retried on the next run.
 
 ## GitHub Actions cron
 
-`.github/workflows/collect.yml` runs `node scripts/run-all.mjs` on a
-`23 */6 * * *` schedule (every 6 hours) and on demand via
-`workflow_dispatch`. It has `contents: write` and `models: read` permissions
-so it can call GitHub Models for the enrichment step for free, using the
-job's own `GITHUB_TOKEN` (no extra secret to configure). The LLM step
-processes at most `BATCH` items per run (default 30, ~5s apart) and stops
-cleanly on a 429, recording per-item `pending`/`done`/`error` status in
-`state/queue.json` so the next scheduled run picks up where it left off.
+`.github/workflows/collect.yml` runs `node scripts/run-all.mjs` every 6 hours
+(`23 */6 * * *`) and on demand. It has `contents: write` and `models: read`, so
+the enrichment step calls GitHub Models with the job's own `GITHUB_TOKEN` (no
+extra secret). Each run enriches at most `BATCH` items (default 30, about 5 s
+apart), stops cleanly on a 429, and records `pending`/`done`/`error` per item in
+`state/queue.json`, so the next run continues where this one stopped.
 
-After a run, it commits any changes under `data/` and `state/` as the
-`github-actions[bot]` identity, `git pull --rebase`s first, and never force
-pushes. If there is nothing to commit, it exits cleanly without an empty
-commit. A `concurrency` group prevents overlapping runs.
-
-## Why USDA nutrition needs CI, not this laptop
-
-The USDA FoodData Central API and bulk CSV downloads are not reachable from
-this development machine (connection refused), but are reachable from GitHub
-Actions runners. `fetch-nutrition.mjs` probes reachability first and exits 0
-with a clear log line when the host can't be reached, instead of failing the
-whole pipeline.
+`cache/` is restored between runs with `actions/cache`, so reference pages are
+not re-crawled every run. Changes under `data/`, `state/` and `imports/` are
+committed as `github-actions[bot]`, after a `git pull --rebase`, never with a
+force push. Nothing to commit means no commit. A `concurrency` group stops runs
+from overlapping.

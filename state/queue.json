@@ -1822,5 +1822,2345 @@
       "last_error": null,
       "updated_at": "2026-09-25T09:43:41.827Z"
     }
+  },
+  "reference_urls": {
+    "apa-accepted-breeds": {
+      "id": "apa-accepted-breeds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:58.428Z"
+    },
+    "apa-newly-added": {
+      "id": "apa-newly-added",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:58.829Z"
+    },
+    "aphis-avian": {
+      "id": "aphis-avian",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:47.993Z"
+    },
+    "aphis-avian-influenza": {
+      "id": "aphis-avian-influenza",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:06.581Z"
+    },
+    "aphis-defend-the-flock": {
+      "id": "aphis-defend-the-flock",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:58.237Z"
+    },
+    "aphis-virulent-newcastle": {
+      "id": "aphis-virulent-newcastle",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:15.937Z"
+    },
+    "cdc-backyard-poultry": {
+      "id": "cdc-backyard-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:19.885Z"
+    },
+    "cdc-salmonella": {
+      "id": "cdc-salmonella",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:21.357Z"
+    },
+    "cornell-poisonous-plants": {
+      "id": "cornell-poisonous-plants",
+      "status": "done",
+      "attempts": 3,
+      "last_error": null,
+      "updated_at": "2026-09-25T11:19:21.916Z"
+    },
+    "cornell-poisonous-plants-common-names": {
+      "id": "cornell-poisonous-plants-common-names",
+      "status": "done",
+      "attempts": 3,
+      "last_error": null,
+      "updated_at": "2026-09-25T11:19:22.186Z"
+    },
+    "cornell-poisonous-plants-species": {
+      "id": "cornell-poisonous-plants-species",
+      "status": "done",
+      "attempts": 3,
+      "last_error": null,
+      "updated_at": "2026-09-25T11:19:23.000Z"
+    },
+    "defra-avian-influenza": {
+      "id": "defra-avian-influenza",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:17.932Z"
+    },
+    "defra-newcastle-disease": {
+      "id": "defra-newcastle-disease",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:18.216Z"
+    },
+    "defra-notifiable-diseases": {
+      "id": "defra-notifiable-diseases",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:17.384Z"
+    },
+    "fao-dad-is": {
+      "id": "fao-dad-is",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:59.291Z"
+    },
+    "livestock-conservancy-cpl": {
+      "id": "livestock-conservancy-cpl",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:00.080Z"
+    },
+    "livestock-conservancy-cpl--araucana-chicken": {
+      "id": "livestock-conservancy-cpl--araucana-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:49.939Z"
+    },
+    "livestock-conservancy-cpl--booted-bantam-chicken": {
+      "id": "livestock-conservancy-cpl--booted-bantam-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:16.707Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-ancona-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-ancona-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:35.431Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-andalusian-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-andalusian-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:37.082Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-aseel-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-aseel-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:51.309Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-buckeye-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-buckeye-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:07.855Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-buttercup-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-buttercup-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:57.751Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-campine-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-campine-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:24.496Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-catalana-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-catalana-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:52.875Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-chantecler-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-chantecler-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:09.273Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-cochin-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-cochin-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:38.770Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-cornish-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-cornish-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:41.030Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-crevecoeur-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-crevecoeur-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:43.316Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-cubalaya-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-cubalaya-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:03.282Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-delaware-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-delaware-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:14.859Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-dominique-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-dominique-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:10.725Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-dorking-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-dorking-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:25.817Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-faverolles-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-faverolles-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:11.216Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-hamburg-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-hamburg-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:27.298Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-holland-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-holland-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:01.847Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-houdan-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-houdan-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:28.820Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-icelandic-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-icelandic-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:59.249Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-java-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-java-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:04.849Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-jersey-giant-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-jersey-giant-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:16.292Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-la-fleche-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-la-fleche-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:18.078Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-lakenvelder-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-lakenvelder-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:03.367Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-langshan-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-langshan-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:30.674Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-leghorn-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-leghorn-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:47.882Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-malay-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-malay-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:19.521Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-minorca-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-minorca-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:44.886Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-nankin-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-nankin-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:06.310Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-new-hampshire-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-new-hampshire-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:06.237Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-old-english-game-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-old-english-game-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:12.828Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-orloff-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-orloff-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:08.173Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-phoenix-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-phoenix-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:14.271Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-polish-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-polish-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:49.602Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-redcap-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-redcap-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:21.800Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-rhode-island-white-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-rhode-island-white-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:12.249Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sebright-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sebright-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:46.425Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-shamo-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-shamo-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:55.521Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-spanish-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-spanish-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:23.152Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-spitzhauben-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-spitzhauben-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:16.084Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sultan-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sultan-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:32.683Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sumatra-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sumatra-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:34.083Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sussex-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-sussex-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:17.888Z"
+    },
+    "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-yokohama-chicken": {
+      "id": "livestock-conservancy-cpl--heritage-breeds-heritage-breeds-list-yokohama-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:09.672Z"
+    },
+    "livestock-conservancy-cpl--japanese-bantam-chicken": {
+      "id": "livestock-conservancy-cpl--japanese-bantam-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:59.894Z"
+    },
+    "livestock-conservancy-cpl--modern-game-chicken": {
+      "id": "livestock-conservancy-cpl--modern-game-chicken",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:57:31.022Z"
+    },
+    "merck-poultry": {
+      "id": "merck-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:00.106Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-air-sac-mites-in-poultry": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-air-sac-mites-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:04.471Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-bedbugs-of-poultry": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-bedbugs-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:52.293Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-fleas-of-poultry": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-fleas-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:54.341Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-flies-gnats-and-mosquitoes-of-poultry": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-flies-gnats-and-mosquitoes-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:56.507Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-fowl-ticks": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-fowl-ticks",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:57.984Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-lice-of-poultry": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-lice-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:00.712Z"
+    },
+    "merck-poultry--poultry-arthropods-in-poultry-mites-of-poultry": {
+      "id": "merck-poultry--poultry-arthropods-in-poultry-mites-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:02.199Z"
+    },
+    "merck-poultry--poultry-aspergillosis-aspergillosis-in-poultry": {
+      "id": "merck-poultry--poultry-aspergillosis-aspergillosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:37.909Z"
+    },
+    "merck-poultry--poultry-avian-chlamydiosis-avian-chlamydiosis": {
+      "id": "merck-poultry--poultry-avian-chlamydiosis-avian-chlamydiosis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:07.422Z"
+    },
+    "merck-poultry--poultry-avian-encephalomyelitis-avian-encephalomyelitis": {
+      "id": "merck-poultry--poultry-avian-encephalomyelitis-avian-encephalomyelitis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:26.065Z"
+    },
+    "merck-poultry--poultry-avian-influenza-in-poultry-and-wild-birds-avian-influenza-in-poultry-and": {
+      "id": "merck-poultry--poultry-avian-influenza-in-poultry-and-wild-birds-avian-influenza-in-poultry-and",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:28.752Z"
+    },
+    "merck-poultry--poultry-avian-metapneumovirus-infection-avian-metapneumovirus-infection": {
+      "id": "merck-poultry--poultry-avian-metapneumovirus-infection-avian-metapneumovirus-infection",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:31.483Z"
+    },
+    "merck-poultry--poultry-avian-nephritis-virus-infections-avian-nephritis-virus-infections-in-pou": {
+      "id": "merck-poultry--poultry-avian-nephritis-virus-infections-avian-nephritis-virus-infections-in-pou",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:33.175Z"
+    },
+    "merck-poultry--poultry-avian-spirochetosis-avian-spirochetosis": {
+      "id": "merck-poultry--poultry-avian-spirochetosis-avian-spirochetosis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:10.782Z"
+    },
+    "merck-poultry--poultry-backyard-chickens-and-other-poultry-backyard-chickens-and-other-poultry": {
+      "id": "merck-poultry--poultry-backyard-chickens-and-other-poultry-backyard-chickens-and-other-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:02.914Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-aegyptianellosis-in-poultry": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-aegyptianellosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:08.539Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-filariasis-in-poultry": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-filariasis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:10.894Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-haemoproteus-infection-in-poultry": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-haemoproteus-infection-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:18.965Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-leucocytozoonosis-in-poultry": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-leucocytozoonosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:21.872Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-overview-of-bloodborne-organisms-in-poul": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-overview-of-bloodborne-organisms-in-poul",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:05.280Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-plasmodium-infection-in-poultry-and-othe": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-plasmodium-infection-in-poultry-and-othe",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:26.823Z"
+    },
+    "merck-poultry--poultry-bloodborne-organisms-in-poultry-uncommon-bloodborne-organisms-in-poultry": {
+      "id": "merck-poultry--poultry-bloodborne-organisms-in-poultry-uncommon-bloodborne-organisms-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:36.098Z"
+    },
+    "merck-poultry--poultry-bordetellosis-bordetellosis-in-poultry": {
+      "id": "merck-poultry--poultry-bordetellosis-bordetellosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:14.016Z"
+    },
+    "merck-poultry--poultry-botulism-botulism-in-poultry": {
+      "id": "merck-poultry--poultry-botulism-botulism-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:17.093Z"
+    },
+    "merck-poultry--poultry-campylobacteriosis-in-birds-campylobacteriosis-in-birds": {
+      "id": "merck-poultry--poultry-campylobacteriosis-in-birds-campylobacteriosis-in-birds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:05.518Z"
+    },
+    "merck-poultry--poultry-candidiasis-in-poultry-candidiasis-in-poultry": {
+      "id": "merck-poultry--poultry-candidiasis-in-poultry-candidiasis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:39.582Z"
+    },
+    "merck-poultry--poultry-chicken-anemia-virus-infection-chicken-anemia-virus-infection": {
+      "id": "merck-poultry--poultry-chicken-anemia-virus-infection-chicken-anemia-virus-infection",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:35.048Z"
+    },
+    "merck-poultry--poultry-coccidiosis-in-poultry-coccidiosis-in-poultry": {
+      "id": "merck-poultry--poultry-coccidiosis-in-poultry-coccidiosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:06.986Z"
+    },
+    "merck-poultry--poultry-cochlosomiasis-in-turkeys-and-ducks-cochlosomiasis-cochlosoma-anatis-in-": {
+      "id": "merck-poultry--poultry-cochlosomiasis-in-turkeys-and-ducks-cochlosomiasis-cochlosoma-anatis-in-",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:10.218Z"
+    },
+    "merck-poultry--poultry-colibacillosis-colibacillosis-in-poultry": {
+      "id": "merck-poultry--poultry-colibacillosis-colibacillosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:20.132Z"
+    },
+    "merck-poultry--poultry-cryptosporidiosis-in-poultry-cryptosporidiosis-in-poultry": {
+      "id": "merck-poultry--poultry-cryptosporidiosis-in-poultry-cryptosporidiosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:12.027Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-calcium-metabolism-probl": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-calcium-metabolism-probl",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:28.850Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-cystic-right-oviduct-in-": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-cystic-right-oviduct-in-",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:15.245Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-defective-or-abnormal-eg": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-defective-or-abnormal-eg",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:19.364Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-diuresis-syndrome-in-pou": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-diuresis-syndrome-in-pou",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:41.718Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-egg-bound-or-impacted-ov": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-egg-bound-or-impacted-ov",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:21.443Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-egg-peritonitis-in-poult": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-egg-peritonitis-in-poult",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:23.646Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-false-laying-in-poultry": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-false-laying-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:26.434Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-fatty-liver-hemorrhagic-": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-fatty-liver-hemorrhagic-",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:44.164Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-infertility-in-poultry": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-infertility-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:33.059Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-internal-laying-in-poult": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-internal-laying-in-poult",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:31.691Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-neoplasia-of-the-reprodu": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-neoplasia-of-the-reprodu",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:35.108Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-oophoritis-and-ovarian-r": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-oophoritis-and-ovarian-r",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:36.519Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-prolapse-of-the-oviduct-": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-prolapse-of-the-oviduct-",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:38.288Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-salpingitis-in-poultry": {
+      "id": "merck-poultry--poultry-disorders-of-the-reproductive-system-in-poultry-salpingitis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:40.151Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-skeletal-system-in-poultry-infectious-skeletal-disorder": {
+      "id": "merck-poultry--poultry-disorders-of-the-skeletal-system-in-poultry-infectious-skeletal-disorder",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:50.518Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-skeletal-system-in-poultry-noninfectious-skeletal-disor": {
+      "id": "merck-poultry--poultry-disorders-of-the-skeletal-system-in-poultry-noninfectious-skeletal-disor",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:48.238Z"
+    },
+    "merck-poultry--poultry-disorders-of-the-skeletal-system-in-poultry-overview-of-skeletal-system-": {
+      "id": "merck-poultry--poultry-disorders-of-the-skeletal-system-in-poultry-overview-of-skeletal-system-",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:45.623Z"
+    },
+    "merck-poultry--poultry-duck-viral-enteritis-duck-viral-enteritis": {
+      "id": "merck-poultry--poultry-duck-viral-enteritis-duck-viral-enteritis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:37.340Z"
+    },
+    "merck-poultry--poultry-duck-viral-hepatitis-duck-viral-hepatitis": {
+      "id": "merck-poultry--poultry-duck-viral-hepatitis-duck-viral-hepatitis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:39.683Z"
+    },
+    "merck-poultry--poultry-egg-drop-syndrome-76-egg-drop-syndrome-76": {
+      "id": "merck-poultry--poultry-egg-drop-syndrome-76-egg-drop-syndrome-76",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:42.997Z"
+    },
+    "merck-poultry--poultry-enterococcosis-enterococcosis-in-poultry": {
+      "id": "merck-poultry--poultry-enterococcosis-enterococcosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:22.370Z"
+    },
+    "merck-poultry--poultry-erysipelas-erysipelas-in-poultry": {
+      "id": "merck-poultry--poultry-erysipelas-erysipelas-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:25.273Z"
+    },
+    "merck-poultry--poultry-fatty-liver-hemorrhagic-syndrome-fatty-liver-hemorrhagic-syndrome-in-pou": {
+      "id": "merck-poultry--poultry-fatty-liver-hemorrhagic-syndrome-fatty-liver-hemorrhagic-syndrome-in-pou",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:18.603Z"
+    },
+    "merck-poultry--poultry-fowl-cholera-fowl-cholera": {
+      "id": "merck-poultry--poultry-fowl-cholera-fowl-cholera",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:27.739Z"
+    },
+    "merck-poultry--poultry-fowlpox-fowlpox-in-chickens-and-turkeys": {
+      "id": "merck-poultry--poultry-fowlpox-fowlpox-in-chickens-and-turkeys",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:45.157Z"
+    },
+    "merck-poultry--poultry-fowlpox-poxviral-infections-in-birds-other-than-chickens-and-turkeys": {
+      "id": "merck-poultry--poultry-fowlpox-poxviral-infections-in-birds-other-than-chickens-and-turkeys",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:46.836Z"
+    },
+    "merck-poultry--poultry-gangrenous-dermatitis-gangrenous-dermatitis-in-poultry": {
+      "id": "merck-poultry--poultry-gangrenous-dermatitis-gangrenous-dermatitis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:31.954Z"
+    },
+    "merck-poultry--poultry-helminthiasis-helminthiasis-in-poultry": {
+      "id": "merck-poultry--poultry-helminthiasis-helminthiasis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:14.240Z"
+    },
+    "merck-poultry--poultry-hemorrhagic-enteritis-and-marble-spleen-disease-hemorrhagic-enteritis-an": {
+      "id": "merck-poultry--poultry-hemorrhagic-enteritis-and-marble-spleen-disease-hemorrhagic-enteritis-an",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:49.721Z"
+    },
+    "merck-poultry--poultry-hemorrhagic-vasculopathy-in-turkeys-hemorrhagic-vasculopathy-in-turkeys": {
+      "id": "merck-poultry--poultry-hemorrhagic-vasculopathy-in-turkeys-hemorrhagic-vasculopathy-in-turkeys",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:20.285Z"
+    },
+    "merck-poultry--poultry-hexamitiasis-hexamitiasis-in-poultry": {
+      "id": "merck-poultry--poultry-hexamitiasis-hexamitiasis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:16.601Z"
+    },
+    "merck-poultry--poultry-histomoniasis-histomoniasis-in-poultry": {
+      "id": "merck-poultry--poultry-histomoniasis-histomoniasis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:18.925Z"
+    },
+    "merck-poultry--poultry-inclusion-body-hepatitis-and-hepatitis-hydropericardium-syndrome-inclusi": {
+      "id": "merck-poultry--poultry-inclusion-body-hepatitis-and-hepatitis-hydropericardium-syndrome-inclusi",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:52.211Z"
+    },
+    "merck-poultry--poultry-infectious-bronchitis-infectious-bronchitis-in-chickens": {
+      "id": "merck-poultry--poultry-infectious-bronchitis-infectious-bronchitis-in-chickens",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:54.653Z"
+    },
+    "merck-poultry--poultry-infectious-bursal-disease-infectious-bursal-disease-in-poultry": {
+      "id": "merck-poultry--poultry-infectious-bursal-disease-infectious-bursal-disease-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:56.043Z"
+    },
+    "merck-poultry--poultry-infectious-coryza-infectious-coryza": {
+      "id": "merck-poultry--poultry-infectious-coryza-infectious-coryza",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:38.319Z"
+    },
+    "merck-poultry--poultry-infectious-laryngotracheitis-infectious-laryngotracheitis": {
+      "id": "merck-poultry--poultry-infectious-laryngotracheitis-infectious-laryngotracheitis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:58.288Z"
+    },
+    "merck-poultry--poultry-listeriosis-listeriosis-in-poultry": {
+      "id": "merck-poultry--poultry-listeriosis-listeriosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:40.332Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-ascites-syndrome-in-poultry": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-ascites-syndrome-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:56.265Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-breast-blisters-in-poultry": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-breast-blisters-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:54.243Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-breast-burns-and-breast-buttons-in-p": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-breast-burns-and-breast-buttons-in-p",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:57.911Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-cannibalism-in-poultry": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-cannibalism-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:00.942Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-fluke-infections-in-poultry": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-fluke-infections-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:02.895Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-pendulous-crop-in-poultry": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-pendulous-crop-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:04.357Z"
+    },
+    "merck-poultry--poultry-miscellaneous-conditions-of-poultry-urate-deposition-gout-in-poultry": {
+      "id": "merck-poultry--poultry-miscellaneous-conditions-of-poultry-urate-deposition-gout-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:06.863Z"
+    },
+    "merck-poultry--poultry-multicausal-enteric-disease-multicausal-enteric-disease-of-poultry": {
+      "id": "merck-poultry--poultry-multicausal-enteric-disease-multicausal-enteric-disease-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:51.880Z"
+    },
+    "merck-poultry--poultry-mycoplasmosis-mycoplasma-gallisepticum-infection-in-poultry": {
+      "id": "merck-poultry--poultry-mycoplasmosis-mycoplasma-gallisepticum-infection-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:43.811Z"
+    },
+    "merck-poultry--poultry-mycoplasmosis-mycoplasma-iowae-infection-in-poultry": {
+      "id": "merck-poultry--poultry-mycoplasmosis-mycoplasma-iowae-infection-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:50.395Z"
+    },
+    "merck-poultry--poultry-mycoplasmosis-mycoplasma-meleagridis-infection-in-poultry": {
+      "id": "merck-poultry--poultry-mycoplasmosis-mycoplasma-meleagridis-infection-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:48.338Z"
+    },
+    "merck-poultry--poultry-mycoplasmosis-mycoplasma-synoviae-infection-in-poultry": {
+      "id": "merck-poultry--poultry-mycoplasmosis-mycoplasma-synoviae-infection-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:45.408Z"
+    },
+    "merck-poultry--poultry-mycoplasmosis-overview-of-mycoplasmosis-in-poultry": {
+      "id": "merck-poultry--poultry-mycoplasmosis-overview-of-mycoplasmosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:42.096Z"
+    },
+    "merck-poultry--poultry-mycotoxicoses-in-poultry-aflatoxicosis-in-poultry": {
+      "id": "merck-poultry--poultry-mycotoxicoses-in-poultry-aflatoxicosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:24.390Z"
+    },
+    "merck-poultry--poultry-mycotoxicoses-in-poultry-emerging-mycotoxicoses-in-poultry": {
+      "id": "merck-poultry--poultry-mycotoxicoses-in-poultry-emerging-mycotoxicoses-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:30.475Z"
+    },
+    "merck-poultry--poultry-mycotoxicoses-in-poultry-fusariotoxicosis-in-poultry": {
+      "id": "merck-poultry--poultry-mycotoxicoses-in-poultry-fusariotoxicosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:26.211Z"
+    },
+    "merck-poultry--poultry-mycotoxicoses-in-poultry-miscellaneous-mycotoxins-in-poultry": {
+      "id": "merck-poultry--poultry-mycotoxicoses-in-poultry-miscellaneous-mycotoxins-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:28.267Z"
+    },
+    "merck-poultry--poultry-mycotoxicoses-in-poultry-mycotoxicoses-in-poultry": {
+      "id": "merck-poultry--poultry-mycotoxicoses-in-poultry-mycotoxicoses-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:22.666Z"
+    },
+    "merck-poultry--poultry-myopathies-in-poultry-exertional-myopathy-in-poultry": {
+      "id": "merck-poultry--poultry-myopathies-in-poultry-exertional-myopathy-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:34.817Z"
+    },
+    "merck-poultry--poultry-myopathies-in-poultry-genetic-myopathy-in-poultry": {
+      "id": "merck-poultry--poultry-myopathies-in-poultry-genetic-myopathy-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:43.742Z"
+    },
+    "merck-poultry--poultry-myopathies-in-poultry-mechanically-induced-myopathy-in-poultry": {
+      "id": "merck-poultry--poultry-myopathies-in-poultry-mechanically-induced-myopathy-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:37.294Z"
+    },
+    "merck-poultry--poultry-myopathies-in-poultry-miscellaneous-myopathies-in-poultry": {
+      "id": "merck-poultry--poultry-myopathies-in-poultry-miscellaneous-myopathies-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:32.699Z"
+    },
+    "merck-poultry--poultry-myopathies-in-poultry-nutritional-myopathy-in-poultry": {
+      "id": "merck-poultry--poultry-myopathies-in-poultry-nutritional-myopathy-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:39.113Z"
+    },
+    "merck-poultry--poultry-myopathies-in-poultry-toxic-myopathy-in-poultry": {
+      "id": "merck-poultry--poultry-myopathies-in-poultry-toxic-myopathy-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:41.750Z"
+    },
+    "merck-poultry--poultry-necrotic-enteritis-necrotic-enteritis-in-poultry": {
+      "id": "merck-poultry--poultry-necrotic-enteritis-necrotic-enteritis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:52.445Z"
+    },
+    "merck-poultry--poultry-neoplasms-in-poultry-avian-leukosis-in-poultry": {
+      "id": "merck-poultry--poultry-neoplasms-in-poultry-avian-leukosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:12.584Z"
+    },
+    "merck-poultry--poultry-neoplasms-in-poultry-marek-s-disease-in-poultry": {
+      "id": "merck-poultry--poultry-neoplasms-in-poultry-marek-s-disease-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:10.277Z"
+    },
+    "merck-poultry--poultry-neoplasms-in-poultry-neoplasms-of-unknown-etiology-in-poultry": {
+      "id": "merck-poultry--poultry-neoplasms-in-poultry-neoplasms-of-unknown-etiology-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:17.186Z"
+    },
+    "merck-poultry--poultry-neoplasms-in-poultry-overview-of-neoplasms-in-poultry": {
+      "id": "merck-poultry--poultry-neoplasms-in-poultry-overview-of-neoplasms-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:08.840Z"
+    },
+    "merck-poultry--poultry-neoplasms-in-poultry-reticuloendotheliosis-in-poultry": {
+      "id": "merck-poultry--poultry-neoplasms-in-poultry-reticuloendotheliosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:14.976Z"
+    },
+    "merck-poultry--poultry-newcastle-disease-and-other-avian-paramyxovirus-infections-newcastle-dis": {
+      "id": "merck-poultry--poultry-newcastle-disease-and-other-avian-paramyxovirus-infections-newcastle-dis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:00.353Z"
+    },
+    "merck-poultry--poultry-newcastle-disease-and-other-avian-paramyxovirus-infections-other-avian-p": {
+      "id": "merck-poultry--poultry-newcastle-disease-and-other-avian-paramyxovirus-infections-other-avian-p",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:02.750Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-feeding-and-management-practices-in-pou": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-feeding-and-management-practices-in-pou",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:47.415Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-feeding-methods-for-poultry": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-feeding-methods-for-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:13.290Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-management-of-growing-chickens": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-management-of-growing-chickens",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:52.329Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-management-of-laying-chickens": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-management-of-laying-chickens",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:54.733Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-mineral-deficiencies-in-poultry": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-mineral-deficiencies-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:08.057Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-nutritional-deficiencies-in-poultry": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-nutritional-deficiencies-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:04.732Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-nutritional-requirements-of-poultry": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-nutritional-requirements-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:43.231Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-organic-production-practices-for-poultr": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-organic-production-practices-for-poultr",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:02.336Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-protein-amino-acid-and-energy-deficienc": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-protein-amino-acid-and-energy-deficienc",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:06.434Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-vaccination-programs-for-poultry": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-vaccination-programs-for-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:50.283Z"
+    },
+    "merck-poultry--poultry-nutrition-and-management-poultry-vitamin-deficiencies-in-poultry": {
+      "id": "merck-poultry--poultry-nutrition-and-management-poultry-vitamin-deficiencies-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:02:10.004Z"
+    },
+    "merck-poultry--poultry-omphalitis-omphalitis-in-poultry": {
+      "id": "merck-poultry--poultry-omphalitis-omphalitis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:54.161Z"
+    },
+    "merck-poultry--poultry-parvovirus-infection-of-waterfowl-parvovirus-infection-of-waterfowl": {
+      "id": "merck-poultry--poultry-parvovirus-infection-of-waterfowl-parvovirus-infection-of-waterfowl",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:04.651Z"
+    },
+    "merck-poultry--poultry-poisonings-poisonings-in-poultry": {
+      "id": "merck-poultry--poultry-poisonings-poisonings-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:45.980Z"
+    },
+    "merck-poultry--poultry-quail-bronchitis-quail-bronchitis": {
+      "id": "merck-poultry--poultry-quail-bronchitis-quail-bronchitis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:06.508Z"
+    },
+    "merck-poultry--poultry-riemerella-anatipestifer-infection-riemerella-anatipestifer-infection-in": {
+      "id": "merck-poultry--poultry-riemerella-anatipestifer-infection-riemerella-anatipestifer-infection-in",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:59:55.982Z"
+    },
+    "merck-poultry--poultry-salmonelloses-in-poultry-fowl-typhoid": {
+      "id": "merck-poultry--poultry-salmonelloses-in-poultry-fowl-typhoid",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:00:49.009Z"
+    },
+    "merck-poultry--poultry-salmonelloses-in-poultry-overview-of-salmonelloses-in-poultry": {
+      "id": "merck-poultry--poultry-salmonelloses-in-poultry-overview-of-salmonelloses-in-poultry",
+      "status": "error",
+      "attempts": 1,
+      "last_error": "timeout",
+      "updated_at": "2026-09-25T10:00:41.558Z"
+    },
+    "merck-poultry--poultry-salmonelloses-in-poultry-paratyphoid-infections-in-poultry": {
+      "id": "merck-poultry--poultry-salmonelloses-in-poultry-paratyphoid-infections-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:00:53.299Z"
+    },
+    "merck-poultry--poultry-salmonelloses-in-poultry-pullorum-disease-in-poultry": {
+      "id": "merck-poultry--poultry-salmonelloses-in-poultry-pullorum-disease-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:00:46.623Z"
+    },
+    "merck-poultry--poultry-spontaneous-cardiomyopathy-of-turkeys-spontaneous-cardiomyopathy-of-turk": {
+      "id": "merck-poultry--poultry-spontaneous-cardiomyopathy-of-turkeys-spontaneous-cardiomyopathy-of-turk",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:48.364Z"
+    },
+    "merck-poultry--poultry-staphylococcosis-staphylococcosis-in-poultry": {
+      "id": "merck-poultry--poultry-staphylococcosis-staphylococcosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:00:56.146Z"
+    },
+    "merck-poultry--poultry-streptococcosis-streptococcosis-in-poultry": {
+      "id": "merck-poultry--poultry-streptococcosis-streptococcosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:00:58.818Z"
+    },
+    "merck-poultry--poultry-sudden-death-syndrome-of-broiler-chickens-sudden-death-syndrome-of-broil": {
+      "id": "merck-poultry--poultry-sudden-death-syndrome-of-broiler-chickens-sudden-death-syndrome-of-broil",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:03:50.961Z"
+    },
+    "merck-poultry--poultry-trichomonosis-trichomonosis": {
+      "id": "merck-poultry--poultry-trichomonosis-trichomonosis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:04:23.618Z"
+    },
+    "merck-poultry--poultry-tuberculosis-in-poultry-tuberculosis-in-poultry": {
+      "id": "merck-poultry--poultry-tuberculosis-in-poultry-tuberculosis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:01.347Z"
+    },
+    "merck-poultry--poultry-turkey-viral-hepatitis-turkey-viral-hepatitis": {
+      "id": "merck-poultry--poultry-turkey-viral-hepatitis-turkey-viral-hepatitis",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:08.329Z"
+    },
+    "merck-poultry--poultry-ulcerative-enteritis-ulcerative-enteritis-in-poultry": {
+      "id": "merck-poultry--poultry-ulcerative-enteritis-ulcerative-enteritis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:01:03.724Z"
+    },
+    "merck-poultry--poultry-viral-arthritis-viral-arthritis-in-poultry": {
+      "id": "merck-poultry--poultry-viral-arthritis-viral-arthritis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:11.174Z"
+    },
+    "merck-poultry--poultry-viral-encephalitides-in-birds-eastern-equine-encephalitis-virus-in-birds": {
+      "id": "merck-poultry--poultry-viral-encephalitides-in-birds-eastern-equine-encephalitis-virus-in-birds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:19.509Z"
+    },
+    "merck-poultry--poultry-viral-encephalitides-in-birds-highlands-j-virus-in-birds": {
+      "id": "merck-poultry--poultry-viral-encephalitides-in-birds-highlands-j-virus-in-birds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:23.832Z"
+    },
+    "merck-poultry--poultry-viral-encephalitides-in-birds-israel-turkey-meningoencephalitis-virus-in": {
+      "id": "merck-poultry--poultry-viral-encephalitides-in-birds-israel-turkey-meningoencephalitis-virus-in",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:25.814Z"
+    },
+    "merck-poultry--poultry-viral-encephalitides-in-birds-overview-of-viral-encephalitides-in-birds": {
+      "id": "merck-poultry--poultry-viral-encephalitides-in-birds-overview-of-viral-encephalitides-in-birds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:13.201Z"
+    },
+    "merck-poultry--poultry-viral-encephalitides-in-birds-west-nile-virus-in-birds": {
+      "id": "merck-poultry--poultry-viral-encephalitides-in-birds-west-nile-virus-in-birds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:17.101Z"
+    },
+    "merck-poultry--poultry-viral-encephalitides-in-birds-western-equine-encephalitis-virus-in-birds": {
+      "id": "merck-poultry--poultry-viral-encephalitides-in-birds-western-equine-encephalitis-virus-in-birds",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:21.839Z"
+    },
+    "merck-poultry--poultry-viral-enteritis-in-poultry-astrovirus-infections-in-poultry": {
+      "id": "merck-poultry--poultry-viral-enteritis-in-poultry-astrovirus-infections-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:33.691Z"
+    },
+    "merck-poultry--poultry-viral-enteritis-in-poultry-chicken-parvovirus-and-turkey-parvovirus-infe": {
+      "id": "merck-poultry--poultry-viral-enteritis-in-poultry-chicken-parvovirus-and-turkey-parvovirus-infe",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:35.192Z"
+    },
+    "merck-poultry--poultry-viral-enteritis-in-poultry-coronaviral-enteritis-of-turkeys": {
+      "id": "merck-poultry--poultry-viral-enteritis-in-poultry-coronaviral-enteritis-of-turkeys",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:30.173Z"
+    },
+    "merck-poultry--poultry-viral-enteritis-in-poultry-overview-of-viral-enteritis-in-poultry": {
+      "id": "merck-poultry--poultry-viral-enteritis-in-poultry-overview-of-viral-enteritis-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:27.237Z"
+    },
+    "merck-poultry--poultry-viral-enteritis-in-poultry-picornavirus-infections-in-poultry": {
+      "id": "merck-poultry--poultry-viral-enteritis-in-poultry-picornavirus-infections-in-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:37.994Z"
+    },
+    "merck-poultry--poultry-viral-enteritis-in-poultry-rotavirus-infections-of-poultry": {
+      "id": "merck-poultry--poultry-viral-enteritis-in-poultry-rotavirus-infections-of-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:05:31.956Z"
+    },
+    "msstate-poultry": {
+      "id": "msstate-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:27.408Z"
+    },
+    "ncsu-poultry": {
+      "id": "ncsu-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:28.485Z"
+    },
+    "poultry-club-gb-chickens": {
+      "id": "poultry-club-gb-chickens",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:19.328Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-asil": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-asil",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:37.581Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-ko-shamo": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-ko-shamo",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:37.869Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-kulang": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-kulang",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:38.164Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-malay": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-malay",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:38.453Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-nankin-shamo": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-nankin-shamo",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:38.751Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-satsumadori": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-satsumadori",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:39.039Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-shamo": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-shamo",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:39.294Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-taiwan": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-taiwan",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:39.656Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-thai-game": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-thai-game",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:40.298Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-tuzo": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-tuzo",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:41.429Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-yakido": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-yakido",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:42.269Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-yamato-gunkei": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-asian-hard-feather-yamato-gunkei",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:43.295Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-hard-feather-carlisle-old-english-game": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-hard-feather-carlisle-old-english-game",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:19.687Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-hard-feather-indian-game": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-hard-feather-indian-game",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:20.071Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-hard-feather-modern-game": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-hard-feather-modern-game",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:20.617Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-hard-feather-old-english-game-bantam": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-hard-feather-old-english-game-bantam",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:21.769Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-hard-feather-oxford-old-english-game": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-hard-feather-oxford-old-english-game",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:22.319Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-hard-feather-rumpless-game": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-hard-feather-rumpless-game",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:44.265Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-crevecoeur": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-crevecoeur",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:44.638Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-dominique": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-dominique",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:44.897Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-houdan": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-houdan",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:45.195Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-ixworth": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-ixworth",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:45.466Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-jersey-giant": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-jersey-giant",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:45.756Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-la-fleche": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-la-fleche",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:46.050Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-modern-langshan": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-modern-langshan",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:46.316Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-norfolk-grey": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-norfolk-grey",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:46.615Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-north-holland-blue": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-north-holland-blue",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:46.959Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-sulmtaler": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-sulmtaler",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:47.239Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-transylvanian-naked-neck": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-heavy-transylvanian-naked-neck",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:47.620Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-andalusian": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-andalusian",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:47.917Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-appenzeller-barthuner": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-appenzeller-barthuner",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:48.184Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-ayam-cemani": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-ayam-cemani",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:48.600Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-brabanter": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-brabanter",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:48.878Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-brakel": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-brakel",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:49.157Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-breda": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-breda",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:49.523Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-bresse-gauloise": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-bresse-gauloise",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:49.795Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-campine": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-campine",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:50.357Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-dandarawi": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-dandarawi",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:50.730Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-fayoumi": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-fayoumi",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:51.007Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-friesian": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-friesian",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:51.397Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-groninger": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-groninger",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:51.708Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-kraienkoppe": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-kraienkoppe",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:52.010Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-lakenvelder": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-lakenvelder",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:52.299Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-marsh-daisy": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-marsh-daisy",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:52.587Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-old-english-pheasant-fowl": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-old-english-pheasant-fowl",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:52.879Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-sicilian-buttercup": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-sicilian-buttercup",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:53.154Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-spanish": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-spanish",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:53.442Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-sultan": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-sultan",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:53.729Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-sumatra": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-sumatra",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:54.017Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-thuringian": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-thuringian",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:54.322Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-vorwerk": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-vorwerk",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:54.606Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-yokohama": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-soft-feather-light-yokohama",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:55.702Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-true-bantam-burmese": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-true-bantam-burmese",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:56.237Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-true-bantam-nankin": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-true-bantam-nankin",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:56.647Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-rare-true-bantam-ohiki": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-rare-true-bantam-ohiki",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:57.019Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-australorp": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-australorp",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:22.631Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-brockbar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-brockbar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:22.934Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-brussbar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-brussbar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:23.205Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-dorbar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-dorbar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:23.456Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-rhodebar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-rhodebar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:23.768Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-wybar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-autosexing-wybar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:24.039Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-barnevelder": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-barnevelder",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:24.322Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-brahma": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-brahma",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:24.722Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-cochin": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-cochin",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:25.029Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-croad-langshan": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-croad-langshan",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:25.378Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-dorking": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-dorking",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:25.686Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-faverolles": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-faverolles",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:25.960Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-frizzle": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-frizzle",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:26.251Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-german-langshan": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-german-langshan",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:26.580Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-lincolnshire-buff": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-lincolnshire-buff",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:26.927Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-marans": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-marans",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:27.219Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-new-hampshire-red": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-new-hampshire-red",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:27.526Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-orloff": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-orloff",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:27.848Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-orpington": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-orpington",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:28.140Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-plymouth-rock": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-plymouth-rock",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:28.514Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-rhode-island-red": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-rhode-island-red",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:28.831Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-sussex": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-sussex",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:29.158Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-wyandotte": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-heavy-wyandotte",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:29.501Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-ancona": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-ancona",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:29.820Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-appenzeller-spitzhauben": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-appenzeller-spitzhauben",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:30.119Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-araucana": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-araucana",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:30.399Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-cambar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-cambar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:31.010Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-cream-legbar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-cream-legbar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:31.309Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-legbar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-legbar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:31.620Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-welbar": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-autosexing-welbar",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:32.085Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-derbyshire-redcap": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-derbyshire-redcap",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:32.395Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-hamburgh": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-hamburgh",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:32.683Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-leghorn": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-leghorn",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:32.938Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-minorca": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-minorca",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:33.228Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-poland": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-poland",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:33.581Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-rumpless-araucana": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-rumpless-araucana",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:30.725Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-scots-dumpy": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-scots-dumpy",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:33.883Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-scots-grey": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-scots-grey",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:34.170Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-silkie": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-silkie",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:34.448Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-welsummer": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-soft-feather-light-welsummer",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:34.707Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-belgian": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-belgian",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:34.990Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-booted": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-booted",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:35.291Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-dutch": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-dutch",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:35.648Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-japanese": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-japanese",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:35.912Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-pekin": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-pekin",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:36.186Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-rosecomb": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-rosecomb",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:36.467Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-sebright": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-sebright",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:36.757Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-serama": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-serama",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:37.048Z"
+    },
+    "poultry-club-gb-chickens--breeds-chickens-true-bantam-suffolk-chequer": {
+      "id": "poultry-club-gb-chickens--breeds-chickens-true-bantam-suffolk-chequer",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T09:58:37.309Z"
+    },
+    "psu-cannibalism": {
+      "id": "psu-cannibalism",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:23.969Z"
+    },
+    "psu-hpai": {
+      "id": "psu-hpai",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:24.593Z"
+    },
+    "psu-laying-flock-management": {
+      "id": "psu-laying-flock-management",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:23.063Z"
+    },
+    "psu-poultry": {
+      "id": "psu-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:22.235Z"
+    },
+    "psu-small-flock-laying": {
+      "id": "psu-small-flock-laying",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:22.659Z"
+    },
+    "psu-small-scale-housing": {
+      "id": "psu-small-scale-housing",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:06:23.476Z"
+    },
+    "ucanr-poultry": {
+      "id": "ucanr-poultry",
+      "status": "error",
+      "attempts": 3,
+      "last_error": "HTTP 403",
+      "updated_at": "2026-09-25T11:19:20.640Z"
+    },
+    "umd-avian-pox": {
+      "id": "umd-avian-pox",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:40.188Z"
+    },
+    "umd-backyard-poultry": {
+      "id": "umd-backyard-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:35.960Z"
+    },
+    "umd-ilt": {
+      "id": "umd-ilt",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:41.125Z"
+    },
+    "umd-mareks-disease": {
+      "id": "umd-mareks-disease",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:39.303Z"
+    },
+    "umd-mycoplasma-gallisepticum": {
+      "id": "umd-mycoplasma-gallisepticum",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:40.521Z"
+    },
+    "umd-poultry": {
+      "id": "umd-poultry",
+      "status": "error",
+      "attempts": 1,
+      "last_error": "HTTP 404",
+      "updated_at": "2026-09-25T10:06:29.807Z"
+    },
+    "umd-poultry-predators": {
+      "id": "umd-poultry-predators",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:37.638Z"
+    },
+    "umd-raising-home-flock": {
+      "id": "umd-raising-home-flock",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:36.265Z"
+    },
+    "umd-salmonella-live-poultry": {
+      "id": "umd-salmonella-live-poultry",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:41.439Z"
+    },
+    "umd-small-flock": {
+      "id": "umd-small-flock",
+      "status": "error",
+      "attempts": 1,
+      "last_error": "HTTP 404",
+      "updated_at": "2026-09-25T10:06:31.243Z"
+    },
+    "umd-winter-small-flocks": {
+      "id": "umd-winter-small-flocks",
+      "status": "done",
+      "attempts": 1,
+      "last_error": null,
+      "updated_at": "2026-09-25T10:10:38.512Z"
+    },
+    "umn-poultry": {
+      "id": "umn-poultry",
+      "status": "error",
+      "attempts": 3,
+      "last_error": "HTTP 403",
+      "updated_at": "2026-09-25T11:19:19.231Z"
+    },
+    "umn-small-scale-poultry": {
+      "id": "umn-small-scale-poultry",
+      "status": "error",
+      "attempts": 3,
+      "last_error": "HTTP 403",
+      "updated_at": "2026-09-25T11:19:19.476Z"
+    }
   }
 }

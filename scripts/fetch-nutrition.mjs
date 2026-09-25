@@ -10,10 +10,11 @@
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { parseFoodsFromResearch } from "./lib/foods.mjs";
+import { parseFoodsFromResearch, buildFoodsIndexFromCurated } from "./lib/foods.mjs";
 import { politeFetch } from "./lib/http.mjs";
 import { listZipEntries, readZipEntry } from "./lib/minizip.mjs";
 import { parseCsvLines } from "./lib/csv.mjs";
+import { pickBestMatch, bestScoreFor, BEST_SCORE } from "./lib/usda-match.mjs";
 
 const DATA_DIR = path.resolve("data");
 const CACHE_DIR = path.resolve("cache");
@@ -24,7 +25,6 @@ const SOURCES_FILE = path.join(DATA_DIR, "sources.json");
 
 const USDA_ZIP_URL =
   "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_csv_2018-04.zip";
-const MATCH_THRESHOLD = 0.5;
 
 // nutrient.csv "name" substrings we care about, mapped to our output keys.
 // Matched case-insensitively against the full nutrient name.
@@ -44,21 +44,14 @@ const NUTRIENT_WANT = [
   { key: "water_g", match: (n) => /^water$/i.test(n) },
 ];
 
+// Rebuilt every run so it always follows its source: the curated
+// food-safety table when present, else the research notes.
 async function ensureFoodsIndex() {
   await mkdir(DATA_DIR, { recursive: true });
-  let existing = [];
-  try {
-    existing = JSON.parse(await readFile(FOODS_INDEX_FILE, "utf8"));
-  } catch (err) {
-    if (err.code !== "ENOENT") throw err;
-  }
-  if (existing.length > 0) {
-    console.log(`foods_index.json already has ${existing.length} entries; reusing it.`);
-    return existing;
-  }
-  const foods = await parseFoodsFromResearch();
+  const curated = await buildFoodsIndexFromCurated();
+  const foods = curated ?? (await parseFoodsFromResearch());
   await writeFile(FOODS_INDEX_FILE, JSON.stringify(foods, null, 2) + "\n", "utf8");
-  console.log(`Built foods_index.json with ${foods.length} foods from research notes.`);
+  console.log(`Built foods_index.json with ${foods.length} foods from ${curated ? "data/curated/food-safety.json" : "research notes"}.`);
   return foods;
 }
 
@@ -83,19 +76,6 @@ async function writePlaceholdersAndExit(foods) {
 
 function findEntryByExactBasename(entries, basename) {
   return entries.find((e) => e.name.split("/").pop() === basename);
-}
-
-function bestMatchScore(foodName, description) {
-  const foodWords = foodName.toLowerCase().replace(/[^a-z0-9 ]/g, "").split(/\s+/).filter(Boolean);
-  const desc = description.toLowerCase();
-  let hits = 0;
-  for (const w of foodWords) if (desc.includes(w)) hits += 1;
-  let score = hits / Math.max(1, foodWords.length);
-  if (/,\s*raw\b/.test(desc) || /\braw,/.test(desc)) score += 0.15;
-  if (/cooked|canned|boiled|fried|dried|dehydrated|juice|sauce|syrup/.test(desc)) score -= 0.08;
-  // Penalize very long, unrelated multi-ingredient descriptions.
-  if (desc.split(",").length > 4) score -= 0.05;
-  return score;
 }
 
 async function main() {
@@ -170,24 +150,24 @@ async function main() {
   const matched = [];
   const unmatched = [];
 
+  // Only items that actually carry nutrient values can be matched.
+  const candidates = [...foodDescById].filter(([fdcId]) => nutrientsByFdcId.has(fdcId));
+
   for (const food of foods) {
-    let bestFdcId = null;
-    let bestScore = -Infinity;
-    let bestDescription = null;
-
-    for (const [fdcId, description] of foodDescById) {
-      const score = bestMatchScore(food.name, description);
-      if (score > bestScore) {
-        bestScore = score;
-        bestFdcId = fdcId;
-        bestDescription = description;
-      }
-    }
-
-    if (!bestFdcId || bestScore < MATCH_THRESHOLD || !nutrientsByFdcId.has(bestFdcId)) {
-      unmatched.push({ id: food.id, name: food.name, reason: "no_confident_match", best_score: Math.round(bestScore * 100) / 100 });
+    const terms = food.search_terms?.length ? food.search_terms : [food.name];
+    const match = pickBestMatch(terms, candidates);
+    if (!match) {
+      const closest = bestScoreFor(terms, candidates);
+      unmatched.push({
+        id: food.id,
+        name: food.name,
+        reason: "no_confident_match",
+        best_score: Number.isFinite(closest) ? Math.round(closest * 100) / 100 : null,
+      });
       continue;
     }
+    const { id: bestFdcId, description: bestDescription, score: bestScore } = match;
+    const confidence = Math.round(Math.min(1, Math.max(0, bestScore / BEST_SCORE)) * 100) / 100;
 
     const n = nutrientsByFdcId.get(bestFdcId) ?? {};
     const vitaminA = n.vitamin_a_rae != null
@@ -200,7 +180,10 @@ async function main() {
       id: food.id,
       fdc_id: bestFdcId,
       description: bestDescription,
-      match_confidence: Math.round(Math.min(1, Math.max(0, bestScore)) * 100) / 100,
+      match_confidence: confidence,
+      matched_term: match.term,
+      // Generic foods ("cheese", "milk") can only land on one variety; a person should check those.
+      needs_review: confidence < 0.95,
       energy_kcal: n.energy_kcal ?? null,
       protein_g: n.protein_g ?? null,
       fat_g: n.fat_g ?? null,

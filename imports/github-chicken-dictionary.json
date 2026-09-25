@@ -1,0 +1,1523 @@
+[
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "country",
+    "value": "Australia",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "egg_color",
+    "value": "Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "egg_production_band",
+    "value": "Superb (250-300+/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "eggs_per_year_max",
+    "value": 300,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "eggs_per_year_min",
+    "value": 250,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "foraging",
+    "value": "Good",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "hardiness",
+    "value": "All-Weather Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "heat_tolerant",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "australorp",
+    "field": "temperament",
+    "value": "Calm, Sweet, Heavy, Quiet, Dutiful",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "comb",
+    "value": "pea",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "country",
+    "value": "United States (via Asia)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "egg_color",
+    "value": "Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "egg_production_band",
+    "value": "Moderate (150-200/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "eggs_per_year_max",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "eggs_per_year_min",
+    "value": 150,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "foraging",
+    "value": "Average",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "hardiness",
+    "value": "Cold Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "brahma-chicken",
+    "field": "temperament",
+    "value": "Very Gentle, Quiet, Majestic, Friendly, Fuzzy Toes",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "country",
+    "value": "China",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "egg_color",
+    "value": "Light Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "egg_production_band",
+    "value": "Low (under 100/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "egg_size",
+    "value": "medium",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "eggs_per_year_max",
+    "value": 100,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "foraging",
+    "value": "Poor",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "hardiness",
+    "value": "Cold Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "cochin-chicken",
+    "field": "temperament",
+    "value": "Sweetest Bird, Extremely Quiet, Lazy Forager, Maternal, Very Fluffy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "country",
+    "value": "United States",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "egg_color",
+    "value": "Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "egg_production_band",
+    "value": "Moderate (150-200/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "egg_size",
+    "value": "extra large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "eggs_per_year_max",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "eggs_per_year_min",
+    "value": 150,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "foraging",
+    "value": "Good",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "hardiness",
+    "value": "Cold Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "jersey-giant",
+    "field": "temperament",
+    "value": "Enormously Calm, Friendly, Heavy, Quiet, Docile",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "country",
+    "value": "United Kingdom",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "egg_color",
+    "value": "Sky Blue",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "egg_production_band",
+    "value": "Excellent (200-250/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "eggs_per_year_max",
+    "value": 250,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "eggs_per_year_min",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "foraging",
+    "value": "Excellent",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "hardiness",
+    "value": "All-Weather Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "heat_tolerant",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "noise_level",
+    "value": "Vocal & Chatty",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "legbar",
+    "field": "temperament",
+    "value": "Curious, Inquisitive, Alert, Noisy, Fast Runner",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "country",
+    "value": "Italy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "egg_color",
+    "value": "Bright White",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "egg_production_band",
+    "value": "Superb (250-300+/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "eggs_per_year_max",
+    "value": 300,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "eggs_per_year_min",
+    "value": 250,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "foraging",
+    "value": "Excellent",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "hardiness",
+    "value": "Heat Tolerant",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "heat_tolerant",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "noise_level",
+    "value": "Vocal & Chatty",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "leghorn-chicken",
+    "field": "temperament",
+    "value": "Active, Independent, Noisy, Flighty, Excellent Foragers",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "country",
+    "value": "France",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "egg_color",
+    "value": "Dark Chocolate Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "egg_production_band",
+    "value": "Moderate (150-200/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "eggs_per_year_max",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "eggs_per_year_min",
+    "value": 150,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "foraging",
+    "value": "Excellent",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "hardiness",
+    "value": "Cold Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "marans",
+    "field": "temperament",
+    "value": "Quiet, Robust, Calm, Alert, Handsome",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "country",
+    "value": "United Kingdom",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "egg_color",
+    "value": "Light Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "egg_production_band",
+    "value": "Excellent (200-250/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "eggs_per_year_max",
+    "value": 250,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "eggs_per_year_min",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "foraging",
+    "value": "Good",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "hardiness",
+    "value": "Cold Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "orpington-chicken",
+    "field": "temperament",
+    "value": "Sweet, Calm, Cuddly, Quiet, Heavy Feathered",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "country",
+    "value": "United States",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "egg_color",
+    "value": "Warm Pinkish Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "egg_production_band",
+    "value": "Excellent (200-250/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "eggs_per_year_max",
+    "value": 250,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "eggs_per_year_min",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "foraging",
+    "value": "Excellent",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "hardiness",
+    "value": "All-Weather Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "heat_tolerant",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "noise_level",
+    "value": "Moderate",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "plymouth-rock-chicken",
+    "field": "temperament",
+    "value": "Friendly, Even-Tempered, Docile, Curious, Playful",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "comb",
+    "value": "v-shape",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "country",
+    "value": "Poland (or Netherlands)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "egg_color",
+    "value": "White",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "egg_production_band",
+    "value": "Moderate (150-200/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "egg_size",
+    "value": "medium",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "eggs_per_year_max",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "eggs_per_year_min",
+    "value": 150,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "foraging",
+    "value": "Poor",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "hardiness",
+    "value": "Needs Shelter",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "polish-chicken",
+    "field": "temperament",
+    "value": "Quirky, Easily Startled, Gentle, Comical, Sweet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "country",
+    "value": "United States",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "egg_color",
+    "value": "Rich Brown",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "egg_production_band",
+    "value": "Superb (250-300+/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "egg_size",
+    "value": "extra large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "eggs_per_year_max",
+    "value": 300,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "eggs_per_year_min",
+    "value": 250,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "foraging",
+    "value": "Excellent",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "hardiness",
+    "value": "All-Weather Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "heat_tolerant",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "noise_level",
+    "value": "Moderate",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "rhode-island-red",
+    "field": "temperament",
+    "value": "Hardy, Curious, Slightly Bossy, Dependable, Assertive",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "bantam_available",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "comb",
+    "value": "rose",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "country",
+    "value": "United Kingdom",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "egg_color",
+    "value": "Cream / White",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "egg_production_band",
+    "value": "Low (under 100/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "egg_size",
+    "value": "small",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "eggs_per_year_max",
+    "value": 100,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "foraging",
+    "value": "Good",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "hardiness",
+    "value": "Needs Shelter",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "noise_level",
+    "value": "Moderate",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "sebright-chicken",
+    "field": "temperament",
+    "value": "Active, Flyer, Spirited, Friendly, Social",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "bantam_available",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "comb",
+    "value": "walnut",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "country",
+    "value": "China",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "egg_color",
+    "value": "Cream / Tinted",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "egg_production_band",
+    "value": "Low (under 100/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "egg_size",
+    "value": "small",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "eggs_per_year_max",
+    "value": 100,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "foraging",
+    "value": "Poor",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "hardiness",
+    "value": "Needs Shelter",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "noise_level",
+    "value": "Whisper Quiet",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "silkie-chicken-breed",
+    "field": "temperament",
+    "value": "Docile, Friendly, Extremely Broody, Excellent Mothers, Great for Kids",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "cold_hardy",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "comb",
+    "value": "single",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "country",
+    "value": "Netherlands",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "egg_color",
+    "value": "Dark Reddish Brown (Speckled)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "egg_production_band",
+    "value": "Moderate (150-200/year)",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "egg_size",
+    "value": "large",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "eggs_per_year_max",
+    "value": 200,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "eggs_per_year_min",
+    "value": 150,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "foraging",
+    "value": "Excellent",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "hardiness",
+    "value": "All-Weather Hardy",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "heat_tolerant",
+    "value": true,
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "noise_level",
+    "value": "Vocal & Chatty",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  },
+  {
+    "entity_type": "breed",
+    "entity_id": "welsummer",
+    "field": "temperament",
+    "value": "Active, Friendly, Curious, Vocal, Alert",
+    "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts",
+    "origin": "github:iamthechickenlady-netizen/chicken-dictionary",
+    "needs_review": true
+  }
+]

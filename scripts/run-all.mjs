@@ -23,11 +23,22 @@ function run(scriptName) {
 }
 
 async function main() {
+  // Order matters: breeds first (others link to them), the GitHub datasets
+  // before the image fallback and imports, imports merged before the LLM
+  // step so extracted facts can replace weaker imported ones.
   const steps = [
     "fetch-breeds.mjs",
+    "fetch-github-datasets.mjs",
+    "fetch-fallback-images.mjs",
     "fetch-diseases.mjs",
+    "fetch-sources.mjs",
     "fetch-nutrition.mjs",
+    "fetch-faostat.mjs",
+    "fetch-nass.mjs",
     "build-keywords.mjs",
+    "import-github-datasets.mjs",
+    "import-dadis.mjs",
+    "merge-imports.mjs",
     "enrich-llm.mjs",
   ];
 

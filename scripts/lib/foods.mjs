@@ -6,6 +6,33 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 
 const RESEARCH_FILE = path.resolve("research/12-chicken-food-pages.md");
+const CURATED_FILE = path.resolve("data/curated/food-safety.json");
+
+/**
+ * Build the food index from the hand-curated food-safety table (read-only):
+ * one entry per food, with its name and aliases as USDA search terms.
+ * Returns null when the curated file does not exist.
+ * @returns {Promise<Array<{id:string,name:string,search_terms:string[],category:string|null,source_file:string}>|null>}
+ */
+export async function buildFoodsIndexFromCurated() {
+  let foods;
+  try {
+    foods = JSON.parse(await readFile(CURATED_FILE, "utf8"));
+  } catch (err) {
+    if (err.code === "ENOENT") return null;
+    throw err;
+  }
+  return foods
+    .filter((f) => f.id && f.name)
+    .map((f) => ({
+      id: f.id,
+      name: f.name,
+      search_terms: [...new Set([f.name, ...(f.aliases ?? [])].map((t) => t.trim()).filter(Boolean))],
+      category: f.category ?? null,
+      source_file: "data/curated/food-safety.json",
+    }))
+    .sort((a, b) => a.id.localeCompare(b.id));
+}
 
 function slugify(name) {
   return name
@@ -60,7 +87,8 @@ export async function parseFoodsFromResearch() {
       foods.set(id, {
         id,
         name,
-        search_term: `${name} for chickens`,
+        search_terms: [name],
+        category: null,
         source_file: "research/12-chicken-food-pages.md",
       });
     }

@@ -1,0 +1,283 @@
+{
+  "_about": "Seed list of reference pages per entity type. scripts/fetch-sources.mjs checks every URL for HTTP 200, drops and logs dead ones, follows `discover` rules to find deep pages on live hubs, and caches page text in cache/ only (gitignored). data/reference_sources.json lists the pages that were alive.",
+  "entries": [
+    {
+      "id": "livestock-conservancy-cpl",
+      "entity_type": "breeds",
+      "publisher": "The Livestock Conservancy",
+      "url": "https://livestockconservancy.org/heritage-breeds/conservation-priority-list/",
+      "entity_names": [],
+      "discover": {
+        "pattern": "livestockconservancy\\.org/(heritage-breeds/heritage-breeds-list/)?[a-z0-9-]+-chicken/$",
+        "entity_type": "breeds"
+      }
+    },
+    {
+      "id": "poultry-club-gb-chickens",
+      "entity_type": "breeds",
+      "publisher": "Poultry Club of Great Britain",
+      "url": "https://www.poultryclub.org/breeds/chickens/",
+      "entity_names": [],
+      "discover": {
+        "pattern": "poultryclub\\.org/breeds/chickens/[a-z0-9-]+/[a-z0-9-]+/$",
+        "entity_type": "breeds"
+      }
+    },
+    {
+      "id": "apa-accepted-breeds",
+      "entity_type": "breeds",
+      "publisher": "American Poultry Association",
+      "url": "https://www.amerpoultryassn.com/accepted_breeds_varieties.php",
+      "entity_names": []
+    },
+    {
+      "id": "apa-newly-added",
+      "entity_type": "breeds",
+      "publisher": "American Poultry Association",
+      "url": "https://www.amerpoultryassn.com/newly_added_to_standard.php",
+      "entity_names": []
+    },
+    {
+      "id": "fao-dad-is",
+      "entity_type": "breeds",
+      "publisher": "FAO DAD-IS",
+      "url": "https://www.fao.org/dad-is/en/",
+      "entity_names": []
+    },
+    {
+      "id": "merck-poultry",
+      "entity_type": "diseases",
+      "publisher": "Merck Veterinary Manual",
+      "url": "https://www.merckvetmanual.com/poultry",
+      "entity_names": [],
+      "discover": {
+        "pattern": "merckvetmanual\\.com/poultry/[a-z0-9-]+/[a-z0-9-]+$",
+        "entity_type": "diseases"
+      }
+    },
+    {
+      "id": "aphis-avian",
+      "entity_type": "diseases",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian",
+      "entity_names": []
+    },
+    {
+      "id": "aphis-defend-the-flock",
+      "entity_type": "diseases",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock",
+      "entity_names": []
+    },
+    {
+      "id": "aphis-avian-influenza",
+      "entity_type": "diseases",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+      "entity_names": ["Avian influenza"]
+    },
+    {
+      "id": "aphis-virulent-newcastle",
+      "entity_type": "diseases",
+      "publisher": "USDA APHIS",
+      "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/virulent-newcastle",
+      "entity_names": ["Newcastle disease"]
+    },
+    {
+      "id": "defra-notifiable-diseases",
+      "entity_type": "diseases",
+      "publisher": "Defra / APHA (gov.uk)",
+      "url": "https://www.gov.uk/government/collections/notifiable-diseases-in-animals",
+      "entity_names": []
+    },
+    {
+      "id": "defra-avian-influenza",
+      "entity_type": "diseases",
+      "publisher": "Defra / APHA (gov.uk)",
+      "url": "https://www.gov.uk/guidance/avian-influenza-bird-flu",
+      "entity_names": ["Avian influenza"]
+    },
+    {
+      "id": "defra-newcastle-disease",
+      "entity_type": "diseases",
+      "publisher": "Defra / APHA (gov.uk)",
+      "url": "https://www.gov.uk/guidance/newcastle-disease",
+      "entity_names": ["Newcastle disease"]
+    },
+    {
+      "id": "cdc-backyard-poultry",
+      "entity_type": "diseases",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html",
+      "entity_names": ["Salmonellosis"]
+    },
+    {
+      "id": "cdc-salmonella",
+      "entity_type": "diseases",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/salmonella/",
+      "entity_names": ["Salmonellosis"]
+    },
+    {
+      "id": "psu-poultry",
+      "entity_type": "feeding",
+      "publisher": "Penn State Extension",
+      "url": "https://extension.psu.edu/animals-and-livestock/poultry",
+      "entity_names": []
+    },
+    {
+      "id": "psu-small-flock-laying",
+      "entity_type": "feeding",
+      "publisher": "Penn State Extension",
+      "url": "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens",
+      "entity_names": []
+    },
+    {
+      "id": "psu-laying-flock-management",
+      "entity_type": "feeding",
+      "publisher": "Penn State Extension",
+      "url": "https://extension.psu.edu/management-requirements-for-laying-flocks",
+      "entity_names": []
+    },
+    {
+      "id": "psu-small-scale-housing",
+      "entity_type": "predators",
+      "publisher": "Penn State Extension",
+      "url": "https://extension.psu.edu/small-scale-poultry-housing",
+      "entity_names": []
+    },
+    {
+      "id": "psu-cannibalism",
+      "entity_type": "diseases",
+      "publisher": "Penn State Extension",
+      "url": "https://extension.psu.edu/poultry-cannibalism-prevention-and-treatment",
+      "entity_names": []
+    },
+    {
+      "id": "psu-hpai",
+      "entity_type": "diseases",
+      "publisher": "Penn State Extension",
+      "url": "https://extension.psu.edu/understanding-highly-pathogenic-avian-influenza",
+      "entity_names": ["Avian influenza"]
+    },
+    {
+      "id": "umn-poultry",
+      "entity_type": "feeding",
+      "publisher": "University of Minnesota Extension",
+      "url": "https://extension.umn.edu/animals/poultry",
+      "entity_names": []
+    },
+    {
+      "id": "umn-small-scale-poultry",
+      "entity_type": "predators",
+      "publisher": "University of Minnesota Extension",
+      "url": "https://extension.umn.edu/small-scale-poultry",
+      "entity_names": []
+    },
+    {
+      "id": "ucanr-poultry",
+      "entity_type": "diseases",
+      "publisher": "UC Agriculture and Natural Resources",
+      "url": "https://ucanr.edu/sites/poultry/",
+      "entity_names": []
+    },
+    {
+      "id": "msstate-poultry",
+      "entity_type": "feeding",
+      "publisher": "Mississippi State University Extension",
+      "url": "https://extension.msstate.edu/agriculture/livestock/poultry",
+      "entity_names": []
+    },
+    {
+      "id": "ncsu-poultry",
+      "entity_type": "feeding",
+      "publisher": "NC State Extension Poultry",
+      "url": "https://poultry.ces.ncsu.edu/",
+      "entity_names": []
+    },
+    {
+      "id": "umd-backyard-poultry",
+      "entity_type": "feeding",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/programs/agriculture-food-systems/program-areas/animal-science/maryland-poultry/backyard-poultry",
+      "entity_names": []
+    },
+    {
+      "id": "umd-raising-home-flock",
+      "entity_type": "feeding",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/raising-your-home-chicken-flock-eb-409",
+      "entity_names": []
+    },
+    {
+      "id": "umd-poultry-predators",
+      "entity_type": "predators",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "entity_names": []
+    },
+    {
+      "id": "umd-winter-small-flocks",
+      "entity_type": "feeding",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/winter-weather-and-small-flocks-what-you-need-know-fs-1133",
+      "entity_names": []
+    },
+    {
+      "id": "umd-mareks-disease",
+      "entity_type": "diseases",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/recognizing-and-preventing-mareks-disease-small-flocks",
+      "entity_names": ["Marek's disease"]
+    },
+    {
+      "id": "umd-avian-pox",
+      "entity_type": "diseases",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979",
+      "entity_names": ["Fowlpox", "Avian pox"]
+    },
+    {
+      "id": "umd-mycoplasma-gallisepticum",
+      "entity_type": "diseases",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/recognizing-and-preventing-mycoplasma-gallisepticum-mg-infection-poultry",
+      "entity_names": ["Mycoplasma gallisepticum"]
+    },
+    {
+      "id": "umd-ilt",
+      "entity_type": "diseases",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/infectious-laryngotracheitis-ilt-know-symptoms-and-what-do-if-your-flock-affected-fs-966",
+      "entity_names": ["Infectious laryngotracheitis"]
+    },
+    {
+      "id": "umd-salmonella-live-poultry",
+      "entity_type": "diseases",
+      "publisher": "University of Maryland Extension",
+      "url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137",
+      "entity_names": ["Salmonellosis"]
+    },
+    {
+      "id": "cornell-poisonous-plants",
+      "entity_type": "feeding",
+      "publisher": "Cornell University, Plants Poisonous to Livestock",
+      "url": "https://poisonousplants.ansci.cornell.edu/",
+      "entity_names": []
+    },
+    {
+      "id": "cornell-poisonous-plants-common-names",
+      "entity_type": "feeding",
+      "publisher": "Cornell University, Plants Poisonous to Livestock",
+      "url": "https://poisonousplants.ansci.cornell.edu/comlist.html",
+      "entity_names": []
+    },
+    {
+      "id": "cornell-poisonous-plants-species",
+      "entity_type": "feeding",
+      "publisher": "Cornell University, Plants Poisonous to Livestock",
+      "url": "https://poisonousplants.ansci.cornell.edu/anispecies.html",
+      "entity_names": []
+    }
+  ]
+}

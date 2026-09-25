@@ -15,6 +15,8 @@ import {
   extractSummary,
 } from "./lib/wiki.mjs";
 import { loadQueueFile, saveQueueFile, ensureQueueItems } from "./lib/state.mjs";
+import { DISEASE_EXTRA_SCHEMA, emptyDiseaseExtra, toProvenanceShape } from "./lib/schemas.mjs";
+import { loadTitleCache, saveTitleCache, recentTitle, recordTitle } from "./lib/title-cache.mjs";
 
 const DATA_DIR = path.resolve("data");
 const DISEASES_FILE = path.join(DATA_DIR, "diseases.json");
@@ -164,9 +166,11 @@ async function main() {
   let skippedFresh = 0;
   let errors = 0;
 
+  const titleCache = await loadTitleCache();
   for (const title of [...allTitles].sort()) {
-    const provisionalId = slugify(title);
-    const cached = existing.get(provisionalId);
+    const known = FORCE ? null : recentTitle(titleCache, "diseases", title);
+    if (known && known.id === null) continue; // missing page last time
+    const cached = existing.get(known?.id ?? slugify(title));
     if (isFresh(cached)) {
       results.set(cached.id, cached);
       skippedFresh += 1;
@@ -174,6 +178,7 @@ async function main() {
     }
     try {
       const record = await buildDiseaseRecord(title);
+      recordTitle(titleCache, "diseases", title, record?.id ?? null);
       if (!record) continue;
       results.set(record.id, record);
       sources.add(record.url);
@@ -184,6 +189,7 @@ async function main() {
     }
   }
 
+  await saveTitleCache(titleCache);
   const diseases = [...results.values()].sort((a, b) => a.id.localeCompare(b.id));
   await writeFile(DISEASES_FILE, JSON.stringify(diseases, null, 2) + "\n", "utf8");
 
@@ -193,22 +199,10 @@ async function main() {
   } catch (err) {
     if (err.code !== "ENOENT") throw err;
   }
+  extra = extra.map((e) => toProvenanceShape(e, DISEASE_EXTRA_SCHEMA));
   const extraIds = new Set(extra.map((e) => e.id));
   for (const disease of diseases) {
-    if (!extraIds.has(disease.id)) {
-      extra.push({
-        id: disease.id,
-        cause_type: null,
-        contagious: null,
-        zoonotic: null,
-        key_symptoms: [],
-        prevention: [],
-        vaccine_available: null,
-        notifiable_in_us_uk: "unknown",
-        needs_review: true,
-        disclaimer: "Not veterinary advice",
-      });
-    }
+    if (!extraIds.has(disease.id)) extra.push(emptyDiseaseExtra(disease.id));
   }
   extra.sort((a, b) => a.id.localeCompare(b.id));
   await writeFile(DISEASES_EXTRA_FILE, JSON.stringify(extra, null, 2) + "\n", "utf8");

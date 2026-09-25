@@ -17,6 +17,8 @@ import {
   parseWeightKg,
 } from "./lib/wiki.mjs";
 import { loadQueueFile, saveQueueFile, ensureQueueItems } from "./lib/state.mjs";
+import { BREED_EXTRA_SCHEMA, emptyBreedExtra, toProvenanceShape } from "./lib/schemas.mjs";
+import { loadTitleCache, saveTitleCache, recentTitle, recordTitle } from "./lib/title-cache.mjs";
 
 const DATA_DIR = path.resolve("data");
 const BREEDS_FILE = path.join(DATA_DIR, "breeds.json");
@@ -66,7 +68,7 @@ function isFresh(record) {
   return age < THIRTY_DAYS_MS;
 }
 
-async function buildBreedRecord(title) {
+async function buildBreedRecord(title, previous = null) {
   const page = await fetchWikitext(title);
   if (!page) return null;
 
@@ -99,6 +101,10 @@ async function buildBreedRecord(title) {
       } catch {
         image = null;
       }
+      // A failed or empty Commons lookup must not wipe a good image: keep the
+      // one we already had for this same file.
+      const prev = previous?.image;
+      if (!image && prev && !prev.origin && prev.file === fileName) image = prev;
     }
   }
 
@@ -161,9 +167,17 @@ async function main() {
   let rejectedNonBreed = 0;
   let errors = 0;
 
+  const titleCache = await loadTitleCache();
+  let skippedKnownRejects = 0;
+
   for (const title of candidateTitles) {
-    const provisionalId = slugify(title);
-    const cached = existing.get(provisionalId);
+    // What checking this title produced last time (breed id, or null = not a breed).
+    const known = FORCE ? null : recentTitle(titleCache, "breeds", title);
+    if (known && known.id === null) {
+      skippedKnownRejects += 1;
+      continue;
+    }
+    const cached = existing.get(known?.id ?? slugify(title));
     if (isFresh(cached)) {
       results.set(cached.id, cached);
       skippedFresh += 1;
@@ -171,7 +185,8 @@ async function main() {
     }
 
     try {
-      const record = await buildBreedRecord(title);
+      const record = await buildBreedRecord(title, existing.get(known?.id ?? slugify(title)) ?? null);
+      recordTitle(titleCache, "breeds", title, record?.id ?? null);
       if (!record) {
         rejectedNonBreed += 1;
         continue;
@@ -188,6 +203,7 @@ async function main() {
     }
   }
 
+  await saveTitleCache(titleCache);
   const breeds = [...results.values()].sort((a, b) => a.id.localeCompare(b.id));
   await writeFile(BREEDS_FILE, JSON.stringify(breeds, null, 2) + "\n", "utf8");
 
@@ -198,28 +214,10 @@ async function main() {
   } catch (err) {
     if (err.code !== "ENOENT") throw err;
   }
+  extra = extra.map((e) => toProvenanceShape(e, BREED_EXTRA_SCHEMA));
   const extraIds = new Set(extra.map((e) => e.id));
   for (const breed of breeds) {
-    if (!extraIds.has(breed.id)) {
-      extra.push({
-        id: breed.id,
-        eggs_per_year_min: null,
-        eggs_per_year_max: null,
-        egg_size: null,
-        temperament: null,
-        broodiness: null,
-        cold_hardy: null,
-        heat_tolerant: null,
-        beginner_friendly: null,
-        purpose: null,
-        bantam_available: null,
-        varieties: [],
-        lifespan_years: null,
-        notes: null,
-        source: "wikipedia article text",
-        needs_review: true,
-      });
-    }
+    if (!extraIds.has(breed.id)) extra.push(emptyBreedExtra(breed.id));
   }
   extra.sort((a, b) => a.id.localeCompare(b.id));
   await writeFile(BREEDS_EXTRA_FILE, JSON.stringify(extra, null, 2) + "\n", "utf8");
@@ -251,7 +249,7 @@ async function main() {
 
   const withImage = breeds.filter((b) => b.image).length;
   console.log(`Done. Breeds total: ${breeds.length} (with image: ${withImage})`);
-  console.log(`  Newly fetched: ${fetchedCount}, reused fresh cache: ${skippedFresh}, rejected non-breed pages: ${rejectedNonBreed}, errors: ${errors}`);
+  console.log(`  Newly fetched: ${fetchedCount}, reused fresh cache: ${skippedFresh}, rejected non-breed pages: ${rejectedNonBreed}, known non-breed titles skipped: ${skippedKnownRejects}, errors: ${errors}`);
 }
 
 main().catch((err) => {

@@ -279,6 +279,22 @@ export function extractSummary(wikitext) {
 }
 
 /**
+ * Full article plain text for the LLM: drops templates, tables, file
+ * links and the trailing References / See also / External links sections,
+ * keeps section headings as plain lines.
+ * @param {string} wikitext
+ * @returns {string}
+ */
+export function articlePlainText(wikitext) {
+  let body = wikitext.split(/\n==\s*(References|Notes|See also|External links|Further reading|Sources|Bibliography)\s*==/i)[0];
+  body = removeTemplates(body)
+    .replace(/\{\|[\s\S]*?\|\}/g, "")
+    .replace(/\[\[(File|Image):[^\]]*(\[\[[^\]]*\]\][^\]]*)*\]\]/gi, "")
+    .replace(/^=+\s*(.*?)\s*=+\s*$/gm, "\n$1:");
+  return stripWikiMarkup(body).replace(/\n{3,}/g, "\n\n").trim();
+}
+
+/**
  * Parse a raw numeric weight-in-kg from a free-text weight field such as
  * "5.5 kg", "3-4 kg", "8 lb", "3–4 lb 8 oz", "7-9 lbs". Returns the average
  * of a range, converting pounds to kilograms as needed.

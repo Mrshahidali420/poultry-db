@@ -27,6 +27,16 @@ jobs:
         with:
           node-version: "24"
 
+      # cache/ holds third-party page text (never committed). Keeping it
+      # between runs lets the 30-day skip work and gives enrich-llm.mjs the
+      # reference text without re-crawling ~300 pages every 6 hours.
+      - name: Restore page cache
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: page-cache-${{ github.run_id }}
+          restore-keys: page-cache-
+
       - name: Run data collection
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -40,7 +50,7 @@ jobs:
 
       - name: Commit and push results
         run: |
-          git add data state
+          git add data state imports
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0

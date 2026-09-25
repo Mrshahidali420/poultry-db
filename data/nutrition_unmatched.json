@@ -1,80 +1,182 @@
 [
   {
-    "id": "bok-choy",
-    "name": "bok choy",
+    "id": "bird-seed",
+    "name": "Bird seed",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "bugs",
-    "name": "bugs",
+    "id": "black-soldier-fly-larvae",
+    "name": "Black soldier fly larvae",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "cashews",
-    "name": "cashews",
+    "id": "cat-food",
+    "name": "Cat food",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
+  },
+  {
+    "id": "chickweed",
+    "name": "Chickweed",
+    "reason": "no_confident_match",
+    "best_score": null
   },
   {
     "id": "clover",
-    "name": "clover",
+    "name": "Clover",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
     "id": "cockroaches",
-    "name": "cockroaches",
+    "name": "Cockroaches",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "cucumbers",
-    "name": "cucumbers",
+    "id": "comfrey",
+    "name": "Comfrey",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "dandelions",
-    "name": "dandelions",
+    "id": "crickets",
+    "name": "Crickets",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
+  },
+  {
+    "id": "dog-food",
+    "name": "Dog food",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "dragon-fruit",
+    "name": "Dragon fruit",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "duck-feed",
+    "name": "Duck feed",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "duckweed",
+    "name": "Duckweed",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "eggshells",
+    "name": "Eggshells",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "french-fries",
+    "name": "French fries",
+    "reason": "no_confident_match",
+    "best_score": 0.83
+  },
+  {
+    "id": "grass",
+    "name": "Grass",
+    "reason": "no_confident_match",
+    "best_score": 0.78
   },
   {
     "id": "grasshoppers",
-    "name": "grasshoppers",
+    "name": "Grasshoppers",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "jalapenos",
-    "name": "jalapenos",
+    "id": "hay",
+    "name": "Hay",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "pistachios",
-    "name": "pistachios",
+    "id": "japanese-beetles",
+    "name": "Japanese beetles",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "layer-feed",
+    "name": "Layer feed",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "mac-and-cheese",
+    "name": "Mac and cheese",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "mealworms",
+    "name": "Mealworms",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "moldy-food",
+    "name": "Mouldy food",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "nettles",
+    "name": "Nettles",
+    "reason": "no_confident_match",
+    "best_score": 0.87
+  },
+  {
+    "id": "oyster-shell",
+    "name": "Oyster shell",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "plantain-weed",
+    "name": "Plantain (weed)",
+    "reason": "no_confident_match",
+    "best_score": null
+  },
+  {
+    "id": "scratch-grains",
+    "name": "Scratch grains",
+    "reason": "no_confident_match",
+    "best_score": null
   },
   {
     "id": "stink-bugs",
-    "name": "stink bugs",
+    "name": "Stink bugs",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
-    "id": "weeds",
-    "name": "weeds",
+    "id": "ticks",
+    "name": "Ticks",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   },
   {
     "id": "worms",
-    "name": "worms",
+    "name": "Earthworms",
     "reason": "no_confident_match",
-    "best_score": 0.15
+    "best_score": null
   }
 ]

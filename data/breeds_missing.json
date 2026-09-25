@@ -1,0 +1,188 @@
+[
+  {
+    "name": "55 Flowery Hen",
+    "breed_category": "WHITE LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Barbezieux",
+    "breed_category": "BBQ SPECIAL",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Basque",
+    "breed_category": "BBQ SPECIAL",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Black Star / Red Star",
+    "breed_category": "BROWN LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Brakel",
+    "breed_category": "WHITE LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Brussbar",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "California Grey",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Cinnamon Queen",
+    "breed_category": "BROWN LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Crevecoeur",
+    "breed_category": "CRESTED BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Dampierre",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Deathlayer",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Easter Egger",
+    "breed_category": "COLORED LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Empordanesa",
+    "breed_category": "BROWN LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Gallina di Saluzzo",
+    "breed_category": "BBQ SPECIAL",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Gournay",
+    "breed_category": "WHITE LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Holland",
+    "breed_category": "WHITE LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Isbar",
+    "breed_category": "COLORED LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Langshan",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Lyonnaise",
+    "breed_category": "BBQ SPECIAL",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Norwegian Jaehorn",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Olive Egger",
+    "breed_category": "COLORED LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Orust",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Pavlovskaya",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Red Shaver",
+    "breed_category": "BBQ SPECIAL",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Rhodebar",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Shamo",
+    "breed_category": "UNUSUAL BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Speckledy aka Speckled Ranger",
+    "breed_category": "BROWN LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Swedish Black (Svarthöna)",
+    "breed_category": "UNUSUAL BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Thuringian",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Twentse",
+    "breed_category": "RARE BREEDS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "name": "Whiting True Blue",
+    "breed_category": "COLORED LAYERS",
+    "origin": "github:Harris730/Chicken_breed_dataset",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  }
+]

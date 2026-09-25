@@ -1,6 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { ensureQueueItems, getIdsByStatus, markItem } from "../scripts/lib/state.mjs";
+import { recentTitle, recordTitle } from "../scripts/lib/title-cache.mjs";
 
 test("ensureQueueItems seeds new ids as pending without touching existing ones", () => {
   let queues = {};
@@ -40,4 +41,17 @@ test("markItem increments attempts and records the error message", () => {
   queues = markItem(queues, "q", "a", "done");
   assert.equal(queues.q.a.status, "done");
   assert.equal(queues.q.a.last_error, null);
+});
+
+
+test("title cache remembers rejected titles and resolved ids for 30 days", () => {
+  const cache = {};
+  const now = new Date("2026-09-25T00:00:00Z");
+  recordTitle(cache, "breeds", "Chicken", null, now);
+  recordTitle(cache, "breeds", "Brahma (chicken)", "brahma-chicken", now);
+  const day = 24 * 60 * 60 * 1000;
+  assert.deepEqual(recentTitle(cache, "breeds", "Chicken", now.getTime() + day), { id: null });
+  assert.deepEqual(recentTitle(cache, "breeds", "Brahma (chicken)", now.getTime() + day), { id: "brahma-chicken" });
+  assert.equal(recentTitle(cache, "breeds", "Chicken", now.getTime() + 31 * day), null, "stale after 30 days");
+  assert.equal(recentTitle(cache, "breeds", "Unknown", now.getTime()), null);
 });

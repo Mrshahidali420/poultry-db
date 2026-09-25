@@ -1,17 +1,25 @@
 {
   "name": "poultry-db",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "Data collection pipeline for a backyard-chicken information website: breeds, diseases, nutrition and keyword data gathered from free/licensed sources.",
+  "description": "Data collection pipeline for a backyard-chicken information website: breeds, diseases, nutrition, statistics, reference sources and keyword data gathered from free sources.",
   "engines": {
     "node": ">=24"
   },
   "scripts": {
     "fetch:breeds": "node scripts/fetch-breeds.mjs",
+    "fetch:github": "node scripts/fetch-github-datasets.mjs",
+    "fetch:images": "node scripts/fetch-fallback-images.mjs",
     "fetch:diseases": "node scripts/fetch-diseases.mjs",
+    "fetch:sources": "node scripts/fetch-sources.mjs",
     "fetch:nutrition": "node scripts/fetch-nutrition.mjs",
+    "fetch:faostat": "node scripts/fetch-faostat.mjs",
+    "fetch:nass": "node scripts/fetch-nass.mjs",
     "keywords": "node scripts/build-keywords.mjs",
+    "import:github": "node scripts/import-github-datasets.mjs",
+    "import:dadis": "node scripts/import-dadis.mjs",
+    "merge:imports": "node scripts/merge-imports.mjs",
     "enrich": "node scripts/enrich-llm.mjs",
     "all": "node scripts/run-all.mjs",
     "test": "node --test test/*.test.mjs"

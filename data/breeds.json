@@ -19,9 +19,19 @@
     "status": "",
     "use": "dual-purpose, eggs and meat",
     "summary": "The or is a breed of domestic chicken from Alsace, in eastern France. It was selectively bred in the 1890s, at a time when Alsace was part of the German Empire. Unlike most other French breeds, it has not been cross-bred with imported Oriental stock.",
-    "image": null,
+    "image": {
+      "file": "Poule d alsace F SDA2013.JPG",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3APoule%20d%20alsace%20F%20SDA2013.JPG",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Poule_d_alsace_F_SDA2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Poule_d_alsace_F_SDA2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Eponimm",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:14.947Z"
+    "fetched_at": "2026-09-25T11:22:26.171Z"
   },
   {
     "id": "altsteirer",
@@ -44,18 +54,18 @@
     "use": "Dual-purpose breed: mostly eggs, meat",
     "summary": "Altsteirer, also known as the Styrian Hen and Chicken, , , is an autochthonous breed of domestic chicken originating in Slovenia and Austrian state Styria. The Styrian Hen is known as the only autochthonous (native) chicken breed of Slovenian area, with all other breeds being traditional at most, hence introduced in the past and consequently adapted to country's conditions. The Altsteirer's set of traits suggests the breed may share a common descent with other Mediterranean chicken breeds.",
     "image": {
-      "file": "Altsteirerhahn.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AAltsteirerhahn.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Altsteirerhahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Altsteirerhahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 2.5",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
-      "author": "www.newsserver.at / Oswald Hicker",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "altsteirer.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/altsteirer.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/altsteirer.jpg",
+      "local_path": "data/images/breeds/altsteirer.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:59.411Z"
+    "fetched_at": "2026-09-25T12:01:50.789Z"
   },
   {
     "id": "amarela",
@@ -81,7 +91,7 @@
     "summary": "The Amarela or Minhota is a Portuguese breed of domestic chicken. It is one of four Portuguese breeds of chicken, the others being the Branca, the Pedrês Portuguesa and the Preta Lusitânica.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:19.329Z"
+    "fetched_at": "2026-09-25T11:22:46.115Z"
   },
   {
     "id": "ameraucana",
@@ -115,7 +125,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:20.184Z"
+    "fetched_at": "2026-09-25T11:23:04.159Z"
   },
   {
     "id": "american-game",
@@ -137,19 +147,9 @@
     "status": "",
     "use": "",
     "summary": "The American Game is an American breed of game fowl, chickens bred specifically for cockfighting. It has many color varieties, and may also be kept for ornament.",
-    "image": {
-      "file": "American Game hen.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Game%20hen.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/American_Game_hen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/American_Game_hen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "author": "Just chaos",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:22.002Z"
+    "fetched_at": "2026-09-25T11:23:44.267Z"
   },
   {
     "id": "ancona-chicken",
@@ -183,7 +183,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:23.811Z"
+    "fetched_at": "2026-09-25T11:24:21.247Z"
   },
   {
     "id": "appenzeller-barthuhn",
@@ -217,7 +217,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:27.384Z"
+    "fetched_at": "2026-09-25T11:24:49.936Z"
   },
   {
     "id": "appenzeller-spitzhauben",
@@ -251,7 +251,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:28.295Z"
+    "fetched_at": "2026-09-25T11:24:51.118Z"
   },
   {
     "id": "araucana",
@@ -285,7 +285,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:29.854Z"
+    "fetched_at": "2026-09-25T11:24:52.653Z"
   },
   {
     "id": "ardennaise",
@@ -319,7 +319,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:32.449Z"
+    "fetched_at": "2026-09-25T11:24:54.383Z"
   },
   {
     "id": "asil-chicken",
@@ -355,7 +355,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:34.446Z"
+    "fetched_at": "2026-09-25T11:24:56.645Z"
   },
   {
     "id": "augsburger",
@@ -389,7 +389,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:36.603Z"
+    "fetched_at": "2026-09-25T11:24:59.150Z"
   },
   {
     "id": "australian-game",
@@ -423,7 +423,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:38.984Z"
+    "fetched_at": "2026-09-25T11:25:01.355Z"
   },
   {
     "id": "australian-langshan",
@@ -459,7 +459,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:39.811Z"
+    "fetched_at": "2026-09-25T11:25:02.161Z"
   },
   {
     "id": "australian-pit-game-fowl",
@@ -496,7 +496,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:41.722Z"
+    "fetched_at": "2026-09-25T11:25:04.051Z"
   },
   {
     "id": "australorp",
@@ -530,7 +530,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:44.103Z"
+    "fetched_at": "2026-09-25T11:25:05.412Z"
   },
   {
     "id": "ayam-cemani",
@@ -564,7 +564,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:45.457Z"
+    "fetched_at": "2026-09-25T11:25:06.702Z"
   },
   {
     "id": "ayam-kampong",
@@ -600,7 +600,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:47.458Z"
+    "fetched_at": "2026-09-25T11:25:08.529Z"
   },
   {
     "id": "ayam-kedu",
@@ -624,7 +624,7 @@
     "summary": "Ayam Kedu is a breed of chicken, originating in Indonesia. It is one of the ancestors of Ayam Cemani",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:47.993Z"
+    "fetched_at": "2026-09-25T11:25:09.017Z"
   },
   {
     "id": "ayam-ketawa",
@@ -658,7 +658,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:11:48.939Z"
+    "fetched_at": "2026-09-25T11:25:10.017Z"
   },
   {
     "id": "barbu-danvers",
@@ -680,9 +680,19 @@
     "status": null,
     "use": null,
     "summary": "The Barbu d'Anvers, , is a breed of bantam chicken from Belgium. It is a true bantam, and has no full-sized counterpart; males weigh about 700 grams and hens about 600 g. The Barbu d'Anvers is one of the oldest bantam breeds, and is thought to have originated in the province of Antwerp () in northern Flanders. It is the only Belgian bantam breed not threatened with extinction. In the United States it may be called the Antwerp Belgian or Belgian Bearded d'Anvers.",
-    "image": null,
+    "image": {
+      "file": "0,1 Antwerpener Bartzwerg - wachtelfarbig.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3A0%2C1%20Antwerpener%20Bartzwerg%20-%20wachtelfarbig.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/0%2C1_Antwerpener_Bartzwerg_-_wachtelfarbig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/0%2C1_Antwerpener_Bartzwerg_-_wachtelfarbig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Wiedeco",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:15:52.312Z"
+    "fetched_at": "2026-09-25T11:25:28.296Z"
   },
   {
     "id": "barbu-de-boitsfort",
@@ -704,9 +714,19 @@
     "status": "critical",
     "use": null,
     "summary": "The Barbu de Boitsfort or is a breed of true bantam from Belgium. It is a tail-less variety of the Barbu de Watermael, and is otherwise similar to it in every respect. It is named for the commune of Watermael-Boitsfort in the Brussels region of Belgium.",
-    "image": null,
+    "image": {
+      "file": "1.0 Bosvoorder Bartzwerg.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3A1.0%20Bosvoorder%20Bartzwerg.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/1.0_Bosvoorder_Bartzwerg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/1.0_Bosvoorder_Bartzwerg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "J. Tönz",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:13:47.226Z"
+    "fetched_at": "2026-09-25T11:25:20.762Z"
   },
   {
     "id": "barbu-de-grubbe",
@@ -730,7 +750,7 @@
     "summary": "The Barbu de Grubbe, , is a Belgian breed of bantam chicken. It is a true bantam, and has no full-sized counterpart; males weigh about 700 grams and hens about 600 g. It is a tail-less variant of the Barbu d'Anvers, and is otherwise similar to it in every respect. The same colour varieties are accepted for the Barbu de Grubbe as for the Barbu d'Anvers.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:13:51.182Z"
+    "fetched_at": "2026-09-25T11:25:21.198Z"
   },
   {
     "id": "barbu-de-watermael",
@@ -752,9 +772,19 @@
     "status": "endangered",
     "use": "fancy",
     "summary": "The or is a Belgian breed of bantam chicken. It was bred in the early twentieth century in the Belgian town of Watermael-Boitsfort (), at that time in the Province of Brabant; the breed name derives from that of the town.",
-    "image": null,
+    "image": {
+      "file": "2014nr170 – RGZV Frankenthal IMG061 – 1,0 Watermaalsche Bartzwerge, wachtelfarbig.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3A2014nr170%20%E2%80%93%20RGZV%20Frankenthal%20IMG061%20%E2%80%93%201%2C0%20Watermaalsche%20Bartzwerge%2C%20wachtelfarbig.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/2014nr170_%E2%80%93_RGZV_Frankenthal_IMG061_%E2%80%93_1%2C0_Watermaalsche_Bartzwerge%2C_wachtelfarbig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/2014nr170_%E2%80%93_RGZV_Frankenthal_IMG061_%E2%80%93_1%2C0_Watermaalsche_Bartzwerge%2C_wachtelfarbig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "RGZV Frankenthal",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:14:20.202Z"
+    "fetched_at": "2026-09-25T11:25:22.210Z"
   },
   {
     "id": "barbu-deverberg",
@@ -776,9 +806,19 @@
     "status": "",
     "use": null,
     "summary": "The , , is a Belgian breed of bantam chicken. It is a tailless variant of the Barbu d'Uccle, and was bred in about 1906 at the Château d'Everberg, at Everberg in the municipality of Kortenberg, between Brussels and Leuven (Louvain). It is among the most endangered chicken breeds in Belgium, and in 2010 its conservation status was classed as \"critical\". It is a true bantam, with no large counterpart. Cocks weigh , and hens .",
-    "image": null,
+    "image": {
+      "file": "Everbergse baardkriel.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AEverbergse%20baardkriel.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Everbergse_baardkriel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Everbergse_baardkriel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Michael16 at Dutch Wikipedia",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:16:33.199Z"
+    "fetched_at": "2026-09-25T11:25:30.344Z"
   },
   {
     "id": "barbu-duccle",
@@ -800,9 +840,19 @@
     "status": "",
     "use": null,
     "summary": "The ' or Belgian d'Uccle, , it is a Belgian breed of bearded bantam chicken. It was first bred in the town of Uccle on the outskirts of Brussels, in central Belgium, in the early years of the twentieth century. It is a true bantam, with no standard-sized large fowl counterpart, and is one of eleven Belgian true bantam breeds.",
-    "image": null,
+    "image": {
+      "file": "Belgian d'Uccle Bantams.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABelgian%20d'Uccle%20Bantams.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Belgian_d%27Uccle_Bantams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Belgian_d%27Uccle_Bantams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Bergere2005",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:16:12.514Z"
+    "fetched_at": "2026-09-25T11:25:29.266Z"
   },
   {
     "id": "barnevelder",
@@ -824,9 +874,19 @@
     "status": null,
     "use": null,
     "summary": "The Barnevelder is a Dutch breed of domestic chicken. It resulted from cross-breeding between local Dutch chickens and various \"Shanghai\" birds imported from Asia to Europe in the later part of the nineteenth century; these may have been of Brahma, Cochin or Croad Langshan type. It is named for the town and gemeente (municipality) of Barneveld, in Gelderland in the central Netherlands. The hens are good layers of large brown eggs and, unlike some other breeds, continue to lay well during winter.",
-    "image": null,
+    "image": {
+      "file": "Barnevelder Hen Head.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABarnevelder%20Hen%20Head.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Barnevelder_Hen_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Barnevelder_Hen_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Air55",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:14:45.125Z"
+    "fetched_at": "2026-09-25T11:25:23.180Z"
   },
   {
     "id": "bassette-li-geoise",
@@ -850,9 +910,19 @@
     "status": "",
     "use": null,
     "summary": "The Bassette Liégeoise or Bassette is a Belgian breed of large bantam chicken. It is a true bantam – it does not derive from a corresponding breed of large fowl. It is larger than most bantams, but considerably smaller than full-sized breeds; cocks weigh about and hens about . Like most Belgian bantam breeds, it is in danger of extinction. Eighteen colour patterns are officially recognised, of which many are rare.",
-    "image": null,
+    "image": {
+      "file": "Coq et poulettes bassette (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACoq%20et%20poulettes%20bassette%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Coq_et_poulettes_bassette_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Coq_et_poulettes_bassette_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Evelvin",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:15:06.861Z"
+    "fetched_at": "2026-09-25T11:25:24.892Z"
   },
   {
     "id": "belgian-bantam",
@@ -876,7 +946,7 @@
     "summary": "The Belgian Bantam, , , is a breed of bantam chicken from Belgium. It is a true bantam, and has no full-sized counterpart; cocks weigh about and hens about It is in danger of extinction; in 2010 a total of 168 birds were counted in the whole of Belgium. Fourteen colour patterns are recognised in the European standard.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:15:34.362Z"
+    "fetched_at": "2026-09-25T11:25:27.486Z"
   },
   {
     "id": "bergische-kr-her",
@@ -898,9 +968,19 @@
     "status": "",
     "use": null,
     "summary": "The ' is a German breed of domestic chicken from the Bergisches Land, in the state of North Rhine-Westphalia in western Germany. It is named for its unusually long crow, up to five times as long as that of other breeds, and belongs to the group of long-crowing chickens, which are found from south-east Europe to the Far East.",
-    "image": null,
+    "image": {
+      "file": "Bergischerkraeher2 (less cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABergischerkraeher2%20(less%20cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bergischerkraeher2_%28less_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bergischerkraeher2_%28less_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Hagen Graebner",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:16:58.267Z"
+    "fetched_at": "2026-09-25T11:25:31.298Z"
   },
   {
     "id": "bergische-schlotterkamm",
@@ -924,9 +1004,19 @@
     "status": "",
     "use": "dual-purpose",
     "summary": "The Bergische Schlotterkamm () is an old and endangered German breed of domestic chicken. It originates from the Bergisches Land, in the state of North Rhine-Westphalia in western Germany, and is one of three chicken breeds from that area, the others being the Bergische Kräher and the German creeper (\"Krüper\").",
-    "image": null,
+    "image": {
+      "file": "Schlotterkamm Hahn1 (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ASchlotterkamm%20Hahn1%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Schlotterkamm_Hahn1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Schlotterkamm_Hahn1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "JürnC (Diskussion) 13:57, 7. Jul. 2013 (CEST)",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:17:33.850Z"
+    "fetched_at": "2026-09-25T11:25:33.103Z"
   },
   {
     "id": "bianca-di-saluzzo",
@@ -952,7 +1042,7 @@
     "summary": "The Bianca di Saluzzo is a traditional Italian breed of chicken originating in the Piemonte region of north-western Italy. It takes its name either from the town of Saluzzo, in the province of Cuneo, or from the former Marquisate of Saluzzo, which approximately coincides with its area of distribution. It may also be called the Bianca di Cavour, after the nearby town of Cavour, in the Province of Turin.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:17:36.284Z"
+    "fetched_at": "2026-09-25T11:25:35.413Z"
   },
   {
     "id": "bielefelder-kennhuhn",
@@ -974,9 +1064,19 @@
     "status": "",
     "use": "dual-purpose, meat and eggs",
     "summary": "The Bielefelder Kennhuhn or Bielefelder is a German breed of domestic chicken. It was developed in the area of Bielefeld in the 1970s by Gerd Roth, who cross-bred birds of Malines and Welsumer stock with American Barred Rocks to create the breed. Like other breeds with Barred Rock parentage, it is auto-sexing – chicks of different sexes can be distinguished by their colour. There is a bantam version, the Bielefelder Zwerg-Kennhuhn.",
-    "image": null,
+    "image": {
+      "file": "Bielefelder-kennhuhn.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABielefelder-kennhuhn.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bielefelder-kennhuhn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bielefelder-kennhuhn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Stuhlgockel",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:17:53.491Z"
+    "fetched_at": "2026-09-25T11:25:36.860Z"
   },
   {
     "id": "bionda-piemontese",
@@ -998,9 +1098,19 @@
     "status": "",
     "use": "dual-purpose breed",
     "summary": "The Bionda Piemontese is a traditional Italian dual-purpose breed of chicken. It originates in the Piemonte region of north-western Italy, from which it takes its name. It may also be called the Bionda di Cuneo, after the comune of Cuneo or the surrounding province; the Bionda di Villanova, after the comune of Villanova d'Asti in the province of Asti; the Rossa delle Crivelle, after a village near Buttigliera d'Asti; or the Nostralina.",
-    "image": null,
+    "image": {
+      "file": "Bionda piemontese (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABionda%20piemontese%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bionda_piemontese_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bionda_piemontese_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Prof.lumacorno",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:18:11.507Z"
+    "fetched_at": "2026-09-25T11:25:38.378Z"
   },
   {
     "id": "black-shumen",
@@ -1022,9 +1132,19 @@
     "status": "",
     "use": "eggs",
     "summary": "The Black Shumen is a Bulgarian breed of chicken. It originates in Shumen Province, in north-eastern Bulgaria. In the mid-twentieth century it was cross-bred with Minorca chickens and later, briefly, with Rhode Island Red birds.",
-    "image": null,
+    "image": {
+      "file": "Black_shumen_male.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABlack_shumen_male.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Black_shumen_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Black_shumen_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Dr lukanov",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:18:50.110Z"
+    "fetched_at": "2026-09-25T11:25:40.612Z"
   },
   {
     "id": "blue-andalusian",
@@ -1046,9 +1166,19 @@
     "status": "",
     "use": null,
     "summary": "The Blue Andalusian, , is a Spanish breed of domestic chicken indigenous to the autonomous community of Andalusia in south-western Spain. It is distributed through much of the countryside of Córdoba and Seville, and is concentrated particularly in the area of Utrera, which is considered the heartland of the breed. In 2009 the total number of the birds in Spain was estimated at .",
-    "image": null,
+    "image": {
+      "file": "Andalusian gallus (hen).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AAndalusian%20gallus%20(hen).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Andalusian_gallus_%28hen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Andalusian_gallus_%28hen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Костюшко",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:19:19.837Z"
+    "fetched_at": "2026-09-25T11:25:42.365Z"
   },
   {
     "id": "booted-bantam",
@@ -1070,9 +1200,19 @@
     "status": null,
     "use": "show",
     "summary": "The Booted Bantam or Dutch Booted Bantam is a European breed of true bantam chicken. It is characterised by abundant feathering on the feet and shanks, which gives it a \"booted\" appearance; and by vulture hocks, long stiff downward-pointing feathers on the backs of the thighs, from which the Dutch name ('sabre-legged') derives.",
-    "image": null,
+    "image": {
+      "file": "Booted Bantam -peting zoo, The Hague, Netherlands -two-8a.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABooted%20Bantam%20-peting%20zoo%2C%20The%20Hague%2C%20Netherlands%20-two-8a.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "-JvL- from Netherlands",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:20:20.073Z"
+    "fetched_at": "2026-09-25T11:25:44.994Z"
   },
   {
     "id": "bourbonnaise-chicken",
@@ -1094,9 +1234,19 @@
     "status": null,
     "use": "eggs, meat, show",
     "summary": "The Bourbonnaise () is a French breed of chicken.",
-    "image": null,
+    "image": {
+      "file": "Coq bourbonnais dans une ferme.JPG",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ACoq%20bourbonnais%20dans%20une%20ferme.JPG",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coq_bourbonnais_dans_une_ferme.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coq_bourbonnais_dans_une_ferme.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Dcrid57",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:20:38.738Z"
+    "fetched_at": "2026-09-25T11:25:45.805Z"
   },
   {
     "id": "brabanter",
@@ -1120,9 +1270,19 @@
     "status": "endangered",
     "use": null,
     "summary": "The Brabanter is a Dutch breed of crested chicken originating in the historic region of Brabant which straddles Belgium and the Netherlands. It is an ancient breed and is shown in seventeenth-century paintings. A bantam Brabanter was created in around 1934.",
-    "image": null,
+    "image": {
+      "file": "Melchior d'Hondecoeter 002.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AMelchior%20d'Hondecoeter%20002.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Melchior_d%27Hondecoeter_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Melchior_d%27Hondecoeter_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "license_url": null,
+      "author": "Melchior d'Hondecoeter",
+      "attribution_required": false,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:21:05.490Z"
+    "fetched_at": "2026-09-25T11:25:47.130Z"
   },
   {
     "id": "braekel",
@@ -1144,9 +1304,19 @@
     "status": "",
     "use": "eggs",
     "summary": "The Braekel or Brakel is a traditional Belgian breed of chicken. It is thought to have originated in the area of Brakel, in the Flemish province of East Flanders, for which it is named. There is a bantam version of the Braekel. The Campine of the United Kingdom derives from it.",
-    "image": null,
+    "image": {
+      "file": "Braekel.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABraekel.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Braekel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Braekel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Photograph by en:User:Stijn Ghesquiere 2004.",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:21:34.565Z"
+    "fetched_at": "2026-09-25T11:25:47.984Z"
   },
   {
     "id": "brahma-chicken",
@@ -1168,9 +1338,19 @@
     "status": null,
     "use": null,
     "summary": "The Brahma is an American breed of chicken. It is believed that it was first bred in the United States from birds imported from the Chinese port of Shanghai, and was the principal American meat breed from the 1850s until about 1930.",
-    "image": null,
+    "image": {
+      "file": "Brahmahahn (cropped).png",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABrahmahahn%20(cropped).png",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brahmahahn_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brahmahahn_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "license_url": null,
+      "author": "Timo Kösters",
+      "attribution_required": false,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:12.490Z"
+    "fetched_at": "2026-09-25T11:25:48.812Z"
   },
   {
     "id": "branca-chicken",
@@ -1206,7 +1386,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:22.213Z"
+    "fetched_at": "2026-09-25T11:25:51.006Z"
   },
   {
     "id": "bresse-gauloise",
@@ -1240,7 +1420,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:25.369Z"
+    "fetched_at": "2026-09-25T11:25:51.869Z"
   },
   {
     "id": "broiler",
@@ -1274,7 +1454,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:29.329Z"
+    "fetched_at": "2026-09-25T11:25:54.487Z"
   },
   {
     "id": "brugse-vechter",
@@ -1296,19 +1476,9 @@
     "status": "endangered",
     "use": "cock-fighting",
     "summary": "The Brugse Vechter, , is an endangered Belgian breed of gamecock. It dates from the early nineteenth century, and was bred specifically for cock-fighting. It named for its area of origin, that of the city of Bruges (Brugge), in West Flanders in the north-east of Belgium. It is one of three Belgian breeds of fighting-cock, the others being the Luikse Vechter and the Tiense Vechter. It is a hardy breed, but the birds are often aggressive; those reared for exhibition may show less aggression.",
-    "image": {
-      "file": "Brügger Kämpfer.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABr%C3%BCgger%20K%C3%A4mpfer.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Br%C3%BCgger_K%C3%A4mpfer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Br%C3%BCgger_K%C3%A4mpfer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "T. Stephan",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:24:07.037Z"
+    "fetched_at": "2026-09-25T11:26:49.710Z"
   },
   {
     "id": "buckeye-chicken",
@@ -1342,7 +1512,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:32.551Z"
+    "fetched_at": "2026-09-25T11:25:57.228Z"
   },
   {
     "id": "burmese-bantam",
@@ -1378,7 +1548,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:37.430Z"
+    "fetched_at": "2026-09-25T11:25:59.430Z"
   },
   {
     "id": "california-gray",
@@ -1414,7 +1584,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:38.814Z"
+    "fetched_at": "2026-09-25T11:26:00.629Z"
   },
   {
     "id": "campine-chicken",
@@ -1448,7 +1618,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:40.698Z"
+    "fetched_at": "2026-09-25T11:26:02.470Z"
   },
   {
     "id": "castellana-negra",
@@ -1484,7 +1654,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:42.449Z"
+    "fetched_at": "2026-09-25T11:26:04.281Z"
   },
   {
     "id": "catalana",
@@ -1518,7 +1688,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:22:43.895Z"
+    "fetched_at": "2026-09-25T11:26:05.604Z"
   },
   {
     "id": "chantecler-chicken",
@@ -1540,9 +1710,19 @@
     "status": "",
     "use": "dual-purpose, eggs and meat",
     "summary": "The Chantecler is a Canadian breed of dual-purpose chicken, reared for both egg and meat production. It was bred in the early twentieth century at the Oka Agricultural Institute in Oka, Quebec. It is characterised by close-fitting feathering, a small or vestigial cushion-shaped comb and small or vestigial wattles, all of which make it more resistant than many other breeds to the extreme cold of the Canadian winter.",
-    "image": null,
+    "image": {
+      "file": "Chantecler coq 1926.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AChantecler%20coq%201926.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chantecler_coq_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chantecler_coq_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "license_url": null,
+      "author": "Unknown authorUnknown author",
+      "attribution_required": false,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:23:09.123Z"
+    "fetched_at": "2026-09-25T11:26:09.066Z"
   },
   {
     "id": "cochin-chicken",
@@ -1564,9 +1744,19 @@
     "status": "",
     "use": "ornamental",
     "summary": "The Cochin is a breed of large domestic chicken. It derives from large feather-legged chickens brought from China to Europe and North America in the 1840s and 1850s. It is reared principally for exhibition. It was formerly known as the Cochin-China.",
-    "image": null,
+    "image": {
+      "file": "Partridge Cochin cockerel (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3APartridge%20Cochin%20cockerel%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Partridge_Cochin_cockerel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Partridge_Cochin_cockerel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "sammydavisdog from East Midlands, UK",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:23:38.603Z"
+    "fetched_at": "2026-09-25T11:26:30.718Z"
   },
   {
     "id": "coucou-des-flandres",
@@ -1590,7 +1780,7 @@
     "summary": "The Coucou des Flandres, , is an endangered Belgian breed of domestic chicken. It may have a common origin with the Malines from the area of Mechelen (), in the province of Antwerp in Flanders, or may indeed represent the original type of that breed before it was cross-bred in the nineteenth century with various different types of imported Oriental chicken. By the time of the First World War it had disappeared; it was re-created in the years before the Second World War. It is critically endangered in Belgium, but more numerous in Picardy in France. It may also be known as the Poulet de Dendre, for the Dender river in its area of origin.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:24:42.685Z"
+    "fetched_at": "2026-09-25T11:27:13.200Z"
   },
   {
     "id": "cr-vec-ur-chicken",
@@ -1614,7 +1804,7 @@
     "summary": "The Crèvecœur () is an endangered French breed of crested chicken from the Pays d'Auge, in the Calvados département of Normandy, in north-western France. It is named after the commune of Crèvecœur-en-Auge. It is related to the La Flèche and to other Norman breeds such as the Caumont and Caux and the extinct Pavilly; the Merlerault was formerly considered a sub-type of the Crèvecœur.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:25:23.274Z"
+    "fetched_at": "2026-09-25T11:27:33.169Z"
   },
   {
     "id": "croad-langshan",
@@ -1638,7 +1828,7 @@
     "summary": "The Croad Langshan is an old, heavy, soft-feathered chicken breed which probably originated in China.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:24:50.178Z"
+    "fetched_at": "2026-09-25T11:27:14.843Z"
   },
   {
     "id": "cubalaya",
@@ -1660,9 +1850,19 @@
     "status": null,
     "use": "",
     "summary": "The Cubalaya is a Cuban breed of domestic chicken. It is the only chicken breed with official recognition from the Asociación Nacional de Avicultura, the Cuban national poultry association. It derives from Sumatra and Malay birds brought to Cuba from the Philippines, and was bred as a triple-purpose breed, for meat, eggs and cock-fighting.",
-    "image": null,
+    "image": {
+      "file": "cubalaya.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/cubalaya.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/cubalaya.jpg",
+      "local_path": "data/images/breeds/cubalaya.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:25:58.844Z"
+    "fetched_at": "2026-09-25T11:27:50.851Z"
   },
   {
     "id": "czech-gold-brindled-hen",
@@ -1684,19 +1884,9 @@
     "status": "rare",
     "use": null,
     "summary": "The Czech Gold Brindled Hen, , is an old breed of chicken originating in Bohemia. The first mention dates from 1205, when a flock of these chickens was presented to Valdemar II of Denmark as a wedding gift on his marriage to the Czech princess Dagmar of Bohemia.",
-    "image": {
-      "file": "Slepice česká zlatě kropenatá, mladý pár.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ASlepice%20%C4%8Desk%C3%A1%20zlat%C4%9B%20kropenat%C3%A1%2C%20mlad%C3%BD%20p%C3%A1r.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Slepice_%C4%8Desk%C3%A1_zlat%C4%9B_kropenat%C3%A1%2C_mlad%C3%BD_p%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Slepice_%C4%8Desk%C3%A1_zlat%C4%9B_kropenat%C3%A1%2C_mlad%C3%BD_p%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "Milan Kylar",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:26:03.703Z"
+    "fetched_at": "2026-09-25T11:28:26.586Z"
   },
   {
     "id": "delaware-blue-hen",
@@ -1720,7 +1910,7 @@
     "summary": "The Delaware Blue Hen or Blue Hen of Delaware is a blue strain of American gamecock. Under the name Blue Hen Chicken it is the official bird of the State of Delaware. It is the emblem or mascot of several institutions in the state, among them the sports teams of the University of Delaware.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:26:30.201Z"
+    "fetched_at": "2026-09-25T11:28:52.608Z"
   },
   {
     "id": "delaware-chicken",
@@ -1742,9 +1932,19 @@
     "status": "",
     "use": null,
     "summary": "The Delaware is an American breed of chicken with an unusual plumage pattern. It was developed in the state of Delaware in the mid-twentieth century, and was initially known as the Indian River. It was briefly of some importance in the American chicken industry, until it was superseded by the common industrial Cornish Rock cross.",
-    "image": null,
+    "image": {
+      "file": "Delaware pullet in foreground.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ADelaware%20pullet%20in%20foreground.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Delaware_pullet_in_foreground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Delaware_pullet_in_foreground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Josh Larios from Seattle, US",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:26:50.239Z"
+    "fetched_at": "2026-09-25T11:29:10.445Z"
   },
   {
     "id": "denizli-chicken",
@@ -1766,9 +1966,19 @@
     "status": null,
     "use": "Multipurpose",
     "summary": "The Denizli is a Turkish breed of long-crowing chicken. It is closely associated with the city of Denizli, in the Aegean region of south-west Turkey. Cock birds may be capable of a crow of 20–25 seconds in their first year.",
-    "image": null,
+    "image": {
+      "file": "Denizli haan Roosendaal 2016.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ADenizli%20haan%20Roosendaal%202016.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Denizli_haan_Roosendaal_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Denizli_haan_Roosendaal_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Opzwartbeek",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:27:11.597Z"
+    "fetched_at": "2026-09-25T11:29:28.733Z"
   },
   {
     "id": "derbyshire-redcap",
@@ -1792,9 +2002,19 @@
     "status": "RBST (UK): at risk",
     "use": "eggs, meat",
     "summary": "The Derbyshire Redcap is a breed of chicken originating in the English county of Derbyshire. The name \"Redcap\" derives from the breed's unusually large Rose-type comb. British breed standards dictate a length of more than 7 centimetres (3&nbsp;inches) of length for a Redcap comb. It is covered in small, fleshy points, and has a distinct spike pointing backwards called a \"leader\". Combs, wattles and earlobes are all ideally bright red.",
-    "image": null,
+    "image": {
+      "file": "Männliches Haushuhn (cropped).JPG",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AM%C3%A4nnliches%20Haushuhn%20(cropped).JPG",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/M%C3%A4nnliches_Haushuhn_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/M%C3%A4nnliches_Haushuhn_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "3268zauber",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:27:30.028Z"
+    "fetched_at": "2026-09-25T11:29:46.452Z"
   },
   {
     "id": "dominique-chicken",
@@ -1816,9 +2036,19 @@
     "status": "",
     "use": "dual-purpose, eggs and meat",
     "summary": "The Dominique is an American breed of chicken, characterized by black-and-white barred plumage and a rose comb. It is considered to be the oldest American chicken breed, and is thought to derive from birds brought to America by colonists from southern England. It was well known by about 1750, and by the mid-nineteenth century was widely distributed in the eastern United States. It is a dual-purpose breed, but is kept principally for its brown eggs. It became an endangered breed in the twentieth century, but numbers have since recovered.",
-    "image": null,
+    "image": {
+      "file": "Dominique rooster Mt. Vernon (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ADominique%20rooster%20Mt.%20Vernon%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dominique_rooster_Mt._Vernon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dominique_rooster_Mt._Vernon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "The Consumerist",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:27:55.069Z"
+    "fetched_at": "2026-09-25T11:30:10.488Z"
   },
   {
     "id": "dong-tao-chicken",
@@ -1840,9 +2070,19 @@
     "status": null,
     "use": null,
     "summary": "Dong Tao chicken (), also called Dragon Chicken, is a rare Vietnamese chicken breed with enlarged feet, that originates from the village Đông Tảo in Khoái Châu District near Hanoi.",
-    "image": null,
+    "image": {
+      "file": "Pouletdong.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3APouletdong.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pouletdong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pouletdong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Computer0001",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:28:16.326Z"
+    "fetched_at": "2026-09-25T11:30:13.986Z"
   },
   {
     "id": "dorking-chicken",
@@ -1864,9 +2104,19 @@
     "status": "",
     "use": null,
     "summary": "The Dorking is a British breed of domestic chicken. It is named after the town of Dorking, in Surrey in southern England.",
-    "image": null,
+    "image": {
+      "file": "Dorking Hahn.JPG",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ADorking%20Hahn.JPG",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dorking_Hahn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dorking_Hahn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "3268zauber",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:28:36.634Z"
+    "fetched_at": "2026-09-25T11:30:16.118Z"
   },
   {
     "id": "dutch-bantam",
@@ -1888,9 +2138,19 @@
     "status": "FAO (2007): endangered",
     "use": null,
     "summary": "The Dutch Bantam () is a breed of bantam chicken originating in the Netherlands. It is a true bantam, a naturally small bird with no related large fowl from which it was miniaturized. It is kept mainly for exhibition, and has been bred in many color varieties; it is a good layer of small eggs.",
-    "image": null,
+    "image": {
+      "file": "Dutch Bantam Pullet.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ADutch%20Bantam%20Pullet.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dutch_Bantam_Pullet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dutch_Bantam_Pullet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Laura Haggarty",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:28:58.355Z"
+    "fetched_at": "2026-09-25T11:30:18.987Z"
   },
   {
     "id": "ermellinata-di-rovigo",
@@ -1914,7 +2174,7 @@
     "summary": "The Ermellinata di Rovigo is a modern Italian breed of dual-purpose chicken. It originates in the city of Rovigo in the Veneto region of north-eastern Italy, from which it takes its name. It was created between 1959 and 1965, principally from Sussex and Rhode Island Red parentage.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:29:58.800Z"
+    "fetched_at": "2026-09-25T11:30:44.986Z"
   },
   {
     "id": "estaires-chicken",
@@ -1948,7 +2208,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:02.084Z"
+    "fetched_at": "2026-09-25T11:31:02.375Z"
   },
   {
     "id": "euskal-oiloa",
@@ -1982,7 +2242,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:03.923Z"
+    "fetched_at": "2026-09-25T11:31:38.854Z"
   },
   {
     "id": "faverolles-chicken",
@@ -2016,7 +2276,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:07.605Z"
+    "fetched_at": "2026-09-25T11:32:18.515Z"
   },
   {
     "id": "fayoumi",
@@ -2050,7 +2310,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:13.070Z"
+    "fetched_at": "2026-09-25T11:32:36.642Z"
   },
   {
     "id": "friesian-chicken",
@@ -2084,7 +2344,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:16.586Z"
+    "fetched_at": "2026-09-25T11:32:56.770Z"
   },
   {
     "id": "frizzle-chicken-breed",
@@ -2118,7 +2378,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:19.398Z"
+    "fetched_at": "2026-09-25T11:33:31.900Z"
   },
   {
     "id": "german-langshan",
@@ -2140,19 +2400,9 @@
     "status": null,
     "use": "ornamental, meat",
     "summary": "The German Langshan is a breed of chicken developed from the exported Croad Langshan in Germany. It is a large, robust breed of exceptional height. Though most often raised for show, it has practical application as a layer and meat bird, as well. The standard-sized German Langshan is uncommon in both the United States and the United Kingdom, but the bantam form is popular in the latter.",
-    "image": {
-      "file": "1,0 Deutsches Langschan, braunbrüstig.JPG",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3A1%2C0%20Deutsches%20Langschan%2C%20braunbr%C3%BCstig.JPG",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1%2C0_Deutsches_Langschan%2C_braunbr%C3%BCstig.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1%2C0_Deutsches_Langschan%2C_braunbr%C3%BCstig.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "F. Kunz, Greifenstein",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:25.900Z"
+    "fetched_at": "2026-09-25T11:33:54.921Z"
   },
   {
     "id": "giriraja",
@@ -2186,7 +2436,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:30.043Z"
+    "fetched_at": "2026-09-25T11:34:32.741Z"
   },
   {
     "id": "golden-comet",
@@ -2210,7 +2460,7 @@
     "summary": "Golden Comet is a chicken breed that is cross bred and sex linked: developed by crossing a female White Rock or Rhode Island White and a male New Hampshire Red chicken.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:16.836Z"
+    "fetched_at": "2026-09-25T11:54:38.826Z"
   },
   {
     "id": "green-legged-partridge",
@@ -2234,7 +2484,7 @@
     "summary": "The Green-legged Partridge is an old Polish breed of chicken. It is characterised by the unusual reseda green colour of the shanks.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:42:54.397Z"
+    "fetched_at": "2026-09-25T12:08:42.893Z"
   },
   {
     "id": "h-chicken",
@@ -2258,7 +2508,7 @@
     "summary": "The or is a Vietnamese breed of chicken, originating in Bắc Ninh Province. It is one of many local chicken varieties in Vietnam including: gà Ri (the most popular breed), gà Tàu Vàng, gà Nòi, gà Đông Tảo, gà Mía, gà Tam Hoàng, gà Lương Phượng, etc.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:31.670Z"
+    "fetched_at": "2026-09-25T11:36:20.367Z"
   },
   {
     "id": "hamburg-chicken",
@@ -2281,18 +2531,18 @@
     "use": null,
     "summary": "The Hamburg, , , is a Dutch breed of chicken. The name may be spelled Hamburgh in the United Kingdom and in Australia.",
     "image": {
-      "file": "Silver-Spangled Hamburg Sam dinner (cropped).jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ASilver-Spangled%20Hamburg%20Sam%20dinner%20(cropped).jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "FAL",
-      "license_url": "http://artlibre.org/licence/lal/en",
-      "author": "Ospr3yy at en.wikipedia",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "hamburg.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/hamburg.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/hamburg.jpg",
+      "local_path": "data/images/breeds/hamburg-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:30:41.860Z"
+    "fetched_at": "2026-09-25T11:35:33.982Z"
   },
   {
     "id": "houdan-chicken",
@@ -2314,9 +2564,19 @@
     "status": null,
     "use": "meat, eggs, fancy",
     "summary": "The Houdan or is a French breed of domestic chicken. It is named for its area of origin, the commune of Houdan, in the département of Yvelines to the west of Paris. It belongs to the crested chicken group, is muffed and bearded, has an unusual leaf-shaped comb, and has five toes on each foot rather than the usual four.",
-    "image": null,
+    "image": {
+      "file": "houdan.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/houdan.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/houdan.jpg",
+      "local_path": "data/images/breeds/houdan-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:08.179Z"
+    "fetched_at": "2026-09-25T11:35:57.478Z"
   },
   {
     "id": "hrvatica-chicken",
@@ -2338,9 +2598,19 @@
     "status": null,
     "use": "",
     "summary": "The Hrvatica is a Croatian breed of domestic chicken.",
-    "image": null,
+    "image": {
+      "file": "Kokoš Hrvatica.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AKoko%C5%A1%20Hrvatica.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Koko%C5%A1_Hrvatica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Koko%C5%A1_Hrvatica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Fraxinus Croat",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:26.243Z"
+    "fetched_at": "2026-09-25T11:36:15.040Z"
   },
   {
     "id": "icelandic-chicken",
@@ -2374,7 +2644,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:51.673Z"
+    "fetched_at": "2026-09-25T11:36:55.145Z"
   },
   {
     "id": "indian-game-poultry",
@@ -2408,7 +2678,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:52.667Z"
+    "fetched_at": "2026-09-25T11:37:12.801Z"
   },
   {
     "id": "iowa-blue",
@@ -2430,9 +2700,19 @@
     "status": "not recognized",
     "use": null,
     "summary": "The Iowa Blue is a breed of chicken that originated near Decorah, Iowa, in the early 20th century. Despite its name, the breed is not actually blue, but is gray, white, and black. It is an exceedingly rare fowl, and is not recognized for showing by the American Poultry Association. They are a dual-purpose breed laying brown eggs and known to be good foragers.",
-    "image": null,
+    "image": {
+      "file": "iowa-blue.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/iowa-blue.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/iowa-blue.jpg",
+      "local_path": "data/images/breeds/iowa-blue.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:56.181Z"
+    "fetched_at": "2026-09-25T11:37:16.685Z"
   },
   {
     "id": "isa-brown",
@@ -2460,7 +2740,7 @@
     "summary": "The ISA Brown is a crossbreed of chicken, with sex-linked coloration. It is thought to have been the result of a complex series of crosses including but not limited to Rhode Island Reds and Rhode Island Whites, and contains genes from a wide range of breeds, the list of which is a closely guarded secret. It is known for its high egg production of approximately 300 eggs per hen in the first year of laying.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:49.003Z"
+    "fetched_at": "2026-09-25T11:36:37.602Z"
   },
   {
     "id": "ixworth-chicken",
@@ -2482,9 +2762,19 @@
     "status": "",
     "use": "dual-purpose",
     "summary": "The Ixworth is a British breed of white domestic chicken. It is named for the village of Ixworth in Suffolk, where it was created in 1932. It was bred as fast-growing high-quality meat breed with reasonable laying abilities.",
-    "image": null,
+    "image": {
+      "file": "ixworth.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/ixworth.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/ixworth.jpg",
+      "local_path": "data/images/breeds/ixworth-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:58.511Z"
+    "fetched_at": "2026-09-25T11:37:18.726Z"
   },
   {
     "id": "j-rh-ns",
@@ -2506,19 +2796,9 @@
     "status": "FAO (2007): not at risk",
     "use": null,
     "summary": "The Jærhøns or Norske Jærhøns is the only indigenous breed of domestic chicken in Norway. It is named for the traditional district of Jæren in the county of Rogaland.",
-    "image": {
-      "file": "Jærhane.JPG",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AJ%C3%A6rhane.JPG",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/J%C3%A6rhane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/J%C3%A6rhane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "Ranveig",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:31.189Z"
+    "fetched_at": "2026-09-25T11:48:03.849Z"
   },
   {
     "id": "jangmigye",
@@ -2542,7 +2822,7 @@
     "summary": "The Jangmigye (), also known as the Ginkkori-dak (), is one of the heritage breed of chicken from Korea that noted for its long tail. Males of this breed can have tails of up to in length. The breed is estimated to have arisen in Korea in the middle of the third century. The Ginkkoridak is listed by the United Nations' Food and Agriculture Organization.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:31:59.821Z"
+    "fetched_at": "2026-09-25T11:37:19.561Z"
   },
   {
     "id": "japanese-bantam",
@@ -2564,9 +2844,19 @@
     "status": null,
     "use": "fancy",
     "summary": "The Japanese Bantam or Chabo () is a Japanese breed of ornamental chicken. It is a true bantam breed, meaning that it has no large fowl counterpart. It characterised by very short legs – the result of hereditary chondrodystrophy – and a large upright tail that reaches much higher than the head of the bird.",
-    "image": null,
+    "image": {
+      "file": "chabo.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/chabo.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/chabo.jpg",
+      "local_path": "data/images/breeds/japanese-bantam.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:32:18.109Z"
+    "fetched_at": "2026-09-25T11:37:37.278Z"
   },
   {
     "id": "java-chicken",
@@ -2589,18 +2879,18 @@
     "use": null,
     "summary": "The Java is a breed of chicken originating in the United States. Despite the breed's name, a reference to the island of Java, it was developed in the U.S. from chickens of unknown Asian extraction. It is one of the oldest American chickens, forming the basis for many other breeds, but is critically endangered today. Javas are large birds with a sturdy appearance. They are hardy, and are well-suited for both meat and egg production, especially by small-scale farms, homesteads, and backyard keepers.",
     "image": {
-      "file": "Black Java male, 1905.png",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABlack%20Java%20male%2C%201905.png",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Black_Java_male%2C_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Black_Java_male%2C_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "license_url": null,
-      "author": "the American Poultry Association",
-      "attribution_required": false,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "java.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/java.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/java.jpg",
+      "local_path": "data/images/breeds/java-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:32:19.691Z"
+    "fetched_at": "2026-09-25T11:37:55.015Z"
   },
   {
     "id": "jersey-giant",
@@ -2634,7 +2924,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:32:21.171Z"
+    "fetched_at": "2026-09-25T11:38:12.938Z"
   },
   {
     "id": "kadaknath",
@@ -2670,7 +2960,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:32:32.401Z"
+    "fetched_at": "2026-09-25T11:38:54.361Z"
   },
   {
     "id": "kokok-balenggek",
@@ -2694,7 +2984,7 @@
     "summary": "Kokok Balenggek is a lesser-known chicken breed originating from the landscapes of Indonesia, particularly found in the West Sumatra region.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:32:38.069Z"
+    "fetched_at": "2026-09-25T11:39:00.337Z"
   },
   {
     "id": "kosovo-longcrower",
@@ -2722,9 +3012,19 @@
     "status": null,
     "use": null,
     "summary": "The Kosovo Longcrower or Kosovo Long Crowing Rooster is a breed of chicken originating in Kosovo. It developed as a landrace in the area of the Drenica in Kosovo, and thus in the Albanian language it is commonly called Rooster of Drenica.",
-    "image": null,
+    "image": {
+      "file": "Kosovo Crower 1.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3AKosovo%20Crower%201.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kosovo_Crower_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kosovo_Crower_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Sanjakcrower",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:33:15.131Z"
+    "fetched_at": "2026-09-25T11:39:35.552Z"
   },
   {
     "id": "kr-per",
@@ -2758,7 +3058,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:33:58.887Z"
+    "fetched_at": "2026-09-25T11:40:30.508Z"
   },
   {
     "id": "kraienkopp",
@@ -2780,19 +3080,9 @@
     "status": null,
     "use": null,
     "summary": "The () or () is a breed of chicken originating on the border region between Germany and the Netherlands. The latter of the two names is the Dutch language version, while the former is German.",
-    "image": {
-      "file": "1,0_Kraienkopp_cropped.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3A1%2C0_Kraienkopp_cropped.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1%2C0_Kraienkopp_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1%2C0_Kraienkopp_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "Bomme herrmann",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:33:56.859Z"
+    "fetched_at": "2026-09-25T11:40:11.702Z"
   },
   {
     "id": "la-fl-che-chicken",
@@ -2814,9 +3104,19 @@
     "status": "FAO (2007): no data",
     "use": "dual-purpose",
     "summary": "The La Flèche, , is a rare French breed of dual-purpose domestic chicken. It originates from the département of the Sarthe, in the Pays de la Loire region, and is named for the town and commune of La Flèche in that area, not far from the capital of the Sarthe, Le Mans. The breed was once famous for the fine quality of its meat; since the Second World War, numbers have fallen very low.",
-    "image": null,
+    "image": {
+      "file": "Poule de La Flèche (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3APoule%20de%20La%20Fl%C3%A8che%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Poule_de_La_Fl%C3%A8che_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Poule_de_La_Fl%C3%A8che_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Édouard Hue (User:EdouardHue)",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:34:24.221Z"
+    "fetched_at": "2026-09-25T11:40:50.674Z"
   },
   {
     "id": "lakenvelder",
@@ -2838,9 +3138,19 @@
     "status": "GEH, Germany: III, endangered",
     "use": "eggs",
     "summary": "The Lakenvelder or Lakenfelder is a German/Dutch breed of domestic chicken from the Nordrhein-Westfalen area of Germany and neighbouring areas of the Netherlands. It was first recorded in 1727.",
-    "image": null,
+    "image": {
+      "file": "lakenvelder.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/lakenvelder.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/lakenvelder.jpg",
+      "local_path": "data/images/breeds/lakenvelder.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:03.976Z"
+    "fetched_at": "2026-09-25T11:41:27.184Z"
   },
   {
     "id": "lamona",
@@ -2874,7 +3184,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:05.512Z"
+    "fetched_at": "2026-09-25T11:41:44.754Z"
   },
   {
     "id": "legbar",
@@ -2908,7 +3218,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:09.087Z"
+    "fetched_at": "2026-09-25T11:42:05.541Z"
   },
   {
     "id": "leghorn-chicken",
@@ -2942,7 +3252,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:10.578Z"
+    "fetched_at": "2026-09-25T11:42:23.767Z"
   },
   {
     "id": "luikse-vechter",
@@ -2966,7 +3276,7 @@
     "summary": "The Luikse Vechter, , is an endangered Belgian breed of gamecock. It dates from the late nineteenth century, and was bred specifically for cock-fighting. It is named for its area of origin, that of the city of Liège in Wallonia, in eastern central Belgium. It is one of three Belgian breeds of fighting-cock, the others being the Brugse Vechter and the Tiense Vechter.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:21.699Z"
+    "fetched_at": "2026-09-25T11:42:33.607Z"
   },
   {
     "id": "malay-game",
@@ -2991,18 +3301,18 @@
     "use": null,
     "summary": "The Malay Game is a breed of game chicken. It is among the tallest breeds of chicken, and may stand over (36 inches) high.",
     "image": {
-      "file": "Hen Tom Rhebergen.JPG",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AHen%20Tom%20Rhebergen.JPG",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hen_Tom_Rhebergen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hen_Tom_Rhebergen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "Tomtomgogo1",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "malay.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/malay.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/malay.jpg",
+      "local_path": "data/images/breeds/malay-game.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:44.782Z"
+    "fetched_at": "2026-09-25T11:43:13.039Z"
   },
   {
     "id": "malines-chicken",
@@ -3024,19 +3334,9 @@
     "status": "endangered",
     "use": null,
     "summary": "The Malines, , is a Belgian breed of large domestic chicken. It originates from the area of Mechelen (), in the province of Antwerp in Flanders, for which it is named. It was created in the nineteenth century by cross-breeding local cuckoo-patterned farm chickens with various different types of imported Oriental chicken. With the Jersey Giant, it is among the heaviest of all chicken breeds. It is valued for the quality of its meat, which is pale in colour and fine-textured.",
-    "image": {
-      "file": "Rooster in Domein Scheyvaerts, cropped (DSC 2569).jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ARooster%20in%20Domein%20Scheyvaerts%2C%20cropped%20(DSC%202569).jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "author": "Trougnouf (Benoit Brummer)",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:50.401Z"
+    "fetched_at": "2026-09-25T11:44:08.006Z"
   },
   {
     "id": "marans",
@@ -3070,7 +3370,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:48.652Z"
+    "fetched_at": "2026-09-25T11:43:49.572Z"
   },
   {
     "id": "marsh-daisy-chicken",
@@ -3092,9 +3392,19 @@
     "status": "RBST: at risk",
     "use": "eggs",
     "summary": "The Marsh Daisy is a rare breed of chicken originating in Lancashire, England. Its name may be related to its origin in a marsh-like area, or that its large rose comb resembles the flower of the Marsh Daisy (Armeria maritima).",
-    "image": null,
+    "image": {
+      "file": "marsh-daisy.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/marsh-daisy.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/marsh-daisy.jpg",
+      "local_path": "data/images/breeds/marsh-daisy-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:49.105Z"
+    "fetched_at": "2026-09-25T11:43:50.371Z"
   },
   {
     "id": "mericanel-della-brianza",
@@ -3118,7 +3428,7 @@
     "summary": "The Mericanel della Brianza is an Italian breed of small chicken or bantam from Lombardy, in northern Italy. It takes its name from the Brianza, an area to the north-east of Milan, and from , a Lombard diminutive of merican \"American\". In early 2012 it was the only officially recognised Italian bantam breed.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:35:51.302Z"
+    "fetched_at": "2026-09-25T11:44:09.145Z"
   },
   {
     "id": "minorca-chicken",
@@ -3140,9 +3450,19 @@
     "status": "",
     "use": null,
     "summary": "The Minorca, , , is a Spanish breed of domestic chicken originating in the Mediterranean island of Menorca in the Balearic Islands, to the south-east of Spain. It is a well-known exhibition bird in many countries of the world, but in the island of Menorca is an endangered breed and considered to be at risk of extinction.",
-    "image": null,
+    "image": {
+      "file": "Rooster at Scottish poultry show.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ARooster%20at%20Scottish%20poultry%20show.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rooster_at_Scottish_poultry_show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rooster_at_Scottish_poultry_show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Erik Fitzpatrick",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:36:13.642Z"
+    "fetched_at": "2026-09-25T11:44:30.930Z"
   },
   {
     "id": "modern-game",
@@ -3166,7 +3486,7 @@
     "summary": "The Modern Game is a British breed of ornamental chicken which originated in England between 1850 and 1900. It was bred from gamecock stock, but solely as an exhibition bird.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:36:51.879Z"
+    "fetched_at": "2026-09-25T11:45:08.442Z"
   },
   {
     "id": "modern-langshan",
@@ -3190,7 +3510,7 @@
     "summary": "The Modern Langshan is a breed of chicken derived from the Croad Langshan. Though today it is rarely seen, the breed was at one time fairly popular.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:36:52.906Z"
+    "fetched_at": "2026-09-25T11:45:09.859Z"
   },
   {
     "id": "mugellese",
@@ -3226,7 +3546,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:14.390Z"
+    "fetched_at": "2026-09-25T11:45:46.319Z"
   },
   {
     "id": "naked-neck",
@@ -3249,18 +3569,18 @@
     "use": "dual-purpose breed",
     "summary": "The Naked Neck is a breed of chicken that is naturally devoid of feathers on its neck and vent. The breed is also called the Transylvanian Naked Neck, as well as the Turken. The name \"Turken\" arose from the mistaken idea that the bird was a hybrid of a chicken and the domestic turkey. Naked Necks are fairly common in Europe today, but are rare in North America and very common in South America. The trait for a naked neck is a dominant one controlled by one gene and is fairly easy to introduce into other breeds, however these are hybrids rather than true Naked Necks, which is a breed recognized by the American Poultry Association since 1965, it was introduced in Britain in the 1920s. There are other breeds of naked necked chicken, such as the French naked neck, which is often confused with the Transylvanian, and the naked necked gamefowl.",
     "image": {
-      "file": "Naked Neck rooster and Turkeys.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ANaked%20Neck%20rooster%20and%20Turkeys.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Naked_Neck_rooster_and_Turkeys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Naked_Neck_rooster_and_Turkeys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "author": "Juan Komún from Merida, Mexico",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "naked-neck.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/naked-neck.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/naked-neck.jpg",
+      "local_path": "data/images/breeds/naked-neck.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:18.347Z"
+    "fetched_at": "2026-09-25T11:46:06.016Z"
   },
   {
     "id": "nankin-bantam",
@@ -3282,9 +3602,19 @@
     "status": "FAO (2007): critical",
     "use": "ornamental",
     "summary": "The Nankin Bantam or Nankin is a British breed of bantam chicken. It is a true bantam, a naturally small breed with no large counterpart from which it was miniaturised. It is of South-east Asian origin, and is among the oldest bantam breeds. It is a yellowish buff colour, and the name is thought to derive from the colour of nankeen cotton from China.",
-    "image": null,
+    "image": {
+      "file": "nankin.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/nankin.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/nankin.jpg",
+      "local_path": "data/images/breeds/nankin-bantam.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:19.783Z"
+    "fetched_at": "2026-09-25T11:46:07.704Z"
   },
   {
     "id": "ndio-gigante",
@@ -3306,19 +3636,9 @@
     "status": null,
     "use": null,
     "summary": "The Índio Gigante is a Brazilian breed of domestic chicken. It is one of the largest chicken breeds in the world, particularly in terms of height.",
-    "image": {
-      "file": "Índio Gigante (cropped).jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3A%C3%8Dndio%20Gigante%20(cropped).jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%8Dndio_Gigante_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%8Dndio_Gigante_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "Khromy",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:43:15.840Z"
+    "fetched_at": "2026-09-25T12:09:33.529Z"
   },
   {
     "id": "new-hampshire-red",
@@ -3343,18 +3663,18 @@
     "use": "dual-purpose, meat and eggs",
     "summary": "The New Hampshire Red or New Hampshire is an American breed of chicken. It was developed in the early twentieth century in the state of New Hampshire by selective breeding of Rhode Island Red stock; no other breed was involved. It is fast-growing, early-maturing, quick-feathering, and yields a meaty carcass. Mature birds are a light or medium red in color; they may fade in sunlight.",
     "image": {
-      "file": "New Hampshire chicken in Isère (cropped).jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ANew%20Hampshire%20chicken%20in%20Is%C3%A8re%20(cropped).jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/New_Hampshire_chicken_in_Is%C3%A8re_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/New_Hampshire_chicken_in_Is%C3%A8re_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "This picture belongs to Xavier Caré.\nPlease credit : Xavier Caré / Wikimedia Commons / CC-BY-SA.\nIf you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\nI'd appreciate if you could let me know about it or mail me ( xavier.carepm.me) if you want to use this picture out of the Wikimedia project scope.",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "new-hampshire.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/new-hampshire.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/new-hampshire.jpg",
+      "local_path": "data/images/breeds/new-hampshire-red.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:23.607Z"
+    "fetched_at": "2026-09-25T11:46:46.626Z"
   },
   {
     "id": "niederrheiner",
@@ -3376,19 +3696,9 @@
     "status": "",
     "use": "meat",
     "summary": "The Niederrheiner () is a German breed of chicken. It is named for the Niederrhein or Lower Rhine region where it originated in the early twentieth century, and derives principally from the Dutch North Holland Blue meat chicken. It was recognized in Germany in 1943. In the twenty-first century it is an endangered breed.",
-    "image": {
-      "file": "Niederrheiner_Gelbsperber_03.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ANiederrheiner_Gelbsperber_03.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Niederrheiner_Gelbsperber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Niederrheiner_Gelbsperber_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "Michi012",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:26.609Z"
+    "fetched_at": "2026-09-25T11:47:06.608Z"
   },
   {
     "id": "norfolk-grey",
@@ -3411,18 +3721,18 @@
     "use": "meat, eggs, exhibition",
     "summary": "The Norfolk Grey is a British utility breed of chicken that originated near the city of Norwich, in Norfolk, England, in around 1910. The breed was originally created by Frederick W Myhill of Hethel, Wymondham under the name Black Maria. It is a rare breed which is currently considered to be at risk by the Rare Breeds Survival Trust.",
     "image": {
-      "file": "Norfolk_Grey_hen.jpeg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ANorfolk_Grey_hen.jpeg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Norfolk_Grey_hen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Norfolk_Grey_hen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "Ekaterina Gerasimova (KittyKat (talk))",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "norfolk-grey.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/norfolk-grey.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/norfolk-grey.jpg",
+      "local_path": "data/images/breeds/norfolk-grey.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:29.242Z"
+    "fetched_at": "2026-09-25T11:47:26.019Z"
   },
   {
     "id": "north-holland-blue",
@@ -3456,7 +3766,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:30.251Z"
+    "fetched_at": "2026-09-25T11:47:44.711Z"
   },
   {
     "id": "ohiki",
@@ -3490,7 +3800,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:32.731Z"
+    "fetched_at": "2026-09-25T11:48:23.066Z"
   },
   {
     "id": "old-english-game",
@@ -3513,18 +3823,18 @@
     "use": null,
     "summary": "The Old English Game is a British breed of domestic chicken. It was probably originally bred for cockfighting. Two different standards are recognised by the Poultry Club of Great Britain: the Carlisle Old English Game and the Oxford Old English Game. There is an Old English Game bantam.",
     "image": {
-      "file": "Bunter Hahn Altenglischer Zwergkämpfer (cropped).JPG",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABunter%20Hahn%20Altenglischer%20Zwergk%C3%A4mpfer%20(cropped).JPG",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bunter_Hahn_Altenglischer_Zwergk%C3%A4mpfer_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bunter_Hahn_Altenglischer_Zwergk%C3%A4mpfer_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "4028mdk09",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "old-english-game.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/old-english-game.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/old-english-game.jpg",
+      "local_path": "data/images/breeds/old-english-game.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:35.753Z"
+    "fetched_at": "2026-09-25T11:48:59.911Z"
   },
   {
     "id": "old-english-pheasant-fowl",
@@ -3558,7 +3868,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:36.683Z"
+    "fetched_at": "2026-09-25T11:49:17.591Z"
   },
   {
     "id": "onagadori",
@@ -3592,7 +3902,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:37.660Z"
+    "fetched_at": "2026-09-25T11:49:35.730Z"
   },
   {
     "id": "orloff-chicken",
@@ -3615,18 +3925,18 @@
     "use": null,
     "summary": "The Orloff is a breed of chicken named after Alexei Grigoryevich Orlov, a Russian Count. Reflecting this origin, it is sometimes called the Russian Orloff or simply Russian.",
     "image": {
-      "file": "Russian Orloff in winter.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ARussian%20Orloff%20in%20winter.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Russian_Orloff_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Russian_Orloff_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "author": "soapydishwater",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "orloff.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/orloff.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/orloff.jpg",
+      "local_path": "data/images/breeds/orloff-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:27.492Z"
+    "fetched_at": "2026-09-25T11:56:14.020Z"
   },
   {
     "id": "orpington-chicken",
@@ -3660,7 +3970,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:40.910Z"
+    "fetched_at": "2026-09-25T11:50:12.402Z"
   },
   {
     "id": "ostfriesische-m-we",
@@ -3694,7 +4004,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:42.412Z"
+    "fetched_at": "2026-09-25T11:50:31.084Z"
   },
   {
     "id": "p-poi",
@@ -3720,7 +4030,7 @@
     "summary": "The Pépoi or Pepoi is a rustic Italian breed of small dual-purpose chicken from north-eastern Italy, particularly the Veneto and Friuli-Venezia Giulia regions. It is not officially recognised as a breed in Italy, but is being considered for recognition.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:13.146Z"
+    "fetched_at": "2026-09-25T11:54:19.086Z"
   },
   {
     "id": "padovana-chicken",
@@ -3756,7 +4066,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:46.371Z"
+    "fetched_at": "2026-09-25T11:50:55.452Z"
   },
   {
     "id": "pedr-s-portuguesa",
@@ -3780,7 +4090,7 @@
     "summary": "The Pedrês Portuguesa is a Portuguese breed of domestic chicken. It is one of four Portuguese chicken breeds, the others being the Amarela, the Branca and the Preta Lusitânica.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:49.297Z"
+    "fetched_at": "2026-09-25T11:50:58.621Z"
   },
   {
     "id": "pekin-bantam",
@@ -3803,18 +4113,18 @@
     "use": "ornamental",
     "summary": "The Pekin Bantam is a British breed of bantam chicken. It derives from birds brought to Europe from China in the nineteenth century, and is named for the city of Peking where it was believed to have originated. It is a true bantam, with no corresponding large fowl. It is recognised only in the United Kingdom, where the Cochin has no recognised bantam version; like the Cochin, it has heavy feathering to the legs and feet. The Entente Européenne treats the Pekin Bantam as equivalent to the bantam Cochin.",
     "image": {
-      "file": "Paulx - Bantam rooster (1).jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3APaulx%20-%20Bantam%20rooster%20(1).jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Paulx_-_Bantam_rooster_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Paulx_-_Bantam_rooster_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "Selbymay",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "pekin-bantam.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/pekin-bantam.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/pekin-bantam.jpg",
+      "local_path": "data/images/breeds/pekin-bantam.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:50.984Z"
+    "fetched_at": "2026-09-25T11:51:33.702Z"
   },
   {
     "id": "penedesenca",
@@ -3848,7 +4158,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:51.852Z"
+    "fetched_at": "2026-09-25T11:51:51.284Z"
   },
   {
     "id": "phoenix-chicken",
@@ -3882,7 +4192,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:54.365Z"
+    "fetched_at": "2026-09-25T11:52:10.541Z"
   },
   {
     "id": "pictave",
@@ -3906,7 +4216,7 @@
     "summary": "The Pictave () is an endangered French breed of bantam chicken. It is named for the Pictavi, the tribe which gave its name to the former Province of Poitou, now part of the region of Nouvelle-Aquitaine. It is a true bantam, and has no full-sized counterpart; it is the only true bantam of France. Cocks weigh about and hens about It was created in the twentieth century by Raymond Lecointre, who used the hens to incubate his pheasant eggs and raise the chicks.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:55.204Z"
+    "fetched_at": "2026-09-25T11:52:11.812Z"
   },
   {
     "id": "pita-pinta-asturiana",
@@ -3940,7 +4250,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:56.069Z"
+    "fetched_at": "2026-09-25T11:52:30.704Z"
   },
   {
     "id": "plymouth-rock-chicken",
@@ -3974,7 +4284,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:58.763Z"
+    "fetched_at": "2026-09-25T11:53:09.272Z"
   },
   {
     "id": "polbar",
@@ -4008,7 +4318,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:37:59.778Z"
+    "fetched_at": "2026-09-25T11:53:27.266Z"
   },
   {
     "id": "polish-chicken",
@@ -4044,7 +4354,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:00.630Z"
+    "fetched_at": "2026-09-25T11:53:48.975Z"
   },
   {
     "id": "polverara-chicken",
@@ -4078,7 +4388,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:02.438Z"
+    "fetched_at": "2026-09-25T11:54:08.022Z"
   },
   {
     "id": "potchefstroom-koekoek",
@@ -4102,7 +4412,7 @@
     "summary": "The Potchefstroom Koekoek is a South African breed of chicken developed in the 1960s at the Potchefstroom Agricultural College in the city of Potchefstroom by Chris Marais. It was developed by cross breeding a number of other breeds like Black Australorp, White Leghorn, and Barred Plymouth Rock to obtain specific characteristics of each, making the resulting breed more suitable to Southern African conditions.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:04.458Z"
+    "fetched_at": "2026-09-25T11:54:09.765Z"
   },
   {
     "id": "preta-lusit-nica",
@@ -4126,7 +4436,7 @@
     "summary": "The Preta Lusitânica is a Portuguese breed of domestic chicken. It is one of four Portuguese chicken breeds, the others being the Amarela, the Branca and the Pedrês Portuguesa.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:08.865Z"
+    "fetched_at": "2026-09-25T11:54:14.538Z"
   },
   {
     "id": "pyncheon",
@@ -4152,7 +4462,7 @@
     "summary": "The Pyncheon is a rare American breed of true bantam chicken. It is an old breed, developed in the Northeastern United States. The Pyncheon's ancestors are thought to have been brought there from the Netherlands or from Belgium. The breed is mentioned in Nathaniel Hawthorne's The House of the Seven Gables. It is recognized by the American Bantam Association, but not by the American Poultry Association.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:12.629Z"
+    "fetched_at": "2026-09-25T11:54:18.677Z"
   },
   {
     "id": "ramelsloher",
@@ -4174,19 +4484,9 @@
     "status": "",
     "use": "dual-purpose, eggs and meat",
     "summary": "The Ramelsloher () is a German breed of dual-purpose chicken. It was bred in the 1870s by A.D. Wichmann, a Hamburg shipowner, and is named for the village of Ramelsloh, which lies some thirty kilometres south of Hamburg. In the early twentieth century it was an important utility chicken; in the twenty-first century it is an endangered breed. It is recognised in only two colours, white and buff; there is no bantam Ramelsloher.",
-    "image": {
-      "file": "Ramelsloher Henne weiß.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3ARamelsloher%20Henne%20wei%C3%9F.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ramelsloher_Henne_wei%C3%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ramelsloher_Henne_wei%C3%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "Drachenhuhn",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:16.416Z"
+    "fetched_at": "2026-09-25T11:54:37.888Z"
   },
   {
     "id": "rhode-island-red",
@@ -4220,7 +4520,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:18.841Z"
+    "fetched_at": "2026-09-25T11:54:57.429Z"
   },
   {
     "id": "rhode-island-white",
@@ -4254,7 +4554,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:19.910Z"
+    "fetched_at": "2026-09-25T11:55:15.136Z"
   },
   {
     "id": "robusta-lionata",
@@ -4288,7 +4588,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:21.331Z"
+    "fetched_at": "2026-09-25T11:55:33.936Z"
   },
   {
     "id": "robusta-maculata",
@@ -4312,7 +4612,7 @@
     "summary": "The Robusta Maculata is a modern Italian dual-purpose breed of chicken. It originates in the city of Rovigo in the Veneto region of north-eastern Italy, where it was created between 1959 and 1965 by cross-breeding Buff Orpingtons with the commercial strain known in Italy as \"White America\".",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:21.787Z"
+    "fetched_at": "2026-09-25T11:55:34.710Z"
   },
   {
     "id": "romagnola-chicken",
@@ -4336,7 +4636,7 @@
     "summary": "The Romagnola is a traditional Italian breed of dual-purpose chicken from the Emilia-Romagna region. It was formerly widespread in central Italy, but in the late twentieth century came close to extinction. In early 2012 the population was recovering, and the breed was awaiting official recognition by the , the federation of Italian poultry associations.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:22.497Z"
+    "fetched_at": "2026-09-25T11:55:35.248Z"
   },
   {
     "id": "rosecomb",
@@ -4370,7 +4670,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:23.417Z"
+    "fetched_at": "2026-09-25T11:55:52.712Z"
   },
   {
     "id": "rumpless-game",
@@ -4394,7 +4694,7 @@
     "summary": "The Rumpless Game is a British breed of tail-less chicken. It may have originated on the Isle of Man, and may thus be known as the Manx Rumpy. There are both standard-sized and bantam Rumpless Game.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:25.933Z"
+    "fetched_at": "2026-09-25T11:55:55.915Z"
   },
   {
     "id": "satsumadori",
@@ -4428,7 +4728,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:30.709Z"
+    "fetched_at": "2026-09-25T11:56:35.230Z"
   },
   {
     "id": "schweizer-chicken",
@@ -4462,7 +4762,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:33.036Z"
+    "fetched_at": "2026-09-25T11:57:19.784Z"
   },
   {
     "id": "scots-dumpy",
@@ -4496,7 +4796,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:33.902Z"
+    "fetched_at": "2026-09-25T11:57:37.887Z"
   },
   {
     "id": "scots-grey",
@@ -4530,7 +4830,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:34.726Z"
+    "fetched_at": "2026-09-25T11:57:56.226Z"
   },
   {
     "id": "sebright-chicken",
@@ -4564,7 +4864,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:36.956Z"
+    "fetched_at": "2026-09-25T11:58:33.861Z"
   },
   {
     "id": "sentul-chicken",
@@ -4588,7 +4888,7 @@
     "summary": "Sentul chicken () is a chicken breed originated from Indonesia. It is first developed in Ciamis Regency, West Java. Sentul is a dual-purpose breed, to provide both meat and eggs. It is considered as having higher growth rate and immunity to diseases compared with other Indonesian breeds. It is estimated the hatchling of this breed could reach maturity in about 12 weeks.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:38.400Z"
+    "fetched_at": "2026-09-25T11:58:35.757Z"
   },
   {
     "id": "serama",
@@ -4625,7 +4925,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:38:39.204Z"
+    "fetched_at": "2026-09-25T11:58:53.164Z"
   },
   {
     "id": "sicilian-buttercup",
@@ -4659,7 +4959,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:06.608Z"
+    "fetched_at": "2026-09-25T11:59:16.256Z"
   },
   {
     "id": "siciliana-chicken",
@@ -4693,7 +4993,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:07.915Z"
+    "fetched_at": "2026-09-25T11:59:34.385Z"
   },
   {
     "id": "silkie-chicken-breed",
@@ -4727,7 +5027,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:09.473Z"
+    "fetched_at": "2026-09-25T11:59:56.214Z"
   },
   {
     "id": "silverudd-blue",
@@ -4761,7 +5061,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:12.117Z"
+    "fetched_at": "2026-09-25T12:00:33.285Z"
   },
   {
     "id": "slovene-late-feathered-hen",
@@ -4785,7 +5085,7 @@
     "summary": "Slovene Late-feathered Hen () is a traditional breed of domestic chicken, originating in Slovenia. The breed is categorised as a heavy or meat type, and is consequently used for raising broilers. As of year 2013, when two heavy breeds Slovene Early-feathered Hen and Slovenian Fathering Hen were removed from the list, it is the only meat type chicken breed among Slovenian traditional breeds of domestic animals. The Slovene Late-feathered Hen is characterised by animals covered with white plumage and known for slow feathering speed.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:15.127Z"
+    "fetched_at": "2026-09-25T12:00:52.539Z"
   },
   {
     "id": "slovenian-barred-hen",
@@ -4809,7 +5109,7 @@
     "summary": "Slovenian Barred Hen () is a traditional breed of domestic chicken, originating in Slovenia. This breed was developed on the Biotechnical Faculty of University of Ljubljana some decades ago. Animals of the Slovenian Barred Hen are barred black and white layer hens, used primarily for production of commercial crossbreeds sold under the trademark Prelux.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:16.785Z"
+    "fetched_at": "2026-09-25T12:00:52.958Z"
   },
   {
     "id": "slovenian-brown-hen",
@@ -4833,7 +5133,7 @@
     "summary": "Slovenian Brown Hen () is a traditional breed of domestic chicken, originating in Slovenia. It was developed at the end of the 20th century at the Biotechnical Faculty of University of Ljubljana. Animals of this breed are brown coloured layer hens that are also used as parents for commercial crossbreeds sold under the trademark Prelux.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:17.845Z"
+    "fetched_at": "2026-09-25T12:00:53.616Z"
   },
   {
     "id": "slovenian-silver-hen",
@@ -4857,7 +5157,7 @@
     "summary": "Slovenian Silver Hen () is a traditional breed of domestic chicken, originating in Slovenia. The breed, that was developed some centuries ago on the Biotechnical Faculty of University of Ljubljana, is characterised by typical white coloured layer hens, used primarily for production of commercial crossbreeds sold under the trademark Prelux.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:18.634Z"
+    "fetched_at": "2026-09-25T12:00:54.182Z"
   },
   {
     "id": "sombor-kaporka",
@@ -4879,9 +5179,19 @@
     "status": null,
     "use": "dual-purpose breed",
     "summary": "The or Sombor Crested is a Serbian breed of crested chicken. It was bred at the beginning of the twentieth century in the Autonomous Province of Vojvodina in northern Serbia, and is named for the city of Sombor. It resulted from cross-breeding of imported Sulmtaler and Houdan birds with local chickens. A breed standard was drawn up in about 1918.",
-    "image": null,
+    "image": {
+      "file": "Sombor kaporka (cropped).jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ASombor%20kaporka%20(cropped).jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sombor_kaporka_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sombor_kaporka_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "محمد بوعلام عصامي",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:37.220Z"
+    "fetched_at": "2026-09-25T12:01:11.668Z"
   },
   {
     "id": "stara-zagora-red",
@@ -4915,7 +5225,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:39:57.579Z"
+    "fetched_at": "2026-09-25T12:01:32.907Z"
   },
   {
     "id": "sulmtaler",
@@ -4949,7 +5259,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:00.608Z"
+    "fetched_at": "2026-09-25T12:02:08.706Z"
   },
   {
     "id": "sultan-chicken",
@@ -4983,7 +5293,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:02.552Z"
+    "fetched_at": "2026-09-25T12:02:27.037Z"
   },
   {
     "id": "sumatra-chicken",
@@ -5017,7 +5327,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:04.557Z"
+    "fetched_at": "2026-09-25T12:02:45.097Z"
   },
   {
     "id": "sussex-chicken",
@@ -5051,7 +5361,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:06.777Z"
+    "fetched_at": "2026-09-25T12:03:03.737Z"
   },
   {
     "id": "swedish-flower-hen",
@@ -5085,7 +5395,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:09.099Z"
+    "fetched_at": "2026-09-25T12:03:25.589Z"
   },
   {
     "id": "taiwanese-game",
@@ -5109,7 +5419,7 @@
     "summary": "The Taiwanese Game or Taiwan is a breed of large game chicken originating in the island of Taiwan. It is among the largest of chicken breeds, and may exceed in body weight. It shows some similarity to large Japanese Shamo birds and, although it does not originate in Japan, may also be known as the Taiwanese Shamo. Large game chickens of this type but of indeterminate breed may sometimes be marketed as \"Taiwan\" or – in the United States – as \"Saipan\", \"Saipan Jungle Fowl\" or \"Chinese Shamo\".",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:12.038Z"
+    "fetched_at": "2026-09-25T12:03:28.164Z"
   },
   {
     "id": "thai-game",
@@ -5131,19 +5441,9 @@
     "status": null,
     "use": "meat, fancy, fighting",
     "summary": "The Thai Game is a breed of hard feather fighting chicken, originating in Thailand, and known as . Since 2009 they have been recognised by the British Poultry Standards.",
-    "image": {
-      "file": "Thai Game chicken - red 3.JPG",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AThai%20Game%20chicken%20-%20red%203.JPG",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Thai_Game_chicken_-_red_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Thai_Game_chicken_-_red_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "PumpkinSky",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:38.001Z"
+    "fetched_at": "2026-09-25T12:03:49.832Z"
   },
   {
     "id": "tiense-vechter",
@@ -5167,7 +5467,7 @@
     "summary": "The Tiense Vechter, , is a criticallyendangered Belgian breed of gamecock. It dates from the late nineteenth century, and was bred specifically for cock-fighting. It named for its area of origin, that around the city of Tienen in Flemish Brabant, in eastern central Belgium. It is one of three Belgian breeds of fighting-cock, the others being the Brugse Vechter and the Luikse Vechter.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:40:41.894Z"
+    "fetched_at": "2026-09-25T12:03:57.419Z"
   },
   {
     "id": "tomaru",
@@ -5189,9 +5489,19 @@
     "status": "",
     "use": null,
     "summary": "The Tōmaru () is a Japanese breed of long-crowing chicken. The crow may be sustained for some 25 seconds. It is one of four Japanese long-crowing breeds, the others being the Koeyoshi, the Kurokashiwa and the Tōtenkō.",
-    "image": null,
+    "image": {
+      "file": "Tomaru Roosendaal 2016.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ATomaru%20Roosendaal%202016.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tomaru_Roosendaal_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tomaru_Roosendaal_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Opzwartbeek",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:00.996Z"
+    "fetched_at": "2026-09-25T12:04:16.131Z"
   },
   {
     "id": "tuzo-chicken",
@@ -5215,7 +5525,7 @@
     "summary": "The Tuzo is a German breed of true bantam chicken of gamecock type. It derives from birds of Asian origin and was developed partly in Europe and partly in the United States.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:13.994Z"
+    "fetched_at": "2026-09-25T12:04:21.083Z"
   },
   {
     "id": "umavanka",
@@ -5251,7 +5561,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:43:19.429Z"
+    "fetched_at": "2026-09-25T12:10:10.429Z"
   },
   {
     "id": "utrerana",
@@ -5285,7 +5595,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:42.188Z"
+    "fetched_at": "2026-09-25T12:04:42.374Z"
   },
   {
     "id": "valdarnese",
@@ -5319,7 +5629,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:44.567Z"
+    "fetched_at": "2026-09-25T12:05:00.549Z"
   },
   {
     "id": "valdarno-chicken",
@@ -5353,7 +5663,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:48.029Z"
+    "fetched_at": "2026-09-25T12:05:18.150Z"
   },
   {
     "id": "vanaraja",
@@ -5377,7 +5687,7 @@
     "summary": "Vanaraja is a dual-purpose chicken variety developed by the ICAR-Directorate of Poultry Research (formerly Project Directorate on Poultry) in Hyderabad, India. Vanaraja is aimed a rural communities where it can be reared in backyard on natural, scavenged food with minimal supplementation. It produces eggs and meat based on rearing and feeding practices. Important features of this breed are multi-color feather pattern, immunity to disease, requiring less nutrition, growing faster, and producing more eggs.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:49.049Z"
+    "fetched_at": "2026-09-25T12:05:19.539Z"
   },
   {
     "id": "vorwerk-chicken",
@@ -5402,18 +5712,18 @@
     "use": null,
     "summary": "The Vorwerk (, ) is a breed of chicken originating in Germany. Though it is unrelated to the German company which produces the Vorwerk vacuum cleaner, it is the only chicken to share its name with a brand of household appliance. A rare fowl, it has distinctive black-and-gold plumage.",
     "image": {
-      "file": "Vorwerkhuhn at the BUGA 2009.JPG",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AVorwerkhuhn%20at%20the%20BUGA%202009.JPG",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Vorwerkhuhn_at_the_BUGA_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Vorwerkhuhn_at_the_BUGA_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "Rimshot",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "vorwerk.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/vorwerk.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/vorwerk.jpg",
+      "local_path": "data/images/breeds/vorwerk-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:52.149Z"
+    "fetched_at": "2026-09-25T12:05:38.286Z"
   },
   {
     "id": "welsummer",
@@ -5438,18 +5748,18 @@
     "use": "dual-purpose",
     "summary": "The Welsummer or Welsumer is a Dutch breed of domestic chicken. It originates in the small village of Welsum, in the eastern Netherlands. It was bred at the beginning of the twentieth century from local fowls of mixed origin: Rhode Island Reds, Barnevelders, Partridge Leghorns, Cochins, and Wyandottes. In 1922–23, steps were taken to fix a standard after the birds began to show a good deal of uniformity. The eggs were originally exported for the commercial egg trade. Some stock was exported to the United Kingdom, and the breed was added to the British Standard in 1930.",
     "image": {
-      "file": "Welsummer hen.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AWelsummer%20hen.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Welsummer_hen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Welsummer_hen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "author": "Josh Larios from Seattle, US",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "welsummer.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/welsummer.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/welsummer.jpg",
+      "local_path": "data/images/breeds/welsummer.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:56.149Z"
+    "fetched_at": "2026-09-25T12:05:58.739Z"
   },
   {
     "id": "westf-lischer-totleger",
@@ -5471,19 +5781,9 @@
     "status": null,
     "use": null,
     "summary": "The () is a German breed of domestic chicken. It is more than 400 years old, and is a rare breed.",
-    "image": {
-      "file": "Wilhelma_Westfälischer_Totleger.jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3AWilhelma_Westf%C3%A4lischer_Totleger.jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wilhelma_Westf%C3%A4lischer_Totleger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wilhelma_Westf%C3%A4lischer_Totleger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "license_url": null,
-      "author": "--Xocolatl (talk) 18:53, 26 April 2010 (UTC)",
-      "attribution_required": false,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
-    },
+    "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:41:59.312Z"
+    "fetched_at": "2026-09-25T12:06:36.222Z"
   },
   {
     "id": "white-faced-black-spanish",
@@ -5517,7 +5817,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:42:01.886Z"
+    "fetched_at": "2026-09-25T12:07:13.644Z"
   },
   {
     "id": "wyandotte-chicken",
@@ -5553,7 +5853,7 @@
       "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:42:16.375Z"
+    "fetched_at": "2026-09-25T12:07:52.337Z"
   },
   {
     "id": "yakido",
@@ -5577,7 +5877,7 @@
     "summary": "The Yakido () is a Japanese breed of fighting chicken. It belongs to the Shamo group of breeds. It was bred in the Kansai region in southern Honshu in the mid-nineteenth century. It was made a Natural Monument of Japan in 1950.",
     "image": null,
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:42:26.494Z"
+    "fetched_at": "2026-09-25T12:07:59.147Z"
   },
   {
     "id": "yokohama-chicken",
@@ -5600,17 +5900,17 @@
     "use": "ornamental",
     "summary": "The Yokohama is a German breed of fancy chicken, with unusual colouring and very long tail-feathers. It was created by in the 1880s, and derives from ornamental birds brought to Europe from Japan in the second half of the nineteenth century. Some of these were shipped from the Japanese port of Yokohama, and so were known by that name. In Germany, the Yokohama name is used only for white or red-saddled birds; in the United Kingdom, it is used also for the birds known elsewhere as Phoenix, in various colours.",
     "image": {
-      "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49837337048).jpg",
-      "commons_url": "https://commons.wikimedia.org/wiki/File%3A2017-07-02%20AT%20Wien%2013%20Hietzing%2C%20Tiergarten%20Sch%C3%B6nbrunn%2C%20Gallus%20gallus%20domesticus%20(%3F)%20(49837337048).jpg",
-      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "author": "Paul Korecky",
-      "attribution_required": true,
-      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+      "file": "yokohama.jpg",
+      "origin": "github:Harris730/Chicken_breed_dataset",
+      "repo": "https://github.com/Harris730/Chicken_breed_dataset",
+      "repo_path": "images/yokohama.jpg",
+      "source_url": "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/yokohama.jpg",
+      "local_path": "data/images/breeds/yokohama-chicken.jpg",
+      "license": null,
+      "license_note": "Image from the Harris730/Chicken_breed_dataset GitHub repo (breed text there is credited to starmilling.com); no licence stated.",
+      "attribution_required": null
     },
     "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0",
-    "fetched_at": "2026-09-25T09:42:32.096Z"
+    "fetched_at": "2026-09-25T12:08:19.946Z"
   }
 ]

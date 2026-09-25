@@ -1,877 +1,2410 @@
 [
   {
     "id": "1984-rajneeshee-bioterror-attack",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "2008-united-states-salmonellosis-outbreak",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "2009-peanut-corporation-of-america-recall",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "2012-outbreak-of-salmonella",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "2018-american-salmonella-outbreak",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "airsacculitis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "animal-health-and-welfare-act-1984",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "ascaridia-galli",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "aspergillosis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avastrovirus-2",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-adenovirus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-infectious-bronchitis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-influenza",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-metaavulavirus-2",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-orthoreovirus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-sarcoma-leukosis-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "avian-veterinarian",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "borrelia-anserina",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "botulism",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "campylobacteriosis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "chicken-anemia-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "coccidiosis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "dermanyssus-gallinae",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "derzsys-disease",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "duck-circovirus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "duck-hepatitis-b-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "duck-hepatitis-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "duck-plague",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "egg-binding",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "egg-drop-syndrome",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "eimeria",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "fatty-liver-hemorrhagic-syndrome",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "fowlpox",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "gallid-herpesvirus-1",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "gapeworm",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "haemoproteus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "haemoproteus-columbae",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "haemoproteus-plataleae",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "histomonas",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "histomoniasis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "hock-burns",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "infectious-bronchitis-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "infectious-bursal-disease",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "infectious-coryza-in-chickens",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "leucocytozoon",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "leucocytozoon-andrewsi",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "mardivirus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "mareks-disease",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "ornidazole",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "ornithobacterium-rhinotracheale",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "ornithonyssus-sylviarum",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "paratyphoid-fever",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "plasmodium-durae",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "plasmodium-gallinaceum",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "plasmodium-relictum",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "poultry-disease",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "psittacosis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "pullorum-disease",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "reticuloendotheliosis-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "riemerella-anatipestifer",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "runting-stunting-syndrome-in-broilers",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "salmonellosis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "salmonellosis-in-the-united-states",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "spraddle-leg",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "streptococcal-infection-in-poultry",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "tibial-dyschondroplasia",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "toxoplasmosis",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "tremovirus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "trichobilharzia-regenti",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "turkeypox-virus",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "verruconis-gallopava",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "viral-arthritis-poultry",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   },
   {
     "id": "virulent-newcastle-disease",
-    "cause_type": null,
-    "contagious": null,
-    "zoonotic": null,
-    "key_symptoms": [],
-    "prevention": [],
-    "vaccine_available": null,
-    "notifiable_in_us_uk": "unknown",
+    "cause_type": {
+      "value": null,
+      "source_url": null
+    },
+    "contagious": {
+      "value": null,
+      "source_url": null
+    },
+    "zoonotic": {
+      "value": null,
+      "source_url": null
+    },
+    "key_symptoms": {
+      "value": [],
+      "source_url": null
+    },
+    "prevention": {
+      "value": [],
+      "source_url": null
+    },
+    "vaccine_available": {
+      "value": null,
+      "source_url": null
+    },
+    "notifiable_in_us_uk": {
+      "value": null,
+      "source_url": null
+    },
     "needs_review": true,
     "disclaimer": "Not veterinary advice"
   }

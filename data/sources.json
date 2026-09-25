@@ -1,5 +1,12 @@
 [
   {
+    "url": "https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip",
+    "type": "statistics_dataset",
+    "publisher": "FAOSTAT",
+    "license": "CC BY 4.0",
+    "fetched_at": "2026-09-25T10:19:51.823Z"
+  },
+  {
     "url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante",
     "type": "breed_article",
     "license": "CC BY-SA 4.0",
@@ -1560,9 +1567,2312 @@
     "fetched_at": "2026-09-25T09:43:19.472Z"
   },
   {
+    "url": "https://extension.msstate.edu/agriculture/livestock/poultry",
+    "type": "reference_feeding",
+    "publisher": "Mississippi State University Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:27.408Z"
+  },
+  {
+    "url": "https://extension.psu.edu/animals-and-livestock/poultry",
+    "type": "reference_feeding",
+    "publisher": "Penn State Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:22.235Z"
+  },
+  {
+    "url": "https://extension.psu.edu/management-requirements-for-laying-flocks",
+    "type": "reference_feeding",
+    "publisher": "Penn State Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:23.063Z"
+  },
+  {
+    "url": "https://extension.psu.edu/poultry-cannibalism-prevention-and-treatment",
+    "type": "reference_diseases",
+    "publisher": "Penn State Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:23.969Z"
+  },
+  {
+    "url": "https://extension.psu.edu/small-scale-poultry-housing",
+    "type": "reference_predators",
+    "publisher": "Penn State Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:23.476Z"
+  },
+  {
+    "url": "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens",
+    "type": "reference_feeding",
+    "publisher": "Penn State Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:22.659Z"
+  },
+  {
+    "url": "https://extension.psu.edu/understanding-highly-pathogenic-avian-influenza",
+    "type": "reference_diseases",
+    "publisher": "Penn State Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:24.593Z"
+  },
+  {
+    "url": "https://extension.umd.edu/programs/agriculture-food-systems/program-areas/animal-science/maryland-poultry/backyard-poultry",
+    "type": "reference_feeding",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:35.960Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+    "type": "reference_predators",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:37.638Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/infectious-laryngotracheitis-ilt-know-symptoms-and-what-do-if-your-flock-affected-fs-966",
+    "type": "reference_diseases",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:41.125Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/raising-your-home-chicken-flock-eb-409",
+    "type": "reference_feeding",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:36.265Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979",
+    "type": "reference_diseases",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:40.188Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/recognizing-and-preventing-mareks-disease-small-flocks",
+    "type": "reference_diseases",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:39.303Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/recognizing-and-preventing-mycoplasma-gallisepticum-mg-infection-poultry",
+    "type": "reference_diseases",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:40.520Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137",
+    "type": "reference_diseases",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:41.439Z"
+  },
+  {
+    "url": "https://extension.umd.edu/resource/winter-weather-and-small-flocks-what-you-need-know-fs-1133",
+    "type": "reference_feeding",
+    "publisher": "University of Maryland Extension",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:10:38.512Z"
+  },
+  {
     "url": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_csv_2018-04.zip",
     "type": "nutrition_dataset",
     "license": "Public domain (US government work)",
     "fetched_at": "2026-09-25T09:29:41.174Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/araucana-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:49.939Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/booted-bantam-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:16.707Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/conservation-priority-list/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:00.076Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/ancona-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:35.431Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/andalusian-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:37.082Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/aseel-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:51.309Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/buckeye-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:07.855Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/buttercup-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:57.751Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/campine-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:24.496Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/catalana-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:52.875Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/chantecler-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:09.273Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/cochin-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:38.770Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/cornish-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:41.030Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/crevecoeur-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:43.316Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/cubalaya-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:03.282Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/delaware-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:14.859Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/dominique-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:10.725Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/dorking-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:25.817Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/faverolles-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:11.216Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/hamburg-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:27.298Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/holland-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:01.847Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/houdan-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:28.820Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/icelandic-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:59.249Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/java-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:04.848Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/jersey-giant-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:16.291Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/la-fleche-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:18.078Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/lakenvelder-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:03.367Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/langshan-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:30.674Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/leghorn-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:47.882Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/malay-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:19.521Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/minorca-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:44.886Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/nankin-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:06.310Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/new-hampshire-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:06.237Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/old-english-game-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:12.828Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/orloff-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:08.173Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/phoenix-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:14.271Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/polish-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:49.602Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/redcap-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:21.800Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-white-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:12.249Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/sebright-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:46.425Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/shamo-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:55.521Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/spanish-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:23.152Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/spitzhauben-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:16.084Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/sultan-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:32.683Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/sumatra-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:34.083Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/sussex-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:17.888Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/yokohama-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:09.672Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/japanese-bantam-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:59.894Z"
+  },
+  {
+    "url": "https://livestockconservancy.org/modern-game-chicken/",
+    "type": "reference_breeds",
+    "publisher": "The Livestock Conservancy",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:57:31.022Z"
+  },
+  {
+    "url": "https://poisonousplants.ansci.cornell.edu/",
+    "type": "reference_feeding",
+    "publisher": "Cornell University, Plants Poisonous to Livestock",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T11:19:21.916Z"
+  },
+  {
+    "url": "https://poisonousplants.ansci.cornell.edu/anispecies.html",
+    "type": "reference_feeding",
+    "publisher": "Cornell University, Plants Poisonous to Livestock",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T11:19:23.000Z"
+  },
+  {
+    "url": "https://poisonousplants.ansci.cornell.edu/comlist.html",
+    "type": "reference_feeding",
+    "publisher": "Cornell University, Plants Poisonous to Livestock",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T11:19:22.186Z"
+  },
+  {
+    "url": "https://poultry.ces.ncsu.edu/",
+    "type": "reference_feeding",
+    "publisher": "NC State Extension Poultry",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:28.485Z"
+  },
+  {
+    "url": "https://www.amerpoultryassn.com/accepted_breeds_varieties.php",
+    "type": "reference_breeds",
+    "publisher": "American Poultry Association",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:58.428Z"
+  },
+  {
+    "url": "https://www.amerpoultryassn.com/newly_added_to_standard.php",
+    "type": "reference_breeds",
+    "publisher": "American Poultry Association",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:58.829Z"
+  },
+  {
+    "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian",
+    "type": "reference_diseases",
+    "publisher": "USDA APHIS",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:47.993Z"
+  },
+  {
+    "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+    "type": "reference_diseases",
+    "publisher": "USDA APHIS",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:06.581Z"
+  },
+  {
+    "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock",
+    "type": "reference_diseases",
+    "publisher": "USDA APHIS",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:58.237Z"
+  },
+  {
+    "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/virulent-newcastle",
+    "type": "reference_diseases",
+    "publisher": "USDA APHIS",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:15.937Z"
+  },
+  {
+    "url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html",
+    "type": "reference_diseases",
+    "publisher": "CDC",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:19.885Z"
+  },
+  {
+    "url": "https://www.cdc.gov/salmonella/",
+    "type": "reference_diseases",
+    "publisher": "CDC",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:21.357Z"
+  },
+  {
+    "url": "https://www.fao.org/dad-is/en/",
+    "type": "reference_breeds",
+    "publisher": "FAO DAD-IS",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:59.291Z"
+  },
+  {
+    "url": "https://www.gov.uk/government/collections/notifiable-diseases-in-animals",
+    "type": "reference_diseases",
+    "publisher": "Defra / APHA (gov.uk)",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:17.384Z"
+  },
+  {
+    "url": "https://www.gov.uk/guidance/avian-influenza-bird-flu",
+    "type": "reference_diseases",
+    "publisher": "Defra / APHA (gov.uk)",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:17.932Z"
+  },
+  {
+    "url": "https://www.gov.uk/guidance/newcastle-disease",
+    "type": "reference_diseases",
+    "publisher": "Defra / APHA (gov.uk)",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:06:18.216Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:00.106Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/air-sac-mites-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:04.471Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/bedbugs-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:52.293Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/fleas-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:54.341Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/flies-gnats-and-mosquitoes-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:56.507Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/fowl-ticks",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:57.984Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/lice-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:00.712Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/arthropods-in-poultry/mites-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:02.199Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:37.909Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/avian-chlamydiosis/avian-chlamydiosis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:07.422Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/avian-encephalomyelitis/avian-encephalomyelitis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:26.065Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:28.752Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/avian-metapneumovirus-infection/avian-metapneumovirus-infection",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:31.483Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/avian-nephritis-virus-infections/avian-nephritis-virus-infections-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:33.175Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/avian-spirochetosis/avian-spirochetosis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:10.782Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/backyard-chickens-and-other-poultry/backyard-chickens-and-other-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:02.914Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/aegyptianellosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:08.539Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/filariasis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:10.894Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/haemoproteus-infection-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:18.965Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/leucocytozoonosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:21.872Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/overview-of-bloodborne-organisms-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:05.280Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/plasmodium-infection-in-poultry-and-other-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:26.823Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bloodborne-organisms-in-poultry/uncommon-bloodborne-organisms-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:36.098Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/bordetellosis/bordetellosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:14.016Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:17.093Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:05.518Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/candidiasis-in-poultry/candidiasis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:39.582Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/chicken-anemia-virus-infection/chicken-anemia-virus-infection",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:35.048Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:06.986Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/cochlosomiasis-in-turkeys-and-ducks/cochlosomiasis-cochlosoma-anatis-in-turkeys-and-ducks",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:10.218Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/colibacillosis/colibacillosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:20.132Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/cryptosporidiosis-in-poultry/cryptosporidiosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:12.027Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/calcium-metabolism-problems-in-hens",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:28.850Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/cystic-right-oviduct-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:15.245Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/defective-or-abnormal-eggs-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:19.364Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/diuresis-syndrome-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:41.718Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/egg-bound-or-impacted-oviducts-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:21.443Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/egg-peritonitis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:23.646Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/false-laying-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:26.434Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/fatty-liver-hemorrhagic-syndrome-in-laying-hens",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:44.164Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/infertility-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:33.059Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/internal-laying-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:31.691Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/neoplasia-of-the-reproductive-system-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:35.108Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/oophoritis-and-ovarian-regression-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:36.519Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/prolapse-of-the-oviduct-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:38.288Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/salpingitis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:40.151Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-skeletal-system-in-poultry/infectious-skeletal-disorders-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:50.518Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-skeletal-system-in-poultry/noninfectious-skeletal-disorders-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:48.238Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/disorders-of-the-skeletal-system-in-poultry/overview-of-skeletal-system-disorders-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:45.623Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/duck-viral-enteritis/duck-viral-enteritis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:37.340Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/duck-viral-hepatitis/duck-viral-hepatitis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:39.683Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/egg-drop-syndrome-76/egg-drop-syndrome-76",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:42.997Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/enterococcosis/enterococcosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:22.370Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/erysipelas/erysipelas-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:25.273Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:18.603Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/fowl-cholera/fowl-cholera",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:27.739Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/fowlpox/fowlpox-in-chickens-and-turkeys",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:45.157Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/fowlpox/poxviral-infections-in-birds-other-than-chickens-and-turkeys",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:46.836Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/gangrenous-dermatitis/gangrenous-dermatitis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:31.954Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/helminthiasis/helminthiasis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:14.240Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/hemorrhagic-enteritis-and-marble-spleen-disease/hemorrhagic-enteritis-and-marble-spleen-disease-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:49.721Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/hemorrhagic-vasculopathy-in-turkeys/hemorrhagic-vasculopathy-in-turkeys",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:20.285Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/hexamitiasis/hexamitiasis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:16.601Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:18.925Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/inclusion-body-hepatitis-and-hepatitis-hydropericardium-syndrome/inclusion-body-hepatitis-and-hepatitis-hydropericardium-syndrome-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:52.211Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/infectious-bronchitis/infectious-bronchitis-in-chickens",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:54.653Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:56.043Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:38.319Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/infectious-laryngotracheitis/infectious-laryngotracheitis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:58.288Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/listeriosis/listeriosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:40.332Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/ascites-syndrome-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:56.265Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/breast-blisters-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:54.243Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/breast-burns-and-breast-buttons-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:57.911Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/cannibalism-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:00.942Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/fluke-infections-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:02.895Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/pendulous-crop-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:04.357Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/miscellaneous-conditions-of-poultry/urate-deposition-gout-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:06.863Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/multicausal-enteric-disease/multicausal-enteric-disease-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:51.880Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:43.811Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycoplasmosis/mycoplasma-iowae-infection-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:50.395Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycoplasmosis/mycoplasma-meleagridis-infection-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:48.338Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycoplasmosis/mycoplasma-synoviae-infection-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:45.408Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycoplasmosis/overview-of-mycoplasmosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:42.096Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:24.390Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/emerging-mycotoxicoses-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:30.475Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/fusariotoxicosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:26.211Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/miscellaneous-mycotoxins-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:28.267Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/mycotoxicoses-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:22.666Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/exertional-myopathy-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:34.817Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/genetic-myopathy-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:43.742Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/mechanically-induced-myopathy-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:37.294Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/miscellaneous-myopathies-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:32.699Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/nutritional-myopathy-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:39.113Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/toxic-myopathy-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:41.750Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/necrotic-enteritis/necrotic-enteritis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:52.445Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/avian-leukosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:12.584Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:10.277Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/neoplasms-of-unknown-etiology-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:17.186Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/overview-of-neoplasms-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:08.840Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/reticuloendotheliosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:14.976Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-avian-paramyxovirus-infections/newcastle-disease-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:00.353Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-avian-paramyxovirus-infections/other-avian-paramyxovirus-infections",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:02.750Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/feeding-and-management-practices-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:47.415Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/feeding-methods-for-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:13.290Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:52.329Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-laying-chickens",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:54.733Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/mineral-deficiencies-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:08.057Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/nutritional-deficiencies-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:04.732Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/nutritional-requirements-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:43.231Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/organic-production-practices-for-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:02.336Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/protein-amino-acid-and-energy-deficiencies-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:06.434Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/vaccination-programs-for-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:50.283Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/vitamin-deficiencies-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:02:10.004Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/omphalitis/omphalitis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:54.161Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/parvovirus-infection-of-waterfowl/parvovirus-infection-of-waterfowl",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:04.651Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/poisonings/poisonings-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:45.980Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/quail-bronchitis/quail-bronchitis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:06.508Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/riemerella-anatipestifer-infection/riemerella-anatipestifer-infection-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:59:55.982Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/fowl-typhoid",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:00:49.009Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/paratyphoid-infections-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:00:53.299Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:00:46.623Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/spontaneous-cardiomyopathy-of-turkeys/spontaneous-cardiomyopathy-of-turkeys",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:48.364Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/staphylococcosis/staphylococcosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:00:56.146Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/streptococcosis/streptococcosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:00:58.818Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/sudden-death-syndrome-of-broiler-chickens/sudden-death-syndrome-of-broiler-chickens",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:03:50.961Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/trichomonosis/trichomonosis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:04:23.618Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/tuberculosis-in-poultry/tuberculosis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:01.347Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/turkey-viral-hepatitis/turkey-viral-hepatitis",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:08.329Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/ulcerative-enteritis/ulcerative-enteritis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:01:03.724Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:11.174Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-encephalitides-in-birds/eastern-equine-encephalitis-virus-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:19.509Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-encephalitides-in-birds/highlands-j-virus-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:23.832Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-encephalitides-in-birds/israel-turkey-meningoencephalitis-virus-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:25.814Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-encephalitides-in-birds/overview-of-viral-encephalitides-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:13.201Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-encephalitides-in-birds/west-nile-virus-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:17.101Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-encephalitides-in-birds/western-equine-encephalitis-virus-in-birds",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:21.839Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-enteritis-in-poultry/astrovirus-infections-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:33.691Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-enteritis-in-poultry/chicken-parvovirus-and-turkey-parvovirus-infections",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:35.192Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-enteritis-in-poultry/coronaviral-enteritis-of-turkeys",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:30.173Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-enteritis-in-poultry/overview-of-viral-enteritis-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:27.237Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-enteritis-in-poultry/picornavirus-infections-in-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:37.994Z"
+  },
+  {
+    "url": "https://www.merckvetmanual.com/poultry/viral-enteritis-in-poultry/rotavirus-infections-of-poultry",
+    "type": "reference_diseases",
+    "publisher": "Merck Veterinary Manual",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T10:05:31.956Z"
+  },
+  {
+    "url": "https://www.nass.usda.gov/datasets/",
+    "type": "statistics_dataset",
+    "publisher": "USDA NASS Quick Stats (bulk)",
+    "license": "Public domain (US government work)",
+    "fetched_at": "2026-09-25T10:50:14.036Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:19.328Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/asil/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:37.581Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/ko-shamo/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:37.869Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/kulang/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:38.164Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/malay/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:38.453Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/nankin-shamo/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:38.751Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/satsumadori/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:39.039Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/shamo/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:39.294Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/taiwan/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:39.656Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/thai-game/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:40.298Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/tuzo/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:41.429Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/yakido/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:42.269Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/yamato-gunkei/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:43.295Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/carlisle-old-english-game/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:19.687Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/indian-game/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:20.071Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/modern-game/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:20.617Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/old-english-game-bantam/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:21.769Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/oxford-old-english-game/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:22.319Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-hard-feather/rumpless-game/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:44.265Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/crevecoeur/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:44.638Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/dominique/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:44.897Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/houdan/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:45.195Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/ixworth/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:45.466Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/jersey-giant/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:45.756Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/la-fleche/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:46.050Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/modern-langshan/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:46.316Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/norfolk-grey/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:46.615Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/north-holland-blue/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:46.959Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/sulmtaler/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:47.239Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/transylvanian-naked-neck/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:47.620Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/andalusian/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:47.917Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/appenzeller-barthuner/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:48.184Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/ayam-cemani/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:48.600Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brabanter/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:48.878Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:49.157Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/breda/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:49.523Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/bresse-gauloise/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:49.795Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/campine/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:50.357Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/dandarawi/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:50.730Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/fayoumi/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:51.007Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/friesian/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:51.397Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/groninger/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:51.708Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/kraienkoppe/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:52.010Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/lakenvelder/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:52.298Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:52.586Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/old-english-pheasant-fowl/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:52.879Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:53.153Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/spanish/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:53.442Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sultan/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:53.729Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sumatra/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:54.017Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/thuringian/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:54.322Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/vorwerk/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:54.606Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/yokohama/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:55.702Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/burmese/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:56.237Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/nankin/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:56.647Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/ohiki/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:57.019Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/australorp/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:22.631Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-brockbar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:22.934Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-brussbar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:23.205Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-dorbar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:23.456Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-rhodebar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:23.768Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-wybar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:24.039Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/barnevelder/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:24.322Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/brahma/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:24.722Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/cochin/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:25.029Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/croad-langshan/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:25.378Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/dorking/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:25.686Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/faverolles/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:25.960Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/frizzle/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:26.251Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/german-langshan/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:26.580Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/lincolnshire-buff/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:26.927Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/marans/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:27.219Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/new-hampshire-red/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:27.526Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orloff/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:27.847Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orpington/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:28.140Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/plymouth-rock/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:28.514Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/rhode-island-red/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:28.831Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/sussex/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:29.157Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/wyandotte/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:29.501Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/ancona/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:29.820Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/appenzeller-spitzhauben/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:30.119Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/araucana/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:30.399Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/autosexing-cambar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:31.010Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/autosexing-cream-legbar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:31.309Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/autosexing-legbar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:31.620Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/autosexing-welbar/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:32.085Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/derbyshire-redcap/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:32.394Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/hamburgh/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:32.683Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/leghorn/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:32.938Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/minorca/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:33.228Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/poland/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:33.580Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/rumpless-araucana/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:30.725Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-dumpy/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:33.883Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-grey/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:34.170Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/silkie/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:34.448Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/welsummer/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:34.707Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:34.990Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/booted/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:35.291Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/dutch/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:35.648Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/japanese/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:35.912Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/pekin/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:36.186Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/rosecomb/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:36.467Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/sebright/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:36.757Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:37.048Z"
+  },
+  {
+    "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/suffolk-chequer/",
+    "type": "reference_breeds",
+    "publisher": "Poultry Club of Great Britain",
+    "license": "Publisher terms; only extracted facts and this URL are stored",
+    "fetched_at": "2026-09-25T09:58:37.309Z"
   }
 ]

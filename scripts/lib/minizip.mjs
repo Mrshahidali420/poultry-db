@@ -4,7 +4,30 @@
 // STORED (0) and DEFLATE (8) compression, which covers USDA's SR Legacy
 // CSV bundle. Not a general-purpose ZIP64 implementation.
 
-import { inflateRawSync } from "node:zlib";
+import { inflateRawSync, createInflateRaw } from "node:zlib";
+import { Readable } from "node:stream";
+import { createInterface } from "node:readline";
+
+/**
+ * Stream one DEFLATE/STORED entry line by line without holding the whole
+ * decompressed file in memory (FAOSTAT's CSV is hundreds of MB unpacked).
+ * @param {Buffer} buffer
+ * @param {{localHeaderOffset:number, method:number, compressedSize:number, name:string}} entry
+ * @param {(line: string) => void} onLine
+ */
+export async function forEachZipEntryLine(buffer, entry, onLine) {
+  const off = entry.localHeaderOffset;
+  const nameLength = buffer.readUInt16LE(off + 26);
+  const extraLength = buffer.readUInt16LE(off + 28);
+  const dataStart = off + 30 + nameLength + extraLength;
+  const compressed = buffer.subarray(dataStart, dataStart + entry.compressedSize);
+  const source = Readable.from([compressed]);
+  let stream = source;
+  if (entry.method === 8) stream = source.pipe(createInflateRaw());
+  else if (entry.method !== 0) throw new Error(`Unsupported compression method ${entry.method} for ${entry.name}`);
+  const lines = createInterface({ input: stream, crlfDelay: Infinity });
+  for await (const line of lines) onLine(line);
+}
 
 /**
  * @param {Buffer} buffer full zip file contents

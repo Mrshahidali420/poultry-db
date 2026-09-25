@@ -54,6 +54,8 @@ export async function politeFetch(url, options = {}) {
 
       return response;
     } catch (err) {
+      // A caller-side timeout/abort will fail the same way on every retry.
+      if (err.name === "AbortError" || options.signal?.aborted) throw err;
       lastError = err;
       attempt += 1;
       if (attempt > MAX_RETRIES) break;

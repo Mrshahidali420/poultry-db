@@ -1,75 +1,67 @@
 #!/usr/bin/env node
-// Processes the breeds_extra + diseases_extra enrichment queues using
-// GitHub Models (free inference gateway available inside GitHub Actions).
-// Resumable: at most BATCH items per run, ~5s between calls, stops cleanly
-// on 429, records per-item pending/done/error status in state/queue.json.
-// Locally (no GITHUB_TOKEN) it logs and exits 0 without making any calls.
+// Fills breeds_extra.json and diseases_extra.json with GitHub Models, one
+// resumable batch per run. For each entity the model gets every text source
+// we have for it:
+//   - the Wikipedia article (plain text)
+//   - cached reference pages linked to it (data/reference_sources.json)
+//   - for breeds, the Harris730 CSV description (text from starmilling.com)
+// and must return each field as { value, source_url } citing one of those
+// URLs, or { value: null, source_url: null } when no source states it.
+// Disagreeing sources are kept side by side with conflict: true.
+//
+// At most BATCH items per run, ~5s between calls, clean stop on 429,
+// per-item pending/done/error in state/queue.json. Without GITHUB_TOKEN it
+// logs "skipped: no GITHUB_TOKEN" and exits 0.
 
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { callGithubModelsJson, validateSchema, RateLimitError, SchemaValidationError } from "./lib/llm.mjs";
+import { callGithubModelsJson, RateLimitError, SchemaValidationError } from "./lib/llm.mjs";
 import { loadQueueFile, saveQueueFile, getIdsByStatus, markItem, ensureQueueItems } from "./lib/state.mjs";
+import { fetchWikitext, articlePlainText } from "./lib/wiki.mjs";
+import {
+  validateProvenanceResult,
+  normalizeProvenanceResult,
+  applyExtractedFacts,
+  ORIGIN_HARRIS730,
+} from "./lib/provenance.mjs";
+import {
+  BREED_EXTRA_SCHEMA,
+  DISEASE_EXTRA_SCHEMA,
+  emptyBreedExtra,
+  emptyDiseaseExtra,
+  toProvenanceShape,
+} from "./lib/schemas.mjs";
+import { loadHarris730Rows, STARMILLING_URL } from "./import-github-datasets.mjs";
 
 const DATA_DIR = path.resolve("data");
+const WIKI_CACHE = path.resolve("cache/wiki");
 const BATCH = Number(process.env.BATCH || 30);
 const SLEEP_MS = 5000;
+const WIKI_CHARS = 12000;
+const REFERENCE_CHARS = 5000;
+const MAX_REFERENCES = 3;
 
-const BREEDS_SCHEMA = {
-  eggs_per_year_min: "number|null",
-  eggs_per_year_max: "number|null",
-  egg_size: "string|null",
-  temperament: "string|null",
-  broodiness: "string|null",
-  cold_hardy: "boolean|null",
-  heat_tolerant: "boolean|null",
-  beginner_friendly: "boolean|null",
-  purpose: "string|null",
-  bantam_available: "boolean|null",
-  varieties: "array",
-  lifespan_years: "number|null",
-  notes: "string|null",
-};
-
-const DISEASES_SCHEMA = {
-  cause_type: "string|null",
-  contagious: "boolean|null",
-  zoonotic: "boolean|null",
-  key_symptoms: "array",
-  prevention: "array",
-  vaccine_available: "boolean|null",
-  notifiable_in_us_uk: "string|null",
+const FIELD_HELP = {
+  breeds: {
+    purpose: "one of eggs|meat|dual|ornamental",
+    temperament: "short phrase, e.g. docile, flighty",
+    broodiness: "short phrase, e.g. frequently broody, rarely broody",
+    egg_size: "small|medium|large|extra large",
+    hen_weight_kg: "number in kg (convert from lb if needed)",
+    rooster_weight_kg: "number in kg (convert from lb if needed)",
+    varieties: "array of recognised colour varieties",
+    autosexing: "true only if the text says chicks can be sexed by colour at hatch",
+  },
+  diseases: {
+    cause_type: "one of viral|bacterial|parasitic|fungal|nutritional|other",
+    notifiable_in_us_uk: 'one of "true", "false", "unknown"',
+    key_symptoms: "array of short strings",
+    prevention: "array of short strings",
+  },
 };
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function buildBreedPrompt(article) {
-  return {
-    system:
-      "You extract structured facts about chicken breeds from a Wikipedia article. " +
-      "Only report facts explicitly stated in the given text. If a fact is not stated, " +
-      "use null (or an empty array for list fields). Never invent, estimate, or guess. " +
-      'Respond with a single JSON object with exactly these keys: ' +
-      "eggs_per_year_min, eggs_per_year_max, egg_size, temperament, broodiness, cold_hardy, " +
-      "heat_tolerant, beginner_friendly, purpose (one of eggs|meat|dual|ornamental or null), " +
-      "bantam_available, varieties (array of strings), lifespan_years, notes.",
-    user: `Article text:\n\n${article.slice(0, 12000)}`,
-  };
-}
-
-function buildDiseasePrompt(article) {
-  return {
-    system:
-      "You extract structured facts about a poultry disease from a Wikipedia article. " +
-      "Only report facts explicitly stated in the given text. If a fact is not stated, use null " +
-      "(or an empty array for list fields). Never invent, estimate, or guess. This is not veterinary " +
-      "advice. Respond with a single JSON object with exactly these keys: cause_type " +
-      "(one of viral|bacterial|parasitic|fungal|nutritional|other, or null), contagious, zoonotic, " +
-      "key_symptoms (array of strings), prevention (array of strings), vaccine_available, " +
-      'notifiable_in_us_uk (one of "true", "false", "unknown").',
-    user: `Article text:\n\n${article.slice(0, 12000)}`,
-  };
 }
 
 async function loadJson(file, fallback) {
@@ -81,41 +73,110 @@ async function loadJson(file, fallback) {
   }
 }
 
-async function processQueue({ queueName, sourceFile, extraFile, schema, buildPrompt, applyResult, token, queues }) {
+async function readCached(file) {
+  try {
+    return await readFile(file, "utf8");
+  } catch {
+    return null;
+  }
+}
+
+async function wikipediaText(record) {
+  const file = path.join(WIKI_CACHE, `${record.id}.txt`);
+  const cached = await readCached(file);
+  if (cached) return cached;
+  const page = await fetchWikitext(record.wikipedia_title ?? record.name);
+  if (!page) return record.summary ?? "";
+  const text = articlePlainText(page.wikitext);
+  await mkdir(WIKI_CACHE, { recursive: true });
+  await writeFile(file, text, "utf8");
+  return text;
+}
+
+/**
+ * Build the numbered source list for one entity.
+ * @returns {Promise<Array<{url:string, origin:string, label:string, text:string}>>}
+ */
+async function gatherSources(entityType, record, references, harrisById) {
+  const sources = [];
+  const wiki = await wikipediaText(record);
+  if (wiki) {
+    sources.push({ url: record.url, origin: "wikipedia", label: "Wikipedia", text: wiki.slice(0, WIKI_CHARS) });
+  }
+  const linked = references.filter((r) => r.entity_ids.includes(record.id)).slice(0, MAX_REFERENCES);
+  for (const ref of linked) {
+    const text = await readCached(path.resolve(ref.cache_file));
+    if (text) {
+      sources.push({ url: ref.url, origin: `reference:${ref.publisher}`, label: ref.publisher, text: text.slice(0, REFERENCE_CHARS) });
+    }
+  }
+  if (entityType === "breeds") {
+    const row = harrisById.get(record.id);
+    if (row?.description) {
+      sources.push({ url: STARMILLING_URL, origin: ORIGIN_HARRIS730, label: "Star Milling breed guide", text: row.description });
+    }
+  }
+  return sources;
+}
+
+function buildPrompt(entityType, record, schema, sources) {
+  const fields = Object.entries(schema)
+    .map(([f, t]) => `- ${f} (${t}${FIELD_HELP[entityType][f] ? `; ${FIELD_HELP[entityType][f]}` : ""})`)
+    .join("\n");
+  const system = [
+    `You extract facts about the ${entityType === "breeds" ? "chicken breed" : "poultry disease"} "${record.name}" from the numbered sources given.`,
+    "Only report a fact if a source states it. Never invent, estimate, or use outside knowledge.",
+    'Return one JSON object. Each field is {"value": <value>, "source_url": "<url of the source that states it>"}.',
+    'If no source states a field, use {"value": null, "source_url": null} (use [] as the value for array fields).',
+    'If two sources disagree on a field, return {"value": <first value>, "source_url": "<its url>", "conflict": true, "values": [{"value": ..., "source_url": ...}, {"value": ..., "source_url": ...}]}.',
+    "source_url must be copied exactly from the source list.",
+    entityType === "diseases" ? "This is not veterinary advice." : "",
+    `Fields:\n${fields}`,
+  ].filter(Boolean).join("\n");
+  const user = sources
+    .map((s, i) => `SOURCE ${i + 1} (${s.label})\nurl: ${s.url}\n${s.text}`)
+    .join("\n\n---\n\n");
+  return { system, user };
+}
+
+async function processQueue({ entityType, queueName, sourceFile, extraFile, schema, emptyRecord, token, queues, references, harrisById }) {
   const sourceRecords = await loadJson(sourceFile, []);
   const sourceById = new Map(sourceRecords.map((r) => [r.id, r]));
-  const extraRecords = await loadJson(extraFile, []);
-  const extraById = new Map(extraRecords.map((r) => [r.id, r]));
+  const extraById = new Map((await loadJson(extraFile, [])).map((r) => [r.id, toProvenanceShape(r, schema)]));
 
   ensureQueueItems(queues, queueName, [...sourceById.keys()]);
   const pendingIds = getIdsByStatus(queues, queueName, "pending").slice(0, BATCH);
-
-  console.log(`[${queueName}] ${pendingIds.length} items to process this run (batch limit ${BATCH}).`);
+  console.log(`[${queueName}] ${pendingIds.length} items this run (batch limit ${BATCH}).`);
 
   let processed = 0;
   let stoppedOnRateLimit = false;
 
   for (const id of pendingIds) {
-    const sourceRecord = sourceById.get(id);
-    if (!sourceRecord) {
+    const record = sourceById.get(id);
+    if (!record) {
       markItem(queues, queueName, id, "error", "source record missing");
       continue;
     }
-    const articleText = sourceRecord.summary || "";
-    const prompt = buildPrompt(articleText);
-
     try {
-      const result = await callGithubModelsJson({
-        token,
-        systemPrompt: prompt.system,
-        userPrompt: prompt.user,
+      const sources = await gatherSources(entityType, record, references, harrisById);
+      if (sources.length === 0) {
+        markItem(queues, queueName, id, "error", "no source text");
+        continue;
+      }
+      const prompt = buildPrompt(entityType, record, schema, sources);
+      const result = await callGithubModelsJson({ token, systemPrompt: prompt.system, userPrompt: prompt.user });
+      validateProvenanceResult(result, schema);
+      const allowed = new Map(sources.map((s) => [s.url, s.origin]));
+      const facts = normalizeProvenanceResult(result, schema, allowed);
+
+      const existing = extraById.get(id) ?? emptyRecord(id);
+      const updated = applyExtractedFacts(existing, facts);
+      extraById.set(id, {
+        ...updated,
+        sources_used: sources.map((s) => s.url),
+        needs_review: true,
+        ...(entityType === "diseases" ? { disclaimer: "Not veterinary advice" } : {}),
       });
-      validateSchema(result, schema);
-
-      const existing = extraById.get(id) ?? { id };
-      const updated = applyResult(existing, result);
-      extraById.set(id, updated);
-
       markItem(queues, queueName, id, "done");
       processed += 1;
     } catch (err) {
@@ -128,13 +189,11 @@ async function processQueue({ queueName, sourceFile, extraFile, schema, buildPro
       markItem(queues, queueName, id, "error", message);
       console.log(`[${queueName}] error on "${id}": ${message}`);
     }
-
     await sleep(SLEEP_MS);
   }
 
   const merged = [...extraById.values()].sort((a, b) => a.id.localeCompare(b.id));
   await writeFile(extraFile, JSON.stringify(merged, null, 2) + "\n", "utf8");
-
   return { processed, stoppedOnRateLimit };
 }
 
@@ -147,55 +206,42 @@ async function main() {
   }
 
   const queues = await loadQueueFile();
+  const references = await loadJson(path.join(DATA_DIR, "reference_sources.json"), []);
+  const breeds = await loadJson(path.join(DATA_DIR, "breeds.json"), []);
+  const harrisRows = (await loadHarris730Rows(breeds)) ?? [];
+  const harrisById = new Map(harrisRows.filter((r) => r.breed_id).map((r) => [r.breed_id, r]));
 
   const breedsResult = await processQueue({
+    entityType: "breeds",
     queueName: "breeds_extra",
     sourceFile: path.join(DATA_DIR, "breeds.json"),
     extraFile: path.join(DATA_DIR, "breeds_extra.json"),
-    schema: BREEDS_SCHEMA,
-    buildPrompt: (text) => {
-      const p = buildBreedPrompt(text);
-      return { system: p.system, user: p.user };
-    },
-    applyResult: (existing, result) => ({
-      ...existing,
-      ...result,
-      source: "wikipedia article text",
-      needs_review: true,
-    }),
+    schema: BREED_EXTRA_SCHEMA,
+    emptyRecord: emptyBreedExtra,
     token,
     queues,
+    references,
+    harrisById,
   });
-
   await saveQueueFile(queues);
 
   const diseasesResult = breedsResult.stoppedOnRateLimit
-    ? { processed: 0, stoppedOnRateLimit: true }
+    ? { processed: 0 }
     : await processQueue({
+        entityType: "diseases",
         queueName: "diseases_extra",
         sourceFile: path.join(DATA_DIR, "diseases.json"),
         extraFile: path.join(DATA_DIR, "diseases_extra.json"),
-        schema: DISEASES_SCHEMA,
-        buildPrompt: (text) => {
-          const p = buildDiseasePrompt(text);
-          return { system: p.system, user: p.user };
-        },
-        applyResult: (existing, result) => ({
-          ...existing,
-          ...result,
-          needs_review: true,
-          disclaimer: "Not veterinary advice",
-        }),
+        schema: DISEASE_EXTRA_SCHEMA,
+        emptyRecord: emptyDiseaseExtra,
         token,
         queues,
+        references,
+        harrisById,
       });
-
   await saveQueueFile(queues);
 
-  console.log(
-    `Enrichment run complete. breeds_extra processed: ${breedsResult.processed}, ` +
-      `diseases_extra processed: ${diseasesResult.processed}.`
-  );
+  console.log(`Enrichment run complete. breeds: ${breedsResult.processed}, diseases: ${diseasesResult.processed}.`);
 }
 
 main().catch((err) => {
