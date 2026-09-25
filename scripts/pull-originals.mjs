@@ -6,7 +6,7 @@
 import { createWriteStream } from "node:fs";
 import { mkdir, stat, rename } from "node:fs/promises";
 import { pipeline } from "node:stream/promises";
-import { Readable } from "node:stream";
+import { Readable, Transform } from "node:stream";
 import { execFileSync } from "node:child_process";
 import path from "node:path";
 
@@ -14,7 +14,8 @@ const REPO = "Mrshahidali420/poultry-db";
 const TAG = "images-original";
 const OUT_DIR = "tmp-release";
 const IMAGES_DIR = path.join("data", "images-original");
-const MAX_TRIES = 20;
+const MAX_TRIES = 200;
+const STALL_MS = 60_000;
 
 function listAssets() {
   const json = execFileSync("gh", ["release", "view", TAG, "-R", REPO, "--json", "assets"], { encoding: "utf8" });
@@ -38,12 +39,28 @@ async function downloadResumable(asset) {
   for (let attempt = 1; attempt <= MAX_TRIES; attempt += 1) {
     const have = await sizeOnDisk(part);
     if (have === asset.size) break;
+    // A connection can go silent without closing; abort it when no bytes
+    // arrive for STALL_MS, and the next try resumes from the .part size.
+    const controller = new AbortController();
+    let timer = setTimeout(() => controller.abort(new Error("stalled")), STALL_MS);
+    const resetTimer = new Transform({
+      transform(chunk, _enc, cb) {
+        clearTimeout(timer);
+        timer = setTimeout(() => controller.abort(new Error("stalled")), STALL_MS);
+        cb(null, chunk);
+      },
+    });
     try {
-      const res = await fetch(asset.url, { headers: have ? { Range: `bytes=${have}-` } : {} });
+      const res = await fetch(asset.url, {
+        headers: have ? { Range: `bytes=${have}-` } : {},
+        signal: controller.signal,
+      });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const append = have > 0 && res.status === 206;
-      await pipeline(Readable.fromWeb(res.body), createWriteStream(part, { flags: append ? "a" : "w" }));
+      await pipeline(Readable.fromWeb(res.body), resetTimer, createWriteStream(part, { flags: append ? "a" : "w" }));
+      clearTimeout(timer);
     } catch (err) {
+      clearTimeout(timer);
       console.log(`${asset.name}: try ${attempt} stopped (${err.cause?.code ?? err.message}), resuming...`);
       await new Promise((r) => setTimeout(r, 5000));
     }
