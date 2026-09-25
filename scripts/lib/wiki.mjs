@@ -32,6 +32,112 @@ export async function fetchWikitext(title) {
 }
 
 /**
+ * Fetch the full plain-text extract of a page via action=query&prop=extracts.
+ * Unlike fetchWikitext (raw wikitext), this returns MediaWiki's own
+ * plain-text rendering (explaintext=1) of the whole article.
+ * @param {string} title
+ * @returns {Promise<{title: string, extract: string}|null>} null if the page does not exist
+ */
+export async function fetchArticleExtract(title) {
+  const url = new URL(WIKI_API);
+  url.searchParams.set("action", "query");
+  url.searchParams.set("prop", "extracts");
+  url.searchParams.set("explaintext", "1");
+  url.searchParams.set("titles", title);
+  url.searchParams.set("redirects", "1");
+  url.searchParams.set("format", "json");
+  url.searchParams.set("formatversion", "2");
+
+  const json = await politeFetchJson(url.toString());
+  const page = json.query?.pages?.[0];
+  if (!page || page.missing) return null;
+  return { title: page.title, extract: page.extract ?? "" };
+}
+
+/**
+ * Look up a page's Wikidata item id (for Commons category resolution) via
+ * action=query&prop=pageprops.
+ * @param {string} title
+ * @returns {Promise<string|null>} e.g. "Q123456"
+ */
+export async function fetchWikidataItem(title) {
+  const url = new URL(WIKI_API);
+  url.searchParams.set("action", "query");
+  url.searchParams.set("prop", "pageprops");
+  url.searchParams.set("titles", title);
+  url.searchParams.set("redirects", "1");
+  url.searchParams.set("format", "json");
+  url.searchParams.set("formatversion", "2");
+
+  const json = await politeFetchJson(url.toString());
+  const page = json.query?.pages?.[0];
+  return page?.pageprops?.wikibase_item ?? null;
+}
+
+/**
+ * Fetch a Wikidata entity's claims and pull out the Commons category (P373)
+ * if present.
+ * @param {string} qid e.g. "Q123456"
+ * @returns {Promise<string|null>} bare category name, e.g. "Brahma chicken"
+ */
+export async function fetchCommonsCategoryFromWikidata(qid) {
+  if (!qid) return null;
+  const url = new URL("https://www.wikidata.org/w/api.php");
+  url.searchParams.set("action", "wbgetclaims");
+  url.searchParams.set("entity", qid);
+  url.searchParams.set("property", "P373");
+  url.searchParams.set("format", "json");
+  url.searchParams.set("formatversion", "2");
+
+  const json = await politeFetchJson(url.toString());
+  const claims = json.claims?.P373;
+  const value = claims?.[0]?.mainsnak?.datavalue?.value;
+  return typeof value === "string" ? value : null;
+}
+
+/**
+ * List image (File:) titles inside a Commons category (one level, no
+ * subcategories), up to `limit`.
+ * @param {string} category bare category name (no "Category:" prefix needed)
+ * @param {number} [limit]
+ * @returns {Promise<string[]>}
+ */
+export async function fetchCommonsCategoryImages(category, limit = 20) {
+  const title = category.startsWith("Category:") ? category : `Category:${category}`;
+  const url = new URL(COMMONS_API);
+  url.searchParams.set("action", "query");
+  url.searchParams.set("list", "categorymembers");
+  url.searchParams.set("cmtitle", title);
+  url.searchParams.set("cmtype", "file");
+  url.searchParams.set("cmlimit", String(limit));
+  url.searchParams.set("format", "json");
+  url.searchParams.set("formatversion", "2");
+
+  const json = await politeFetchJson(url.toString());
+  return (json.query?.categorymembers ?? []).map((m) => m.title);
+}
+
+/**
+ * Look up a page's lead image (pageimages) plus its Commons filename.
+ * @param {string} title
+ * @returns {Promise<string|null>} bare file name, e.g. "Foo.jpg"
+ */
+export async function fetchPageLeadImage(title) {
+  const url = new URL(WIKI_API);
+  url.searchParams.set("action", "query");
+  url.searchParams.set("prop", "pageimages");
+  url.searchParams.set("piprop", "name");
+  url.searchParams.set("titles", title);
+  url.searchParams.set("redirects", "1");
+  url.searchParams.set("format", "json");
+  url.searchParams.set("formatversion", "2");
+
+  const json = await politeFetchJson(url.toString());
+  const page = json.query?.pages?.[0];
+  return page?.pageimage ?? null;
+}
+
+/**
  * List all page titles in a category (non-recursive, one level).
  * @param {string} category e.g. "Category:Chicken breeds"
  * @returns {Promise<string[]>}
@@ -327,9 +433,10 @@ export function parseWeightKg(raw) {
 /**
  * Look up Commons image metadata (URL, license, author) for a file name.
  * @param {string} fileName e.g. "Brahma hen.jpg" (with or without "File:" prefix)
+ * @param {{urlWidth?: number}} [options] pass urlWidth to get a thumbnail URL/size at that width
  * @returns {Promise<object|null>}
  */
-export async function fetchCommonsImageInfo(fileName) {
+export async function fetchCommonsImageInfo(fileName, options = {}) {
   const title = fileName.startsWith("File:") || fileName.startsWith("Image:")
     ? fileName
     : `File:${fileName}`;
@@ -338,7 +445,8 @@ export async function fetchCommonsImageInfo(fileName) {
   url.searchParams.set("action", "query");
   url.searchParams.set("titles", title);
   url.searchParams.set("prop", "imageinfo");
-  url.searchParams.set("iiprop", "url|extmetadata");
+  url.searchParams.set("iiprop", "url|size|extmetadata");
+  if (options.urlWidth) url.searchParams.set("iiurlwidth", String(options.urlWidth));
   url.searchParams.set("format", "json");
   url.searchParams.set("formatversion", "2");
 
@@ -358,6 +466,8 @@ export async function fetchCommonsImageInfo(fileName) {
     commons_url: `https://commons.wikimedia.org/wiki/${encodeURIComponent(title)}`,
     thumb_url: info.thumburl ?? info.url ?? null,
     full_url: info.url ?? null,
+    width: info.thumburl ? info.thumbwidth ?? info.width ?? null : info.width ?? null,
+    height: info.thumburl ? info.thumbheight ?? info.height ?? null : info.height ?? null,
     license: licenseName,
     license_url: licenseUrl,
     author,
