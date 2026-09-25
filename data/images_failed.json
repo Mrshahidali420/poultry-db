@@ -1,0 +1,478 @@
+[
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "kind": "gallery",
+    "file": "Altsteirerhahn weiß.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "kind": "gallery",
+    "file": "Altsteirerhahn.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "kind": "gallery",
+    "file": "Appenzeller Barthuhn (3).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "kind": "gallery",
+    "file": "Appenzeller Barthuhn (4).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "kind": "gallery",
+    "file": "Appenzeller Barthuhn (5).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "kind": "gallery",
+    "file": "Araucana-PICT0020 edited.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "kind": "gallery",
+    "file": "Ayam cemani(2).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "kind": "gallery",
+    "file": "Ayam Kampung.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "kind": "gallery",
+    "file": "Basetten.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "kind": "gallery",
+    "file": "Bergkraaier-Haanv2.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "kind": "gallery",
+    "file": "Schlotterkamm Henne (cropped).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "kind": "gallery",
+    "file": "Schlotterkamm Henne.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "kind": "gallery",
+    "file": "Bielefelder naine.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "kind": "gallery",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (40145783003).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "kind": "gallery",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (46171533955).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "kind": "gallery",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (46223375845).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "kind": "gallery",
+    "file": "Poulet de Bresse - Gauloise Blanche.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "kind": "gallery",
+    "file": "\" fot. Andrew Skowron (40558129703).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brugse-vechter",
+    "kind": "gallery",
+    "file": "Brügger Kämpfer.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "kind": "gallery",
+    "file": "Silver campine cock (Gyeongju Bird Park).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "kind": "gallery",
+    "file": "Silver Campine cocks in Gyeongju Bird Park, South Korea.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "castellana-negra",
+    "kind": "gallery",
+    "file": "Hembra raza aviar castellana negra.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "kind": "gallery",
+    "file": "Crèvecoeur Hahne 10.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "kind": "gallery",
+    "file": "Kruppert Cubalaya-Eier.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "kind": "gallery",
+    "file": "Kruppert Cubalaya-Henne, Kopfpunkte cropped.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "kind": "gallery",
+    "file": "A side view of a Delaware chick in Oregon.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "kind": "gallery",
+    "file": "Delaware chick in Oregon.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "kind": "gallery",
+    "file": "Delware pullet 7 weeks.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "kind": "gallery",
+    "file": "Pullet trio.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "kind": "gallery",
+    "file": "Speedy in repose.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "derbyshire-redcap",
+    "kind": "gallery",
+    "file": "Derbyshire Red Cap, from the Prize and Game Chickens series (N20) for Allen & Ginter Cigarettes MET DP835066.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "derbyshire-redcap",
+    "kind": "gallery",
+    "file": "Männliches Haushuhn.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dong-tao-chicken",
+    "kind": "gallery",
+    "file": "Gà Đông Tảo ở Bình Long, ng7th8n2022 (2).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "kind": "gallery",
+    "file": "Dorking Chicken in Dorking Museum.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "kind": "gallery",
+    "file": "Dorking Hahn 2011.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "kind": "gallery",
+    "file": "Dunghill Fowl by Pottery Barn (54523775841).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "kind": "gallery",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 73.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "kind": "gallery",
+    "file": "Faverolles kop.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "kind": "gallery",
+    "file": "Faverolles Limoges.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "kind": "gallery",
+    "file": "Im Wildpark Bad Mergentheim genießen auch die Nutztiere großes Interesse beim begeisterten Publikum. 08.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "kind": "gallery",
+    "file": "Cory's chickens 09 - Egyptian Fayoumi pullet (28488787120).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "kind": "gallery",
+    "file": "Cory's chickens 17 - Brown Leghorn hen and Egyptian Fayoumi pullet (28772763025).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "kind": "gallery",
+    "file": "Cory's chickens 24 - Silver Spangled Hamburg rooster (at left) and Egyptian Fayoumi pullet (28695645031).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "kind": "gallery",
+    "file": "Cory's chickens 32 - Egyptian Fayoumi pullets and Silver Spangled Hamburg pullet (28741993216).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "frizzle-chicken-breed",
+    "kind": "gallery",
+    "file": "Tab42 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "kind": "gallery",
+    "file": "Bungartz ISCRA N2308.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "kind": "gallery",
+    "file": "Gallus ferrugineus - 1700-1880 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ17000250.tif",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "kind": "gallery",
+    "file": "Hahn, Frontansicht.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "kind": "gallery",
+    "file": "Junge Henne, braunbrüstig (frontal).JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "kind": "gallery",
+    "file": "Cory's chickens 03 - Silver Spangled Hamburg pullet (28158241183).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "kind": "gallery",
+    "file": "Cory's chickens 08 - Blue Hamburg pullet (28741561116).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "kind": "gallery",
+    "file": "2014nr108 – RGZV Frankenthal IMG030 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "kind": "gallery",
+    "file": "Jersey Giant.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "kind": "gallery",
+    "file": "Kadaknath pair.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "kind": "gallery",
+    "file": "Kadaknath-Chicken.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "kind": "gallery",
+    "file": "கடக்நாத் சேவலின் முகம்.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "kind": "gallery",
+    "file": "கடக்நாத் சேவல் முக அமைப்பு.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "kind": "gallery",
+    "file": "கடக்நாத் பெட்டை கோழி.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "kind": "gallery",
+    "file": "Detmold - 2026-07-26 - Westfälische Krüper weiß (DSC00119).jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "kind": "gallery",
+    "file": "Kraienkopp Hahn silber.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "kind": "gallery",
+    "file": "-2020-09-02 White Leghorn chicken, Trimingham, Norfolk (2).JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "kind": "gallery",
+    "file": "Châtelais - La Petite Couère 031.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "kind": "gallery",
+    "file": "Coq marans 101.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "kind": "gallery",
+    "file": "Kip (zwarte minorca hen) op pluimveetentoonstelling (van de Amsterdamse Pluimvee Club) in Amsterdam, SFA022806240.jpg",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "kind": "gallery",
+    "file": "Kruppert – Minorka mit Rosenkamm, 2014 (cropped).JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "kind": "gallery",
+    "file": "Kruppert – Minorka mit Rosenkamm, 2014.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "kind": "gallery",
+    "file": "Minorka Hahn.JPG",
+    "error": "fetch failed"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "modern-game",
+    "kind": "gallery",
+    "file": "Types of Leading Breeds of American Pure Bred Fowl, F.E. Wright 1910.jpg",
+    "error": "fetch failed"
+  }
+]

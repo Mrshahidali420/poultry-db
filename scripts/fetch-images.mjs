@@ -30,7 +30,7 @@ const MANIFEST_FILE = path.join(DATA_DIR, "images.json");
 const FAILED_FILE = path.join(DATA_DIR, "images_failed.json");
 const HARRIS_REPO = "Harris730/Chicken_breed_dataset";
 const THUMB_WIDTH = 1200;
-const MAX_GALLERY_PER_BREED = 6;
+export const MAX_GALLERY_PER_BREED = 6;
 const FORCE = process.argv.includes("--force");
 
 /**
@@ -149,7 +149,15 @@ function relPath(file) {
   return path.relative(process.cwd(), file).replace(/\\/g, "/");
 }
 
-async function resolveCommonsCategory(breedName) {
+/**
+ * Resolve the list of Commons File: titles in a breed's gallery category,
+ * trying guessed category names first, then the Wikidata P373 lookup.
+ * Exported so other scripts (fetch-originals.mjs) can reuse discovery
+ * without re-downloading anything.
+ * @param {string} breedName
+ * @returns {Promise<string[]>} File: titles (with prefix)
+ */
+export async function resolveCommonsCategory(breedName) {
   for (const candidate of guessCommonsCategoryNames(breedName)) {
     try {
       const files = await fetchCommonsCategoryImages(candidate, MAX_GALLERY_PER_BREED + 2);

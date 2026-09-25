@@ -15,6 +15,7 @@
     "fetch:sources": "node scripts/fetch-sources.mjs",
     "fetch:articles": "node scripts/fetch-articles.mjs",
     "fetch:image-library": "node scripts/fetch-images.mjs",
+    "fetch:originals": "node scripts/fetch-originals.mjs",
     "fetch:nutrition": "node scripts/fetch-nutrition.mjs",
     "fetch:faostat": "node scripts/fetch-faostat.mjs",
     "fetch:nass": "node scripts/fetch-nass.mjs",

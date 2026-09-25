@@ -2,7 +2,7 @@
 // exponential backoff, and enforces a small delay between sequential calls
 // so we stay polite to free public APIs (Wikipedia, Wikimedia Commons, USDA).
 
-const USER_AGENT = "poultry-db/0.1 (mr.shahidali.sa@gmail.com)";
+const USER_AGENT = "poultry-db/0.2 (https://github.com/Mrshahidali420/poultry-db)";
 const MIN_GAP_MS = 200;
 const MAX_RETRIES = 5;
 const BASE_BACKOFF_MS = 500;

@@ -1,0 +1,47 @@
+name: Download original images
+
+# Runs by hand only. Downloads every original-size Commons image in
+# data/image-list.json on GitHub's fast network, then stores them as zip
+# files on the "images-original" release (they are too big for git).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  originals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Use the saved image list
+        run: mkdir -p cache && cp data/image-list.json cache/image-list.json
+
+      - name: Download originals
+        run: node scripts/fetch-originals.mjs
+
+      - name: Pack one zip per group
+        run: |
+          cd data/images-original
+          for group in */; do
+            group="${group%/}"
+            zip -q -r -0 "../../originals-${group}.zip" "$group"
+          done
+          cd ../..
+          ls -lh originals-*.zip
+
+      - name: Upload to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view images-original >/dev/null 2>&1 || \
+            gh release create images-original --title "Original images" \
+              --notes "Original-size Wikimedia Commons images, one zip per group. Credits and sources are in images-original.json."
+          gh release upload images-original originals-*.zip \
+            data/images-original.json data/images-original-failed.json --clobber

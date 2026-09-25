@@ -1,0 +1,6458 @@
+[
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Poule d alsace F SDA2013.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Coq d'Alsace bleu liséré.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Coq d'Alsace.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Hen1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Poule d'Alsace bleu GR (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Poule d'Alsace bleu GR.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "alsacienne",
+    "file": "Poule d'Alsace bleu liseré GR (2.2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "altsteirer.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "Altsteirer wildbraun Stübing 024.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "Altsteirer-001.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "Altsteirer.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "Altsteirerhahn (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "Altsteirerhahn weiß.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "Altsteirerhahn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "Blue Ameraucana Cock.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "Ameraucana hen close-up.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "Ameraucana wheaten bantam male.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "Ameraucana.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "Araucana chicken 01.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "AraucanaWithLeghorn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ameraucana",
+    "file": "Black Ameraucana Cockerel from Neumann Farms.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "american-game",
+    "file": "American Game hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "american-game",
+    "file": "Delaware Blue rooster.png",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ancona-chicken",
+    "file": "Ancona chicken.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ancona-chicken",
+    "file": "Ancona Rooster Poultry 020.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ancona-chicken",
+    "file": "Free range hen at Glencat - geograph.org.uk - 869918.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ancona-chicken",
+    "file": "History of Anconas. (IA historyofanconas00vanh 0).pdf",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ancona-chicken",
+    "file": "Poule Ancône noir caillouté blanc GR.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (8).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (3).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (4).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (5).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-barthuhn",
+    "file": "Appenzeller Barthuhn (6).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben (Switzerland).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben - Top Hat Chickens (51648804092).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben and Swiss Hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben i Mössebergs djurpark 2606.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben trio.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "appenzeller-spitzhauben",
+    "file": "Appenzeller Spitzhauben1 PSR (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Araucana hen showing ear tufts.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Aracuana Hahn cropped.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Aracuana Hahn.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Aracuana Henne cropped.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Aracuana Henne.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Araucana Henne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "araucana",
+    "file": "Araucana-PICT0020 edited.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ardennaise",
+    "file": "Coq ardennais.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ardennaise",
+    "file": "Coq ardennais nain.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ardennaise",
+    "file": "Coq et poule des Ardennes, La Perre De Roo 1882.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "asil-chicken",
+    "file": "(Vaal Seval) from Alanganallur, Madurai (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "asil-chicken",
+    "file": "Asil chicken 🐔.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "augsburger",
+    "file": "Augsburger (Hahn).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "augsburger",
+    "file": "Augsburger Henne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "augsburger",
+    "file": "Augsburger Huhn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "augsburger",
+    "file": "Poule Augsbourg noire 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "augsburger",
+    "file": "Poule Augsbourg noire 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "augsburger",
+    "file": "Poule Augsbourg noire.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australian-game",
+    "file": "Aussie_Game_Cockerel.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australian-game",
+    "file": "Aussie Game Cockerel.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australian-langshan",
+    "file": "Australian Langshan Pair.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australian-pit-game-fowl",
+    "file": "Australian-Pit-Game-Fowl-300x288.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australorp Rooster.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australops2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australorp Chicken.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australorp hen.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australorp.jpeg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australorp.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "australorp",
+    "file": "Australorps henne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Poule cemani.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Ayam Cemani (Zoo Dresden) (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Ayam Cemani (Zoo Dresden).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Ayam Cemani (Zoo Dresden).webm",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Ayam Cemani Rooster.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Ayam cemani(1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-cemani",
+    "file": "Ayam cemani(2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "Ayam kampung jantan.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "Anak ayam kampung dalam gelung.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "Ayam goreng kalasan, sleman.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "Ayam k 2.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "Ayam kampung Jantan dan Betina.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "Ayam Kampung.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-kampong",
+    "file": "AyamKampungJantan.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ayam-ketawa",
+    "file": "The_Laughing_Chicken.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "0,1 Antwerpener Bartzwerg - wachtelfarbig.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "0,1 Antwerpener Bartzwerg - gelb (Cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "0,1 Antwerpener Bartzwerg - gelb.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "0,1 Antwerpener Bartzwerg - schwarz (Cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "0,1 Antwerpener Bartzwerg - schwarz.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "1,0 Antwerpener Bartzwerg - goldhalsig (Cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-danvers",
+    "file": "1,0 Antwerpener Bartzwerg - goldhalsig.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-de-boitsfort",
+    "file": "1.0 Bosvoorder Bartzwerg.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-de-boitsfort",
+    "file": "0.1 Bosvoorder Bartzwerg.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-de-watermael",
+    "file": "2014nr170 – RGZV Frankenthal IMG061 – 1,0 Watermaalsche Bartzwerge, wachtelfarbig.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-de-watermael",
+    "file": "2014nr174 – RGZV Frankenthal IMG049 – 0,1 Watermaalsche Bartzwerge, wachtelfarbig.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-de-watermael",
+    "file": "2014nr174 – RGZV Frankenthal IMG052 – 0,1 Watermaalsche Bartzwerge, wachtelfarbig.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-de-watermael",
+    "file": "Barbu de Watermael Chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-deverberg",
+    "file": "Everbergse baardkriel.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-deverberg",
+    "file": "Everbergse baardkriel (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Belgian d'Uccle Bantams.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Belgian Bearded d'Uccle portrait.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Belgian d'Uccles in various colors (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Belgian d'Uccles in various colors.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Black Mottled Belgian d'Uccle Bantam.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Black Mottled d'Uccle Bantam hens.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barbu-duccle",
+    "file": "Mille Fleur Bantam Hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "Barnevelder Hen Head.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "28 7 lizziecoop.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 58.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 72.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "Barnevelder bantam hen 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "Barnevelder bantam hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "barnevelder",
+    "file": "Barnevelder Cock.png",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Coq et poulettes bassette (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Basette hen (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Basetten.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Bassette und Eikenburger.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Bassette.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Coq et poulettes bassette.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bassette-li-geoise",
+    "file": "Eikenburger Hahn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergischerkraeher2 (less cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergischerkraeher1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergischerkraeher2 (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergischerkraeher2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergischerkraeher3.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergkraaier-Haanv2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-kr-her",
+    "file": "Bergkraaier.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "file": "Schlotterkamm Hahn1 (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "file": "Phasianidae Gallus gallus domesticus (Bergische Schlotterkamm) 7.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "file": "Schlotterkamm Hahn1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "file": "Schlotterkamm Henne (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bergische-schlotterkamm",
+    "file": "Schlotterkamm Henne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Bielefelder-kennhuhn.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Bielefelder Hellemmes.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Bielefelder Kennhuhn Truus.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Bielefelder naine.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Bielefelder poule argenté.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Bielefelder-kennhuhn (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bielefelder-kennhuhn",
+    "file": "Coq Bielefelder.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bionda-piemontese",
+    "file": "Bionda piemontese (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bionda-piemontese",
+    "file": "Bionda piemontese.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "Black_shumen_male.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "11 седмично петле Черна шуменска.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "Black shumen female.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "Black shumen hens.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "Black shumen male.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "Black shumen rooster.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "black-shumen",
+    "file": "Едноседмично пиле Черна шуменска кокошка.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Andalusian gallus (hen).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Andalusian black adult hen hiding from sun heat in sand and buildings' shadows.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Andalusian Blue chicken (male).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Andalusian rooster head big (portrait).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Andalusian rooster head.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Andalusian rooster in henyard near lohmann brown hens.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "blue-andalusian",
+    "file": "Blue andalusian Hens.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "Booted Bantam -peting zoo, The Hague, Netherlands -two-8a.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "A natural history of birds (9492994253).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "A natural history of birds (9495792784).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "Coq sabelpoot porcelaine.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "Federfüßiges Zwerghuhn Dieskau (1) (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "Federfüßiges Zwerghuhn Dieskau (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "booted-bantam",
+    "file": "Federfüßiges Zwerghuhn Dieskau (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Coq bourbonnais dans une ferme.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Coqs bourbonnais.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Pondeuses bourbonnaises.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Poule bourbonnaise et ses poussins.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Poule bourbonnaise sur parcours..JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Poule bourbonnaise sur pondoir..JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bourbonnaise-chicken",
+    "file": "Poule Bourbonnaise.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brabanter",
+    "file": "Melchior d'Hondecoeter 002.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Braekel.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Braekel chamois.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Braekel doré.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Brakel Hühner im Tiergarten Worms.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Coq braekel argenté SDA.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Coq braekel argenté.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "braekel",
+    "file": "Poule braekel argenté GR (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "Brahmahahn (cropped).png",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (32153118917).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (33219735158).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (33219735758).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (40145783003).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (46171533955).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brahma-chicken",
+    "file": "2017-09-03 AT Engelhartstetten, Schloss Hof, Gallus gallus domesticus (46223375845).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "branca-chicken",
+    "file": "Portugese Branca chicken (cropped).png",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "branca-chicken",
+    "file": "Portugese Branca chicken.png",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Volailles Bresse cropped.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Bresse-Gauloise blanche (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Bresse-Gauloise blanche.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Bresse-Gauloise noire 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Bresse-Gauloise noire.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Poule Bresse-Gauloise blanche (1.1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "bresse-gauloise",
+    "file": "Poulet de Bresse - Gauloise Blanche.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "Broilers Australia June 2018.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "\" Fot Andrew Skowron (49797923396).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "\" fot. Andrew Skowron (40558129703).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "\" fot. Andrew Skowron (46608750885).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "\" fot. Konrad Łoziński (46608817655).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "\" fot. Konrad Łoziński (46608834665).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "broiler",
+    "file": "\" fot. Konrad Łoziński (47471593842).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brugse-vechter",
+    "file": "Brugse vechter Haan Kopstudie (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brugse-vechter",
+    "file": "Brugse vechter Haan Kopstudie.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brugse-vechter",
+    "file": "Brugse vechter Roosendaal 2016.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "brugse-vechter",
+    "file": "Brügger Kämpfer.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "buckeye-chicken",
+    "file": "Walter, Buckeye Rooster.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "buckeye-chicken",
+    "file": "Buckeye bantam.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "buckeye-chicken",
+    "file": "Nettie Metcalf.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "burmese-bantam",
+    "file": "Burmah Bantams 1896, from Harrison Weir The Poultry Book volume 2 page 1071 (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "burmese-bantam",
+    "file": "Burmah Bantams 1896, from Harrison Weir The Poultry Book volume 2 page 1071.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "california-gray",
+    "file": "California Gray chicken.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Campine Golden-Silver.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Brahma cock in Gyeongju Bird Park 2025-01-25.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Campine fowl cock.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Campine Silver (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Campine Silver.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Silver campine cock (Gyeongju Bird Park).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "campine-chicken",
+    "file": "Silver Campine cocks in Gyeongju Bird Park, South Korea.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "castellana-negra",
+    "file": "Gallina_castellana_negra.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "castellana-negra",
+    "file": "2013-06-06-20-59-37 deco.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "castellana-negra",
+    "file": "Gallina castellana negra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "castellana-negra",
+    "file": "Gallus gallus castellana hembra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "castellana-negra",
+    "file": "Hembra raza aviar castellana negra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "catalana",
+    "file": "PratPotaBlava.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "chantecler-chicken",
+    "file": "Chantecler coq 1926.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "chantecler-chicken",
+    "file": "Chantecler hen 1926.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cochin-chicken",
+    "file": "Partridge Cochin cockerel (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cochin-chicken",
+    "file": "Full size White Cochin hen at three years old in UK.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cochin-chicken",
+    "file": "Full size white Cochin hen at three years old in UK.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "coucou-des-flandres",
+    "file": "Coq Coucou des Flandres.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "coucou-des-flandres",
+    "file": "Vlaamse koekoek (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "coucou-des-flandres",
+    "file": "Vlaamse koekoek.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "file": "Abbildungen von Vogel-Skeletten (Tafel X) (6835668630).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "file": "Abbildungen von Vogel-Skeletten (Tafel XI) (6981794981).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "file": "AbbildungenvonV1Meye 0115.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "file": "AbbildungenvonV1Meye 0117.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "file": "Crevecoeur chicken.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cr-vec-ur-chicken",
+    "file": "Crèvecoeur Hahne 10.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "cubalaya.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "Kruppert Cubalaya cropped.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "Kruppert Cubalaya, weiß cropped.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "Kruppert Cubalaya, weiß.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "Kruppert Cubalaya-Eier.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "Kruppert Cubalaya-Henne, Kopfpunkte cropped.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "Kruppert Cubalaya-Henne, Kopfpunkte.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "Delaware pullet in foreground.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "A group of chicks and human debris in Oregon.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "A side view of a Delaware chick in Oregon.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "Delaware chick in Oregon.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "Delware pullet 7 weeks.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "Pullet trio.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "delaware-chicken",
+    "file": "Speedy in repose.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "denizli-chicken",
+    "file": "Denizli haan Roosendaal 2016.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "denizli-chicken",
+    "file": "Denizli Crower 1 (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "denizli-chicken",
+    "file": "Denizli Crower 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "denizli-chicken",
+    "file": "Denizli Crower 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "denizli-chicken",
+    "file": "Seyir Tepesi Şehir Ormanı Horoz Heykeli.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "derbyshire-redcap",
+    "file": "Männliches Haushuhn (cropped).JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "derbyshire-redcap",
+    "file": "Big red rooster.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "derbyshire-redcap",
+    "file": "Derbyshire Red Cap, from the Prize and Game Chickens series (N20) for Allen & Ginter Cigarettes MET DP835066.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "derbyshire-redcap",
+    "file": "Männliches Haushuhn.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique rooster Mt. Vernon (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique Chicken (1332872733).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique chicken face.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique Chicken, Old Sturbridge Village, Massachusetts (54221596480).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique Chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique chicken.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dominique-chicken",
+    "file": "Dominique chickens at Kisak's Cinnamon Hill.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dong-tao-chicken",
+    "file": "Pouletdong.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dong-tao-chicken",
+    "file": "Drakenkip.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dong-tao-chicken",
+    "file": "Gà Đông Tảo ở Bình Long, ng7th8n2022 (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dong-tao-chicken",
+    "file": "Gà Đông Tảo ở Bình Long, ng7th8n2022 (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "Dorking Hahn.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "-2019-01-29 Rhode Island Red and Dorking chickens, Trimingham.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "Dorking Chicken in Dorking Museum.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "Dorking Hahn 2011.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "Dorking Henne.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "Dorking silver grey rooster.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dorking-chicken",
+    "file": "Dunghill Fowl by Pottery Barn (54523775841).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "Dutch Bantam Pullet.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "Dutch bantam hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "Dutch Bantam rooster.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "FawnSilverDutch.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "Hollandse Kriel.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "Hollandse Krielen.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "dutch-bantam",
+    "file": "Holländischer Zwerghahn qtl1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "estaires-chicken",
+    "file": "101C9183.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "estaires-chicken",
+    "file": "Coq en pied.png",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Euskal oiloa BELTZA barietateko OILARRA.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Basque Hen (Euskal Oiloa) chick 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Basque Hen (Euskal Oiloa) chick 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Basque Hen (Euskal Oiloa) chicks.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Euskal oiloa etumeta 01.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Euskal oiloa GORRIA barietateko OILOA.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "euskal-oiloa",
+    "file": "Euskal oiloa LEPASOILA barietateko OILARRA.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "Faverolles cock and hen close-up.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 62.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 73.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "Faverolles kop.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "Faverolles Limoges.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "Faverolles voet.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "faverolles-chicken",
+    "file": "Im Wildpark Bad Mergentheim genießen auch die Nutztiere großes Interesse beim begeisterten Publikum. 08.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 09 - Egyptian Fayoumi pullet (28488787120) (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 05 - Egyptian Fayoumi pullet (28696085141).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 09 - Egyptian Fayoumi pullet (28488787120).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 17 - Brown Leghorn hen and Egyptian Fayoumi pullet (28772763025).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 23 - Silver Spangled Hamburg cockerel and misc hens and pullets including two Egyptian Fayoumis (28667510312).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 24 - Silver Spangled Hamburg rooster (at left) and Egyptian Fayoumi pullet (28695645031).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "fayoumi",
+    "file": "Cory's chickens 32 - Egyptian Fayoumi pullets and Silver Spangled Hamburg pullet (28741993216).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "friesian-chicken",
+    "file": "2014nr103 – RGZV Frankenthal IMG043 – Friesenhühner, gelb-weißgeflockt.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "friesian-chicken",
+    "file": "2014nr099 – RGZV Frankenthal IMG045 – 1,0 Friesenhühner, gelb-weißgeflockt.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "friesian-chicken",
+    "file": "2014nr103 – RGZV Frankenthal IMG041 – 0,1 Friesenhühner, gelb-weißgeflockt.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "friesian-chicken",
+    "file": "Fryske Wytweit Haan..JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "friesian-chicken",
+    "file": "Newborn chickens.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "frizzle-chicken-breed",
+    "file": "White Frizzle Chicken.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "frizzle-chicken-breed",
+    "file": "Blue Frizzle Pullets.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "frizzle-chicken-breed",
+    "file": "Cyclopedia of farm animals (1922) (20834321951).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "frizzle-chicken-breed",
+    "file": "Frizzle hen PDX.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "frizzle-chicken-breed",
+    "file": "Tab42 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "file": "1,0 Deutsches Langschan, braunbrüstig.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "file": "Annual catalogue of the Freeport Nurseries and Poultry Yards (1893) (18419655832).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "file": "Bungartz ISCRA N2308.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "file": "Gallus ferrugineus - 1700-1880 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ17000250.tif",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "file": "Hahn, Frontansicht.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "german-langshan",
+    "file": "Junge Henne, braunbrüstig (frontal).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "giriraja",
+    "file": "Giriraja chicken (2).JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "giriraja",
+    "file": "Giriraja chicken.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "giriraja",
+    "file": "Giriraja eggs.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "green-legged-partridge",
+    "file": "Dwudniowe piskle zielononozki.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "green-legged-partridge",
+    "file": "Green-legged Partigde chick - head.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "green-legged-partridge",
+    "file": "Gąskowo - zielononózka kuropatwiana.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "green-legged-partridge",
+    "file": "Kury zielononozki polskie 1927 (51782779).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "green-legged-partridge",
+    "file": "Kury zielononozki polskie 1927 (51782797).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "green-legged-partridge",
+    "file": "Zielononozka-kogut2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "hamburg.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "Citron Spangled Hamburg bantam hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "Cory's chickens 02 - Silver Spangled Hamburg pullet (28667986362) (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "Cory's chickens 03 - Silver Spangled Hamburg pullet (28158241183).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "Cory's chickens 08 - Blue Hamburg pullet (28741561116).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "Cory's chickens 10 - Silver Spangled Hamburg cockerel (28667803622).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hamburg-chicken",
+    "file": "Cory's chickens 12 - Blue Hamburg pullet with cross beak (28158018053) (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "houdan.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "0423 Little Goldie, Houdan.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "2018-06-30 Tf show 7.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "2018-07-22 Houdan hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "Abbildungen von Vogel-Skeletten (Tafel L) (6835679920).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "Agence Rol - Orvilliers, poule de Houdan.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "Grand couvoir de La Queue, près Houdan, Seine & Oise. Poussins..., volailles grasses. A. Darcy, La Queue les Yvelines - affiche - Non identifié - btv1b9008565v.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hrvatica-chicken",
+    "file": "Kokoš Hrvatica.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "hrvatica-chicken",
+    "file": "47. izložba malih životinja u Nedelišću 13.01.2024. - kokoš pasmine Hrvatica (jarebičasta).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "Icelandic Settler Chicken (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "A moslty blue Icelandic cockerel.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "Don't Be a Chicken (5944469296).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "Icelandic Chicken hen, age 12 months.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "Icelandic Chicken pullet age 5 months.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "Icelandic chicken rooster 9 months old, with a large multi-point rose comb and large wattles.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "icelandic-chicken",
+    "file": "Icelandic chicken rooster age 5 months.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "DkCornishHen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "2014nr106 – RGZV Frankenthal IMG037 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun (cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "2014nr106 – RGZV Frankenthal IMG037 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "2014nr108 – RGZV Frankenthal IMG029 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun (cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "2014nr108 – RGZV Frankenthal IMG029 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "2014nr108 – RGZV Frankenthal IMG030 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun (cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "indian-game-poultry",
+    "file": "2014nr108 – RGZV Frankenthal IMG030 – 1,0 Indische Zwerg-Kämpfer, fasanenbraun.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "iowa-blue",
+    "file": "iowa-blue.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "isa-brown",
+    "file": "ISA Brown - poule - chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "isa-brown",
+    "file": "ISA Browns, Pengo.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "isa-brown",
+    "file": "Isa cs layers brownJPG.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "isa-brown",
+    "file": "Isa cs layers brownwhitejpg.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "isa-brown",
+    "file": "Kahverengi tavuklar.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ixworth-chicken",
+    "file": "ixworth.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "j-rh-ns",
+    "file": "Jærhane.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "j-rh-ns",
+    "file": "Jærhøne.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "j-rh-ns",
+    "file": "Jærhøns.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "j-rh-ns",
+    "file": "Norwegian hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "chabo.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "AbbildungenvonV1Meye 0125.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "Bairei kachō gafu, Spring 14, garland chrysanthemum and Japanese bantams.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "Bantam and standard chicks.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "Bantams in chicken coop.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "BarredJapaneseBantamCock.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "Chabo Haantje (slightly cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "java.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "Coq Javanaise doré.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "Crête Javanaise.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "Javanaise argenté saumoné.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "Javanaise argenté.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "Javanaise doré bleu.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "java-chicken",
+    "file": "Javanaise doré saumoné.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "OntarioCountyFair2018JerseyGiantCockerel.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "Black rooster close-up.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "Coq géant de Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "Coq Géante de Jersey noir (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "Ei Jersey Giant.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "Jersey Black Giants (22024597455).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "jersey-giant",
+    "file": "Jersey Giant.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "கடக்நாத் சேவல்.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "Kadaknath eye.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "Kadaknath pair.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "Kadaknath-Chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "கடக்நாத் சேவலின் முகம்.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "கடக்நாத் சேவல் முக அமைப்பு.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kadaknath",
+    "file": "கடக்நாத் பெட்டை கோழி.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Kosovo Crower 1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Chanteur du Kossovo.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Kosovo Crower 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Kosovo Crower 3 (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Kosovo Crower 3.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Kosovo Crower 4.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kosovo-longcrower",
+    "file": "Kosovo Crower 5.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Krüper_Hahn_Gesperbert.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Detmold - 2025-09-16 - Westfälische Krüper (DSC06340).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Detmold - 2025-09-16 - Westfälische Krüper (DSC06341).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Detmold - 2026-07-26 - Westfälische Krüper weiß (DSC00108).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Detmold - 2026-07-26 - Westfälische Krüper weiß (DSC00111).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Detmold - 2026-07-26 - Westfälische Krüper weiß (DSC00113).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kr-per",
+    "file": "Detmold - 2026-07-26 - Westfälische Krüper weiß (DSC00119).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "file": "1,0 Kraienkopp cropped.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "file": "1,0 Kraienkopp.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "file": "Kraienkopp Hahn silber.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "file": "Poule de Twente argenté 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "file": "Poule de Twente argenté.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "kraienkopp",
+    "file": "Poule de Twente saumon doré (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Poule de La Flèche (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Coq de La Flèche.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Coq la flèche noir (cropped u a) (cropped) (cropped Hörnerkamm).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Coq la flèche noir (cropped u a) (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Coq la flèche noir (cropped u a).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Coq la flèche noir (detail).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "la-fl-che-chicken",
+    "file": "Coq la flèche noir.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "lakenvelder.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "Châtelais - La Petite Couère 007.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "Châtelais - La Petite Couère 063 (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "Châtelais - La Petite Couère 063.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "Lakenfelder (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "Lakenfelder Hahn (39875425572).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "Lakenfelder Hahn (Jungtier).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lamona",
+    "file": "1933-Lamona pullet.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "legbar",
+    "file": "Cream Legbar.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "legbar",
+    "file": "Blue hen eggs.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "legbar",
+    "file": "Isbareier.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "Leghorn cockerel and hen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "De-Leghornhuhn.ogg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "-2020-09-02 White Leghorn chicken, Trimingham, Norfolk (1).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "-2020-09-02 White Leghorn chicken, Trimingham, Norfolk (2).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "-2020-09-10 White Leghorn chicken, Trimingham, Norfolk.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "-2020-09-15 Broody Leghorn chicken, Norfolk.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "leghorn-chicken",
+    "file": "-2020-11-10 White Leghorn Chicken, Trimingham.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malay-game",
+    "file": "malay.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malay-game",
+    "file": "Hen Tom Rhebergen.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malay-game",
+    "file": "Malay Game Fowl Hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malay-game",
+    "file": "Maleier T. Rhebergen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malines-chicken",
+    "file": "Coucou de malines.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malines-chicken",
+    "file": "CoucoudeMalines.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malines-chicken",
+    "file": "Rooster in Domein Scheyvaerts (DSC 2569).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malines-chicken",
+    "file": "Rooster in Domein Scheyvaerts, cropped (DSC 2569).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "malines-chicken",
+    "file": "Tab50 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Cuckoo Marans.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Adopted Mother Hen - geograph.org.uk - 960064.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Arras2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Châtelais - La Petite Couère 005.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Châtelais - La Petite Couère 031.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Châtelais - La Petite Couère 065.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marans",
+    "file": "Coq marans 101.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marsh-daisy-chicken",
+    "file": "marsh-daisy.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Rooster at Scottish poultry show.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Coq Minorque noir.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Kip (zwarte minorca hen) op pluimveetentoonstelling (van de Amsterdamse Pluimvee Club) in Amsterdam, SFA022806240.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Kruppert – Minorka mit Rosenkamm, 2014 (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Kruppert – Minorka mit Rosenkamm, 2014 (Cut out).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Kruppert – Minorka mit Rosenkamm, 2014.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "minorca-chicken",
+    "file": "Minorka Hahn.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "modern-game",
+    "file": "Modern Game - Puyallup Fair, WA.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "modern-game",
+    "file": "Types of Leading Breeds of American Pure Bred Fowl, F.E. Wright 1910.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "mugellese",
+    "file": "Gruppo Mugellese frumento.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "naked-neck.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "American Pigeon Journal 1970 08.pdf",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "Cocos din rasa Gat golas de Transilvania Neagra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "Coq Cou nu FR 2013.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "Erdelyi feher kopasznyaku.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "Familie de gaini Gat golas de Transilvania varietatea neagra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "Fehér erdélyi kopasznyakú tyúk.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "nankin-bantam",
+    "file": "nankin.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ndio-gigante",
+    "file": "Indio gigante (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ndio-gigante",
+    "file": "Indio gigante (less cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ndio-gigante",
+    "file": "Indio gigante.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ndio-gigante",
+    "file": "Índio Gigante (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ndio-gigante",
+    "file": "Índio Gigante.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "new-hampshire.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "New hampshir 3 months.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "New hampshire 3 months head.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "New Hampshire chicken in Isère (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "New Hampshire chicken in Isère.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "New hampshire hen 26 weken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "New Hampshire Red Cockerel.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "niederrheiner",
+    "file": "Blausperber Henne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "niederrheiner",
+    "file": "Niederrheiner Blausperber.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "niederrheiner",
+    "file": "Niederrheiner Gelbsperber 01.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "niederrheiner",
+    "file": "Niederrheiner Gelbsperber 02.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "niederrheiner",
+    "file": "Niederrheiner Gelbsperber 03.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "niederrheiner",
+    "file": "Poule niederrheiner argenté.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "norfolk-grey",
+    "file": "norfolk-grey.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "norfolk-grey",
+    "file": "Norfolk Grey hen with full crop.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "norfolk-grey",
+    "file": "Norfolk Grey hen.jpeg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "norfolk-grey",
+    "file": "Three Norfolk Grey eggs.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "Nhblauw hen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "Chicken at Amsterdam Zoo - Artis (25675692133).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "Fetsje.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "Noord Hollands Blauw, haan, 3 maanden.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "NoordhollandseBlauweHaan.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "NoordhollandseBlauweHen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "north-holland-blue",
+    "file": "Poule bleue de Hollande.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ohiki",
+    "file": "Ohiki Hahn.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "old-english-game.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "Bildschirmfoto vom 2025-11-25 17 (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "Black-Breasted-Red-Game Harrison Weir.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "Combattant anglais ancien carlisle 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "Combattant anglais ancien carlisle.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "Combattant anglais ancien doré.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "Combattant anglais ancien noir dos laiton 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-pheasant-fowl",
+    "file": "Old English Pheasant Fowl.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "Gold Onagadori.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "Black Breasted Red Onagadori.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "Chicken collection - Food and Agriculture Museum - Setagaya, Tokyo, Japan - DSC09724.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "Goldhalsiger Onagadorihahn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "KITLV A955 - Haan in Japan, KITLV 107916.tiff",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "Onagadori (white, brown, hen, chicks) from Kōchi Pref., Japan. circa 1923.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "onagadori",
+    "file": "Onagadori from Kōchi Pref., Japan and researchers from France. circa 1923.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "orloff.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "Orloff Hahn rotbunt 2022.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "Orloff Hähne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "Poule orloff 2020.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "Poule Orloff tricolore acajou (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "Poule orloff.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "Russian Orloff in winter.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "Buff Orpington chicken, UK.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "-2021-08-05 Two Buff Orpington chickens, Trimingham, Norfolk.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "A Buff Orpington Hen in Sunlight.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "Asleep at the Wheel.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "Black Orpington 1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "Blue Splash Maran chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orpington-chicken",
+    "file": "Buff Orpington hen with chicks.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ostfriesische-m-we",
+    "file": "Groninger_Meeuw_Goudpel_Hen.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ostfriesische-m-we",
+    "file": "Poule Mouette de la frise orientale argenté.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ostfriesische-m-we",
+    "file": "Tab45 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "Gallo di Padovana.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "11-2-32, exposition d'aviculture, coqs et poules (de races) Padoue (et) Hollandais (Parc des expositions) - btv1b53252314b.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "20200313Paduaner1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "20200313Paduaner2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "20210323Paduaner1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "20210323Paduaner2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "padovana-chicken",
+    "file": "Anatoly.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "pekin-bantam.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "Bantam hen with two chicks.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "Bantam hens and chicks.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "Beautifull big cockerel (5752263978).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "Beijing bantam - Food and Agriculture Museum - Setagaya, Tokyo, Japan - DSC09706.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "Buff pekin.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "Cochin miniatura (rasa kur) u6.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "penedesenca",
+    "file": "Galls del Penedès.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "penedesenca",
+    "file": "Fira del Gall, Vilafranca del Penedes (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "penedesenca",
+    "file": "Fira del Gall, Vilafranca del Penedes.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "penedesenca",
+    "file": "Gall Negre del Penedés (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "penedesenca",
+    "file": "Gall Negre del Penedés.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Phoenix_rooster_and_hen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Phoenix rooster and hen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Phoenix rooster at fair.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Phoenix1 (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Phoenix1.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Red shouldered blue phoenix cock (Gyeongju Bird Park) (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "phoenix-chicken",
+    "file": "Red shouldered blue phoenix cock (Gyeongju Bird Park) (1, cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pita-pinta-asturiana",
+    "file": "2602 Pitapinta.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pita-pinta-asturiana",
+    "file": "Gallina pita pinta asturiana.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pita-pinta-asturiana",
+    "file": "Pitu caleya.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "Sophia and ZsuZsu walking the property.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "2025-10-19 12 17 04 A Barred Plymouth Rock chicken at Terhune Orchards in Lawrence Township, Mercer County, New Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "2025-10-19 12 18 29 A Barred Plymouth Rock chicken at Terhune Orchards in Lawrence Township, Mercer County, New Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "2025-10-19 12 19 57 A Barred Plymouth Rock chicken at Terhune Orchards in Lawrence Township, Mercer County, New Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "2025-10-19 12 20 53 A Barred Plymouth Rock chicken at Terhune Orchards in Lawrence Township, Mercer County, New Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "2025-10-19 12 21 19 A Barred Plymouth Rock chicken at Terhune Orchards in Lawrence Township, Mercer County, New Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "plymouth-rock-chicken",
+    "file": "2025-10-19 12 21 51A A Barred Plymouth Rock chicken at Terhune Orchards in Lawrence Township, Mercer County, New Jersey.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polbar",
+    "file": "Polbar.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "Laced Polish chicken (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "\"Like my hairdo\" - geograph.org.uk - 3185450.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "Baia de Polonesa.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "Black rooster Piazzo 01.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "Buff Laced Polish Chicken (1332872163).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "Buff Laced Polish Chicken (2204360276).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polish-chicken",
+    "file": "Buff Laced Polish Chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "polverara-chicken",
+    "file": "Polverara bianca.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ramelsloher",
+    "file": "Abb 4. Ramelsloher von August Weber Althaldensleben.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ramelsloher",
+    "file": "Dürigen 1886 Ramelsloher.tif",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ramelsloher",
+    "file": "RamelloherHähne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ramelsloher",
+    "file": "Ramelsloher Henne weiß.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ramelsloher",
+    "file": "Ramelsloher.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ramelsloher",
+    "file": "Ramelslohergelb.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "Rhode Island Red cock, cropped.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "-2019-01-29 Rhode Island Red and Dorking chickens, Trimingham.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "Amberbock.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "Backyard heritage chickens eating kitchen food waste.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "Bulletin - Massachusetts Agricultural Experiment Station (1907) (20254718329).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "Country Road-1013322, Dingle Peninsula, Co. Kerry, Ireland.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-red",
+    "file": "Daegu hyanggyo rooster.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-white",
+    "file": "Rhode Island White hen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-white",
+    "file": "RC Rhode Island Whites (22034452891) (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rhode-island-white",
+    "file": "RC Rhode Island Whites (22034452891).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "robusta-lionata",
+    "file": "Gallo_lionata800 (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "robusta-lionata",
+    "file": "Gallo lionata800 (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "robusta-lionata",
+    "file": "Gallo lionata800.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Rosecomb male 1905.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Bantam Hahn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Bantam Henne.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Coq java doré.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Coq Java noir.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Hühnerrassen von Jean Bungartz Ansichtskarte.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rosecomb",
+    "file": "Poule Java noire (1.1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rumpless-game",
+    "file": "Kaulhahn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rumpless-game",
+    "file": "Kaulhuhn2.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "rumpless-game",
+    "file": "Tab46 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "satsumadori",
+    "file": "Satsumadori.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "schweizer-chicken",
+    "file": "Schweizerhuhn2 PSR.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "schweizer-chicken",
+    "file": "Ballenberg poule.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "schweizer-chicken",
+    "file": "Schweizerhuhn1 PSR.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "scots-dumpy",
+    "file": "Dumpies belonging to J. Fairlie, Esq, Wingfield 1853.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "scots-grey",
+    "file": "Scots Grey rooster.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sebright-chicken",
+    "file": "Sebright Gold Doré.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sebright-chicken",
+    "file": "Carnegie Institution of Washington publication (1902-) (20543237201).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sebright-chicken",
+    "file": "Heredity and sex (1913) (14757747396).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sebright-chicken",
+    "file": "Hühnerrassen von Jean Bungartz Ansichtskarte.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sebright-chicken",
+    "file": "Poule Sebright chamois (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sebright-chicken",
+    "file": "Tab53 Hühner (Geflügel-Album, Jean Bungartz, 1885).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "In Fond Memory - Kokoq.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "American Serama cock Azahari01.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "ArtTooDtoo013.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "Fidel a Jerry Schexnayder Traditional Serama 2013.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "Golden bullet.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "Honeyboy.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "serama",
+    "file": "Kluse - Serama + frizzled 01 ies.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Buttercup Chicken1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Buttercup Chicken2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Buttercups (21403454843).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Sicilian Buttercup ad, J. T. Lovett catalog 1918.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Sicilian Buttercup Chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Sicilian Buttercup hen Clark County.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sicilian-buttercup",
+    "file": "Sicilian Buttercup hen macro.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "siciliana-chicken",
+    "file": "Siciliane 029.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "siciliana-chicken",
+    "file": "Gallo razza siciliana 024.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "siciliana-chicken",
+    "file": "Siciliana 014.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "siciliana-chicken",
+    "file": "Siciliane 029 (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "Silky bantam.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "Kura jedwabista (silkie) 55.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "- panoramio - landagent (9).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "1 Chicken on a cage 1 chicken is up the cage.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "2019. Донецк IMG 20190428 135915.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 69.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silkie-chicken-breed",
+    "file": "64.Okresní výstava králíků, holubů a drůbeže 71.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silverudd-blue",
+    "file": "Silveruddsblå hen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silverudd-blue",
+    "file": "Isbareier.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silverudd-blue",
+    "file": "Silverudd blue young hens.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silverudd-blue",
+    "file": "Silverudds Blå Hahn blau.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silverudd-blue",
+    "file": "Silverudds blå ägg.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "silverudd-blue",
+    "file": "Splashhahn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sombor-kaporka",
+    "file": "Sombor kaporka (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sombor-kaporka",
+    "file": "Sombor kaporka hen.png",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sombor-kaporka",
+    "file": "Sombor kaporka.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sombor-kaporka",
+    "file": "Somborska kaprka .jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "stara-zagora-red",
+    "file": "Червена Старозагорска кокошка.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Sulmtaler_015_neu.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Dalheim - 2026-08-29 - Hühner, Sulmtaler (DSC00932).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Dalheim - 2026-08-29 - Hühner, Sulmtaler (DSC00933).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Dalheim - 2026-08-29 - Hühner, Sulmtaler (DSC00942).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Dalheim - 2026-08-29 - Hühner, Sulmtaler (DSC00943).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Dalheim - 2026-08-29 - Hühner, Sulmtaler (DSC00947).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sulmtaler",
+    "file": "Dalheim - 2026-08-29 - Hühner, Sulmtaler (DSC00952).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sultan-chicken",
+    "file": "A White Sultan (chicken).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sultan-chicken",
+    "file": "Kogut..JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sultan-chicken",
+    "file": "Sultan cock (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Ayam sumatra.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Ayam black sumatra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Blauwe sumatra (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Blauwe sumatra haan.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Blauwe sumatra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Splash Sumatra.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sumatra-chicken",
+    "file": "Sumatra haan.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "Light sussex hen.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "2016 - Chateau de Beaumesnil - Poules Sussex.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "Buff Sussex (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "Buff Sussex.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "Kura domowa DSC08721.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "Poule Sussex argenté naine.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "sussex-chicken",
+    "file": "Poule Sussex rouge.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Schwedisches Blumenhuhn, Henne.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Dalheim - 2026-08-29 - Hühner, Schwedisches Blumenhuhn (DSC00934).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Dalheim - 2026-08-29 - Hühner, Schwedisches Blumenhuhn (DSC00937).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Dalheim - 2026-08-29 - Hühner, Schwedisches Blumenhuhn (DSC00944).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Dalheim - 2026-08-29 - Hühner, Schwedisches Blumenhuhn (DSC00951).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Kluse - Swedish Flower Hen rooster 01 ies.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "swedish-flower-hen",
+    "file": "Kluse - Swedish Flower Hen rooster 02 ies.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "taiwanese-game",
+    "file": "Saipan Jungle Fowl Female.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "taiwanese-game",
+    "file": "Saipan Jungle Fowl Male.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "thai-game",
+    "file": "Cocks in separate cages, Thailand.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "thai-game",
+    "file": "Fighting Cock of Thailand.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "thai-game",
+    "file": "Life of chicken.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "thai-game",
+    "file": "Thai Game chicken - black.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "thai-game",
+    "file": "Thai Game chicken - red 1.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "thai-game",
+    "file": "Thai Game chicken - red 2.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "tomaru",
+    "file": "Tomaru Roosendaal 2016.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "umavanka",
+    "file": "Šumava chicken cockerel.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "umavanka",
+    "file": "Šumava chicken cockerel 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "umavanka",
+    "file": "Šumava chicken cockerel 3.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "utrerana",
+    "file": "Gallina utrerana 3.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "utrerana",
+    "file": "Gallina de Utrera (cropped).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "utrerana",
+    "file": "Gallina de Utrera.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "utrerana",
+    "file": "Gallina utrerana.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 10.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 11.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 12.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 13.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 14.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 15.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarnese",
+    "file": "Valdarnese Bianca 16.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Gallo valdarno.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Gallina Valdarno 2009.JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Gallina Valdarno.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Pollo Valdarno 10.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Pollo Valdarno 11.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Pollo Valdarno 12.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "valdarno-chicken",
+    "file": "Pollo Valdarno 13.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "vorwerk.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "Coq vorwerk.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "Feder 004 2023 04 24.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "Poule vorwerk SIA.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "Poule Vorwerk à dessin noir GR (1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "Poule Vorwerk à dessin noir naine.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "vorwerk-chicken",
+    "file": "Poule vorwerk.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "welsummer.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "Coq welsumer.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "Poule Welsumer doré rouillé.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "Poule Welsumer saumon doré clair rouillé (1.1).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "Poule Welsumer saumon doré clair rouillé GR (2).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "Poule Welsumer saumon doré rouillé naine.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "Poule Welsumer saumon-doré rouillé naine.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "westf-lischer-totleger",
+    "file": "Clp Huhn.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "westf-lischer-totleger",
+    "file": "Westfälischer Totleger (Silber).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "westf-lischer-totleger",
+    "file": "Wilhelma Westfälischer Totleger.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "White-faced-black-spanish.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "Libro Spagnola Faccia Bianca1.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "Libro Spagnola Faccia Bianca2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "Libro Spagnola Faccia Bianca4.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "Libro Spagnola Faccia Bianca7.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "Spagnola faccia bianca standard 2.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "white-faced-black-spanish",
+    "file": "Spanierhuhn (cropped).JPG",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "Silver-laced Wyandotte rooster (cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "De-Wyandotte.ogg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "De-Wyandotte2.ogg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "De-Wyandotte3.ogg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "11-2-32, exposition d'aviculture (poules de race) Wyandotte (Parc des expositions) - btv1b53252315s.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "Coq Wyandotte ALN.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "wyandotte-chicken",
+    "file": "GLWhen.jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "yokohama.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49813974421).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49814283012).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49816120858).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49816651791).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49816962452).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "yokohama-chicken",
+    "file": "2017-07-02 AT Wien 13 Hietzing, Tiergarten Schönbrunn, Gallus gallus domesticus (?) (49816962727).jpg",
+    "role": "gallery"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "alfalfa",
+    "file": "75_Medicago_sativa_L.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "almonds",
+    "file": "Almonds_-_in_shell,_shell_cracked_open,_shelled,_blanched.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "apples",
+    "file": "Pink_lady_and_cross_section.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "apricots",
+    "file": "Apricot_and_cross_section.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "arugula",
+    "file": "Eruca_sativa_sl11.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "avocado",
+    "file": "Persea_americana_fruit_2.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "bacon",
+    "file": "Made20bacon.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "baked-beans",
+    "file": "Baked_beans_in_tomato_sauce.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "bananas",
+    "file": "Bananavarieties.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "barley",
+    "file": "Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "basil",
+    "file": "Ocimum_basilicum_8zz.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "beef",
+    "file": "Standing-rib-roast.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "beets",
+    "file": "Detroitdarkredbeets.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "bell-peppers",
+    "file": "Green-Yellow-Red-Pepper-2009.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "bird-seed",
+    "file": "Bird_seed_mixture_in_feeder.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "black-soldier-fly-larvae",
+    "file": "Hermetia_illucens_MHNT_Fronton.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "blackberries",
+    "file": "Ripe,_ripening,_and_green_blackberries.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "blueberries",
+    "file": "Blueberries.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "bok-choy",
+    "file": "Bok_Choy_(49553125456).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "bread",
+    "file": "Korb_mit_Brötchen.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "broccoli",
+    "file": "Broccoli_and_cross_section_edit.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "brussels-sprouts",
+    "file": "Brussels_sprout_closeup.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "buckwheat",
+    "file": "Japanese_Buckwheat_Flower.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cabbage",
+    "file": "Cabbage_and_cross_section_on_white.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cake",
+    "file": "Pound_layer_cake.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "candy",
+    "file": "Candy_in_Damascus.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cantaloupe",
+    "file": "Meloen_vrucht_met_bloem.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "carrots",
+    "file": "Vegetable-Carrot-Bundle-wStalks.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cashews",
+    "file": "Cashew_apples.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cassava",
+    "file": "Manihot_esculenta_-_Köhler–s_Medizinal-Pflanzen-090.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cat-food",
+    "file": "Gastrointestinal_Haiball_cat_dry_food_(Royal_Canin).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cauliflower",
+    "file": "Chou-fleur_02.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "celery",
+    "file": "Celery_1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cereal",
+    "file": "Les_Plantes_Cultivades._Cereals._Imatge_119.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cheerios",
+    "file": "Cheerios_with_Happy_Heart_Shapes.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cheese",
+    "file": "Cheese_platter.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cherries",
+    "file": "Cherry_season_(48216568227).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chia-seeds",
+    "file": "Seed_of_chia_(Salvia_hispanica)Salvia_hispanica_group.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chicken",
+    "file": "Chickens_in_market.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chickpeas",
+    "file": "Chickpea_BNC.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chickweed",
+    "file": "Kaldari_Stellaria_media_01.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chips",
+    "file": "Potato-Chips.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chives",
+    "file": "Allium_schoenoprasum_-_Bombus_lapidarius_-_Tootsi.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "chocolate",
+    "file": "Three_Bars_(1).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cilantro",
+    "file": "Coriandrum_sativum_-_Köhler–s_Medizinal-Pflanzen-193.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "clover",
+    "file": "79_Trifolium_repens_L.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cockroaches",
+    "file": "Snodgrass_common_household_roaches.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "coconut",
+    "file": "Cocos_nucifera_-_Köhler–s_Medizinal-Pflanzen-187.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "coffee",
+    "file": "Latte_and_dark_coffee.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "collard-greens",
+    "file": "Collard-Greens-Bundle.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "comfrey",
+    "file": "Symphytum_caucasicum_-_Curtis.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cookies",
+    "file": "ChocChip.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "corn",
+    "file": "Zea_mays_-_Köhler–s_Medizinal-Pflanzen-283.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cottage-cheese",
+    "file": "Cottagecheese200px.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cranberries",
+    "file": "Cranberry_bog.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "crickets",
+    "file": "Gryllus_campestris_MHNT.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "cucumbers",
+    "file": "ARS_cucumber.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "dandelions",
+    "file": "DandelionFlower.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "dill",
+    "file": "Illustration_Anethum_graveolens_clean.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "dog-food",
+    "file": "Dog_food_in_a_bowl.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "dragon-fruit",
+    "file": "Pitaya_cross_section_ed2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "duck-feed",
+    "file": "Chickens_feeding.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "duckweed",
+    "file": "Duckweeds.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "edamame",
+    "file": "Edamame_by_Zesmerelda_in_Chicago.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "eggplant",
+    "file": "Solanum_melongena_24_08_2012_(1).JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "eggshells",
+    "file": "Egg-rmh.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "elderberries",
+    "file": "Sambucus-berries.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "fennel",
+    "file": "Foeniculum_July_2011-1a.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "figs",
+    "file": "Ficus_carica_L,_1771.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "fish",
+    "file": "Balantiocheilos_melanopterus_-_Karlsruhe_Zoo_02_(cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "flaxseed",
+    "file": "Köhler's_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erläuterndem_Texte_(Plate_16)_BHL303594.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "french-fries",
+    "file": "French_Fries.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "garlic",
+    "file": "Allium_sativum_Woodwill_1793.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "grapefruit",
+    "file": "Grapefruits_-_whole-halved-segments.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "grapes",
+    "file": "Grapes,_Rostov-on-Don,_Russia.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "grass",
+    "file": "Poa_annua.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "grasshoppers",
+    "file": "American_Bird_Grasshopper.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "green-beans",
+    "file": "Heaps_of_beans.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "ham",
+    "file": "Ham_(4).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "hay",
+    "file": "Roundbale1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "hazelnuts",
+    "file": "Hazelnuts_(Corylus_avellana)_-_whole_with_kernels.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "honey",
+    "file": "Runny_hunny.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "honeydew",
+    "file": "Honeydew.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "hot-dogs",
+    "file": "Hot_dog_with_mustard.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "jalapenos",
+    "file": "Immature_jalapeno_capsicum_annuum_var_annuum.jpeg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "japanese-beetles",
+    "file": "Popillia_japonica.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "kale",
+    "file": "Boerenkool.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "kelp",
+    "file": "Kelp_In_Freycinet_Tasmania.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "kidney-beans",
+    "file": "Red_Rajma_BNC.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "kohlrabi",
+    "file": "Brassica_oleracea_var._gongylodes_(kohlrabi).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "lavender",
+    "file": "Single_lavender_flower02.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "leeks",
+    "file": "Leek_on_white_background_-_0947.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "lemons",
+    "file": "P1030323.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "lentils",
+    "file": "3_types_of_lentil.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "lettuce",
+    "file": "Iceberg_lettuce_in_SB.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "lima-beans",
+    "file": "Phaseoulus_lunatus.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "lychee",
+    "file": "Litchi_chinensis_fruits.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "mac-and-cheese",
+    "file": "Original_Mac_n_Cheese_.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "mango",
+    "file": "Mangos_-_single_and_halved.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "marshmallows",
+    "file": "White_Marshmallows.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "mealworms",
+    "file": "Tenebrio_molitor_Linné,_1758_(32842137535).png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "milk",
+    "file": "Glass_of_Milk_(33657535532).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "millet",
+    "file": "Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "mulberries",
+    "file": "Mulberries_on_tree_1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "mushrooms",
+    "file": "Sparrige_Schüppling_(Pholiota_squarrosa).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "nectarines",
+    "file": "Illustration_Prunus_persica_clean_no_descr.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "oats",
+    "file": "AvenaSativa3.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "okra",
+    "file": "Hong_Kong_Okra_Aug_25_2012.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "olives",
+    "file": "Olivesfromjordan.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "onions",
+    "file": "Mixed_onions.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "oranges",
+    "file": "Oranges_-_whole-halved-segment.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "oregano",
+    "file": "Origanum_vulgare_-_harilik_pune.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pancakes",
+    "file": "Foodiesfeed.com_pouring-honey-on-pancakes-with-walnuts.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "papaya",
+    "file": "Carica_papaya_-_Köhler–s_Medizinal-Pflanzen-029.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "parsley",
+    "file": "Petroselinum.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "parsnips",
+    "file": "Pastinaca_sativa_MHNT.BOT.2004.0.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pasta",
+    "file": "(Pasta)_by_David_Adam_Kess_(pic.2).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "peaches",
+    "file": "Illustration_Prunus_persica_clean_no_descr.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "peanut-butter",
+    "file": "2020-03-24_20_57_22_An_open_jar_of_Skippy_Creamy_Peanut_Butter_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pears",
+    "file": "Pears.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "peas",
+    "file": "Peas_in_pods_-_Studio.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pecans",
+    "file": "Carya_illinoinensis.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "persimmon",
+    "file": "Fuyu_persimmon_fruits,_one_cut_open.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pineapple",
+    "file": "കൈതച്ചക്ക.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pinto-beans",
+    "file": "Pinto_Beans_Seeds.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pistachios",
+    "file": "Pistachio_vera.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pizza",
+    "file": "Pizza-3007395.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "plums",
+    "file": "Plums_African_Rose_-_whole,_halved_and_slice.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pomegranate",
+    "file": "Pomegranate_Juice_(2019).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "popcorn",
+    "file": "Popcorn_-_Studio_-_2011.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pork",
+    "file": "Schweinebauch-2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "potatoes",
+    "file": "Patates.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pumpkin",
+    "file": "FrenchMarketPumpkinsB.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "quinoa",
+    "file": "Reismelde.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "radishes",
+    "file": "Radish_3371103037_4ab07db0bf_o.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "raisins",
+    "file": "Raisins_01.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "raspberries",
+    "file": "Raspberry_-_halved_(Rubus_idaeus).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "refried-beans",
+    "file": "Frijoles_refritos.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "rhubarb",
+    "file": "Rheum_rhabarbarum.2006-04-27.uellue.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "rice",
+    "file": "20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "rosemary",
+    "file": "Rosemary_in_bloom.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "rutabaga",
+    "file": "Rutabaga,_variety_nadmorska.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "salmon",
+    "file": "Salmo_salar.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "salt",
+    "file": "Rock_salt_(halitite)_(Billianwala_Salt_Member,_Salt_Range_Formation,_Ediacaran_to_Lower_Cambrian;_Khewra_Salt_Mine,_Salt_Range,_Pakistan)_14.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "shrimp",
+    "file": "Palaemon_serratus_Croazia.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "slugs-and-snails",
+    "file": "Gastropod_collage.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "soybeans",
+    "file": "Soybean.USDA.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "spinach",
+    "file": "Spinacia_oleracea_Spinazie_bloeiend.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "star-fruit",
+    "file": "Averrhoa_carambola_ARS_k5735-7.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "strawberries",
+    "file": "Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "sunflower-seeds",
+    "file": "Sunflower_Seeds_Kaldari.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "sweet-potatoes",
+    "file": "Ipomoea_batatas_006.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "swiss-chard",
+    "file": "Chard_(Beta_vulgaris_var_cicla).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "tangerines",
+    "file": "TangerineFruit.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "tea",
+    "file": "Longjing_tea_steeping_in_gaiwan.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "thyme",
+    "file": "Thyme-Bundle.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "ticks",
+    "file": "Ixodus_ricinus_5x.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "tofu",
+    "file": "Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "tomatoes",
+    "file": "Tomato_je.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "tortillas",
+    "file": "Stacks_of_corn_tortillas_and_flour_tortillas,_with_the_top_one_rolled,_side_view_(2).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "tuna",
+    "file": "Tuna_assortment.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "turnips",
+    "file": "Turnip_2622027.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "walnuts",
+    "file": "Walnuts_-_whole_and_open_with_halved_kernel.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "watercress",
+    "file": "Watercress_(2).JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "watermelon",
+    "file": "Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "wheat",
+    "file": "Vehnäpelto_6.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "worms",
+    "file": "Eisenia_foetida_R.H._(8).JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "yogurt",
+    "file": "Joghurt.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "zucchini",
+    "file": "CSA-Striped-Zucchini.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "badger",
+    "file": "European_badger_(Meles_meles_taxus)_Drenthe.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "bears",
+    "file": "Ours_brun_parcanimalierpyrenees_1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "bobcat",
+    "file": "Bobcat_at_Columbus_Zoo_Boo.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "coyote",
+    "file": "2009-Coyote-Yosemite.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "dogs",
+    "file": "Huskiesatrest.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "eagles",
+    "file": "Eagles_together.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "fox",
+    "file": "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "hawks",
+    "file": "Northern_Goshawk_ad_M2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "hedgehogs",
+    "file": "Igel.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "mink",
+    "file": "American_Mink.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "opossum",
+    "file": "Didelphis_virginiana_with_young.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "raccoon",
+    "file": "Raccoon_in_Central_Park_(35264).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "rats",
+    "file": "Brown_Rat_(Rattus_norvegicus).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "snakes",
+    "file": "Trimeresurus_sabahi_fucatus,_Banded_pit_viper_-_Takua_Pa_District,_Phang-nga_Province_(46710893582).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "weasel",
+    "file": "Mustela_nivalis_-British_Wildlife_Centre-4.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "autumn-crocus",
+    "file": "Illustration_Colchicum_autumnale0.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "avocado-tree",
+    "file": "Persea_americana_fruit_2.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "bittersweet-nightshade",
+    "file": "Solanum_dulcamara_(5386574212).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "black-locust",
+    "file": "Robina9146.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "black-nightshade",
+    "file": "Starr_010520-0074_Solanum_americanum.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "boxwood",
+    "file": "Buxus_sempervirens.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "bracken-fern",
+    "file": "Pteridium_aquilinum_nf.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "buttercups",
+    "file": "Ranunculus_eschscholtzii.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "castor-bean",
+    "file": "Ricinus_March_2010-1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "cherry-laurel",
+    "file": "Prunus_virginiana0.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "clematis",
+    "file": "Clematis_'Nelly_Moser'.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "cocklebur",
+    "file": "Xanthium_strumarium_2026_G1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "coffee-senna",
+    "file": "(MHNT)_Senna_occidentalis_-_Habit_-_Les_Martels,_Giroussens_Tarn.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "corn-cockle",
+    "file": "Kornrade2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "daffodil",
+    "file": "Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "daphne",
+    "file": "Apollo_and_Daphne,_fresco_from_Pompeii.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "deadly-nightshade",
+    "file": "Atropa_belladonna_(16627871072).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "english-ivy",
+    "file": "Hedera_helix_Dover.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "foxglove",
+    "file": "Digitalis_purpurea2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "hounds-tongue",
+    "file": "CynoglossumOfficinale-bloem-kl.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "hyacinth",
+    "file": "Hyacinth_-_Anglesey_Abbey.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "jimsonweed",
+    "file": "Datura_stramonium_2_(2005_07_07).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "laburnum",
+    "file": "Laburnum_anagyroides2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "lantana",
+    "file": "LantanaFlowerLeaves.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "lily-of-the-valley",
+    "file": "Convallaria_majalis_inflorescence_-_Keila.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "lupins",
+    "file": "Lupinus_polyphyllus_526960203.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "milkweed",
+    "file": "Danaus_plexippus_on_Asclepias_incarnata_4999.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "monkshood",
+    "file": "Aconitum_variegatum_110807f.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "morning-glory",
+    "file": "Ipomoea_tricolor_'Heavenly_Blue'.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "mountain-laurel",
+    "file": "Kalmia_Latifolia.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "oak",
+    "file": "Quercus_robur.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "oleander",
+    "file": "Nerium_oleander_flowers_leaves.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "pieris",
+    "file": "Pieris_japonica_10.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "poison-hemlock",
+    "file": "Conium.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "pokeweed",
+    "file": "Phytolacca_acinosa.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "potato-plant",
+    "file": "Patates.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "privet",
+    "file": "Schurenbachhalde_11_ies.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "rosary-pea",
+    "file": "Abrus_precatorius_pods.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "sweet-pea",
+    "file": "Sweet_Pea-7.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "tobacco",
+    "file": "Ripe_tobacco_leaf_3037.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "tomato-plant",
+    "file": "Tomato_je.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "tulip",
+    "file": "צבעונים.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "water-hemlock",
+    "file": "Illustration_Cicuta_virosa0.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "wisteria",
+    "file": "Chinese_Wisteria_Blütentrauben.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "yew",
+    "file": "Taxaceae_taxonomic_diagram_2.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "alfalfa",
+    "file": "75_Medicago_sativa_L.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "amaranth",
+    "file": "Amaranthus_tricolor0.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "basil",
+    "file": "Ocimum_basilicum_8zz.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "borage",
+    "file": "Borago_officinalis_(2025).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "calendula",
+    "file": "Calendula_officinalis,_pot_marigold.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "chickweed",
+    "file": "Kaldari_Stellaria_media_01.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "chicory",
+    "file": "Illustration_Cichorium_intybus0_clean.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "cilantro",
+    "file": "Coriandrum_sativum_-_Köhler–s_Medizinal-Pflanzen-193.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "cleavers",
+    "file": "Galium_aparine_Lincolnshire_2024.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "dandelion",
+    "file": "DandelionFlower.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "dead-nettle",
+    "file": "Lamium_purpureum_-_Tutermaa.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "dill",
+    "file": "Illustration_Anethum_graveolens_clean.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "duckweed",
+    "file": "Duckweeds.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "fennel",
+    "file": "Foeniculum_July_2011-1a.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "henbit",
+    "file": "Lamium_amplexicaule_(52878370216).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "kale",
+    "file": "Boerenkool.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "lambs-quarters",
+    "file": "Melganzenvoet_bloeiwijze_Chenopodium_album.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "lemon-balm",
+    "file": "Lemon_balm_plant.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "mustard-greens",
+    "file": "Brassica_juncea_-_Köhler–s_Medizinal-Pflanzen-168.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "nasturtium",
+    "file": "Tropaeolum_majus_2005_G1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "oregano",
+    "file": "Origanum_vulgare_-_harilik_pune.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "parsley",
+    "file": "Petroselinum.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "plantain-broadleaf",
+    "file": "Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "plantain-ribwort",
+    "file": "Ribwort_600.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "purslane",
+    "file": "Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "red-clover",
+    "file": "Trifolium_pratense_-_Keila2.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "shepherds-purse",
+    "file": "A_Field_of_Shepherd’s-purse.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "sow-thistle",
+    "file": "Sow_Thistle.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "stinging-nettle",
+    "file": "Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "sunflower",
+    "file": "Sunflower_sky_backdrop.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "swiss-chard",
+    "file": "Chard_(Beta_vulgaris_var_cicla).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "thyme",
+    "file": "Thyme-Bundle.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "violet",
+    "file": "Viola_reichenbachiana_LC0128.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "white-clover",
+    "file": "Trifolium_repens_-_white_clover_on_way_from_Govindghat_to_Gangria_at_Valley_of_Flowers_National_Park_-_during_LGFC_-_VOF_2019_(1).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "wild-strawberry",
+    "file": "Illustration_Fragaria_vesca0.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "yarrow",
+    "file": "Achillea_millefolium_(bright).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "1984-rajneeshee-bioterror-attack",
+    "file": "DallesRestaurantsCombined.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "2008-united-states-salmonellosis-outbreak",
+    "file": "CDC_tomato_map3.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "2018-american-salmonella-outbreak",
+    "file": "Big-map-4-4-18.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "airsacculitis",
+    "file": "Airsacs-bird.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "animal-health-and-welfare-act-1984",
+    "file": "Royal_coat_of_arms_of_the_United_Kingdom_(1952–2022,_variant_1).svg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "ascaridia-galli",
+    "file": "Ascaridia_galli.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "aspergillosis",
+    "file": "Pulmonary_aspergillosis_(1)_invasive_type.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "avian-influenza",
+    "file": "H1N1_navbox.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "avian-metaavulavirus-2",
+    "file": "Indian_Turkey.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "avian-veterinarian",
+    "file": "A_wounded_bald_eagle_receiving_follow-up_treatment_by_University_of_Tennessee_Veterinary_Hospital._(16380229252).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "botulism",
+    "file": "Botulism1and2.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "campylobacteriosis",
+    "file": "Campylobacteriosis.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "chicken-anemia-virus",
+    "file": "Chicken_anemia_virus.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "dermanyssus-gallinae",
+    "file": "Dermanyssus_cfr_gallinae_(5021757436).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "duck-hepatitis-b-virus",
+    "file": "DHBV_epsilon.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "duck-plague",
+    "file": "Duck_plague_victim.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "egg-binding",
+    "file": "Legenot-Schildkroete.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "egg-drop-syndrome",
+    "file": "EDS_egg_abnormalities.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "eimeria",
+    "file": "Parasite210097_-_Fig1_-_Eimeria_spp._ex_Moschus_berezovskii.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "fatty-liver-hemorrhagic-syndrome",
+    "file": "Chicken_-_melbourne_show_2005.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "fowlpox",
+    "file": "Fowlpox.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "gallid-herpesvirus-1",
+    "file": "GaHV1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "gapeworm",
+    "file": "Gapeworms.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "haemoproteus",
+    "file": "Parasite130049_Haemoproteus_syrnii_-fig1.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "histomoniasis",
+    "file": "Histomoniasis.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "hock-burns",
+    "file": "Foot_pad_dermatitis_and_hock_burns_on_a_broiler_chicken.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "infectious-bronchitis-virus",
+    "file": "Brontchite_oûs4.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "infectious-bursal-disease",
+    "file": "Boursite_houzêye_boûsse.JPG",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "infectious-coryza-in-chickens",
+    "file": "DSCF0023a_(4012114905).jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "leucocytozoon",
+    "file": "Leucocytozoon_smithi.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "mardivirus",
+    "file": "Maladeye_Marek_pate_toirdaedje_doet.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "ornidazole",
+    "file": "Ornidazole.svg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "ornithonyssus-sylviarum",
+    "file": "Vogelmilbe.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "paratyphoid-fever",
+    "file": "Salmonella_typhi_typhoid_fever_PHIL_2215_lores.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "plasmodium-gallinaceum",
+    "file": "Malaria_Plasmodium_gallinaceum.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "psittacosis",
+    "file": "Chlamydophila_psittaci_FA_stain.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "salmonellosis",
+    "file": "SalmonellaNIAID.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "tibial-dyschondroplasia",
+    "file": "Tibial_dyschondroplasia_in_chicken.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "toxoplasmosis",
+    "file": "Toxoplasma_gondii_tachy.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "tremovirus",
+    "file": "Ecefali-miyôlite_des_poyons_3_crevés.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "trichobilharzia-regenti",
+    "file": "Trichobilharzia.regenti.cercaria.DIC.png",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "verruconis-gallopava",
+    "file": "Ochroconis_gallopava.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "viral-arthritis-poultry",
+    "file": "Djonturite_virûsse_poyes.jpg",
+    "role": "main"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "virulent-newcastle-disease",
+    "file": "CSIRO_ScienceImage_325_The_Poultry_Killing_Newcastle_Disease.jpg",
+    "role": "main"
+  }
+]
