@@ -1,0 +1,56 @@
+{
+  "id": "empordanesa",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "dark terracotta to chocolate brown",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 1.8,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 2.5,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "heat_tolerant": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Spain",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "unusual carnation/king comb: single in front with multiple lobes at the rear resembling a crown",
+          "well suited to hot Mediterranean climates"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Empordanesa is a Mediterranean egg breed from Catalonia, Spain, bred for hot-climate hardiness and known for laying unusually dark, terracotta-to-chocolate-brown eggs.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

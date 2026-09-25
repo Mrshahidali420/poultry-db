@@ -1,0 +1,56 @@
+{
+  "id": "showgirl",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "tinted/cream",
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "ornamental",
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "yes",
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "feathered_legs": [
+      {
+        "value": true,
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "crest": [
+      {
+        "value": true,
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "a naked-neck Silkie: has Silkie plumage, fifth toe and feathered feet, but a bare, feather-free neck inherited from Naked Neck/Turken ancestry",
+          "bred mainly for exhibition and as a pet/ornamental breed, not for production"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Showgirl was developed in the United States by crossing Silkie chickens with Naked Neck (Turken) chickens to combine the Silkie's fluffy plumage and extra toe with a bare neck, creating a distinctive exhibition and pet breed.",
+        "source_url": "https://en.wikipedia.org/wiki/Silkie"
+      }
+    ]
+  }
+}

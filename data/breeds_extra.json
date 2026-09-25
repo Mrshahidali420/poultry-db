@@ -1,5 +1,106 @@
 [
   {
+    "id": "55-flowery-hen",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": "large",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "cream",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Sweden",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "1955",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "developed by Martin Silverudd, his first and most successful autosexing breed",
+        "day-old males show blonde down on the back of the head",
+        "adult males are largely white; females show a spotted 'flowery' pattern"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The 55 Flowery Hen was created in Sweden in 1955 by Father Martin Silverudd as an autosexing breed producing commercial quantities of large, round, cream-colored eggs.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "alsacienne",
     "eggs_per_year_min": {
       "value": null,
@@ -2462,6 +2563,107 @@
     }
   },
   {
+    "id": "barbezieux",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "meat",
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 3.6,
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 4.5,
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "France",
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "recreated 1980-1985 from an older regional breed",
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "one of the tallest chicken breeds native to Europe",
+        "iridescent beetle-black plumage, oversized comb and wattles, white skin and blue legs",
+        "meat has a reputation for a gamey flavor and is protected under a regional quality label"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Barbezieux is a French breed considered rare, recreated by four breeders between 1980 and 1985 after near-disappearance. It is raised mainly in its region of origin around Barbezieux under the 'Poulet de race Barbezieux' quality label, prized for firm, gamey meat.",
+      "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "barbu-danvers",
     "eggs_per_year_min": {
       "value": null,
@@ -3310,6 +3512,115 @@
     "history_summary": {
       "value": "The breed formed in the Barneveld area of the Netherlands from crosses of local farmyard chickens with imported Asian stock such as Brahma, Cochin and Croad Langshan from the 1850s onward. It was named and shown from 1911, standardised in the 1920s, and later exported to Britain for its brown egg production.",
       "source_url": "https://en.wikipedia.org/wiki/Barnevelder",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "basque-hen",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 220,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": "large",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "friendly",
+        "hardy",
+        "good forager"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [
+        "Beltza (black)",
+        "Gorria (red)",
+        "Lepasoila (naked-necked, red-brown)",
+        "Marraduna (golden cuckoo)",
+        "Zilarra (black-tailed white)"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "France/Spain",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "yellow legs, feet and skin, bright red single comb",
+        "roosters can reach 9 lb (about 4 kg)",
+        "very friendly, tolerates handling well"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Basque hen comes from the Basque region spanning southern France and northern Spain, a hardy dual-purpose bird found in five color varieties and increasingly popular with homesteaders in North America for its foraging ability and friendly temperament.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -4164,6 +4475,104 @@
     "history_summary": {
       "value": "This traditional dual-purpose breed from Piemonte, Italy, declined sharply in the 1960s as farming intensified since it needs free-range conditions. A recovery program began in 1999 and a formal breed standard followed in 2007, though total numbers remain modest.",
       "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "black-sex-link",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 280,
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": "calm, productive layer",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "also called Black Star",
+        "typically a cross of a Rhode Island Red (or other non-white, non-barred) rooster onto a Barred Plymouth Rock hen, which carries both extended-black and barring genes",
+        "chicks are sex-linked: color at hatching differs by sex, so pullets and cockerels can be told apart immediately"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "Black sex-links are crossbred hybrids bred so that chick down color is linked to sex, removing the need to vent-sex chicks. The cross combines heterosis (hybrid vigor) from two purebred lines into a heavy brown-egg layer.",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
       "origin": "extract"
     }
   },
@@ -5116,6 +5525,117 @@
     }
   },
   {
+    "id": "brakel",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 180,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "hardy",
+        "active",
+        "alert",
+        "good flier"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": "low",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [
+        "silver",
+        "gold"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Belgium",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "history traced to 1416; revived from 1971",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "considered the same breed as the Campine until distinguished in 1884",
+        "nearly extinct by the 1960s; revived from just 2 hens, 2 roosters and a dozen eggs starting in 1971"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Brakel dates back to 1416 in the Flanders region spanning northern France, Belgium and Holland. Its population collapsed after both World Wars, and the breed was rebuilt from a handful of surviving birds beginning in 1971.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "branca-chicken",
     "eggs_per_year_min": {
       "value": null,
@@ -5560,6 +6080,110 @@
     }
   },
   {
+    "id": "brussbar",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [
+        "gold (only surviving variety)",
+        "silver (historic, no longer found)"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United Kingdom",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "developed early-mid 20th century, standardized 1952",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "developed at Cambridge by Professor Punnett and Mr. Pease to add autosexing to Light Sussex-type utility birds",
+        "distinctive crele plumage: copper and gold body color with barring",
+        "never became popular and barely survived the 1960s"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Brussbar was bred at Cambridge in the early-to-mid 20th century from Brown Sussex and Barred Rock stock crossed with utility Light Sussex, aiming for an autosexing dual-purpose bird. It was standardized in 1952 but never achieved popularity and remains very rare.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "buckeye-chicken",
     "eggs_per_year_min": {
       "value": 150,
@@ -5913,6 +6537,110 @@
     "history_summary": {
       "value": "Developed in the 1930s in Modesto, California by Horace Dryden, who crossed Barred Plymouth Rock and White Leghorn birds to make a dual-purpose, autosexing chicken. It was never recognized by the American Poultry Association and remains a rare breed today.",
       "source_url": "https://en.wikipedia.org/wiki/California_Gray",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "california-grey",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": "large",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": "calm",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 2,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 2.7,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "1930s",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "developed by poultry scientist James Dryden by crossing a Barred Plymouth Rock rooster with a White Leghorn hen",
+        "naturally autosexing, grey barred plumage",
+        "never recognized by the American Poultry Association"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The California Grey was developed in California in the 1930s by James Dryden to be a dual-purpose hen that stayed productive longer than two years. Its Barred Rock x White Leghorn cross gave it naturally autosexed grey barred plumage, but it never gained commercial popularity and is now rare.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -6985,6 +7713,111 @@
     }
   },
   {
+    "id": "crevecoeur",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "crest": {
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    },
+    "origin_country": {
+      "value": "France",
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "origins unknown, among the oldest French breeds; standard accepted 1909",
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "related to the La Fleche and other Norman breeds such as the Caumont and Caux",
+        "won prizes at the 1855 Paris Exposition Universelle",
+        "added to the APA Standard of Perfection in 1874",
+        "nearly disappeared after the Second World War; revival began in 1976"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Crevecoeur is among the oldest French chicken breeds, from the Pays d'Auge in Normandy. It suffered heavy losses in both World Wars and was thought nearly extinct after the second, before Jean-Claude Perriquet began a recovery effort in 1976; it remains a Livestock Conservancy-listed endangered breed.",
+      "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "croad-langshan",
     "eggs_per_year_min": {
       "value": 140,
@@ -7448,6 +8281,214 @@
     "history_summary": {
       "value": "A very old Bohemian breed, first mentioned in 1205 when a flock was given as a wedding gift to the Danish king Valdemar II. It is now considered an endangered breed.",
       "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "dampierre",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": "yes, willing to go broody",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "crest": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_country": {
+      "value": "France",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "created 1996",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "created from Gournay and Crevecoeur genetics to re-create the extinct Normande breed",
+        "black-and-white mottled plumage with a feather crest",
+        "fine white meat and delicate bones"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Dampierre was created in France in 1996 from Gournay and Crevecoeur stock, an attempt to re-create the Normande breed that had gone extinct more than a century earlier. It remains rare and expensive, only beginning to appear in the United States.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "deathlayer",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": "medium",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "active",
+        "likes to roost in trees"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Germany",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "over 400 years old",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "German name Totleger, said to come from hens laying an egg a day until they die",
+        "iridescent black plumage with green and purple sheen, silver hackles, cushion comb and large dark eyes"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Deathlayer (Totleger) is a German breed over 400 years old, once common on German farms and now considered rare. Its name reflects a reputation for hens that keep laying reliably for their entire lives.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -8615,6 +9656,224 @@
     }
   },
   {
+    "id": "easter-egger",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 250,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 280,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": "medium to large",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "any shade of blue, green, olive, pink or brown; one consistent color per hen",
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": "friendly, hardy, active forager",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": "occasional",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "cold_hardy": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "heat_tolerant": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "beginner_friendly": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [
+        "any color; commonly muffed and bearded with a pea comb"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": false,
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "20th century",
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "feathered_legs": {
+      "value": false,
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "crest": {
+      "value": false,
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "hybrid, not a recognized breed under the APA or ABA",
+        "carries the blue-egg (oocyan) gene from Araucana/Ameraucana ancestry",
+        "often sold at feed stores as 'Americana', which is not the same as the true Ameraucana breed"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "Easter Eggers are American hybrids created by breeding a bird carrying the blue-egg gene, descended from Chilean Araucana stock, with brown-egg-laying breeds. They are not recognized as a breed by the American Poultry Association or American Bantam Association, but became popular backyard and hatchery birds for their variable, colorful eggs.",
+      "source_url": "https://en.wikipedia.org/wiki/Easter_egger",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "empordanesa",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "dark terracotta to chocolate brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 1.8,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 2.5,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Spain",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "unusual carnation/king comb: single in front with multiple lobes at the rear resembling a crown",
+        "well suited to hot Mediterranean climates"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Empordanesa is a Mediterranean egg breed from Catalonia, Spain, bred for hot-climate hardiness and known for laying unusually dark, terracotta-to-chocolate-brown eggs.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "ermellinata-di-rovigo",
     "eggs_per_year_min": {
       "value": 170,
@@ -9589,6 +10848,107 @@
     }
   },
   {
+    "id": "gallina-di-saluzzo",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 180,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 1.8,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 2.7,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Italy",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "recovery efforts began 1999",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "white feathers, red comb and wattles, yellow beak and feet",
+        "prized for exceptional meat quality from specific feeding techniques"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Gallina di Saluzzo, meaning 'the white hen of Saluzzo', is a rustic dual-purpose breed from the Piedmont region of Italy, once common on small family farms and nearly lost to intensive agriculture before recovery efforts began in 1999.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "german-langshan",
     "eggs_per_year_min": {
       "value": null,
@@ -9927,6 +11287,103 @@
     "history_summary": {
       "value": "A commercial sex-linked hybrid created by crossing a White Rock or Rhode Island White hen with a New Hampshire Red rooster, originated by the Hubbard hatchery. It is not recognized as a true breed by the American Poultry Association because it is a crossbreed, and while prized for very high egg production, its productive lifespan is short, typically two to three years.",
       "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "gournay",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": "yes",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 2.3,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 3.2,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "France",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "evenly mottled black-and-white feathers, orange eyes, thick beak",
+        "delicate, flavorful meat",
+        "reduced to near-extinction in the World Wars, revived by local enthusiasts in the early 2000s to roughly 15,000 birds"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Gournay is an old breed from Upper Normandy, France, with possible ancestry dating to the Viking era. It nearly went extinct during the World Wars and was revived by dedicated enthusiasts starting in the early 2000s.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -10306,6 +11763,113 @@
     "history_summary": {
       "value": "An old breed of uncertain origin, found in Holland by the fourteenth century and later refined further in England, taking its modern name in the 1840s. Once valued for egg production, it lost favor after the Leghorn arrived around 1890 and today survives mainly as an active, ornamental exhibition breed.",
       "source_url": "https://livestockconservancy.org/hamburg-chicken/",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "holland",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": "medium",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "yes",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [
+        "White",
+        "Barred"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 2.9,
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 3.9,
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "developed 1930s-40s, accepted by APA in 1949",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "developed at Rutgers Breeding Farms in New Jersey to give small farmers a dual-purpose bird that laid white eggs",
+        "White Hollands came from Dutch imports crossed with White Leghorn, Rhode Island Red, New Hampshire and Lamona stock",
+        "considered one of the rarest living American chicken breeds"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Holland was developed at Rutgers Breeding Farms in New Jersey by crossing chickens imported from Holland with White Leghorns, Rhode Island Reds, New Hampshires and Lamonas, producing White and Barred varieties accepted by the APA in 1949. It remains one of the rarest American breeds.",
+      "source_url": "https://en.wikipedia.org/wiki/Holland_chicken",
       "origin": "extract"
     }
   },
@@ -11133,6 +12697,113 @@
     "history_summary": {
       "value": "A commercial sex-linked hybrid developed in 1978 by the French company Institut de Selection Animale for battery egg production, bred from a closely guarded mix of breeds including Rhode Island Red and Rhode Island White stock. It is prized for laying about 300 eggs in its first year, and the company behind it later merged into what became Hendrix Genetics.",
       "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "isbar",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "green, sometimes speckled brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "cold-hardy",
+        "good forager",
+        "friendly",
+        "alert to predators"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Sweden",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "1950s",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "developed by Martin Silverudd",
+        "the only single-combed breed known to lay green eggs",
+        "roosters have deep blue body feathers and shimmering metallic hackles; splash patterns are also common"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Isbar was developed in 1950s Sweden by Martin Silverudd, who aimed to create autosexing breeds that lay unusually colored eggs in volume. It is the only single-combed breed known to lay green eggs.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -13699,6 +15370,117 @@
     }
   },
   {
+    "id": "lyonnaise",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "docile",
+        "quiet",
+        "friendly",
+        "good forager"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "yes",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "crest": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_country": {
+      "value": "France",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "developed 1950s, recognized about 20 years later",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "beetle-black feathers, grey legs, backswept crest",
+        "flat-feathered and frizzled forms both exist",
+        "produces excellent white meat"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Lyonnaise was developed in Lyon, France, in the 1950s by Etienne Tamburini, but took nearly two decades to be recognized as an official distinct breed.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "malay-game",
     "eggs_per_year_min": {
       "value": 20,
@@ -15993,6 +17775,116 @@
     }
   },
   {
+    "id": "norwegian-jaerhon",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 215,
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white to light tinted",
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "hardy",
+        "active",
+        "good flier"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "yes",
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [
+        "dark brown",
+        "light brown"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Norway",
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "selectively bred from 1916 at a state station in Bryne, Jaeren",
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "the only chicken breed indigenous to Norway",
+        "listed as a conservation-worthy national breed by the Norwegian Forest and Landscape Institute"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Jaerhon was Norway's principal chicken breed until foreign imports began in the 19th century. It was selectively bred at a state-controlled station at Bryne from 1916 to 1973 and is now recognized as autosexing and a national conservation breed.",
+      "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "ohiki",
     "eggs_per_year_min": {
       "value": null,
@@ -16396,6 +18288,110 @@
     "history_summary": {
       "value": "The Old English Pheasant Fowl is an old utility breed from rural Yorkshire and Lancashire, named for its pheasant-like plumage and formally named with a breed club in 1914. It is thought to be one of the ancestors of the Hamburg and remains rare today.",
       "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "olive-egger",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 150,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "olive green, shade varies with the parent breeds",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "hardy",
+        "curious",
+        "active"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [
+        "appearance highly variable, depending on the parent breeds used"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "produced by crossing a dark-brown-egg layer (e.g. Marans or Welsummer) with a blue-egg layer (e.g. Ameraucana or Easter Egger)",
+        "the resulting olive shade depends on the specific parent breeds chosen"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "Olive Eggers are a hybrid, not a recognized breed, created deliberately by backyard and hatchery breeders who cross a dark-brown-egg breed with a blue-egg breed so the offspring's blue and brown eggshell pigments combine into an olive-green shell.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -16858,6 +18854,101 @@
     }
   },
   {
+    "id": "orust",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": "small to medium",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Sweden",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "landrace from the rocky west-coast island of Orust",
+        "historically free-ranged and ate whatever was available, including fish",
+        "black-and-white mottled feathers; roosters' wattles turn from red to violet when agitated"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Orust is a Swedish landrace breed from the rocky coastal island it is named for, historically left to forage and survive largely unmanaged, which produced a hardy, opportunistic bird now considered extremely rare.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "ostfriesische-m-we",
     "eggs_per_year_min": {
       "value": null,
@@ -17207,6 +19298,119 @@
     "history_summary": {
       "value": "The Padovana is an old small crested and bearded chicken from Padova in Italy's Veneto region, with crested chickens depicted in the area as far back as a 1397 fresco. Its precise origins and relationship to similar Polish and Dutch crested breeds remain debated, and it survives today in low numbers of around 1,200 birds.",
       "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "pavlovskaya",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 70,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 90,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "white",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "curious",
+        "lively",
+        "trustful"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "ornamental",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 1.4,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 1.8,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "feathered_legs": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "crest": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_country": {
+      "value": "Russia",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "considered Russia's most ancient chicken breed, used in developing the Polish and Brabanter breeds",
+        "v-shaped comb, crest, beard, muffs and fully feathered legs and toes",
+        "in the 1990s the total population fell to two roosters, one infertile"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Pavlovskaya is considered Russia's most ancient chicken breed. It came close to extinction in the 1990s, when only two roosters remained and one was infertile, and remains rare and little known outside Russia today.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -19136,6 +21340,208 @@
     }
   },
   {
+    "id": "red-sex-link",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 280,
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 300,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": "calm, productive layer",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "also called Red Star",
+        "typically a cross of a Rhode Island Red or New Hampshire rooster onto a White Rock, Rhode Island White, Delaware or Silver Laced Wyandotte hen",
+        "the Golden Comet, Cinnamon Queen, ISA Brown and Red Shaver are commercial hatchery strains bred along the same red sex-link principle"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "Red sex-links are crossbred hybrids developed so that chick down color is linked to sex, making chick sexing easy. Different hatcheries sell their own strain of this cross under different trade names, all functioning as heavy brown-egg production layers.",
+      "source_url": "https://en.wikipedia.org/wiki/Sex-link",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "red-shaver",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 305,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 315,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": "large",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "quiet",
+        "calm"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 1.8,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Canada",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "sex-linked: female chicks are reddish-brown with white underfeathers, males are white with red markings",
+        "bred for cold-climate hardiness"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Red Shaver is a Canadian sex-linked hybrid bred as a prolific, cold-hardy brown-egg layer, with chicks that can be sexed by down color at hatch.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "rhode-island-red",
     "eggs_per_year_min": {
       "value": 250,
@@ -19432,6 +21838,110 @@
     "history_summary": {
       "value": "The Rhode Island White was developed from around 1888 by John Alonzo Jocoy in Rhode Island by crossing Partridge Cochins, White Wyandottes and rose-comb White Leghorns. It is treated as a distinct breed from the Rhode Island Red in the United States, though some other countries classify it as a color variant.",
       "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "rhodebar",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 180,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown-tinted",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 2.7,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 4.1,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United Kingdom/Canada",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "1940s",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "originally created at the University of British Columbia by crossing Rhode Island Reds with Barred Plymouth Rocks",
+        "a UK strain was created by crossing a Danish Rhode Island Red with Golden Brussbar stock",
+        "males hatch yellow, females hatch with dark back stripes"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Rhodebar was created at the University of British Columbia in the 1940s from Rhode Island Red and Barred Plymouth Rock stock, with a parallel UK strain from Rhode Island Red and Golden Brussbar crosses. Its arrival just before commercial hybrids took over the egg industry meant it only briefly gained popularity and is now rare.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -20038,6 +22548,104 @@
     "history_summary": {
       "value": "The Rumpless Game is a tail-less British breed possibly originating on the Isle of Man. A separate American line called Manx Rumpy was created in 1958 by crossing tail-less birds of supposed Iranian origin with other breeds, though it is not recognised by the American Poultry Association.",
       "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "sapphire-gem",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [
+        "blue (Blue Sapphire)",
+        "splash (Sapphire Splash)"
+      ],
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Czech Republic",
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "a commercial hybrid layer bred to carry the blue/lavender dilution gene, producing slate-blue and splash-colored offspring",
+        "marketed by hatcheries as a hardy, docile production bird"
+      ],
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Sapphire Gem is a hatchery hybrid developed in the Czech Republic. It combines commercial brown-egg laying traits with a blue dilution gene, so a single cross produces slate-blue, splash and other color variants in the same batch of chicks.",
+      "source_url": "https://www.ideal-poultry.com/sapphire-gem",
       "origin": "extract"
     }
   },
@@ -20950,6 +23558,211 @@
     "history_summary": {
       "value": "The Serama was developed in Kelantan, Malaysia, in the early 1970s from a mix of small local and Japanese-type bantams, and was named after a figure from traditional shadow puppet theatre. It is bred mainly as a show bird, prized in Malaysia for its tiny size and confident, upright carriage.",
       "source_url": "https://en.wikipedia.org/wiki/Serama",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "shamo",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "ornamental",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 1.8,
+      "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 5.9,
+      "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Japan",
+      "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "stock brought from Thailand in the early 17th century",
+      "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "an overall designation for seven recognized Japanese game breeds, all Natural Monuments of Japan",
+        "descended from Malay-type fighting fowl brought from Thailand",
+        "tall, upright exhibition birds; hens are poor layers and the meat is tough"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "Shamo is a designation for Japanese game fowl descended from Thai fighting stock brought to Japan in the early 1600s. Seven recognized Shamo breeds are protected as Natural Monuments of Japan; outside Japan they are kept mainly for exhibition.",
+      "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "showgirl",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "tinted/cream",
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "ornamental",
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "yes",
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "feathered_legs": {
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "crest": {
+      "value": true,
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "a naked-neck Silkie: has Silkie plumage, fifth toe and feathered feet, but a bare, feather-free neck inherited from Naked Neck/Turken ancestry",
+        "bred mainly for exhibition and as a pet/ornamental breed, not for production"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Showgirl was developed in the United States by crossing Silkie chickens with Naked Neck (Turken) chickens to combine the Silkie's fluffy plumage and extra toe with a bare neck, creating a distinctive exhibition and pet breed.",
+      "source_url": "https://en.wikipedia.org/wiki/Silkie",
       "origin": "extract"
     }
   },
@@ -22061,6 +24874,108 @@
     }
   },
   {
+    "id": "speckledy",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 250,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": 270,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "chestnut brown, often speckled",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "docile",
+        "easy to tame",
+        "good forager"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United Kingdom",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "a cross between a Rhode Island Red rooster and a Marans hen",
+        "feathering resembles a Cuckoo Marans",
+        "pale bay eyes, pale legs, medium single comb",
+        "eggshells are particularly strong with deep yellow yolks"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Speckledy (also sold as Speckled Ranger) is a modern UK hybrid from a Rhode Island Red x Marans cross, bred as a heavy, hardy layer of speckled chestnut-brown eggs.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "stara-zagora-red",
     "eggs_per_year_min": {
       "value": 215,
@@ -22162,6 +25077,100 @@
     "history_summary": {
       "value": "The Stara Zagora Red was created around 1970 by crossing local hens from the Stara Zagora region of Bulgaria with Rhode Island Red cocks, with the red colour fixed by the second generation. It is now a rare breed, kept mainly by the Bulgarian Poultry Institute and a handful of breeders.",
       "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "starlight-green-egger",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "green",
+      "source_url": "https://www.cacklehatchery.com/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": null,
+      "source_url": null
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://www.cacklehatchery.com/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://www.cacklehatchery.com/",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://www.cacklehatchery.com/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "a hatchery hybrid bred from blue-egg and brown-egg laying stock to produce a reliable green egg, in the same tradition as other Easter Egger/Olive Egger crosses",
+        "not a breed recognized by the American Poultry Association"
+      ],
+      "source_url": "https://www.cacklehatchery.com/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Starlight Green Egger is a modern hatchery hybrid marketed as a dependable green-egg layer, produced the same way other 'egger' hybrids are: crossing blue-egg and brown-egg laying lines rather than breeding to a fixed standard.",
+      "source_url": "https://www.cacklehatchery.com/",
       "origin": "extract"
     }
   },
@@ -22828,6 +25837,107 @@
     }
   },
   {
+    "id": "swedish-black",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": null,
+      "source_url": null
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "cream",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "friendly",
+        "alert",
+        "seeks human interaction"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "ornamental",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 2.3,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 3.6,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Sweden/Norway",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "fibromelanistic: entirely black including comb, skin and internal organs, like the Ayam Cemani and Silkie",
+        "ancestry traces to Indonesian black-boned stock",
+        "above-average flying ability and prefers to roost high"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Swedish Black (Svarthona) developed on the Norway-Sweden border, carrying fibromelanistic genes traced back to Indonesian stock, making it a close but more refined-looking relative of the Ayam Cemani. It remains an ultra-rare, exotic breed.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    }
+  },
+  {
     "id": "swedish-flower-hen",
     "eggs_per_year_min": {
       "value": null,
@@ -23133,6 +26243,113 @@
     "history_summary": {
       "value": "This hard-feather fighting breed originates in Thailand, where it is known as gai chon. It has been recognised by the British Poultry Standards since 2009.",
       "source_url": "https://en.wikipedia.org/wiki/Thai_Game",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "thuringian",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 160,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "brown",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "friendly",
+        "tame",
+        "confident",
+        "explorer"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": true,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [],
+      "source_url": null
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Germany",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "19th century",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "beard, muffs and a very small comb suited to cold climates",
+        "now kept mainly for exhibition rather than production",
+        "different color varieties are said to have different personalities"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Thuringian was developed in 19th-century Germany in the Thuringian Forest region as a dual-purpose breed, but is now seen mainly at poultry shows and is considered very rare.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },
@@ -23488,6 +26705,124 @@
     "history_summary": {
       "value": "The Tuzo is a German true bantam of gamecock type descended from Asian fighting fowl, possibly of Japanese origin, and was developed further in both Europe and the United States. It was officially recognised in Germany in 1983 and is now also recognised by the Entente Europeenne and the Poultry Club of Great Britain.",
       "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "twentse",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_color": {
+      "value": "off-white",
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "active",
+        "excellent forager"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": "yes",
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "dual-purpose",
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": null,
+      "source_url": null
+    },
+    "varieties": {
+      "value": [
+        "silver",
+        "gold",
+        "orange/lemon",
+        "blue-gold",
+        "crele",
+        "pile",
+        "blue-silver",
+        "cuckoo",
+        "silver cuckoo"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": 1.8,
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "rooster_weight_kg": {
+      "value": 2.75,
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "Netherlands/Germany",
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "origin_year_or_period": {
+      "value": "late 19th century",
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "also called Kraienkopp in German",
+        "developed from local types crossed with Malay and later silver duckwing Leghorn stock",
+        "small walnut comb, wattles and earlobes, all bright red"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Twentse, called Kraienkopp in German, originates from the border region between Germany and the Netherlands, developed in the late 19th century from local stock crossed with Malay and Leghorn birds. It is kept today as a rare layer or show bird.",
+      "source_url": "https://en.wikipedia.org/wiki/Kraienkopp",
       "origin": "extract"
     }
   },
@@ -24614,6 +27949,110 @@
     "history_summary": {
       "value": "This ancient Spanish breed of unknown origin was refined in Great Britain in the 1700s and became one of the best-known laying breeds in America and England through the 1800s. Breeders' focus on ever-larger white faces weakened the birds' hardiness, and it lost popularity to hardier breeds like the Minorca and Leghorn.",
       "source_url": "https://livestockconservancy.org/spanish-chicken/",
+      "origin": "extract"
+    }
+  },
+  {
+    "id": "whiting-true-blue",
+    "tags": [],
+    "needs_review": true,
+    "eggs_per_year_min": {
+      "value": 280,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "eggs_per_year_max": {
+      "value": null,
+      "source_url": null
+    },
+    "egg_size": {
+      "value": "large",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "egg_color": {
+      "value": "powder blue",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "temperament": {
+      "value": [
+        "active",
+        "friendly",
+        "non-aggressive"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "broodiness": {
+      "value": null,
+      "source_url": null
+    },
+    "cold_hardy": {
+      "value": null,
+      "source_url": null
+    },
+    "heat_tolerant": {
+      "value": null,
+      "source_url": null
+    },
+    "beginner_friendly": {
+      "value": null,
+      "source_url": null
+    },
+    "purpose": {
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "bantam_available": {
+      "value": "no",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "varieties": {
+      "value": [
+        "plumage varies; most commonly chipmunk or grey"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "lifespan_years": {
+      "value": null,
+      "source_url": null
+    },
+    "hen_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "rooster_weight_kg": {
+      "value": null,
+      "source_url": null
+    },
+    "autosexing": {
+      "value": null,
+      "source_url": null
+    },
+    "notes": {
+      "value": null,
+      "source_url": null
+    },
+    "origin_country": {
+      "value": "United States",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "notable_traits": {
+      "value": [
+        "a modern production breed developed by poultry geneticist Dr. Tom Whiting specifically to lay a consistent blue egg at a commercial rate",
+        "not a heritage breed"
+      ],
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
+    },
+    "history_summary": {
+      "value": "The Whiting True Blue was developed by poultry geneticist Dr. Tom Whiting as a modern production breed bred purely for a consistent, large, powder-blue egg, unlike many blue-egg layers whose shade or output is inconsistent.",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
       "origin": "extract"
     }
   },

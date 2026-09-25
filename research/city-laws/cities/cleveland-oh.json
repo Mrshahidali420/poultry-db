@@ -1,0 +1,28 @@
+{
+  "id": "cleveland-oh",
+  "city": "Cleveland",
+  "state": "OH",
+  "population": 363608,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "One chicken (or duck or rabbit) per 800 square feet of lot area, which is 6 on a standard 4,800 square foot lot. A license from the Department of Public Health is required.",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "A two-year farm animal license from the Cleveland Department of Public Health is required (Sec. 205.04). The application asks for a scaled site drawing, a coop description, a waste removal plan, and owner permission if you rent.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops may not be in front or side street yards, and must be at least 5 feet from a side lot line and 18 inches from a rear lot line (5 feet if that rear line borders the side or front of a neighboring lot).",
+  "coop_rules": "Covered, predator-proof, ventilated coop; total coop area no more than 32 sq ft for up to 6 animals and no taller than 15 ft; a fenced outdoor run with at least 10 sq ft per bird.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "In non-residential districts the limit is one animal per 400 sq ft. Roosters, geese and turkeys are banned in residential districts unless the parcel is at least 1 acre and the coop is 100 feet from all property lines.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 347.02(b); license under Sec. 205.04",
+  "sources": [
+    { "name": "Cleveland Codified Ordinances Sec. 347.02 (American Legal)", "url": "https://codelibrary.amlegal.com/codes/cleveland/latest/cleveland_oh/0-0-0-14557", "type": "municipal-code" },
+    { "name": "Cleveland Department of Public Health, Farm Animals and Bees Application", "url": "https://www.clevelandohio.gov/sites/clevelandohio/files/health/environment/Farm_animal_application-(Chickens-Ducks-Rabbits-Bees)_2018.pdf", "type": "city-website" },
+    { "name": "Copy of Sec. 347.02 farm animal ordinance text (third-party host)", "url": "https://s30428.pcdn.co/wp-content/uploads/sites/2/2019/09/Cleveland_farm_animal_ordinance_1.pdf", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "Full Sec. 347.02 text was read from a third-party copy of the ordinance, and the key limits (1 per 800 sq ft, license, rooster rule) are confirmed by the city's official application form; the American Legal page was blocked. Slaughter is not addressed.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

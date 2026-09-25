@@ -1,0 +1,27 @@
+{
+  "id": "albuquerque-nm",
+  "city": "Albuquerque",
+  "state": "NM",
+  "population": 556588,
+  "allowed": "yes",
+  "max_hens": 15,
+  "hens_rule_text": "up to 15 poultry per household under the HEART animal ordinance; non-commercial poultry keeping is allowed in most residential zones",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "The city Planning Department says non-commercial poultry keeping is allowed in most residential zones without restriction; no chicken permit was found for flocks within the 15-bird limit. Keeping more than the limit would need separate approval from Animal Welfare.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No distance from neighboring homes was confirmed in official sources. Secondary sites mention a 10 ft setback from property lines, not verified in the code.",
+  "coop_rules": "Birds must be housed and restrained under the HEART ordinance housing standards for animals kept on residential property (Sec. 9-2-2-2); details not confirmed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Integrated Development Ordinance allows non-commercial poultry keeping in most residential zones; check your zone with the IDO Zoning Look-up Map. Excess chickens are handled by Animal Welfare.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 9-2-4-3",
+  "sources": [
+    { "name": "Albuquerque Code of Ordinances Sec. 9-2-4-3 Animal Limits and Restrictions", "url": "https://codelibrary.amlegal.com/codes/albuquerque/latest/albuquerque_nm/0-0-0-121064", "type": "municipal-code" },
+    { "name": "City of Albuquerque Code Enforcement FAQs", "url": "https://www.cabq.gov/planning/planning-faqs/code-enforcement-faqs", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The 15 poultry limit and one rooster per household come from search extracts of Sec. 9-2-4-3; the code page itself could not be opened (Cloudflare block, Internet Archive offline). The no-restriction zoning statement was read directly on the city Planning FAQ; rooster status is treated as conditional because only one per household is allowed.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

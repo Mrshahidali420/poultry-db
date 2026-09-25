@@ -1,0 +1,57 @@
+{
+  "id": "shamo",
+  "fields": {
+    "hen_weight_kg": [
+      {
+        "value": 1.8,
+        "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 5.9,
+        "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "ornamental",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Japan",
+        "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "stock brought from Thailand in the early 17th century",
+        "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "an overall designation for seven recognized Japanese game breeds, all Natural Monuments of Japan",
+          "descended from Malay-type fighting fowl brought from Thailand",
+          "tall, upright exhibition birds; hens are poor layers and the meat is tough"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "Shamo is a designation for Japanese game fowl descended from Thai fighting stock brought to Japan in the early 1600s. Seven recognized Shamo breeds are protected as Natural Monuments of Japan; outside Japan they are kept mainly for exhibition.",
+        "source_url": "https://en.wikipedia.org/wiki/Shamo_chickens"
+      }
+    ]
+  }
+}

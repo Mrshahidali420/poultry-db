@@ -1,0 +1,125 @@
+{
+  "id": "easter-egger",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 250,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 280,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "any shade of blue, green, olive, pink or brown; one consistent color per hen",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "medium to large",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": "friendly, hardy, active forager",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "broodiness": [
+      {
+        "value": "occasional",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "cold_hardy": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "heat_tolerant": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "beginner_friendly": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "any color; commonly muffed and bearded with a pea comb"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "20th century",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": false,
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "feathered_legs": [
+      {
+        "value": false,
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "crest": [
+      {
+        "value": false,
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "hybrid, not a recognized breed under the APA or ABA",
+          "carries the blue-egg (oocyan) gene from Araucana/Ameraucana ancestry",
+          "often sold at feed stores as 'Americana', which is not the same as the true Ameraucana breed"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "Easter Eggers are American hybrids created by breeding a bird carrying the blue-egg gene, descended from Chilean Araucana stock, with brown-egg-laying breeds. They are not recognized as a breed by the American Poultry Association or American Bantam Association, but became popular backyard and hatchery birds for their variable, colorful eggs.",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+      }
+    ]
+  }
+}

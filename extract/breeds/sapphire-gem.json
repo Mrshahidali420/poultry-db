@@ -1,0 +1,53 @@
+{
+  "id": "sapphire-gem",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Czech Republic",
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "blue (Blue Sapphire)",
+          "splash (Sapphire Splash)"
+        ],
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "a commercial hybrid layer bred to carry the blue/lavender dilution gene, producing slate-blue and splash-colored offspring",
+          "marketed by hatcheries as a hardy, docile production bird"
+        ],
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Sapphire Gem is a hatchery hybrid developed in the Czech Republic. It combines commercial brown-egg laying traits with a blue dilution gene, so a single cross produces slate-blue, splash and other color variants in the same batch of chicks.",
+        "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+      }
+    ]
+  }
+}

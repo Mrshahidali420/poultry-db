@@ -1,0 +1,68 @@
+{
+  "id": "thuringian",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 160,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "friendly",
+          "tame",
+          "confident",
+          "explorer"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "cold_hardy": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Germany",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "19th century",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "beard, muffs and a very small comb suited to cold climates",
+          "now kept mainly for exhibition rather than production",
+          "different color varieties are said to have different personalities"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Thuringian was developed in 19th-century Germany in the Thuringian Forest region as a dual-purpose breed, but is now seen mainly at poultry shows and is considered very rare.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

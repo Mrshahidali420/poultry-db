@@ -1,0 +1,79 @@
+{
+  "id": "basque-hen",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 200,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 220,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "large",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "friendly",
+          "hardy",
+          "good forager"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "France/Spain",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "Beltza (black)",
+          "Gorria (red)",
+          "Lepasoila (naked-necked, red-brown)",
+          "Marraduna (golden cuckoo)",
+          "Zilarra (black-tailed white)"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "yellow legs, feet and skin, bright red single comb",
+          "roosters can reach 9 lb (about 4 kg)",
+          "very friendly, tolerates handling well"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Basque hen comes from the Basque region spanning southern France and northern Spain, a hardy dual-purpose bird found in five color varieties and increasingly popular with homesteaders in North America for its foraging ability and friendly temperament.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

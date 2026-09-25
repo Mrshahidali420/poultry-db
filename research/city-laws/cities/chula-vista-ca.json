@@ -1,0 +1,24 @@
+{
+  "id": "chula-vista-ca", "city": "Chula Vista", "state": "CA", "population": 275533,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 chickens per family, only on a lot of at least 7,000 square feet with no more than one single-family home; combined small-animal total capped at 25",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No chicken permit is mentioned in Chapter 6.04; the limits are lot size, count and placement.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Enclosure must be at least 50 feet from any residence other than the owner's and at least 5 feet from adjacent property lines.",
+  "coop_rules": "Keep fowl in a building or fenced enclosure in the rear yard.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The 7,000 square foot minimum lot with a single-family home is set in the code itself, so many smaller lots do not qualify.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "CVMC 6.04.060, 6.04.080, 6.04.090",
+  "sources": [
+    { "name": "Chula Vista Municipal Code 6.04.080 Rabbits, domestic fowl and pigeons, quantity permitted", "url": "https://chulavista.municipal.codes/CVMC/6.04.080", "type": "municipal-code" },
+    { "name": "Chula Vista Municipal Code 6.04.090 Rabbits and domestic fowl, housing restrictions", "url": "https://chulavista.municipal.codes/CVMC/6.04.090", "type": "municipal-code" },
+    { "name": "Chula Vista Municipal Code 6.04.060 Swine, roosters and goats prohibited", "url": "https://chulavista.municipal.codes/CVMC/6.04.060", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Rules taken from search-result extracts of the official Chula Vista Municipal Code (current through early 2026); the code site returned 403 and had no archived copy, so full text was not opened. Roosters are expressly prohibited except for annexation and school exceptions.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "plano-tx", "city": "Plano", "state": "TX", "population": 293028,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Hens allowed only with a Backyard Chickens permit from Animal Services; hens count toward the limit of 10 adult animals (dogs, cats and hens combined) per single dwelling unit",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "Permit from Plano Animal Services required before keeping hens: proof of adequate housing, completion of an educational course on hen care, written authorization from the property owner if renting, and a possible home inspection. Adopted September 2021.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Reported distance from neighboring buildings: 20 feet for enclosures holding up to 5 hens, 50 feet for up to 10. Coop must be behind a fence at least 6 feet high. Figures come from a search summary, not the code text.",
+  "coop_rules": "At least 4 sq ft of coop space per hen plus an attached exercise yard with at least 8 sq ft per hen; enclosure behind a 6 ft fence.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters and other birds such as ducks and peacocks remain prohibited in residential zones.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 4 Animals",
+  "sources": [
+    { "name": "City of Plano: Backyard Chickens", "url": "https://www.plano.gov/backyard-chickens", "type": "city-website" },
+    { "name": "Plano Code of Ordinances, Chapter 4 Animals (Municode)", "url": "https://library.municode.com/tx/plano/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN", "type": "municipal-code" },
+    { "name": "Community Impact: City Council approves ordinance allowing backyard chickens in Plano (2021)", "url": "https://communityimpact.com/dallas-fort-worth/plano/city-county/2021/09/27/city-council-approves-ordinance-allowing-backyard-chickens-in-plano/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Permit, course and rooster ban confirmed in 2021 news coverage of the ordinance; the 10-animal limit, setbacks and space figures come from search extracts that appear to reflect the city page, which rendered empty when fetched. Municode could not be opened, so no exact section number; a claim that slaughter is banned turned out to be about Plano, Illinois and was not used.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

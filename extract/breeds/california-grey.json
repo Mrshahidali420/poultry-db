@@ -1,0 +1,75 @@
+{
+  "id": "california-grey",
+  "fields": {
+    "hen_weight_kg": [
+      {
+        "value": 2,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 2.7,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "large",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": "calm",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "1930s",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "developed by poultry scientist James Dryden by crossing a Barred Plymouth Rock rooster with a White Leghorn hen",
+          "naturally autosexing, grey barred plumage",
+          "never recognized by the American Poultry Association"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The California Grey was developed in California in the 1930s by James Dryden to be a dual-purpose hen that stayed productive longer than two years. Its Barred Rock x White Leghorn cross gave it naturally autosexed grey barred plumage, but it never gained commercial popularity and is now rare.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "oklahoma-city-ok", "city": "Oklahoma City", "state": "OK", "population": 719849,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens or quail in total on parcels under 1 acre, no permit needed (in effect since March 4, 2022). Before 2022 poultry was only allowed on lots of 1 acre or more.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "The city says no permit or fee is required. Enforcement is on a complaint basis.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Coop at least 30 ft from an adjacent dwelling, at least 5 ft from the side property line and 10 ft from the rear property line. Birds and coops may not be in front of the rear wall of the house.",
+  "coop_rules": "At least 4 sq ft of coop space per bird, 8 sq ft of unpaved roaming area per bird, birds shut in the coop dusk to dawn, clean and predator-proof, food and water always available, electrical or heat sources must meet building code.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "The 6-bird limit applies to parcels under 1 acre; larger parcels fall under separate agricultural animal rules not checked here. Outdoor slaughter is not allowed. Fines up to $500 for first and second offenses, $1,200 after.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 8 (Animals)",
+  "sources": [
+    { "name": "City of OKC news release: Council approves urban chickens and quail (Feb 2022)", "url": "https://www.okc.gov/Home/Components/News/News/4022/18", "type": "city-website" },
+    { "name": "Oklahoma City Code of Ordinances, Chapter 8 Animals", "url": "https://library.municode.com/ok/oklahoma_city/codes/code_of_ordinances?nodeId=OKMUCO2020_CH8AN", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Rules read from the official City of OKC news release (Internet Archive copy, March 2022) and confirmed by search extracts of okc.gov; the exact Chapter 8 section number could not be opened because Municode is region-blocked. Rules for parcels of 1 acre or more, including whether roosters are allowed there, were not verified.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": "garland-tx", "city": "Garland", "state": "TX", "population": 249625,
+  "allowed": "yes",
+  "max_hens": 4,
+  "hens_rule_text": "up to 4 female fowl (hens) over one month old per property",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit requirement appeared in the code extracts; not confirmed either way.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Enclosure must be at least 30 feet from any residential dwelling other than the owner's.",
+  "coop_rules": "Fowl must be kept in an enclosure.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The four-hen cap applies citywide; roosters and male peafowl are prohibited.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 22, Art. I (Animal Services)",
+  "sources": [
+    { "name": "Garland Code of Ordinances, Art. I Animal Services (eCode360)", "url": "https://ecode360.com/40070090", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Garland Texas chicken ordinance", "url": "https://www.backyardchickens.com/articles/garland-texas-chicken-ordinance.61606/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Rules taken from search-result extracts of the eCode360 Animal Services article; the page itself and garlandtx.gov could not be opened. Exact section number and chapter number are not confirmed, and permit status is unknown.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

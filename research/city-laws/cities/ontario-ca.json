@@ -1,0 +1,26 @@
+{
+  "id": "ontario-ca",
+  "city": "Ontario",
+  "state": "CA",
+  "population": 187013,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Poultry is allowed only in the AR-2 (Residential-Agricultural) and AG zones. Ordinary single-family zones allow only up to 4 household pets, and poultry is not in that list. Where allowed, the number is capped by lot area.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "In AR-2 and AG, poultry keeping is permitted by right as an accessory use to a single-family home; no separate permit was found.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Fowl must be at least 30 ft from any home other than the owner's (and from schools, clinics, churches and similar buildings), at least 20 ft from any property line in residential zones, and never in a front or street-side yard.",
+  "coop_rules": "Coops and pens must be kept clean and sanitary, waste handled per regional water board rules, and animals kept behind a fence or wall at least 5 ft high when outdoors.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Land Use Matrix Table 5.02-1 marks Poultry and Fowl as permitted only in AR-2 and AG. Density is set per lot area in the Maximum Animal Keeping Densities table in Section 5.03.410.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ontario Development Code Sec. 5.03.410",
+  "sources": [
+    { "name": "Ontario Development Code Chapter 5.0, Zoning and Land Use (rev. 12-03-2024)", "url": "https://content.ontarioca.gov/sites/default/files/2025-01/Chapter%205.0%20-%20Zoning%20and%20Land%20Use_Rev%2012-03-2024.pdf", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the city's official Development Code PDF (rev. Dec 2024) directly. Zones and setbacks are clear, but the density table was garbled in text extraction (it seems to say one poultry per 6,000 sq ft), so max_hens is left null. The crowing fowl rule bans roosters that unreasonably disturb neighbors; it is unclear whether any rooster counts.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

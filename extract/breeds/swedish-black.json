@@ -1,0 +1,61 @@
+{
+  "id": "swedish-black",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "cream",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 2.3,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 3.6,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "friendly",
+          "alert",
+          "seeks human interaction"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "ornamental",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Sweden/Norway",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "fibromelanistic: entirely black including comb, skin and internal organs, like the Ayam Cemani and Silkie",
+          "ancestry traces to Indonesian black-boned stock",
+          "above-average flying ability and prefers to roost high"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Swedish Black (Svarthona) developed on the Norway-Sweden border, carrying fibromelanistic genes traced back to Indonesian stock, making it a close but more refined-looking relative of the Ayam Cemani. It remains an ultra-rare, exotic breed.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

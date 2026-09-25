@@ -1,0 +1,24 @@
+{
+  "id": "washington-dc", "city": "Washington", "state": "DC", "population": 693645,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Any live fowl needs an annual permit from the District health department. The regulation sets no numeric cap; the number of birds is stated on the application and approved case by case. The 50 ft rule from any home makes most rowhouse lots ineligible.",
+  "roosters_allowed": "unknown",
+  "permit_required": "yes",
+  "permit_notes": "24 DCMR 902 requires a permit from the Mayor, approved by the health director (now DC Health). Permits expire after one year and can be renewed. The application needs a plat from the District Surveyor showing the enclosure and its distances to property lines.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "No fowl within 50 ft of any building used for human habitation (the text does not exempt the owner's own home). The enclosure must also be 250 ft from every property line, or the applicant must get written consent from all householders and owners within 100 ft of the premises in the same square.",
+  "coop_rules": "Coops, pens and runs approved with the permit; kept clean, dry and sanitary; droppings composted under 12 in. of earth or stored in sealed metal containers; premises free of rats and fly breeding; buildings rodent-proofed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The rule is a District health regulation, not a zoning rule. In 2017 the Mayor proposed an outright ban; no evidence was found that it was adopted, and DC Health still publishes Section 902. A separate section lets public vocational schools keep fowl with Mayoral approval.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "24 DCMR 902",
+  "sources": [
+    { "name": "DC Health: DC Municipal Regulations for Animal Control (24 DCMR Chapter 9, Sec. 902 Fowl)", "url": "https://doh.dc.gov/sites/default/files/dc/sites/doh/publication/attachments/Animal%20Control.pdf", "type": "city-website" },
+    { "name": "DC Council legislative briefing slides on backyard chickens (2015)", "url": "https://dcfoodpolicy.org/wp-content/uploads/2015/09/backyard-chickens-doee-briefing-slides.pdf", "type": "secondary" },
+    { "name": "DCist: Bowser moves to ban backyard chickens (2017)", "url": "https://dcist.com/story/17/04/14/backyard-chickens-may-finally-be-ge/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the full text of 24 DCMR 902 from the DC Health PDF. The regulation is old and the PDF is undated; whether the 2017 proposed ban or any later change took effect was not confirmed, and roosters are not addressed separately, so the rooster status is unknown.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

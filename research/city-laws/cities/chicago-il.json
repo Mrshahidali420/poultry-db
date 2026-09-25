@@ -1,0 +1,24 @@
+{
+  "id": "chicago-il", "city": "Chicago", "state": "IL", "population": 2731585,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Chicago has no chicken-specific ordinance: hens may be kept for eggs or as pets with no numeric limit, subject to general nuisance, noise, sanitation and animal care rules.",
+  "roosters_allowed": "yes",
+  "permit_required": "no",
+  "permit_notes": "No city permit for keeping hens was found in Chapter 7-12; local chicken groups also report none.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No chicken-specific setback found in the city code.",
+  "coop_rules": "General sanitation, humane housing and noise rules apply; animals may not make excessive noise.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Sec. 7-12-300 bans keeping any animal for your own food or slaughtering it, except in licensed establishments; eggs are expressly exempt. A 2023 proposal (O2023-0002993) to cap hens at 6, ban roosters and require a permit was reported, but no evidence it passed was found.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 7-12-300",
+  "sources": [
+    { "name": "Chicago Municipal Code 7-12-300 Ban of unlicensed possession of animals for slaughter", "url": "https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2640523", "type": "municipal-code" },
+    { "name": "Chicago Chicken Enthusiasts: Policies and City Chickens", "url": "https://sites.google.com/site/chicagochickenenthusi/city-chicken-policy", "type": "secondary" },
+    { "name": "Home to Roost: Ald. Lopez again proposes ordinance to affect chickens (2023)", "url": "https://htrchickens.com/category/laws/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read Sec. 7-12-300 via Internet Archive copy. The absence of a hen limit, permit or rooster ban rests on the code having no chicken-specific rule, reported by secondary sources; status of the 2023 livestock ordinance proposal could not be confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

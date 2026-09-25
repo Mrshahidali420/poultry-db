@@ -1,0 +1,23 @@
+{
+  "id": "salt-lake-city-ut", "city": "Salt Lake City", "state": "UT", "population": 218428,
+  "allowed": "conditional",
+  "max_hens": 15,
+  "hens_rule_text": "Up to 15 hens on a lot in any residential zone, for egg production, with a permit from Salt Lake County Animal Services.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "Permit from Salt Lake County Animal Services, $75 regardless of the number of birds, per the city's backyard chickens page.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Chickens must be kept in the rear yard at least 25 feet from any dwelling on an adjacent lot. The general fowl rule in 8.08.060 sets 50 feet from any house, except as provided in 8.08.065 for residential chickens.",
+  "coop_rules": "Secure enclosed area; coop at least 2 sq ft per bird, or 6 sq ft per bird if they are not let out; neat and sanitary; feed in rodent and predator resistant containers.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Allowed in residential districts under Title 21A chapter 21A.24. Other livestock needs agricultural zoning and a separate permit.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 8.08.010, 8.08.060, 8.08.065",
+  "sources": [
+    { "name": "Salt Lake City Code Chapter 8.08 Keeping Animals, Livestock and Poultry", "url": "https://codelibrary.amlegal.com/codes/saltlakecityut/latest/saltlakecity_ut/0-0-0-49880", "type": "municipal-code" },
+    { "name": "Salt Lake City Sustainability: Backyard Chickens", "url": "https://www.slc.gov/sustainability/local-food/backyard-chickens-in-salt-lake-city/", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Rules read directly on the official slc.gov backyard chickens page; code text of 8.08.010 and 8.08.065 seen only in search extracts, which agree with the city page. Slaughter is not addressed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gournay",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 2.3,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 3.2,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "broodiness": [
+      {
+        "value": "yes",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "France",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "evenly mottled black-and-white feathers, orange eyes, thick beak",
+          "delicate, flavorful meat",
+          "reduced to near-extinction in the World Wars, revived by local enthusiasts in the early 2000s to roughly 15,000 birds"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Gournay is an old breed from Upper Normandy, France, with possible ancestry dating to the Viking era. It nearly went extinct during the World Wars and was revived by dedicated enthusiasts starting in the early 2000s.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

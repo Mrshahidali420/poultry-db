@@ -1,0 +1,28 @@
+{
+  "id": "fort-lauderdale-fl",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "population": 188677,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "Chickens are not allowed in residential districts. The pet exception covers birds but expressly excludes chickens, roosters and geese.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit path for residential hens found. Keeping animals outside residential districts is governed by separate distance rules.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Outside residential districts, animals including poultry must be kept at least 75 ft from any inhabited dwelling, and roosters at least 100 yards (300 ft) from any dwelling other than the owner's.",
+  "coop_rules": "Not applicable in residential districts, since chickens are banned there.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The ban applies to all residential zoning districts. Non-residential properties follow the distance limits above.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-5",
+  "sources": [
+    { "name": "Fort Lauderdale Code of Ordinances, Chapter 6 Animals (Municode)", "url": "https://library.municode.com/fl/fort_lauderdale/codes/code_of_ordinances?nodeId=COOR_CH6AN", "type": "municipal-code" },
+    { "name": "Fort Lauderdale Magazine, A-Fowl of the Law", "url": "https://fortlauderdalemagazine.com/a-fowl-of-the-law/", "type": "secondary" },
+    { "name": "Broward Palm Beach New Times, Fort Lauderdale Hen Project petitions commission", "url": "https://www.browardpalmbeach.com/food-drink/fort-lauderdale-hen-project-petitions-city-commission-to-allow-backyard-chickens-6904335/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Ban and exclusion wording come from search-result extracts of the Municode Chapter 6 text (Sec. 6-5); the full page could not be opened from this IP. Advocacy to allow hens (2013) failed and no 2024 to 2026 amendment was found.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

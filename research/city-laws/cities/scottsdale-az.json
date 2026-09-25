@@ -1,0 +1,25 @@
+{
+  "id": "scottsdale-az", "city": "Scottsdale", "state": "AZ", "population": 243006,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "fowl allowed unless they become a habitual noise nuisance; no city hen cap confirmed, and state law protects at least 6 on single-family lots of half an acre or less",
+  "roosters_allowed": "unknown",
+  "permit_required": "unknown",
+  "permit_notes": "No city chicken permit found in official sources.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No city setback confirmed. State law (ARS 9-462.12) lets cities require the enclosure in the rear or side yard at least 20 feet from a neighboring property, max 200 sq ft and 8 ft high, and requires enclosures on lots under one acre to be shorter than the fence line.",
+  "coop_rules": "No city coop standard confirmed; state law allows cities to require twice-weekly manure removal and rodent-proof feed storage.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "City Code Sec. 4-17(c) bars keeping any animal or fowl whose frequent or habitual crowing or noise disturbs a neighborhood or two or more people. Zoning district limits were not checked in the code text.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 4-17",
+  "sources": [
+    { "name": "Scottsdale Revised Code Ch. 4 Animals, Sec. 4-17 (Municode)", "url": "https://library.municode.com/az/scottsdale/codes/code_of_ordinances?nodeId=REVISED_CODEVO1_CH4AN_ARTIIKEDOAN_S4-17GERE", "type": "municipal-code" },
+    { "name": "City of Scottsdale: Barking Dog Violations (quotes Sec. 4-17(c))", "url": "https://www.scottsdaleaz.gov/get-help/mediation/barking-dog-violations", "type": "city-website" },
+    { "name": "Arizona Revised Statutes 9-462.12, Backyard fowl regulation", "url": "https://www.azleg.gov/ars/9/00462-12.htm", "type": "municipal-code" },
+    { "name": "Arizona House bill summary HB2325 (2024), survey of city rules", "url": "https://www.azleg.gov/legtext/56leg/2R/summary/H.HB2325_022024_HOUSEENGROSSED.DOCX.htm", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the state statute ARS 9-462.12 (2024) directly; the Legislature's staff summary says Scottsdale allows fowl unless a habitual nuisance under Sec. 4-17. Scottsdale's own code and zoning text could not be opened, so any city hen cap, rooster ban or setback is unconfirmed; secondary sites claiming 5 hens and 40 ft were not trusted.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

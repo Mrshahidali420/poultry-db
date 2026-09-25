@@ -6,3 +6,4 @@ tmp-*
 data/images-original/
 data/images-original.json
 data/images-original-failed.json
+imports/dad-is/raw/

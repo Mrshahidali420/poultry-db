@@ -1,0 +1,22 @@
+{
+  "id": "spokane-wa", "city": "Spokane", "state": "WA", "population": 230783,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "one chicken per 1,000 sq ft of lot area, so about 5 hens on a 5,000 sq ft lot and 10 on a 10,000 sq ft lot; the total is shared with any other small animals kept",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "Permitted outright in RA, R1, R2, RMF, RHD and any zone allowing homes. The Washington State University animal keeping certification required for other small domestic animals expressly excludes chickens.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops and enclosures must meet the setback rules for residential accessory structures (SMC 17C.111.240); a side yard waiver may reduce the side setback.",
+  "coop_rules": "Enclosure only on a lot with a house, or an adjacent lot held by the same owner or tenant; must follow accessory structure standards.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters and peacocks are allowed only in the RA (Residential Agriculture) zone.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "SMC 17C.310.115",
+  "sources": [
+    { "name": "Spokane Municipal Code Section 17C.310.115, Keeping of Small Domestic Animals", "url": "https://my.spokanecity.org/smc/?Section=17C.310.115", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full text of SMC 17C.310.115 (passed March 2014) via an Internet Archive copy from December 2025, since the city site returned 403. The code mentions slaughter only for small livestock, so slaughter of chickens is left unknown.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,62 @@
+{
+  "id": "speckledy",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 250,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 270,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "chestnut brown, often speckled",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "docile",
+          "easy to tame",
+          "good forager"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United Kingdom",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "a cross between a Rhode Island Red rooster and a Marans hen",
+          "feathering resembles a Cuckoo Marans",
+          "pale bay eyes, pale legs, medium single comb",
+          "eggshells are particularly strong with deep yellow yolks"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Speckledy (also sold as Speckled Ranger) is a modern UK hybrid from a Rhode Island Red x Marans cross, bred as a heavy, hardy layer of speckled chestnut-brown eggs.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

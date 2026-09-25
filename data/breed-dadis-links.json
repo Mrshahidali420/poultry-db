@@ -1,0 +1,1593 @@
+[
+  {
+    "breed_id": "alsacienne",
+    "dadis_ids": [
+      "fra-poule-d-alsace"
+    ]
+  },
+  {
+    "breed_id": "altsteirer",
+    "dadis_ids": [
+      "deu-altsteirer",
+      "hrv-stajerka"
+    ]
+  },
+  {
+    "breed_id": "amarela",
+    "dadis_ids": [
+      "prt-amarela"
+    ]
+  },
+  {
+    "breed_id": "ameraucana",
+    "dadis_ids": [
+      "gbr-ameraucana"
+    ]
+  },
+  {
+    "breed_id": "american-game",
+    "dadis_ids": [
+      "aus-american-game",
+      "gbr-american-game"
+    ]
+  },
+  {
+    "breed_id": "ancona-chicken",
+    "dadis_ids": [
+      "aus-ancona",
+      "can-ancona",
+      "gbr-ancona",
+      "irl-ancona",
+      "ita-ancona",
+      "nzl-ancona",
+      "slb-ancona",
+      "usa-ancona"
+    ]
+  },
+  {
+    "breed_id": "appenzeller-barthuhn",
+    "dadis_ids": [
+      "che-appenzeller-barthuhn",
+      "gbr-appenzeller-barthuhn"
+    ]
+  },
+  {
+    "breed_id": "appenzeller-spitzhauben",
+    "dadis_ids": [
+      "aus-appenzeller-spitzhauben",
+      "che-appenzeller-spitzhauben",
+      "deu-appenzeller-spitzhauben",
+      "gbr-appenzeller-spitzhauben",
+      "irl-appenzeller-spitzhauben"
+    ]
+  },
+  {
+    "breed_id": "araucana",
+    "dadis_ids": [
+      "aus-aracana",
+      "chl-araucana",
+      "deu-araucana",
+      "gbr-araucana-rumpless",
+      "gbr-araucana-spitzhauben",
+      "hnd-araucana",
+      "irl-araucana",
+      "kor-auraucana-gyeongbuk",
+      "srb-araucana",
+      "ury-mapuche",
+      "usa-araucana"
+    ]
+  },
+  {
+    "breed_id": "ardennaise",
+    "dadis_ids": [
+      "bel-ardennaise",
+      "fra-ardennaise"
+    ]
+  },
+  {
+    "breed_id": "asil-chicken",
+    "dadis_ids": [
+      "aus-asil",
+      "bgd-aseel",
+      "bol-aseel",
+      "deu-asil",
+      "gbr-aseel",
+      "gtm-aseel",
+      "hnd-aseel",
+      "ind-aseel",
+      "irl-aseel",
+      "nzl-aseal-asil",
+      "pak-aseel",
+      "ury-assel",
+      "usa-aseel"
+    ]
+  },
+  {
+    "breed_id": "augsburger",
+    "dadis_ids": [
+      "deu-augsburger",
+      "gbr-augsburger"
+    ]
+  },
+  {
+    "breed_id": "australian-game",
+    "dadis_ids": [
+      "aus-australian-game"
+    ]
+  },
+  {
+    "breed_id": "australian-langshan",
+    "dadis_ids": [
+      "aus-australian-langshan"
+    ]
+  },
+  {
+    "breed_id": "australian-pit-game-fowl",
+    "dadis_ids": [
+      "aus-australian-pit-game"
+    ]
+  },
+  {
+    "breed_id": "australorp",
+    "dadis_ids": [
+      "aus-australorp",
+      "aze-australorp",
+      "bwa-black-australop",
+      "cod-australop",
+      "cok-black-australorp",
+      "est-australorp",
+      "gbr-australorp",
+      "gbr-australorp-miniature",
+      "hrv-australorp",
+      "ind-black-australorp",
+      "kir-black-australorp",
+      "mmr-australorp",
+      "mwi-black-australorp",
+      "nld-australorp-isa-hendrix-genetics",
+      "npl-black-australorp",
+      "nzl-australorp",
+      "phl-black-australorp",
+      "plw-australorp",
+      "png-australorp",
+      "rou-australorp",
+      "rus-australorp-black-speckled",
+      "slb-australop",
+      "srb-australorp",
+      "svk-australorpka",
+      "ukr-black-australorp-line-101",
+      "usa-australorp",
+      "zwe-black-australorp"
+    ]
+  },
+  {
+    "breed_id": "ayam-kampong",
+    "dadis_ids": [
+      "mys-ayam-kampong"
+    ]
+  },
+  {
+    "breed_id": "barbezieux",
+    "dadis_ids": [
+      "fra-barbezieux"
+    ]
+  },
+  {
+    "breed_id": "barbu-danvers",
+    "dadis_ids": [
+      "gbr-barbu-d-anvers",
+      "irl-barbu-d-anvers",
+      "rou-barboasa-de-anvers"
+    ]
+  },
+  {
+    "breed_id": "barbu-de-grubbe",
+    "dadis_ids": [
+      "gbr-barbu-de-grubbe"
+    ]
+  },
+  {
+    "breed_id": "barbu-de-watermael",
+    "dadis_ids": [
+      "gbr-barbu-de-watermael"
+    ]
+  },
+  {
+    "breed_id": "barbu-deverberg",
+    "dadis_ids": [
+      "gbr-barbu-d-everberg"
+    ]
+  },
+  {
+    "breed_id": "barbu-duccle",
+    "dadis_ids": [
+      "gbr-barbu-d-uccle",
+      "irl-barbu-d-uccle",
+      "nzl-barbu-d-uccle-bantam"
+    ]
+  },
+  {
+    "breed_id": "barnevelder",
+    "dadis_ids": [
+      "aus-barnevelder",
+      "deu-barnevelder",
+      "gbr-barnevelder",
+      "irl-barnevelder",
+      "nld-barnevelder-groot",
+      "nzl-barnevelder",
+      "sur-barnevelder",
+      "svk-barneveldka"
+    ]
+  },
+  {
+    "breed_id": "bassette-li-geoise",
+    "dadis_ids": [
+      "bel-bassette-liegeoise"
+    ]
+  },
+  {
+    "breed_id": "bergische-kr-her",
+    "dadis_ids": [
+      "deu-bergische-kraher"
+    ]
+  },
+  {
+    "breed_id": "bianca-di-saluzzo",
+    "dadis_ids": [
+      "ita-bianca-di-saluzzo"
+    ]
+  },
+  {
+    "breed_id": "bionda-piemontese",
+    "dadis_ids": [
+      "ita-bionda-piemontese"
+    ]
+  },
+  {
+    "breed_id": "black-sex-link",
+    "dadis_ids": [
+      "blz-black-sex-link"
+    ]
+  },
+  {
+    "breed_id": "black-shumen",
+    "dadis_ids": [
+      "bgr-cherna-shumenska-kokoshka"
+    ]
+  },
+  {
+    "breed_id": "blue-andalusian",
+    "dadis_ids": [
+      "aus-andalusian",
+      "esp-andaluza-azul",
+      "gbr-andalusian",
+      "irl-andalusian",
+      "nzl-andalusian",
+      "usa-andalusian"
+    ]
+  },
+  {
+    "breed_id": "booted-bantam",
+    "dadis_ids": [
+      "nld-nederlandse-sabelpootkriel"
+    ]
+  },
+  {
+    "breed_id": "bourbonnaise-chicken",
+    "dadis_ids": [
+      "fra-bourbonnaise"
+    ]
+  },
+  {
+    "breed_id": "brabanter",
+    "dadis_ids": [
+      "bel-brabanconne",
+      "deu-brabanter",
+      "nld-brabanter-groot"
+    ]
+  },
+  {
+    "breed_id": "braekel",
+    "dadis_ids": [
+      "gbr-braekel"
+    ]
+  },
+  {
+    "breed_id": "brahma-chicken",
+    "dadis_ids": [
+      "aus-brahma",
+      "bwa-brahma",
+      "deu-brahma",
+      "ecu-braham",
+      "gbr-brahma",
+      "hrv-brahma",
+      "nzl-brahma",
+      "rus-brahma-buff",
+      "srb-brahma",
+      "ury-brahma-arminado",
+      "ury-brahma-oscuro",
+      "ury-brahma-perdiz",
+      "usa-brahma"
+    ]
+  },
+  {
+    "breed_id": "brakel",
+    "dadis_ids": [
+      "bel-brakel",
+      "deu-brakel"
+    ]
+  },
+  {
+    "breed_id": "branca-chicken",
+    "dadis_ids": [
+      "prt-branca"
+    ]
+  },
+  {
+    "breed_id": "bresse-gauloise",
+    "dadis_ids": [
+      "fra-bresse-gauloise-blanche",
+      "fra-bresse-gauloise-noire",
+      "rou-la-bresse"
+    ]
+  },
+  {
+    "breed_id": "broiler",
+    "dadis_ids": [
+      "gha-aribro-broiler"
+    ]
+  },
+  {
+    "breed_id": "brugse-vechter",
+    "dadis_ids": [
+      "bel-brugse-vechter"
+    ]
+  },
+  {
+    "breed_id": "brussbar",
+    "dadis_ids": [
+      "gbr-brussbar"
+    ]
+  },
+  {
+    "breed_id": "buckeye-chicken",
+    "dadis_ids": [
+      "usa-buckeye"
+    ]
+  },
+  {
+    "breed_id": "burmese-bantam",
+    "dadis_ids": [
+      "gbr-burmese"
+    ]
+  },
+  {
+    "breed_id": "campine-chicken",
+    "dadis_ids": [
+      "aus-campine",
+      "gbr-campine",
+      "irl-campine",
+      "nzl-campine",
+      "usa-campine"
+    ]
+  },
+  {
+    "breed_id": "castellana-negra",
+    "dadis_ids": [
+      "esp-gallina-castellana-negra"
+    ]
+  },
+  {
+    "breed_id": "catalana",
+    "dadis_ids": [
+      "usa-catalana"
+    ]
+  },
+  {
+    "breed_id": "chantecler-chicken",
+    "dadis_ids": [
+      "can-chantecler",
+      "usa-chantecler"
+    ]
+  },
+  {
+    "breed_id": "cochin-chicken",
+    "dadis_ids": [
+      "aus-cochin",
+      "bmu-cochin",
+      "deu-cochin",
+      "gbr-cochin",
+      "irl-cochin",
+      "kor-cochin",
+      "nzl-cochin",
+      "rus-cochin-blue",
+      "rus-cochin-dwarf",
+      "ury-conchinchina-barrada",
+      "ury-conchinchina-blanca",
+      "ury-conchinchina-leonada",
+      "ury-conchinchina-negra",
+      "usa-cochin"
+    ]
+  },
+  {
+    "breed_id": "coucou-des-flandres",
+    "dadis_ids": [
+      "bel-vlaanderse-koekoek",
+      "fra-coucou-des-flandres"
+    ]
+  },
+  {
+    "breed_id": "crevecoeur",
+    "dadis_ids": [
+      "aus-crevecoeur",
+      "fra-crevecoeur",
+      "gbr-creve-coeur",
+      "irl-creve-coeur",
+      "usa-crevecoeur"
+    ]
+  },
+  {
+    "breed_id": "croad-langshan",
+    "dadis_ids": [
+      "aus-croad-langshan",
+      "gbr-croad-langshan"
+    ]
+  },
+  {
+    "breed_id": "cubalaya",
+    "dadis_ids": [
+      "cub-cubalaya",
+      "deu-cubalaya",
+      "usa-cubalaya"
+    ]
+  },
+  {
+    "breed_id": "delaware-chicken",
+    "dadis_ids": [
+      "usa-delaware"
+    ]
+  },
+  {
+    "breed_id": "denizli-chicken",
+    "dadis_ids": [
+      "tur-denizli"
+    ]
+  },
+  {
+    "breed_id": "derbyshire-redcap",
+    "dadis_ids": [
+      "aus-redcap",
+      "gbr-derbyshire-redcap",
+      "usa-redcap"
+    ]
+  },
+  {
+    "breed_id": "dominique-chicken",
+    "dadis_ids": [
+      "gbr-dominique",
+      "usa-dominique"
+    ]
+  },
+  {
+    "breed_id": "dong-tao-chicken",
+    "dadis_ids": [
+      "vnm-ga-dong-tao"
+    ]
+  },
+  {
+    "breed_id": "dorking-chicken",
+    "dadis_ids": [
+      "aus-dorking",
+      "can-silver-grey-dorking",
+      "deu-dorking",
+      "gbr-dorking",
+      "irl-dorking",
+      "nzl-dorking",
+      "usa-dorking"
+    ]
+  },
+  {
+    "breed_id": "dutch-bantam",
+    "dadis_ids": [
+      "aus-dutch-bantam",
+      "nld-hollandse-kriel"
+    ]
+  },
+  {
+    "breed_id": "empordanesa",
+    "dadis_ids": [
+      "deu-empordanesa"
+    ]
+  },
+  {
+    "breed_id": "ermellinata-di-rovigo",
+    "dadis_ids": [
+      "ita-ermellinata-di-rovigo"
+    ]
+  },
+  {
+    "breed_id": "estaires-chicken",
+    "dadis_ids": [
+      "fra-estaires"
+    ]
+  },
+  {
+    "breed_id": "euskal-oiloa",
+    "dadis_ids": [
+      "esp-euskal-oiloa"
+    ]
+  },
+  {
+    "breed_id": "faverolles-chicken",
+    "dadis_ids": [
+      "aus-faverolles",
+      "irl-faverolles",
+      "nzl-faverolles"
+    ]
+  },
+  {
+    "breed_id": "fayoumi",
+    "dadis_ids": [
+      "afg-fayoumi",
+      "aus-fayoumi",
+      "bgd-fayoumi",
+      "egy-fayoumi",
+      "eth-fayoumi",
+      "fra-inra-fayoumi",
+      "gbr-fayoumi",
+      "pak-fayoumi",
+      "usa-egyptian-fayoumi"
+    ]
+  },
+  {
+    "breed_id": "friesian-chicken",
+    "dadis_ids": [
+      "gbr-friesian",
+      "irl-friesan",
+      "nld-fries-hoen-groot"
+    ]
+  },
+  {
+    "breed_id": "frizzle-chicken-breed",
+    "dadis_ids": [
+      "aus-frizzle",
+      "btn-pulom",
+      "gbr-frizzle",
+      "mwi-frizzle",
+      "nzl-frizzle",
+      "sur-frizzle",
+      "swz-frizzle"
+    ]
+  },
+  {
+    "breed_id": "german-langshan",
+    "dadis_ids": [
+      "gbr-german-langshan"
+    ]
+  },
+  {
+    "breed_id": "giriraja",
+    "dadis_ids": [
+      "ind-giriraja",
+      "npl-giriraja"
+    ]
+  },
+  {
+    "breed_id": "gournay",
+    "dadis_ids": [
+      "fra-gournay",
+      "rou-gournay"
+    ]
+  },
+  {
+    "breed_id": "green-legged-partridge",
+    "dadis_ids": [
+      "pol-zielononozka-kuropatwiana-z11",
+      "pol-zielononozka-kuropatwiana-zk",
+      "pol-zielononozka-kuropatwiana-zs11"
+    ]
+  },
+  {
+    "breed_id": "h-chicken",
+    "dadis_ids": [
+      "vnm-ga-ho"
+    ]
+  },
+  {
+    "breed_id": "hamburg-chicken",
+    "dadis_ids": [
+      "deu-hamburger",
+      "gbr-hamburgh",
+      "srb-hamburg",
+      "usa-hamburg"
+    ]
+  },
+  {
+    "breed_id": "holland",
+    "dadis_ids": [
+      "ury-holandesa-negra-copete-blanco",
+      "usa-holland"
+    ]
+  },
+  {
+    "breed_id": "houdan-chicken",
+    "dadis_ids": [
+      "aus-houdan",
+      "can-houdan",
+      "deu-houdan",
+      "fra-houdan",
+      "gbr-houdan",
+      "irl-houdan",
+      "usa-houdan"
+    ]
+  },
+  {
+    "breed_id": "hrvatica-chicken",
+    "dadis_ids": [
+      "hrv-hen-hrvatica"
+    ]
+  },
+  {
+    "breed_id": "indian-game-poultry",
+    "dadis_ids": [
+      "aus-indian-game",
+      "ecu-combatiente",
+      "gbr-cornish-game-large",
+      "gbr-indian-game",
+      "hnd-cornish",
+      "ind-cornish",
+      "irl-indian-game",
+      "kgz-kornish",
+      "kor-hanhyup-black-cornish",
+      "kor-hanhyup-brown-cornish",
+      "kor-hanhyup-white-cornish",
+      "kor-korean-black-cornish",
+      "kor-korean-brown-cornish",
+      "kor-sorae-korean-cornish-a",
+      "kor-sorae-korean-cornish-b",
+      "kor-white-cornish",
+      "mmr-cornish",
+      "nzl-indian-game-large-fowl",
+      "per-cornish",
+      "rou-combatant-indian",
+      "ukr-cornish",
+      "usa-cornish"
+    ]
+  },
+  {
+    "breed_id": "iowa-blue",
+    "dadis_ids": [
+      "usa-iowa-blue"
+    ]
+  },
+  {
+    "breed_id": "isa-brown",
+    "dadis_ids": [
+      "bfa-isa-brown",
+      "bgd-isa-brown",
+      "bol-isa-brown",
+      "bwa-isa-brown",
+      "chl-isa-brown",
+      "civ-souche-pondeuse",
+      "cod-isa-brown",
+      "est-isa-brown",
+      "gab-isa-brown",
+      "gha-isa-brown",
+      "gin-isa-brown",
+      "gtm-isa-brown",
+      "hti-isa-brown",
+      "idn-isa-brown",
+      "mli-isa-brown",
+      "nic-isa-brown",
+      "npl-isa-brown",
+      "omn-local-omani",
+      "per-isa-brown",
+      "rwa-isa-brown",
+      "sen-isa-brown",
+      "tgo-isa-brown",
+      "tto-isa-brown",
+      "ukr-isa-brown",
+      "ven-isa-brown"
+    ]
+  },
+  {
+    "breed_id": "ixworth-chicken",
+    "dadis_ids": [
+      "aus-ixworth",
+      "gbr-ixworth"
+    ]
+  },
+  {
+    "breed_id": "japanese-bantam",
+    "dadis_ids": [
+      "gbr-japanese-bantam",
+      "nzl-japanese-bantam",
+      "sur-japanese-bantam",
+      "ury-nagasaki-blanca",
+      "ury-nagasaki-gris"
+    ]
+  },
+  {
+    "breed_id": "java-chicken",
+    "dadis_ids": [
+      "usa-java"
+    ]
+  },
+  {
+    "breed_id": "jersey-giant",
+    "dadis_ids": [
+      "can-jersey-giant",
+      "can-white-jersey-giant",
+      "gbr-jersey-giant",
+      "irl-jersey-giant",
+      "phl-black-jersey",
+      "usa-jersey-giant"
+    ]
+  },
+  {
+    "breed_id": "kadaknath",
+    "dadis_ids": [
+      "ind-kadaknath"
+    ]
+  },
+  {
+    "breed_id": "kokok-balenggek",
+    "dadis_ids": [
+      "idn-kokok-balenggek"
+    ]
+  },
+  {
+    "breed_id": "kr-per",
+    "dadis_ids": [
+      "deu-kruper",
+      "fra-courtes-pattes"
+    ]
+  },
+  {
+    "breed_id": "la-fl-che-chicken",
+    "dadis_ids": [
+      "aus-la-fleche",
+      "deu-la-fleche",
+      "fra-la-fleche",
+      "gbr-la-fleche",
+      "irl-la-fleche",
+      "rou-la-fleche",
+      "usa-la-fleche"
+    ]
+  },
+  {
+    "breed_id": "lakenvelder",
+    "dadis_ids": [
+      "aus-lakenvelder",
+      "deu-lakenfelder",
+      "gbr-lakenvelder",
+      "irl-lakenvelder",
+      "nld-lakenvelder-hoen",
+      "usa-lakenvelder"
+    ]
+  },
+  {
+    "breed_id": "legbar",
+    "dadis_ids": [
+      "aus-legbar",
+      "gbr-legbar",
+      "irl-legbar",
+      "nzl-legbar"
+    ]
+  },
+  {
+    "breed_id": "leghorn-chicken",
+    "dadis_ids": [
+      "alb-leghorn",
+      "aus-leghorn",
+      "bfa-leghorn",
+      "bgd-white-leghorn",
+      "bra-white-leghorn-cc",
+      "bra-white-leghorn-ccc",
+      "bra-white-leghorn-dd",
+      "brb-leghorn",
+      "bwa-white-leghorn",
+      "can-brown-leghorn",
+      "chl-leghorn",
+      "chn-leghorn",
+      "cod-leghorn",
+      "cok-white-leghorn",
+      "com-leghorn",
+      "deu-leghorn",
+      "dnk-white-leghorn",
+      "egy-white-leghorn",
+      "est-white-leghorn",
+      "eth-white-leghorn",
+      "gab-leghorn",
+      "gbr-leghorn",
+      "hnd-leghorn",
+      "hti-leghorn",
+      "ind-white-leghorn",
+      "irl-leghorn",
+      "irn-leghorn",
+      "irq-leghorn",
+      "ita-livorno",
+      "jpn-white-leghorn",
+      "kaz-leghorn",
+      "ken-white-leghorn",
+      "kgz-white-leghorn",
+      "kor-white-leghorn-snu",
+      "lka-white-leghorn",
+      "lso-white-leghorn",
+      "mdg-white-leghorn",
+      "mli-leghorn",
+      "mmr-white-leghorn",
+      "mnp-leghorn",
+      "mwi-white-leghorn",
+      "nam-white-leghorn",
+      "nld-white-leghorn-isa-hendrix-genetics",
+      "nor-norbrid-1",
+      "nor-norbrid-4",
+      "nzl-leghorn",
+      "phl-white-leghorn",
+      "plw-leghorn",
+      "rus-white-leghorn",
+      "sle-white-leghorn",
+      "srb-leghorn",
+      "stp-leghorn",
+      "sur-white-leghorn",
+      "tgo-leghorn",
+      "ton-white-leghorn",
+      "tza-white-leghorn",
+      "ukr-italian-partridge",
+      "ukr-leghorn",
+      "usa-leghorn"
+    ]
+  },
+  {
+    "breed_id": "luikse-vechter",
+    "dadis_ids": [
+      "bel-luikse-vechter"
+    ]
+  },
+  {
+    "breed_id": "lyonnaise",
+    "dadis_ids": [
+      "fra-lyonnaise"
+    ]
+  },
+  {
+    "breed_id": "malay-game",
+    "dadis_ids": [
+      "aus-malay",
+      "gbr-malay",
+      "irl-malay-game",
+      "slb-malayan-game",
+      "usa-malay"
+    ]
+  },
+  {
+    "breed_id": "malines-chicken",
+    "dadis_ids": [
+      "bel-mechelse-hoen"
+    ]
+  },
+  {
+    "breed_id": "marans",
+    "dadis_ids": [
+      "aus-marans",
+      "deu-marans",
+      "fra-marans",
+      "gbr-marans",
+      "irl-marans"
+    ]
+  },
+  {
+    "breed_id": "marsh-daisy-chicken",
+    "dadis_ids": [
+      "gbr-marsh-daisy"
+    ]
+  },
+  {
+    "breed_id": "mericanel-della-brianza",
+    "dadis_ids": [
+      "ita-gallina-mericanel"
+    ]
+  },
+  {
+    "breed_id": "minorca-chicken",
+    "dadis_ids": [
+      "aus-minorca",
+      "can-minorca",
+      "gbr-minorca",
+      "irl-minorca",
+      "nor-sort-minorka",
+      "nzl-minorca",
+      "rus-minorca",
+      "ury-minorca-negro",
+      "usa-minorca"
+    ]
+  },
+  {
+    "breed_id": "modern-game",
+    "dadis_ids": [
+      "aus-modern-game",
+      "gbr-modern-game",
+      "irl-modern-game",
+      "nzl-modern-game-large-fowl",
+      "usa-modern-game"
+    ]
+  },
+  {
+    "breed_id": "modern-langshan",
+    "dadis_ids": [
+      "gbr-modern-langshan"
+    ]
+  },
+  {
+    "breed_id": "mugellese",
+    "dadis_ids": [
+      "ita-mugellese"
+    ]
+  },
+  {
+    "breed_id": "naked-neck",
+    "dadis_ids": [
+      "bfa-naked-neck",
+      "bgd-naked-neck",
+      "btn-naked-neck",
+      "geo-naked-neck-hen",
+      "irn-naked-neck",
+      "ken-naked-neck",
+      "lka-naked-neck",
+      "mwi-naked-neck",
+      "nam-naked-neck",
+      "pak-naked-neck",
+      "sur-naked-neck",
+      "swz-naked-neck",
+      "tha-kai-kholon-naked-neck-chicken"
+    ]
+  },
+  {
+    "breed_id": "nankin-bantam",
+    "dadis_ids": [
+      "gbr-nankin",
+      "irl-nankin",
+      "usa-nankin"
+    ]
+  },
+  {
+    "breed_id": "new-hampshire-red",
+    "dadis_ids": [
+      "aus-new-hampshire",
+      "aze-new-hampshire",
+      "can-new-hampshire-red",
+      "chl-new-hampshire",
+      "cub-new-hampshire",
+      "deu-new-hampshire",
+      "dnk-new-hampshire",
+      "est-new-hampshire",
+      "gbr-new-hampshire",
+      "hnd-new-hampshire",
+      "hrv-new-hampshire",
+      "ind-new-hampshire",
+      "irl-new-hampshire-red",
+      "irn-new-hampshire",
+      "irq-new-hampshire",
+      "jpn-new-hampshire",
+      "kor-hanhyup-new-hampshire",
+      "kor-new-hampshire",
+      "kor-sorae-korean-new-hampshire-c",
+      "mmr-new-hampshire",
+      "nld-new-hampshire-isa-hendrix-genetics",
+      "npl-new-hampshire",
+      "nzl-new-hampshire",
+      "per-new-hampshire",
+      "phl-new-hampshire",
+      "rou-new-hampshire-rosu",
+      "rus-new-hampshire",
+      "slv-new-hampshire-red",
+      "srb-new-hampshire",
+      "svk-hempsirka",
+      "ury-new-hampshire",
+      "usa-new-hampshire"
+    ]
+  },
+  {
+    "breed_id": "niederrheiner",
+    "dadis_ids": [
+      "deu-niederrheiner"
+    ]
+  },
+  {
+    "breed_id": "norfolk-grey",
+    "dadis_ids": [
+      "gbr-norfolk-grey",
+      "irl-norfolk-grey"
+    ]
+  },
+  {
+    "breed_id": "north-holland-blue",
+    "dadis_ids": [
+      "gbr-north-holland-blue",
+      "irl-north-holland-blue",
+      "nld-noord-hollandse-blauwe-groot",
+      "nzl-north-holland-blue"
+    ]
+  },
+  {
+    "breed_id": "ohiki",
+    "dadis_ids": [
+      "deu-ohiki",
+      "gbr-ohiki",
+      "jpn-japanese-long-saddled-bantam"
+    ]
+  },
+  {
+    "breed_id": "old-english-game",
+    "dadis_ids": [
+      "aus-old-english-game",
+      "gbr-old-english-game",
+      "irl-old-english-game",
+      "nzl-old-english-game",
+      "usa-old-english-game"
+    ]
+  },
+  {
+    "breed_id": "old-english-pheasant-fowl",
+    "dadis_ids": [
+      "aus-old-english-pheasant-fowl",
+      "gbr-old-english-pheasant-fowl"
+    ]
+  },
+  {
+    "breed_id": "onagadori",
+    "dadis_ids": [
+      "deu-onagadori",
+      "gbr-onagadori",
+      "jpn-japanese-long-tailed-fowl"
+    ]
+  },
+  {
+    "breed_id": "orloff-chicken",
+    "dadis_ids": [
+      "aus-orloff",
+      "deu-orloff",
+      "gbr-orloff",
+      "irl-orloff",
+      "rou-orloff",
+      "usa-russian-orloff"
+    ]
+  },
+  {
+    "breed_id": "orpington-chicken",
+    "dadis_ids": [
+      "aus-orpington",
+      "bwa-oppinton",
+      "deu-orpington",
+      "gbr-buff-orpington",
+      "gbr-orpington",
+      "hrv-orpington",
+      "nzl-orpington",
+      "rou-orpington-galben",
+      "svk-orpingtonka",
+      "ury-orpington-blanco",
+      "ury-orpington-leonado",
+      "ury-orpington-negro",
+      "usa-orpington"
+    ]
+  },
+  {
+    "breed_id": "p-poi",
+    "dadis_ids": [
+      "ita-pepoi"
+    ]
+  },
+  {
+    "breed_id": "padovana-chicken",
+    "dadis_ids": [
+      "ita-padovana"
+    ]
+  },
+  {
+    "breed_id": "pedr-s-portuguesa",
+    "dadis_ids": [
+      "prt-pedres-portuguesa"
+    ]
+  },
+  {
+    "breed_id": "pekin-bantam",
+    "dadis_ids": [
+      "irl-pekin-bantam",
+      "nzl-pekin-bantam"
+    ]
+  },
+  {
+    "breed_id": "penedesenca",
+    "dadis_ids": [
+      "deu-penedesenca",
+      "esp-penedesenca"
+    ]
+  },
+  {
+    "breed_id": "phoenix-chicken",
+    "dadis_ids": [
+      "aus-phoenix",
+      "irl-phoenix",
+      "usa-phoenix"
+    ]
+  },
+  {
+    "breed_id": "pictave",
+    "dadis_ids": [
+      "fra-pictave"
+    ]
+  },
+  {
+    "breed_id": "pita-pinta-asturiana",
+    "dadis_ids": [
+      "esp-pita-pinta"
+    ]
+  },
+  {
+    "breed_id": "plymouth-rock-chicken",
+    "dadis_ids": [
+      "atg-plymouth-rock",
+      "aus-plymouth-rock",
+      "bgd-barred-plymouth-rock",
+      "bgd-white-rock",
+      "bol-playmouth-rock",
+      "bol-plymouth",
+      "bwa-plymouth-rock",
+      "can-barred-plymouth-rock",
+      "chl-plymouth-rock",
+      "chn-barred-rock",
+      "com-plymouth-rock",
+      "cub-barred-plymouth-rock",
+      "dma-plymouth-rock",
+      "dom-plymouth-rock",
+      "ecu-plymounth-rock",
+      "gab-plymouth",
+      "gbr-plymouth-rock",
+      "gnb-plymouth-rock",
+      "hnd-plymouth",
+      "hrv-plymouth-rock",
+      "hun-godolloi-feher-plymouth",
+      "ind-barred-plymouth-rock",
+      "irl-plymouth-rock",
+      "irn-white-plymouth-rock",
+      "jpn-barred-plymouth-rock",
+      "kor-hanhyup-patridge-rock",
+      "mdg-plymouth-rock",
+      "mmr-barred-plymouth-rock",
+      "mnp-plymouth-rock",
+      "nld-barred-plymouth-rock-isa-hendrix-genetics",
+      "nor-barred-plymouth-rock",
+      "nzl-plymouth-rock",
+      "per-plymouth-rock",
+      "phl-barred-plymouth-rock",
+      "phl-white-rock",
+      "plw-barred-rock",
+      "slv-plymouth-rock",
+      "srb-plymouth-rock",
+      "stp-plymouth-rock",
+      "sur-plymouth-rock",
+      "svk-plymutka",
+      "ukr-barred-plymouth-rock",
+      "ukr-plymouth-rock-white",
+      "usa-plymouth-rock"
+    ]
+  },
+  {
+    "breed_id": "polbar",
+    "dadis_ids": [
+      "pol-polbar"
+    ]
+  },
+  {
+    "breed_id": "polish-chicken",
+    "dadis_ids": [
+      "aus-polish",
+      "gbr-polish",
+      "irl-poland",
+      "nzl-polish",
+      "usa-polish"
+    ]
+  },
+  {
+    "breed_id": "polverara-chicken",
+    "dadis_ids": [
+      "ita-polverara"
+    ]
+  },
+  {
+    "breed_id": "potchefstroom-koekoek",
+    "dadis_ids": [
+      "bwa-portchestroom"
+    ]
+  },
+  {
+    "breed_id": "preta-lusit-nica",
+    "dadis_ids": [
+      "prt-preta-lusitanica"
+    ]
+  },
+  {
+    "breed_id": "ramelsloher",
+    "dadis_ids": [
+      "deu-ramelsloher"
+    ]
+  },
+  {
+    "breed_id": "rhode-island-red",
+    "dadis_ids": [
+      "atg-rhode-island-red",
+      "aus-rhode-island",
+      "aze-rhode-island",
+      "bfa-rhode-island-red",
+      "bgd-rhode-island-red",
+      "blz-rhode-island-red",
+      "bol-rhode-island",
+      "bra-rhode-island-red-gg",
+      "bra-rhode-island-red-ggp",
+      "bra-rhode-island-red-mm",
+      "brb-rhode-island-red",
+      "btn-rir",
+      "bwa-rhode-island-red",
+      "can-rhode-island-red",
+      "chl-rhode-island",
+      "chn-rhode-island-red",
+      "cod-rhode-island-red",
+      "cog-rhode-island",
+      "cok-rhode-island-red",
+      "com-rhode-island-red",
+      "dma-rhode-island-red",
+      "dom-rhode-island-red",
+      "ecu-rhode-islands",
+      "eth-rhode-island-red",
+      "gab-rhode-island",
+      "gbr-rhode-island-red",
+      "gnb-rhode-island",
+      "gum-rhode-island-red",
+      "hnd-rhode-island-red",
+      "ind-rhode-island-red",
+      "irl-rhode-island-red",
+      "irn-rhode-island-red",
+      "jpn-rhode-island-red",
+      "ken-rhode-island-red",
+      "kir-rhode-island-red",
+      "kor-hanhyup-rhode-island-red-s",
+      "kor-hanhyup-rhode-island-red-w",
+      "kor-korean-rhode-island-red",
+      "kor-sorae-korean-rhode-island-red-d",
+      "lka-rhode-island-red",
+      "mdg-rhode-island-red",
+      "mli-rhode-island-red",
+      "mmr-rhode-island-red",
+      "mnp-rhode-island-red",
+      "nam-rhode-island-red",
+      "nld-rhode-island-red-isa-hendrix-genetics",
+      "nld-rhode-island-white-isa-hendrix-genetics",
+      "nor-red-rhode-island-rri",
+      "pak-rhode-island-red",
+      "per-rhode-island-red",
+      "phl-rhode-island-red",
+      "plw-rhode-island-red",
+      "rus-rhode-island-red",
+      "rwa-rhode-island-red",
+      "slb-rhode-island-red",
+      "sle-rhode-island",
+      "slv-rhode-island-red",
+      "stp-rhode-island-red",
+      "sur-rhode-island-red",
+      "svk-rodajlendka",
+      "tto-rhode-island-red",
+      "ukr-rhode-island-red",
+      "ury-rhode-island-red",
+      "usa-rhode-island-red",
+      "zwe-rhode-island-red"
+    ]
+  },
+  {
+    "breed_id": "rhode-island-white",
+    "dadis_ids": [
+      "bwa-rhode-island-white",
+      "ukr-rhode-island-white",
+      "usa-rhode-island-white"
+    ]
+  },
+  {
+    "breed_id": "rhodebar",
+    "dadis_ids": [
+      "gbr-gold-legbar",
+      "gbr-rhodebar",
+      "irl-rhodebar"
+    ]
+  },
+  {
+    "breed_id": "robusta-lionata",
+    "dadis_ids": [
+      "ita-robusta-lionata"
+    ]
+  },
+  {
+    "breed_id": "robusta-maculata",
+    "dadis_ids": [
+      "ita-robusta-maculata"
+    ]
+  },
+  {
+    "breed_id": "rosecomb",
+    "dadis_ids": [
+      "aus-rosecomb",
+      "irl-rosecomb-bantam",
+      "nzl-rosecomb-bantam"
+    ]
+  },
+  {
+    "breed_id": "rumpless-game",
+    "dadis_ids": [
+      "gbr-rumpless-game",
+      "irl-rumpless-game"
+    ]
+  },
+  {
+    "breed_id": "satsumadori",
+    "dadis_ids": [
+      "deu-satsumadori",
+      "gbr-satsumadori"
+    ]
+  },
+  {
+    "breed_id": "scots-dumpy",
+    "dadis_ids": [
+      "gbr-scots-dumpy",
+      "irl-scots-dumpy"
+    ]
+  },
+  {
+    "breed_id": "scots-grey",
+    "dadis_ids": [
+      "aus-scots-grey",
+      "gbr-scots-grey"
+    ]
+  },
+  {
+    "breed_id": "sebright-chicken",
+    "dadis_ids": [
+      "aus-sebright",
+      "deu-sebright",
+      "irl-sebright",
+      "nzl-sebright-bantam",
+      "ury-sebright",
+      "usa-sebright"
+    ]
+  },
+  {
+    "breed_id": "sentul-chicken",
+    "dadis_ids": [
+      "idn-sentul"
+    ]
+  },
+  {
+    "breed_id": "serama",
+    "dadis_ids": [
+      "deu-serama"
+    ]
+  },
+  {
+    "breed_id": "shamo",
+    "dadis_ids": [
+      "aus-shamo",
+      "gbr-shamo",
+      "irl-shamo",
+      "jpn-shamo",
+      "usa-shamo"
+    ]
+  },
+  {
+    "breed_id": "sicilian-buttercup",
+    "dadis_ids": [
+      "gbr-sicilian-buttercup",
+      "irl-sicilian-buttercup",
+      "nzl-sicilian-buttercup",
+      "usa-buttercup"
+    ]
+  },
+  {
+    "breed_id": "siciliana-chicken",
+    "dadis_ids": [
+      "ita-siciliana"
+    ]
+  },
+  {
+    "breed_id": "silkie-chicken-breed",
+    "dadis_ids": [
+      "aus-silkie",
+      "chn-silkie",
+      "gbr-silkie",
+      "irl-silkie",
+      "kor-changwon-silkie",
+      "srb-japan-silk",
+      "svk-hodvabnicka",
+      "ury-sedosa-japon"
+    ]
+  },
+  {
+    "breed_id": "slovenian-barred-hen",
+    "dadis_ids": [
+      "svn-slovenska-grahasta-kokos"
+    ]
+  },
+  {
+    "breed_id": "slovenian-brown-hen",
+    "dadis_ids": [
+      "svn-slovenska-rjava-kokos"
+    ]
+  },
+  {
+    "breed_id": "slovenian-silver-hen",
+    "dadis_ids": [
+      "svn-slovenska-srebrna-kokos"
+    ]
+  },
+  {
+    "breed_id": "stara-zagora-red",
+    "dadis_ids": [
+      "bgr-starozagorska-chervena-kokoshka"
+    ]
+  },
+  {
+    "breed_id": "sulmtaler",
+    "dadis_ids": [
+      "aut-sulmtaler",
+      "deu-sulmtaler",
+      "gbr-sulmtaler"
+    ]
+  },
+  {
+    "breed_id": "sultan-chicken",
+    "dadis_ids": [
+      "aus-sultan",
+      "gbr-sultan",
+      "irl-sultan",
+      "srb-sultan",
+      "tur-sultan",
+      "usa-sultan"
+    ]
+  },
+  {
+    "breed_id": "sumatra-chicken",
+    "dadis_ids": [
+      "aus-sumatra",
+      "deu-sumatra",
+      "gbr-sumatra-game",
+      "gtm-sumarra",
+      "idn-sumatra",
+      "irl-sumatra-game",
+      "usa-sumatra"
+    ]
+  },
+  {
+    "breed_id": "sussex-chicken",
+    "dadis_ids": [
+      "aus-sussex",
+      "aze-sussex",
+      "bfa-sussex",
+      "bgr-sussex-line",
+      "bwa-sussex",
+      "can-light-sussex",
+      "chl-sussex",
+      "cod-sussex-herminee",
+      "com-sussex",
+      "cub-light-sussex",
+      "deu-sussex",
+      "gab-sussex",
+      "gbr-light-sussex",
+      "gbr-speckled-sussex",
+      "gbr-sussex",
+      "gnb-sussex",
+      "irl-sussex",
+      "ken-sussex",
+      "mdg-sussex-herminee",
+      "mli-sussex",
+      "mmr-light-sussex",
+      "nld-sussex-isa-hendrix-genetics",
+      "nor-light-sussex",
+      "nzl-sussex",
+      "rou-sussex-herminat",
+      "rus-sussex",
+      "rwa-sussex",
+      "srb-sussex",
+      "tgo-sussex",
+      "tza-light-sussex",
+      "ukr-light-sussex",
+      "usa-sussex",
+      "zwe-light-sussex"
+    ]
+  },
+  {
+    "breed_id": "thai-game",
+    "dadis_ids": [
+      "gbr-thai-game"
+    ]
+  },
+  {
+    "breed_id": "tiense-vechter",
+    "dadis_ids": [
+      "bel-tiense-vechter"
+    ]
+  },
+  {
+    "breed_id": "tomaru",
+    "dadis_ids": [
+      "deu-tomaru",
+      "jpn-tomaru"
+    ]
+  },
+  {
+    "breed_id": "tuzo-chicken",
+    "dadis_ids": [
+      "deu-tuzo",
+      "gbr-tuzo"
+    ]
+  },
+  {
+    "breed_id": "utrerana",
+    "dadis_ids": [
+      "esp-utrerana"
+    ]
+  },
+  {
+    "breed_id": "valdarno-chicken",
+    "dadis_ids": [
+      "ita-valdarno"
+    ]
+  },
+  {
+    "breed_id": "vanaraja",
+    "dadis_ids": [
+      "ind-vanaraja"
+    ]
+  },
+  {
+    "breed_id": "vorwerk-chicken",
+    "dadis_ids": [
+      "aus-vorwerk",
+      "deu-vorwerkhuhn",
+      "gbr-vorwerk",
+      "irl-vorwerk"
+    ]
+  },
+  {
+    "breed_id": "welsummer",
+    "dadis_ids": [
+      "aus-welsummer",
+      "deu-welsumer",
+      "gbr-welsummer",
+      "irl-welsummer",
+      "nld-welsumer-roodpatrijs-groot",
+      "nzl-welsummer",
+      "rou-welsummer-maron",
+      "svk-velsumka"
+    ]
+  },
+  {
+    "breed_id": "wyandotte-chicken",
+    "dadis_ids": [
+      "aus-wyandotte",
+      "bwa-wyandotte",
+      "cod-wyandotte",
+      "gbr-wyandotte",
+      "irl-wyandotte",
+      "mli-wyandotte",
+      "sur-wyandotte",
+      "svk-vyandotka",
+      "ury-wyandotte-plateado",
+      "usa-wyandotte"
+    ]
+  },
+  {
+    "breed_id": "yokohama-chicken",
+    "dadis_ids": [
+      "aus-yokohama",
+      "deu-yokohama",
+      "irl-yokohama",
+      "usa-yokohama"
+    ]
+  }
+]

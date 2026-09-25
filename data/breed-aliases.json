@@ -1,0 +1,128 @@
+[
+  {
+    "alias": "Cream Legbar",
+    "alias_slug": "cream-legbar",
+    "breed_id": "legbar",
+    "kind": "variety",
+    "source_url": "https://en.wikipedia.org/wiki/Legbar"
+  },
+  {
+    "alias": "Turken",
+    "alias_slug": "turken",
+    "breed_id": "naked-neck",
+    "kind": "alias",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Black Copper Marans",
+    "alias_slug": "black-copper-marans",
+    "breed_id": "marans",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Lavender Orpington",
+    "alias_slug": "lavender-orpington",
+    "breed_id": "orpington-chicken",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Buff Orpington",
+    "alias_slug": "buff-orpington",
+    "breed_id": "orpington-chicken",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Blue Australorp",
+    "alias_slug": "blue-australorp",
+    "breed_id": "australorp",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Speckled Sussex",
+    "alias_slug": "speckled-sussex",
+    "breed_id": "sussex-chicken",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Salmon Faverolles",
+    "alias_slug": "salmon-faverolles",
+    "breed_id": "faverolles-chicken",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Silver Laced Wyandotte",
+    "alias_slug": "silver-laced-wyandotte",
+    "breed_id": "wyandotte-chicken",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Barred Rock",
+    "alias_slug": "barred-rock",
+    "breed_id": "plymouth-rock-chicken",
+    "kind": "variety",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Mille Fleur d'Uccle",
+    "alias_slug": "mille-fleur-d-uccle",
+    "breed_id": "barbu-duccle",
+    "kind": "variety",
+    "source_url": "https://en.wikipedia.org/wiki/Belgian_d%27Uccle"
+  },
+  {
+    "alias": "Cinnamon Queen",
+    "alias_slug": "cinnamon-queen",
+    "breed_id": "golden-comet",
+    "kind": "alias",
+    "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+  },
+  {
+    "alias": "Red Star",
+    "alias_slug": "red-star",
+    "breed_id": "isa-brown",
+    "kind": "alias",
+    "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+  },
+  {
+    "alias": "Black Star",
+    "alias_slug": "black-star",
+    "breed_id": "black-sex-link",
+    "kind": "alias",
+    "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+  },
+  {
+    "alias": "Langshan",
+    "alias_slug": "langshan",
+    "breed_id": "croad-langshan",
+    "kind": "alias",
+    "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan"
+  },
+  {
+    "alias": "Blue Sapphire",
+    "alias_slug": "blue-sapphire",
+    "breed_id": "sapphire-gem",
+    "kind": "variety",
+    "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+  },
+  {
+    "alias": "Sapphire Splash",
+    "alias_slug": "sapphire-splash",
+    "breed_id": "sapphire-gem",
+    "kind": "variety",
+    "source_url": "https://www.ideal-poultry.com/sapphire-gem"
+  },
+  {
+    "alias": "Rainbow Layers",
+    "alias_slug": "rainbow-layers",
+    "breed_id": "easter-egger",
+    "kind": "alias",
+    "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+  }
+]

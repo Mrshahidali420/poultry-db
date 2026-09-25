@@ -1,0 +1,1362 @@
+{
+  "source": {
+    "name": "U.S. Census Bureau, Vintage 2025 Population Estimates, City and Town Population Totals (SUB-EST2025), July 1, 2025 estimates, incorporated places and consolidated-city balances (SUMLEV 162); Urban Honolulu CDP is included as Census lists it",
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/cities/totals/sub-est2025.csv",
+    "page": "https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"
+  },
+  "retrieved": "2026-09-26",
+  "population_field": "POPESTIMATE2025",
+  "count": 150,
+  "cities": [
+    {
+      "rank": 1,
+      "id": "new-york-ny",
+      "name": "New York",
+      "census_name": "New York city",
+      "state": "NY",
+      "state_name": "New York",
+      "population": 8584629
+    },
+    {
+      "rank": 2,
+      "id": "los-angeles-ca",
+      "name": "Los Angeles",
+      "census_name": "Los Angeles city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 3869089
+    },
+    {
+      "rank": 3,
+      "id": "chicago-il",
+      "name": "Chicago",
+      "census_name": "Chicago city",
+      "state": "IL",
+      "state_name": "Illinois",
+      "population": 2731585
+    },
+    {
+      "rank": 4,
+      "id": "houston-tx",
+      "name": "Houston",
+      "census_name": "Houston city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 2397315
+    },
+    {
+      "rank": 5,
+      "id": "phoenix-az",
+      "name": "Phoenix",
+      "census_name": "Phoenix city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 1665481
+    },
+    {
+      "rank": 6,
+      "id": "philadelphia-pa",
+      "name": "Philadelphia",
+      "census_name": "Philadelphia city",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "population": 1574281
+    },
+    {
+      "rank": 7,
+      "id": "san-antonio-tx",
+      "name": "San Antonio",
+      "census_name": "San Antonio city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 1548422
+    },
+    {
+      "rank": 8,
+      "id": "san-diego-ca",
+      "name": "San Diego",
+      "census_name": "San Diego city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 1406106
+    },
+    {
+      "rank": 9,
+      "id": "dallas-tx",
+      "name": "Dallas",
+      "census_name": "Dallas city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 1329491
+    },
+    {
+      "rank": 10,
+      "id": "fort-worth-tx",
+      "name": "Fort Worth",
+      "census_name": "Fort Worth city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 1028117
+    },
+    {
+      "rank": 11,
+      "id": "jacksonville-fl",
+      "name": "Jacksonville",
+      "census_name": "Jacksonville city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 1017689
+    },
+    {
+      "rank": 12,
+      "id": "austin-tx",
+      "name": "Austin",
+      "census_name": "Austin city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 1002632
+    },
+    {
+      "rank": 13,
+      "id": "san-jose-ca",
+      "name": "San Jose",
+      "census_name": "San Jose city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 989814
+    },
+    {
+      "rank": 14,
+      "id": "charlotte-nc",
+      "name": "Charlotte",
+      "census_name": "Charlotte city",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 964784
+    },
+    {
+      "rank": 15,
+      "id": "columbus-oh",
+      "name": "Columbus",
+      "census_name": "Columbus city",
+      "state": "OH",
+      "state_name": "Ohio",
+      "population": 938396
+    },
+    {
+      "rank": 16,
+      "id": "indianapolis-in",
+      "name": "Indianapolis",
+      "census_name": "Indianapolis city (balance)",
+      "state": "IN",
+      "state_name": "Indiana",
+      "population": 901116
+    },
+    {
+      "rank": 17,
+      "id": "san-francisco-ca",
+      "name": "San Francisco",
+      "census_name": "San Francisco city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 826079
+    },
+    {
+      "rank": 18,
+      "id": "seattle-wa",
+      "name": "Seattle",
+      "census_name": "Seattle city",
+      "state": "WA",
+      "state_name": "Washington",
+      "population": 784777
+    },
+    {
+      "rank": 19,
+      "id": "denver-co",
+      "name": "Denver",
+      "census_name": "Denver city",
+      "state": "CO",
+      "state_name": "Colorado",
+      "population": 740613
+    },
+    {
+      "rank": 20,
+      "id": "nashville-tn",
+      "name": "Nashville",
+      "census_name": "Nashville-Davidson metropolitan government (balance)",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "population": 721074
+    },
+    {
+      "rank": 21,
+      "id": "oklahoma-city-ok",
+      "name": "Oklahoma City",
+      "census_name": "Oklahoma City city",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "population": 719849
+    },
+    {
+      "rank": 22,
+      "id": "washington-dc",
+      "name": "Washington",
+      "census_name": "Washington city",
+      "state": "DC",
+      "state_name": "District of Columbia",
+      "population": 693645
+    },
+    {
+      "rank": 23,
+      "id": "el-paso-tx",
+      "name": "El Paso",
+      "census_name": "El Paso city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 683012
+    },
+    {
+      "rank": 24,
+      "id": "las-vegas-nv",
+      "name": "Las Vegas",
+      "census_name": "Las Vegas city",
+      "state": "NV",
+      "state_name": "Nevada",
+      "population": 679817
+    },
+    {
+      "rank": 25,
+      "id": "boston-ma",
+      "name": "Boston",
+      "census_name": "Boston city",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "population": 672973
+    },
+    {
+      "rank": 26,
+      "id": "detroit-mi",
+      "name": "Detroit",
+      "census_name": "Detroit city",
+      "state": "MI",
+      "state_name": "Michigan",
+      "population": 649095
+    },
+    {
+      "rank": 27,
+      "id": "louisville-ky",
+      "name": "Louisville",
+      "census_name": "Louisville/Jefferson County metro government (balance)",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "population": 641962
+    },
+    {
+      "rank": 28,
+      "id": "portland-or",
+      "name": "Portland",
+      "census_name": "Portland city",
+      "state": "OR",
+      "state_name": "Oregon",
+      "population": 635109
+    },
+    {
+      "rank": 29,
+      "id": "memphis-tn",
+      "name": "Memphis",
+      "census_name": "Memphis city",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "population": 609647
+    },
+    {
+      "rank": 30,
+      "id": "baltimore-md",
+      "name": "Baltimore",
+      "census_name": "Baltimore city",
+      "state": "MD",
+      "state_name": "Maryland",
+      "population": 569997
+    },
+    {
+      "rank": 31,
+      "id": "milwaukee-wi",
+      "name": "Milwaukee",
+      "census_name": "Milwaukee city",
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "population": 562407
+    },
+    {
+      "rank": 32,
+      "id": "albuquerque-nm",
+      "name": "Albuquerque",
+      "census_name": "Albuquerque city",
+      "state": "NM",
+      "state_name": "New Mexico",
+      "population": 556588
+    },
+    {
+      "rank": 33,
+      "id": "fresno-ca",
+      "name": "Fresno",
+      "census_name": "Fresno city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 555549
+    },
+    {
+      "rank": 34,
+      "id": "tucson-az",
+      "name": "Tucson",
+      "census_name": "Tucson city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 548371
+    },
+    {
+      "rank": 35,
+      "id": "sacramento-ca",
+      "name": "Sacramento",
+      "census_name": "Sacramento city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 536449
+    },
+    {
+      "rank": 36,
+      "id": "atlanta-ga",
+      "name": "Atlanta",
+      "census_name": "Atlanta city",
+      "state": "GA",
+      "state_name": "Georgia",
+      "population": 529110
+    },
+    {
+      "rank": 37,
+      "id": "kansas-city-mo",
+      "name": "Kansas City",
+      "census_name": "Kansas City city",
+      "state": "MO",
+      "state_name": "Missouri",
+      "population": 521220
+    },
+    {
+      "rank": 38,
+      "id": "mesa-az",
+      "name": "Mesa",
+      "census_name": "Mesa city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 513656
+    },
+    {
+      "rank": 39,
+      "id": "raleigh-nc",
+      "name": "Raleigh",
+      "census_name": "Raleigh city",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 506306
+    },
+    {
+      "rank": 40,
+      "id": "colorado-springs-co",
+      "name": "Colorado Springs",
+      "census_name": "Colorado Springs city",
+      "state": "CO",
+      "state_name": "Colorado",
+      "population": 494743
+    },
+    {
+      "rank": 41,
+      "id": "miami-fl",
+      "name": "Miami",
+      "census_name": "Miami city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 489812
+    },
+    {
+      "rank": 42,
+      "id": "omaha-ne",
+      "name": "Omaha",
+      "census_name": "Omaha city",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "population": 488797
+    },
+    {
+      "rank": 43,
+      "id": "virginia-beach-va",
+      "name": "Virginia Beach",
+      "census_name": "Virginia Beach city",
+      "state": "VA",
+      "state_name": "Virginia",
+      "population": 453737
+    },
+    {
+      "rank": 44,
+      "id": "long-beach-ca",
+      "name": "Long Beach",
+      "census_name": "Long Beach city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 450469
+    },
+    {
+      "rank": 45,
+      "id": "oakland-ca",
+      "name": "Oakland",
+      "census_name": "Oakland city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 440838
+    },
+    {
+      "rank": 46,
+      "id": "minneapolis-mn",
+      "name": "Minneapolis",
+      "census_name": "Minneapolis city",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "population": 430324
+    },
+    {
+      "rank": 47,
+      "id": "bakersfield-ca",
+      "name": "Bakersfield",
+      "census_name": "Bakersfield city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 422165
+    },
+    {
+      "rank": 48,
+      "id": "tulsa-ok",
+      "name": "Tulsa",
+      "census_name": "Tulsa city",
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "population": 416209
+    },
+    {
+      "rank": 49,
+      "id": "tampa-fl",
+      "name": "Tampa",
+      "census_name": "Tampa city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 413554
+    },
+    {
+      "rank": 50,
+      "id": "aurora-co",
+      "name": "Aurora",
+      "census_name": "Aurora city",
+      "state": "CO",
+      "state_name": "Colorado",
+      "population": 410053
+    },
+    {
+      "rank": 51,
+      "id": "arlington-tx",
+      "name": "Arlington",
+      "census_name": "Arlington city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 402134
+    },
+    {
+      "rank": 52,
+      "id": "wichita-ks",
+      "name": "Wichita",
+      "census_name": "Wichita city",
+      "state": "KS",
+      "state_name": "Kansas",
+      "population": 400987
+    },
+    {
+      "rank": 53,
+      "id": "cleveland-oh",
+      "name": "Cleveland",
+      "census_name": "Cleveland city",
+      "state": "OH",
+      "state_name": "Ohio",
+      "population": 363608
+    },
+    {
+      "rank": 54,
+      "id": "new-orleans-la",
+      "name": "New Orleans",
+      "census_name": "New Orleans city",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "population": 362154
+    },
+    {
+      "rank": 55,
+      "id": "henderson-nv",
+      "name": "Henderson",
+      "census_name": "Henderson city",
+      "state": "NV",
+      "state_name": "Nevada",
+      "population": 353289
+    },
+    {
+      "rank": 56,
+      "id": "honolulu-hi",
+      "name": "Honolulu",
+      "census_name": "Urban Honolulu CDP",
+      "state": "HI",
+      "state_name": "Hawaii",
+      "population": 341868
+    },
+    {
+      "rank": 57,
+      "id": "anaheim-ca",
+      "name": "Anaheim",
+      "census_name": "Anaheim city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 341008
+    },
+    {
+      "rank": 58,
+      "id": "orlando-fl",
+      "name": "Orlando",
+      "census_name": "Orlando city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 333888
+    },
+    {
+      "rank": 59,
+      "id": "lexington-ky",
+      "name": "Lexington",
+      "census_name": "Lexington-Fayette urban county",
+      "state": "KY",
+      "state_name": "Kentucky",
+      "population": 329751
+    },
+    {
+      "rank": 60,
+      "id": "stockton-ca",
+      "name": "Stockton",
+      "census_name": "Stockton city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 324597
+    },
+    {
+      "rank": 61,
+      "id": "newark-nj",
+      "name": "Newark",
+      "census_name": "Newark city",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "population": 323808
+    },
+    {
+      "rank": 62,
+      "id": "riverside-ca",
+      "name": "Riverside",
+      "census_name": "Riverside city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 323057
+    },
+    {
+      "rank": 63,
+      "id": "irvine-ca",
+      "name": "Irvine",
+      "census_name": "Irvine city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 318764
+    },
+    {
+      "rank": 64,
+      "id": "corpus-christi-tx",
+      "name": "Corpus Christi",
+      "census_name": "Corpus Christi city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 317247
+    },
+    {
+      "rank": 65,
+      "id": "santa-ana-ca",
+      "name": "Santa Ana",
+      "census_name": "Santa Ana city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 315586
+    },
+    {
+      "rank": 66,
+      "id": "cincinnati-oh",
+      "name": "Cincinnati",
+      "census_name": "Cincinnati city",
+      "state": "OH",
+      "state_name": "Ohio",
+      "population": 314367
+    },
+    {
+      "rank": 67,
+      "id": "greensboro-nc",
+      "name": "Greensboro",
+      "census_name": "Greensboro city",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 308667
+    },
+    {
+      "rank": 68,
+      "id": "pittsburgh-pa",
+      "name": "Pittsburgh",
+      "census_name": "Pittsburgh city",
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "population": 307632
+    },
+    {
+      "rank": 69,
+      "id": "st-paul-mn",
+      "name": "St. Paul",
+      "census_name": "St. Paul city",
+      "state": "MN",
+      "state_name": "Minnesota",
+      "population": 306684
+    },
+    {
+      "rank": 70,
+      "id": "durham-nc",
+      "name": "Durham",
+      "census_name": "Durham city",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 305561
+    },
+    {
+      "rank": 71,
+      "id": "jersey-city-nj",
+      "name": "Jersey City",
+      "census_name": "Jersey City city",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "population": 302013
+    },
+    {
+      "rank": 72,
+      "id": "lincoln-ne",
+      "name": "Lincoln",
+      "census_name": "Lincoln city",
+      "state": "NE",
+      "state_name": "Nebraska",
+      "population": 301522
+    },
+    {
+      "rank": 73,
+      "id": "north-las-vegas-nv",
+      "name": "North Las Vegas",
+      "census_name": "North Las Vegas city",
+      "state": "NV",
+      "state_name": "Nevada",
+      "population": 296653
+    },
+    {
+      "rank": 74,
+      "id": "plano-tx",
+      "name": "Plano",
+      "census_name": "Plano city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 293028
+    },
+    {
+      "rank": 75,
+      "id": "gilbert-az",
+      "name": "Gilbert",
+      "census_name": "Gilbert town",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 287285
+    },
+    {
+      "rank": 76,
+      "id": "anchorage-ak",
+      "name": "Anchorage",
+      "census_name": "Anchorage municipality",
+      "state": "AK",
+      "state_name": "Alaska",
+      "population": 287155
+    },
+    {
+      "rank": 77,
+      "id": "madison-wi",
+      "name": "Madison",
+      "census_name": "Madison city",
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "population": 286233
+    },
+    {
+      "rank": 78,
+      "id": "reno-nv",
+      "name": "Reno",
+      "census_name": "Reno city",
+      "state": "NV",
+      "state_name": "Nevada",
+      "population": 283621
+    },
+    {
+      "rank": 79,
+      "id": "chandler-az",
+      "name": "Chandler",
+      "census_name": "Chandler city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 278748
+    },
+    {
+      "rank": 80,
+      "id": "st-louis-mo",
+      "name": "St. Louis",
+      "census_name": "St. Louis city",
+      "state": "MO",
+      "state_name": "Missouri",
+      "population": 278144
+    },
+    {
+      "rank": 81,
+      "id": "chula-vista-ca",
+      "name": "Chula Vista",
+      "census_name": "Chula Vista city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 275533
+    },
+    {
+      "rank": 82,
+      "id": "fort-wayne-in",
+      "name": "Fort Wayne",
+      "census_name": "Fort Wayne city",
+      "state": "IN",
+      "state_name": "Indiana",
+      "population": 275203
+    },
+    {
+      "rank": 83,
+      "id": "buffalo-ny",
+      "name": "Buffalo",
+      "census_name": "Buffalo city",
+      "state": "NY",
+      "state_name": "New York",
+      "population": 274613
+    },
+    {
+      "rank": 84,
+      "id": "lubbock-tx",
+      "name": "Lubbock",
+      "census_name": "Lubbock city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 273071
+    },
+    {
+      "rank": 85,
+      "id": "laredo-tx",
+      "name": "Laredo",
+      "census_name": "Laredo city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 269515
+    },
+    {
+      "rank": 86,
+      "id": "port-st-lucie-fl",
+      "name": "Port St. Lucie",
+      "census_name": "Port St. Lucie city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 268062
+    },
+    {
+      "rank": 87,
+      "id": "st-petersburg-fl",
+      "name": "St. Petersburg",
+      "census_name": "St. Petersburg city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 264033
+    },
+    {
+      "rank": 88,
+      "id": "toledo-oh",
+      "name": "Toledo",
+      "census_name": "Toledo city",
+      "state": "OH",
+      "state_name": "Ohio",
+      "population": 263423
+    },
+    {
+      "rank": 89,
+      "id": "glendale-az",
+      "name": "Glendale",
+      "census_name": "Glendale city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 260572
+    },
+    {
+      "rank": 90,
+      "id": "winston-salem-nc",
+      "name": "Winston-Salem",
+      "census_name": "Winston-Salem city",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 257271
+    },
+    {
+      "rank": 91,
+      "id": "irving-tx",
+      "name": "Irving",
+      "census_name": "Irving city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 257076
+    },
+    {
+      "rank": 92,
+      "id": "chesapeake-va",
+      "name": "Chesapeake",
+      "census_name": "Chesapeake city",
+      "state": "VA",
+      "state_name": "Virginia",
+      "population": 255332
+    },
+    {
+      "rank": 93,
+      "id": "garland-tx",
+      "name": "Garland",
+      "census_name": "Garland city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 249625
+    },
+    {
+      "rank": 94,
+      "id": "scottsdale-az",
+      "name": "Scottsdale",
+      "census_name": "Scottsdale city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 243006
+    },
+    {
+      "rank": 95,
+      "id": "boise-id",
+      "name": "Boise",
+      "census_name": "Boise City city",
+      "state": "ID",
+      "state_name": "Idaho",
+      "population": 238429
+    },
+    {
+      "rank": 96,
+      "id": "richmond-va",
+      "name": "Richmond",
+      "census_name": "Richmond city",
+      "state": "VA",
+      "state_name": "Virginia",
+      "population": 237257
+    },
+    {
+      "rank": 97,
+      "id": "frisco-tx",
+      "name": "Frisco",
+      "census_name": "Frisco city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 236955
+    },
+    {
+      "rank": 98,
+      "id": "cape-coral-fl",
+      "name": "Cape Coral",
+      "census_name": "Cape Coral city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 236264
+    },
+    {
+      "rank": 99,
+      "id": "mckinney-tx",
+      "name": "McKinney",
+      "census_name": "McKinney city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 236001
+    },
+    {
+      "rank": 100,
+      "id": "huntsville-al",
+      "name": "Huntsville",
+      "census_name": "Huntsville city",
+      "state": "AL",
+      "state_name": "Alabama",
+      "population": 233627
+    },
+    {
+      "rank": 101,
+      "id": "norfolk-va",
+      "name": "Norfolk",
+      "census_name": "Norfolk city",
+      "state": "VA",
+      "state_name": "Virginia",
+      "population": 231013
+    },
+    {
+      "rank": 102,
+      "id": "hialeah-fl",
+      "name": "Hialeah",
+      "census_name": "Hialeah city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 230968
+    },
+    {
+      "rank": 103,
+      "id": "spokane-wa",
+      "name": "Spokane",
+      "census_name": "Spokane city",
+      "state": "WA",
+      "state_name": "Washington",
+      "population": 230783
+    },
+    {
+      "rank": 104,
+      "id": "tacoma-wa",
+      "name": "Tacoma",
+      "census_name": "Tacoma city",
+      "state": "WA",
+      "state_name": "Washington",
+      "population": 229816
+    },
+    {
+      "rank": 105,
+      "id": "santa-clarita-ca",
+      "name": "Santa Clarita",
+      "census_name": "Santa Clarita city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 228430
+    },
+    {
+      "rank": 106,
+      "id": "fremont-ca",
+      "name": "Fremont",
+      "census_name": "Fremont city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 226442
+    },
+    {
+      "rank": 107,
+      "id": "baton-rouge-la",
+      "name": "Baton Rouge",
+      "census_name": "Baton Rouge city",
+      "state": "LA",
+      "state_name": "Louisiana",
+      "population": 222795
+    },
+    {
+      "rank": 108,
+      "id": "san-bernardino-ca",
+      "name": "San Bernardino",
+      "census_name": "San Bernardino city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 222044
+    },
+    {
+      "rank": 109,
+      "id": "fontana-ca",
+      "name": "Fontana",
+      "census_name": "Fontana city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 221223
+    },
+    {
+      "rank": 110,
+      "id": "modesto-ca",
+      "name": "Modesto",
+      "census_name": "Modesto city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 219652
+    },
+    {
+      "rank": 111,
+      "id": "salt-lake-city-ut",
+      "name": "Salt Lake City",
+      "census_name": "Salt Lake City city",
+      "state": "UT",
+      "state_name": "Utah",
+      "population": 218428
+    },
+    {
+      "rank": 112,
+      "id": "moreno-valley-ca",
+      "name": "Moreno Valley",
+      "census_name": "Moreno Valley city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 214263
+    },
+    {
+      "rank": 113,
+      "id": "worcester-ma",
+      "name": "Worcester",
+      "census_name": "Worcester city",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "population": 213862
+    },
+    {
+      "rank": 114,
+      "id": "sioux-falls-sd",
+      "name": "Sioux Falls",
+      "census_name": "Sioux Falls city",
+      "state": "SD",
+      "state_name": "South Dakota",
+      "population": 213748
+    },
+    {
+      "rank": 115,
+      "id": "yonkers-ny",
+      "name": "Yonkers",
+      "census_name": "Yonkers city",
+      "state": "NY",
+      "state_name": "New York",
+      "population": 212603
+    },
+    {
+      "rank": 116,
+      "id": "des-moines-ia",
+      "name": "Des Moines",
+      "census_name": "Des Moines city",
+      "state": "IA",
+      "state_name": "Iowa",
+      "population": 212086
+    },
+    {
+      "rank": 117,
+      "id": "grand-prairie-tx",
+      "name": "Grand Prairie",
+      "census_name": "Grand Prairie city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 209434
+    },
+    {
+      "rank": 118,
+      "id": "fayetteville-nc",
+      "name": "Fayetteville",
+      "census_name": "Fayetteville city",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 209120
+    },
+    {
+      "rank": 119,
+      "id": "little-rock-ar",
+      "name": "Little Rock",
+      "census_name": "Little Rock city",
+      "state": "AR",
+      "state_name": "Arkansas",
+      "population": 206427
+    },
+    {
+      "rank": 120,
+      "id": "rochester-ny",
+      "name": "Rochester",
+      "census_name": "Rochester city",
+      "state": "NY",
+      "state_name": "New York",
+      "population": 206108
+    },
+    {
+      "rank": 121,
+      "id": "amarillo-tx",
+      "name": "Amarillo",
+      "census_name": "Amarillo city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 205130
+    },
+    {
+      "rank": 122,
+      "id": "tallahassee-fl",
+      "name": "Tallahassee",
+      "census_name": "Tallahassee city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 204902
+    },
+    {
+      "rank": 123,
+      "id": "overland-park-ks",
+      "name": "Overland Park",
+      "census_name": "Overland Park city",
+      "state": "KS",
+      "state_name": "Kansas",
+      "population": 203677
+    },
+    {
+      "rank": 124,
+      "id": "columbus-ga",
+      "name": "Columbus",
+      "census_name": "Columbus city",
+      "state": "GA",
+      "state_name": "Georgia",
+      "population": 202171
+    },
+    {
+      "rank": 125,
+      "id": "knoxville-tn",
+      "name": "Knoxville",
+      "census_name": "Knoxville city",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "population": 202021
+    },
+    {
+      "rank": 126,
+      "id": "augusta-ga",
+      "name": "Augusta",
+      "census_name": "Augusta-Richmond County consolidated government (balance)",
+      "state": "GA",
+      "state_name": "Georgia",
+      "population": 201999
+    },
+    {
+      "rank": 127,
+      "id": "grand-rapids-mi",
+      "name": "Grand Rapids",
+      "census_name": "Grand Rapids city",
+      "state": "MI",
+      "state_name": "Michigan",
+      "population": 201183
+    },
+    {
+      "rank": 128,
+      "id": "peoria-az",
+      "name": "Peoria",
+      "census_name": "Peoria city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 200881
+    },
+    {
+      "rank": 129,
+      "id": "mobile-al",
+      "name": "Mobile",
+      "census_name": "Mobile city",
+      "state": "AL",
+      "state_name": "Alabama",
+      "population": 200824
+    },
+    {
+      "rank": 130,
+      "id": "vancouver-wa",
+      "name": "Vancouver",
+      "census_name": "Vancouver city",
+      "state": "WA",
+      "state_name": "Washington",
+      "population": 199698
+    },
+    {
+      "rank": 131,
+      "id": "oxnard-ca",
+      "name": "Oxnard",
+      "census_name": "Oxnard city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 199651
+    },
+    {
+      "rank": 132,
+      "id": "birmingham-al",
+      "name": "Birmingham",
+      "census_name": "Birmingham city",
+      "state": "AL",
+      "state_name": "Alabama",
+      "population": 195893
+    },
+    {
+      "rank": 133,
+      "id": "providence-ri",
+      "name": "Providence",
+      "census_name": "Providence city",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "population": 195310
+    },
+    {
+      "rank": 134,
+      "id": "montgomery-al",
+      "name": "Montgomery",
+      "census_name": "Montgomery city",
+      "state": "AL",
+      "state_name": "Alabama",
+      "population": 195300
+    },
+    {
+      "rank": 135,
+      "id": "chattanooga-tn",
+      "name": "Chattanooga",
+      "census_name": "Chattanooga city",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "population": 194144
+    },
+    {
+      "rank": 136,
+      "id": "brownsville-tx",
+      "name": "Brownsville",
+      "census_name": "Brownsville city",
+      "state": "TX",
+      "state_name": "Texas",
+      "population": 192957
+    },
+    {
+      "rank": 137,
+      "id": "huntington-beach-ca",
+      "name": "Huntington Beach",
+      "census_name": "Huntington Beach city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 191451
+    },
+    {
+      "rank": 138,
+      "id": "tempe-az",
+      "name": "Tempe",
+      "census_name": "Tempe city",
+      "state": "AZ",
+      "state_name": "Arizona",
+      "population": 190571
+    },
+    {
+      "rank": 139,
+      "id": "akron-oh",
+      "name": "Akron",
+      "census_name": "Akron city",
+      "state": "OH",
+      "state_name": "Ohio",
+      "population": 189691
+    },
+    {
+      "rank": 140,
+      "id": "clarksville-tn",
+      "name": "Clarksville",
+      "census_name": "Clarksville city",
+      "state": "TN",
+      "state_name": "Tennessee",
+      "population": 188829
+    },
+    {
+      "rank": 141,
+      "id": "fort-lauderdale-fl",
+      "name": "Fort Lauderdale",
+      "census_name": "Fort Lauderdale city",
+      "state": "FL",
+      "state_name": "Florida",
+      "population": 188677
+    },
+    {
+      "rank": 142,
+      "id": "glendale-ca",
+      "name": "Glendale",
+      "census_name": "Glendale city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 187160
+    },
+    {
+      "rank": 143,
+      "id": "ontario-ca",
+      "name": "Ontario",
+      "census_name": "Ontario city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 187013
+    },
+    {
+      "rank": 144,
+      "id": "elk-grove-ca",
+      "name": "Elk Grove",
+      "census_name": "Elk Grove city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 185007
+    },
+    {
+      "rank": 145,
+      "id": "cary-nc",
+      "name": "Cary",
+      "census_name": "Cary town",
+      "state": "NC",
+      "state_name": "North Carolina",
+      "population": 183582
+    },
+    {
+      "rank": 146,
+      "id": "newport-news-va",
+      "name": "Newport News",
+      "census_name": "Newport News city",
+      "state": "VA",
+      "state_name": "Virginia",
+      "population": 183230
+    },
+    {
+      "rank": 147,
+      "id": "salem-or",
+      "name": "Salem",
+      "census_name": "Salem city",
+      "state": "OR",
+      "state_name": "Oregon",
+      "population": 181779
+    },
+    {
+      "rank": 148,
+      "id": "aurora-il",
+      "name": "Aurora",
+      "census_name": "Aurora city",
+      "state": "IL",
+      "state_name": "Illinois",
+      "population": 181505
+    },
+    {
+      "rank": 149,
+      "id": "santa-rosa-ca",
+      "name": "Santa Rosa",
+      "census_name": "Santa Rosa city",
+      "state": "CA",
+      "state_name": "California",
+      "population": 179437
+    },
+    {
+      "rank": 150,
+      "id": "eugene-or",
+      "name": "Eugene",
+      "census_name": "Eugene city",
+      "state": "OR",
+      "state_name": "Oregon",
+      "population": 178618
+    }
+  ]
+}

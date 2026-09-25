@@ -1,0 +1,27 @@
+{
+  "id": "fresno-ca",
+  "city": "Fresno",
+  "state": "CA",
+  "population": 555549,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "chickens are not permitted in residential areas of the city of Fresno",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No residential chicken permit exists; the city says farm animals including chickens are not permitted in residentially zoned districts.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable on residential lots. Secondary sites claim a 6-hen limit and 20 ft setback, but official city sources contradict this.",
+  "coop_rules": "Not applicable on residential lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "City of Fresno bans farm animals such as chickens, roosters and goats in residential zones. Unincorporated Fresno County has separate rules; check which jurisdiction your address is in.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "City of Fresno Quality Neighborhoods Guide: 15 most common code violations", "url": "https://www.fresno.gov/wp-content/uploads/2023/04/Quality-Neighborhoods-Guide-Neighborhood-Services.pdf", "type": "city-website" },
+    { "name": "City of Fresno Code Enforcement FAQs", "url": "https://www.fresno.gov/cityattorney/codeenforcement/code-enforcement-faqs/", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own Quality Neighborhoods Guide (read directly) and its Code Enforcement FAQ (via search extract) both say chickens are not permitted in residential areas. The exact code section was not found, and several secondary sites wrongly claim 6 hens are allowed; no 2023 to 2026 amendment was found.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

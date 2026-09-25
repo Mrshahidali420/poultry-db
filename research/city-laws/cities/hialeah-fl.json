@@ -1,0 +1,23 @@
+{
+  "id": "hialeah-fl", "city": "Hialeah", "state": "FL", "population": 230968,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "city code counts fowl as livestock and makes keeping livestock in the city unlawful, except on land zoned for agricultural use",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No backyard chicken permit found in the city code. Some secondary sites claim up to 4 hens with a permit, but the code text quoted in search results does not support that.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "On agriculturally zoned property, permitted animals and livestock may not be penned or housed less than 10 ft from property lines.",
+  "coop_rules": "Not applicable on ordinary residential lots; on agricultural land, pens at least 10 ft from property lines.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The livestock ban in Sec. 10-2(a) does not apply to property lawfully zoned for agricultural use (mobile home parks excluded).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 10-2",
+  "sources": [
+    { "name": "Hialeah Code of Ordinances, Chapter 10 Animals (Municode)", "url": "https://library.municode.com/fl/hialeah/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Hialeah Florida chicken ordinance", "url": "https://www.backyardchickens.com/articles/hialeah-florida-chicken-ordinance.61295/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Based on search-result extracts of Hialeah Code Chapter 10 (livestock defined to include fowl; keeping livestock unlawful except on agricultural zoning); Municode is region-blocked so full text was not read. Secondary sites disagree (claiming 4 hens allowed); no 2024 to 2026 amendment was found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

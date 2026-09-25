@@ -1,0 +1,59 @@
+{
+  "id": "deathlayer",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "medium",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "active",
+          "likes to roost in trees"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Germany",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "over 400 years old",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "German name Totleger, said to come from hens laying an egg a day until they die",
+          "iridescent black plumage with green and purple sheen, silver hackles, cushion comb and large dark eyes"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Deathlayer (Totleger) is a German breed over 400 years old, once common on German farms and now considered rare. Its name reflects a reputation for hens that keep laying reliably for their entire lives.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

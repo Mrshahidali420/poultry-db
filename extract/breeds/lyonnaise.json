@@ -1,0 +1,68 @@
+{
+  "id": "lyonnaise",
+  "fields": {
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "docile",
+          "quiet",
+          "friendly",
+          "good forager"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "crest": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "France",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "developed 1950s, recognized about 20 years later",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "yes",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "beetle-black feathers, grey legs, backswept crest",
+          "flat-feathered and frizzled forms both exist",
+          "produces excellent white meat"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Lyonnaise was developed in Lyon, France, in the 1950s by Etienne Tamburini, but took nearly two decades to be recognized as an official distinct breed.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

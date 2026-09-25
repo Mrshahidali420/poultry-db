@@ -1,0 +1,23 @@
+{
+  "id": "norfolk-va", "city": "Norfolk", "state": "VA", "population": 231013,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 hens per lot, only with a chicken permit from the Norfolk Department of Public Health",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "Permit from the Norfolk Department of Public Health, Bureau of Environmental Health, must be approved before getting chickens. Search summaries report a one-time fee of about $50 and leg or wing ID bands on each hen. A permit is void where private restrictions ban chickens.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Search summaries of the permit rules report coops at least 15 ft from any property line and 20 ft from a neighbor's dwelling; not confirmed from full code text.",
+  "coop_rules": "Hens kept in a coop and enclosure meeting permit standards; feed in rodent-proof containers.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Reported to apply to single-family detached lots.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6.1-7",
+  "sources": [
+    { "name": "Norfolk Department of Public Health chicken permit application (Virginia Department of Health)", "url": "https://www.vdh.virginia.gov/content/uploads/sites/223/2024/07/CHICKEN-PERMIT-APPLICATION-for-Norfolk-11-19-2014-_201411260901501084.pdf", "type": "city-website" },
+    { "name": "BackYard Chickens: Norfolk Virginia chicken ordinance", "url": "https://www.backyardchickens.com/articles/norfolk-virginia-chicken-ordinance.61163/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from search-result extracts of the official health department permit application and quotes of City Code 6.1-7; the PDF and Municode timed out or were blocked, so the full text was not read. Setback figures and the fee come partly from secondary summaries.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

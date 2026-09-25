@@ -1,0 +1,81 @@
+{
+  "id": "norwegian-jaerhon",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 215,
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "white to light tinted",
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "hardy",
+          "active",
+          "good flier"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "yes",
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Norway",
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "selectively bred from 1916 at a state station in Bryne, Jaeren",
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "dark brown",
+          "light brown"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "the only chicken breed indigenous to Norway",
+          "listed as a conservation-worthy national breed by the Norwegian Forest and Landscape Institute"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Jaerhon was Norway's principal chicken breed until foreign imports began in the 19th century. It was selectively bred at a state-controlled station at Bryne from 1916 to 1973 and is now recognized as autosexing and a national conservation breed.",
+        "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+      }
+    ]
+  }
+}

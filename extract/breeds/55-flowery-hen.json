@@ -1,0 +1,57 @@
+{
+  "id": "55-flowery-hen",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "cream",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "large",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Sweden",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "1955",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "developed by Martin Silverudd, his first and most successful autosexing breed",
+          "day-old males show blonde down on the back of the head",
+          "adult males are largely white; females show a spotted 'flowery' pattern"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The 55 Flowery Hen was created in Sweden in 1955 by Father Martin Silverudd as an autosexing breed producing commercial quantities of large, round, cream-colored eggs.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

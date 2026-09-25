@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "new-york-ny",
+    "city": "New York",
+    "state": "NY",
+    "population": 8584629,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "Hens are allowed in all five boroughs; the Health Code sets no numeric limit, but birds must not create a nuisance (odor, pests, noise).",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "Neither Health Code 161.19 nor the city's urban agriculture FAQ requires a permit to keep hens as a household.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "No setback for household hens. The 25 foot distance from buildings in the code applies only to live poultry markets.",
+    "coop_rules": "Keep animals and surroundings clean and free of nuisance; general Health Code Article 161 nuisance rules apply.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Roosters, ducks, geese and turkeys are banned citywide except in licensed slaughterhouses. Live poultry sold commercially may not be kept in a building with residences.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "NYC Health Code (24 RCNY) Sec. 161.19",
+    "sources": [
+      {
+        "name": "NYC Health Code 161.19, Keeping of Livestock, Live Poultry and Rabbits",
+        "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-47152",
+        "type": "municipal-code"
+      },
+      {
+        "name": "NYC Mayor's Office of Urban Agriculture FAQ",
+        "url": "https://www.nyc.gov/site/agriculture/faqs/frequently-asked-questions.page",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read Health Code 161.19 via Internet Archive copy of the American Legal page and the official nyc.gov urban agriculture FAQ, which says hens are permitted and roosters, ducks, geese and turkeys are not. Home slaughter of hens is not explicitly addressed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state": "CA",
+    "population": 3869089,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "Hens are allowed in residential areas; the city code sets no numeric hen limit, but coops must meet Animal Services distance rules and not create a nuisance.",
+    "roosters_allowed": "conditional",
+    "permit_required": "unknown",
+    "permit_notes": "No hen permit appears in the LAMC animal sections found. A permit for up to three pet roosters existed only for applications made before Dec 31, 2009.",
+    "setback_ft_from_homes": 35,
+    "setback_notes": "LAMC 53.59 leaves coop distances to Department of Animal Services rules. The widely reported rule (PBS SoCal and others, not verified against the Department's rule text) is 20 ft from the owner's home, 35 ft from neighboring homes, and 100 ft for roosters.",
+    "coop_rules": "Coops must meet Animal Services distance rules and be kept free of nuisance and health hazards.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "LAMC 53.71 limits each lot to one rooster, with exceptions for permitted businesses, schools, exhibitions and filming. Zoning and distance rules still apply.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "LAMC Sec. 53.59, Sec. 53.71",
+    "sources": [
+      {
+        "name": "LAMC Sec. 53.71 Roosters, Limit",
+        "url": "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-213406",
+        "type": "municipal-code"
+      },
+      {
+        "name": "LAMC Sec. 53.59 Animals, Distances, Separation from Dwelling",
+        "url": "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-137405",
+        "type": "municipal-code"
+      },
+      {
+        "name": "PBS SoCal: Chicken in the City, Is Yours Up to Code?",
+        "url": "https://www.pbssocal.org/home-garden/chicken-in-the-city-is-yours-up-to-code",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read LAMC 53.71 via Internet Archive copy; LAMC 53.59 only via search extract, which delegates distances to Animal Services rules. The 20/35/100 ft distances come from secondary sources (PBS SoCal, 2013) and were not confirmed in the Department's rules; permit status unconfirmed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "chicago-il",
+    "city": "Chicago",
+    "state": "IL",
+    "population": 2731585,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "Chicago has no chicken-specific ordinance: hens may be kept for eggs or as pets with no numeric limit, subject to general nuisance, noise, sanitation and animal care rules.",
+    "roosters_allowed": "yes",
+    "permit_required": "no",
+    "permit_notes": "No city permit for keeping hens was found in Chapter 7-12; local chicken groups also report none.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "No chicken-specific setback found in the city code.",
+    "coop_rules": "General sanitation, humane housing and noise rules apply; animals may not make excessive noise.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "Sec. 7-12-300 bans keeping any animal for your own food or slaughtering it, except in licensed establishments; eggs are expressly exempt. A 2023 proposal (O2023-0002993) to cap hens at 6, ban roosters and require a permit was reported, but no evidence it passed was found.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 7-12-300",
+    "sources": [
+      {
+        "name": "Chicago Municipal Code 7-12-300 Ban of unlicensed possession of animals for slaughter",
+        "url": "https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2640523",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Chicago Chicken Enthusiasts: Policies and City Chickens",
+        "url": "https://sites.google.com/site/chicagochickenenthusi/city-chicken-policy",
+        "type": "secondary"
+      },
+      {
+        "name": "Home to Roost: Ald. Lopez again proposes ordinance to affect chickens (2023)",
+        "url": "https://htrchickens.com/category/laws/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read Sec. 7-12-300 via Internet Archive copy. The absence of a hen limit, permit or rooster ban rests on the code having no chicken-specific rule, reported by secondary sources; status of the 2023 livestock ordinance proposal could not be confirmed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "houston-tx",
+    "city": "Houston",
+    "state": "TX",
+    "population": 2397315,
+    "allowed": "conditional",
+    "max_hens": null,
+    "hens_rule_text": "Chickens and their pens must be at least 100 ft from any other home, church, school or hospital, which rules out most ordinary city lots; where that distance is met, up to 30 chickens are allowed.",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "The current Chapter 6 text (Ordinance 2022-44) has no hen permit. An older Sec. 6-38/6-39 permit allowed up to 7 hens within the 100 ft zone for people with a doctor's certification; some sites still cite it, but it does not appear in the 2022 text.",
+    "setback_ft_from_homes": 100,
+    "setback_notes": "Pens must be 100 ft, measured in a straight line, from any residence other than the owner's and from any church, school or hospital.",
+    "coop_rules": "Pens must be cleaned and disinfected daily and limed every two days; droppings collected daily in a flytight container and hauled away at least weekly. Birds may not run at large.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Sec. 6-35 caps the flock at 30 chickens, and at 40 of all fowl and rabbits combined on a lot of 65 by 125 ft or less. Roosters, male chickens and guinea fowl are banned citywide (Sec. 6-37, 6-38).",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 6-31, 6-35, 6-36, 6-38",
+    "sources": [
+      {
+        "name": "Houston Code of Ordinances Ch. 6 Art. II, Keeping of Fowl, Rabbits and Guinea Pigs",
+        "url": "https://library.municode.com/tx/houston/codes/code_of_ordinances?nodeId=COOR_CH6ANFO_ARTIIKEFORAGUPI",
+        "type": "municipal-code"
+      },
+      {
+        "name": "City of Houston Ordinance No. 2022-44 amending Chapter 6 (Exhibit A)",
+        "url": "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/10123/1132046/pdf?forceDownload=true",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Houston Quality of Life Committee Chapter 6 redline draft (2014)",
+        "url": "https://www.houstontx.gov/council/committees/qol/20140226/chapter6-redline.pdf",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the full Article II text in Ordinance 2022-44 Exhibit A and the 2014 city redline draft (via Internet Archive). The 2022 text drops the doctor-certified 7 hen permit that search extracts still quote, so whether that permit survives in the live Municode version could not be confirmed; no check for 2023 to 2026 amendments was possible.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state": "FL",
+    "population": 1017689,
+    "allowed": "conditional",
+    "max_hens": 5,
+    "hens_rule_text": "Up to 5 hens with a city Backyard Hen permit on single-family lots up to 1 acre; up to 10 on 1 to 2 acres and 15 on lots over 2 acres (city permit page). Agriculture and Rural Residential-Acre zones keep their own broader rights.",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "Backyard Hen Program permit ($25) under Ordinance 2015-0337-E. Apply with the city form, a UF/IFAS Extension chicken-keeping seminar certificate and a sketch of the property showing the coop.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Coops must meet accessory-structure setbacks in Sec. 656.403 (reported as 5 ft from side and rear lot lines) and sit in the back yard; not allowed in front or side yards except corner and through lots.",
+    "coop_rules": "Hens kept in a covered, ventilated, predator-secure coop or enclosure at all times, screened from neighbors by an opaque fence or barrier, at least 3 sq ft per bird, max 6 ft tall; coops over 100 sq ft need a building permit; feed in rodent-proof containers.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "Allowed by permit only on single-family lots. Prohibited on duplex, triplex and multi-family properties, and in mobile home parks, RV parks and rental communities. No selling of chickens, eggs or manure from the property.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 656.422",
+    "sources": [
+      {
+        "name": "City of Jacksonville, Backyard Hen Program Permit (Current Planning)",
+        "url": "https://www.jacksonville.gov/departments/planning-and-development/docs/current-planning-division/backyard-residential-hen-permit-questions.aspx",
+        "type": "city-website"
+      },
+      {
+        "name": "Jacksonville Ordinance Code Sec. 656.422, Chickens allowed by permit in certain zoning districts",
+        "url": "http://www.jacksonville.elaws.us/code/coor_zose_ch656_pt4_subptb_sec656.422",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the city's Backyard Hen Program permit PDF via an Internet Archive copy (live URL now 404s); it states hen tiers, the rooster ban and permit steps. Slaughter ban and the 5 ft accessory setback come from search extracts of Sec. 656.422, which could not be opened; one extract describes the large-lot allowance as 5 more hens per extra half acre, which differs from the city page tiers.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "austin-tx",
+    "city": "Austin",
+    "state": "TX",
+    "population": 1002632,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "Chickens allowed on residential lots with no numeric cap in the city code; the enclosure must sit at least 30 ft from a neighbor's home or business.",
+    "roosters_allowed": "yes",
+    "permit_required": "no",
+    "permit_notes": "No city permit found for keeping backyard fowl; the rules are enclosure and setback standards in City Code Chapter 3-2.",
+    "setback_ft_from_homes": 30,
+    "setback_notes": "Enclosure at least 30 ft from an adjacent residence or business structure (not the owner's own); 50 ft if the fowl or enclosure creates a health hazard. Reduced from 50 ft by Ordinance 20221013-030 (October 2022).",
+    "coop_rules": "Fowl kept in an enclosure with four secure sides and overhead cover (a coop, pen or crate qualifies), sized for the birds and kept sanitary; it may not be taller than the fence height limit on the property.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Land Development Code Sec. 25-2-863 lets urban farms raise and process fowl (one bird per tenth of an acre per week, 50 ft from homes, out of public view); whether this extends to ordinary home lots was not confirmed.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 3-2-16",
+    "sources": [
+      {
+        "name": "City of Austin ordinance amending Sec. 3-2-16 (Enclosures for Fowl), council backup",
+        "url": "https://services.austintexas.gov/edims/document.cfm?id=394337",
+        "type": "city-website"
+      },
+      {
+        "name": "Austin Public Health fowl enclosure amendment summary (2022)",
+        "url": "https://services.austintexas.gov/edims/document.cfm?id=382432",
+        "type": "city-website"
+      },
+      {
+        "name": "Austin Code of Ordinances, Title 3 Animal Regulation",
+        "url": "https://library.municode.com/tx/austin/codes/code_of_ordinances?nodeId=TIT3ANRE",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Austin Monitor, Council opts to make Austin a friendlier place for backyard chickens (Oct 2022)",
+        "url": "https://austinmonitor.com/stories/2022/10/council-opts-to-make-austin-a-friendlier-place-for-backyard-chickens/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the full text of the 2022 ordinance replacing Sec. 3-2-16 from the city's council document system; the codified municode page was not reachable. No hen cap or rooster ban turned up in the code extracts or city documents, so roosters look allowed like hens but remain subject to the noisy animal rules; slaughter on ordinary home lots is unconfirmed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "population": 719849,
+    "allowed": "yes",
+    "max_hens": 6,
+    "hens_rule_text": "Up to 6 hens or quail in total on parcels under 1 acre, no permit needed (in effect since March 4, 2022). Before 2022 poultry was only allowed on lots of 1 acre or more.",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "The city says no permit or fee is required. Enforcement is on a complaint basis.",
+    "setback_ft_from_homes": 30,
+    "setback_notes": "Coop at least 30 ft from an adjacent dwelling, at least 5 ft from the side property line and 10 ft from the rear property line. Birds and coops may not be in front of the rear wall of the house.",
+    "coop_rules": "At least 4 sq ft of coop space per bird, 8 sq ft of unpaved roaming area per bird, birds shut in the coop dusk to dawn, clean and predator-proof, food and water always available, electrical or heat sources must meet building code.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "The 6-bird limit applies to parcels under 1 acre; larger parcels fall under separate agricultural animal rules not checked here. Outdoor slaughter is not allowed. Fines up to $500 for first and second offenses, $1,200 after.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Chapter 8 (Animals)",
+    "sources": [
+      {
+        "name": "City of OKC news release: Council approves urban chickens and quail (Feb 2022)",
+        "url": "https://www.okc.gov/Home/Components/News/News/4022/18",
+        "type": "city-website"
+      },
+      {
+        "name": "Oklahoma City Code of Ordinances, Chapter 8 Animals",
+        "url": "https://library.municode.com/ok/oklahoma_city/codes/code_of_ordinances?nodeId=OKMUCO2020_CH8AN",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Rules read from the official City of OKC news release (Internet Archive copy, March 2022) and confirmed by search extracts of okc.gov; the exact Chapter 8 section number could not be opened because Municode is region-blocked. Rules for parcels of 1 acre or more, including whether roosters are allowed there, were not verified.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "washington-dc",
+    "city": "Washington",
+    "state": "DC",
+    "population": 693645,
+    "allowed": "conditional",
+    "max_hens": null,
+    "hens_rule_text": "Any live fowl needs an annual permit from the District health department. The regulation sets no numeric cap; the number of birds is stated on the application and approved case by case. The 50 ft rule from any home makes most rowhouse lots ineligible.",
+    "roosters_allowed": "unknown",
+    "permit_required": "yes",
+    "permit_notes": "24 DCMR 902 requires a permit from the Mayor, approved by the health director (now DC Health). Permits expire after one year and can be renewed. The application needs a plat from the District Surveyor showing the enclosure and its distances to property lines.",
+    "setback_ft_from_homes": 50,
+    "setback_notes": "No fowl within 50 ft of any building used for human habitation (the text does not exempt the owner's own home). The enclosure must also be 250 ft from every property line, or the applicant must get written consent from all householders and owners within 100 ft of the premises in the same square.",
+    "coop_rules": "Coops, pens and runs approved with the permit; kept clean, dry and sanitary; droppings composted under 12 in. of earth or stored in sealed metal containers; premises free of rats and fly breeding; buildings rodent-proofed.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The rule is a District health regulation, not a zoning rule. In 2017 the Mayor proposed an outright ban; no evidence was found that it was adopted, and DC Health still publishes Section 902. A separate section lets public vocational schools keep fowl with Mayoral approval.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "24 DCMR 902",
+    "sources": [
+      {
+        "name": "DC Health: DC Municipal Regulations for Animal Control (24 DCMR Chapter 9, Sec. 902 Fowl)",
+        "url": "https://doh.dc.gov/sites/default/files/dc/sites/doh/publication/attachments/Animal%20Control.pdf",
+        "type": "city-website"
+      },
+      {
+        "name": "DC Council legislative briefing slides on backyard chickens (2015)",
+        "url": "https://dcfoodpolicy.org/wp-content/uploads/2015/09/backyard-chickens-doee-briefing-slides.pdf",
+        "type": "secondary"
+      },
+      {
+        "name": "DCist: Bowser moves to ban backyard chickens (2017)",
+        "url": "https://dcist.com/story/17/04/14/backyard-chickens-may-finally-be-ge/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the full text of 24 DCMR 902 from the DC Health PDF. The regulation is old and the PDF is undated; whether the 2017 proposed ban or any later change took effect was not confirmed, and roosters are not addressed separately, so the rooster status is unknown.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "milwaukee-wi",
+    "city": "Milwaukee",
+    "state": "WI",
+    "population": 562407,
+    "allowed": "conditional",
+    "max_hens": 4,
+    "hens_rule_text": "up to 4 hens on a residential property with a city permit; not allowed on commercial or mixed-use properties",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "One-time permit from the Department of Neighborhood Services ($35.56 including surcharge) with a coop site plan. DNS notifies the owner and directly or diagonally abutting property owners, who can raise concerns before the permit is issued.",
+    "setback_ft_from_homes": 25,
+    "setback_notes": "Coop and run must be at least 25 feet from any residential structure on an adjacent lot and may not be in the front yard.",
+    "coop_rules": "Covered, moisture resistant coop raised off the ground or on a hard surface; at least 16 sq ft of coop plus run per hen; coop no taller than 10 ft and no larger than 50 sq ft; cleaned daily; chickens kept in coop or fenced run at all times; not inside a home or garage.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "Residential premises only; permits not issued for commercial or mixed-use occupancies.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 78-6.5",
+    "sources": [
+      {
+        "name": "City of Milwaukee DNS: Chicken Keeping in the City of Milwaukee",
+        "url": "https://city.milwaukee.gov/chickenkeeping",
+        "type": "city-website"
+      },
+      {
+        "name": "City of Milwaukee chicken coop requirements brochure",
+        "url": "https://city.milwaukee.gov/DNS-361_V6aChickenBrochurewb.pdf",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Rules read from the official DNS chicken keeping page (via a September 2025 Internet Archive copy, since the live site blocks this machine). Code section 78-6.5 comes from search extracts; the full code text was not opened.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "albuquerque-nm",
+    "city": "Albuquerque",
+    "state": "NM",
+    "population": 556588,
+    "allowed": "yes",
+    "max_hens": 15,
+    "hens_rule_text": "up to 15 poultry per household under the HEART animal ordinance; non-commercial poultry keeping is allowed in most residential zones",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "The city Planning Department says non-commercial poultry keeping is allowed in most residential zones without restriction; no chicken permit was found for flocks within the 15-bird limit. Keeping more than the limit would need separate approval from Animal Welfare.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "No distance from neighboring homes was confirmed in official sources. Secondary sites mention a 10 ft setback from property lines, not verified in the code.",
+    "coop_rules": "Birds must be housed and restrained under the HEART ordinance housing standards for animals kept on residential property (Sec. 9-2-2-2); details not confirmed.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Integrated Development Ordinance allows non-commercial poultry keeping in most residential zones; check your zone with the IDO Zoning Look-up Map. Excess chickens are handled by Animal Welfare.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 9-2-4-3",
+    "sources": [
+      {
+        "name": "Albuquerque Code of Ordinances Sec. 9-2-4-3 Animal Limits and Restrictions",
+        "url": "https://codelibrary.amlegal.com/codes/albuquerque/latest/albuquerque_nm/0-0-0-121064",
+        "type": "municipal-code"
+      },
+      {
+        "name": "City of Albuquerque Code Enforcement FAQs",
+        "url": "https://www.cabq.gov/planning/planning-faqs/code-enforcement-faqs",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "The 15 poultry limit and one rooster per household come from search extracts of Sec. 9-2-4-3; the code page itself could not be opened (Cloudflare block, Internet Archive offline). The no-restriction zoning statement was read directly on the city Planning FAQ; rooster status is treated as conditional because only one per household is allowed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "fresno-ca",
+    "city": "Fresno",
+    "state": "CA",
+    "population": 555549,
+    "allowed": "no",
+    "max_hens": null,
+    "hens_rule_text": "chickens are not permitted in residential areas of the city of Fresno",
+    "roosters_allowed": "no",
+    "permit_required": "unknown",
+    "permit_notes": "No residential chicken permit exists; the city says farm animals including chickens are not permitted in residentially zoned districts.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Not applicable on residential lots. Secondary sites claim a 6-hen limit and 20 ft setback, but official city sources contradict this.",
+    "coop_rules": "Not applicable on residential lots.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "City of Fresno bans farm animals such as chickens, roosters and goats in residential zones. Unincorporated Fresno County has separate rules; check which jurisdiction your address is in.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "",
+    "sources": [
+      {
+        "name": "City of Fresno Quality Neighborhoods Guide: 15 most common code violations",
+        "url": "https://www.fresno.gov/wp-content/uploads/2023/04/Quality-Neighborhoods-Guide-Neighborhood-Services.pdf",
+        "type": "city-website"
+      },
+      {
+        "name": "City of Fresno Code Enforcement FAQs",
+        "url": "https://www.fresno.gov/cityattorney/codeenforcement/code-enforcement-faqs/",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "The city's own Quality Neighborhoods Guide (read directly) and its Code Enforcement FAQ (via search extract) both say chickens are not permitted in residential areas. The exact code section was not found, and several secondary sites wrongly claim 6 hens are allowed; no 2023 to 2026 amendment was found.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "miami-fl",
+    "city": "Miami",
+    "state": "FL",
+    "population": 489812,
+    "allowed": "conditional",
+    "max_hens": 15,
+    "hens_rule_text": "Up to 15 hens and 30 growing chicks per premises, only with a permit from the county health unit, and the coop must be at least 100 feet from any dwelling, which rules out most ordinary city lots.",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "City code requires a permit from the county health unit (Florida Department of Health in Miami-Dade) authorizing the premises for poultry before any chickens are kept.",
+    "setback_ft_from_homes": 100,
+    "setback_notes": "Poultry pens or houses may not be less than 100 feet from any human dwelling. Birds may not run at large.",
+    "coop_rules": "Pens kept free of odor and fly breeding; feed in rat-proof covered containers; droppings removed at least twice a week and bagged for garbage pickup.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Section 6-1 also says it does not allow any use that violates city zoning. This applies to the City of Miami only; unincorporated Miami-Dade County bans chickens in single-family residential districts, and other cities in the county have their own rules.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 6-1",
+    "sources": [
+      {
+        "name": "Miami Code of Ordinances, Chapter 6 Animals (Municode)",
+        "url": "https://library.municode.com/fl/miami/codes/code_of_ordinances?nodeId=PTIITHCO_CH6AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Text of Miami Code Sec. 6-1 (copy hosted by a third party, 2019)",
+        "url": "https://s30428.pcdn.co/wp-content/uploads/sites/2/2019/09/Miami-_FL_animal_restrictions_0.pdf",
+        "type": "secondary"
+      },
+      {
+        "name": "Miami-Dade County: Animals in Single-family Residential Districts",
+        "url": "https://www.miamidade.gov/building/standards/residential-animals.asp",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the full text of Sec. 6-1 from a 2019 PDF copy of the code (Municode is region-blocked here) and matched it to search extracts; no later amendment was found. Some secondary sites claim a 15 or 20 foot setback, which conflicts with the code's 100 feet, so the code figure is used.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "omaha-ne",
+    "city": "Omaha",
+    "state": "NE",
+    "population": 488797,
+    "allowed": "conditional",
+    "max_hens": 10,
+    "hens_rule_text": "Up to 10 hens in residential areas under the December 2025 ordinance, with a health department permit. Existing flocks over 10 have five years to shrink, and owners over the limit can ask for a variance.",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "City code makes it unlawful to keep poultry without a permit from the health department (Douglas County Health Department). The health officer inspects the premises before issuing it, and permits are renewed each January.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Secondary sites claim 25 feet from neighboring dwellings and 10 feet from property lines, but this could not be confirmed in the code text.",
+    "coop_rules": "Poultry may not run at large; they must be kept in enclosed places on private property.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The December 2025 change also lets community gardens keep hens for educational programs. About 170 households held chicken permits in late 2025, according to local news.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "",
+    "sources": [
+      {
+        "name": "Omaha Code of Ordinances, Chapter 6 Animals (Municode)",
+        "url": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Douglas County Health Department: Domestic Animals / Bees",
+        "url": "https://www.douglascountyhealth.com/environmental/domestic-animals-bees",
+        "type": "city-website"
+      },
+      {
+        "name": "KMTV 3 News Now: Omaha City Council approves new backyard chicken limits (Dec 10, 2025)",
+        "url": "https://www.3newsnow.com/northwest-omaha/omaha-city-council-approves-new-backyard-chicken-limits",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Permit rule comes from search extracts of the Omaha code; the 10 hen cap and rooster ban come from local news on the December 2025 ordinance, since Municode and the county health page were blocked. Exact section number and setbacks are unconfirmed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "virginia-beach-va",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "population": 453737,
+    "allowed": "no",
+    "max_hens": null,
+    "hens_rule_text": "Chickens are allowed only in areas zoned for agricultural use, mostly south of the Green Line. Ordinary residential lots, which cover most of the northern city, cannot keep hens.",
+    "roosters_allowed": "no",
+    "permit_required": "unknown",
+    "permit_notes": "No residential hen permit exists. Secondary sites mention a permit and a 25 foot dwelling setback for agricultural properties, which was not confirmed in official text.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Not established from official sources for agricultural properties; not applicable to residential lots since hens are not allowed there.",
+    "coop_rules": "Not applicable on residential lots.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Agricultural zoning lies mainly south of the Green Line, with a few scattered sites in the north. The city ran a public feedback forum on allowing backyard hens (no roosters) in residential zones, and council formed an urban agriculture committee in 2021, but no adopted change was found.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "",
+    "sources": [
+      {
+        "name": "City of Virginia Beach Virtual Town Hall: Backyard Chickens",
+        "url": "https://communityfeedback.opengov.com/portals/portal124/Issue_1387",
+        "type": "city-website"
+      },
+      {
+        "name": "Virginia Beach Zoning Ordinance, Article 5 Residential Districts (Municode)",
+        "url": "https://library.municode.com/HTML/10122/level3/CO_APXAZOOR_ART5REDI.html",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Princess Anne Independent News: council approves urban agriculture committee (2021)",
+        "url": "https://princessanneindy.com/2021/05/23/urban-ag/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "The city's own public feedback page states the code allows chickens only in agricultural zones; that page is several years old and its outcome is listed as under review. Searches found no adopted 2023 to 2026 change, but the code section number was not confirmed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "arlington-tx",
+    "city": "Arlington",
+    "state": "TX",
+    "population": 402134,
+    "allowed": "yes",
+    "max_hens": 4,
+    "hens_rule_text": "Up to 4 fowl on lots of half an acre or less, up to 10 on lots over half an acre but under 1 acre, and fewer than 25 on 1 acre or more. The cap counts all fowl (chickens, ducks, geese, turkeys), not only hens.",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "The fowl section (Sec. 5.02) sets limits but does not require a permit or license to keep hens.",
+    "setback_ft_from_homes": 50,
+    "setback_notes": "Fowl must be kept at least 50 feet from any habitation on another person's property.",
+    "coop_rules": "Chickens must be kept inside a coop or pen. Ducks and geese may not run at large.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Roosters are allowed only in areas zoned agricultural.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Animals Chapter, Sec. 5.02 Keeping of Fowl",
+    "sources": [
+      {
+        "name": "City of Arlington Animals Chapter (Code of Ordinances), amended by Ord. 25-090",
+        "url": "https://www.arlingtontx.gov/files/assets/city/v/3/city-secretary/documents/city-code-of-ordinances/animals-chapter.pdf",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the full text of Sec. 5.02 in the city-hosted Animals Chapter PDF, which is current through Ord. 25-090 (Dec 16, 2025). The code does not address slaughter, and no permit requirement appears in the fowl section.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "wichita-ks",
+    "city": "Wichita",
+    "state": "KS",
+    "population": 400987,
+    "allowed": "yes",
+    "max_hens": 3,
+    "hens_rule_text": "Up to 3 fowl without a permit. With an annual Animal Maintenance Permit ($25) you can keep 4 to 12 fowl (up to 25 pigeons). These limits apply to residential lots under 5 acres.",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "No permit for 3 or fewer fowl. An Animal Maintenance Permit ($25, renewed yearly) is needed for 4 to 12 fowl. No more than three kinds of animals may be kept at one address.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Enclosures for small animals must be 10 feet from the property line if they are within 50 feet of a neighboring dwelling. Coops must also meet the Wichita-Sedgwick County Unified Zoning Code.",
+    "coop_rules": "Coops and pens must meet zoning rules and be kept in good repair; waste from animal shelters must be disposed of at least weekly.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Limits cover residential premises under 5 acres. Larger residential properties should contact Animal Control (316-350-3360). Roosters, guinea cocks and peacocks are prohibited.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 6.04.157 to 6.04.159",
+    "sources": [
+      {
+        "name": "City of Wichita, Animal Maintenance Permit information (08/24)",
+        "url": "https://www.wichita.gov/DocumentCenter/View/8711/Animal-Maintenance-Permit-Information-PDF",
+        "type": "city-website"
+      },
+      {
+        "name": "Wichita Code of Ordinances, Title 6 Animals (Municode)",
+        "url": "https://library.municode.com/ks/wichita/codes/code_of_ordinances?nodeId=TIT6AN",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Facts come from the city's official Animal Maintenance Permit handout (dated 08/24), which cites Code 6.04.157 to 6.04.159; the Municode text itself could not be opened from this location. Slaughter is not addressed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "cleveland-oh",
+    "city": "Cleveland",
+    "state": "OH",
+    "population": 363608,
+    "allowed": "conditional",
+    "max_hens": 6,
+    "hens_rule_text": "One chicken (or duck or rabbit) per 800 square feet of lot area, which is 6 on a standard 4,800 square foot lot. A license from the Department of Public Health is required.",
+    "roosters_allowed": "conditional",
+    "permit_required": "yes",
+    "permit_notes": "A two-year farm animal license from the Cleveland Department of Public Health is required (Sec. 205.04). The application asks for a scaled site drawing, a coop description, a waste removal plan, and owner permission if you rent.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Coops may not be in front or side street yards, and must be at least 5 feet from a side lot line and 18 inches from a rear lot line (5 feet if that rear line borders the side or front of a neighboring lot).",
+    "coop_rules": "Covered, predator-proof, ventilated coop; total coop area no more than 32 sq ft for up to 6 animals and no taller than 15 ft; a fenced outdoor run with at least 10 sq ft per bird.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "In non-residential districts the limit is one animal per 400 sq ft. Roosters, geese and turkeys are banned in residential districts unless the parcel is at least 1 acre and the coop is 100 feet from all property lines.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 347.02(b); license under Sec. 205.04",
+    "sources": [
+      {
+        "name": "Cleveland Codified Ordinances Sec. 347.02 (American Legal)",
+        "url": "https://codelibrary.amlegal.com/codes/cleveland/latest/cleveland_oh/0-0-0-14557",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Cleveland Department of Public Health, Farm Animals and Bees Application",
+        "url": "https://www.clevelandohio.gov/sites/clevelandohio/files/health/environment/Farm_animal_application-(Chickens-Ducks-Rabbits-Bees)_2018.pdf",
+        "type": "city-website"
+      },
+      {
+        "name": "Copy of Sec. 347.02 farm animal ordinance text (third-party host)",
+        "url": "https://s30428.pcdn.co/wp-content/uploads/sites/2/2019/09/Cleveland_farm_animal_ordinance_1.pdf",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Full Sec. 347.02 text was read from a third-party copy of the ordinance, and the key limits (1 per 800 sq ft, license, rooster rule) are confirmed by the city's official application form; the American Legal page was blocked. Slaughter is not addressed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "newark-nj",
+    "city": "Newark",
+    "state": "NJ",
+    "population": 323808,
+    "allowed": "conditional",
+    "max_hens": null,
+    "hens_rule_text": "Hens allowed only with an annual city permit from the Department of Health and Community Wellness; the code sets no numeric cap. Not allowed at multi-family houses or their yards.",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "Permit from the Director of Health and Community Wellness, $10 fee, expires every December 31, revocable for cause after notice and hearing. Some secondary sites mention neighbor consent and a 25-hen limit; neither appears in the code article.",
+    "setback_ft_from_homes": 20,
+    "setback_notes": "No part of the coop or runway may be closer than 20 feet to the doors or windows of any premises occupied by people, for dwelling or business.",
+    "coop_rules": "Birds must be confined in a house or coop with an enclosed runway, no running at large. Coop floor must be cement or other watertight material; runway unfloored. Clean at least weekly. No fowl inside any dwelling.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Banned outright in multi-family houses and multi-family house yards. Zoning code not separately checked.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Newark Code Title VI, Ch. 6:2, Art. 4, Secs. 6:2-28 to 6:2-37",
+    "sources": [
+      {
+        "name": "Newark Code, Article 4 Rabbits and Fowl (eCode360)",
+        "url": "https://ecode360.com/36624296",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the full Article 4 text via an Internet Archive copy (April 2026) of the eCode360 page. The code has no hen count cap; the 25-hen figure and neighbor-consent requirement seen on secondary sites could not be confirmed and may be permit-office practice.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "riverside-ca",
+    "city": "Riverside",
+    "state": "CA",
+    "population": 323057,
+    "allowed": "yes",
+    "max_hens": 5,
+    "hens_rule_text": "Up to 5 poultry on RE and R-1 single-family lots, with no minimum lot size since the 2024 amendment. RR and rural zones allow 5, or up to 50 if kept 100 feet from neighboring homes.",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "The zoning text sets no permit for up to 5 poultry in RE and R-1. More birds need a Minor Conditional Use Permit in the RR zone.",
+    "setback_ft_from_homes": 10,
+    "setback_notes": "In RE and R-1 zones the coop or shelter must be at least 10 feet from any neighboring residence and also meet accessory structure rules (Chapter 19.440). In RR and rural zones: 50 feet from neighboring homes for up to 5 birds, 100 feet for up to 50.",
+    "coop_rules": "Poultry must have a coop, shelter or other permanent structure meeting accessory building standards. Premises must be kept clean and sanitary.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Crowing fowl (roosters) are not permitted in RE and R-1 zones. In the RR zone up to 7 roosters are allowed on lots over 20,000 sq ft if housed overnight in a sound-reducing structure 100 feet from neighboring homes. Before March 2024, R-1 lots needed 20,000 sq ft of net area to keep any poultry.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Riverside Municipal Code Sec. 19.455.030",
+    "sources": [
+      {
+        "name": "Riverside Municipal Code Chapter 19.455 Animal Keeping (city Legistar copy, Supp. 24)",
+        "url": "https://riversideca.legistar.com/View.ashx?GUID=8F9CCB97-A66B-4D04-8206-DC5DCC63D6E4&ID=13572830&M=F",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Ordinance amending Title 19, Case PR-2023-001625 (adopted March 2024)",
+        "url": "https://riversideca.legistar1.com/riversideca/attachments/251c8270-7aac-4c35-a0f9-ac2106689bda.docx",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the 2024 ordinance text (case PR-2023-001625, adoption item March 2024) and the codified Chapter 19.455 from the city's Legistar. The ordinance also cites Sec. 19.445.030 in its heading, which appears to be a typo for 19.455.030. Slaughter is not addressed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "jersey-city-nj",
+    "city": "Jersey City",
+    "state": "NJ",
+    "population": 302013,
+    "allowed": "conditional",
+    "max_hens": 50,
+    "hens_rule_text": "Chickens may be kept only with a city license; secondary summaries of the code cite a cap of 50 birds, counting ducks, other poultry and pigeons together",
+    "roosters_allowed": "unknown",
+    "permit_required": "yes",
+    "permit_notes": "Code Chapter 90, Article II (Sec. 90-7) reportedly requires a license from the license issuing authority before keeping fowl; licenses reportedly expire April 30 each year.",
+    "setback_ft_from_homes": 25,
+    "setback_notes": "Summaries of Sec. 90-8 say no chickens or coop within 25 feet of any structure owned by another person.",
+    "coop_rules": "Coop must be dry, well ventilated, with windows for sunlight, and whitewashed or painted inside (per secondary summary of the code).",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Not checked against the Jersey City Land Development Ordinance; some secondary sites claim Jersey City does not allow backyard poultry, which conflicts with the Chapter 90 license scheme.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Ch. 90, Art. II, Sec. 90-6 to 90-8",
+    "sources": [
+      {
+        "name": "Jersey City Code of Ordinances, Chapter 90 Animals (Municode)",
+        "url": "https://library.municode.com/nj/jersey_city/codes/code_of_ordinances?nodeId=CH90AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "BackYard Chickens: Jersey City New Jersey Chicken Ordinance",
+        "url": "https://www.backyardchickens.com/articles/jersey-city-new-jersey-chicken-ordinance.61645/",
+        "type": "secondary"
+      },
+      {
+        "name": "Texas Real Food: Keeping Backyard Chickens in Jersey City",
+        "url": "https://discover.texasrealfood.com/city-cluckers/nj/jersey-city",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "low",
+    "research_notes": "Municode (blocked here) and the Internet Archive (offline) could not be opened; the 50-bird cap, license and 25 ft setback come from secondary summaries quoting Sec. 90-6 to 90-8. One secondary source claims Jersey City bans backyard poultry, so verify with the city.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "lincoln-ne",
+    "city": "Lincoln",
+    "state": "NE",
+    "population": 301522,
+    "allowed": "yes",
+    "max_hens": 20,
+    "hens_rule_text": "Up to 2 chickens with no permit; 3 to 20 chickens on a lot of 1 acre or less with a fowl permit, plus 20 more per additional acre",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "A pigeons, small animal and fowl permit from Lincoln-Lancaster County Health Department Animal Control is required once you keep 3 or more chickens; 1 or 2 need no permit. Permits are annual and not transferable.",
+    "setback_ft_from_homes": 50,
+    "setback_notes": "Pens, enclosures and shelters must be at least 50 feet from a neighboring residence and at least 5 feet from a neighboring property line.",
+    "coop_rules": "Exercise/shelter area of at least 3 sq ft per chicken; pens kept clean with manure removed at least every 7 days; hard-surface floor if the lot is under 7,500 sq ft.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Rules sit in the animal control chapter (Title 6) and apply citywide; farmsteads of 20+ acres are exempt.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "LMC 6.04.040, 6.04.041",
+    "sources": [
+      {
+        "name": "Lincoln Municipal Code Chapter 6.04 (enCodePlus)",
+        "url": "https://online.encodeplus.com/regs/lincoln-ne/doc-viewer.aspx?secid=7883",
+        "type": "municipal-code"
+      },
+      {
+        "name": "City of Lincoln Animal Ordinances",
+        "url": "https://www.lincoln.ne.gov/City/Departments/Health-Department/Animal-Control/Animal-Ordinances",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the text of LMC 6.04.040 (table), 6.04.041 and 6.04.050 directly from the enCodePlus e-reader copy of the code. Slaughter is not addressed in the sections read.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "north-las-vegas-nv",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "population": 296653,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "Hens allowed with no stated numeric cap, as long as birds and coops are at least 60 feet from any dwelling owned by someone else, or that owner files written consent with the city",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "No hen permit found in Title 6; written, unrevoked consent from the owner of any dwelling within 60 feet must be filed with the city if you keep birds closer than that.",
+    "setback_ft_from_homes": 60,
+    "setback_notes": "No fowl or bird within 60 feet of any dwelling owned by another person unless that person has filed written consent with the city.",
+    "coop_rules": "Fowl and bird enclosures or coops must be kept clean and free of offensive odors.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Zoning code (Title 17) was not checked for separate animal limits by district.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "NLVMC 6.10.030",
+    "sources": [
+      {
+        "name": "North Las Vegas Code of Ordinances, Title 6 Animals (Municode)",
+        "url": "https://library.municode.com/nv/north_las_vegas/codes/code_of_ordinances?nodeId=TIT6AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "North Las Vegas Code 6.10.030, Restrictions on the Keeping of Birds and Fowl (eLaws copy)",
+        "url": "http://nlasvegas-nv.elaws.us/code/coor_title6_ch6.10_sec6.10.030",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Facts come from search-result extracts of NLVMC 6.10.030 (rooster ban on males over 3 months, 60 ft rule with neighbor consent); the full code page could not be opened from here. No 2024 to 2026 amendment found.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "plano-tx",
+    "city": "Plano",
+    "state": "TX",
+    "population": 293028,
+    "allowed": "conditional",
+    "max_hens": null,
+    "hens_rule_text": "Hens allowed only with a Backyard Chickens permit from Animal Services; hens count toward the limit of 10 adult animals (dogs, cats and hens combined) per single dwelling unit",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "Permit from Plano Animal Services required before keeping hens: proof of adequate housing, completion of an educational course on hen care, written authorization from the property owner if renting, and a possible home inspection. Adopted September 2021.",
+    "setback_ft_from_homes": 20,
+    "setback_notes": "Reported distance from neighboring buildings: 20 feet for enclosures holding up to 5 hens, 50 feet for up to 10. Coop must be behind a fence at least 6 feet high. Figures come from a search summary, not the code text.",
+    "coop_rules": "At least 4 sq ft of coop space per hen plus an attached exercise yard with at least 8 sq ft per hen; enclosure behind a 6 ft fence.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Roosters and other birds such as ducks and peacocks remain prohibited in residential zones.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Ch. 4 Animals",
+    "sources": [
+      {
+        "name": "City of Plano: Backyard Chickens",
+        "url": "https://www.plano.gov/backyard-chickens",
+        "type": "city-website"
+      },
+      {
+        "name": "Plano Code of Ordinances, Chapter 4 Animals (Municode)",
+        "url": "https://library.municode.com/tx/plano/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Community Impact: City Council approves ordinance allowing backyard chickens in Plano (2021)",
+        "url": "https://communityimpact.com/dallas-fort-worth/plano/city-county/2021/09/27/city-council-approves-ordinance-allowing-backyard-chickens-in-plano/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Permit, course and rooster ban confirmed in 2021 news coverage of the ordinance; the 10-animal limit, setbacks and space figures come from search extracts that appear to reflect the city page, which rendered empty when fetched. Municode could not be opened, so no exact section number; a claim that slaughter is banned turned out to be about Plano, Illinois and was not used.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "chula-vista-ca",
+    "city": "Chula Vista",
+    "state": "CA",
+    "population": 275533,
+    "allowed": "conditional",
+    "max_hens": 6,
+    "hens_rule_text": "up to 6 chickens per family, only on a lot of at least 7,000 square feet with no more than one single-family home; combined small-animal total capped at 25",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "No chicken permit is mentioned in Chapter 6.04; the limits are lot size, count and placement.",
+    "setback_ft_from_homes": 50,
+    "setback_notes": "Enclosure must be at least 50 feet from any residence other than the owner's and at least 5 feet from adjacent property lines.",
+    "coop_rules": "Keep fowl in a building or fenced enclosure in the rear yard.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The 7,000 square foot minimum lot with a single-family home is set in the code itself, so many smaller lots do not qualify.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "CVMC 6.04.060, 6.04.080, 6.04.090",
+    "sources": [
+      {
+        "name": "Chula Vista Municipal Code 6.04.080 Rabbits, domestic fowl and pigeons, quantity permitted",
+        "url": "https://chulavista.municipal.codes/CVMC/6.04.080",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Chula Vista Municipal Code 6.04.090 Rabbits and domestic fowl, housing restrictions",
+        "url": "https://chulavista.municipal.codes/CVMC/6.04.090",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Chula Vista Municipal Code 6.04.060 Swine, roosters and goats prohibited",
+        "url": "https://chulavista.municipal.codes/CVMC/6.04.060",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Rules taken from search-result extracts of the official Chula Vista Municipal Code (current through early 2026); the code site returned 403 and had no archived copy, so full text was not opened. Roosters are expressly prohibited except for annexation and school exceptions.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "fort-wayne-in",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "population": 275203,
+    "allowed": "no",
+    "max_hens": null,
+    "hens_rule_text": "chickens are not permitted within city limits; poultry counts as a domestic farm animal, which may not be kept unless approved by the Department of Planning Services",
+    "roosters_allowed": "no",
+    "permit_required": "unknown",
+    "permit_notes": "Code 91.019 bars domestic farm animals unless approved by the Department of Planning Services; the city FAQ simply says chickens are not permitted in city limits. No residential hen permit exists.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Not applicable, chickens are not allowed on ordinary residential lots.",
+    "coop_rules": "Not applicable.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "City Council rejected an urban chicken ordinance (up to 5 hens, no roosters) in a 2 to 7 vote in December 2023, the third failed attempt. No later change found as of September 2026.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 91.019",
+    "sources": [
+      {
+        "name": "City of Fort Wayne City Council FAQ: Can you have chickens within the Fort Wayne city limits",
+        "url": "https://www.cityoffortwayne.in.gov/1488/FAQ",
+        "type": "city-website"
+      },
+      {
+        "name": "Fort Wayne Code of Ordinances 91.019 Domestic Farm Animal",
+        "url": "https://codelibrary.amlegal.com/codes/ftwayne/latest/ftwayne_in/0-0-0-48320",
+        "type": "municipal-code"
+      },
+      {
+        "name": "21Alive: City chickens ordinance fails for third time (Dec 2023)",
+        "url": "https://www.21alivenews.com/2023/12/06/city-chickens-ordinance-fails-third-time/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the official City Council FAQ directly, which states chickens are not permitted in city limits. Code 91.019 wording (poultry is a domestic farm animal, not allowed unless approved by Planning Services) came from search extracts; the Planning approval path is unclear and likely limited to agricultural zoning.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "irving-tx",
+    "city": "Irving",
+    "state": "TX",
+    "population": 257076,
+    "allowed": "yes",
+    "max_hens": 24,
+    "hens_rule_text": "up to 24 hens on lots of one acre or less; no hen limit on lots over one acre",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "No permit required for backyard chickens under the 2017 ordinance, per the city's announcement as reported in search extracts.",
+    "setback_ft_from_homes": 25,
+    "setback_notes": "Coop or enclosure may not be within 25 feet of any building used for human occupancy. The extract does not say whether the owner's own home is excluded.",
+    "coop_rules": "Structure with three or more sides and a roof, at least one square foot of roosting area per chicken.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "One rooster allowed only with at least six hens on lots of one acre or less; on larger lots, one rooster per six hens.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Ch. 6, Art. VII (Livestock, Domestic Fowl and Bees)",
+    "sources": [
+      {
+        "name": "Irving Code of Ordinances, Ch. 6 Art. VII Livestock, Domestic Fowl and Bees (eCode360)",
+        "url": "https://ecode360.com/45683201",
+        "type": "municipal-code"
+      },
+      {
+        "name": "City of Irving news flash: Chickens, Roosters Ordinance Adopted",
+        "url": "https://www.cityofirving.org/CivicAlerts.aspx?AID=3369&ARC=5664",
+        "type": "city-website"
+      },
+      {
+        "name": "Dallas Morning News, Irving council votes on chicken ordinance (2017)",
+        "url": "https://www.dallasnews.com/news/2017/04/07/irving-city-council-votes-on-ordinance-restricting-number-of-chickens-residents-can-own/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Facts come from search-result extracts of the eCode360 article and the city's 2017 news release; neither page could be opened directly (403, archive offline). No later amendment found, but the 25 ft rule wording should be checked against the full text.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "chesapeake-va",
+    "city": "Chesapeake",
+    "state": "VA",
+    "population": 255332,
+    "allowed": "yes",
+    "max_hens": 6,
+    "hens_rule_text": "up to 6 female chickens as an accessory use in single-family residential districts (RE-1 lots follow livestock animal-unit rules instead)",
+    "roosters_allowed": "conditional",
+    "permit_required": "yes",
+    "permit_notes": "A permit is required for the accessory structure (coop). No separate animal license is mentioned.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Coop must be in the rear yard and meet accessory structure rules in CZO 14-102.B.1-6; exact distances not confirmed.",
+    "coop_rules": "Chickens must be housed in a fully enclosed accessory structure located in the rear yard.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "Only female chickens are allowed on single-family residential lots, so roosters are effectively limited to RE-1 (animal units by acreage) and A-1 (no livestock limit) districts. Slaughter is not permitted on residentially zoned property.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "CZO Sec. 14-101.C.2.f",
+    "sources": [
+      {
+        "name": "City of Chesapeake Zoning Administration: Chickens and Chicken Coops",
+        "url": "https://www.cityofchesapeake.net/3097/Chickens-and-Chicken-Coops",
+        "type": "city-website"
+      },
+      {
+        "name": "Chesapeake Zoning Ordinance Art. 14, Sec. 14-101 (Municode)",
+        "url": "https://library.municode.com/va/chesapeake/codes/zoning?nodeId=ZO_ART14ACUSST_S14-101PEACUSST",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the official city zoning page directly, which quotes CZO 14-101.C.2.f. Coop setback distances in 14-102.B were not readable (Municode blocked), and rooster status is inferred from the female-only wording.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "garland-tx",
+    "city": "Garland",
+    "state": "TX",
+    "population": 249625,
+    "allowed": "yes",
+    "max_hens": 4,
+    "hens_rule_text": "up to 4 female fowl (hens) over one month old per property",
+    "roosters_allowed": "no",
+    "permit_required": "unknown",
+    "permit_notes": "No permit requirement appeared in the code extracts; not confirmed either way.",
+    "setback_ft_from_homes": 30,
+    "setback_notes": "Enclosure must be at least 30 feet from any residential dwelling other than the owner's.",
+    "coop_rules": "Fowl must be kept in an enclosure.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The four-hen cap applies citywide; roosters and male peafowl are prohibited.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Ch. 22, Art. I (Animal Services)",
+    "sources": [
+      {
+        "name": "Garland Code of Ordinances, Art. I Animal Services (eCode360)",
+        "url": "https://ecode360.com/40070090",
+        "type": "municipal-code"
+      },
+      {
+        "name": "BackYard Chickens: Garland Texas chicken ordinance",
+        "url": "https://www.backyardchickens.com/articles/garland-texas-chicken-ordinance.61606/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Rules taken from search-result extracts of the eCode360 Animal Services article; the page itself and garlandtx.gov could not be opened. Exact section number and chapter number are not confirmed, and permit status is unknown.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "scottsdale-az",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "population": 243006,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "fowl allowed unless they become a habitual noise nuisance; no city hen cap confirmed, and state law protects at least 6 on single-family lots of half an acre or less",
+    "roosters_allowed": "unknown",
+    "permit_required": "unknown",
+    "permit_notes": "No city chicken permit found in official sources.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "No city setback confirmed. State law (ARS 9-462.12) lets cities require the enclosure in the rear or side yard at least 20 feet from a neighboring property, max 200 sq ft and 8 ft high, and requires enclosures on lots under one acre to be shorter than the fence line.",
+    "coop_rules": "No city coop standard confirmed; state law allows cities to require twice-weekly manure removal and rodent-proof feed storage.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "City Code Sec. 4-17(c) bars keeping any animal or fowl whose frequent or habitual crowing or noise disturbs a neighborhood or two or more people. Zoning district limits were not checked in the code text.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 4-17",
+    "sources": [
+      {
+        "name": "Scottsdale Revised Code Ch. 4 Animals, Sec. 4-17 (Municode)",
+        "url": "https://library.municode.com/az/scottsdale/codes/code_of_ordinances?nodeId=REVISED_CODEVO1_CH4AN_ARTIIKEDOAN_S4-17GERE",
+        "type": "municipal-code"
+      },
+      {
+        "name": "City of Scottsdale: Barking Dog Violations (quotes Sec. 4-17(c))",
+        "url": "https://www.scottsdaleaz.gov/get-help/mediation/barking-dog-violations",
+        "type": "city-website"
+      },
+      {
+        "name": "Arizona Revised Statutes 9-462.12, Backyard fowl regulation",
+        "url": "https://www.azleg.gov/ars/9/00462-12.htm",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Arizona House bill summary HB2325 (2024), survey of city rules",
+        "url": "https://www.azleg.gov/legtext/56leg/2R/summary/H.HB2325_022024_HOUSEENGROSSED.DOCX.htm",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the state statute ARS 9-462.12 (2024) directly; the Legislature's staff summary says Scottsdale allows fowl unless a habitual nuisance under Sec. 4-17. Scottsdale's own code and zoning text could not be opened, so any city hen cap, rooster ban or setback is unconfirmed; secondary sites claiming 5 hens and 40 ft were not trusted.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "norfolk-va",
+    "city": "Norfolk",
+    "state": "VA",
+    "population": 231013,
+    "allowed": "conditional",
+    "max_hens": 6,
+    "hens_rule_text": "up to 6 hens per lot, only with a chicken permit from the Norfolk Department of Public Health",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "Permit from the Norfolk Department of Public Health, Bureau of Environmental Health, must be approved before getting chickens. Search summaries report a one-time fee of about $50 and leg or wing ID bands on each hen. A permit is void where private restrictions ban chickens.",
+    "setback_ft_from_homes": 20,
+    "setback_notes": "Search summaries of the permit rules report coops at least 15 ft from any property line and 20 ft from a neighbor's dwelling; not confirmed from full code text.",
+    "coop_rules": "Hens kept in a coop and enclosure meeting permit standards; feed in rodent-proof containers.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Reported to apply to single-family detached lots.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 6.1-7",
+    "sources": [
+      {
+        "name": "Norfolk Department of Public Health chicken permit application (Virginia Department of Health)",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/223/2024/07/CHICKEN-PERMIT-APPLICATION-for-Norfolk-11-19-2014-_201411260901501084.pdf",
+        "type": "city-website"
+      },
+      {
+        "name": "BackYard Chickens: Norfolk Virginia chicken ordinance",
+        "url": "https://www.backyardchickens.com/articles/norfolk-virginia-chicken-ordinance.61163/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Facts come from search-result extracts of the official health department permit application and quotes of City Code 6.1-7; the PDF and Municode timed out or were blocked, so the full text was not read. Setback figures and the fee come partly from secondary summaries.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "hialeah-fl",
+    "city": "Hialeah",
+    "state": "FL",
+    "population": 230968,
+    "allowed": "no",
+    "max_hens": null,
+    "hens_rule_text": "city code counts fowl as livestock and makes keeping livestock in the city unlawful, except on land zoned for agricultural use",
+    "roosters_allowed": "no",
+    "permit_required": "unknown",
+    "permit_notes": "No backyard chicken permit found in the city code. Some secondary sites claim up to 4 hens with a permit, but the code text quoted in search results does not support that.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "On agriculturally zoned property, permitted animals and livestock may not be penned or housed less than 10 ft from property lines.",
+    "coop_rules": "Not applicable on ordinary residential lots; on agricultural land, pens at least 10 ft from property lines.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The livestock ban in Sec. 10-2(a) does not apply to property lawfully zoned for agricultural use (mobile home parks excluded).",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 10-2",
+    "sources": [
+      {
+        "name": "Hialeah Code of Ordinances, Chapter 10 Animals (Municode)",
+        "url": "https://library.municode.com/fl/hialeah/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "BackYard Chickens: Hialeah Florida chicken ordinance",
+        "url": "https://www.backyardchickens.com/articles/hialeah-florida-chicken-ordinance.61295/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Based on search-result extracts of Hialeah Code Chapter 10 (livestock defined to include fowl; keeping livestock unlawful except on agricultural zoning); Municode is region-blocked so full text was not read. Secondary sites disagree (claiming 4 hens allowed); no 2024 to 2026 amendment was found.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "spokane-wa",
+    "city": "Spokane",
+    "state": "WA",
+    "population": 230783,
+    "allowed": "yes",
+    "max_hens": 5,
+    "hens_rule_text": "one chicken per 1,000 sq ft of lot area, so about 5 hens on a 5,000 sq ft lot and 10 on a 10,000 sq ft lot; the total is shared with any other small animals kept",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "Permitted outright in RA, R1, R2, RMF, RHD and any zone allowing homes. The Washington State University animal keeping certification required for other small domestic animals expressly excludes chickens.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Coops and enclosures must meet the setback rules for residential accessory structures (SMC 17C.111.240); a side yard waiver may reduce the side setback.",
+    "coop_rules": "Enclosure only on a lot with a house, or an adjacent lot held by the same owner or tenant; must follow accessory structure standards.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Roosters and peacocks are allowed only in the RA (Residential Agriculture) zone.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "SMC 17C.310.115",
+    "sources": [
+      {
+        "name": "Spokane Municipal Code Section 17C.310.115, Keeping of Small Domestic Animals",
+        "url": "https://my.spokanecity.org/smc/?Section=17C.310.115",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the full text of SMC 17C.310.115 (passed March 2014) via an Internet Archive copy from December 2025, since the city site returned 403. The code mentions slaughter only for small livestock, so slaughter of chickens is left unknown.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "tacoma-wa",
+    "city": "Tacoma",
+    "state": "WA",
+    "population": 229816,
+    "allowed": "yes",
+    "max_hens": 6,
+    "hens_rule_text": "up to 6 adult poultry per parcel; up to 10 with written consent of all owners within 50 ft filed with the City Clerk, plus 1 more per 5,000 sq ft of parcel above 10,000 sq ft",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "No chicken permit is required. Coops under 200 sq ft do not need a building permit. Going above 6 birds needs written neighbor consent filed with the City Clerk.",
+    "setback_ft_from_homes": 12,
+    "setback_notes": "Coops must be at least 12 ft from the nearest part of any residence, dwelling, hotel, apartment house or rooming house, behind the front wall of the house, and outside the required side yard setback.",
+    "coop_rules": "Coops behind the front wall of the main building, outside side yard setbacks, and must meet detached accessory building standards; birds may not run loose in streets, alleys or public places.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Allowed in residential areas citywide per the city permits office.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "TMC 5.30",
+    "sources": [
+      {
+        "name": "Tacoma Planning and Development Services tip sheet: Goats and Chickens",
+        "url": "https://www.tacomapermits.org/tip-sheet-index/goats-and-chickens",
+        "type": "city-website"
+      },
+      {
+        "name": "Tacoma Permits FAQ: Are chickens allowed in the city of Tacoma?",
+        "url": "https://www.tacomapermits.org/faqs/are-chickens-allowed-in-the-city-of-tacoma",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the official City of Tacoma Planning and Development Services tip sheet and FAQ directly, which state the counts, rooster ban and 12 ft setback. The chapter number 5.30 comes from a search extract; the full Title 5 code text was not opened.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "santa-clarita-ca",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "population": 228430,
+    "allowed": "conditional",
+    "max_hens": 3,
+    "hens_rule_text": "no poultry on lots under 15,000 sq ft; 3 on lots of 15,000 to 20,000 sq ft, rising to 7 on lots up to 1 acre and 8 per acre above that (shared with goats, sheep and similar small animals)",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "No permit within the lot-size limits. A minor use permit is required to keep more small animals than the table allows, which is the only route for poultry on lots under 15,000 sq ft.",
+    "setback_ft_from_homes": 50,
+    "setback_notes": "Coops and other animal structures must be at least 50 ft from any street or highway and from any building used for human habitation, in addition to LA County Health Department rules.",
+    "coop_rules": "Birds must be caged or housed in an enclosure treated as an accessory structure under the zone's standards; kept free of litter and excrement; noise at the property line must stay within the zone's ambient level.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Roosters allowed only on lots over 1 acre, one rooster per acre. Egg sales are allowed where the animals are permitted. FFA and 4-H members may keep one extra animal.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 17.62.030",
+    "sources": [
+      {
+        "name": "Santa Clarita Unified Development Code 17.62.030, Keeping of Small Animals",
+        "url": "https://www.codepublishing.com/CA/SantaClarita/html/SantaClarita17/SantaClarita1762.html",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the full text of Chapter 17.62 via an Internet Archive copy from November 2023 (Ord. 13-8), since Code Publishing blocks direct access. An amendment after November 2023 cannot be ruled out; web search was unavailable to check for 2024 to 2026 changes.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "population": 218428,
+    "allowed": "conditional",
+    "max_hens": 15,
+    "hens_rule_text": "Up to 15 hens on a lot in any residential zone, for egg production, with a permit from Salt Lake County Animal Services.",
+    "roosters_allowed": "no",
+    "permit_required": "yes",
+    "permit_notes": "Permit from Salt Lake County Animal Services, $75 regardless of the number of birds, per the city's backyard chickens page.",
+    "setback_ft_from_homes": 25,
+    "setback_notes": "Chickens must be kept in the rear yard at least 25 feet from any dwelling on an adjacent lot. The general fowl rule in 8.08.060 sets 50 feet from any house, except as provided in 8.08.065 for residential chickens.",
+    "coop_rules": "Secure enclosed area; coop at least 2 sq ft per bird, or 6 sq ft per bird if they are not let out; neat and sanitary; feed in rodent and predator resistant containers.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Allowed in residential districts under Title 21A chapter 21A.24. Other livestock needs agricultural zoning and a separate permit.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 8.08.010, 8.08.060, 8.08.065",
+    "sources": [
+      {
+        "name": "Salt Lake City Code Chapter 8.08 Keeping Animals, Livestock and Poultry",
+        "url": "https://codelibrary.amlegal.com/codes/saltlakecityut/latest/saltlakecity_ut/0-0-0-49880",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Salt Lake City Sustainability: Backyard Chickens",
+        "url": "https://www.slc.gov/sustainability/local-food/backyard-chickens-in-salt-lake-city/",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Rules read directly on the official slc.gov backyard chickens page; code text of 8.08.010 and 8.08.065 seen only in search extracts, which agree with the city page. Slaughter is not addressed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "moreno-valley-ca",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "population": 214263,
+    "allowed": "conditional",
+    "max_hens": 15,
+    "hens_rule_text": "Poultry only on lots of at least 20,000 sq ft in the RR, HR, R-1, RA-2 and AG zones, up to 15 birds per 20,000 sq ft. Typical smaller subdivision lots in other residential zones cannot keep chickens.",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "The zoning code table lists poultry as permitted in the qualifying zones and no chicken permit was found; confirm with the Planning Division (951-413-3206).",
+    "setback_ft_from_homes": 20,
+    "setback_notes": "Area where animals are housed must be at least 20 feet from any habitable dwelling; 0 feet from side and rear lines; front yard uses the district requirement. Coops and sheds also follow accessory structure setbacks in 9.08.030.",
+    "coop_rules": "Housing area must meet the animal setbacks; waste removal rules of Chapter 6.04 apply.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Roosters, guinea fowl and peafowl are banned citywide. The city's zoning FAQ says chickens are regulated by zoning and lot size and points to Table 9.09.090-11.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 9.09.090, Table 9.09.090-11",
+    "sources": [
+      {
+        "name": "Moreno Valley Municipal Code 9.09.090 Agricultural and animal uses",
+        "url": "https://library.qcode.us/lib/moreno_valley_ca/pub/municipal_code/item/title_9-chapter_9_09-9_09_090",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Moreno Valley Code (current, eCode360)",
+        "url": "https://ecode360.com/MO4973",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Moreno Valley Zoning FAQ",
+        "url": "https://moval.gov/cdd/department/faqs-zoning.html",
+        "type": "city-website"
+      },
+      {
+        "name": "Moreno Valley Prohibited Animals",
+        "url": "https://moval.gov/cdd/services/code-violations/prohibited-animals.html",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Code text of 9.09.090 read via an Internet Archive copy (Jan 2024) of the former qcode edition, current through Nov 2023; the code has since moved to eCode360, which could not be opened. A 2025 petition sought small-lot flocks but no adopted change was found; permit status not stated in the code.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "amarillo-tx",
+    "city": "Amarillo",
+    "state": "TX",
+    "population": 205130,
+    "allowed": "conditional",
+    "max_hens": 4,
+    "hens_rule_text": "Up to 4 barnyard fowl per quarter acre, and only on lots of at least one quarter acre. No fowl on smaller lots in residential zones. Industrial, agricultural and heavy commercial zones are exempt from the cap.",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "The fowl rules in Sec. 8-2-5 set no permit requirement for keeping hens within the limits.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Any shelter or cage must respect the building setback lines in the Zoning Ordinance. No animals other than dogs and cats in the front yard of a one-family or two-family district.",
+    "coop_rules": "Birds must be confined to the owner's premises and may not run or fly at large. Barnyard fowl includes chickens, ducks, geese, peacocks, guineas and turkeys.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Lots under one quarter acre cannot keep any barnyard fowl. A chicken flock may be at most 25 percent roosters, and a flock of fewer than 4 birds may have at most 1 rooster.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 8-2-5",
+    "sources": [
+      {
+        "name": "Amarillo Code of Ordinances, Sec. 8-2-5 Nuisance Animals",
+        "url": "https://library.municode.com/tx/amarillo/codes/code_of_ordinances?nodeId=CO_TITVIIIPUHESA_CH8-2ANFO_ARTIINGE_S8-2-5NUAN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Swann Animal Clinic reprint of Chapter 8-2 (Internet Archive copy, March 2026)",
+        "url": "https://www.amarillovet.com/amarillo-animal-laws-ordinances",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the full Sec. 8-2-5 text as reprinted verbatim by a local vet clinic (Internet Archive copy, March 2026, amendments to 2020); municode itself was region blocked but search extracts and local news match. The rooster rules were added around 2017.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "tallahassee-fl",
+    "city": "Tallahassee",
+    "state": "FL",
+    "population": 204902,
+    "allowed": "yes",
+    "max_hens": null,
+    "hens_rule_text": "Hens may be kept for non-commercial purposes with no numeric cap in the code, as long as they stay in a securely enclosed yard or pen and at least 20 feet from neighboring dwellings.",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "The hen exception in Sec. 4-5(d)(2) needs no permit. Special permits from the city commission apply only to livestock or fowl kept for exhibition and display.",
+    "setback_ft_from_homes": 20,
+    "setback_notes": "Hens must be kept no closer than 20 feet to neighboring dwellings.",
+    "coop_rules": "Hens must be confined in a securely enclosed yard or pen at all times.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Only non-commercial keeping is allowed. One rooster may be kept alongside hens for flock sustainability. Fowl on tracts of 5 or more contiguous acres are exempt from the section, and animals lawfully kept when the 2010 ordinance passed are grandfathered.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 4-5",
+    "sources": [
+      {
+        "name": "City of Tallahassee, Chapter 4 Animals (official PDF of the code)",
+        "url": "https://www.talgov.com/uploads/public/documents/animals/ord.pdf",
+        "type": "city-website"
+      },
+      {
+        "name": "Tallahassee Code of Ordinances, Chapter 4 Animals",
+        "url": "https://library.municode.com/fl/tallahassee/codes/code_of_ordinances?nodeId=PTIICOGEOR_CH4AN",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read Sec. 4-5 in the city's own PDF of Chapter 4 (Ord. No. 10-O-15AA, 2010). No amendment since 2010 was found in searches, though the PDF date is not stated. Noise and sanitation nuisance rules still apply to roosters.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "overland-park-ks",
+    "city": "Overland Park",
+    "state": "KS",
+    "population": 203677,
+    "allowed": "conditional",
+    "max_hens": 3,
+    "hens_rule_text": "Permit required. 3 hens on lots of 0.20 to 0.49 acre, 6 hens on 0.50 to 0.99 acre, 12 hens on 1 to 3 acres, no cap and no permit over 3 acres. Lots under 0.20 acre cannot keep chickens.",
+    "roosters_allowed": "conditional",
+    "permit_required": "yes",
+    "permit_notes": "Annual Chicken Permit from the City Clerk: $100 the first year, $50 per renewal. Needs a site plan, and Animal Control must inspect the coop and run before chickens arrive. Renters need the property owner's written permission.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Coops, mobile pens and runs must be at least 10 feet from side property lines and 25 feet from the rear property line. None in the front yard.",
+    "coop_rules": "Secure, well ventilated coop in a fenced rear yard, at least 10 sq ft per bird, no structure over 200 sq ft on lots under 3 acres. Birds must be cooped when unattended. Manure storage capped at 3 cubic feet and must be covered.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "Only on residentially zoned lots of 0.20 acre or more with a detached single-family home or duplex, or agricultural land under 3 acres used as a residence, and only at the owner's principal residence. Roosters are banned on lots under 3 acres. Ducks, turkeys, guinea fowl and other fowl are not allowed. The program became permanent on January 1, 2024.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "OPMC Chapter 6.13 (6.13.050)",
+    "sources": [
+      {
+        "name": "City of Overland Park, Chicken Permits page (Internet Archive copy, Feb 2026)",
+        "url": "https://www.opkansas.gov/chicken-permits",
+        "type": "city-website"
+      },
+      {
+        "name": "Ordinance No. DAC-3435, adding OPMC Chapter 6.13 Keeping of Chickens (linked from city page)",
+        "url": "https://drive.google.com/file/d/1xQXvxFKiQXJ0sDb9Zq_O1CZJ5wNJR9bK/view",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the full text of Ordinance DAC-3435 (effective Jan 1, 2024) linked from the city's chicken permit page, and the city page itself via an Internet Archive copy. Some secondary sites wrongly give the minimum lot as 0.25 acre; the ordinance says 0.20.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "oxnard-ca",
+    "city": "Oxnard",
+    "state": "CA",
+    "population": 199651,
+    "allowed": "yes",
+    "max_hens": 25,
+    "hens_rule_text": "Up to 25 rabbits and poultry combined on any premises in a residential or commercial zone.",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "No permit found for keeping up to 25 birds in a residential zone. A special use permit applies only above 200 birds in a manufacturing zone.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "No poultry setback from dwellings was found in the animal chapter. Coops may need to meet accessory structure rules in the zoning code (Chapter 16).",
+    "coop_rules": "No specific coop standards found in the animal chapter; keep birds from creating a nuisance and confine them to the property.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The 25-bird cap covers rabbits and poultry together, so rabbits count against the chicken total.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 5-30; Sec. 5-2",
+    "sources": [
+      {
+        "name": "Oxnard City Code Sec. 5-30 Rabbits or Poultry",
+        "url": "https://codelibrary.amlegal.com/codes/oxnard/latest/oxnard_ca/0-0-0-67024",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Oxnard City Code Sec. 5-2 Declaration of Public Nuisance; Prohibited Acts",
+        "url": "https://codelibrary.amlegal.com/codes/oxnard/latest/oxnard_ca/0-0-0-66916",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Facts come from search-result extracts of the American Legal code pages (Sec. 5-30 caps rabbits or poultry at 25 in residential zones; Sec. 5-2 makes a rooster over four months old in a residential zone a public nuisance). The full text could not be opened and no Wayback copy exists, so setbacks and coop rules are unconfirmed.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "birmingham-al",
+    "city": "Birmingham",
+    "state": "AL",
+    "population": 195893,
+    "allowed": "yes",
+    "max_hens": 6,
+    "hens_rule_text": "Up to 6 hens per property as an accessory use to an occupied single-family detached home in the D-1, D-2 and D-3 districts.",
+    "roosters_allowed": "no",
+    "permit_required": "no",
+    "permit_notes": "The zoning ordinance lists a chicken coop as a permitted accessory use in D-1, D-2 and D-3 with no separate chicken permit. Larger coops accessory to an urban farm in C-2 and I-1 to I-3 need a special exception from the Board.",
+    "setback_ft_from_homes": 15,
+    "setback_notes": "Coop and run at least 15 feet from residential structures on adjacent lots and at least 10 feet from property lines, in the rear yard.",
+    "coop_rules": "Hens kept in an enclosed, roofed, lockable, predator-proof coop and run at all times, in the rear yard, no more than 80 sq ft total and 6 ft tall; kept clean, feed in sealed containers, uneaten feed removed daily. Hens may not be kept inside the house.",
+    "slaughter_allowed": "no",
+    "zoning_notes": "Only single-family detached homes in D-1, D-2 and D-3 qualify. The AG district allows coops with larger setbacks. Urban farms in C-2, I-1, I-2 and I-3 may keep up to 100 hens by special exception, 200 ft from any dwelling district.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Zoning Ordinance Title 1, Chapter 4 (Land Use Development Standards, Permitted as Accessory), Chicken Coop",
+    "sources": [
+      {
+        "name": "City of Birmingham Zoning Ordinance, July 2026 Edition (PDF)",
+        "url": "https://s3.us-east-2.amazonaws.com/assets.birminghamal.gov/s3fs-public/2026-07/City%20of%20Birmingham%20Zoning%20Ordinance%20July%202026.pdf",
+        "type": "municipal-code"
+      },
+      {
+        "name": "City of Birmingham Zoning Ordinance page",
+        "url": "https://www.birminghamal.gov/government/city-departments/pep/pep-divisions/zoning-division/city-birmingham-zoning-ordinance",
+        "type": "city-website"
+      }
+    ],
+    "confidence": "high",
+    "research_notes": "Read the chicken coop accessory use standards directly in the city's July 2026 zoning ordinance PDF (pages 178 to 179). The animal chapter of the city code (Title 6, Chapter 1) could not be opened because Municode is blocked, so any separate animal rules there are unchecked.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "fort-lauderdale-fl",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "population": 188677,
+    "allowed": "no",
+    "max_hens": null,
+    "hens_rule_text": "Chickens are not allowed in residential districts. The pet exception covers birds but expressly excludes chickens, roosters and geese.",
+    "roosters_allowed": "no",
+    "permit_required": "unknown",
+    "permit_notes": "No permit path for residential hens found. Keeping animals outside residential districts is governed by separate distance rules.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "Outside residential districts, animals including poultry must be kept at least 75 ft from any inhabited dwelling, and roosters at least 100 yards (300 ft) from any dwelling other than the owner's.",
+    "coop_rules": "Not applicable in residential districts, since chickens are banned there.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "The ban applies to all residential zoning districts. Non-residential properties follow the distance limits above.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 6-5",
+    "sources": [
+      {
+        "name": "Fort Lauderdale Code of Ordinances, Chapter 6 Animals (Municode)",
+        "url": "https://library.municode.com/fl/fort_lauderdale/codes/code_of_ordinances?nodeId=COOR_CH6AN",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Fort Lauderdale Magazine, A-Fowl of the Law",
+        "url": "https://fortlauderdalemagazine.com/a-fowl-of-the-law/",
+        "type": "secondary"
+      },
+      {
+        "name": "Broward Palm Beach New Times, Fort Lauderdale Hen Project petitions commission",
+        "url": "https://www.browardpalmbeach.com/food-drink/fort-lauderdale-hen-project-petitions-city-commission-to-allow-backyard-chickens-6904335/",
+        "type": "secondary"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Ban and exclusion wording come from search-result extracts of the Municode Chapter 6 text (Sec. 6-5); the full page could not be opened from this IP. Advocacy to allow hens (2013) failed and no 2024 to 2026 amendment was found.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "glendale-ca",
+    "city": "Glendale",
+    "state": "CA",
+    "population": 187160,
+    "allowed": "yes",
+    "max_hens": 2,
+    "hens_rule_text": "Up to 2 hens (combined with any rabbits, ducks or pigeons) may be kept near homes. More than 2 must be kept at least 50 ft from any dwelling, and more than 12 at least 300 ft from neighbors' dwellings.",
+    "roosters_allowed": "conditional",
+    "permit_required": "unknown",
+    "permit_notes": "No permit requirement for a few hens was found in the search extracts of the code.",
+    "setback_ft_from_homes": null,
+    "setback_notes": "No distance rule for the first 2 birds. Beyond 2, animals must be at least 50 ft from any residence and 150 ft from schools and hospitals. More than 12 fowl or rabbits need 300 ft from any dwelling other than the owner's.",
+    "coop_rules": "Coops, pens and enclosures must be kept sanitary.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Rules found are in the animal chapter (Title 6). Zoning code limits were not checked.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Sec. 6.04.050",
+    "sources": [
+      {
+        "name": "Glendale Municipal Code Chapter 6.04, Animal Control Regulations Generally (eCode360)",
+        "url": "https://ecode360.com/43344702",
+        "type": "municipal-code"
+      },
+      {
+        "name": "Glendale Municipal Code 6.04.050, Number of fowl or rabbits permitted (qcode)",
+        "url": "http://www.qcode.us/codes/glendale/?view=desktop&topic=6-6_04-6_04_050",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Rules come from search-result extracts of Glendale Code Chapter 6.04; eCode360, qcode and the Internet Archive were all unreachable, so the full text and exact section split were not read. Roosters are left out of the 2-bird exception, so they seem allowed only 50 ft or more from dwellings; no separate rooster ban was confirmed (search hits about a rooster ban concerned Glendale, AZ).",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "ontario-ca",
+    "city": "Ontario",
+    "state": "CA",
+    "population": 187013,
+    "allowed": "conditional",
+    "max_hens": null,
+    "hens_rule_text": "Poultry is allowed only in the AR-2 (Residential-Agricultural) and AG zones. Ordinary single-family zones allow only up to 4 household pets, and poultry is not in that list. Where allowed, the number is capped by lot area.",
+    "roosters_allowed": "conditional",
+    "permit_required": "no",
+    "permit_notes": "In AR-2 and AG, poultry keeping is permitted by right as an accessory use to a single-family home; no separate permit was found.",
+    "setback_ft_from_homes": 30,
+    "setback_notes": "Fowl must be at least 30 ft from any home other than the owner's (and from schools, clinics, churches and similar buildings), at least 20 ft from any property line in residential zones, and never in a front or street-side yard.",
+    "coop_rules": "Coops and pens must be kept clean and sanitary, waste handled per regional water board rules, and animals kept behind a fence or wall at least 5 ft high when outdoors.",
+    "slaughter_allowed": "unknown",
+    "zoning_notes": "Land Use Matrix Table 5.02-1 marks Poultry and Fowl as permitted only in AR-2 and AG. Density is set per lot area in the Maximum Animal Keeping Densities table in Section 5.03.410.",
+    "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+    "code_section": "Ontario Development Code Sec. 5.03.410",
+    "sources": [
+      {
+        "name": "Ontario Development Code Chapter 5.0, Zoning and Land Use (rev. 12-03-2024)",
+        "url": "https://content.ontarioca.gov/sites/default/files/2025-01/Chapter%205.0%20-%20Zoning%20and%20Land%20Use_Rev%2012-03-2024.pdf",
+        "type": "municipal-code"
+      }
+    ],
+    "confidence": "medium",
+    "research_notes": "Read the city's official Development Code PDF (rev. Dec 2024) directly. Zones and setbacks are clear, but the density table was garbled in text extraction (it seems to say one poultry per 6,000 sq ft), so max_hens is left null. The crowing fowl rule bans roosters that unreasonably disturb neighbors; it is unclear whether any rooster counts.",
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  }
+]

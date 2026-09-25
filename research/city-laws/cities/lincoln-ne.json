@@ -1,0 +1,23 @@
+{
+  "id": "lincoln-ne", "city": "Lincoln", "state": "NE", "population": 301522,
+  "allowed": "yes",
+  "max_hens": 20,
+  "hens_rule_text": "Up to 2 chickens with no permit; 3 to 20 chickens on a lot of 1 acre or less with a fowl permit, plus 20 more per additional acre",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A pigeons, small animal and fowl permit from Lincoln-Lancaster County Health Department Animal Control is required once you keep 3 or more chickens; 1 or 2 need no permit. Permits are annual and not transferable.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Pens, enclosures and shelters must be at least 50 feet from a neighboring residence and at least 5 feet from a neighboring property line.",
+  "coop_rules": "Exercise/shelter area of at least 3 sq ft per chicken; pens kept clean with manure removed at least every 7 days; hard-surface floor if the lot is under 7,500 sq ft.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules sit in the animal control chapter (Title 6) and apply citywide; farmsteads of 20+ acres are exempt.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "LMC 6.04.040, 6.04.041",
+  "sources": [
+    { "name": "Lincoln Municipal Code Chapter 6.04 (enCodePlus)", "url": "https://online.encodeplus.com/regs/lincoln-ne/doc-viewer.aspx?secid=7883", "type": "municipal-code" },
+    { "name": "City of Lincoln Animal Ordinances", "url": "https://www.lincoln.ne.gov/City/Departments/Health-Department/Animal-Control/Animal-Ordinances", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the text of LMC 6.04.040 (table), 6.04.041 and 6.04.050 directly from the enCodePlus e-reader copy of the code. Slaughter is not addressed in the sections read.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

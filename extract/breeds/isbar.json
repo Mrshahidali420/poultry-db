@@ -1,0 +1,68 @@
+{
+  "id": "isbar",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 200,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "green, sometimes speckled brown",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "cold-hardy",
+          "good forager",
+          "friendly",
+          "alert to predators"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Sweden",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "1950s",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "developed by Martin Silverudd",
+          "the only single-combed breed known to lay green eggs",
+          "roosters have deep blue body feathers and shimmering metallic hackles; splash patterns are also common"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Isbar was developed in 1950s Sweden by Martin Silverudd, who aimed to create autosexing breeds that lay unusually colored eggs in volume. It is the only single-combed breed known to lay green eggs.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

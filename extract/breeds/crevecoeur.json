@@ -1,0 +1,52 @@
+{
+  "id": "crevecoeur",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ],
+    "crest": [
+      {
+        "value": true,
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "France",
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "origins unknown, among the oldest French breeds; standard accepted 1909",
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "related to the La Fleche and other Norman breeds such as the Caumont and Caux",
+          "won prizes at the 1855 Paris Exposition Universelle",
+          "added to the APA Standard of Perfection in 1874",
+          "nearly disappeared after the Second World War; revival began in 1976"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Crevecoeur is among the oldest French chicken breeds, from the Pays d'Auge in Normandy. It suffered heavy losses in both World Wars and was thought nearly extinct after the second, before Jean-Claude Perriquet began a recovery effort in 1976; it remains a Livestock Conservancy-listed endangered breed.",
+        "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+      }
+    ]
+  }
+}

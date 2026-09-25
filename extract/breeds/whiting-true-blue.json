@@ -1,0 +1,74 @@
+{
+  "id": "whiting-true-blue",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 280,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "powder blue",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "large",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "active",
+          "friendly",
+          "non-aggressive"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "plumage varies; most commonly chipmunk or grey"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "a modern production breed developed by poultry geneticist Dr. Tom Whiting specifically to lay a consistent blue egg at a commercial rate",
+          "not a heritage breed"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Whiting True Blue was developed by poultry geneticist Dr. Tom Whiting as a modern production breed bred purely for a consistent, large, powder-blue egg, unlike many blue-egg layers whose shade or output is inconsistent.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

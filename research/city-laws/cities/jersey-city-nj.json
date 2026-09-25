@@ -1,0 +1,24 @@
+{
+  "id": "jersey-city-nj", "city": "Jersey City", "state": "NJ", "population": 302013,
+  "allowed": "conditional",
+  "max_hens": 50,
+  "hens_rule_text": "Chickens may be kept only with a city license; secondary summaries of the code cite a cap of 50 birds, counting ducks, other poultry and pigeons together",
+  "roosters_allowed": "unknown",
+  "permit_required": "yes",
+  "permit_notes": "Code Chapter 90, Article II (Sec. 90-7) reportedly requires a license from the license issuing authority before keeping fowl; licenses reportedly expire April 30 each year.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Summaries of Sec. 90-8 say no chickens or coop within 25 feet of any structure owned by another person.",
+  "coop_rules": "Coop must be dry, well ventilated, with windows for sunlight, and whitewashed or painted inside (per secondary summary of the code).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Not checked against the Jersey City Land Development Ordinance; some secondary sites claim Jersey City does not allow backyard poultry, which conflicts with the Chapter 90 license scheme.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 90, Art. II, Sec. 90-6 to 90-8",
+  "sources": [
+    { "name": "Jersey City Code of Ordinances, Chapter 90 Animals (Municode)", "url": "https://library.municode.com/nj/jersey_city/codes/code_of_ordinances?nodeId=CH90AN", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Jersey City New Jersey Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/jersey-city-new-jersey-chicken-ordinance.61645/", "type": "secondary" },
+    { "name": "Texas Real Food: Keeping Backyard Chickens in Jersey City", "url": "https://discover.texasrealfood.com/city-cluckers/nj/jersey-city", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Municode (blocked here) and the Internet Archive (offline) could not be opened; the 50-bird cap, license and 25 ft setback come from secondary summaries quoting Sec. 90-6 to 90-8. One secondary source claims Jersey City bans backyard poultry, so verify with the city.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

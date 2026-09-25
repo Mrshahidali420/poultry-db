@@ -1,0 +1,23 @@
+{
+  "id": "amarillo-tx", "city": "Amarillo", "state": "TX", "population": 205130,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 barnyard fowl per quarter acre, and only on lots of at least one quarter acre. No fowl on smaller lots in residential zones. Industrial, agricultural and heavy commercial zones are exempt from the cap.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "The fowl rules in Sec. 8-2-5 set no permit requirement for keeping hens within the limits.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Any shelter or cage must respect the building setback lines in the Zoning Ordinance. No animals other than dogs and cats in the front yard of a one-family or two-family district.",
+  "coop_rules": "Birds must be confined to the owner's premises and may not run or fly at large. Barnyard fowl includes chickens, ducks, geese, peacocks, guineas and turkeys.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Lots under one quarter acre cannot keep any barnyard fowl. A chicken flock may be at most 25 percent roosters, and a flock of fewer than 4 birds may have at most 1 rooster.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 8-2-5",
+  "sources": [
+    { "name": "Amarillo Code of Ordinances, Sec. 8-2-5 Nuisance Animals", "url": "https://library.municode.com/tx/amarillo/codes/code_of_ordinances?nodeId=CO_TITVIIIPUHESA_CH8-2ANFO_ARTIINGE_S8-2-5NUAN", "type": "municipal-code" },
+    { "name": "Swann Animal Clinic reprint of Chapter 8-2 (Internet Archive copy, March 2026)", "url": "https://www.amarillovet.com/amarillo-animal-laws-ordinances", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the full Sec. 8-2-5 text as reprinted verbatim by a local vet clinic (Internet Archive copy, March 2026, amendments to 2020); municode itself was region blocked but search extracts and local news match. The rooster rules were added around 2017.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

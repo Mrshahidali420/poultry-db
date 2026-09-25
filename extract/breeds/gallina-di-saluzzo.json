@@ -1,0 +1,62 @@
+{
+  "id": "gallina-di-saluzzo",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 180,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 1.8,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 2.7,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Italy",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "recovery efforts began 1999",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "white feathers, red comb and wattles, yellow beak and feet",
+          "prized for exceptional meat quality from specific feeding techniques"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Gallina di Saluzzo, meaning 'the white hen of Saluzzo', is a rustic dual-purpose breed from the Piedmont region of Italy, once common on small family farms and nearly lost to intensive agriculture before recovery efforts began in 1999.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

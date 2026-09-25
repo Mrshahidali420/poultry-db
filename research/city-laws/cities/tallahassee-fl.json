@@ -1,0 +1,23 @@
+{
+  "id": "tallahassee-fl", "city": "Tallahassee", "state": "FL", "population": 204902,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Hens may be kept for non-commercial purposes with no numeric cap in the code, as long as they stay in a securely enclosed yard or pen and at least 20 feet from neighboring dwellings.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "The hen exception in Sec. 4-5(d)(2) needs no permit. Special permits from the city commission apply only to livestock or fowl kept for exhibition and display.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Hens must be kept no closer than 20 feet to neighboring dwellings.",
+  "coop_rules": "Hens must be confined in a securely enclosed yard or pen at all times.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Only non-commercial keeping is allowed. One rooster may be kept alongside hens for flock sustainability. Fowl on tracts of 5 or more contiguous acres are exempt from the section, and animals lawfully kept when the 2010 ordinance passed are grandfathered.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 4-5",
+  "sources": [
+    { "name": "City of Tallahassee, Chapter 4 Animals (official PDF of the code)", "url": "https://www.talgov.com/uploads/public/documents/animals/ord.pdf", "type": "city-website" },
+    { "name": "Tallahassee Code of Ordinances, Chapter 4 Animals", "url": "https://library.municode.com/fl/tallahassee/codes/code_of_ordinances?nodeId=PTIICOGEOR_CH4AN", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read Sec. 4-5 in the city's own PDF of Chapter 4 (Ord. No. 10-O-15AA, 2010). No amendment since 2010 was found in searches, though the PDF date is not stated. Noise and sanitation nuisance rules still apply to roosters.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

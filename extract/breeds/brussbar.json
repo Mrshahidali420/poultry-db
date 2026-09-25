@@ -1,0 +1,60 @@
+{
+  "id": "brussbar",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United Kingdom",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "developed early-mid 20th century, standardized 1952",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "gold (only surviving variety)",
+          "silver (historic, no longer found)"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "developed at Cambridge by Professor Punnett and Mr. Pease to add autosexing to Light Sussex-type utility birds",
+          "distinctive crele plumage: copper and gold body color with barring",
+          "never became popular and barely survived the 1960s"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Brussbar was bred at Cambridge in the early-to-mid 20th century from Brown Sussex and Barred Rock stock crossed with utility Light Sussex, aiming for an autosexing dual-purpose bird. It was standardized in 1952 but never achieved popularity and remains very rare.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

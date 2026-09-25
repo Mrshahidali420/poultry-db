@@ -1,0 +1,69 @@
+{
+  "id": "red-sex-link",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 280,
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 300,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "temperament": [
+      {
+        "value": "calm, productive layer",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "also called Red Star",
+          "typically a cross of a Rhode Island Red or New Hampshire rooster onto a White Rock, Rhode Island White, Delaware or Silver Laced Wyandotte hen",
+          "the Golden Comet, Cinnamon Queen, ISA Brown and Red Shaver are commercial hatchery strains bred along the same red sex-link principle"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "Red sex-links are crossbred hybrids developed so that chick down color is linked to sex, making chick sexing easy. Different hatcheries sell their own strain of this cross under different trade names, all functioning as heavy brown-egg production layers.",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ]
+  }
+}

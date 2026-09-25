@@ -1,0 +1,23 @@
+{
+  "id": "chesapeake-va", "city": "Chesapeake", "state": "VA", "population": 255332,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 female chickens as an accessory use in single-family residential districts (RE-1 lots follow livestock animal-unit rules instead)",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "A permit is required for the accessory structure (coop). No separate animal license is mentioned.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop must be in the rear yard and meet accessory structure rules in CZO 14-102.B.1-6; exact distances not confirmed.",
+  "coop_rules": "Chickens must be housed in a fully enclosed accessory structure located in the rear yard.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Only female chickens are allowed on single-family residential lots, so roosters are effectively limited to RE-1 (animal units by acreage) and A-1 (no livestock limit) districts. Slaughter is not permitted on residentially zoned property.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "CZO Sec. 14-101.C.2.f",
+  "sources": [
+    { "name": "City of Chesapeake Zoning Administration: Chickens and Chicken Coops", "url": "https://www.cityofchesapeake.net/3097/Chickens-and-Chicken-Coops", "type": "city-website" },
+    { "name": "Chesapeake Zoning Ordinance Art. 14, Sec. 14-101 (Municode)", "url": "https://library.municode.com/va/chesapeake/codes/zoning?nodeId=ZO_ART14ACUSST_S14-101PEACUSST", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the official city zoning page directly, which quotes CZO 14-101.C.2.f. Coop setback distances in 14-102.B were not readable (Municode blocked), and rooster status is inferred from the female-only wording.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

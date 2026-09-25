@@ -1,0 +1,23 @@
+{
+  "id": "oxnard-ca", "city": "Oxnard", "state": "CA", "population": 199651,
+  "allowed": "yes",
+  "max_hens": 25,
+  "hens_rule_text": "Up to 25 rabbits and poultry combined on any premises in a residential or commercial zone.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit found for keeping up to 25 birds in a residential zone. A special use permit applies only above 200 birds in a manufacturing zone.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No poultry setback from dwellings was found in the animal chapter. Coops may need to meet accessory structure rules in the zoning code (Chapter 16).",
+  "coop_rules": "No specific coop standards found in the animal chapter; keep birds from creating a nuisance and confine them to the property.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The 25-bird cap covers rabbits and poultry together, so rabbits count against the chicken total.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 5-30; Sec. 5-2",
+  "sources": [
+    { "name": "Oxnard City Code Sec. 5-30 Rabbits or Poultry", "url": "https://codelibrary.amlegal.com/codes/oxnard/latest/oxnard_ca/0-0-0-67024", "type": "municipal-code" },
+    { "name": "Oxnard City Code Sec. 5-2 Declaration of Public Nuisance; Prohibited Acts", "url": "https://codelibrary.amlegal.com/codes/oxnard/latest/oxnard_ca/0-0-0-66916", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from search-result extracts of the American Legal code pages (Sec. 5-30 caps rabbits or poultry at 25 in residential zones; Sec. 5-2 makes a rooster over four months old in a residential zone a public nuisance). The full text could not be opened and no Wayback copy exists, so setbacks and coop rules are unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

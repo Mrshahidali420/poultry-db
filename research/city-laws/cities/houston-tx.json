@@ -1,0 +1,24 @@
+{
+  "id": "houston-tx", "city": "Houston", "state": "TX", "population": 2397315,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Chickens and their pens must be at least 100 ft from any other home, church, school or hospital, which rules out most ordinary city lots; where that distance is met, up to 30 chickens are allowed.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "The current Chapter 6 text (Ordinance 2022-44) has no hen permit. An older Sec. 6-38/6-39 permit allowed up to 7 hens within the 100 ft zone for people with a doctor's certification; some sites still cite it, but it does not appear in the 2022 text.",
+  "setback_ft_from_homes": 100,
+  "setback_notes": "Pens must be 100 ft, measured in a straight line, from any residence other than the owner's and from any church, school or hospital.",
+  "coop_rules": "Pens must be cleaned and disinfected daily and limed every two days; droppings collected daily in a flytight container and hauled away at least weekly. Birds may not run at large.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Sec. 6-35 caps the flock at 30 chickens, and at 40 of all fowl and rabbits combined on a lot of 65 by 125 ft or less. Roosters, male chickens and guinea fowl are banned citywide (Sec. 6-37, 6-38).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-31, 6-35, 6-36, 6-38",
+  "sources": [
+    { "name": "Houston Code of Ordinances Ch. 6 Art. II, Keeping of Fowl, Rabbits and Guinea Pigs", "url": "https://library.municode.com/tx/houston/codes/code_of_ordinances?nodeId=COOR_CH6ANFO_ARTIIKEFORAGUPI", "type": "municipal-code" },
+    { "name": "City of Houston Ordinance No. 2022-44 amending Chapter 6 (Exhibit A)", "url": "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/10123/1132046/pdf?forceDownload=true", "type": "municipal-code" },
+    { "name": "Houston Quality of Life Committee Chapter 6 redline draft (2014)", "url": "https://www.houstontx.gov/council/committees/qol/20140226/chapter6-redline.pdf", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the full Article II text in Ordinance 2022-44 Exhibit A and the 2014 city redline draft (via Internet Archive). The 2022 text drops the doctor-certified 7 hen permit that search extracts still quote, so whether that permit survives in the live Municode version could not be confirmed; no check for 2023 to 2026 amendments was possible.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

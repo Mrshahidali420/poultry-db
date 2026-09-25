@@ -1,0 +1,23 @@
+{
+  "id": "tacoma-wa", "city": "Tacoma", "state": "WA", "population": 229816,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 adult poultry per parcel; up to 10 with written consent of all owners within 50 ft filed with the City Clerk, plus 1 more per 5,000 sq ft of parcel above 10,000 sq ft",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No chicken permit is required. Coops under 200 sq ft do not need a building permit. Going above 6 birds needs written neighbor consent filed with the City Clerk.",
+  "setback_ft_from_homes": 12,
+  "setback_notes": "Coops must be at least 12 ft from the nearest part of any residence, dwelling, hotel, apartment house or rooming house, behind the front wall of the house, and outside the required side yard setback.",
+  "coop_rules": "Coops behind the front wall of the main building, outside side yard setbacks, and must meet detached accessory building standards; birds may not run loose in streets, alleys or public places.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Allowed in residential areas citywide per the city permits office.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "TMC 5.30",
+  "sources": [
+    { "name": "Tacoma Planning and Development Services tip sheet: Goats and Chickens", "url": "https://www.tacomapermits.org/tip-sheet-index/goats-and-chickens", "type": "city-website" },
+    { "name": "Tacoma Permits FAQ: Are chickens allowed in the city of Tacoma?", "url": "https://www.tacomapermits.org/faqs/are-chickens-allowed-in-the-city-of-tacoma", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the official City of Tacoma Planning and Development Services tip sheet and FAQ directly, which state the counts, rooster ban and 12 ft setback. The chapter number 5.30 comes from a search extract; the full Title 5 code text was not opened.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

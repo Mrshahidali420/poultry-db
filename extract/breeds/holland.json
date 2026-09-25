@@ -1,0 +1,78 @@
+{
+  "id": "holland",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "medium",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 2.9,
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 3.9,
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "yes",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "developed 1930s-40s, accepted by APA in 1949",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "White",
+          "Barred"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "developed at Rutgers Breeding Farms in New Jersey to give small farmers a dual-purpose bird that laid white eggs",
+          "White Hollands came from Dutch imports crossed with White Leghorn, Rhode Island Red, New Hampshire and Lamona stock",
+          "considered one of the rarest living American chicken breeds"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Holland was developed at Rutgers Breeding Farms in New Jersey by crossing chickens imported from Holland with White Leghorns, Rhode Island Reds, New Hampshires and Lamonas, producing White and Barred varieties accepted by the APA in 1949. It remains one of the rarest American breeds.",
+        "source_url": "https://en.wikipedia.org/wiki/Holland_chicken"
+      }
+    ]
+  }
+}

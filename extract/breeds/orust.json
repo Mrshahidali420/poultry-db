@@ -1,0 +1,45 @@
+{
+  "id": "orust",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_size": [
+      {
+        "value": "small to medium",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Sweden",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "landrace from the rocky west-coast island of Orust",
+          "historically free-ranged and ate whatever was available, including fish",
+          "black-and-white mottled feathers; roosters' wattles turn from red to violet when agitated"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Orust is a Swedish landrace breed from the rocky coastal island it is named for, historically left to forage and survive largely unmanaged, which produced a hardy, opportunistic bird now considered extremely rare.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1176 @@
+[
+  {
+    "conflict": true,
+    "conflict_notes": "Temperature: Penn State says 92 to 95 F (95 F in its brooding guide), UNH says 90 to 95 F, Merck gives 85 to 90 F at floor level. Protein: Penn State and Oregon State say 18 to 20%, Poultry Extension, Alabama Extension and My Pet Chicken say 20 to 22%. Space: 1/4 vs 1/2 sq ft.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-00-hatch-day",
+    "order": 0,
+    "age_label": "Day 0 to 1 (hatch or arrival day)",
+    "age_days_min": 0,
+    "age_days_max": 1,
+    "brooder_temp_f": {
+      "min": 90,
+      "max": 95
+    },
+    "brooder_temp_c": {
+      "min": 32,
+      "max": 35
+    },
+    "brooder_temp_notes": "Measured at chick height under the heat. Warm the brooder at least 24 hours before chicks arrive. Leave a cooler area so chicks can move away from the heat.",
+    "space_per_bird_sqft": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "space_notes": "Penn State lists 1/4 sq ft per chick for week 1. Minnesota lists 1/2 sq ft per chick from day 1 to 6 weeks.",
+    "feed_type": "Chick starter (crumble or finely milled mash). Medicated or non-medicated.",
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "water_notes": "Have water ready before chicks arrive. Dip each chick's beak in the water as you place it in the brooder so it finds the drinker. Use a chick waterer that chicks cannot drown in. For bantams, marbles or pebbles in the tray stop drowning.",
+    "grit": {
+      "needed": "no",
+      "type": "None while chicks eat only chick starter. Offer chick grit as soon as they get anything else."
+    },
+    "heat_lamp_or_plate": "Heat lamp: hang by a chain, not the cord, and keep it at least 20 inches from anything flammable. Use a porcelain socket and a guard. Heat plate: chicks warm up by touching it, the surface stays around 125 F or less, and fire risk is much lower. Follow the maker's height settings.",
+    "can_go_outside": {
+      "answer": "no",
+      "notes": "Chicks cannot control their body temperature yet."
+    },
+    "milestones": [
+      "Chicks absorb the yolk just before hatching. It can carry them for about 48 to 72 hours, which is why day-old chicks can be shipped.",
+      "Sex-link chicks can be sexed by down colour at hatch. A few strains can be feather sexed. Most breeds cannot be sexed by eye yet."
+    ],
+    "common_problems": [
+      {
+        "name": "Chilling or overheating",
+        "what_to_do": "Watch the chicks, not just the thermometer. Huddled under the heat and loud peeping means too cold. Spread far from the heat, in the corners, means too hot. Evenly spread and quietly busy means right."
+      },
+      {
+        "name": "Pasty butt (pasted vent)",
+        "what_to_do": "Check vents daily. Soften the dried droppings with warm water and clean them off gently. A dab of petroleum jelly helps stop it sticking again. Fix the cause: a brooder that is too cold or too hot, crowding, or shipping stress."
+      },
+      {
+        "name": "Splay leg (spraddle leg)",
+        "what_to_do": "Use a grippy floor such as paper towel or pine shavings, never newspaper. Caught early, a soft hobble that holds the legs under the body for a day or two often corrects it."
+      },
+      {
+        "name": "Piling and smothering",
+        "what_to_do": "Chicks pile up when cold or frightened. Check the heat, round off corners with a chick guard, and keep drafts out."
+      }
+    ],
+    "tasks": [
+      "Set up and test the brooder a day ahead.",
+      "Dip each beak in water, then show them the feed.",
+      "Check every vent for pasting.",
+      "Use paper towel or a grippy liner over shavings for the first days, not newspaper.",
+      "Put a chick guard around the heat to stop drafts and piling in corners."
+    ],
+    "sources": [
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Valley Hatchery Ships Live Chicks: What To Expect",
+        "url": "https://valleyhatchery.com/how-valley-hatchery-ships-live-chicks/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How To Treat Pasty Bottom For New Chicks",
+        "url": "https://blog.meyerhatchery.com/2018/02/how-to-treat-pasty-bottom-in-newly-hatched-chicks/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Spraddle Leg: Causes and Treatment",
+        "url": "https://blog.meyerhatchery.com/2019/09/spraddle-leg-causes-and-treatment/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding Chicks in the Classroom",
+        "url": "https://haywood.ces.ncsu.edu/brooding-chicks-in-the-classroom",
+        "publisher": "NC State Extension (Haywood County)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Temperature and protein ranges differ between sources as noted for hatch day.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-01-week-1",
+    "order": 1,
+    "age_label": "Week 1",
+    "age_days_min": 2,
+    "age_days_max": 7,
+    "brooder_temp_f": {
+      "min": 90,
+      "max": 95
+    },
+    "brooder_temp_c": {
+      "min": 32,
+      "max": 35
+    },
+    "brooder_temp_notes": "Hold week 1 heat. Raise the lamp or plate a little if chicks spread away from it.",
+    "space_per_bird_sqft": {
+      "min": 0.25,
+      "max": 0.5
+    },
+    "space_notes": "Feeder space about 1 inch per chick, water space about 1/2 inch per chick (Penn State).",
+    "feed_type": "Chick starter, free choice.",
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "water_notes": "Clean water at all times. Clean out litter and droppings from drinkers every day.",
+    "grit": {
+      "needed": "no",
+      "type": "Not needed on starter alone. Chick grit if any treats are given."
+    },
+    "heat_lamp_or_plate": "Same as hatch day. Chicks should be evenly spread and quiet.",
+    "can_go_outside": {
+      "answer": "no",
+      "notes": "Too young to hold body heat."
+    },
+    "milestones": [
+      "Wing feathers start to show.",
+      "The chick guard can come out at the end of week 1 (UNH)."
+    ],
+    "common_problems": [
+      {
+        "name": "Pasty butt (pasted vent)",
+        "what_to_do": "Check vents daily. Soften the dried droppings with warm water and clean them off gently. A dab of petroleum jelly helps stop it sticking again. Fix the cause: a brooder that is too cold or too hot, crowding, or shipping stress."
+      },
+      {
+        "name": "Splay leg (spraddle leg)",
+        "what_to_do": "Use a grippy floor such as paper towel or pine shavings, never newspaper. Caught early, a soft hobble that holds the legs under the body for a day or two often corrects it."
+      },
+      {
+        "name": "Chilling or overheating",
+        "what_to_do": "Watch the chicks, not just the thermometer. Huddled under the heat and loud peeping means too cold. Spread far from the heat, in the corners, means too hot. Evenly spread and quietly busy means right."
+      },
+      {
+        "name": "Piling and smothering",
+        "what_to_do": "Chicks pile up when cold or frightened. Check the heat, round off corners with a chick guard, and keep drafts out."
+      }
+    ],
+    "tasks": [
+      "Check vents daily.",
+      "Refill feed and water at least twice a day.",
+      "Swap paper towel for shavings once chicks eat from the feeder well."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How To Treat Pasty Bottom For New Chicks",
+        "url": "https://blog.meyerhatchery.com/2018/02/how-to-treat-pasty-bottom-in-newly-hatched-chicks/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Spraddle Leg: Causes and Treatment",
+        "url": "https://blog.meyerhatchery.com/2019/09/spraddle-leg-causes-and-treatment/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-02-week-2",
+    "order": 2,
+    "age_label": "Week 2",
+    "age_days_min": 8,
+    "age_days_max": 14,
+    "brooder_temp_f": {
+      "min": 85,
+      "max": 90
+    },
+    "brooder_temp_c": {
+      "min": 29.5,
+      "max": 32
+    },
+    "brooder_temp_notes": "Drop about 5 F from week 1, by raising the lamp or plate.",
+    "space_per_bird_sqft": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "space_notes": "Penn State: 1/2 sq ft per bird from weeks 2 to 3. Feeder space 1 1/2 inches per bird. Feeder space can go up to 2 inches per chick from 2 weeks (Minnesota).",
+    "feed_type": "Chick starter.",
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "water_notes": "Raise drinkers to about back height so chicks do not fill them with litter.",
+    "grit": {
+      "needed": "optional",
+      "type": "Chick grit, only if treats or greens are given."
+    },
+    "heat_lamp_or_plate": "Raise the lamp or plate a notch. Many keepers forget this step and chicks get too hot.",
+    "can_go_outside": {
+      "answer": "no",
+      "notes": "Penn State warns against chilling or big temperature swings in the first 6 weeks."
+    },
+    "milestones": [
+      "Wing and tail feathers growing fast."
+    ],
+    "common_problems": [
+      {
+        "name": "Pasty butt (pasted vent)",
+        "what_to_do": "Check vents daily. Soften the dried droppings with warm water and clean them off gently. A dab of petroleum jelly helps stop it sticking again. Fix the cause: a brooder that is too cold or too hot, crowding, or shipping stress."
+      },
+      {
+        "name": "Chilling or overheating",
+        "what_to_do": "Watch the chicks, not just the thermometer. Huddled under the heat and loud peeping means too cold. Spread far from the heat, in the corners, means too hot. Evenly spread and quietly busy means right."
+      }
+    ],
+    "tasks": [
+      "Lower the heat about 5 F.",
+      "Give more floor space as they grow.",
+      "Keep litter dry."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-03-week-3",
+    "order": 3,
+    "age_label": "Week 3",
+    "age_days_min": 15,
+    "age_days_max": 21,
+    "brooder_temp_f": {
+      "min": 80,
+      "max": 85
+    },
+    "brooder_temp_c": {
+      "min": 26.5,
+      "max": 29.5
+    },
+    "brooder_temp_notes": "Keep lowering about 5 F a week.",
+    "space_per_bird_sqft": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "space_notes": "Penn State: 3/4 sq ft per bird from weeks 3 to 5.",
+    "feed_type": "Chick starter. Meat birds (Cornish Cross) move to a broiler ration around now and are often fed 12 hours on, 12 hours off after the first week.",
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "water_notes": "Chicks drink more each week. Add a second drinker before the first runs dry.",
+    "grit": {
+      "needed": "optional",
+      "type": "Chick grit if they get treats, greens or bugs."
+    },
+    "heat_lamp_or_plate": "Raise another notch.",
+    "can_go_outside": {
+      "answer": "no",
+      "notes": "Layer chicks stay in. Fast-growing Cornish Cross broilers are often mostly feathered and ready for outdoor space around 3 weeks, weather allowing (Meyer)."
+    },
+    "milestones": [
+      "Coccidiosis signs can start to show from about 2 to 3 weeks, since chicks must eat oocysts first."
+    ],
+    "common_problems": [
+      {
+        "name": "Coccidiosis",
+        "what_to_do": "Signs are a hunched, fluffed-up chick, low energy, and loose or watery droppings, sometimes with blood. Keep litter dry and waterers clean. Amprolium in medicated starter helps prevent it, and amprolium in the water is the usual treatment. Call a vet or extension office if chicks are sick."
+      },
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      }
+    ],
+    "tasks": [
+      "Check droppings daily for loose, watery or bloody stools.",
+      "Keep the litter dry, especially around drinkers."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding Cornish Cross Broilers 101: How to raise from hatch to processing",
+        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360055407371-Brooding-Cornish-Cross-Broilers-101-How-to-raise-from-hatch-to-processing",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Coccidiosis in Chickens: Symptoms, Prevention and Treatment",
+        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Coccidiosis in Poultry",
+        "url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "UNH and Merck lower 5 F each week (75 to 80 F in week 4). Penn State's space table gives 80 to 85 F for weeks 3 to 5.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-04-week-4",
+    "order": 4,
+    "age_label": "Week 4",
+    "age_days_min": 22,
+    "age_days_max": 28,
+    "brooder_temp_f": {
+      "min": 75,
+      "max": 85
+    },
+    "brooder_temp_c": {
+      "min": 24,
+      "max": 29.5
+    },
+    "brooder_temp_notes": "The 5 F a week rule gives 75 to 80 F. Penn State's table keeps 80 to 85 F through week 5.",
+    "space_per_bird_sqft": {
+      "min": 0.5,
+      "max": 0.75
+    },
+    "space_notes": "Penn State: 3/4 sq ft per bird for weeks 3 to 5. Minnesota: 1/2 sq ft to 6 weeks.",
+    "feed_type": "Chick starter.",
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "water_notes": "If you vaccinate by water (for example Newcastle and bronchitis at 4 weeks, as Penn State describes), follow the vaccine label and do not add other products that day.",
+    "grit": {
+      "needed": "optional",
+      "type": "Chick grit if they eat anything besides starter."
+    },
+    "heat_lamp_or_plate": "Keep raising the heat. Many chicks now sit away from it during the day.",
+    "can_go_outside": {
+      "answer": "no",
+      "notes": "Not full time yet."
+    },
+    "milestones": [
+      "Penn State lists water vaccination for Newcastle and bronchitis at 4 and 8 weeks for flocks that vaccinate.",
+      "Penn State advises a coccidiostat in the diet of land fowl for the first 4 weeks."
+    ],
+    "common_problems": [
+      {
+        "name": "Coccidiosis",
+        "what_to_do": "Signs are a hunched, fluffed-up chick, low energy, and loose or watery droppings, sometimes with blood. Keep litter dry and waterers clean. Amprolium in medicated starter helps prevent it, and amprolium in the water is the usual treatment. Call a vet or extension office if chicks are sick."
+      },
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      }
+    ],
+    "tasks": [
+      "Lower heat about 5 F.",
+      "Give more space and something to scratch at."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Temperature schedule differs between the 5 F a week rule (UNH, Merck) and Penn State's table.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-05-week-5",
+    "order": 5,
+    "age_label": "Week 5",
+    "age_days_min": 29,
+    "age_days_max": 35,
+    "brooder_temp_f": {
+      "min": 70,
+      "max": 85
+    },
+    "brooder_temp_c": {
+      "min": 21,
+      "max": 29.5
+    },
+    "brooder_temp_notes": "The 5 F a week rule gives 70 to 75 F. Penn State's table gives 80 to 85 F for weeks 3 to 5 and 70 to 80 F for weeks 5 to 8.",
+    "space_per_bird_sqft": {
+      "min": 0.75,
+      "max": 1
+    },
+    "space_notes": "Penn State: 1 sq ft per bird from weeks 5 to 8. Feeder space 2 inches, water space 3/4 inch per bird.",
+    "feed_type": "Chick starter.",
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "water_notes": "Bigger drinkers now. Keep them off the litter.",
+    "grit": {
+      "needed": "optional",
+      "type": "Chick grit if they eat anything besides starter."
+    },
+    "heat_lamp_or_plate": "Heat mainly needed at night or in a cold room.",
+    "can_go_outside": {
+      "answer": "no",
+      "notes": "Keep in until fully feathered and the brooder temperature matches outside."
+    },
+    "milestones": [
+      "Secondary sex traits start to show in some breeds: cockerels grow bigger, redder combs and wattles earlier than pullets."
+    ],
+    "common_problems": [
+      {
+        "name": "Coccidiosis",
+        "what_to_do": "Signs are a hunched, fluffed-up chick, low energy, and loose or watery droppings, sometimes with blood. Keep litter dry and waterers clean. Amprolium in medicated starter helps prevent it, and amprolium in the water is the usual treatment. Call a vet or extension office if chicks are sick."
+      },
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      }
+    ],
+    "tasks": [
+      "Keep lowering heat.",
+      "Watch for cockerels if you did not buy sexed chicks."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Sexing of day-old chicks",
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Sexing Day-Old Chicks",
+        "url": "https://poultry.extension.org/articles/poultry-management/sexing-day-old-chicks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Brooder end temperature: UNH 65 to 70 F, Penn State 62 to 65 F room temperature, Merck lowers to 70 F. Feed switch: 6 weeks (Oregon State) vs 6 to 8 weeks (Minnesota).",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-06-week-6",
+    "order": 6,
+    "age_label": "Week 6",
+    "age_days_min": 36,
+    "age_days_max": 42,
+    "brooder_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "brooder_temp_c": {
+      "min": 18.5,
+      "max": 26.5
+    },
+    "brooder_temp_notes": "UNH removes the brooder once the heat is down to 65 to 70 F or matches the outside temperature. Penn State's table gives 70 to 80 F for weeks 5 to 8.",
+    "space_per_bird_sqft": {
+      "min": 0.5,
+      "max": 1
+    },
+    "space_notes": "Penn State: 1 sq ft per bird for weeks 5 to 8. Minnesota: Leghorn pullets need 1 1/2 to 2 sq ft from 6 to 15 weeks when confined.",
+    "feed_type": "Switch from starter to grower around now (Oregon State, Poultry Extension, Alabama Extension). Minnesota feeds starter for 6 to 8 weeks.",
+    "protein_percent": {
+      "min": 14,
+      "max": 22
+    },
+    "water_notes": "Move to a full-size waterer. Check it twice a day in hot weather.",
+    "grit": {
+      "needed": "yes",
+      "type": "Pullet-size insoluble (granite) grit, free choice from about 6 weeks (Alabama Extension)."
+    },
+    "heat_lamp_or_plate": "Most chicks are ready to lose the heat this week in a warm room or warm weather.",
+    "can_go_outside": {
+      "answer": "yes-when-feathered",
+      "notes": "Move out when fully feathered and night temperatures are close to what they had in the brooder. Avoid a sudden drop into cold nights."
+    },
+    "milestones": [
+      "Mostly feathered.",
+      "Pullets over 6 weeks can start using roosts (Minnesota).",
+      "Backyard keepers can usually sex most breeds by comb, wattles and body shape between 4 and 6 weeks (Mississippi State)."
+    ],
+    "common_problems": [
+      {
+        "name": "Coccidiosis",
+        "what_to_do": "Signs are a hunched, fluffed-up chick, low energy, and loose or watery droppings, sometimes with blood. Keep litter dry and waterers clean. Amprolium in medicated starter helps prevent it, and amprolium in the water is the usual treatment. Call a vet or extension office if chicks are sick."
+      },
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      }
+    ],
+    "tasks": [
+      "Start the switch to grower.",
+      "Add a low roost.",
+      "Offer grit.",
+      "Plan the move to the coop."
+    ],
+    "sources": [
+      {
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Sexing of day-old chicks",
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Grower protein: Oregon State 15 to 16%, Poultry Extension 14 to 16%, Alabama Extension 16 to 18%.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-07-week-7",
+    "order": 7,
+    "age_label": "Week 7",
+    "age_days_min": 43,
+    "age_days_max": 49,
+    "brooder_temp_f": {
+      "min": 65,
+      "max": 80
+    },
+    "brooder_temp_c": {
+      "min": 18.5,
+      "max": 26.5
+    },
+    "brooder_temp_notes": "Most feathered chicks need no added heat now. Penn State's table still lists 70 to 80 F for weeks 5 to 8, so give heat on cold nights.",
+    "space_per_bird_sqft": {
+      "min": 1,
+      "max": 2
+    },
+    "space_notes": "Penn State: add about 1/2 sq ft per bird every two weeks until adult space is reached. Count only indoor space.",
+    "feed_type": "Grower (or starter/grower).",
+    "protein_percent": {
+      "min": 14,
+      "max": 18
+    },
+    "water_notes": "Full-size waterer. Keep it shaded in summer.",
+    "grit": {
+      "needed": "yes",
+      "type": "Pullet-size insoluble grit, free choice."
+    },
+    "heat_lamp_or_plate": "Off in most cases. Keep a heat plate available for cold snaps.",
+    "can_go_outside": {
+      "answer": "yes",
+      "notes": "Fully feathered birds can live outside in a secure coop. Lock them in at night."
+    },
+    "milestones": [
+      "Growing fast. Pecking order forming."
+    ],
+    "common_problems": [
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      },
+      {
+        "name": "Coccidiosis",
+        "what_to_do": "Signs are a hunched, fluffed-up chick, low energy, and loose or watery droppings, sometimes with blood. Keep litter dry and waterers clean. Amprolium in medicated starter helps prevent it, and amprolium in the water is the usual treatment. Call a vet or extension office if chicks are sick."
+      }
+    ],
+    "tasks": [
+      "Finish the switch to grower.",
+      "Check the coop for predator gaps."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-08-week-8",
+    "order": 8,
+    "age_label": "Week 8",
+    "age_days_min": 50,
+    "age_days_max": 56,
+    "brooder_temp_f": null,
+    "brooder_temp_c": null,
+    "brooder_temp_notes": "No brooder heat for feathered birds. Penn State's table lists room temperature from 8 weeks.",
+    "space_per_bird_sqft": {
+      "min": 1.5,
+      "max": 3
+    },
+    "space_notes": "Penn State: 1 1/2 to 3 sq ft per bird from 8 weeks, more for large breeds.",
+    "feed_type": "Grower. Minnesota switches pullets from starter to grower or developer after 8 weeks.",
+    "protein_percent": {
+      "min": 14,
+      "max": 18
+    },
+    "water_notes": "Water space 1 to 2 inches per bird (Penn State).",
+    "grit": {
+      "needed": "yes",
+      "type": "Pullet-size insoluble grit."
+    },
+    "heat_lamp_or_plate": "Not needed.",
+    "can_go_outside": {
+      "answer": "yes",
+      "notes": "Outside full time with a secure coop at night."
+    },
+    "milestones": [
+      "Penn State lists a second Newcastle and bronchitis dose at 8 weeks, and fowl pox vaccination at 8 weeks where pox has been a problem.",
+      "Cornish Cross broilers reach processing weight around 6 to 8 weeks."
+    ],
+    "common_problems": [
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      },
+      {
+        "name": "Coccidiosis",
+        "what_to_do": "Signs are a hunched, fluffed-up chick, low energy, and loose or watery droppings, sometimes with blood. Keep litter dry and waterers clean. Amprolium in medicated starter helps prevent it, and amprolium in the water is the usual treatment. Call a vet or extension office if chicks are sick."
+      }
+    ],
+    "tasks": [
+      "Take heat out.",
+      "Check space per bird against adult needs."
+    ],
+    "sources": [
+      {
+        "name": "Space Should Increase as Birds Grow",
+        "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising chickens for meat",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Grower protein 14 to 16% (Poultry Extension), 15 to 16% (Oregon State), 16 to 18% (Alabama Extension).",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-09-weeks-8-to-16",
+    "order": 9,
+    "age_label": "8 to 16 weeks (growing pullets and cockerels)",
+    "age_days_min": 57,
+    "age_days_max": 112,
+    "brooder_temp_f": null,
+    "brooder_temp_c": null,
+    "brooder_temp_notes": "No added heat. Adult birds are comfortable around 55 to 75 F and start to feel heat stress above about 75 F (Merck).",
+    "space_per_bird_sqft": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "space_notes": "Minnesota: Leghorn pullets 1 1/2 to 2 sq ft from 6 to 15 weeks, heavier pullets 2 to 2 1/2 sq ft.",
+    "feed_type": "Grower, or developer from about 14 weeks. Do not start layer feed yet.",
+    "protein_percent": {
+      "min": 14,
+      "max": 18
+    },
+    "water_notes": "Plenty of clean water. Birds drink much more in heat.",
+    "grit": {
+      "needed": "yes",
+      "type": "Insoluble grit, free choice."
+    },
+    "heat_lamp_or_plate": "Not needed.",
+    "can_go_outside": {
+      "answer": "yes",
+      "notes": "Free range with predator protection. Lock in at night."
+    },
+    "milestones": [
+      "Cockerels show bigger, redder combs and wattles and pointed saddle and hackle feathers.",
+      "Most roosters start crowing around 4 to 5 months, some as early as 2 months."
+    ],
+    "common_problems": [
+      {
+        "name": "Layer feed fed too early",
+        "what_to_do": "Keep growing birds on starter or grower. The high calcium in layer feed can cause lasting kidney damage in birds that are not laying yet."
+      },
+      {
+        "name": "Feather pecking and cannibalism",
+        "what_to_do": "Give more space as birds grow, keep lights dim rather than bright white, give them things to scratch at, and remove any bird with an open wound until it heals."
+      },
+      {
+        "name": "Predators",
+        "what_to_do": "Bury fencing at least 12 inches, cover the run, and shut birds in a secure coop every night."
+      }
+    ],
+    "tasks": [
+      "Decide what to do with extra cockerels.",
+      "Treat for external and internal parasites if found (Merck).",
+      "Add nest boxes before 16 weeks."
+    ],
+    "sources": [
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "At what age does a rooster begin crowing?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/at-what-age-does-a-rooster-begin-crowing",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Sexing of day-old chicks",
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Switch to layer: Oregon State says 18 to 20 weeks or the first egg, Poultry Extension and Minnesota say about 20 weeks.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-10-weeks-16-to-20",
+    "order": 10,
+    "age_label": "16 to 20 weeks (point of lay approaching)",
+    "age_days_min": 113,
+    "age_days_max": 140,
+    "brooder_temp_f": null,
+    "brooder_temp_c": null,
+    "brooder_temp_notes": "No added heat.",
+    "space_per_bird_sqft": {
+      "min": 2,
+      "max": 3
+    },
+    "space_notes": "Minnesota: mature pullets 2 to 2 1/2 sq ft each when confined. Merck: 1.5 to 2 sq ft in the coop plus 8 to 10 sq ft in the run for laying hens.",
+    "feed_type": "Grower or developer until the first egg or about 18 to 20 weeks, then layer.",
+    "protein_percent": {
+      "min": 14,
+      "max": 18
+    },
+    "water_notes": "Clean water at all times. Laying hens drink more than growers.",
+    "grit": {
+      "needed": "yes",
+      "type": "Insoluble grit. Hold off on oyster shell until they lay."
+    },
+    "heat_lamp_or_plate": "Not needed.",
+    "can_go_outside": {
+      "answer": "yes",
+      "notes": "Full time."
+    },
+    "milestones": [
+      "Comb and wattles swell and turn bright red a couple of weeks before the first egg.",
+      "Pullets squat when you reach toward them.",
+      "They start checking out the nest boxes.",
+      "Production hybrids and Leghorns can start laying from about 16 to 18 weeks."
+    ],
+    "common_problems": [
+      {
+        "name": "Layer feed fed too early",
+        "what_to_do": "Keep growing birds on starter or grower. The high calcium in layer feed can cause lasting kidney damage in birds that are not laying yet."
+      },
+      {
+        "name": "Eggs laid in hidden spots",
+        "what_to_do": "Put golf balls or wooden eggs in the nest boxes and give about 1 box per 4 hens."
+      }
+    ],
+    "tasks": [
+      "Put fake eggs in nest boxes.",
+      "Plan the switch to layer feed.",
+      "Get oyster shell ready for when laying starts."
+    ],
+    "sources": [
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Signs That a Pullet Will Begin Laying Soon",
+        "url": "https://blog.meyerhatchery.com/2020/06/signs-that-a-pullet-will-begin-laying-soon/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "conflict": true,
+    "conflict_notes": "Layer protein: Oregon State about 16%, Poultry Extension 15 to 18%, Virginia Tech 16 to 18%, Alabama Extension about 18%.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "age-11-weeks-20-plus",
+    "order": 11,
+    "age_label": "20 weeks and older (point of lay)",
+    "age_days_min": 141,
+    "age_days_max": null,
+    "brooder_temp_f": null,
+    "brooder_temp_c": null,
+    "brooder_temp_notes": "No added heat.",
+    "space_per_bird_sqft": {
+      "min": 1.5,
+      "max": 3
+    },
+    "space_notes": "Merck: 1.5 to 2 sq ft inside plus 8 to 10 sq ft of run per hen. Minnesota: up to 2 1/2 sq ft for mature birds.",
+    "feed_type": "Layer feed, free choice, with oyster shell in a separate dish.",
+    "protein_percent": {
+      "min": 15,
+      "max": 18
+    },
+    "water_notes": "Hens need constant water to keep laying. Stop it freezing in winter.",
+    "grit": {
+      "needed": "yes",
+      "type": "Hen-size insoluble grit, plus free-choice oyster shell for calcium. Oyster shell is not grit."
+    },
+    "heat_lamp_or_plate": "Not needed.",
+    "can_go_outside": {
+      "answer": "yes",
+      "notes": "Full time."
+    },
+    "milestones": [
+      "Most hens start laying between 18 and 24 weeks. Heavy breeds and bantams can take 6 months or more.",
+      "Peak lay is around 35 weeks, at more than 9 eggs per 10 hens a day (Oregon State).",
+      "Early eggs may be small or odd-shaped. This usually settles in the first month."
+    ],
+    "common_problems": [
+      {
+        "name": "Thin or soft shells",
+        "what_to_do": "Check the hens are on layer feed and offer oyster shell free choice."
+      },
+      {
+        "name": "Vent prolapse or egg binding",
+        "what_to_do": "Isolate the hen and call a vet. Balanced layer feed with enough calcium lowers the risk."
+      },
+      {
+        "name": "Winter laying stops",
+        "what_to_do": "Hens need about 14 hours of light to keep laying. Add light in the morning on a timer if you want winter eggs."
+      }
+    ],
+    "tasks": [
+      "Switch to layer feed at the first egg.",
+      "Offer oyster shell in its own dish.",
+      "Collect eggs at least twice a day."
+    ],
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Common Management-Related Problems in Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/common-management-related-problems-in-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      }
+    ]
+  }
+]

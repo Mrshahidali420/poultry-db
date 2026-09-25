@@ -1,0 +1,23 @@
+{
+  "id": "riverside-ca", "city": "Riverside", "state": "CA", "population": 323057,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 poultry on RE and R-1 single-family lots, with no minimum lot size since the 2024 amendment. RR and rural zones allow 5, or up to 50 if kept 100 feet from neighboring homes.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "The zoning text sets no permit for up to 5 poultry in RE and R-1. More birds need a Minor Conditional Use Permit in the RR zone.",
+  "setback_ft_from_homes": 10,
+  "setback_notes": "In RE and R-1 zones the coop or shelter must be at least 10 feet from any neighboring residence and also meet accessory structure rules (Chapter 19.440). In RR and rural zones: 50 feet from neighboring homes for up to 5 birds, 100 feet for up to 50.",
+  "coop_rules": "Poultry must have a coop, shelter or other permanent structure meeting accessory building standards. Premises must be kept clean and sanitary.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Crowing fowl (roosters) are not permitted in RE and R-1 zones. In the RR zone up to 7 roosters are allowed on lots over 20,000 sq ft if housed overnight in a sound-reducing structure 100 feet from neighboring homes. Before March 2024, R-1 lots needed 20,000 sq ft of net area to keep any poultry.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Riverside Municipal Code Sec. 19.455.030",
+  "sources": [
+    { "name": "Riverside Municipal Code Chapter 19.455 Animal Keeping (city Legistar copy, Supp. 24)", "url": "https://riversideca.legistar.com/View.ashx?GUID=8F9CCB97-A66B-4D04-8206-DC5DCC63D6E4&ID=13572830&M=F", "type": "municipal-code" },
+    { "name": "Ordinance amending Title 19, Case PR-2023-001625 (adopted March 2024)", "url": "https://riversideca.legistar1.com/riversideca/attachments/251c8270-7aac-4c35-a0f9-ac2106689bda.docx", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the 2024 ordinance text (case PR-2023-001625, adoption item March 2024) and the codified Chapter 19.455 from the city's Legistar. The ordinance also cites Sec. 19.445.030 in its heading, which appears to be a typo for 19.455.030. Slaughter is not addressed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fort-wayne-in", "city": "Fort Wayne", "state": "IN", "population": 275203,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "chickens are not permitted within city limits; poultry counts as a domestic farm animal, which may not be kept unless approved by the Department of Planning Services",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "Code 91.019 bars domestic farm animals unless approved by the Department of Planning Services; the city FAQ simply says chickens are not permitted in city limits. No residential hen permit exists.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable, chickens are not allowed on ordinary residential lots.",
+  "coop_rules": "Not applicable.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "City Council rejected an urban chicken ordinance (up to 5 hens, no roosters) in a 2 to 7 vote in December 2023, the third failed attempt. No later change found as of September 2026.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 91.019",
+  "sources": [
+    { "name": "City of Fort Wayne City Council FAQ: Can you have chickens within the Fort Wayne city limits", "url": "https://www.cityoffortwayne.in.gov/1488/FAQ", "type": "city-website" },
+    { "name": "Fort Wayne Code of Ordinances 91.019 Domestic Farm Animal", "url": "https://codelibrary.amlegal.com/codes/ftwayne/latest/ftwayne_in/0-0-0-48320", "type": "municipal-code" },
+    { "name": "21Alive: City chickens ordinance fails for third time (Dec 2023)", "url": "https://www.21alivenews.com/2023/12/06/city-chickens-ordinance-fails-third-time/", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the official City Council FAQ directly, which states chickens are not permitted in city limits. Code 91.019 wording (poultry is a domestic farm animal, not allowed unless approved by Planning Services) came from search extracts; the Planning approval path is unclear and likely limited to agricultural zoning.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

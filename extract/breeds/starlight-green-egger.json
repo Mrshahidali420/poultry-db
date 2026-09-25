@@ -1,0 +1,44 @@
+{
+  "id": "starlight-green-egger",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "green",
+        "source_url": "https://www.cacklehatchery.com/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://www.cacklehatchery.com/"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://www.cacklehatchery.com/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://www.cacklehatchery.com/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "a hatchery hybrid bred from blue-egg and brown-egg laying stock to produce a reliable green egg, in the same tradition as other Easter Egger/Olive Egger crosses",
+          "not a breed recognized by the American Poultry Association"
+        ],
+        "source_url": "https://www.cacklehatchery.com/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Starlight Green Egger is a modern hatchery hybrid marketed as a dependable green-egg layer, produced the same way other 'egger' hybrids are: crossing blue-egg and brown-egg laying lines rather than breeding to a fixed standard.",
+        "source_url": "https://www.cacklehatchery.com/"
+      }
+    ]
+  }
+}

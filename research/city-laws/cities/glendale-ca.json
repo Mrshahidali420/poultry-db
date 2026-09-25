@@ -1,0 +1,27 @@
+{
+  "id": "glendale-ca",
+  "city": "Glendale",
+  "state": "CA",
+  "population": 187160,
+  "allowed": "yes",
+  "max_hens": 2,
+  "hens_rule_text": "Up to 2 hens (combined with any rabbits, ducks or pigeons) may be kept near homes. More than 2 must be kept at least 50 ft from any dwelling, and more than 12 at least 300 ft from neighbors' dwellings.",
+  "roosters_allowed": "conditional",
+  "permit_required": "unknown",
+  "permit_notes": "No permit requirement for a few hens was found in the search extracts of the code.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No distance rule for the first 2 birds. Beyond 2, animals must be at least 50 ft from any residence and 150 ft from schools and hospitals. More than 12 fowl or rabbits need 300 ft from any dwelling other than the owner's.",
+  "coop_rules": "Coops, pens and enclosures must be kept sanitary.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules found are in the animal chapter (Title 6). Zoning code limits were not checked.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6.04.050",
+  "sources": [
+    { "name": "Glendale Municipal Code Chapter 6.04, Animal Control Regulations Generally (eCode360)", "url": "https://ecode360.com/43344702", "type": "municipal-code" },
+    { "name": "Glendale Municipal Code 6.04.050, Number of fowl or rabbits permitted (qcode)", "url": "http://www.qcode.us/codes/glendale/?view=desktop&topic=6-6_04-6_04_050", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Rules come from search-result extracts of Glendale Code Chapter 6.04; eCode360, qcode and the Internet Archive were all unreachable, so the full text and exact section split were not read. Roosters are left out of the 2-bird exception, so they seem allowed only 50 ft or more from dwellings; no separate rooster ban was confirmed (search hits about a rooster ban concerned Glendale, AZ).",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

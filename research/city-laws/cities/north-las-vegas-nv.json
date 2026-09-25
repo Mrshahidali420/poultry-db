@@ -1,0 +1,23 @@
+{
+  "id": "north-las-vegas-nv", "city": "North Las Vegas", "state": "NV", "population": 296653,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Hens allowed with no stated numeric cap, as long as birds and coops are at least 60 feet from any dwelling owned by someone else, or that owner files written consent with the city",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No hen permit found in Title 6; written, unrevoked consent from the owner of any dwelling within 60 feet must be filed with the city if you keep birds closer than that.",
+  "setback_ft_from_homes": 60,
+  "setback_notes": "No fowl or bird within 60 feet of any dwelling owned by another person unless that person has filed written consent with the city.",
+  "coop_rules": "Fowl and bird enclosures or coops must be kept clean and free of offensive odors.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Zoning code (Title 17) was not checked for separate animal limits by district.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "NLVMC 6.10.030",
+  "sources": [
+    { "name": "North Las Vegas Code of Ordinances, Title 6 Animals (Municode)", "url": "https://library.municode.com/nv/north_las_vegas/codes/code_of_ordinances?nodeId=TIT6AN", "type": "municipal-code" },
+    { "name": "North Las Vegas Code 6.10.030, Restrictions on the Keeping of Birds and Fowl (eLaws copy)", "url": "http://nlasvegas-nv.elaws.us/code/coor_title6_ch6.10_sec6.10.030", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from search-result extracts of NLVMC 6.10.030 (rooster ban on males over 3 months, 60 ft rule with neighbor consent); the full code page could not be opened from here. No 2024 to 2026 amendment found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

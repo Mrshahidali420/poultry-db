@@ -1,0 +1,94 @@
+{
+  "id": "twentse",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 200,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "off-white",
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 1.8,
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 2.75,
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "active",
+          "excellent forager"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "broodiness": [
+      {
+        "value": "yes",
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Netherlands/Germany",
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "late 19th century",
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "silver",
+          "gold",
+          "orange/lemon",
+          "blue-gold",
+          "crele",
+          "pile",
+          "blue-silver",
+          "cuckoo",
+          "silver cuckoo"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "also called Kraienkopp in German",
+          "developed from local types crossed with Malay and later silver duckwing Leghorn stock",
+          "small walnut comb, wattles and earlobes, all bright red"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Twentse, called Kraienkopp in German, originates from the border region between Germany and the Netherlands, developed in the late 19th century from local stock crossed with Malay and Leghorn birds. It is kept today as a rare layer or show bird.",
+        "source_url": "https://en.wikipedia.org/wiki/Kraienkopp"
+      }
+    ]
+  }
+}

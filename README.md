@@ -13,7 +13,9 @@ Node 24, ESM, no dependencies, built-in `fetch`. Tests use `node:test`.
 | `breeds.json` | Every Wikipedia chicken breed with an `{{Infobox poultry breed}}` (from `Category:Chicken breeds` + `List of chicken breeds`): names, country, APA/ABA/PCGB class, weights, egg and skin colour, comb, status, use, summary, image. | Wikipedia, Wikimedia Commons, Harris730 image fallback |
 | `breeds_extra.json` | Extracted breed facts (eggs/year, egg size and colour, temperament, broodiness, hardiness, purpose, weights, autosexing, varieties, lifespan...). Every field is a provenance fact, see below. Also `tags` (e.g. `BROWN LAYERS`). | GitHub Models over Wikipedia + reference pages + Harris730 text; imports |
 | `breeds_missing.json` | Breeds named in the Harris730 dataset that are not in `breeds.json`, for manual review. | Harris730 |
-| `breeds_global.json` | FAO DAD-IS chicken breed populations: name, other names, country, transboundary name, risk status, population size and trend, main uses, link to `breeds.json`. Empty until a manual export is added (see below). | FAO DAD-IS |
+| `breeds_global.json` | FAO DAD-IS chicken breed populations, one record per country reporting on a breed: name, other names, country, transboundary name, risk status, population size/trend, main uses, origin, eggs, adult weights, morphology, images, source URL. Fetched straight from DAD-IS's public Firebase API, no manual export. | FAO DAD-IS |
+| `breeds_global_by_name.json` | The same populations grouped by normalized breed name, with the list of reporting countries. | Derived from `breeds_global.json` |
+| `breed-dadis-links.json` | `{ breed_id, dadis_ids[] }` cross-links from `breeds.json` to `breeds_global.json` by name match. Does not modify `breeds.json`. | Derived |
 | `diseases.json` | Every article in `Category:Poultry diseases` and its direct subcategories: summary, infobox fields, image. | Wikipedia |
 | `diseases_extra.json` | Extracted disease facts (cause, contagious, zoonotic, symptoms, prevention, vaccine, notifiable). Provenance facts. Not veterinary advice. | GitHub Models over Wikipedia + reference pages |
 | `reference_sources.json` | Reference pages that answered HTTP 200, with the breeds/diseases each covers. Page text itself stays in `cache/`. | See `sources/reference-urls.json` |
@@ -81,22 +83,28 @@ text) is never committed; it lives only in `cache/`, which is gitignored, and
 only extracted facts plus `source_url` reach `data/`. Images and structured or
 tabular data may be committed.
 
-## FAO DAD-IS: manual export, then parse
+## FAO DAD-IS: fetched directly, no login
 
-The DAD-IS export is a browser app, not a downloadable file, and this pipeline
-does not automate a browser session for it. To fill `breeds_global.json`:
+DAD-IS backs its public UI with a Firebase Realtime Database that answers
+plain HTTPS GET requests with JSON — no login and no browser session needed.
+`npm run fetch:dadis`:
 
-1. Open https://www.fao.org/dad-is/data/data-export/en and choose **Data Export - Breeds**
-   (https://dadis-hub-ws.web.app/?app=breeds-export&lang=en).
-2. Select species **Chicken** and all countries.
-3. Include breed name, other names, country, transboundary name, risk status,
-   population size, population trend and main uses if the form offers them.
-4. Export as CSV or Excel and save the file in `imports/dad-is/`.
-5. Run `npm run import:dadis`.
+1. Fetches `Data/species/Chicken/Country.json` (which country reports which
+   breed) and `Data/countries.json` (ISO3 -> country names).
+2. Fetches each of the ~2,600 `Data/breeds/<ISO3>/Chicken/<name>.json`
+   records at concurrency 6, with a timeout and retry/backoff per request so
+   a slow or dropped connection never hangs the batch.
+3. Saves every raw record under `imports/dad-is/raw/<ISO3>/<name>.json`. A
+   re-run skips any file already on disk, so it resumes cleanly after a
+   partial run.
+4. Normalizes everything into `data/breeds_global.json`,
+   `data/breeds_global_by_name.json` and `data/breed-dadis-links.json` (see
+   the datasets table above). Normalization logic lives in
+   `scripts/lib/dadis-global.mjs`, unit-tested in `test/dadis-global.test.mjs`.
 
-The parser matches column names loosely, so small wording changes in the export
-are fine. It keeps only chicken rows and links each breed to `breeds.json` by
-name, transboundary name or other names.
+`npm run import:dadis` still exists as a fallback: a manual CSV/XLSX export
+from https://www.fao.org/dad-is/data/data-export/en, parsed the old way, for
+if the Firebase endpoint ever goes away.
 
 ## Running locally
 
@@ -112,7 +120,8 @@ npm run fetch:faostat    # FAOSTAT bulk (34 MB), monthly
 npm run fetch:nass       # NASS bulk (~440 MB gzipped, streamed), monthly
 npm run keywords         # research/*.md -> keywords.json
 npm run import:github    # tags, breeds_missing.json, chicken-dictionary import rows
-npm run import:dadis     # parse a manual DAD-IS export, if present
+npm run fetch:dadis      # fetch + normalize FAO DAD-IS chicken breed data (resumable)
+npm run import:dadis     # fallback: parse a manual DAD-IS export, if present
 npm run merge:imports    # merge imports/ into *_extra.json
 npm run enrich           # LLM batch; needs GITHUB_TOKEN, else "skipped: no GITHUB_TOKEN"
 npm run all              # everything above, in order

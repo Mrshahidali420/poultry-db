@@ -1,0 +1,24 @@
+{
+  "id": "virginia-beach-va", "city": "Virginia Beach", "state": "VA", "population": 453737,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "Chickens are allowed only in areas zoned for agricultural use, mostly south of the Green Line. Ordinary residential lots, which cover most of the northern city, cannot keep hens.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No residential hen permit exists. Secondary sites mention a permit and a 25 foot dwelling setback for agricultural properties, which was not confirmed in official text.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not established from official sources for agricultural properties; not applicable to residential lots since hens are not allowed there.",
+  "coop_rules": "Not applicable on residential lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Agricultural zoning lies mainly south of the Green Line, with a few scattered sites in the north. The city ran a public feedback forum on allowing backyard hens (no roosters) in residential zones, and council formed an urban agriculture committee in 2021, but no adopted change was found.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "City of Virginia Beach Virtual Town Hall: Backyard Chickens", "url": "https://communityfeedback.opengov.com/portals/portal124/Issue_1387", "type": "city-website" },
+    { "name": "Virginia Beach Zoning Ordinance, Article 5 Residential Districts (Municode)", "url": "https://library.municode.com/HTML/10122/level3/CO_APXAZOOR_ART5REDI.html", "type": "municipal-code" },
+    { "name": "Princess Anne Independent News: council approves urban agriculture committee (2021)", "url": "https://princessanneindy.com/2021/05/23/urban-ag/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own public feedback page states the code allows chickens only in agricultural zones; that page is several years old and its outcome is listed as under review. Searches found no adopted 2023 to 2026 change, but the code section number was not confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

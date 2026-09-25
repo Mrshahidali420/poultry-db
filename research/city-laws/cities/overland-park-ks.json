@@ -1,0 +1,23 @@
+{
+  "id": "overland-park-ks", "city": "Overland Park", "state": "KS", "population": 203677,
+  "allowed": "conditional",
+  "max_hens": 3,
+  "hens_rule_text": "Permit required. 3 hens on lots of 0.20 to 0.49 acre, 6 hens on 0.50 to 0.99 acre, 12 hens on 1 to 3 acres, no cap and no permit over 3 acres. Lots under 0.20 acre cannot keep chickens.",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "Annual Chicken Permit from the City Clerk: $100 the first year, $50 per renewal. Needs a site plan, and Animal Control must inspect the coop and run before chickens arrive. Renters need the property owner's written permission.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops, mobile pens and runs must be at least 10 feet from side property lines and 25 feet from the rear property line. None in the front yard.",
+  "coop_rules": "Secure, well ventilated coop in a fenced rear yard, at least 10 sq ft per bird, no structure over 200 sq ft on lots under 3 acres. Birds must be cooped when unattended. Manure storage capped at 3 cubic feet and must be covered.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Only on residentially zoned lots of 0.20 acre or more with a detached single-family home or duplex, or agricultural land under 3 acres used as a residence, and only at the owner's principal residence. Roosters are banned on lots under 3 acres. Ducks, turkeys, guinea fowl and other fowl are not allowed. The program became permanent on January 1, 2024.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "OPMC Chapter 6.13 (6.13.050)",
+  "sources": [
+    { "name": "City of Overland Park, Chicken Permits page (Internet Archive copy, Feb 2026)", "url": "https://www.opkansas.gov/chicken-permits", "type": "city-website" },
+    { "name": "Ordinance No. DAC-3435, adding OPMC Chapter 6.13 Keeping of Chickens (linked from city page)", "url": "https://drive.google.com/file/d/1xQXvxFKiQXJ0sDb9Zq_O1CZJ5wNJR9bK/view", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full text of Ordinance DAC-3435 (effective Jan 1, 2024) linked from the city's chicken permit page, and the city page itself via an Internet Archive copy. Some secondary sites wrongly give the minimum lot as 0.25 acre; the ordinance says 0.20.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

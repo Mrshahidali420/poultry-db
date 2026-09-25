@@ -1,0 +1,57 @@
+{
+  "id": "dampierre",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "broodiness": [
+      {
+        "value": "yes, willing to go broody",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "crest": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "France",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "created 1996",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "created from Gournay and Crevecoeur genetics to re-create the extinct Normande breed",
+          "black-and-white mottled plumage with a feather crest",
+          "fine white meat and delicate bones"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Dampierre was created in France in 1996 from Gournay and Crevecoeur stock, an attempt to re-create the Normande breed that had gone extinct more than a century earlier. It remains rare and expensive, only beginning to appear in the United States.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

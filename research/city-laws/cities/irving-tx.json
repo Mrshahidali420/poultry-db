@@ -1,0 +1,24 @@
+{
+  "id": "irving-tx", "city": "Irving", "state": "TX", "population": 257076,
+  "allowed": "yes",
+  "max_hens": 24,
+  "hens_rule_text": "up to 24 hens on lots of one acre or less; no hen limit on lots over one acre",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit required for backyard chickens under the 2017 ordinance, per the city's announcement as reported in search extracts.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Coop or enclosure may not be within 25 feet of any building used for human occupancy. The extract does not say whether the owner's own home is excluded.",
+  "coop_rules": "Structure with three or more sides and a roof, at least one square foot of roosting area per chicken.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "One rooster allowed only with at least six hens on lots of one acre or less; on larger lots, one rooster per six hens.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 6, Art. VII (Livestock, Domestic Fowl and Bees)",
+  "sources": [
+    { "name": "Irving Code of Ordinances, Ch. 6 Art. VII Livestock, Domestic Fowl and Bees (eCode360)", "url": "https://ecode360.com/45683201", "type": "municipal-code" },
+    { "name": "City of Irving news flash: Chickens, Roosters Ordinance Adopted", "url": "https://www.cityofirving.org/CivicAlerts.aspx?AID=3369&ARC=5664", "type": "city-website" },
+    { "name": "Dallas Morning News, Irving council votes on chicken ordinance (2017)", "url": "https://www.dallasnews.com/news/2017/04/07/irving-city-council-votes-on-ordinance-restricting-number-of-chickens-residents-can-own/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from search-result extracts of the eCode360 article and the city's 2017 news release; neither page could be opened directly (403, archive offline). No later amendment found, but the 25 ft rule wording should be checked against the full text.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

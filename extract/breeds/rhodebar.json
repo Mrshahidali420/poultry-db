@@ -1,0 +1,75 @@
+{
+  "id": "rhodebar",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 180,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 200,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "brown-tinted",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 2.7,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 4.1,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United Kingdom/Canada",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "1940s",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "originally created at the University of British Columbia by crossing Rhode Island Reds with Barred Plymouth Rocks",
+          "a UK strain was created by crossing a Danish Rhode Island Red with Golden Brussbar stock",
+          "males hatch yellow, females hatch with dark back stripes"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Rhodebar was created at the University of British Columbia in the 1940s from Rhode Island Red and Barred Plymouth Rock stock, with a parallel UK strain from Rhode Island Red and Golden Brussbar crosses. Its arrival just before commercial hybrids took over the egg industry meant it only briefly gained popularity and is now rare.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

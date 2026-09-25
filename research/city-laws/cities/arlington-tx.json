@@ -1,0 +1,26 @@
+{
+  "id": "arlington-tx",
+  "city": "Arlington",
+  "state": "TX",
+  "population": 402134,
+  "allowed": "yes",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 fowl on lots of half an acre or less, up to 10 on lots over half an acre but under 1 acre, and fewer than 25 on 1 acre or more. The cap counts all fowl (chickens, ducks, geese, turkeys), not only hens.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "The fowl section (Sec. 5.02) sets limits but does not require a permit or license to keep hens.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Fowl must be kept at least 50 feet from any habitation on another person's property.",
+  "coop_rules": "Chickens must be kept inside a coop or pen. Ducks and geese may not run at large.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters are allowed only in areas zoned agricultural.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Animals Chapter, Sec. 5.02 Keeping of Fowl",
+  "sources": [
+    { "name": "City of Arlington Animals Chapter (Code of Ordinances), amended by Ord. 25-090", "url": "https://www.arlingtontx.gov/files/assets/city/v/3/city-secretary/documents/city-code-of-ordinances/animals-chapter.pdf", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full text of Sec. 5.02 in the city-hosted Animals Chapter PDF, which is current through Ord. 25-090 (Dec 16, 2025). The code does not address slaughter, and no permit requirement appears in the fowl section.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

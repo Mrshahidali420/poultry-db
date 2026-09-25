@@ -1,0 +1,74 @@
+{
+  "id": "olive-egger",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 150,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 200,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "olive green, shade varies with the parent breeds",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "hardy",
+          "curious",
+          "active"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "appearance highly variable, depending on the parent breeds used"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "produced by crossing a dark-brown-egg layer (e.g. Marans or Welsummer) with a blue-egg layer (e.g. Ameraucana or Easter Egger)",
+          "the resulting olive shade depends on the specific parent breeds chosen"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "Olive Eggers are a hybrid, not a recognized breed, created deliberately by backyard and hatchery breeders who cross a dark-brown-egg breed with a blue-egg breed so the offspring's blue and brown eggshell pigments combine into an olive-green shell.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "omaha-ne", "city": "Omaha", "state": "NE", "population": 488797,
+  "allowed": "conditional",
+  "max_hens": 10,
+  "hens_rule_text": "Up to 10 hens in residential areas under the December 2025 ordinance, with a health department permit. Existing flocks over 10 have five years to shrink, and owners over the limit can ask for a variance.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "City code makes it unlawful to keep poultry without a permit from the health department (Douglas County Health Department). The health officer inspects the premises before issuing it, and permits are renewed each January.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Secondary sites claim 25 feet from neighboring dwellings and 10 feet from property lines, but this could not be confirmed in the code text.",
+  "coop_rules": "Poultry may not run at large; they must be kept in enclosed places on private property.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The December 2025 change also lets community gardens keep hens for educational programs. About 170 households held chicken permits in late 2025, according to local news.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Omaha Code of Ordinances, Chapter 6 Animals (Municode)", "url": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN", "type": "municipal-code" },
+    { "name": "Douglas County Health Department: Domestic Animals / Bees", "url": "https://www.douglascountyhealth.com/environmental/domestic-animals-bees", "type": "city-website" },
+    { "name": "KMTV 3 News Now: Omaha City Council approves new backyard chicken limits (Dec 10, 2025)", "url": "https://www.3newsnow.com/northwest-omaha/omaha-city-council-approves-new-backyard-chicken-limits", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Permit rule comes from search extracts of the Omaha code; the 10 hen cap and rooster ban come from local news on the December 2025 ordinance, since Municode and the county health page were blocked. Exact section number and setbacks are unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,647 @@
+{
+  "last_checked": "2026-09-26",
+  "note": "State-level laws that bear on backyard hens (local preemption, HOA limits, right-to-farm, premises registration). research_status \"not-researched\" means the state was not checked in this pass.",
+  "states": [
+    {
+      "state": "AL",
+      "state_name": "Alabama",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "AK",
+      "state_name": "Alaska",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "AZ",
+      "state_name": "Arizona",
+      "research_status": "researched",
+      "summary": "State law stops cities and counties from banning up to six backyard hens at a single-family home on a lot of half an acre or less. Local rules on roosters, coop placement and cleanliness are still allowed.",
+      "state_rules": [
+        {
+          "topic": "local-preemption",
+          "note": "A city may not ban a resident of a detached single-family home on a lot of half an acre or less from keeping up to six fowl in the backyard. Cities may ban roosters, require an enclosure in the rear or side yard at least 20 feet from neighbors (max 200 sq ft, 8 ft high), and set manure, feed and water rules. Coops built on or before Sept 14, 2024 are protected from later ordinances.",
+          "citation": "A.R.S. 9-462.12 (HB 2325, 2024, Laws 2024 ch. 192)",
+          "url": "https://www.azleg.gov/ars/9/00462-12.htm"
+        },
+        {
+          "topic": "local-preemption",
+          "note": "The same 2024 act added a parallel limit for counties.",
+          "citation": "A.R.S. 11-820.04 (as added by HB 2325, 2024; section number may have been renumbered)",
+          "url": "https://www.azleg.gov/legtext/56leg/2R/laws/0192.htm"
+        }
+      ],
+      "sources": [
+        {
+          "name": "A.R.S. 9-462.12 Backyard fowl regulation",
+          "url": "https://www.azleg.gov/ars/9/00462-12.htm",
+          "type": "state-statute"
+        },
+        {
+          "name": "Laws 2024, Chapter 192 (HB 2325)",
+          "url": "https://www.azleg.gov/legtext/56leg/2R/laws/0192.htm",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "high",
+      "needs_review": true
+    },
+    {
+      "state": "AR",
+      "state_name": "Arkansas",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "CO",
+      "state_name": "Colorado",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "CT",
+      "state_name": "Connecticut",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "DE",
+      "state_name": "Delaware",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "DC",
+      "state_name": "District of Columbia",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "FL",
+      "state_name": "Florida",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "GA",
+      "state_name": "Georgia",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "HI",
+      "state_name": "Hawaii",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "ID",
+      "state_name": "Idaho",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "IL",
+      "state_name": "Illinois",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "IN",
+      "state_name": "Indiana",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "IA",
+      "state_name": "Iowa",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "KS",
+      "state_name": "Kansas",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "KY",
+      "state_name": "Kentucky",
+      "research_status": "researched",
+      "summary": "HB 276 (2026) would stop local governments from banning up to six hens on residential property. It passed the House; final enactment could not be confirmed from the legislature site.",
+      "state_rules": [
+        {
+          "topic": "local-preemption",
+          "note": "Bill says local governments may not directly or indirectly ban keeping six or fewer backyard hens (no roosters, no commercial use); they may still set sanitation, coop setback and pest rules. Passed the House in 2026; Senate outcome and signature unverified.",
+          "citation": "HB 276 (2026 Regular Session); earlier version HB 806 (2025)",
+          "url": "https://apps.legislature.ky.gov/record/26rs/hb276.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Kentucky Legislature, 26RS HB 276",
+          "url": "https://apps.legislature.ky.gov/record/26rs/hb276.html",
+          "type": "state-statute"
+        },
+        {
+          "name": "LINK nky, Union opposes bills limiting local control",
+          "url": "https://linknky.com/news/2026/03/18/union-opposes-kentucky-bills-local-control/",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "low",
+      "needs_review": true
+    },
+    {
+      "state": "LA",
+      "state_name": "Louisiana",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "research_status": "researched",
+      "summary": "Since 2025, counties and towns may not ban keeping hens on your own residential property. Towns do not have to allow roosters and can still set other reasonable rules.",
+      "state_rules": [
+        {
+          "topic": "local-preemption",
+          "note": "A county or municipality may not adopt a rule or ordinance that bans a person from keeping chickens (female birds) on their own residential property. Roosters are not covered. Passed after the 2021 right to food amendment.",
+          "citation": "P.L. 2025, ch. 174 (LD 1655, HP 1096), signed May 30, 2025",
+          "url": "https://legislature.maine.gov/bills/display_ps.asp?ld=1655&snum=132"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Maine Legislature, LD 1655 status (enacted, Chapter 174)",
+          "url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?LD=1655&SessionID=16",
+          "type": "state-statute"
+        },
+        {
+          "name": "Bangor Daily News, backyard chicken bill",
+          "url": "https://www.bangordailynews.com/2025/05/23/politics/state-politics/backyard-chicken-bill-making-its-way-through-maine-state-house/",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "high",
+      "needs_review": true
+    },
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "research_status": "researched",
+      "summary": "Every poultry keeper, backyard flocks included, must register with the Maryland Department of Agriculture. Whether hens are allowed at all is set by the county or city.",
+      "state_rules": [
+        {
+          "topic": "poultry-registration",
+          "note": "Registration of any premises where poultry are kept is mandatory, with no exemption for small or backyard flocks. Registration is free and renewed yearly.",
+          "citation": "Md. Code, Agriculture 3-804 (as cited on the MDA form)",
+          "url": "https://mda.maryland.gov/AnimalHealth/pages/poultry-reg-faq.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Maryland Department of Agriculture, Backyard Flock Registration",
+          "url": "https://mda.maryland.gov/AnimalHealth/pages/poultry-reg-faq.aspx",
+          "type": "state-agency"
+        },
+        {
+          "name": "MDA Poultry Registration Form",
+          "url": "https://mda.maryland.gov/AnimalHealth/Documents/poultry-registration-form.pdf",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "high",
+      "needs_review": true
+    },
+    {
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "MI",
+      "state_name": "Michigan",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "MN",
+      "state_name": "Minnesota",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "MS",
+      "state_name": "Mississippi",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "MO",
+      "state_name": "Missouri",
+      "research_status": "researched",
+      "summary": "A 2024 law barred HOAs from banning up to six hens on lots of at least 0.2 acre, but a Cole County judge struck the whole law down in October 2025. The state said it would appeal. For now, HOA and city rules decide.",
+      "state_rules": [
+        {
+          "topic": "hoa-restriction",
+          "note": "HB 2062 (2024) stopped homeowners associations from banning up to six chickens or a coop on lots of 0.2 acre or more. On Oct 20, 2025 a circuit judge ruled the entire bill unconstitutional (single subject and clear title). An appeal by the Attorney General was announced; outcome not confirmed.",
+          "citation": "HB 2062 (2024); Four Seasons Lakesites POA v. State of Missouri (Cole County Cir. Ct., Oct 2025)",
+          "url": "https://www.missourinet.com/2025/10/23/missouri-court-strikes-down-backyard-chicken-law/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Missourinet, court strikes down backyard chicken law",
+          "url": "https://www.missourinet.com/2025/10/23/missouri-court-strikes-down-backyard-chicken-law/",
+          "type": "secondary"
+        },
+        {
+          "name": "KCUR, HOAs can no longer ban backyard chickens (2024)",
+          "url": "https://www.kcur.org/news/2024-08-12/homeowners-associations-missouri-backyard-chickens",
+          "type": "secondary"
+        },
+        {
+          "name": "Community Associations Institute, ruling summary",
+          "url": "https://www.caionline.org/missouri-circuit-court-rules-community-association-chicken-law-unconstitutional/",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "medium",
+      "needs_review": true
+    },
+    {
+      "state": "MT",
+      "state_name": "Montana",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NE",
+      "state_name": "Nebraska",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NV",
+      "state_name": "Nevada",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NH",
+      "state_name": "New Hampshire",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NM",
+      "state_name": "New Mexico",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "NC",
+      "state_name": "North Carolina",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "ND",
+      "state_name": "North Dakota",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "OH",
+      "state_name": "Ohio",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "OK",
+      "state_name": "Oklahoma",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "OR",
+      "state_name": "Oregon",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "SC",
+      "state_name": "South Carolina",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "SD",
+      "state_name": "South Dakota",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "TN",
+      "state_name": "Tennessee",
+      "research_status": "researched",
+      "summary": "No state law found that sets backyard chicken limits; rules are set by the city or county. A 2024 bill to stop local bans on six or fewer hens (HB 1850 / SB 1761) was sent to summer study and did not pass.",
+      "state_rules": [],
+      "sources": [
+        {
+          "name": "Tennessee General Assembly, HB 1850 (113th GA)",
+          "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1850&ga=113",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "medium",
+      "needs_review": true
+    },
+    {
+      "state": "TX",
+      "state_name": "Texas",
+      "research_status": "researched",
+      "summary": "No state law found that sets backyard chicken limits; rules are set by the city or county, and HOAs can still ban hens. Two 2025 bills (SB 141 and HB 2013) to limit city or HOA bans died.",
+      "state_rules": [],
+      "sources": [
+        {
+          "name": "Homemade Texas, 2025 legislation tracker (SB 141 and HB 2013 dead)",
+          "url": "https://homemadetexas.org/2025-legislation/",
+          "type": "secondary"
+        },
+        {
+          "name": "Texas Legislature, HB 2013 (89R) analysis",
+          "url": "https://capitol.texas.gov/tlodocs/89R/analysis/pdf/HB02013E.pdf",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "medium",
+      "needs_review": true
+    },
+    {
+      "state": "UT",
+      "state_name": "Utah",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "VT",
+      "state_name": "Vermont",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "VA",
+      "state_name": "Virginia",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "WA",
+      "state_name": "Washington",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "WV",
+      "state_name": "West Virginia",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    },
+    {
+      "state": "WI",
+      "state_name": "Wisconsin",
+      "research_status": "researched",
+      "summary": "Anyone keeping livestock, including backyard poultry, must register the premises with the state (DATCP). Whether hens are allowed is set by the city, village or town.",
+      "state_rules": [
+        {
+          "topic": "poultry-registration",
+          "note": "Livestock premises registration is required for every location where livestock are kept, and DATCP says this includes backyard poultry flocks. Renew every three years.",
+          "citation": "Wis. Stat. 95.51",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/PremisesRegistration.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Wisconsin DATCP, Livestock Premises Registration",
+          "url": "https://datcp.wi.gov/Pages/Programs_Services/PremisesRegistration.aspx",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "high",
+      "needs_review": true
+    },
+    {
+      "state": "WY",
+      "state_name": "Wyoming",
+      "research_status": "not-researched",
+      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "state_rules": [],
+      "sources": [],
+      "confidence": "unknown",
+      "needs_review": true
+    }
+  ]
+}

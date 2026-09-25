@@ -1,0 +1,23 @@
+{
+  "id": "birmingham-al", "city": "Birmingham", "state": "AL", "population": 195893,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens per property as an accessory use to an occupied single-family detached home in the D-1, D-2 and D-3 districts.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "The zoning ordinance lists a chicken coop as a permitted accessory use in D-1, D-2 and D-3 with no separate chicken permit. Larger coops accessory to an urban farm in C-2 and I-1 to I-3 need a special exception from the Board.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "Coop and run at least 15 feet from residential structures on adjacent lots and at least 10 feet from property lines, in the rear yard.",
+  "coop_rules": "Hens kept in an enclosed, roofed, lockable, predator-proof coop and run at all times, in the rear yard, no more than 80 sq ft total and 6 ft tall; kept clean, feed in sealed containers, uneaten feed removed daily. Hens may not be kept inside the house.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Only single-family detached homes in D-1, D-2 and D-3 qualify. The AG district allows coops with larger setbacks. Urban farms in C-2, I-1, I-2 and I-3 may keep up to 100 hens by special exception, 200 ft from any dwelling district.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Zoning Ordinance Title 1, Chapter 4 (Land Use Development Standards, Permitted as Accessory), Chicken Coop",
+  "sources": [
+    { "name": "City of Birmingham Zoning Ordinance, July 2026 Edition (PDF)", "url": "https://s3.us-east-2.amazonaws.com/assets.birminghamal.gov/s3fs-public/2026-07/City%20of%20Birmingham%20Zoning%20Ordinance%20July%202026.pdf", "type": "municipal-code" },
+    { "name": "City of Birmingham Zoning Ordinance page", "url": "https://www.birminghamal.gov/government/city-departments/pep/pep-divisions/zoning-division/city-birmingham-zoning-ordinance", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the chicken coop accessory use standards directly in the city's July 2026 zoning ordinance PDF (pages 178 to 179). The animal chapter of the city code (Title 6, Chapter 1) could not be opened because Municode is blocked, so any separate animal rules there are unchecked.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

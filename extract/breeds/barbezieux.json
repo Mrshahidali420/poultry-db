@@ -1,0 +1,57 @@
+{
+  "id": "barbezieux",
+  "fields": {
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "hen_weight_kg": [
+      {
+        "value": 3.6,
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "rooster_weight_kg": [
+      {
+        "value": 4.5,
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "meat",
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "France",
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "recreated 1980-1985 from an older regional breed",
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "one of the tallest chicken breeds native to Europe",
+          "iridescent beetle-black plumage, oversized comb and wattles, white skin and blue legs",
+          "meat has a reputation for a gamey flavor and is protected under a regional quality label"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Barbezieux is a French breed considered rare, recreated by four breeders between 1980 and 1985 after near-disappearance. It is raised mainly in its region of origin around Barbezieux under the 'Poulet de race Barbezieux' quality label, prized for firm, gamey meat.",
+        "source_url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)"
+      }
+    ]
+  }
+}

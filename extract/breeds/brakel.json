@@ -1,0 +1,82 @@
+{
+  "id": "brakel",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 180,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "eggs_per_year_max": [
+      {
+        "value": 200,
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "white",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "temperament": [
+      {
+        "value": [
+          "hardy",
+          "active",
+          "alert",
+          "good flier"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "broodiness": [
+      {
+        "value": "low",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "dual-purpose",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "Belgium",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "origin_year_or_period": [
+      {
+        "value": "history traced to 1416; revived from 1971",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "varieties": [
+      {
+        "value": [
+          "silver",
+          "gold"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "considered the same breed as the Campine until distinguished in 1884",
+          "nearly extinct by the 1960s; revived from just 2 hens, 2 roosters and a dozen eggs starting in 1971"
+        ],
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "The Brakel dates back to 1416 in the Flanders region spanning northern France, Belgium and Holland. Its population collapsed after both World Wars, and the breed was rebuilt from a handful of surviving birds beginning in 1971.",
+        "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+      }
+    ]
+  }
+}

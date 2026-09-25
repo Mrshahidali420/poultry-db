@@ -1,0 +1,25 @@
+{
+  "id": "moreno-valley-ca", "city": "Moreno Valley", "state": "CA", "population": 214263,
+  "allowed": "conditional",
+  "max_hens": 15,
+  "hens_rule_text": "Poultry only on lots of at least 20,000 sq ft in the RR, HR, R-1, RA-2 and AG zones, up to 15 birds per 20,000 sq ft. Typical smaller subdivision lots in other residential zones cannot keep chickens.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "The zoning code table lists poultry as permitted in the qualifying zones and no chicken permit was found; confirm with the Planning Division (951-413-3206).",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Area where animals are housed must be at least 20 feet from any habitable dwelling; 0 feet from side and rear lines; front yard uses the district requirement. Coops and sheds also follow accessory structure setbacks in 9.08.030.",
+  "coop_rules": "Housing area must meet the animal setbacks; waste removal rules of Chapter 6.04 apply.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters, guinea fowl and peafowl are banned citywide. The city's zoning FAQ says chickens are regulated by zoning and lot size and points to Table 9.09.090-11.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 9.09.090, Table 9.09.090-11",
+  "sources": [
+    { "name": "Moreno Valley Municipal Code 9.09.090 Agricultural and animal uses", "url": "https://library.qcode.us/lib/moreno_valley_ca/pub/municipal_code/item/title_9-chapter_9_09-9_09_090", "type": "municipal-code" },
+    { "name": "Moreno Valley Code (current, eCode360)", "url": "https://ecode360.com/MO4973", "type": "municipal-code" },
+    { "name": "Moreno Valley Zoning FAQ", "url": "https://moval.gov/cdd/department/faqs-zoning.html", "type": "city-website" },
+    { "name": "Moreno Valley Prohibited Animals", "url": "https://moval.gov/cdd/services/code-violations/prohibited-animals.html", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Code text of 9.09.090 read via an Internet Archive copy (Jan 2024) of the former qcode edition, current through Nov 2023; the code has since moved to eCode360, which could not be opened. A 2025 petition sought small-lot flocks but no adopted change was found; permit status not stated in the code.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

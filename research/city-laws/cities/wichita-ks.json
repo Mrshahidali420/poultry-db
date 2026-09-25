@@ -1,0 +1,27 @@
+{
+  "id": "wichita-ks",
+  "city": "Wichita",
+  "state": "KS",
+  "population": 400987,
+  "allowed": "yes",
+  "max_hens": 3,
+  "hens_rule_text": "Up to 3 fowl without a permit. With an annual Animal Maintenance Permit ($25) you can keep 4 to 12 fowl (up to 25 pigeons). These limits apply to residential lots under 5 acres.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit for 3 or fewer fowl. An Animal Maintenance Permit ($25, renewed yearly) is needed for 4 to 12 fowl. No more than three kinds of animals may be kept at one address.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Enclosures for small animals must be 10 feet from the property line if they are within 50 feet of a neighboring dwelling. Coops must also meet the Wichita-Sedgwick County Unified Zoning Code.",
+  "coop_rules": "Coops and pens must meet zoning rules and be kept in good repair; waste from animal shelters must be disposed of at least weekly.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Limits cover residential premises under 5 acres. Larger residential properties should contact Animal Control (316-350-3360). Roosters, guinea cocks and peacocks are prohibited.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6.04.157 to 6.04.159",
+  "sources": [
+    { "name": "City of Wichita, Animal Maintenance Permit information (08/24)", "url": "https://www.wichita.gov/DocumentCenter/View/8711/Animal-Maintenance-Permit-Information-PDF", "type": "city-website" },
+    { "name": "Wichita Code of Ordinances, Title 6 Animals (Municode)", "url": "https://library.municode.com/ks/wichita/codes/code_of_ordinances?nodeId=TIT6AN", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Facts come from the city's official Animal Maintenance Permit handout (dated 08/24), which cites Code 6.04.157 to 6.04.159; the Municode text itself could not be opened from this location. Slaughter is not addressed.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

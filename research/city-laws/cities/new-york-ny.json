@@ -1,0 +1,23 @@
+{
+  "id": "new-york-ny", "city": "New York", "state": "NY", "population": 8584629,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Hens are allowed in all five boroughs; the Health Code sets no numeric limit, but birds must not create a nuisance (odor, pests, noise).",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "Neither Health Code 161.19 nor the city's urban agriculture FAQ requires a permit to keep hens as a household.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No setback for household hens. The 25 foot distance from buildings in the code applies only to live poultry markets.",
+  "coop_rules": "Keep animals and surroundings clean and free of nuisance; general Health Code Article 161 nuisance rules apply.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters, ducks, geese and turkeys are banned citywide except in licensed slaughterhouses. Live poultry sold commercially may not be kept in a building with residences.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "NYC Health Code (24 RCNY) Sec. 161.19",
+  "sources": [
+    { "name": "NYC Health Code 161.19, Keeping of Livestock, Live Poultry and Rabbits", "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-47152", "type": "municipal-code" },
+    { "name": "NYC Mayor's Office of Urban Agriculture FAQ", "url": "https://www.nyc.gov/site/agriculture/faqs/frequently-asked-questions.page", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read Health Code 161.19 via Internet Archive copy of the American Legal page and the official nyc.gov urban agriculture FAQ, which says hens are permitted and roosters, ducks, geese and turkeys are not. Home slaughter of hens is not explicitly addressed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

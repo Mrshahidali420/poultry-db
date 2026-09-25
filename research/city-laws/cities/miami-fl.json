@@ -1,0 +1,24 @@
+{
+  "id": "miami-fl", "city": "Miami", "state": "FL", "population": 489812,
+  "allowed": "conditional",
+  "max_hens": 15,
+  "hens_rule_text": "Up to 15 hens and 30 growing chicks per premises, only with a permit from the county health unit, and the coop must be at least 100 feet from any dwelling, which rules out most ordinary city lots.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "City code requires a permit from the county health unit (Florida Department of Health in Miami-Dade) authorizing the premises for poultry before any chickens are kept.",
+  "setback_ft_from_homes": 100,
+  "setback_notes": "Poultry pens or houses may not be less than 100 feet from any human dwelling. Birds may not run at large.",
+  "coop_rules": "Pens kept free of odor and fly breeding; feed in rat-proof covered containers; droppings removed at least twice a week and bagged for garbage pickup.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Section 6-1 also says it does not allow any use that violates city zoning. This applies to the City of Miami only; unincorporated Miami-Dade County bans chickens in single-family residential districts, and other cities in the county have their own rules.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-1",
+  "sources": [
+    { "name": "Miami Code of Ordinances, Chapter 6 Animals (Municode)", "url": "https://library.municode.com/fl/miami/codes/code_of_ordinances?nodeId=PTIITHCO_CH6AN", "type": "municipal-code" },
+    { "name": "Text of Miami Code Sec. 6-1 (copy hosted by a third party, 2019)", "url": "https://s30428.pcdn.co/wp-content/uploads/sites/2/2019/09/Miami-_FL_animal_restrictions_0.pdf", "type": "secondary" },
+    { "name": "Miami-Dade County: Animals in Single-family Residential Districts", "url": "https://www.miamidade.gov/building/standards/residential-animals.asp", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the full text of Sec. 6-1 from a 2019 PDF copy of the code (Municode is region-blocked here) and matched it to search extracts; no later amendment was found. Some secondary sites claim a 15 or 20 foot setback, which conflicts with the code's 100 feet, so the code figure is used.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

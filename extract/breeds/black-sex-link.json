@@ -1,0 +1,63 @@
+{
+  "id": "black-sex-link",
+  "fields": {
+    "eggs_per_year_min": [
+      {
+        "value": 280,
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "egg_color": [
+      {
+        "value": "brown",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "temperament": [
+      {
+        "value": "calm, productive layer",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "purpose": [
+      {
+        "value": "eggs",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "bantam_available": [
+      {
+        "value": "no",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "autosexing": [
+      {
+        "value": true,
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "origin_country": [
+      {
+        "value": "United States",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "notable_traits": [
+      {
+        "value": [
+          "also called Black Star",
+          "typically a cross of a Rhode Island Red (or other non-white, non-barred) rooster onto a Barred Plymouth Rock hen, which carries both extended-black and barring genes",
+          "chicks are sex-linked: color at hatching differs by sex, so pullets and cockerels can be told apart immediately"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ],
+    "history_summary": [
+      {
+        "value": "Black sex-links are crossbred hybrids bred so that chick down color is linked to sex, removing the need to vent-sex chicks. The cross combines heterosis (hybrid vigor) from two purebred lines into a heavy brown-egg layer.",
+        "source_url": "https://en.wikipedia.org/wiki/Sex-link"
+      }
+    ]
+  }
+}

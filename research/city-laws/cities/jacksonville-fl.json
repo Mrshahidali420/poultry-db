@@ -1,0 +1,23 @@
+{
+  "id": "jacksonville-fl", "city": "Jacksonville", "state": "FL", "population": 1017689,
+  "allowed": "conditional",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 hens with a city Backyard Hen permit on single-family lots up to 1 acre; up to 10 on 1 to 2 acres and 15 on lots over 2 acres (city permit page). Agriculture and Rural Residential-Acre zones keep their own broader rights.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "Backyard Hen Program permit ($25) under Ordinance 2015-0337-E. Apply with the city form, a UF/IFAS Extension chicken-keeping seminar certificate and a sketch of the property showing the coop.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops must meet accessory-structure setbacks in Sec. 656.403 (reported as 5 ft from side and rear lot lines) and sit in the back yard; not allowed in front or side yards except corner and through lots.",
+  "coop_rules": "Hens kept in a covered, ventilated, predator-secure coop or enclosure at all times, screened from neighbors by an opaque fence or barrier, at least 3 sq ft per bird, max 6 ft tall; coops over 100 sq ft need a building permit; feed in rodent-proof containers.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Allowed by permit only on single-family lots. Prohibited on duplex, triplex and multi-family properties, and in mobile home parks, RV parks and rental communities. No selling of chickens, eggs or manure from the property.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 656.422",
+  "sources": [
+    { "name": "City of Jacksonville, Backyard Hen Program Permit (Current Planning)", "url": "https://www.jacksonville.gov/departments/planning-and-development/docs/current-planning-division/backyard-residential-hen-permit-questions.aspx", "type": "city-website" },
+    { "name": "Jacksonville Ordinance Code Sec. 656.422, Chickens allowed by permit in certain zoning districts", "url": "http://www.jacksonville.elaws.us/code/coor_zose_ch656_pt4_subptb_sec656.422", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the city's Backyard Hen Program permit PDF via an Internet Archive copy (live URL now 404s); it states hen tiers, the rooster ban and permit steps. Slaughter ban and the 5 ft accessory setback come from search extracts of Sec. 656.422, which could not be opened; one extract describes the large-lot allowance as 5 more hens per extra half acre, which differs from the city page tiers.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

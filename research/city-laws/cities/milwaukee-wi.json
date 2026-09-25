@@ -1,0 +1,27 @@
+{
+  "id": "milwaukee-wi",
+  "city": "Milwaukee",
+  "state": "WI",
+  "population": 562407,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "up to 4 hens on a residential property with a city permit; not allowed on commercial or mixed-use properties",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "One-time permit from the Department of Neighborhood Services ($35.56 including surcharge) with a coop site plan. DNS notifies the owner and directly or diagonally abutting property owners, who can raise concerns before the permit is issued.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Coop and run must be at least 25 feet from any residential structure on an adjacent lot and may not be in the front yard.",
+  "coop_rules": "Covered, moisture resistant coop raised off the ground or on a hard surface; at least 16 sq ft of coop plus run per hen; coop no taller than 10 ft and no larger than 50 sq ft; cleaned daily; chickens kept in coop or fenced run at all times; not inside a home or garage.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Residential premises only; permits not issued for commercial or mixed-use occupancies.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 78-6.5",
+  "sources": [
+    { "name": "City of Milwaukee DNS: Chicken Keeping in the City of Milwaukee", "url": "https://city.milwaukee.gov/chickenkeeping", "type": "city-website" },
+    { "name": "City of Milwaukee chicken coop requirements brochure", "url": "https://city.milwaukee.gov/DNS-361_V6aChickenBrochurewb.pdf", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Rules read from the official DNS chicken keeping page (via a September 2025 Internet Archive copy, since the live site blocks this machine). Code section 78-6.5 comes from search extracts; the full code text was not opened.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

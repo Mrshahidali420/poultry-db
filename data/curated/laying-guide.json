@@ -1,0 +1,791 @@
+[
+  {
+    "values": {
+      "hours_min": 14,
+      "hours_max": 16,
+      "stops_below_hours": 12
+    },
+    "what_to_do": [
+      "Add light in the early morning on a timer so the day totals 14 to 16 hours, and let them go to roost with the sunset.",
+      "Keep at least 6 hours of unbroken dark.",
+      "One 4 to 5 watt LED (40 watt equivalent) per 100 sq ft is enough, about bright enough to read a newspaper.",
+      "Once you start a lighting program, keep it going. Cutting it back drops production.",
+      "Extra light gives more winter eggs, not more eggs over a hen's life (Merck)."
+    ],
+    "conflict": true,
+    "conflict_notes": "Poultry Extension and Virginia Tech: 14 hours. Oregon State: 14 to 16 hours, more than 12. Merck: 13 to 16 hours, or 14 to 16 at peak. Meyer: 12 to 14 hours.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "daylight-hours",
+    "type": "daylight",
+    "name": "Daylight needed to keep laying",
+    "summary": "Hens need about 14 hours of light a day to lay steadily. Below about 12 hours, laying drops and often stops.",
+    "sources": [
+      {
+        "name": "How Many Eggs Can a Hen Lay in One Day?",
+        "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Laying and Reproduction in Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Laying Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-laying-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Does It Take A Hen To Lay An Egg?",
+        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "hours_min": 24,
+      "hours_max": 26,
+      "shell_hours": 20
+    },
+    "what_to_do": [],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "egg-formation-time",
+    "type": "egg-formation",
+    "name": "How long an egg takes to form",
+    "summary": "About 24 to 26 hours per egg, most of it (about 20 hours) spent forming the shell. So a hen lays at most about one egg a day, a bit later each day, then skips a day.",
+    "sources": [
+      {
+        "name": "How Many Eggs Can a Hen Lay in One Day?",
+        "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Does It Take A Hen To Lay An Egg?",
+        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "laying_years_good_min": 2,
+      "laying_years_good_max": 3,
+      "lifespan_years_min": 3,
+      "lifespan_years_max": 7
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Oregon State: well until 2 to 3 years. Poultry Extension: on and off for 3 to 4 years. Meyer: sporadic after 5.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "egg-laying-lifespan",
+    "type": "lifespan",
+    "name": "Egg-laying lifespan",
+    "summary": "Most hens lay well for 2 to 3 years and on and off for a few more. Hens often live 3 to 7 years, and some reach 10 or more.",
+    "notes": "High-output hybrids tend to lay hard and stop sooner. Heritage and dual-purpose breeds lay fewer eggs a year but for more years.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "months_min": 2,
+      "months_max": 4,
+      "early_molter_months_max": 6
+    },
+    "what_to_do": [
+      "Feed a complete feed with good protein.",
+      "Let hens molt fully in their second winter; Oregon State suggests turning extra lights off for about 6 weeks so the molt is complete."
+    ],
+    "conflict": true,
+    "conflict_notes": "Merck: typically 3 to 4 months, sometimes longer. Mississippi State: 2 to 3 months for late molters, up to 4 to 6 for early molters.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "molting-season-and-length",
+    "type": "molting",
+    "name": "Molting season and length",
+    "summary": "Most hens molt once a year, usually in autumn as days shorten. A molt usually takes about 2 to 4 months. Good layers (late molters) drop feathers fast and finish in 2 to 3 months. Poor layers (early molters) can take 4 to 6 months.",
+    "notes": "With extra lighting, hens usually lay about a year before molting. Bare patches are not molt; they are almost always feather picking.",
+    "sources": [
+      {
+        "name": "Laying and Reproduction in Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Molting of laying hens",
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/molting-laying-hens",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "eggs_per_year_min": 180,
+      "eggs_per_year_max": 300,
+      "peak_age_weeks": 35,
+      "peak_rate_percent_min": 90
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Cornell: about 2 eggs every 3 days, up to 15 dozen (180) in the first year. Meyer: 4 to 6 eggs a week, up to almost 300 at peak. Oregon State: about 265 for commercial Leghorns.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "production-year-1",
+    "type": "production-by-age",
+    "name": "Laying in year 1",
+    "summary": "The best year. Production climbs quickly after the first egg and peaks at about 35 weeks, when a good flock lays more than 9 eggs per 10 hens a day. The peak lasts about 10 weeks, then slowly declines.",
+    "notes": "Breed matters a lot. A commercial White Leghorn averages about 265 eggs a year, and backyard breeds lay fewer.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Backyard Chickens",
+        "url": "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
+        "publisher": "Cornell Cooperative Extension (Washington County)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Keep hens on layer feed with oyster shell to help shell quality.",
+      "Let hens molt in their second winter (Oregon State)."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "production-year-2",
+    "type": "production-by-age",
+    "name": "Laying in year 2",
+    "summary": "Still good, but fewer eggs than year 1. Eggs get bigger and shells get weaker each year. Most hens go through a full molt before or during their second laying season.",
+    "notes": "The sources checked do not give a reliable percentage drop for year 2, so none is stated here.",
+    "sources": [
+      {
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "good_production_until_years_min": 2,
+      "good_production_until_years_max": 3
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Oregon State: well until 2 to 3 years. Poultry Extension: on and off for 3 to 4 years. Meyer: slowing from year 3, sporadic from 5.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "production-year-3-plus",
+    "type": "production-by-age",
+    "name": "Laying in year 3 and later",
+    "summary": "Laying slows further after 2 to 3 years. Molts get longer and more frequent. By 5 years many hens lay only now and then, perhaps one or two eggs a week or less.",
+    "notes": "Many home flocks lay on and off for 3 to 4 years. Heritage breeds tend to lay for more years than high-output hybrids.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Put golf balls or wooden eggs in the nest boxes.",
+      "Give about 1 nest box per 4 hens.",
+      "Switch to layer feed at the first egg."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "signs-of-lay",
+    "type": "start-age",
+    "name": "Signs a pullet is about to lay",
+    "summary": "The comb and wattles grow and turn bright red and waxy. She squats when you reach toward her. She starts sitting in and rearranging the nest boxes. These signs come from a few days to about 2 to 3 weeks before the first egg.",
+    "sources": [
+      {
+        "name": "Signs That a Pullet Will Begin Laying Soon",
+        "url": "https://blog.meyerhatchery.com/2020/06/signs-that-a-pullet-will-begin-laying-soon/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "weeks_min": 26,
+      "weeks_max": 39,
+      "eggs_per_week_min": 2,
+      "eggs_per_week_max": 4
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Valley Hatchery: 6 to 9 months. Meyer's general range for pullets runs from 16 to 32 weeks. Meyer gives about 2 eggs a week in one article and 2 to 4 (4 to 6 for Green Queen bantams) in another.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "start-age-bantam",
+    "type": "start-age",
+    "name": "When bantams start laying",
+    "applies_to": "True bantams and ornamental breeds such as Silkie and Polish",
+    "summary": "Often the last to start, around 6 to 9 months. Eggs are small, and most bantams lay about 2 to 4 eggs a week.",
+    "notes": "Penn State notes bantams are not suited to egg production because the eggs are small.",
+    "sources": [
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Does It Take A Hen To Lay An Egg?",
+        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "All About Bantams",
+        "url": "https://blog.meyerhatchery.com/2023/05/all-about-bantams/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Standard vs Bantam Chicken Breeds",
+        "url": "https://blog.meyerhatchery.com/2026/06/standard-vs-bantam-chicken-breeds/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Small-Scale Egg Production (Organic and Conventional)",
+        "url": "https://extension.psu.edu/small-scale-egg-production-organic-and-conventional",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "weeks_min": 18,
+      "weeks_max": 26
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Valley Hatchery: Rhode Island Red, Australorp and Plymouth Rock 18 to 22 weeks; Wyandotte, Orpington and Sussex 20 to 24 weeks. Meyer: 5 to 6 months on average.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "start-age-dual-purpose",
+    "type": "start-age",
+    "name": "When dual-purpose breeds start laying",
+    "applies_to": "Rhode Island Red, Australorp, Plymouth Rock, Wyandotte, Orpington, Sussex",
+    "summary": "Usually between about 18 and 24 weeks, often around 5 to 6 months.",
+    "sources": [
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Does It Take A Hen To Lay An Egg?",
+        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "weeks_min": 24,
+      "weeks_max": 32
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Valley Hatchery: 24 to 28 weeks or more. Meyer: some pullets take 28 to 32 weeks.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "start-age-heavy",
+    "type": "start-age",
+    "name": "When heavy breeds start laying",
+    "applies_to": "Brahma, Cochin, Jersey Giant and other large, slow-maturing breeds",
+    "summary": "Big birds mature slowly. Expect about 24 to 28 weeks, sometimes 7 to 8 months.",
+    "sources": [
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Does It Take A Hen To Lay An Egg?",
+        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "weeks_min": 16,
+      "weeks_max": 22
+    },
+    "what_to_do": [],
+    "conflict": true,
+    "conflict_notes": "Valley Hatchery: Leghorns 16 to 18 weeks, hybrids 16 to 20. Alabama Extension: Leghorns about 18 to 22 weeks. Oregon State: pullets in general 18 to 20 weeks.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "start-age-light-production",
+    "type": "start-age",
+    "name": "When light and production breeds start laying",
+    "applies_to": "Leghorns, light Mediterranean breeds, production hybrids and sex-links (ISA Brown, Golden Comet, production reds)",
+    "summary": "The earliest layers. Most start between about 16 and 22 weeks.",
+    "notes": "Pullets that mature in spring tend to start sooner than those maturing into short autumn days.",
+    "sources": [
+      {
+        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
+        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+        "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Plan to add young pullets every year or two if you want steady eggs.",
+      "Watch older hens for a swollen belly, straining or a prolapsed vent, and get help early."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-age",
+    "type": "stop-reason",
+    "name": "Age",
+    "summary": "Every hen slows down and eventually stops. Production drops after 2 to 3 years. Older hens are also more prone to egg binding, internal laying and prolapse.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
+        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {
+      "broody_weeks_min": 3,
+      "broody_weeks_max": 4
+    },
+    "what_to_do": [
+      "Collect eggs every day.",
+      "Keep her off the nest for several days. A wire-floored cage usually breaks broodiness in 2 to 3 days.",
+      "Or let her hatch fertile eggs."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-broodiness",
+    "type": "stop-reason",
+    "name": "Broodiness",
+    "summary": "A broody hen stops laying so she can sit on eggs, even when there are none. Left alone, she can stay broody for 3 to 4 weeks. Cochins and Silkies go broody often, Leghorns rarely.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Laying and Reproduction in Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Add morning light on a timer to reach about 14 hours, or accept a winter break."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-daylight",
+    "type": "stop-reason",
+    "name": "Short days",
+    "summary": "The most common reason for winter slowdowns. Shorter days switch off laying.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How Many Eggs Can a Hen Lay in One Day?",
+        "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Feed a layer ration free choice.",
+      "Offer oyster shell in a separate dish.",
+      "Limit treats to what they clean up in about 15 minutes, or none.",
+      "Do not feed starter or grower to layers."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-diet",
+    "type": "stop-reason",
+    "name": "Poor diet",
+    "summary": "Too little protein, energy or calcium cuts production. Too much scratch, scraps or garden waste unbalances a good feed.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Isolate sick birds.",
+      "If several birds show the same signs, contact a vet, your extension office or a state diagnostic lab."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-illness",
+    "type": "stop-reason",
+    "name": "Illness",
+    "summary": "A sudden drop in eggs is often the first sign of disease. Other signs are low energy, lameness, coughing and a dull look.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Keep them on a complete feed with good protein.",
+      "Cut treats and scratch.",
+      "Handle them as little as possible, since new feather shafts are tender.",
+      "Wait. Laying returns when the molt ends and days lengthen."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-molting",
+    "type": "stop-reason",
+    "name": "Molting",
+    "summary": "Hens drop and regrow their feathers, usually in autumn as days shorten. Energy goes into feathers, so laying stops until the molt is done.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Molting of laying hens",
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/molting-laying-hens",
+        "publisher": "Mississippi State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Laying and Reproduction in Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Check under the wings and around the vent for mites and lice, including at night on the roosts.",
+      "Get a proper diagnosis before treating worms.",
+      "Keep bedding clean and dry."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-parasites",
+    "type": "stop-reason",
+    "name": "Parasites",
+    "summary": "Heavy mites can make hens anaemic, and heavy worm loads damage the gut. Both lower laying.",
+    "sources": [
+      {
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Growing Chickens",
+        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Lock birds in a secure coop every night.",
+      "Bury fencing at least 6 to 12 inches.",
+      "Cover the run against hawks and climbers.",
+      "Check for missing eggs, which can mean a snake, rat or egg-eating hen."
+    ],
+    "conflict": true,
+    "conflict_notes": "Fence depth: Cornell says at least 6 inches, Merck at least 12 inches.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-predators",
+    "type": "stop-reason",
+    "name": "Predators",
+    "summary": "Predators kill birds and take eggs, and even their presence at night stresses hens and cuts laying. Predation is the most common cause of death in small flocks (Cornell).",
+    "sources": [
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Backyard Chickens",
+        "url": "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
+        "publisher": "Cornell Cooperative Extension (Washington County)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "values": {},
+    "what_to_do": [
+      "Keep feed and water always available.",
+      "Avoid needless handling and changes.",
+      "Give shade and ventilation in heat.",
+      "Add new birds with care."
+    ],
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "stop-reason-stress",
+    "type": "stop-reason",
+    "name": "Stress",
+    "summary": "Moving, handling, fright, heat, cold, a change in the pecking order, or running out of feed or water can stop laying for days or weeks.",
+    "sources": [
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      }
+    ]
+  }
+]

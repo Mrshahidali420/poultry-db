@@ -1,0 +1,24 @@
+{
+  "id": "los-angeles-ca", "city": "Los Angeles", "state": "CA", "population": 3869089,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Hens are allowed in residential areas; the city code sets no numeric hen limit, but coops must meet Animal Services distance rules and not create a nuisance.",
+  "roosters_allowed": "conditional",
+  "permit_required": "unknown",
+  "permit_notes": "No hen permit appears in the LAMC animal sections found. A permit for up to three pet roosters existed only for applications made before Dec 31, 2009.",
+  "setback_ft_from_homes": 35,
+  "setback_notes": "LAMC 53.59 leaves coop distances to Department of Animal Services rules. The widely reported rule (PBS SoCal and others, not verified against the Department's rule text) is 20 ft from the owner's home, 35 ft from neighboring homes, and 100 ft for roosters.",
+  "coop_rules": "Coops must meet Animal Services distance rules and be kept free of nuisance and health hazards.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "LAMC 53.71 limits each lot to one rooster, with exceptions for permitted businesses, schools, exhibitions and filming. Zoning and distance rules still apply.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "LAMC Sec. 53.59, Sec. 53.71",
+  "sources": [
+    { "name": "LAMC Sec. 53.71 Roosters, Limit", "url": "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-213406", "type": "municipal-code" },
+    { "name": "LAMC Sec. 53.59 Animals, Distances, Separation from Dwelling", "url": "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-137405", "type": "municipal-code" },
+    { "name": "PBS SoCal: Chicken in the City, Is Yours Up to Code?", "url": "https://www.pbssocal.org/home-garden/chicken-in-the-city-is-yours-up-to-code", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read LAMC 53.71 via Internet Archive copy; LAMC 53.59 only via search extract, which delegates distances to Animal Services rules. The 20/35/100 ft distances come from secondary sources (PBS SoCal, 2013) and were not confirmed in the Department's rules; permit status unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

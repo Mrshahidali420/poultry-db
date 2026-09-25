@@ -1,0 +1,22 @@
+{
+  "id": "santa-clarita-ca", "city": "Santa Clarita", "state": "CA", "population": 228430,
+  "allowed": "conditional",
+  "max_hens": 3,
+  "hens_rule_text": "no poultry on lots under 15,000 sq ft; 3 on lots of 15,000 to 20,000 sq ft, rising to 7 on lots up to 1 acre and 8 per acre above that (shared with goats, sheep and similar small animals)",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit within the lot-size limits. A minor use permit is required to keep more small animals than the table allows, which is the only route for poultry on lots under 15,000 sq ft.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Coops and other animal structures must be at least 50 ft from any street or highway and from any building used for human habitation, in addition to LA County Health Department rules.",
+  "coop_rules": "Birds must be caged or housed in an enclosure treated as an accessory structure under the zone's standards; kept free of litter and excrement; noise at the property line must stay within the zone's ambient level.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters allowed only on lots over 1 acre, one rooster per acre. Egg sales are allowed where the animals are permitted. FFA and 4-H members may keep one extra animal.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 17.62.030",
+  "sources": [
+    { "name": "Santa Clarita Unified Development Code 17.62.030, Keeping of Small Animals", "url": "https://www.codepublishing.com/CA/SantaClarita/html/SantaClarita17/SantaClarita1762.html", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full text of Chapter 17.62 via an Internet Archive copy from November 2023 (Ord. 13-8), since Code Publishing blocks direct access. An amendment after November 2023 cannot be ruled out; web search was unavailable to check for 2024 to 2026 changes.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

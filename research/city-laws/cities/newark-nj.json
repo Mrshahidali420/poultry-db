@@ -1,0 +1,22 @@
+{
+  "id": "newark-nj", "city": "Newark", "state": "NJ", "population": 323808,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Hens allowed only with an annual city permit from the Department of Health and Community Wellness; the code sets no numeric cap. Not allowed at multi-family houses or their yards.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "Permit from the Director of Health and Community Wellness, $10 fee, expires every December 31, revocable for cause after notice and hearing. Some secondary sites mention neighbor consent and a 25-hen limit; neither appears in the code article.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "No part of the coop or runway may be closer than 20 feet to the doors or windows of any premises occupied by people, for dwelling or business.",
+  "coop_rules": "Birds must be confined in a house or coop with an enclosed runway, no running at large. Coop floor must be cement or other watertight material; runway unfloored. Clean at least weekly. No fowl inside any dwelling.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Banned outright in multi-family houses and multi-family house yards. Zoning code not separately checked.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Newark Code Title VI, Ch. 6:2, Art. 4, Secs. 6:2-28 to 6:2-37",
+  "sources": [
+    { "name": "Newark Code, Article 4 Rabbits and Fowl (eCode360)", "url": "https://ecode360.com/36624296", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full Article 4 text via an Internet Archive copy (April 2026) of the eCode360 page. The code has no hen count cap; the 25-hen figure and neighbor-consent requirement seen on secondary sites could not be confirmed and may be permit-office practice.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

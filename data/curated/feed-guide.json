@@ -1,0 +1,793 @@
+[
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "all-flock",
+    "name": "All-flock (all-purpose) feed",
+    "category": "complete-feed",
+    "what_it_is": "One feed meant for every bird in a mixed flock, of all ages, from hatch through laying.",
+    "age_range": {
+      "label": "All ages",
+      "weeks_min": 0,
+      "weeks_max": null
+    },
+    "protein_percent": {
+      "min": 16,
+      "max": 16
+    },
+    "who_should_not_eat": [],
+    "notes": "Laying hens on all-flock feed do not get enough calcium for good shells, so oyster shell must be offered free choice (Oregon State). Poultry Extension suggests it only when a single feed is all you can get.",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": true,
+    "conflict_notes": "Penn State gives 18 to 24% for meat chicks; Oregon State says meat-bird starter is generally about 22%.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "broiler-starter",
+    "name": "Broiler (meat bird) starter",
+    "category": "complete-feed",
+    "what_it_is": "A high-protein feed for fast-growing meat chickens such as Cornish Cross.",
+    "age_range": {
+      "label": "Hatch to about 3 weeks, then broiler grower or finisher",
+      "weeks_min": 0,
+      "weeks_max": 3
+    },
+    "protein_percent": {
+      "min": 18,
+      "max": 24
+    },
+    "who_should_not_eat": [
+      "Young layer-type chicks: not needed and not desirable (Oregon State).",
+      "Laying hens: poor eggshell quality (Maryland, Alabama)."
+    ],
+    "notes": "Commercial broiler strains eat about 5 lb of feed to 6 weeks and 8 to 9 lb to 8 weeks (Minnesota). Cornish Cross can overeat, so many keepers feed 12 hours on and 12 off after the first week (Meyer).",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising chickens for meat",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding Cornish Cross Broilers 101: How to raise from hatch to processing",
+        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360055407371-Brooding-Cornish-Cross-Broilers-101-How-to-raise-from-hatch-to-processing",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": {
+      "min": 1.2,
+      "max": 1.2
+    },
+    "daily_amount_per_bird": {
+      "grams_min": 22,
+      "grams_max": 65,
+      "lb_min": 0.05,
+      "lb_max": 0.14,
+      "basis": "Average per chick per day across the first 6 weeks. Intake starts tiny and rises every week. Poultry Extension gives 20 to 29 lb per 10 chicks for 0 to 6 weeks, Alabama Extension 200 lb per 100 chicks, My Pet Chicken about 1 lb per chick per week."
+    },
+    "cost_notes": null,
+    "conflict": true,
+    "conflict_notes": "Protein: Penn State and Oregon State 18 to 20%; Poultry Extension, Alabama Extension and My Pet Chicken 20 to 22%. Amount: extension figures work out to about 2 to 3 lb per chick for 6 weeks, My Pet Chicken to about 6 lb.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "chick-starter",
+    "name": "Chick starter",
+    "category": "complete-feed",
+    "what_it_is": "A complete feed for newly hatched chicks, higher in protein for fast growth. Usually sold as crumbles or finely milled mash.",
+    "age_range": {
+      "label": "Hatch to about 6 weeks (Minnesota: 6 to 8 weeks)",
+      "weeks_min": 0,
+      "weeks_max": 8
+    },
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "who_should_not_eat": [
+      "Laying hens: starter is too low in calcium for shells, and medicated starter can leave drug residues in eggs (Oregon State)."
+    ],
+    "notes": "Feed free choice. The calcium figure is the requirement for growing chickens (about 1.2%), not a label value.",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": true,
+    "conflict_notes": "Oregon State says 14 to 15% protein from about 14 weeks; Alabama Extension says 14 to 16% from 14 to 20 weeks; Maryland starts developer at 13 weeks.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "developer",
+    "name": "Developer (pullet developer)",
+    "category": "complete-feed",
+    "what_it_is": "A late-growth feed, a bit lower in protein than grower, that prepares pullets for laying. Some versions carry a little more calcium for the first eggs.",
+    "age_range": {
+      "label": "About 14 to 20 weeks",
+      "weeks_min": 13,
+      "weeks_max": 20
+    },
+    "protein_percent": {
+      "min": 14,
+      "max": 16
+    },
+    "who_should_not_eat": [
+      "Young chicks: too little protein for early growth."
+    ],
+    "notes": "Alabama Extension notes that switching to developer as early as 8 to 10 weeks tends to delay the first egg by 1 or 2 weeks, but eggs are usually larger.",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": "Pellets and crumbles cost more than mash because of the extra processing (Maryland).",
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "feed-form-crumble-pellet-mash",
+    "name": "Crumble, pellet and mash",
+    "category": "feed-form",
+    "what_it_is": "The same complete feed in three textures. Mash is finely ground loose feed. Pellets are pressed mash. Crumbles are broken pellets, the usual size for chicks.",
+    "age_range": {
+      "label": "Mash or crumble for chicks, any form for adults",
+      "weeks_min": 0,
+      "weeks_max": null
+    },
+    "protein_percent": null,
+    "who_should_not_eat": [],
+    "notes": "In pellets and crumbles every bite is complete, so birds cannot pick out their favourite bits, and there is less waste (Maryland). Minnesota and Maryland both describe starter and laying rations as mash.",
+    "sources": [
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "finisher",
+    "name": "Broiler finisher",
+    "category": "complete-feed",
+    "what_it_is": "A feed for the last weeks of growth before meat birds are processed.",
+    "age_range": {
+      "label": "About 3 to 6 weeks, then a withdrawal feed to market (Maryland)",
+      "weeks_min": 3,
+      "weeks_max": 8
+    },
+    "protein_percent": null,
+    "who_should_not_eat": [
+      "Laying hens and growing pullets: made for meat birds, not for layers."
+    ],
+    "notes": "Protein was not stated by the sources checked, so check the tag. If a finisher contains a coccidiostat, read the label for the withdrawal time before processing (Maryland). Cornish Cross reach processing weight in about 6 to 8 weeks, slower breeds in 10 to 12 (Minnesota).",
+    "sources": [
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising chickens for meat",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "grit-insoluble",
+    "name": "Insoluble grit (chick, pullet and hen size)",
+    "category": "supplement",
+    "what_it_is": "Small hard stones, usually granite, that sit in the gizzard and grind food, since chickens have no teeth.",
+    "age_range": {
+      "label": "Chick grit once chicks eat anything besides starter, pullet size from about 6 weeks, hen size for adults",
+      "weeks_min": 0,
+      "weeks_max": null
+    },
+    "protein_percent": null,
+    "who_should_not_eat": [],
+    "notes": "Not needed if birds eat only crumbles or pellets. Needed as soon as they eat grains, greens, bugs or kitchen scraps. Free-range birds find some grit, but less in snow. Fine gravel works. Offer it free choice in its own dish. Oyster shell cannot replace it because it is too soft.",
+    "sources": [
+      {
+        "name": "Feeding Grit and Oyster Shell to Chickens",
+        "url": "https://nutrenaworld.com/blog/poultry/feeding-grit-and-oyster-shell-to-chickens/",
+        "publisher": "Nutrena (Cargill)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Raising layer chicks and pullets",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": {
+      "min": 1.2,
+      "max": 1.2
+    },
+    "daily_amount_per_bird": {
+      "grams_min": 55,
+      "grams_max": 70,
+      "lb_min": 0.12,
+      "lb_max": 0.15,
+      "basis": "Poultry Extension: 120 to 130 lb per 10 pullets from 6 to 20 weeks (about 55 to 60 g a day each). My Pet Chicken: a little over 1 lb per bird per week (about 65 g a day)."
+    },
+    "cost_notes": null,
+    "conflict": true,
+    "conflict_notes": "Protein: Oregon State 15 to 16%, Poultry Extension and My Pet Chicken 14 to 16%, Alabama Extension 16 to 18%, Maryland 15%.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "grower",
+    "name": "Grower (pullet grower)",
+    "category": "complete-feed",
+    "what_it_is": "A lower-protein feed that keeps growing pullets developing steadily without pushing them into lay too early.",
+    "age_range": {
+      "label": "About 6 weeks to 17 to 20 weeks",
+      "weeks_min": 6,
+      "weeks_max": 20
+    },
+    "protein_percent": {
+      "min": 14,
+      "max": 18
+    },
+    "who_should_not_eat": [
+      "Laying hens: nutrient levels are wrong for egg production and shells suffer."
+    ],
+    "notes": "Grower and developer are close to interchangeable (Oregon State).",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": {
+      "min": 2.5,
+      "max": 4
+    },
+    "daily_amount_per_bird": {
+      "grams_min": 100,
+      "grams_max": 156,
+      "lb_min": 0.22,
+      "lb_max": 0.34,
+      "basis": "Alabama Extension: 100 to 150 g (about 0.25 lb) a day. My Pet Chicken: 1.5 to 1.75 lb a week (about 97 to 113 g a day). Poultry Extension: 18 to 24 lb per 10 hens a week (about 117 to 156 g a day)."
+    },
+    "cost_notes": "Feed is about 70% of the cost of raising a chicken, and small flocks buying 50 to 100 lb at a time pay more per pound than farms (Maryland). At 0.25 lb a day, 10 hens use a 50 lb bag in about 20 days (Alabama).",
+    "conflict": true,
+    "conflict_notes": "Protein: Oregon State about 16%, Poultry Extension 15 to 18%, Virginia Tech 16 to 18%, Alabama about 18%. Calcium: Poultry Extension 2.5 to 3.5%, Oregon State 3 to 4%, Merck 3.5 to 6% for layer diets. Roosters on layer feed: see who_should_not_eat.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "layer",
+    "name": "Layer feed",
+    "category": "complete-feed",
+    "what_it_is": "A complete feed for hens that are laying, with extra calcium for strong eggshells.",
+    "age_range": {
+      "label": "First egg or about 18 to 20 weeks onward",
+      "weeks_min": 18,
+      "weeks_max": null
+    },
+    "protein_percent": {
+      "min": 15,
+      "max": 18
+    },
+    "who_should_not_eat": [
+      "Chicks and growing pullets: the calcium can cause lasting kidney damage, poor bone growth and death (Merck, Penn State, Maryland, Alabama).",
+      "Roosters and non-laying adults: sources differ. My Pet Chicken says mature roosters and non-laying hens can stay on layer feed. The extension warnings are about growing birds. An all-flock feed with oyster shell on the side is a common middle path for mixed flocks."
+    ],
+    "notes": "Feed free choice with oyster shell in a separate dish. Feed older than about two months loses quality.",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "medicated-chick-starter",
+    "name": "Medicated chick starter",
+    "category": "feed-option",
+    "what_it_is": "Chick starter with a coccidiostat, most often amprolium, that helps prevent coccidiosis. Amprolium is not an antibiotic and has no egg or meat withdrawal period.",
+    "age_range": {
+      "label": "Hatch to the end of the starter period",
+      "weeks_min": 0,
+      "weeks_max": 8
+    },
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "who_should_not_eat": [
+      "Chicks vaccinated for coccidiosis, for 28 days after vaccination.",
+      "Ducks, geese and other waterfowl (Penn State).",
+      "Laying hens: medications in starter can leave residues in eggs (Oregon State)."
+    ],
+    "notes": "It only helps prevent coccidiosis and is not a cure once birds are sick. Worth considering for big batches, warm humid areas or a coop with a history of coccidiosis. Penn State advises a coccidiostat for land fowl for the first 4 weeks.",
+    "sources": [
+      {
+        "name": "Medicated Chick Starter Facts",
+        "url": "https://nutrenaworld.com/medicated-chick-starter-facts/",
+        "publisher": "Nutrena (Cargill)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Coccidiosis in Chickens: Symptoms, Prevention and Treatment",
+        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "non-medicated-chick-starter",
+    "name": "Non-medicated chick starter",
+    "category": "feed-option",
+    "what_it_is": "Chick starter with no coccidiostat.",
+    "age_range": {
+      "label": "Hatch to about 6 weeks",
+      "weeks_min": 0,
+      "weeks_max": 8
+    },
+    "protein_percent": {
+      "min": 18,
+      "max": 22
+    },
+    "who_should_not_eat": [],
+    "notes": "The right choice for coccidiosis-vaccinated chicks and for waterfowl. Without the drug, dry litter and clean waterers matter even more.",
+    "sources": [
+      {
+        "name": "Medicated Chick Starter Facts",
+        "url": "https://nutrenaworld.com/medicated-chick-starter-facts/",
+        "publisher": "Nutrena (Cargill)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Coccidiosis in Chickens: Symptoms, Prevention and Treatment",
+        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
+        "publisher": "Meyer Hatchery",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "oyster-shell",
+    "name": "Oyster shell",
+    "category": "supplement",
+    "what_it_is": "Crushed oyster shell, a slow-release calcium supplement for laying hens. It is not grit.",
+    "age_range": {
+      "label": "Laying hens",
+      "weeks_min": 18,
+      "weeks_max": null
+    },
+    "protein_percent": null,
+    "who_should_not_eat": [
+      "Chicks and growing pullets: they need far less calcium and too much harms their kidneys.",
+      "Meat birds such as Cornish Cross: they do not need it and may overeat it (Nutrena)."
+    ],
+    "notes": "Offer free choice in a separate dish so each hen takes what she needs. Thin, cracked or sandpaper-rough shells are a sign hens need it. Merck notes the pieces should be coarse so calcium is released slowly in the gizzard. Essential if hens eat all-flock feed.",
+    "sources": [
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Grit and Oyster Shell to Chickens",
+        "url": "https://nutrenaworld.com/blog/poultry/feeding-grit-and-oyster-shell-to-chickens/",
+        "publisher": "Nutrena (Cargill)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Common Management-Related Problems in Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/common-management-related-problems-in-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": {
+      "grams_min": 10,
+      "grams_max": 15,
+      "lb_min": 0.02,
+      "lb_max": 0.03,
+      "basis": "Derived: about 10% of a laying hen's 100 to 150 g daily intake (Maryland 10% rule, Alabama intake figure)."
+    },
+    "cost_notes": null,
+    "conflict": true,
+    "conflict_notes": "How much: Maryland says about 10% of daily intake; Poultry Extension says what they finish in 15 to 20 minutes; Oregon State says 15 minutes or none; Alabama says hens should clean it up within 20 to 30 minutes.",
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "scratch-grains",
+    "name": "Scratch grains",
+    "category": "supplement",
+    "what_it_is": "Cracked, rolled or whole grains such as corn, barley, oats or wheat. Low in protein and high in energy. A treat, not a feed.",
+    "age_range": {
+      "label": "Adults (and older pullets) as a treat",
+      "weeks_min": null,
+      "weeks_max": null
+    },
+    "protein_percent": null,
+    "who_should_not_eat": [
+      "Chicks on starter only: it dilutes their feed and needs grit to digest."
+    ],
+    "notes": "Feed it in the afternoon after they have eaten their complete feed. Always provide insoluble grit when feeding grain. Too much scratch unbalances the diet and lowers egg production.",
+    "sources": [
+      {
+        "name": "Feeding the Flock",
+        "url": "https://extension.umd.edu/resource/feeding-flock",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management of Backyard Poultry",
+        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      }
+    ]
+  },
+  {
+    "calcium_percent": null,
+    "daily_amount_per_bird": null,
+    "cost_notes": null,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "medium",
+    "needs_review": true,
+    "id": "starter-grower",
+    "name": "Starter/grower (one feed from hatch to lay)",
+    "category": "complete-feed",
+    "what_it_is": "A single crumble fed from hatch until laying starts, used instead of separate starter and grower feeds. Some brands skip grower and go straight from starter to layer.",
+    "age_range": {
+      "label": "Hatch to first egg",
+      "weeks_min": 0,
+      "weeks_max": 20
+    },
+    "protein_percent": {
+      "min": 18,
+      "max": 20
+    },
+    "who_should_not_eat": [
+      "Laying hens as their main feed: not enough calcium for shells."
+    ],
+    "notes": "Example label: an 18% protein non-medicated starter grower crumble sold as the sole diet from hatch (Nutrena). Switch to layer at the first egg.",
+    "sources": [
+      {
+        "name": "Medicated Chick Starter Facts",
+        "url": "https://nutrenaworld.com/medicated-chick-starter-facts/",
+        "publisher": "Nutrena (Cargill)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "What kind and how much feed should I give my flock at each stage of development?",
+        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page"
+      },
+      {
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      }
+    ]
+  }
+]

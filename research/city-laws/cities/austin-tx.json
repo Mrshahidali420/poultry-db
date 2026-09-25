@@ -1,0 +1,25 @@
+{
+  "id": "austin-tx", "city": "Austin", "state": "TX", "population": 1002632,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Chickens allowed on residential lots with no numeric cap in the city code; the enclosure must sit at least 30 ft from a neighbor's home or business.",
+  "roosters_allowed": "yes",
+  "permit_required": "no",
+  "permit_notes": "No city permit found for keeping backyard fowl; the rules are enclosure and setback standards in City Code Chapter 3-2.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Enclosure at least 30 ft from an adjacent residence or business structure (not the owner's own); 50 ft if the fowl or enclosure creates a health hazard. Reduced from 50 ft by Ordinance 20221013-030 (October 2022).",
+  "coop_rules": "Fowl kept in an enclosure with four secure sides and overhead cover (a coop, pen or crate qualifies), sized for the birds and kept sanitary; it may not be taller than the fence height limit on the property.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Land Development Code Sec. 25-2-863 lets urban farms raise and process fowl (one bird per tenth of an acre per week, 50 ft from homes, out of public view); whether this extends to ordinary home lots was not confirmed.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 3-2-16",
+  "sources": [
+    { "name": "City of Austin ordinance amending Sec. 3-2-16 (Enclosures for Fowl), council backup", "url": "https://services.austintexas.gov/edims/document.cfm?id=394337", "type": "city-website" },
+    { "name": "Austin Public Health fowl enclosure amendment summary (2022)", "url": "https://services.austintexas.gov/edims/document.cfm?id=382432", "type": "city-website" },
+    { "name": "Austin Code of Ordinances, Title 3 Animal Regulation", "url": "https://library.municode.com/tx/austin/codes/code_of_ordinances?nodeId=TIT3ANRE", "type": "municipal-code" },
+    { "name": "Austin Monitor, Council opts to make Austin a friendlier place for backyard chickens (Oct 2022)", "url": "https://austinmonitor.com/stories/2022/10/council-opts-to-make-austin-a-friendlier-place-for-backyard-chickens/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the full text of the 2022 ordinance replacing Sec. 3-2-16 from the city's council document system; the codified municode page was not reachable. No hen cap or rooster ban turned up in the code extracts or city documents, so roosters look allowed like hens but remain subject to the noisy animal rules; slaughter on ordinary home lots is unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}
