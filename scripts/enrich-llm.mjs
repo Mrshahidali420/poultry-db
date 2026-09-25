@@ -15,7 +15,7 @@
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { callGithubModelsJson, RateLimitError, SchemaValidationError } from "./lib/llm.mjs";
+import { callGithubModelsJson, RateLimitError, SchemaValidationError, ServiceUnavailableError } from "./lib/llm.mjs";
 import { loadQueueFile, saveQueueFile, getIdsByStatus, markItem, ensureQueueItems } from "./lib/state.mjs";
 import { fetchWikitext, articlePlainText } from "./lib/wiki.mjs";
 import {
@@ -182,6 +182,13 @@ async function processQueue({ entityType, queueName, sourceFile, extraFile, sche
     } catch (err) {
       if (err instanceof RateLimitError) {
         console.log(`[${queueName}] rate limited, stopping batch cleanly.`);
+        stoppedOnRateLimit = true;
+        break;
+      }
+      if (err instanceof ServiceUnavailableError) {
+        // Loud in the Actions UI, but the item stays pending and the rest of
+        // the pipeline's data still gets committed.
+        console.log(`::error title=LLM enrichment not running::${err.message}. No items were marked; switch the provider in scripts/lib/llm.mjs.`);
         stoppedOnRateLimit = true;
         break;
       }

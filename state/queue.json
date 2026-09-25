@@ -2,212 +2,212 @@
   "breeds_extra": {
     "alsacienne": {
       "id": "alsacienne",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:16:48.699Z"
     },
     "altsteirer": {
       "id": "altsteirer",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:16:53.820Z"
     },
     "amarela": {
       "id": "amarela",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:16:58.926Z"
     },
     "ameraucana": {
       "id": "ameraucana",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:04.046Z"
     },
     "american-game": {
       "id": "american-game",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:09.142Z"
     },
     "ancona-chicken": {
       "id": "ancona-chicken",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:14.234Z"
     },
     "appenzeller-barthuhn": {
       "id": "appenzeller-barthuhn",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:19.374Z"
     },
     "appenzeller-spitzhauben": {
       "id": "appenzeller-spitzhauben",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:24.809Z"
     },
     "araucana": {
       "id": "araucana",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:29.955Z"
     },
     "ardennaise": {
       "id": "ardennaise",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:35.750Z"
     },
     "asil-chicken": {
       "id": "asil-chicken",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:40.888Z"
     },
     "augsburger": {
       "id": "augsburger",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:46.024Z"
     },
     "australian-game": {
       "id": "australian-game",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:51.166Z"
     },
     "australian-langshan": {
       "id": "australian-langshan",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:17:56.301Z"
     },
     "australian-pit-game-fowl": {
       "id": "australian-pit-game-fowl",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:01.458Z"
     },
     "australorp": {
       "id": "australorp",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:06.556Z"
     },
     "ayam-cemani": {
       "id": "ayam-cemani",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:11.707Z"
     },
     "ayam-kampong": {
       "id": "ayam-kampong",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:16.850Z"
     },
     "ayam-kedu": {
       "id": "ayam-kedu",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:21.959Z"
     },
     "ayam-ketawa": {
       "id": "ayam-ketawa",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:27.047Z"
     },
     "barbu-danvers": {
       "id": "barbu-danvers",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:32.189Z"
     },
     "barbu-de-boitsfort": {
       "id": "barbu-de-boitsfort",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:37.935Z"
     },
     "barbu-de-grubbe": {
       "id": "barbu-de-grubbe",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:43.031Z"
     },
     "barbu-de-watermael": {
       "id": "barbu-de-watermael",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:48.225Z"
     },
     "barbu-deverberg": {
       "id": "barbu-deverberg",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:53.334Z"
     },
     "barbu-duccle": {
       "id": "barbu-duccle",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:18:58.441Z"
     },
     "barnevelder": {
       "id": "barnevelder",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:03.590Z"
     },
     "bassette-li-geoise": {
       "id": "bassette-li-geoise",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:08.679Z"
     },
     "belgian-bantam": {
       "id": "belgian-bantam",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:14.587Z"
     },
     "bergische-kr-her": {
       "id": "bergische-kr-her",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:19.736Z"
     },
     "bergische-schlotterkamm": {
@@ -1313,212 +1313,212 @@
   "diseases_extra": {
     "1984-rajneeshee-bioterror-attack": {
       "id": "1984-rajneeshee-bioterror-attack",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:24.882Z"
     },
     "2008-united-states-salmonellosis-outbreak": {
       "id": "2008-united-states-salmonellosis-outbreak",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:30.048Z"
     },
     "2009-peanut-corporation-of-america-recall": {
       "id": "2009-peanut-corporation-of-america-recall",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:35.205Z"
     },
     "2012-outbreak-of-salmonella": {
       "id": "2012-outbreak-of-salmonella",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:40.349Z"
     },
     "2018-american-salmonella-outbreak": {
       "id": "2018-american-salmonella-outbreak",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:45.481Z"
     },
     "airsacculitis": {
       "id": "airsacculitis",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:50.634Z"
     },
     "animal-health-and-welfare-act-1984": {
       "id": "animal-health-and-welfare-act-1984",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:19:55.781Z"
     },
     "ascaridia-galli": {
       "id": "ascaridia-galli",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:00.911Z"
     },
     "aspergillosis": {
       "id": "aspergillosis",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:06.024Z"
     },
     "avastrovirus-2": {
       "id": "avastrovirus-2",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:11.120Z"
     },
     "avian-adenovirus": {
       "id": "avian-adenovirus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:16.285Z"
     },
     "avian-infectious-bronchitis": {
       "id": "avian-infectious-bronchitis",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:21.393Z"
     },
     "avian-influenza": {
       "id": "avian-influenza",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:26.527Z"
     },
     "avian-metaavulavirus-2": {
       "id": "avian-metaavulavirus-2",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:31.646Z"
     },
     "avian-orthoreovirus": {
       "id": "avian-orthoreovirus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:36.751Z"
     },
     "avian-sarcoma-leukosis-virus": {
       "id": "avian-sarcoma-leukosis-virus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:41.857Z"
     },
     "avian-veterinarian": {
       "id": "avian-veterinarian",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:46.969Z"
     },
     "borrelia-anserina": {
       "id": "borrelia-anserina",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:52.058Z"
     },
     "botulism": {
       "id": "botulism",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:20:57.199Z"
     },
     "campylobacteriosis": {
       "id": "campylobacteriosis",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:02.323Z"
     },
     "chicken-anemia-virus": {
       "id": "chicken-anemia-virus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:07.509Z"
     },
     "coccidiosis": {
       "id": "coccidiosis",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:12.615Z"
     },
     "dermanyssus-gallinae": {
       "id": "dermanyssus-gallinae",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:17.739Z"
     },
     "derzsys-disease": {
       "id": "derzsys-disease",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:22.880Z"
     },
     "duck-circovirus": {
       "id": "duck-circovirus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:28.030Z"
     },
     "duck-hepatitis-b-virus": {
       "id": "duck-hepatitis-b-virus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:33.208Z"
     },
     "duck-hepatitis-virus": {
       "id": "duck-hepatitis-virus",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:38.332Z"
     },
     "duck-plague": {
       "id": "duck-plague",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:43.438Z"
     },
     "egg-binding": {
       "id": "egg-binding",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:48.582Z"
     },
     "egg-drop-syndrome": {
       "id": "egg-drop-syndrome",
-      "status": "error",
-      "attempts": 1,
-      "last_error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
       "updated_at": "2026-09-25T12:21:53.718Z"
     },
     "eimeria": {

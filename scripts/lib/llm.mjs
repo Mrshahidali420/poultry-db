@@ -12,6 +12,19 @@ export class RateLimitError extends Error {
   }
 }
 
+/**
+ * The service itself is not answering like a chat API (e.g. GitHub Models,
+ * retired 30 Jul 2026, now returns HTTP 200 text/plain "OK" to everything).
+ * Callers must stop the whole batch and leave item statuses alone: marking
+ * items "error" here would burn the queue without ever calling a model.
+ */
+export class ServiceUnavailableError extends Error {
+  constructor(message) {
+    super(message);
+    this.name = "ServiceUnavailableError";
+  }
+}
+
 export class SchemaValidationError extends Error {
   constructor(message, raw) {
     super(message);
@@ -53,8 +66,20 @@ export async function callGithubModelsJson({ token, systemPrompt, userPrompt }) 
     throw new Error(`GitHub Models HTTP ${response.status}: ${text.slice(0, 300)}`);
   }
 
-  const json = await response.json();
-  const content = json.choices?.[0]?.message?.content;
+  const body = await response.text();
+  let json;
+  try {
+    json = JSON.parse(body);
+  } catch {
+    throw new ServiceUnavailableError(
+      `Inference endpoint returned HTTP ${response.status} with a non-JSON body ` +
+      `(${JSON.stringify(body.slice(0, 40))}); the service is not responding as a chat API`
+    );
+  }
+  if (!Array.isArray(json.choices)) {
+    throw new ServiceUnavailableError(`Inference endpoint returned JSON with no "choices" array`);
+  }
+  const content = json.choices[0]?.message?.content;
   if (!content) {
     throw new SchemaValidationError("No content in GitHub Models response", json);
   }
