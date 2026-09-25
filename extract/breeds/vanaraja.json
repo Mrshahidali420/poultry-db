@@ -1,0 +1,11 @@
+{
+ "id": "vanaraja",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 110, "source_url": "https://en.wikipedia.org/wiki/Vanaraja"} ],
+   "hen_weight_kg": [ {"value": 1.1, "source_url": "https://en.wikipedia.org/wiki/Vanaraja"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Vanaraja"} ],
+   "origin_country": [ {"value": "India", "source_url": "https://en.wikipedia.org/wiki/Vanaraja"} ],
+   "notable_traits": [ {"value": ["multi-colour feather pattern", "disease resistant", "grows fast on low feed inputs", "bred for backyard free-range rearing"], "source_url": "https://en.wikipedia.org/wiki/Vanaraja"} ],
+   "history_summary": [ {"value": "Vanaraja is a dual-purpose backyard chicken developed by ICAR's Directorate of Poultry Research in Hyderabad for rural households that scavenge-feed their birds. It grows fast, resists disease, and is now distributed across many Indian states from the Hyderabad center.", "source_url": "https://en.wikipedia.org/wiki/Vanaraja"} ]
+ }
+}

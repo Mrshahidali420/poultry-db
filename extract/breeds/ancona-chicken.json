@@ -1,0 +1,21 @@
+{
+ "id": "ancona-chicken",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 220, "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "eggs_per_year_max": [ {"value": 220, "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "hen_weight_kg": [ {"value": "1.8-2.1", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "rooster_weight_kg": [ {"value": "2.5-2.8", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "comb": [ {"value": "medium, five points, falls to one side in hens; rose comb permitted in UK/US", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "earlobe_color": [ {"value": "white or cream", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "skin_color": [ {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "broodiness": [ {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "varieties": [ {"value": ["black mottled with white", "blue mottled with white (Italy)", "red (Australia)"], "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "origin_country": [ {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "origin_year_or_period": [ {"value": "bred to present type in the UK in the 19th century (exported from Italy 1851)", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "conservation_status": [ {"value": "at risk worldwide (2025, ~800 birds)", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "notable_traits": [ {"value": ["ranges widely and takes flight easily", "typical hardy Mediterranean-type breed"], "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ],
+   "history_summary": [ {"value": "The Ancona originated in central Italy but was refined into its modern form mainly in England after birds were exported there in 1851. By 2025 the breed was considered at risk worldwide, with only a few hundred birds remaining, most of them in Australia.", "source_url": "https://en.wikipedia.org/wiki/Ancona_chicken"} ]
+ }
+}

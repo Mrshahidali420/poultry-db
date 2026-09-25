@@ -1,0 +1,26 @@
+{
+  "id": "barbu-de-boitsfort",
+  "fields": {
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ],
+    "origin_year_or_period": [
+      {"value": "created in the 1990s, first shown in 1997, recognised in Belgium in 2001", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.65, "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.475, "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ],
+    "conservation_status": [
+      {"value": "critical", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ],
+    "notable_traits": [
+      {"value": ["rumpless (no tail or coccygeal bone)", "identical to the Barbu de Watermael except for lacking a tail", "twenty-three colour varieties recognised"], "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ],
+    "history_summary": [
+      {"value": "The Barbu de Boitsfort is the most recent Belgian true bantam breed, created by crossing the Barbu de Watermael with the tail-less Barbu de Grubbe. It was first shown in 1997 and received full recognition in Belgium in 2001.", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Boitsfort"}
+    ]
+  }
+}

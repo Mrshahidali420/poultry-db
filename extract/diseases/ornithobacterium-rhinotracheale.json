@@ -1,0 +1,48 @@
+{
+  "id": "ornithobacterium-rhinotracheale",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["ORT"], "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "species_affected": [
+      { "value": ["poultry (birds of all ages)"], "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "pathogen": [
+      { "value": "Ornithobacterium rhinotracheale bacterium", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "how_it_spreads": [
+      { "value": ["passes directly between birds (horizontal spread)", "can pass from parent birds to offspring (vertical spread)"], "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "key_symptoms": [
+      { "value": ["nasal discharge", "labored breathing", "sneezing and coughing", "slower growth", "abnormal egg production", "joint problems", "occasional digestive or nervous system signs"], "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "mortality": [
+      { "value": "can be fatal; the disease is described as potentially fatal in birds of any age", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "diagnosis": [
+      { "value": "Post-mortem exam typically shows pneumonia, pleuritis and air sac inflammation; confirmed with lab tests such as bacterial culture, PCR, agar gel precipitation, ELISA or serum agglutination.", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "prevention": [
+      { "value": ["vaccination, reported to lower how often the disease occurs"], "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "treatment_overview": [
+      { "value": "Antibiotics can be tried, chosen based on culture and sensitivity testing, but treatment does not always succeed.", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ],
+    "summary": [
+      { "value": "Ornithobacterium rhinotracheale (ORT) is a bacterium found worldwide that causes a potentially fatal respiratory illness in poultry of any age, spreading both bird-to-bird and from parent to chick. It is not known to infect humans, and while vaccination helps prevent it, antibiotic treatment is not always effective.", "source_url": "https://en.wikipedia.org/wiki/Ornithobacterium_rhinotracheale" }
+    ]
+  }
+}

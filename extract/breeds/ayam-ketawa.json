@@ -1,0 +1,20 @@
+{
+  "id": "ayam-ketawa",
+  "fields": {
+    "origin_country": [
+      {"value": "Indonesia", "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa"}
+    ],
+    "origin_year_or_period": [
+      {"value": "originated in Sidenreng Rappang, South Sulawesi", "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa"}
+    ],
+    "notable_traits": [
+      {"value": ["prized for its unusually long crow that resembles human laughter", "originally a status symbol of Buginese royalty", "competes in crowing contests"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa"}
+    ],
+    "history_summary": [
+      {"value": "The Ayam Ketawa, or laughing chicken, comes from Sidenreng Rappang in South Sulawesi, Indonesia, and was originally kept as a status symbol by Buginese royalty. It remains a symbol of courage and social status and is entered into crowing contests judged on the clarity and length of its call.", "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa"}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "polbar",
+  "fields": {
+    "autosexing": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Polbar" }
+    ],
+    "conservation_status": [
+      { "value": "critical, only one conservation flock exists, about 1100 birds at end of 2014", "source_url": "https://en.wikipedia.org/wiki/Polbar" }
+    ],
+    "origin_country": [
+      { "value": "Poland", "source_url": "https://en.wikipedia.org/wiki/Polbar" }
+    ],
+    "origin_year_or_period": [
+      { "value": "created 1946-1954", "source_url": "https://en.wikipedia.org/wiki/Polbar" }
+    ],
+    "notable_traits": [
+      { "value": ["created by crossing the native Polish Green-legged Partridge with the American Plymouth Rock to introduce the barring gene for auto-sexing", "day-old female chicks can be told apart by a longer black eye-stripe", "kept only in a single conservation flock at a university research station in Lublin"], "source_url": "https://en.wikipedia.org/wiki/Polbar" }
+    ],
+    "history_summary": [
+      { "value": "The Polbar was created between 1946 and 1954 by Laura Kaufman, who crossed the Polish Green-legged Partridge with the American Plymouth Rock to give chicks a sex-linked eye-stripe so they could be sexed at hatch. It now survives only as a single conservation flock at a Polish agricultural research station.", "source_url": "https://en.wikipedia.org/wiki/Polbar" }
+    ]
+  }
+}

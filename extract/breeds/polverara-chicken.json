@@ -1,0 +1,47 @@
+{
+  "id": "polverara-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 150, "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "egg_color": [
+      { "value": "whitish", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 1.8, "max": 2.1 }, "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 2.5, "max": 2.8 }, "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "varieties": [
+      { "value": ["black", "white"], "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "comb": [
+      { "value": "small, v-shaped", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "pure white", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "crest": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "low numbers, roughly 1200 breeding birds per a 2007 study; declined to just 7 birds before a 1980s recovery, now protected under the European Community", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Italy (Polverara, Veneto)", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["adapts poorly to confinement, prefers to range and roost in trees", "meat is darker, delicate and well-flavoured", "small crest and beard, larger body than the related Padovana", "referenced in historical texts as far back as the 1500s"], "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Polverara is an old crested breed named for a town in the Padova countryside, described in Italian writing as far back as the 1500s and possibly related to the Padovana breed. It declined through the twentieth century, dropping to just seven birds, before recovery efforts starting in the 1980s and official Italian recognition in 1996.", "source_url": "https://en.wikipedia.org/wiki/Polverara_chicken" }
+    ]
+  }
+}

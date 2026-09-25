@@ -1,0 +1,53 @@
+{
+  "id": "plymouth-rock-chicken",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "egg_color": [
+      { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "temperament": [
+      { "value": ["easy to manage", "docile"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "beginner_friendly": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "varieties": [
+      { "value": ["barred", "blue", "buff", "Columbian", "partridge", "silver-penciled", "white", "black"], "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "comb": [
+      { "value": "single, five points", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "bright red", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "Recovering (Livestock Conservancy, 2023); worldwide population estimated near 24,500 in 2026", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "origin_country": [
+      { "value": "United States (Massachusetts)", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "modern type dates from 1869", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["was the most widely kept chicken breed in the US until around World War Two", "genomic analysis suggests it derives mainly from the Dominique with contributions from the Java and Cochin", "white Plymouth Rock crossed with white Cornish forms the base of most American commercial broiler production"], "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Plymouth Rock traces to 1869 crosses of Black Java hens with a barred, single-combed cock in Massachusetts, though genetic analysis points mainly to Dominique ancestry with input from the Java and Cochin. It became America's most common chicken breed by the early twentieth century and later became foundational to the commercial broiler industry through crosses with white Cornish stock.", "source_url": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken" }
+    ]
+  }
+}

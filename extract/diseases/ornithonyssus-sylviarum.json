@@ -1,0 +1,30 @@
+{
+  "id": "ornithonyssus-sylviarum",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["northern fowl mite"], "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "species_affected": [
+      { "value": ["egg-laying chickens", "wild birds (reported on 72 North American bird species across 26 families)"], "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "pathogen": [
+      { "value": "Ornithonyssus sylviarum, a blood-feeding mite", "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "how_it_spreads": [
+      { "value": ["direct contact with infested birds", "mites hiding in cracks or wild bird nests near coops", "carried by rodents or on equipment"], "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "key_symptoms": [
+      { "value": ["lower egg production", "poorer feed conversion", "anemia", "death in heavy infestations"], "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "mortality": [
+      { "value": "death can occur when infestation levels are high", "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ],
+    "summary": [
+      { "value": "The northern fowl mite is a blood-feeding parasite that mainly targets wild birds but readily becomes established on egg-laying chickens, nesting in and around poultry coops. Heavy infestations cause economic loss through reduced egg production and feed efficiency, and can cause anemia or death in birds." , "source_url": "https://en.wikipedia.org/wiki/Ornithonyssus_sylviarum" }
+    ]
+  }
+}

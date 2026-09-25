@@ -1,0 +1,43 @@
+{
+  "id": "barbu-duccle",
+  "fields": {
+    "rooster_weight_kg": [
+      {"value": 0.7, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"},
+      {"value": 0.74, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.55, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"},
+      {"value": 0.62, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "varieties": [
+      {"value": ["blue", "blue quail", "cuckoo", "millefleur", "porcelain", "lavender", "lavender quail", "black", "black mottled", "silver quail", "quail", "white"], "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "origin_year_or_period": [
+      {"value": "early 20th century", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "conservation_status": [
+      {"value": "Critical", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "feathered_legs": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "notable_traits": [
+      {"value": ["full beard and muff", "low posture", "heavily feathered legs", "true bantam with no large fowl counterpart"], "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ],
+    "history_summary": [
+      {"value": "The breed was created in Uccle, Belgium in the early 1900s, likely by crossing Sabelpoot and Barbu d'Anvers bantams. It spread abroad after 1911 but declined through the World Wars and remains a critically rare breed today.", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle"}
+    ]
+  }
+}

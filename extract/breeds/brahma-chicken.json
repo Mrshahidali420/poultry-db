@@ -1,0 +1,17 @@
+{
+ "id": "brahma-chicken",
+ "fields": {
+   "egg_color": [ {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "egg_size": [ {"value": "large", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "hen_weight_kg": [ {"value": 4.5, "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"}, {"value": 6.0, "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "rooster_weight_kg": [ {"value": 5.5, "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"}, {"value": 8.0, "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "purpose": [ {"value": "meat", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "feathered_legs": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "comb": [ {"value": "pea comb", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "origin_country": [ {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "varieties": [ {"value": ["light", "dark", "buff", "black", "blue", "partridge", "crele", "barred"], "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "notable_traits": [ {"value": ["heavily feathered legs", "distinctive head shape from cross-breeding with Grey Chittagong stock", "one of the largest chicken breeds", "good winter layer"], "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ],
+   "history_summary": [ {"value": "The Brahma developed in the United States in the 1840s from large, heavily-feathered 'Shanghai' birds imported from China, crossed with Grey Chittagong stock from Bengal that gave it its pea comb and head shape. It became the leading American meat breed from the 1850s until around 1930, after early export stock also shaped the dark variety bred in England.", "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken"} ]
+ }
+}

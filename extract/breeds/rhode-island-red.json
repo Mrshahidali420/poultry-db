@@ -1,0 +1,46 @@
+{
+  "id": "rhode-island-red",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"},
+      {"value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 300, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"},
+      {"value": 300, "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "comb": [
+      {"value": "single or rose", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "earlobe_color": [
+      {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "conservation_status": [
+      {"value": "Watch", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "beginner_friendly": [
+      {"value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "broodiness": [
+      {"value": "low", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "origin_country": [
+      {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "origin_year_or_period": [
+      {"value": "late 19th century", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "notable_traits": [
+      {"value": ["deep red to almost black plumage", "yellow legs sometimes with red on toes"], "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ],
+    "history_summary": [
+      {"value": "The Rhode Island Red was developed in Rhode Island and Massachusetts in the late 1800s by crossing Oriental breeds such as the Malay with brown Leghorns from Italy. It was first bred for both meat and eggs, though modern strains focus on egg production.", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_Red"}
+    ]
+  }
+}

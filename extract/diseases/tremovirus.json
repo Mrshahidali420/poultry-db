@@ -1,0 +1,45 @@
+{
+  "id": "tremovirus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Avian encephalomyelitis virus", "epidemic tremor"], "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "species_affected": [
+      {"value": ["chickens (primary host)", "partridge", "turkeys", "quail", "guineafowl", "pheasants"], "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "cause_type": [
+      {"value": "viral", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "pathogen": [
+      {"value": "Avian encephalomyelitis virus (genus Tremovirus, family Picornaviridae)", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "how_it_spreads": [
+      {"value": ["vertical transmission (hen to egg)", "horizontal transmission between birds"], "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "spreads_to_humans": [
+      {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "key_symptoms": [
+      {"value": ["unsteady gait (ataxia)", "tremor of head and neck", "drooping wings", "weakness", "paralysis", "blindness", "temporary drop in egg production in laying hens"], "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "mortality": [
+      {"value": "Mortality ranges from 25-60%, and birds that survive are considered unprofitable.", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "diagnosis": [
+      {"value": "Antibody detection by ELISA or virus neutralisation; definitive diagnosis by histopathology or virus isolation.", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "treatment_overview": [
+      {"value": "No treatment is currently available; chicks that survive infection become immune, and flocks are controlled through vaccination.", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ],
+    "summary": [
+      {"value": "Tremovirus (avian encephalomyelitis virus) mainly affects young chicks under three weeks old, causing tremors, unsteadiness, weakness and sometimes blindness or paralysis, with mortality of 25-60% among affected birds. It also causes a temporary drop in egg production in laying hens, cannot infect humans, has no treatment, and is controlled by flock vaccination.", "source_url": "https://en.wikipedia.org/wiki/Tremovirus"}
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "barbu-de-watermael",
+  "fields": {
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "origin_year_or_period": [
+      {"value": "early 20th century, possibly 1915", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.65, "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.5, "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "varieties": [
+      {"value": ["black", "brown red", "buff Columbia", "cuckoo", "quail", "white"], "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"},
+      {"value": ["black", "blue", "buff", "mottled", "quail", "white"], "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "comb": [
+      {"value": "rose comb with three small spikes", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "crest": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "conservation_status": [
+      {"value": "in danger (2010, Belgium)", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "notable_traits": [
+      {"value": ["one of the smallest of all bantams", "narrow backswept crest", "trilobar beard and muff", "closely related to but smaller than the Barbu d'Anvers", "known as the Watermaal in the United States"], "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ],
+    "history_summary": [
+      {"value": "The Barbu de Watermael was created by Antoine Dresse at Watermael-Boitsfort, Belgium, in the early twentieth century, likely with some contribution from the Barbu d'Anvers. It is among the most recent and among the smallest of the Belgian bantam breeds.", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael"}
+    ]
+  }
+}

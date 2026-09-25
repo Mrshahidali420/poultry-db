@@ -1,0 +1,12 @@
+{
+  "id": "poultry-disease",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "summary": [
+      {
+        "value": "This is an overview index of diseases that affect poultry (chickens, turkeys, ducks, geese and ostriches), grouped into viral, bacterial, parasitic, protozoal and fungal categories. It does not describe any single disease in detail, just lists the named diseases in each category.",
+        "source_url": "https://en.wikipedia.org/wiki/Poultry_disease"
+      }
+    ]
+  }
+}

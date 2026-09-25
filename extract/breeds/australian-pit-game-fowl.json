@@ -1,0 +1,38 @@
+{
+  "id": "australian-pit-game-fowl",
+  "fields": {
+    "origin_country": [
+      {"value": "Australia", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "origin_year_or_period": [
+      {"value": "early 1900s", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "purpose": [
+      {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "comb": [
+      {"value": "single or pea, varies", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "egg_color": [
+      {"value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "temperament": [
+      {"value": ["proud", "aggressive-looking", "alert", "quick"], "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "notable_traits": [
+      {"value": ["colour is not considered important in the standard", "heart-shaped body with well-developed muscles", "bred for health and vigor rather than appearance"], "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ],
+    "history_summary": [
+      {"value": "The breed was developed in Australia in the early 1900s by British soldiers in New South Wales for cockfighting, likely from English Pit Fowl, Malay Game and Asil stock. It was first standardised in 1936, with a bantam version following in 1981.", "source_url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"}
+    ]
+  }
+}

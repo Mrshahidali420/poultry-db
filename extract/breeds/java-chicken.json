@@ -1,0 +1,26 @@
+{
+  "id": "java-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "egg_color": [ { "value": "brown (tinted to dark brown)", "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "egg_size": [ { "value": "large", "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 150, "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 180, "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 4.3, "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "hen_weight_kg": [ { "value": 2.9, "source_url": "https://en.wikipedia.org/wiki/Java_chicken" }, { "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "temperament": [ { "value": ["docile", "friendly", "calm", "amiable with other breeds"], "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "heat_tolerant": [ { "value": "yes", "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "comb": [ { "value": "single, shape suggests pea-combed ancestry", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "varieties": [ { "value": ["black", "mottled", "white", "auburn (extinct)"], "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "lifespan_years": [ { "value": 6.5, "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "conservation_status": [ { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/java-chicken/" } ],
+    "origin_country": [ { "value": "United States", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "origin_year_or_period": [ { "value": "first mentioned in print in 1835", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "notable_traits": [ { "value": ["second-oldest American chicken breed", "foundation breed for the Jersey Giant, Rhode Island Red and Plymouth Rock", "excellent forager"], "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ],
+    "history_summary": [ { "value": "The second-oldest chicken breed developed in the United States, first mentioned in print in 1835 despite its name suggesting Javan origin, and a major foundation breed for the Jersey Giant, Rhode Island Red and Plymouth Rock. It nearly vanished by the late twentieth century but has been revived since the 1990s, notably through conservation work at the Garfield Farm Museum in Illinois, though it remains critically endangered.", "source_url": "https://en.wikipedia.org/wiki/Java_chicken" } ]
+  }
+}

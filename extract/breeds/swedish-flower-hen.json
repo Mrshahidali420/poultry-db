@@ -1,0 +1,14 @@
+{
+ "id": "swedish-flower-hen",
+ "fields": {
+   "egg_color": [ {"value": "cream to pale brown", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "egg_size": [ {"value": "extra-large", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "temperament": [ {"value": ["confident", "not aggressive", "friendly", "independent"], "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "varieties": [ {"value": ["black", "blue", "buff", "red"], "source_url": "https://en.wikipedia.org/wiki/Swedish_Flower_Hen"} ],
+   "origin_country": [ {"value": "Sweden", "source_url": "https://en.wikipedia.org/wiki/Swedish_Flower_Hen"} ],
+   "conservation_status": [ {"value": "at risk/endangered", "source_url": "https://en.wikipedia.org/wiki/Swedish_Flower_Hen"} ],
+   "notable_traits": [ {"value": ["millefleur plumage pattern", "largest of the Swedish breeds, up to 8 lb"], "source_url": "https://en.wikipedia.org/wiki/Swedish_Flower_Hen"} ],
+   "history_summary": [ {"value": "This landrace breed developed naturally in southern Sweden over centuries from the hardiest farmyard birds, without deliberate selection. It nearly died out in the 1970s and was rebuilt from three surviving flocks in the Skane region.", "source_url": "https://en.wikipedia.org/wiki/Swedish_Flower_Hen"} ]
+ }
+}

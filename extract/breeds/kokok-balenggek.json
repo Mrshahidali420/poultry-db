@@ -1,0 +1,10 @@
+{
+  "id": "kokok-balenggek",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Kokok_Balenggek" } ],
+    "comb": [ { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Kokok_Balenggek" } ],
+    "origin_country": [ { "value": "Indonesia (West Sumatra)", "source_url": "https://en.wikipedia.org/wiki/Kokok_Balenggek" } ],
+    "notable_traits": [ { "value": ["hens can crow like roosters, a rare trait", "cocks have unusually long crows lasting up to 60 seconds", "yellow shanks", "golden sickle feathers"], "source_url": "https://en.wikipedia.org/wiki/Kokok_Balenggek" } ],
+    "history_summary": [ { "value": "A little-known Indonesian breed from West Sumatra, notable both for the unusually long rooster crow, which can last up to 60 seconds, and for the rare trait of hens sometimes crowing like roosters.", "source_url": "https://en.wikipedia.org/wiki/Kokok_Balenggek" } ]
+  }
+}

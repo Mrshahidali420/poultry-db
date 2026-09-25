@@ -1,0 +1,44 @@
+{
+  "id": "scots-grey",
+  "fields": {
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 3.2, "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "origin_country": [
+      { "value": "Scotland", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "notable_traits": [
+      { "value": ["tall, upright body", "steel-grey barred plumage with metallic sheen", "white beak and shanks sometimes marked with black"], "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "history_summary": [
+      { "value": "The Scots Grey is a dual-purpose chicken developed in Scotland and bred there for more than two centuries, once known as the Scotch Grey. It was widely kept in Scotland until around 1930 and is now listed as an at-risk native breed.", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ],
+    "conservation_status": [
+      { "value": "Native Poultry Breeds at Risk (Rare Breeds Survival Trust)", "source_url": "https://en.wikipedia.org/wiki/Scots_Grey" }
+    ]
+  }
+}

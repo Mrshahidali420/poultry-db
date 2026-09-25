@@ -1,0 +1,36 @@
+{
+  "id": "2018-american-salmonella-outbreak",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": "humans (via chicken product)", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "cause_type": [
+      {"value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "pathogen": [
+      {"value": "Salmonella Typhimurium", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "how_it_spreads": [
+      {"value": "eating contaminated ready-to-eat chicken salad sold at grocery store delis", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "key_symptoms": [
+      {"value": "diarrhea, fever and abdominal cramps starting 12 to 72 hours after exposure, usually lasting 4 to 7 days", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "mortality": [
+      {"value": "1 death and 94 hospitalizations among 265 confirmed cases", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "incubation_period": [
+      {"value": "12 to 72 hours after exposure", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "treatment_overview": [
+      {"value": "mild cases usually resolve with fluid and electrolyte replacement; severe cases may need hospitalization, IV fluids and antibiotics, especially if the infection spreads to the bloodstream", "source_url": "https://en.wikipedia.org/wiki/2018_American_salmonella_outbreak"}
+    ],
+    "summary": [
+      {"value": "This 2018 outbreak was caused by Salmonella Typhimurium in ready-to-eat chicken salad sold at Iowa grocery stores, sickening 265 people across 8 states and causing one death. It shows how poultry products contaminated with Salmonella can cause serious illness in people even after the bird itself has been processed."}
+    ]
+  }
+}

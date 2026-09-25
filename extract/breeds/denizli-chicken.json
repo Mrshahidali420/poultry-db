@@ -1,0 +1,9 @@
+{
+  "id": "denizli-chicken",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Denizli_chicken" } ],
+    "origin_country": [ { "value": "Turkey", "source_url": "https://en.wikipedia.org/wiki/Denizli_chicken" } ],
+    "notable_traits": [ { "value": ["crow can last 20-25 seconds in the first year", "black eyes", "dark grey or purple legs", "silver or red hackles"], "source_url": "https://en.wikipedia.org/wiki/Denizli_chicken" } ],
+    "history_summary": [ { "value": "A Turkish long-crowing breed closely tied to the city of Denizli for at least nine centuries, with roosters capable of crows lasting 20 to 25 seconds in their first year. Its population has been declining, prompting an active conservation program run by Turkey's Lalahan Central Livestock Research Institute.", "source_url": "https://en.wikipedia.org/wiki/Denizli_chicken" } ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "schweizer-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 120, "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "egg_color": [
+      {"value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "comb": [
+      {"value": "rose", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "cold_hardy": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "conservation_status": [
+      {"value": "unknown (was 'endangered' in 2007)", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "origin_country": [
+      {"value": "Switzerland", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "origin_year_or_period": [
+      {"value": "1905", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "notable_traits": [
+      {"value": ["entirely white plumage with vivid red rose comb", "comb resistant to frost damage"], "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ],
+    "history_summary": [
+      {"value": "The Schweizer was created in 1905 by Alfred Weiss in Amriswil, Switzerland, mainly by crossing white Orpingtons and Wyandottes into a dual-purpose breed. Numbers fell sharply after the Second World War, and a conservation programme launched in 1991 has since helped the breed slowly recover.", "source_url": "https://en.wikipedia.org/wiki/Schweizer_chicken"}
+    ]
+  }
+}

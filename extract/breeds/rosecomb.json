@@ -1,0 +1,50 @@
+{
+  "id": "rosecomb",
+  "fields": {
+    "hen_weight_kg": [
+      {"value": 0.5, "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "comb": [
+      {"value": "rose", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "earlobe_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"},
+      {"value": "exhibition", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "broodiness": [
+      {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "temperament": [
+      {"value": ["friendly", "alert"], "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "origin_country": [
+      {"value": "Britain", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"},
+      {"value": "England", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "origin_year_or_period": [
+      {"value": "14th century", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"},
+      {"value": "14th century", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "varieties": [
+      {"value": ["black", "blue", "white"], "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "egg_color": [
+      {"value": "cream", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "notable_traits": [
+      {"value": ["large rose comb relative to body size", "prodigious tails", "good flier, unlike most chickens", "poor egg layers, unsuited for meat"], "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ],
+    "history_summary": [
+      {"value": "The Rosecomb is one of the oldest true bantam breeds, with records going back to 14th-century Britain and a boost in popularity credited to King Richard III. It has long been bred purely for show, which has left it with poor fertility, low broodiness and high chick mortality.", "source_url": "https://en.wikipedia.org/wiki/Rosecomb"}
+    ]
+  }
+}

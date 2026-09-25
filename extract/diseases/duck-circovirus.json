@@ -1,0 +1,30 @@
+{
+  "id": "duck-circovirus",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      { "value": ["ducks (Anas platyrhynchos, Cairina moschata, American Pekin duck)"], "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "pathogen": [
+      { "value": "Duck circovirus (DuCV), a small circular DNA virus", "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "key_symptoms": [
+      { "value": ["weakened immune system", "stunted growth", "feather abnormalities"], "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "diagnosis": [
+      { "value": "PCR-based testing and dot blot hybridization testing", "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ],
+    "summary": [
+      { "value": "Duck circovirus is a virus found mainly in ducks in China, with some cases in Germany and the United States, that weakens young ducks' immune systems and stunts their growth. No approved vaccine exists yet, and the article does not mention chickens as a susceptible species.", "source_url": "https://en.wikipedia.org/wiki/Duck_circovirus" }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "jangmigye",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Jangmigye" } ],
+    "conservation_status": [ { "value": "critically low, about 250 birds in conservancy as of 2021; listed by the FAO", "source_url": "https://en.wikipedia.org/wiki/Jangmigye" } ],
+    "origin_country": [ { "value": "Korea", "source_url": "https://en.wikipedia.org/wiki/Jangmigye" } ],
+    "origin_year_or_period": [ { "value": "estimated to have arisen in the mid-third century", "source_url": "https://en.wikipedia.org/wiki/Jangmigye" } ],
+    "notable_traits": [ { "value": ["males can grow tails up to 1.5 meters (4.9 ft) long", "tail feathers molt annually after the rainy season, unlike Japan's Onagadori"], "source_url": "https://en.wikipedia.org/wiki/Jangmigye" } ],
+    "history_summary": [ { "value": "An ancient Korean heritage breed famous for its extremely long tail feathers, nearly wiped out in the early 1900s by the rise of commercial non-native chicken farming. It survived thanks to one dedicated farmer, and as of 2021 only about 250 birds remained in conservation.", "source_url": "https://en.wikipedia.org/wiki/Jangmigye" } ]
+  }
+}

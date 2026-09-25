@@ -1,0 +1,17 @@
+{
+  "id": "sentul-chicken",
+  "fields": {
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Sentul_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Indonesia", "source_url": "https://en.wikipedia.org/wiki/Sentul_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["fast growth rate", "high disease immunity relative to other Indonesian breeds", "reaches maturity in about 12 weeks"], "source_url": "https://en.wikipedia.org/wiki/Sentul_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Sentul chicken originated in Ciamis Regency, West Java, Indonesia, as a dual-purpose meat and egg breed. It is noted for growing faster and resisting disease better than other local Indonesian breeds.", "source_url": "https://en.wikipedia.org/wiki/Sentul_chicken" }
+    ]
+  }
+}

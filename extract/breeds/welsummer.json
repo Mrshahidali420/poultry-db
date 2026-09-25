@@ -1,0 +1,23 @@
+{
+ "id": "welsummer",
+ "fields": {
+   "eggs_per_year_max": [
+     {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Welsummer"},
+     {"value": 160, "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+   ],
+   "egg_color": [ {"value": "dark brown", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "egg_size": [ {"value": "large", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "lifespan_years": [ {"value": 9, "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "autosexing": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "heat_tolerant": [ {"value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "temperament": [ {"value": ["friendly", "intelligent"], "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "origin_country": [ {"value": "Netherlands", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "origin_year_or_period": [ {"value": "early 20th century, standardized 1922-23", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "varieties": [ {"value": ["Red Partridge"], "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "notable_traits": [ {"value": ["hardy, survives illness and hard winters", "classic rooster look"], "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ],
+   "history_summary": [ {"value": "The Welsummer was bred in the early 1900s in the Dutch village of Welsum from a mix of Rhode Island Red, Barnevelder, Partridge Leghorn, Cochin and Wyandotte stock, and reached a fixed standard by 1922-23. Birds were exported for the commercial egg trade and the breed was added to the British Standard in 1930.", "source_url": "https://en.wikipedia.org/wiki/Welsummer"} ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tibial-dyschondroplasia",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": ["broiler chickens (young, fast-growing poultry)"], "source_url": "https://en.wikipedia.org/wiki/Tibial_dyschondroplasia"}
+    ],
+    "cause_type": [
+      {"value": "genetic", "source_url": "https://en.wikipedia.org/wiki/Tibial_dyschondroplasia"}
+    ],
+    "key_symptoms": [
+      {"value": ["lameness", "leg bone growth plate that fails to turn to bone properly", "growth plate prone to fracture and deformity"], "source_url": "https://en.wikipedia.org/wiki/Tibial_dyschondroplasia"}
+    ],
+    "mortality": [
+      {"value": "It is described as the leading cause of lameness, death, and carcass condemnation in commercial poultry.", "source_url": "https://en.wikipedia.org/wiki/Tibial_dyschondroplasia"}
+    ],
+    "contagious": [
+      {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Tibial_dyschondroplasia"}
+    ],
+    "summary": [
+      {"value": "Tibial dyschondroplasia is a bone and cartilage growth disorder of young, fast-growing poultry such as broiler chickens, not caused by infection. The lower leg's growth cartilage fails to properly turn into bone, leaving it prone to fracture, infection and deformity, and it is a leading cause of lameness and death loss in commercial flocks.", "source_url": "https://en.wikipedia.org/wiki/Tibial_dyschondroplasia"}
+    ]
+  }
+}

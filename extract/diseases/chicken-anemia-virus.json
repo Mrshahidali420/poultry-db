@@ -1,0 +1,48 @@
+{
+  "id": "chicken-anemia-virus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["chicken anemia", "blue wing disease", "anemia dermatitis syndrome", "chicken/avian infectious anemia", "hemorrhagic aplastic anemia syndrome", "infectious chicken anemia", "chicken infectious anemia virus", "chicken anemia agent"], "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "species_affected": [
+      { "value": ["chickens"], "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "pathogen": [
+      { "value": "Chicken anemia virus (Gyrovirus chickenanemia), a single-stranded DNA virus", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "how_it_spreads": [
+      { "value": ["passed from hen to chick through the egg", "spread bird to bird through droppings (fecal-oral route)"], "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "key_symptoms": [
+      { "value": ["pale comb, wattle, eyelids and legs", "loss of appetite", "weakness and stunted growth", "weight loss", "bluish skin discoloration", "small skin bruises and bleeding spots", "lethargy", "sudden death", "dullness, depression and difficulty moving in severe cases"], "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "mortality": [
+      { "value": "up to 10% of chicks can die during outbreaks in young chicks", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "diagnosis": [
+      { "value": "suspected from clinical signs and a low blood count (hematocrit below about 27%), confirmed by virus testing such as PCR or antibody tests; post-mortem shows shrunken immune organs, bleeding in tissues and pale watery bone marrow", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "prevention": [
+      { "value": ["vaccinating breeding hens to stop egg-to-chick transmission", "good hygiene and biosecurity"], "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "treatment_overview": [
+      { "value": "there is no specific treatment; infected flocks often cull sick birds, and surviving birds develop immunity", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ],
+    "summary": [
+      { "value": "Chicken anemia virus only infects chickens and attacks bone marrow and immune cells, causing anemia and weakened immunity mainly in young chicks under three weeks old. Visible illness is now uncommon thanks to breeder vaccination, but the virus survives well in the environment and quietly circulates in many flocks without symptoms.", "source_url": "https://en.wikipedia.org/wiki/Chicken_anemia_virus" }
+    ]
+  }
+}

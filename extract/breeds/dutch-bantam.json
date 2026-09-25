@@ -1,0 +1,24 @@
+{
+  "id": "dutch-bantam",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "egg_color": [ { "value": "cream or white", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "eggs_per_year_min": [ { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "eggs_per_year_max": [ { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "rooster_weight_kg": [ { "value": 0.55, "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "hen_weight_kg": [ { "value": 0.45, "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "temperament": [ { "value": ["friendly", "somewhat flighty"], "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "cold_hardy": [ { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "beginner_friendly": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "comb": [ { "value": "single, five points", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "skin_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "varieties": [ { "value": ["partridge (original)", "29 colours recognised in the Netherlands", "13 colours standardised in the UK"], "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "origin_country": [ { "value": "Netherlands", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "origin_year_or_period": [ { "value": "first documented as a distinct breed in 1882", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "notable_traits": [ { "value": ["a true bantam with no large-fowl counterpart", "flies well due to light weight and large wings", "lays unusually well for a bantam"], "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ],
+    "history_summary": [ { "value": "A true bantam with no large-fowl counterpart, likely descended from Southeast Asian bantams brought home by Dutch East India Company sailors, first documented as a distinct breed in 1882 and recognized by the Dutch national poultry club in 1906. It later spread abroad, reaching the United States in the 1950s and Britain by the late 1960s, and remains popular with hobbyists for its friendly nature and good laying for its size.", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" } ]
+  }
+}

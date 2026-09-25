@@ -1,0 +1,22 @@
+{
+ "id": "vorwerk-chicken",
+ "fields": {
+   "eggs_per_year_max": [
+     {"value": 170, "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"},
+     {"value": 170, "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+   ],
+   "egg_color": [ {"value": "cream", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "hen_weight_kg": [ {"value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "rooster_weight_kg": [ {"value": 2.85, "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "temperament": [ {"value": ["alert", "active", "not flighty"], "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "origin_country": [ {"value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "origin_year_or_period": [ {"value": "1900, standardized 1913", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "comb": [ {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "notable_traits": [ {"value": ["black head, neck and tail with buff body", "slate grey underfluff", "hardy, economical eaters", "excellent foragers", "good natured, compatible males"], "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ],
+   "history_summary": [ {"value": "Oskar Vorwerk created this German breed starting in 1900 by combining the Lakenvelder's belted pattern with a golden-buff base, using Lakenvelder, Buff Orpington, Buff Sussex and Andalusian stock, and it was standardized by 1913. It remains rare outside continental Europe and is often confused with the separate Golden Lakenvelder breed.", "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken"} ]
+ }
+}

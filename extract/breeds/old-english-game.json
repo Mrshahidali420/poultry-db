@@ -1,0 +1,74 @@
+{
+  "id": "old-english-game",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 40, "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" },
+      { "value": 100, "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 160, "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" },
+      { "value": "white to tinted light brown", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.6, "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 1.8, "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["extremely active", "flighty", "fearless", "noisy", "aggressive to other breeds"], "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "heat_tolerant": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "purpose": [
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" },
+      { "value": "fighting (historically)", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" }
+    ],
+    "varieties": [
+      { "value": ["black", "dun", "white", "spangled", "brown red", "golden duckwing", "brassy back", "black breasted red"], "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "comb": [
+      { "value": "single, five points, often dubbed for showing", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "earlobe_color": [
+      { "value": "red or mulberry", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "conservation_status": [
+      { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "lifespan_years": [
+      { "value": 15, "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "origin_country": [
+      { "value": "England", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" }
+    ],
+    "notable_traits": [
+      { "value": ["descends from ancient fighting cocks, introduced to England by the Romans", "shape has changed little in around 1,000-2,000 years", "tight feathers historically prevented opponents getting a grip in the ring", "long-lived, some birds reaching 15+ years", "males separated by 6 months old to prevent fighting"], "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }
+    ],
+    "history_summary": [
+      { "value": "The Old English Game descends from ancient fighting cocks brought to England by the Romans and changed little in appearance for centuries while bred for the cockpit. Since cockfighting was banned in 1849 it has been kept purely for exhibition, retaining its compact, muscular, hard-feathered build.", "source_url": "https://en.wikipedia.org/wiki/Old_English_Game" }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "icelandic-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "egg_color": [ { "value": "white to cream or light brown", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "egg_size": [ { "value": "small to medium", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 180, "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 180, "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 2.0, "source_url": "https://livestockconservancy.org/icelandic-chicken/" }, { "value": 2.4, "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "hen_weight_kg": [ { "value": 1.4, "source_url": "https://livestockconservancy.org/icelandic-chicken/" }, { "value": 1.6, "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "temperament": [ { "value": ["alert", "lively", "curious", "friendly if handled young", "widely variable"], "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Icelandic_chicken" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Icelandic_chicken" } ],
+    "beginner_friendly": [ { "value": "yes", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "conservation_status": [ { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "origin_country": [ { "value": "Iceland", "source_url": "https://en.wikipedia.org/wiki/Icelandic_chicken" } ],
+    "origin_year_or_period": [ { "value": "introduced by Norse settlers in the 9th-10th century", "source_url": "https://en.wikipedia.org/wiki/Icelandic_chicken" } ],
+    "notable_traits": [ { "value": ["landrace with no fixed breed standard, wide range of colors and comb types", "unusually high genetic diversity, 78% unique DNA not found in other breeds", "excellent forager, well adapted to harsh climates", "some individuals carry a head crest"], "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ],
+    "history_summary": [ { "value": "A landrace fowl brought to Iceland by Norse settlers around the ninth or tenth century and kept largely unchanged for a thousand years, until commercial strains crossed into the population in the 1930s threatened its purity. Conservation efforts from the 1970s preserved pure lines, and DNA studies later showed the breed carries unusually high genetic diversity not found in any other chicken breed.", "source_url": "https://livestockconservancy.org/icelandic-chicken/" } ]
+  }
+}

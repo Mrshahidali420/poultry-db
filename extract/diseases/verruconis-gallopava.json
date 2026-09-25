@@ -1,0 +1,33 @@
+{
+  "id": "verruconis-gallopava",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Dactylaria gallopava", "Dactylaria constricta var. gallopava"], "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "species_affected": [
+      {"value": ["fowls (chickens)", "turkeys", "poults", "immunocompromised humans (especially organ transplant recipients)"], "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "cause_type": [
+      {"value": "fungal", "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "pathogen": [
+      {"value": "Verruconis gallopava (a thermotolerant, darkly pigmented fungus)", "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "key_symptoms": [
+      {"value": ["fatal brain infection (encephalitis) in fowls, turkeys and poults", "in humans: migraine, fever, confusion, seizures, lethargy, neck pain, or milder cough and chest pain if the lungs are involved"], "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "mortality": [
+      {"value": "Was first recognized as a cause of epidemic fatal encephalitis in fowls, turkeys and poults; in humans, survival is much lower once the infection reaches the brain.", "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "treatment_overview": [
+      {"value": "Early diagnosis matters most; treatment usually combines antifungal drug therapy with surgical removal of affected tissue, though neither guarantees a cure and relapse can occur.", "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ],
+    "summary": [
+      {"value": "Verruconis gallopava is a soil-dwelling fungus first identified as a cause of fatal brain infection (encephalitis) in fowls, turkeys and young turkeys (poults). It has since also become recognized as a rare but serious infection in immunocompromised humans, particularly organ transplant recipients, and is treated with a combination of antifungal medication and surgery.", "source_url": "https://en.wikipedia.org/wiki/Verruconis_gallopava"}
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "malines-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 140, "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "egg_color": [
+      { "value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "egg_size": [
+      { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "purpose": [
+      { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "comb": [
+      { "value": "single (usually); a rare turkey-headed variant has a triple comb", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "feathered_legs": [
+      { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "19th century, from about 1852", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["among the heaviest of all chicken breeds, alongside the Jersey Giant", "meat is pale, fine-textured and close-grained", "good mothers and excellent sitters", "eight colour varieties in Belgium, nine in Germany", "a heavier turkey-headed variant exists with a triple comb"], "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Malines was created in the Mechelen area of Flanders from the 1850s by crossing local cuckoo-patterned farm chickens with imported Oriental breeds such as Shanghai, Brahma, Langshan and Cochin, for meat quality. It became famous as the \"Poulet de Bruxelles\" in the early 1900s but declined after World War II as specialised meat breeds took over.", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "avian-influenza",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["bird flu", "avian flu", "fowl plague (historical name)"], "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" },
+      { "value": ["HPAI (highly pathogenic avian influenza)", "LPAI (low pathogenicity avian influenza)"], "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "ducks", "wild birds", "occasionally mammals including cats, dogs, pigs, cows and humans"], "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ],
+    "pathogen": [
+      { "value": "Influenza A virus, with high-path (HPAI) and low-path (LPAI) strains, including subtypes like H5N1", "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" }
+    ],
+    "how_it_spreads": [
+      { "value": ["direct bird-to-bird contact", "contact with infected wild waterfowl", "contaminated surfaces, manure, egg flats, crates, equipment", "on people's clothing, shoes and hands", "can survive a long time in cold water"], "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ],
+    "key_symptoms": [
+      { "value": ["sudden death with no prior signs", "lack of energy and appetite", "drop in egg production or misshapen, soft-shelled eggs", "swelling of the eyelids, comb, wattles and legs", "purple discoloration of comb, wattles and legs", "gasping and difficulty breathing", "nasal discharge, coughing, sneezing", "twisting of the head and neck", "stumbling or falling down", "diarrhea"], "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" },
+      { "value": ["LPAI-infected birds often show no signs, or only mild breathing problems"], "source_url": "https://www.gov.uk/guidance/avian-influenza-bird-flu" }
+    ],
+    "mortality": [
+      { "value": "HPAI is defined by killing 75% or more of experimentally infected chickens and can approach 100% mortality on an infected farm; LPAI does not typically kill poultry", "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ],
+    "diagnosis": [
+      { "value": "Signs alone are not enough for LPAI, which needs laboratory testing to confirm; suspected cases in the UK must be reported for official testing", "source_url": "https://www.gov.uk/guidance/avian-influenza-bird-flu" }
+    ],
+    "prevention": [
+      { "value": ["strict biosecurity (keeping wild birds and their droppings away from flocks)", "cleaning and disinfecting equipment and surfaces", "reporting sick birds promptly", "vaccination against specific strains where used"], "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ],
+    "treatment_overview": [
+      { "value": "There is no treatment for HPAI; the only way to stop it is to cull all affected and exposed birds. LPAI does not usually kill poultry, so options such as quarantine may be used instead of culling", "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" }
+    ],
+    "notifiable_us": [
+      { "value": "yes", "source_url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza" }
+    ],
+    "notifiable_uk": [
+      { "value": "yes", "source_url": "https://www.gov.uk/guidance/avian-influenza-bird-flu" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Contact a vet immediately if you suspect bird flu in your flock, even if the signs are mild, since it must be reported by law in the UK.", "source_url": "https://www.gov.uk/guidance/avian-influenza-bird-flu" }
+    ],
+    "summary": [
+      { "value": "Avian influenza is a highly contagious viral disease of birds that ranges from mild (low pathogenic) to devastating (highly pathogenic, which can kill nearly a whole flock quickly). It spreads through contact with infected birds, droppings and contaminated equipment, has no treatment for the severe form, and is a legally reportable disease that occasionally infects humans and other mammals in close contact with sick birds." , "source_url": "https://en.wikipedia.org/wiki/Avian_influenza" }
+    ]
+  }
+}

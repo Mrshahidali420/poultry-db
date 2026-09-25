@@ -1,0 +1,43 @@
+{
+  "id": "siciliana-chicken",
+  "fields": {
+    "egg_color": [
+      { "value": "white to light brown", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.6, "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" },
+      { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" },
+      { "value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "varieties": [
+      { "value": ["golden duckwing", "black", "white", "blue"], "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Italy (Sicily)", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "low numbers, near extinction by the 1980s; approx. 1000 breeding birds as of a 2007 study", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "comb": [
+      { "value": "cup-shaped (double/rose)", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "red (some white tolerated)", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["unusual cup-shaped/rose comb", "willow-green legs", "unusually elongated, pointed eggs weighing at least 45 g", "reaches sexual maturity early, crowing from four weeks"], "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Siciliana is an old Sicilian breed likely descended from crosses of local birds with North African stock, depicted in Italian paintings as early as the sixteenth century. It nearly went extinct in the twentieth century but was revived from the 1980s onward and gained official Italian breed standard recognition in 2004; it is also the ancestor of the Sicilian Buttercup.", "source_url": "https://en.wikipedia.org/wiki/Siciliana_chicken" }
+    ]
+  }
+}

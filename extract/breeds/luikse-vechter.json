@@ -1,0 +1,29 @@
+{
+  "id": "luikse-vechter",
+  "fields": {
+    "purpose": [
+      { "value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "comb": [
+      { "value": "single (triple historically, but only single allowed since 2000)", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "conservation_status": [
+      { "value": "endangered, though the least threatened of the three Belgian gamecock breeds", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "origin_country": [
+      { "value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "origin_year_or_period": [
+      { "value": "late 19th century", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "notable_traits": [
+      { "value": ["large and powerful bird", "deeply pigmented face, purplish-red to almost black", "rudimentary or absent wattles", "slate-blue legs", "steeply angled back (unlike the Brugse Vechter's horizontal back)"], "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ],
+    "history_summary": [
+      { "value": "The Luikse Vechter was developed in the Liege area of Wallonia in the late 1800s by crossing the older Brugse Vechter fighting breed with Oriental fighting birds to improve its fighting ability. Cockfighting is now illegal in Belgium, so the breed survives mainly through exhibition and cross-border fighting in France.", "source_url": "https://en.wikipedia.org/wiki/Luikse_Vechter" }
+    ]
+  }
+}

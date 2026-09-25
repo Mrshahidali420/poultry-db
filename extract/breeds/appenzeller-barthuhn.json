@@ -1,0 +1,18 @@
+{
+ "id": "appenzeller-barthuhn",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "hen_weight_kg": [ {"value": "1.6-1.8", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "rooster_weight_kg": [ {"value": "2.0-2.3", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "comb": [ {"value": "rose", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "crest": [ {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "varieties": [ {"value": ["partridge", "black", "blue-laced"], "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "origin_country": [ {"value": "Switzerland", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "origin_year_or_period": [ {"value": "from about 1860, recognized 1898", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "conservation_status": [ {"value": "small population: 334 hens, 205 cocks (2019)", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "notable_traits": [ {"value": ["bearded and rose-combed", "bred for better frost resistance"], "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ],
+   "history_summary": [ {"value": "The Appenzeller Barthuhn was bred from about 1860 in Switzerland's Appenzell region, largely by a breeder named Zust who wanted a bearded, rose-combed bird with better frost resistance. It gained formal recognition in 1898 and remains a small-population breed today.", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn"} ]
+ }
+}

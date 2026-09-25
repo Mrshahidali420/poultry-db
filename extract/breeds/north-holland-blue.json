@@ -1,0 +1,38 @@
+{
+  "id": "north-holland-blue",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 180, "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 240, "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "temperament": [
+      { "value": ["quiet", "docile"], "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "purpose": [
+      { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "varieties": [
+      { "value": ["cuckoo (only one colour recognised)"], "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "feathered_legs": [
+      { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "origin_country": [
+      { "value": "Netherlands", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "origin_year_or_period": [
+      { "value": "about 1900", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "notable_traits": [
+      { "value": ["derives from the Belgian Malines crossed with local chickens", "created to supply white chicken meat to Amsterdam", "clean-legged in the Netherlands and New Zealand, lightly feathered legs in the British standard", "displaced by faster-growing American breeds after World War Two; last large farm closed 1977"], "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ],
+    "history_summary": [
+      { "value": "The North Holland Blue was developed around Purmerend, Netherlands, about 1900 by crossing imported Malines chickens with local stock to meet demand for white chicken meat in Amsterdam. It was a major Dutch commercial meat breed until faster-growing American breeds took over after World War Two.", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+    ]
+  }
+}

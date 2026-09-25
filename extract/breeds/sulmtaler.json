@@ -1,0 +1,14 @@
+{
+  "id": "sulmtaler",
+  "fields": {
+    "eggs_per_year_min": [{"value": 130, "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "eggs_per_year_max": [{"value": 180, "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "purpose": [{"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "broodiness": [{"value": "low", "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "varieties": [{"value": ["gold wheaten", "white", "silver wheaten", "blue wheaten"], "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "origin_country": [{"value": "Austria", "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "origin_year_or_period": [{"value": "about 1900", "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}],
+    "notable_traits": [{"value": ["hardy", "fast growing", "easy to fatten", "good utility breed"], "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/sulmtaler/"}],
+    "history_summary": [{"value": "The Sulmtaler descends from country chickens of the Styrian valleys of southern Austria, which were crossed with Cochin, Dorking and Houdan stock in the late 1800s to make heavier fattening birds. Around 1900 breeders gathered the remaining original-type stock and re-established the breed, which then spread to Germany, the Netherlands and England.", "source_url": "https://en.wikipedia.org/wiki/Sulmtaler"}]
+  }
+}

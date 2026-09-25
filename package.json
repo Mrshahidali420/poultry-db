@@ -13,6 +13,8 @@
     "fetch:images": "node scripts/fetch-fallback-images.mjs",
     "fetch:diseases": "node scripts/fetch-diseases.mjs",
     "fetch:sources": "node scripts/fetch-sources.mjs",
+    "fetch:articles": "node scripts/fetch-articles.mjs",
+    "fetch:image-library": "node scripts/fetch-images.mjs",
     "fetch:nutrition": "node scripts/fetch-nutrition.mjs",
     "fetch:faostat": "node scripts/fetch-faostat.mjs",
     "fetch:nass": "node scripts/fetch-nass.mjs",
@@ -20,6 +22,7 @@
     "import:github": "node scripts/import-github-datasets.mjs",
     "import:dadis": "node scripts/import-dadis.mjs",
     "merge:imports": "node scripts/merge-imports.mjs",
+    "merge:extracts": "node scripts/merge-extracts.mjs",
     "enrich": "node scripts/enrich-llm.mjs",
     "all": "node scripts/run-all.mjs",
     "test": "node --test test/*.test.mjs"

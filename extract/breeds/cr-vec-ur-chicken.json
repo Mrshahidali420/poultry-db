@@ -1,0 +1,16 @@
+{
+  "id": "cr-vec-ur-chicken",
+  "fields": {
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "crest": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "comb": [ { "value": "v-shaped", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "varieties": [ { "value": ["black", "blue", "white", "cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "origin_country": [ { "value": "France", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "conservation_status": [ { "value": "endangered (FAO, 2007)", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "notable_traits": [ { "value": ["crested head", "four toes", "v-shaped comb like the La Fleche"], "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ],
+    "history_summary": [ { "value": "One of the oldest French chicken breeds, named after the Normandy commune of Crevecoeur-en-Auge, it won prizes at the 1855 Paris exposition and was later added to the American Poultry Association's standard in 1874. Its numbers collapsed during the world wars and recovery only began in 1976, with separate bantam versions later bred in the United States and Germany.", "source_url": "https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur_chicken" } ]
+  }
+}

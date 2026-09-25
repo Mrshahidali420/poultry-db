@@ -1,0 +1,45 @@
+{
+  "id": "histomonas",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["blackhead disease", "infectious enterohepatitis"], "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "species_affected": [
+      {"value": ["chickens", "turkeys", "peafowl", "quail", "pheasants"], "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "pathogen": [
+      {"value": "Histomonas meleagridis (protozoan)", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "how_it_spreads": [
+      {"value": ["carried inside eggs of the cecal worm Heterakis gallinarum", "picked up by eating earthworms that swallowed the worm eggs"], "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "key_symptoms": [
+      {"value": ["depression", "reduced appetite", "poor growth", "increased thirst", "sulphur-yellow diarrhoea", "listlessness", "drooping wings", "unkempt feathers"], "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "mortality": [
+      {"value": "Can reach 80-100% in turkey flocks; chickens usually show few or no symptoms but outbreaks can still cause high sickness, some deaths, and culling", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "incubation_period": [
+      {"value": "Symptoms appear 7 to 12 days after infection", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "diagnosis": [
+      {"value": "Confirmed by examining the liver and other organs of a fresh or preserved carcass after death", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "prevention": [
+      {"value": ["good farm management and sanitation to control spread"], "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "treatment_overview": [
+      {"value": "Good farm management and sanitation are the main effective strategies; a specific medicated treatment has been approved for this use in Italy", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ],
+    "summary": [
+      {"value": "Histomonas meleagridis is a microscopic protozoan parasite spread by a cecal worm that causes histomoniasis (blackhead disease) in poultry, damaging the cecum and liver. Turkeys are hit hardest and can die in large numbers, while chickens are usually only mildly affected but can still suffer poor flock performance during outbreaks.", "source_url": "https://en.wikipedia.org/wiki/Histomonas"}
+    ]
+  }
+}

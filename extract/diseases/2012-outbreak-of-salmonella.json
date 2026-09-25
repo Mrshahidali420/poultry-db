@@ -1,0 +1,46 @@
+{
+  "id": "2012-outbreak-of-salmonella",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": "humans", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "poultry (chicks and ducklings)", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "hedgehogs, feeder mice/rats, turtles, fish (other sources in the same year)", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "cause_type": [
+      {"value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "pathogen": [
+      {"value": "Salmonella (several serotypes, including Montevideo, Hadar, Infantis, Newport and Lille found on live poultry)", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "how_it_spreads": [
+      {"value": "handling live poultry such as chicks and ducklings from hatcheries, then touching the mouth or food without washing hands", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "eating contaminated food", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "poultry can carry Salmonella in their gut without looking sick, spreading it through their droppings to soil, other animals, and manure-fertilized crops", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "birds crowded together in hatcheries increases spread among poultry", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "key_symptoms": [
+      {"value": "fever, abdominal pain, nausea and diarrhea in infected people, lasting up to about a week", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "mortality": [
+      {"value": "three separate 2012 live-poultry outbreaks caused a combined 3 deaths among roughly 330 human cases in the US", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "incubation_period": [
+      {"value": "symptoms in people usually appear 12 to 72 hours after exposure", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "prevention": [
+      {"value": "wash hands after handling live poultry, reptiles or other animals and after using the restroom", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "avoid cross-contaminating other foods with raw poultry", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"},
+      {"value": "cook food thoroughly (to at least 167°F/75°C for 10 minutes)", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ],
+    "summary": [
+      {"value": "In 2012 several unrelated Salmonella outbreaks occurred worldwide from sources including live baby chicks and ducklings sold by hatcheries, alongside outbreaks from turtles, hedgehogs, feeder rodents, tuna and smoked salmon. It illustrates that backyard-keepers can catch salmonellosis from healthy-looking chicks or hens, so hand-washing after handling birds is important.", "source_url": "https://en.wikipedia.org/wiki/2012_outbreak_of_Salmonella"}
+    ]
+  }
+}

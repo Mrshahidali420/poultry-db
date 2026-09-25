@@ -1,0 +1,56 @@
+{
+  "id": "leghorn-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 280, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 320, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" },
+      { "value": 300, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 2.0, "max": 2.3 }, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" },
+      { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 2.4, "max": 2.7 }, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" },
+      { "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "temperament": [
+      { "value": ["active", "hardy", "easy to breed"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "varieties": [
+      { "value": ["white", "brown", "black", "buff", "Columbian", "red", "black-tailed red", "silver", "golden duckwing", "silver duckwing", "partridge", "exchequer", "pyle", "blue", "mottled", "cuckoo", "blue-red", "lavender", "crele"], "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "skin_color": [
+      { "value": "yellow (legs)", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "comb": [
+      { "value": "usually single; rose comb permitted in some countries", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "exported from Livorno to North America around 1828", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["heavily used to create high-production commercial egg-laying hybrids", "early birds were small (under 1.6 kg) until crossed with Minorca and Malay stock to increase size"], "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Leghorn descends from light chickens of rural Tuscany and was exported from the port of Livorno to America in the late 1820s, where it was renamed after the city's English name. White Leghorns went on to become the basis of most commercial white-egg laying hybrids worldwide.", "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }
+    ]
+  }
+}

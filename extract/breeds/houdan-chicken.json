@@ -1,0 +1,29 @@
+{
+  "id": "houdan-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "egg_size": [ { "value": "large", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 140, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "eggs_per_year_max": [ { "value": 230, "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" }, { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" }, { "value": 3.6, "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "hen_weight_kg": [ { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" }, { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" }, { "value": 2.9, "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "temperament": [ { "value": ["calm", "gentle", "docile", "friendly", "sweet"], "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "broodiness": [ { "value": "medium", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "cold_hardy": [ { "value": "no", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "heat_tolerant": [ { "value": "partly", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "crest": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "comb": [ { "value": "leaf/butterfly-shaped in Europe, v-shaped in the United States", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "skin_color": [ { "value": "pinkish-white", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "varieties": [ { "value": ["mottled", "black", "pearl-grey", "white", "cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "conservation_status": [
+      { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/houdan-chicken/" },
+      { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/houdan-chicken/" }
+    ],
+    "origin_country": [ { "value": "France", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ],
+    "notable_traits": [ { "value": ["crested, muffed and bearded", "five toes per foot instead of four", "holds France's 'Label Rouge' certification for taste and quality"], "source_url": "https://livestockconservancy.org/houdan-chicken/" } ],
+    "history_summary": [ { "value": "A traditional French breed named for the town of Houdan west of Paris, likely developed from old five-toed French fowl combined with crested birds from Caux, Normandy, and refined in the 1800s with Crevecoeur and Dorking blood. Once one of France's leading meat breeds, it declined through the twentieth century and is now an endangered breed kept mainly for exhibition.", "source_url": "https://livestockconservancy.org/houdan-chicken/" } ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "duck-hepatitis-virus",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "other_names": [
+      { "value": ["Duck viral hepatitis", "DHV"], "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "species_affected": [
+      { "value": ["ducklings"], "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "pathogen": [
+      { "value": "Duck hepatitis virus types 1, 1a, 2 and 3 (DHV-1 is an enterovirus, DHV-2 an astrovirus, DHV-3 a picornavirus)", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "how_it_spreads": [
+      { "value": ["spreads rapidly within a flock of young ducklings"], "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "key_symptoms": [
+      { "value": ["sudden death", "arched, twisted neck posture", "weakness or paralysis of the legs", "sunken eyes"], "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "mortality": [
+      { "value": "DHV-1 is highly virulent, with death occurring within 1-2 hours of signs appearing in young ducklings under 6 weeks old", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "diagnosis": [
+      { "value": "based on clinical signs and post-mortem exam showing an enlarged, greenish liver with bleeding spots; confirmed by lab virus testing", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "prevention": [
+      { "value": ["vaccination against DHV-1", "strict isolation of ducklings in their first 4-5 weeks of life", "disinfecting the environment with phenol or formaldehyde"], "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "treatment_overview": [
+      { "value": "no effective treatment once a duckling is infected", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ],
+    "summary": [
+      { "value": "Duck hepatitis virus is a fast-killing viral disease of young ducklings that damages the liver and can cause death within hours of the first signs. It is specific to ducks, does not infect humans, and is prevented mainly through vaccination and strict isolation of young birds.", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_virus" }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "serama",
+  "fields": {
+    "hen_weight_kg": [
+      { "value": 0.5, "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 0.5, "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "temperament": [
+      { "value": ["assertive", "confident", "calm", "manageable"], "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "purpose": [
+      { "value": "exhibition", "source_url": "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "origin_country": [
+      { "value": "Malaysia", "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "origin_year_or_period": [
+      { "value": "early 1970s (within last 50 years of article writing)", "source_url": "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "notable_traits": [
+      { "value": ["smallest chicken breed in the world", "upright posture with vertical tail held tight to the body", "wings held near-vertical almost touching the ground", "some strains carry a silkied-feather gene"], "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ],
+    "history_summary": [
+      { "value": "The Serama was developed in Kelantan, Malaysia, in the early 1970s from a mix of small local and Japanese-type bantams, and was named after a figure from traditional shadow puppet theatre. It is bred mainly as a show bird, prized in Malaysia for its tiny size and confident, upright carriage.", "source_url": "https://en.wikipedia.org/wiki/Serama" }
+    ]
+  }
+}

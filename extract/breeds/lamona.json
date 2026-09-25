@@ -1,0 +1,38 @@
+{
+  "id": "lamona",
+  "fields": {
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "conservation_status": [
+      { "value": "critical / possibly extinct - American Livestock Breeds Conservancy could not find surviving stock in 2013", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "origin_country": [
+      { "value": "United States", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "origin_year_or_period": [
+      { "value": "from 1912", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "notable_traits": [
+      { "value": ["white plumage", "stays tender as meat even after its laying career, unlike most layer breeds"], "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ],
+    "history_summary": [
+      { "value": "Harry S. Lamon of the USDA developed the Lamona from 1912 by crossing white Plymouth Rocks, silver-gray Dorkings and white Leghorns to get a good layer that also gave a decent carcass. It was recognized in 1933 but had nearly disappeared by the 1980s.", "source_url": "https://en.wikipedia.org/wiki/Lamona" }
+    ]
+  }
+}

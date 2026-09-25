@@ -1,0 +1,71 @@
+{
+  "id": "rhode-island-white",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": 200, "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 250, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": 250, "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "egg_color": [
+      {"value": "light to dark brown", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": "light to dark brown", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "egg_size": [
+      {"value": "large", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": "large", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "hen_weight_kg": [
+      {"value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": 2.9, "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 3.9, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": 3.9, "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "comb": [
+      {"value": "rose", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ],
+    "earlobe_color": [
+      {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ],
+    "broodiness": [
+      {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": "low", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "temperament": [
+      {"value": ["calm", "friendly"], "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "cold_hardy": [
+      {"value": "yes", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "heat_tolerant": [
+      {"value": "yes", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "conservation_status": [
+      {"value": "Watch", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": "Watch", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "origin_country": [
+      {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ],
+    "origin_year_or_period": [
+      {"value": "1888", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"},
+      {"value": "1888", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ],
+    "notable_traits": [
+      {"value": ["white plumage", "long broad brick-shaped body", "used to produce Red Sex-Link hybrids"], "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ],
+    "history_summary": [
+      {"value": "The Rhode Island White was developed from around 1888 by John Alonzo Jocoy in Rhode Island by crossing Partridge Cochins, White Wyandottes and rose-comb White Leghorns. It is treated as a distinct breed from the Rhode Island Red in the United States, though some other countries classify it as a color variant.", "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White"}
+    ]
+  }
+}

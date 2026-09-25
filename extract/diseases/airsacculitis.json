@@ -1,0 +1,63 @@
+{
+  "id": "airsacculitis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": "air sacculitis", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "aerosacculitis", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "air sac disease", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "air sac infection", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "air sac syndrome", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "sac disease", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "species_affected": [
+      {"value": "poultry and other birds", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "cause_type": [
+      {"value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "pathogen": [
+      {"value": "usually bacterial: E. coli, Mycoplasma gallisepticum, Mycoplasma synoviae, Mycoplasma meleagridis, Ornithobacterium rhinotracheale or Bordetella avium; occasionally fungi or, rarely, viruses", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "how_it_spreads": [
+      {"value": "highly infectious among birds, though how easily it spreads depends on which microbe is causing it", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "can stay dormant in birds that survive infection and later infect other birds", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "rarely follows an improperly given vaccine", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "key_symptoms": [
+      {"value": "coughing", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "lethargy", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "swelling of the lower neck", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "difficulty breathing", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "loss of appetite and weight loss", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "nasal discharge and clogged nostrils", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "ruffled feathers and watery eyes", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "reduced egg-laying in hens", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "stunted growth in young birds", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "diagnosis": [
+      {"value": "suspected from symptoms and confirmed with imaging such as radiography or endoscopy, sometimes with a biopsy of the affected air sac", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "prevention": [
+      {"value": "keep poultry in dry, appropriately warm housing (not too cold or too hot)", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "maintain good sanitation", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "provide clean water", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"},
+      {"value": "ensure adequate ventilation and fresh air", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "treatment_overview": [
+      {"value": "a vet identifies the specific infectious agent and prescribes antibiotics targeted to it; abscesses or granulomas may be surgically removed", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "when_to_call_vet": [
+      {"value": "Call a vet if a bird is coughing, breathing with difficulty, or has a swollen neck, since diagnosing airsacculitis and choosing the right antibiotic needs veterinary examination.", "source_url": "https://en.wikipedia.org/wiki/Airsacculitis"}
+    ],
+    "summary": [
+      {"value": "Airsacculitis is inflammation of a bird's air sacs, most often caused by bacteria such as E. coli or Mycoplasma, and is common and highly infectious on poultry farms. Affected chickens can cough, breathe with difficulty, lose weight, and lay fewer eggs, and while most recover with good housing and targeted antibiotics, severe cases can be fatal or lead to carcass condemnation."}
+    ]
+  }
+}

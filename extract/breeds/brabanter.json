@@ -1,0 +1,17 @@
+{
+ "id": "brabanter",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 170, "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "hen_weight_kg": [ {"value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "rooster_weight_kg": [ {"value": 2.2, "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "origin_country": [ {"value": "Netherlands", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "crest": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "comb": [ {"value": "v-shaped", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "varieties": [ {"value": ["black", "chamois", "cuckoo", "gold spangled", "laced blue", "silver spangled", "white"], "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "notable_traits": [ {"value": ["narrow forward-projecting crest", "trilobar beard and muff hiding the earlobes and wattles", "among the lightest chicken breeds", "wattles often absent"], "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ],
+   "history_summary": [ {"value": "The Brabanter is an old Dutch breed from the Brabant region, appearing in a 1676 painting by Melchior d'Hondecoeter, and it nearly went extinct in the early 1900s before being restored by cross-breeding with other crested, bearded birds. A bantam version was created around 1934 by crossing it with bearded Poland bantams.", "source_url": "https://en.wikipedia.org/wiki/Brabanter"} ]
+ }
+}

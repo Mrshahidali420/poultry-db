@@ -1,0 +1,12 @@
+{
+  "id": "estaires-chicken",
+  "fields": {
+    "comb": [ { "value": "small, regularly serrated", "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ],
+    "feathered_legs": [ { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ],
+    "varieties": [ { "value": ["black with beetle-green sheen", "gold-necked", "silver-necked"], "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ],
+    "origin_country": [ { "value": "France", "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ],
+    "origin_year_or_period": [ { "value": "descended from Langshan stock imported to England in 1872", "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ],
+    "notable_traits": [ { "value": ["closely similar to the Croad Langshan", "dark slate-blue to almost black legs"], "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ],
+    "history_summary": [ { "value": "A French regional variant of the Langshan breed, descended from birds imported to England from China in 1872 and later raised around Estaires in the Nord-Pas-de-Calais region. A breeders' club was formed in 1999, and the breed has been under regional genetic conservation protection since 2004.", "source_url": "https://en.wikipedia.org/wiki/Estaires_chicken" } ]
+  }
+}

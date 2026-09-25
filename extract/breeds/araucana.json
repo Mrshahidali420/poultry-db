@@ -1,0 +1,14 @@
+{
+ "id": "araucana",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 250, "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "egg_color": [ {"value": "blue or green", "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "comb": [ {"value": "pea", "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "varieties": [ {"value": ["black", "black-breasted red", "silver duckwing", "golden duckwing", "white", "buff", "cuckoo", "lavender", "splash", "blue", "blue-red", "crele", "pile", "spangled"], "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "origin_country": [ {"value": "Chile", "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "conservation_status": [ {"value": "not at risk (world-wide)", "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "notable_traits": [ {"value": ["may have ear tufts and be rumpless, both caused by lethal genes", "lays blue-shelled eggs, rare among chicken breeds", "origin debated between pre-Columbian and post-Columbian introduction"], "source_url": "https://en.wikipedia.org/wiki/Araucana"} ],
+   "history_summary": [ {"value": "The Araucana originated among the Mapuche people of Chile's Araucania region and was first scientifically described in the 1920s after the Spanish aviculturist Salvador Castello studied local flocks. Separate British and American lines developed during the twentieth century, with the American line kept tufted and rumpless, and it is closely related to the newer Ameraucana breed.", "source_url": "https://en.wikipedia.org/wiki/Araucana"} ]
+ }
+}

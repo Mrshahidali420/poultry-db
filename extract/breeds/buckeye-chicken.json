@@ -1,0 +1,20 @@
+{
+ "id": "buckeye-chicken",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "eggs_per_year_max": [ {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "egg_color": [ {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "hen_weight_kg": [ {"value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "rooster_weight_kg": [ {"value": 4.0, "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "skin_color": [ {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "comb": [ {"value": "pea comb", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "temperament": [ {"value": ["assertive", "good forager", "generally calm", "rarely aggressive"], "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "origin_country": [ {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "origin_year_or_period": [ {"value": "1896", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "conservation_status": [ {"value": "Watch (American Livestock Breeds Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "notable_traits": [ {"value": ["mahogany red plumage with black tail, resembling buckeye seeds", "only American Class breed with a pea comb", "tolerates confinement well but prefers to range", "good at hunting mice and other pests", "created by a woman, Nettie Metcalf, predating the Rhode Island Red"], "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ],
+   "history_summary": [ {"value": "The Buckeye was created in 1896 by Nettie Metcalf of Warren, Ohio, who crossed Barred Plymouth Rocks, Buff Cochins and black-breasted red games to make a cold-hardy dual-purpose bird, and it is the only known American breed developed by a woman. It was admitted to the American Poultry Association's Standard of Perfection in 1904 and is now listed as Watch by the Livestock Conservancy.", "source_url": "https://en.wikipedia.org/wiki/Buckeye_chicken"} ]
+ }
+}

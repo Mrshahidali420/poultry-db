@@ -1,0 +1,12 @@
+{
+  "id": "isa-brown",
+  "fields": {
+    "purpose": [ { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ],
+    "eggs_per_year_min": [ { "value": 300, "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ],
+    "eggs_per_year_max": [ { "value": 300, "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ],
+    "origin_country": [ { "value": "France (developed by Institut de Selection Animale)", "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ],
+    "origin_year_or_period": [ { "value": "developed 1978", "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ],
+    "history_summary": [ { "value": "A commercial sex-linked hybrid developed in 1978 by the French company Institut de Selection Animale for battery egg production, bred from a closely guarded mix of breeds including Rhode Island Red and Rhode Island White stock. It is prized for laying about 300 eggs in its first year, and the company behind it later merged into what became Hendrix Genetics.", "source_url": "https://en.wikipedia.org/wiki/ISA_Brown" } ]
+  }
+}

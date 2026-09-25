@@ -1,0 +1,18 @@
+{
+ "id": "braekel",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "hen_weight_kg": [ {"value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "rooster_weight_kg": [ {"value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "origin_country": [ {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "conservation_status": [
+     {"value": "unknown (Belgium and UK, 2023)", "source_url": "https://en.wikipedia.org/wiki/Braekel"},
+     {"value": "at risk (Germany, 2023)", "source_url": "https://en.wikipedia.org/wiki/Braekel"}
+   ],
+   "varieties": [ {"value": ["gold", "silver"], "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "notable_traits": [ {"value": ["straight feather banding pattern", "uniform solid neck colour", "rare breed after decline in and after World War II"], "source_url": "https://en.wikipedia.org/wiki/Braekel"} ],
+   "history_summary": [ {"value": "The Braekel likely originated near Brakel in East Flanders, Belgium, from the same population of gold and silver chickens that produced similar German breeds, and it gave rise to the UK's Campine. Two regional types were split into separate breeds in 1884 and reunited under one standard in 1926, but the breed declined sharply during and after the Second World War and is now rare.", "source_url": "https://en.wikipedia.org/wiki/Braekel"} ]
+ }
+}

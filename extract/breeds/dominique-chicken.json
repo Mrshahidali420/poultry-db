@@ -1,0 +1,39 @@
+{
+  "id": "dominique-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "egg_color": [ { "value": "light to dark brown", "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "egg_size": [ { "value": "medium", "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "eggs_per_year_max": [ { "value": 275, "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "rooster_weight_kg": [
+      { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" },
+      { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" },
+      { "value": 3.4, "source_url": "https://livestockconservancy.org/dominique-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.75, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" },
+      { "value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" },
+      { "value": 2.3, "source_url": "https://livestockconservancy.org/dominique-chicken/" }
+    ],
+    "temperament": [ { "value": ["calm", "genial", "friendly", "personable"], "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "broodiness": [ { "value": "medium", "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "heat_tolerant": [ { "value": "yes", "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "beginner_friendly": [ { "value": "yes", "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "comb": [ { "value": "rose comb with a single backward-pointing spike", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://livestockconservancy.org/dominique-chicken/" } ],
+    "varieties": [ { "value": ["cuckoo (barred/hawk-colored)"], "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "conservation_status": [
+      { "value": "Critical (until about 2003, American Livestock Breeds Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" },
+      { "value": "Watch (2021, Livestock Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" },
+      { "value": "not at risk (DAD-IS, 2021)", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" }
+    ],
+    "origin_country": [ { "value": "United States", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "origin_year_or_period": [ { "value": "well known by about 1750", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "notable_traits": [ { "value": ["considered the oldest American chicken breed", "tight plumage resists frostbite", "ancestor of the Plymouth Rock breed"], "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ],
+    "history_summary": [ { "value": "Considered the oldest American chicken breed, likely descended from birds brought over by English colonists and well established by about 1750, it was later crossed with Black Java to create the Plymouth Rock in the 1860s. Numbers nearly collapsed by the 1970s, but a breed-rescue effort from the 1980s onward brought it back, and its status had improved to watch by 2021.", "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" } ]
+  }
+}

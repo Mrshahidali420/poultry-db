@@ -1,0 +1,32 @@
+{
+  "id": "onagadori",
+  "fields": {
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "varieties": [
+      { "value": ["black-breasted white", "black-breasted red", "white", "ginger", "gold duckwing", "silver duckwing"], "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "conservation_status": [
+      { "value": "endangered (FAO, 2007); about 250 birds kept by a dozen breeders in Japan", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "origin_country": [
+      { "value": "Japan (Kochi Prefecture, Shikoku)", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "origin_year_or_period": [
+      { "value": "17th century", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "notable_traits": [
+      { "value": ["exceptionally long non-moulting tail, over 1.5 m and reported up to 12 m", "tail feathers grow about 0.7-1.3 m per year", "designated a Special Natural Treasure of Japan in 1952, the only chicken breed with that status", "kept in special elevated hutches to protect the tail", "ancestor of the German Phoenix breed"], "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ],
+    "history_summary": [
+      { "value": "The Onagadori was bred in the 1600s in what is now Kochi Prefecture from other long-tailed Japanese breeds, prized purely for its extraordinary, continuously growing tail. It was named a Special Natural Treasure of Japan in 1952 and is now endangered, kept by only a small number of dedicated breeders.", "source_url": "https://en.wikipedia.org/wiki/Onagadori" }
+    ]
+  }
+}

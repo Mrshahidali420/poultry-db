@@ -1,0 +1,48 @@
+{
+  "id": "paratyphoid-fever",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      { "value": ["humans (the source text states humans are the only animals infected)"], "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "pathogen": [
+      { "value": "Salmonella enterica, serotypes Paratyphi A, Paratyphi B, or Paratyphi C", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "how_it_spreads": [
+      { "value": ["eating or drinking food or water contaminated with an infected person's feces", "an infected person handling food", "occasionally through sexual contact"], "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "key_symptoms": [
+      { "value": ["gradual onset of high fever over several days", "weakness and loss of appetite", "headache", "rose-colored skin spots in some people", "abdominal pain", "enlarged liver and spleen", "constipation more common than diarrhea in adults"], "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "mortality": [
+      { "value": "about 10-15% without treatment, falling to under 1% with treatment", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "incubation_period": [
+      { "value": "symptoms usually begin 6 to 30 days after exposure", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "diagnosis": [
+      { "value": "Based on symptoms and confirmed by culturing the bacteria or detecting its DNA in blood, stool, or bone marrow; bone-marrow testing is described as the most accurate method.", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "prevention": [
+      { "value": ["clean drinking water", "better sanitation", "thorough handwashing", "safe food handling practices"], "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "treatment_overview": [
+      { "value": "Treated with antibiotics, though resistance to several previously effective antibiotics is now common.", "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ],
+    "summary": [
+      { "value": "Paratyphoid fever is a Salmonella infection in people that spreads through food or water contaminated by an infected person's waste, causing a prolonged fever and other flu-like symptoms. The source text describes it as a human disease with no vaccine made specifically for it, treated with antibiotics and prevented mainly through sanitation and hygiene." , "source_url": "https://en.wikipedia.org/wiki/Paratyphoid_fever" }
+    ]
+  }
+}

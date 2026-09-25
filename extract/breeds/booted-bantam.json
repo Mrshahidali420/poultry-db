@@ -1,0 +1,14 @@
+{
+ "id": "booted-bantam",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 120, "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "egg_color": [ {"value": "tinted to white", "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "purpose": [ {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "feathered_legs": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "comb": [ {"value": "single, upright, five to seven points", "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "varieties": [ {"value": ["black", "black mottled", "blue", "buff mottled", "cuckoo", "gold millefleur", "lavender", "lemon millefleur", "millefleur", "porcelain", "silver millefleur", "white"], "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "notable_traits": [ {"value": ["vulture hocks (long downward feathers on the thighs)", "heavily feathered shanks and feet", "short compact body with a U-shaped topline", "four toes"], "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ],
+   "history_summary": [ {"value": "Feather-footed bantams of this type have been depicted in European art since the 17th century and were described in English poultry books by the mid-1800s. The breed was established in the United Kingdom and the United States through the 19th century and later used to help create the Barbu d'Uccle.", "source_url": "https://en.wikipedia.org/wiki/Booted_Bantam"} ]
+ }
+}

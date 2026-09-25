@@ -1,0 +1,19 @@
+{
+ "id": "alsacienne",
+ "fields": {
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "egg_size": [ {"value": "large", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "hen_weight_kg": [ {"value": "2.0-2.5", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "rooster_weight_kg": [ {"value": "2.0-3.0", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "comb": [ {"value": "rose-shaped, topped with a spike", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "varieties": [ {"value": ["black", "blue-laced", "golden salmon", "white"], "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "origin_country": [ {"value": "France", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "origin_year_or_period": [ {"value": "1890s", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "conservation_status": [ {"value": "FAO endangered list (2007)", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "notable_traits": [ {"value": ["placed second in a chef tasting of traditional French breeds", "not cross-bred with Oriental stock unlike most other French breeds"], "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ],
+   "history_summary": [ {"value": "The Alsacienne was developed as a dual-purpose fowl in Alsace during the 1890s, at a time the region was part of the German Empire, and it resembles the older Bresse Gauloise. It nearly disappeared in the twentieth century and was still considered at risk as of 2007.", "source_url": "https://en.wikipedia.org/wiki/Alsacienne"} ]
+ }
+}

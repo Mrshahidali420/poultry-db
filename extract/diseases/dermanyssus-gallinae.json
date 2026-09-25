@@ -1,0 +1,48 @@
+{
+  "id": "dermanyssus-gallinae",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["red mite", "poultry red mite", "chicken mite", "bird mite", "roost mite"], "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "species_affected": [
+      { "value": ["chickens and other poultry", "wild birds", "cats", "dogs", "rodents", "rabbits", "horses", "humans"], "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "pathogen": [
+      { "value": "Dermanyssus gallinae, a blood-feeding mite", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "how_it_spreads": [
+      { "value": ["mites hide in cracks and crevices of the coop by day and feed on birds at night", "mites can survive up to 10 months in an empty hen house and infest new birds", "can be carried in on wild birds such as pigeons and sparrows"], "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "key_symptoms": [
+      { "value": ["irritation and pain around the breast and legs", "drop in egg production", "scabs, dark skin patches and feather loss", "pale comb and wattle from anemia in heavy infestations", "blood spots on eggs"], "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "diagnosis": [
+      { "value": "suspected from falling egg production, anemia and deaths in young or sick birds, confirmed by finding mites, eggs or their droppings", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "prevention": [
+      { "value": ["heating the henhouse above 55°C between flocks", "regularly washing down housing", "treating walls and floors with silica dust before new hens move in"], "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "treatment_overview": [
+      { "value": "mite-killing treatments rotated to avoid resistance, plus some newer products given orally through the drinking water; predatory mites and plant oil repellents are also used as non-chemical controls", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Call a vet if hens show pale combs, scabbing or a sudden drop in egg-laying, since heavy red mite infestations can cause serious anemia.", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ],
+    "summary": [
+      { "value": "The poultry red mite is a tiny blood-feeding parasite that hides in coop cracks by day and attacks chickens at night, causing irritation, feather loss and falling egg output. Heavy infestations can cause anemia in hens and can also bite the humans who handle the birds.", "source_url": "https://en.wikipedia.org/wiki/Dermanyssus_gallinae" }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "hamburg-chicken",
+  "fields": {
+    "purpose": [
+      { "value": "eggs", "source_url": "https://livestockconservancy.org/hamburg-chicken/" },
+      { "value": "ornamental", "source_url": "https://livestockconservancy.org/hamburg-chicken/" }
+    ],
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" } ],
+    "egg_size": [ { "value": "small to medium", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 120, "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" } ],
+    "eggs_per_year_max": [ { "value": 225, "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" }, { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" } ],
+    "hen_weight_kg": [ { "value": 1.6, "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" }, { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" } ],
+    "temperament": [ { "value": ["active", "alert", "flighty", "nervous but good at evading predators"], "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "heat_tolerant": [ { "value": "yes", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "comb": [ { "value": "rose comb tapering to a long backward spike", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "skin_color": [ { "value": "gray", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "varieties": [ { "value": ["silver-spangled", "gold-spangled", "silver-pencilled", "gold-pencilled", "black", "white", "blue"], "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Hamburg_chicken" } ],
+    "conservation_status": [
+      { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/hamburg-chicken/" },
+      { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/hamburg-chicken/" }
+    ],
+    "origin_country": [ { "value": "Netherlands (possibly of Mediterranean or Turkish origin)", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "notable_traits": [ { "value": ["long backward spike on the rose comb", "roosts very high in trees", "lays consistently over many years rather than in high volume", "not suited as a cuddly pet"], "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ],
+    "history_summary": [ { "value": "An old breed of uncertain origin, found in Holland by the fourteenth century and later refined further in England, taking its modern name in the 1840s. Once valued for egg production, it lost favor after the Leghorn arrived around 1890 and today survives mainly as an active, ornamental exhibition breed.", "source_url": "https://livestockconservancy.org/hamburg-chicken/" } ]
+  }
+}

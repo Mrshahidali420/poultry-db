@@ -1,0 +1,56 @@
+{
+  "id": "psittacosis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": "parrot fever", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" },
+      { "value": "ornithosis", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" },
+      { "value": "avian chlamydiosis (name used for the infection in birds)", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "species_affected": [
+      { "value": ["parrots, parakeets, cockatiels, budgerigars, pigeons, turkeys, chickens, ducks and other birds"], "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "pathogen": [
+      { "value": "Chlamydia psittaci", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "how_it_spreads": [
+      { "value": ["inhaling dust from dried droppings or respiratory secretions of infected birds", "among birds via droppings, and also via feathers and eggs", "occasionally by bites or beak-to-mouth contact", "person-to-person spread is very rare"], "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "key_symptoms": [
+      { "value": ["inflamed eyes", "difficulty breathing", "watery droppings", "green urates", "infection can also show no obvious signs at all"], "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "incubation_period": [
+      { "value": "5 to 14 days in humans, though symptoms can start later", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "diagnosis": [
+      { "value": "in birds, confirmed with antigen/antibody testing or PCR; false negatives are possible so clinical signs and lab tests are used together", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "prevention": [
+      { "value": ["avoid overcrowding birds", "do not stack cages directly on top of each other", "isolate and treat infected birds", "clean cages and food/water containers regularly", "wash hands after handling birds or cage items", "wet surfaces before cleaning instead of dry sweeping or vacuuming", "wear gloves and a mask when handling infected birds or cleaning cages"], "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "treatment_overview": [
+      { "value": "in people, antibiotics are the standard treatment and starting them early leads to better outcomes", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "notifiable_us": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Psittacosis" }
+    ],
+    "summary": [
+      {
+        "value": "Psittacosis is a bacterial infection carried by birds, including chickens, ducks and turkeys, that can spread to people who breathe in dust from infected droppings, causing flu-like illness or pneumonia. Sick birds may show eye and breathing problems or watery droppings, but many show nothing at all, and good hygiene and cage cleaning are the main ways to prevent it since there is no vaccine.",
+        "source_url": "https://en.wikipedia.org/wiki/Psittacosis"
+      }
+    ]
+  }
+}

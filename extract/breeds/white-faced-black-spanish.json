@@ -1,0 +1,30 @@
+{
+ "id": "white-faced-black-spanish",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 160, "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"} ],
+   "eggs_per_year_max": [
+     {"value": 180, "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"},
+     {"value": 180, "source_url": "https://livestockconservancy.org/spanish-chicken/"}
+   ],
+   "egg_color": [
+     {"value": "white", "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"},
+     {"value": "chalk white", "source_url": "https://livestockconservancy.org/spanish-chicken/"}
+   ],
+   "egg_size": [ {"value": "large", "source_url": "https://livestockconservancy.org/spanish-chicken/"} ],
+   "hen_weight_kg": [ {"value": 2.9, "source_url": "https://livestockconservancy.org/spanish-chicken/"} ],
+   "rooster_weight_kg": [ {"value": 3.6, "source_url": "https://livestockconservancy.org/spanish-chicken/"} ],
+   "broodiness": [ {"value": "low", "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"} ],
+   "temperament": [
+     {"value": ["active", "noisy", "curious"], "source_url": "https://livestockconservancy.org/spanish-chicken/"},
+     {"value": ["aloof", "vocal", "not aggressive"], "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+   ],
+   "purpose": [ {"value": "eggs", "source_url": "https://livestockconservancy.org/spanish-chicken/"} ],
+   "origin_country": [ {"value": "Spain", "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"} ],
+   "origin_year_or_period": [ {"value": "developed to present type in Great Britain in the 18th century", "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"} ],
+   "conservation_status": [ {"value": "Critical", "source_url": "https://livestockconservancy.org/spanish-chicken/"} ],
+   "comb": [ {"value": "single, large; males upright, females flop over", "source_url": "https://livestockconservancy.org/spanish-chicken/"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"} ],
+   "notable_traits": [ {"value": ["glossy black plumage", "large white overdeveloped earlobes and white face", "four toes", "no crest", "dark brown eyes", "dark slate shanks", "delicate health, needs care in heat and cold"], "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish"} ],
+   "history_summary": [ {"value": "This ancient Spanish breed of unknown origin was refined in Great Britain in the 1700s and became one of the best-known laying breeds in America and England through the 1800s. Breeders' focus on ever-larger white faces weakened the birds' hardiness, and it lost popularity to hardier breeds like the Minorca and Leghorn.", "source_url": "https://livestockconservancy.org/spanish-chicken/"} ]
+ }
+}

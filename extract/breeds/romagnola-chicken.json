@@ -1,0 +1,47 @@
+{
+  "id": "romagnola-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "egg_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "hen_weight_kg": [
+      {"value": 1.9, "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "earlobe_color": [
+      {"value": "creamy white, sometimes tinged with blue", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "skin_color": [
+      {"value": "creamy white or pale yellow", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "cold_hardy": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "conservation_status": [
+      {"value": "recovering (was close to extinction)", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "origin_country": [
+      {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "varieties": [
+      {"value": ["black-flecked silver", "black-flecked golden"], "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "notable_traits": [
+      {"value": ["hardy and fast-growing young birds", "well-flavoured meat"], "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ],
+    "history_summary": [
+      {"value": "The Romagnola is a traditional Italian dual-purpose breed once common in central Italy, which nearly went extinct in the late twentieth century. A recovery programme run with the University of Parma and a breeders' association formed in 2007 helped bring the population back, though numbers stayed low and the breed was still awaiting official recognition as of 2012.", "source_url": "https://en.wikipedia.org/wiki/Romagnola_chicken"}
+    ]
+  }
+}

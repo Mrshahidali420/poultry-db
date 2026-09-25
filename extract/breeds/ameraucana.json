@@ -1,0 +1,14 @@
+{
+ "id": "ameraucana",
+ "fields": {
+   "egg_color": [ {"value": "blue", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "comb": [ {"value": "pea", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "earlobe_color": [ {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "varieties": [ {"value": ["black", "blue", "blue wheaten", "brown red", "buff", "silver", "wheaten", "white"], "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "origin_country": [ {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "origin_year_or_period": [ {"value": "1970s", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "notable_traits": [ {"value": ["derives from Araucana chickens brought from Chile", "retains the blue-egg gene without the parent breed's lethal alleles", "tailed, muffed and bearded, unlike the US Araucana"], "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ],
+   "history_summary": [ {"value": "The Ameraucana was developed in the United States during the 1970s from Chilean Araucana stock, with the aim of keeping the unusual blue-egg gene while breeding out the parent breed's lethal tufted and rumpless traits. It was added to the American Poultry Association's Standard of Perfection in 1984 as a breed distinct from the Araucana.", "source_url": "https://en.wikipedia.org/wiki/Ameraucana"} ]
+ }
+}

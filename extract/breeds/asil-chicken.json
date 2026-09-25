@@ -1,0 +1,18 @@
+{
+ "id": "asil-chicken",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 70, "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "egg_color": [ {"value": "cream to brownish", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "hen_weight_kg": [ {"value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "rooster_weight_kg": [ {"value": 3.8, "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "broodiness": [ {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"}, {"value": "meat", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "comb": [ {"value": "mainly pea, some single or rose", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "skin_color": [ {"value": "white (98% of a studied flock)", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "origin_country": [ {"value": "India", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "conservation_status": [ {"value": "not at risk (FAO 2007/2022; India NBAGR 2022)", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"}, {"value": "critical (US Livestock Conservancy, 2026)", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "notable_traits": [ {"value": ["predominantly dark brown, black and golden plumage", "hens are poor layers but sit well", "considered not at risk in India but critical in the US Livestock Conservancy listing"], "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ],
+   "history_summary": [ {"value": "The Asil is among the oldest game fowl breeds of the Indian subcontinent, its name derived from the Arabic word for purebred. Stock of this type was exported to Europe from around 1750 and helped give rise to related breeds, including a European bantam line re-created in Belgium during the 1980s.", "source_url": "https://en.wikipedia.org/wiki/Asil_chicken"} ]
+ }
+}

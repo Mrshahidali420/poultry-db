@@ -1,0 +1,26 @@
+{
+  "id": "modern-langshan",
+  "fields": {
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Modern_Langshan" }
+    ],
+    "feathered_legs": [
+      { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Modern_Langshan" }
+    ],
+    "origin_country": [
+      { "value": "United Kingdom", "source_url": "https://en.wikipedia.org/wiki/Modern_Langshan" }
+    ],
+    "origin_year_or_period": [
+      { "value": "developed from the Croad Langshan in the 1890s", "source_url": "https://en.wikipedia.org/wiki/Modern_Langshan" }
+    ],
+    "conservation_status": [
+      { "value": "rare, declined in popularity through the 1930s and has only just survived", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/modern-langshan/" }
+    ],
+    "notable_traits": [
+      { "value": ["lighter, more game-like build than the Croad Langshan, sometimes compared to the Modern Game", "only lightly feathered legs, unlike the more heavily feathered Croad Langshan", "not a good producer of eggs or meat", "the split between Modern Langshan and Croad Langshan breeders led to separate clubs, with the Croad Langshan Club forming in 1904"], "source_url": "https://en.wikipedia.org/wiki/Modern_Langshan" }
+    ],
+    "history_summary": [
+      { "value": "The Modern Langshan was bred from the Croad Langshan, imported to Britain from northern China in 1872, by selecting for a taller, tighter-feathered bird to distinguish it from the Black Cochin. It was popular for a time but declined through the twentieth century and is now rarely seen.", "source_url": "https://en.wikipedia.org/wiki/Modern_Langshan" }
+    ]
+  }
+}

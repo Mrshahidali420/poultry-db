@@ -1,0 +1,20 @@
+{
+  "id": "japanese-bantam",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "egg_color": [ { "value": "cream", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "egg_size": [ { "value": "small", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 0.737, "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "hen_weight_kg": [ { "value": 0.624, "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "temperament": [ { "value": ["alert", "calms with handling", "makes a good pet or showmanship bird"], "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "cold_hardy": [ { "value": "no", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Japanese_Bantam" } ],
+    "varieties": [ { "value": ["over 20 recognised Western color varieties", "Okina Chabo (bearded)", "Higo-Chabo Daruma and Taikan", "Shinguro Chabo (black-skinned black)"], "source_url": "https://en.wikipedia.org/wiki/Japanese_Bantam" } ],
+    "origin_country": [ { "value": "Japan", "source_url": "https://en.wikipedia.org/wiki/Japanese_Bantam" } ],
+    "origin_year_or_period": [ { "value": "depicted in Japanese art since the early 1600s", "source_url": "https://en.wikipedia.org/wiki/Japanese_Bantam" } ],
+    "conservation_status": [ { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" } ],
+    "notable_traits": [ { "value": ["extremely short legs from a lethal creeper gene, so it never breeds fully true (25% die in shell, 25% long-legged culls, 50% keepers)", "large upright tail carried higher than the head", "tail carried slightly forward of perpendicular, unique among breeds"], "source_url": "https://en.wikipedia.org/wiki/Japanese_Bantam" } ],
+    "history_summary": [ { "value": "An ancient true bantam breed with no large-fowl counterpart, depicted in Japanese art since the early 1600s and possibly descended from old fighting fowl. It reached Europe and the United States after Japan reopened to foreign trade around the Meiji Restoration in 1868, and it carries a lethal short-leg gene that means it never breeds fully true.", "source_url": "https://en.wikipedia.org/wiki/Japanese_Bantam" } ]
+  }
+}

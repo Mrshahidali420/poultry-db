@@ -1,0 +1,36 @@
+{
+  "id": "salmonellosis-in-the-united-states",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["chickens (via contaminated meat and eggs)", "humans"], "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "pathogen": [
+      { "value": "Salmonella (multiple serovars, including Salmonella enterica serovar Enteritidis)", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "how_it_spreads": [
+      { "value": ["an egg's shell can be contaminated by feces or the environment", "bacteria can pass through the porous shell into the egg", "a hen's infected ovaries can contaminate the egg as it forms", "found in a share of tested chicken parts and ground chicken at USDA testing"], "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "mortality": [
+      { "value": "CDC estimates about 1.2 million illnesses, 23,000 hospitalizations and 450 deaths from salmonellosis in the US each year", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "prevention": [
+      { "value": ["hygiene measures in egg production", "vaccinating laying hens to prevent Salmonella colonization", "USDA/FDA testing and performance standards for slaughter and processing plants"], "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States" }
+    ],
+    "summary": [
+      {
+        "value": "This article covers the US regulatory and outbreak history of salmonellosis rather than the disease itself, describing how contaminated chicken meat and eggs have repeatedly caused large human illness outbreaks. It notes that egg contamination can happen on the shell or inside the egg, and that vaccinating laying hens and improved hygiene have helped reduce Salmonella in eggs over time.",
+        "source_url": "https://en.wikipedia.org/wiki/Salmonellosis_in_the_United_States"
+      }
+    ]
+  }
+}

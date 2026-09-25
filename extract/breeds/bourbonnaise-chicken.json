@@ -1,0 +1,11 @@
+{
+ "id": "bourbonnaise-chicken",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)"} ],
+   "origin_country": [ {"value": "France", "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)"} ],
+   "notable_traits": [ {"value": ["vigorous and hardy", "forages and defends itself well", "adapts to most conditions", "grows quickly, reaching adulthood by six months"], "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)"} ],
+   "history_summary": [ {"value": "The breed comes from the Bourbonnais region of France, where white poultry such as the Gatinaise had long been kept. Crossing these local birds with Brahmas produced the Bourbonnaise herminee, while the plain white birds kept the Gatinaise name.", "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)"} ]
+ }
+}

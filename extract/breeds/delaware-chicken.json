@@ -1,0 +1,38 @@
+{
+  "id": "delaware-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "egg_color": [ { "value": "brown", "source_url": "https://livestockconservancy.org/delaware-chicken/" } ],
+    "egg_size": [ { "value": "large to jumbo", "source_url": "https://livestockconservancy.org/delaware-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://livestockconservancy.org/delaware-chicken/" } ],
+    "rooster_weight_kg": [
+      { "value": 3.5, "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+      { "value": 3.4, "source_url": "https://livestockconservancy.org/delaware-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+      { "value": 2.5, "source_url": "https://livestockconservancy.org/delaware-chicken/" }
+    ],
+    "temperament": [ { "value": ["calm", "curious", "assertive but not bullies", "not typically cuddly"], "source_url": "https://livestockconservancy.org/delaware-chicken/" } ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://livestockconservancy.org/delaware-chicken/" },
+      { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" }
+    ],
+    "comb": [ { "value": "single, five-pointed", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "skin_color": [ { "value": "yellow, with white feather quills for a cleaner-looking carcass", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "varieties": [ { "value": ["barred Columbian"], "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://livestockconservancy.org/delaware-chicken/" } ],
+    "conservation_status": [
+      { "value": "Critical (2010, Livestock Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+      { "value": "Threatened (2013, Livestock Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+      { "value": "Watch (2021, Livestock Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+      { "value": "Recovering (2024, Livestock Conservancy)", "source_url": "https://livestockconservancy.org/delaware-chicken/" }
+    ],
+    "origin_country": [ { "value": "United States", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "origin_year_or_period": [ { "value": "1940", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ],
+    "notable_traits": [ { "value": ["fast growth and feathering", "does well in free-range operations", "sex-linked offspring when crossed with New Hampshire or Rhode Island Red"], "source_url": "https://livestockconservancy.org/delaware-chicken/" } ],
+    "history_summary": [ { "value": "Bred by George Ellis in Delaware starting in 1940 from light-colored 'sport' offspring of Barred Plymouth Rock and New Hampshire crosses, it was first called the Indian River and became the dominant broiler chicken on the Delmarva Peninsula for roughly two decades. It was displaced by the Cornish-Rock cross in the late 1950s and is now an endangered heritage breed, though its conservation status has improved from critical in 2010 to recovering by 2024.", "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" } ]
+  }
+}

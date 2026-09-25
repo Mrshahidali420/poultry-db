@@ -1,0 +1,41 @@
+{
+  "id": "sicilian-buttercup",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 180, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 180, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "temperament": [
+      { "value": ["active", "friendly", "tame"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/" }
+    ],
+    "origin_country": [
+      { "value": "Sicily, Italy", "source_url": "https://en.wikipedia.org/wiki/Sicilian_Buttercup" }
+    ],
+    "conservation_status": [
+      { "value": "Threatened (American Livestock Conservancy); Rare and Native Breeds list (Rare Breeds Survival Trust, UK)", "source_url": "https://en.wikipedia.org/wiki/Sicilian_Buttercup" }
+    ],
+    "comb": [
+      { "value": "cup-shaped (buttercup)", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/" }
+    ],
+    "earlobe_color": [
+      { "value": "red (older/British standard) or white (American standard changed late 1920s)", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/" }
+    ],
+    "notable_traits": [
+      { "value": ["unique cup-shaped comb with a complete circle of points", "hens have golden-buff plumage with small black diagonal spangles", "active foragers that prefer free range"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "history_summary": [
+      { "value": "The Sicilian Buttercup descends from the older Siciliana breed of Sicily and was brought to the United States in the 1800s, later reaching Britain and Australia in the early 1900s. It is best known for its distinctive cup-shaped comb, a trait depicted in Italian paintings dating back to the sixteenth century.", "source_url": "https://en.wikipedia.org/wiki/Sicilian_Buttercup" }
+    ]
+  }
+}

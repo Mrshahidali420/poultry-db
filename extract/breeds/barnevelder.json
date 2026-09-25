@@ -1,0 +1,35 @@
+{
+  "id": "barnevelder",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 175, "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "purpose": [
+      {"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "varieties": [
+      {"value": ["double-laced", "double-laced blue", "black", "white", "silver double-laced", "silver-black double-laced", "partridge", "crele"], "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "origin_country": [
+      {"value": "Netherlands", "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "origin_year_or_period": [
+      {"value": "late 19th century, recognised 1923", "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "notable_traits": [
+      {"value": ["lays well through winter", "developed from Asian 'Shanghai' stock crossed with local Dutch fowl"], "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ],
+    "history_summary": [
+      {"value": "The breed formed in the Barneveld area of the Netherlands from crosses of local farmyard chickens with imported Asian stock such as Brahma, Cochin and Croad Langshan from the 1850s onward. It was named and shown from 1911, standardised in the 1920s, and later exported to Britain for its brown egg production.", "source_url": "https://en.wikipedia.org/wiki/Barnevelder"}
+    ]
+  }
+}

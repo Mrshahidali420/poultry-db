@@ -1,0 +1,55 @@
+{
+  "id": "mareks-disease",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["chickens (most important host)", "turkeys", "quail"], "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" },
+      { "value": ["chickens", "quail", "rarely turkeys"], "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-mareks-disease-small-flocks" },
+      { "value": ["pheasants and peafowl have also been reported infected; mammals appear not to be susceptible"], "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" }
+    ],
+    "pathogen": [
+      { "value": "Marek's disease virus (MDV), an alphaherpesvirus in the genus Mardivirus", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" }
+    ],
+    "how_it_spreads": [
+      { "value": ["carried in dander shed from feather follicles", "spread by breathing in contaminated dust/dander"], "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": ["the virus can survive for months in poultry house litter and dust", "spreads quickly bird to bird once introduced into a flock", "infected birds can shed the virus for life"], "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" },
+      { "value": ["not spread vertically (hen to egg)"], "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" }
+    ],
+    "key_symptoms": [
+      { "value": ["uneven paralysis of one or more legs or wings", "difficulty breathing or crop swelling when the vagus nerve is affected", "grey discoloration and unequal pupil size in the eyes, with possible blindness", "firm round lesions at feather follicles on the skin", "depression, paralysis and sudden death in unvaccinated flocks during acute outbreaks"], "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": ["one leg stretched forward, one leg back is a typical stance in affected birds", "enlarged peripheral nerves", "lymphoid tumors in organs such as the liver, spleen, heart, lungs and kidneys", "skin lesions found at processing (sometimes called skin leukosis)"], "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" }
+    ],
+    "mortality": [
+      { "value": "in acute outbreaks, depression, paralysis and death can affect up to 80% of an unvaccinated flock", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": "current, more virulent strains have caused mortality reaching 100% in unvaccinated chickens", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": "outbreaks with mortality from tumors reaching 40-80% in chickens 8 to 17 weeks old have been reported in commercial flocks", "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" }
+    ],
+    "incubation_period": [
+      { "value": "microscopic changes appear about one to two weeks after infection, with visible (gross) lesions developing after three to four weeks", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": "disease is seen from about 3-4 weeks of age onward, most often between 12 and 30 weeks of age", "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-mareks-disease-small-flocks" }
+    ],
+    "diagnosis": [
+      { "value": "Diagnosis combines history and clinical signs, gross post-mortem findings (enlarged nerves and lymphoid tumors), and histological examination, with advanced lab methods such as immunohistochemistry, PCR and virus isolation used to confirm the diagnosis and rule out similar tumor diseases.", "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" }
+    ],
+    "prevention": [
+      { "value": ["vaccination reduces the amount of virus shed even though it does not stop infection", "keeping positive flocks closed with no birds added or removed", "strict biosecurity and cleaning to cut down dander buildup", "good diet and stress reduction to keep flocks healthier"], "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": ["vaccination", "biosecurity", "breeding birds for genetic resistance"], "source_url": "https://www.merckvetmanual.com/poultry/neoplasms-in-poultry/marek-s-disease-in-poultry" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" }
+    ],
+    "treatment_overview": [
+      { "value": "There is no cure; supportive care such as a proper diet, parasite control and reducing stress can help affected flocks.", "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" },
+      { "value": "No treatment is available; infected birds do not recover.", "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-mareks-disease-small-flocks" }
+    ],
+    "summary": [
+      { "value": "Marek's disease is a highly contagious herpesvirus infection of chickens that causes nerve damage, paralysis and tumors, spreading through dander shed from feather follicles. There is no cure once a bird is infected, but vaccination is highly effective at preventing the tumors and disease signs, even though vaccinated birds can still carry and spread the virus." , "source_url": "https://en.wikipedia.org/wiki/Marek's_disease" }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "utrerana",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "eggs_per_year_max": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "hen_weight_kg": [ {"value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "rooster_weight_kg": [ {"value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "origin_country": [ {"value": "Spain", "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "origin_year_or_period": [ {"value": "from about 1926", "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "varieties": [ {"value": ["barred (franciscana)", "black", "partridge", "white"], "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "notable_traits": [ {"value": ["medium-sized breed", "slate-grey or black legs in partridge and black varieties, unpigmented in barred and white", "well-flavoured meat", "eggs weigh 62-64 g"], "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ],
+   "history_summary": [ {"value": "The Utrerana was developed from about 1926 by Joaquin del Castillo near Utrera in Andalusia, Spain, initially by selecting local rustic hens for better egg laying and later for distinct colour varieties. Four colour strains were eventually established: black, barred, white and partridge.", "source_url": "https://en.wikipedia.org/wiki/Utrerana"} ]
+ }
+}

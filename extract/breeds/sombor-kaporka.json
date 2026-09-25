@@ -1,0 +1,13 @@
+{
+  "id": "sombor-kaporka",
+  "fields": {
+    "eggs_per_year_min": [{"value": 200, "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "eggs_per_year_max": [{"value": 220, "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "purpose": [{"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "crest": [{"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "origin_country": [{"value": "Serbia", "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "origin_year_or_period": [{"value": "early 20th century", "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "notable_traits": [{"value": ["some hens lay as many as 260 eggs a year", "crested"], "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}],
+    "history_summary": [{"value": "The Sombor Kaporka was created in the early 1900s in the Vojvodina region of northern Serbia by crossing imported Sulmtaler and Houdan chickens with local birds. A breed standard for it was set around 1918, and it is raised today as a dual-purpose egg and meat bird.", "source_url": "https://en.wikipedia.org/wiki/Sombor_Kaporka"}]
+  }
+}

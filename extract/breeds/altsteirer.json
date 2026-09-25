@@ -1,0 +1,20 @@
+{
+ "id": "altsteirer",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 130, "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "eggs_per_year_max": [ {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "egg_color": [ {"value": "ivory", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "egg_size": [ {"value": "small", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "hen_weight_kg": [ {"value": "1.8-2.2", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "rooster_weight_kg": [ {"value": "2.5-3.0", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "comb": [ {"value": "single, upright", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "varieties": [ {"value": ["red-brown (partridge-like)", "white", "barred"], "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "origin_country": [ {"value": "Slovenia/Austria (Styria)", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "origin_year_or_period": [ {"value": "first described 1894, standard 1902", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "conservation_status": [ {"value": "stable population, approx. 1650 birds (2020)", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "notable_traits": [ {"value": ["only autochthonous chicken breed native to the Slovenian area", "low egg output makes it unsuited to commercial farming", "lays best under traditional extensive backyard rearing"], "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ],
+   "history_summary": [ {"value": "The Altsteirer, or Styrian Hen, is native to the Styria region spanning Slovenia and Austria, with capons of this type recorded as far back as 1352 and the breed formally described in 1894. Its numbers collapsed after the Second World War under industrial poultry farming, and it was later rebuilt in Slovenia from surviving farm flocks.", "source_url": "https://en.wikipedia.org/wiki/Altsteirer"} ]
+ }
+}

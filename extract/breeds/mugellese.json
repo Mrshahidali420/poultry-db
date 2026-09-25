@@ -1,0 +1,56 @@
+{
+  "id": "mugellese",
+  "fields": {
+    "egg_color": [
+      { "value": "ivory-white", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "hen_weight_kg": [
+      { "value": 0.7, "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 0.8, "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "temperament": [
+      { "value": ["active", "lively", "cocks aggressive toward other cocks"], "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "heat_tolerant": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "varieties": [
+      { "value": ["dark golden (partridge)", "wheaten buff (hens)"], "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "comb": [
+      { "value": "single, 4-6 points", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "earlobe_color": [
+      { "value": "red to white (white preferred)", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "conservation_status": [
+      { "value": "not officially recognised as a breed in Italy as of 2012, but under consideration; recovering from a period of rarity", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "origin_country": [
+      { "value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "notable_traits": [
+      { "value": ["true bantam breed", "will roost in trees if allowed", "hens can sit almost year-round", "traditionally given to children old enough to care for them", "capons were historically used to raise chicks"], "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ],
+    "history_summary": [
+      { "value": "The Mugellese is a traditional small dual-purpose chicken from the Mugello area near Florence, once common both on farms and as a dooryard or balcony pet. It became rare in the later twentieth century and is now being revived, though it is still not an officially recognised Italian breed.", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+    ]
+  }
+}

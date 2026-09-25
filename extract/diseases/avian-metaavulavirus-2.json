@@ -1,0 +1,36 @@
+{
+  "id": "avian-metaavulavirus-2",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["Avian paramyxovirus 2", "APMV-2"], "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "species_affected": [
+      { "value": ["turkeys", "chickens", "passerine wild birds", "rails", "parrots (psittacines)"], "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "pathogen": [
+      { "value": "Avian metaavulavirus 2 (formerly Avian paramyxovirus 2), a paramyxovirus", "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "how_it_spreads": [
+      { "value": ["spreads slowly between flocks, likely from contact with infected wild birds", "exact route between domestic birds is not well defined"], "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "key_symptoms": [
+      { "value": ["mild or no respiratory symptoms in chickens", "more severe sinus infection and dropped egg production reported in turkeys", "reduced hatchability and egg infertility"], "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "prevention": [
+      { "value": ["keeping domestic flocks separated from wild birds (bird-proofing housing)", "good sanitation"], "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ],
+    "summary": [
+      { "value": "Avian metaavulavirus 2 is a paramyxovirus mainly found in turkeys and wild birds, and chickens are usually only mildly affected or show no symptoms. It spreads slowly, likely from contact with wild birds, and prevention centers on keeping domestic flocks away from wild bird contact.", "source_url": "https://en.wikipedia.org/wiki/Avian_metaavulavirus_2" }
+    ]
+  }
+}

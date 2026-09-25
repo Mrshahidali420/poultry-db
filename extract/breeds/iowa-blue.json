@@ -1,0 +1,20 @@
+{
+  "id": "iowa-blue",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "egg_color": [ { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "rooster_weight_kg": [ { "value": 3.2, "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "hen_weight_kg": [ { "value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "temperament": [ { "value": ["can be skittish", "fairly docile"], "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "comb": [ { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "varieties": [ { "value": ["silvery white head with dark brown/black penciled body and white lacing"], "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "conservation_status": [ { "value": "Study (American Livestock Breeds Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "origin_country": [ { "value": "United States (Iowa)", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "origin_year_or_period": [ { "value": "early 20th century", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ],
+    "notable_traits": [ { "value": ["roosters are notably good hawk fighters and flock guardians", "good foragers", "nearly went extinct by the 1980s"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" } ],
+    "history_summary": [ { "value": "A rare American dual-purpose breed of uncertain origin from near Decorah, Iowa, in the early twentieth century, surrounded by an improbable folk legend involving a pheasant sire. Never officially recognized by any poultry association, it nearly disappeared once Iowa hatcheries stopped selling it, but has been kept going by a small group of dedicated breeders.", "source_url": "https://en.wikipedia.org/wiki/Iowa_Blue" } ]
+  }
+}

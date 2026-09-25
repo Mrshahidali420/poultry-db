@@ -1,0 +1,35 @@
+{
+  "id": "barbu-de-grubbe",
+  "fields": {
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "origin_year_or_period": [
+      {"value": "about 1904", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.7, "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "egg_color": [
+      {"value": "creamy white", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "egg_size": [
+      {"value": "small", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "conservation_status": [
+      {"value": "in danger (2012, Belgium)", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "notable_traits": [
+      {"value": ["rumpless (no tail or coccygeal bone)", "tail-less variant of the Barbu d'Anvers", "true bantam with no full-sized counterpart"], "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ],
+    "history_summary": [
+      {"value": "The Barbu de Grubbe arose around 1904 when a tail-less Barbu d'Anvers was born to breeder Robert Pauwels near Kortenberg, Belgium, who then bred a population of tail-less birds. The breed nearly disappeared after the First World War but survives today as a rare breed, recognised in Germany since 2008.", "source_url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe"}
+    ]
+  }
+}

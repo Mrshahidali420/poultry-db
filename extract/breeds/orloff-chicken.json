@@ -1,0 +1,50 @@
+{
+  "id": "orloff-chicken",
+  "fields": {
+    "egg_color": [
+      { "value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "temperament": [
+      { "value": ["calm"], "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "purpose": [
+      { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "varieties": [
+      { "value": ["black", "white", "spangled", "black-tailed red", "mahogany", "cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "comb": [
+      { "value": "small walnut", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "critically endangered (Livestock Conservancy); rare breed in the West", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Persia (Iran), popularised via Russia", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "distributed across Europe and Asia by the 17th century; promoted in Russia in the 19th century", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["thickly feathered head and neck, game-like appearance", "small walnut comb, small earlobes and tiny wattles help cold-hardiness", "was once dropped from the American Poultry Association's Standard of Perfection for lack of breeder interest"], "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ],
+    "history_summary": [
+      { "value": "Long thought to be Russian, the Orloff is now believed to have originated in Persia and spread across Europe and Asia by the 1600s, later becoming associated with Russia through the promotion of Count Alexei Orlov in the 1800s. It reached Central Europe in 1884 and Britain in the 1920s, and remains a rare, critically endangered breed in the West today.", "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken" }
+    ]
+  }
+}

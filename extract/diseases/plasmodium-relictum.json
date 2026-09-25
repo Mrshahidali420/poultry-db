@@ -1,0 +1,21 @@
+{
+  "id": "plasmodium-relictum",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["partridges", "canaries", "chickens", "ducks", "pigeons", "Magellanic penguins"], "source_url": "https://en.wikipedia.org/wiki/Plasmodium_relictum" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Plasmodium_relictum" }
+    ],
+    "pathogen": [
+      { "value": "Plasmodium relictum, described as the most common cause of malaria in birds", "source_url": "https://en.wikipedia.org/wiki/Plasmodium_relictum" }
+    ],
+    "how_it_spreads": [
+      { "value": ["transmitted by Culex mosquitoes (Culex quinquefasciatus, Cx. stigmatosoma, Cx. tarsalis)"], "source_url": "https://en.wikipedia.org/wiki/Plasmodium_relictum" }
+    ],
+    "summary": [
+      { "value": "Plasmodium relictum is the most widespread bird malaria parasite, infecting a wide range of species including chickens, ducks, pigeons and penguins, and is spread by Culex mosquitoes. The source text notes its range is expanding with climate change, and that experimentally infected owls did not appear susceptible." , "source_url": "https://en.wikipedia.org/wiki/Plasmodium_relictum" }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mericanel-della-brianza",
+  "fields": {
+    "egg_color": [
+      { "value": "cream to light brown", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 0.6, "max": 0.7 }, "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 0.7, "max": 0.8 }, "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "varieties": [
+      { "value": ["white", "black", "silver", "gold", "pyle", "white-spotted black"], "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "comb": [
+      { "value": "single, five points, pronounced rear lobe", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "conservation_status": [
+      { "value": "low numbers, around 350 breeding birds as of a 2007 study", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "origin_country": [
+      { "value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "origin_year_or_period": [
+      { "value": "selectively bred from local dwarf strains in the early 1900s", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "notable_traits": [
+      { "value": ["true bantam breed with no large fowl counterpart", "was the only officially recognised Italian bantam breed as of early 2012"], "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ],
+    "history_summary": [
+      { "value": "The Mericanel della Brianza is a small traditional bantam breed from the Brianza area near Milan, bred from local dwarf stock in the early twentieth century. Its breed standard was approved in 1996 and it remains rare, with only a few hundred birds recorded.", "source_url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza" }
+    ]
+  }
+}

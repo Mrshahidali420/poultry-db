@@ -1,0 +1,42 @@
+{
+  "id": "avian-infectious-bronchitis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["IB", "infectious bronchitis virus (IBV)"], "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "species_affected": [
+      { "value": ["chickens"], "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "pathogen": [
+      { "value": "Avian infectious bronchitis virus (IBV), a coronavirus with many strains", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "key_symptoms": [
+      { "value": ["gasping", "coughing", "sneezing", "rattling breathing sounds", "nasal discharge", "in layers: dropped egg production, misshapen or discolored eggs, thin or watery-white eggs"], "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "mortality": [
+      { "value": "Nearly all unvaccinated birds get sick; deaths can reach up to 60% in unvaccinated flocks depending on the virus strain, and some strains cause kidney failure deaths in young birds", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "diagnosis": [
+      { "value": "Hard to tell apart from other chicken respiratory illnesses by signs alone; confirming it needs isolating and characterizing the virus, usually by PCR-based genetic testing, or detecting antibodies", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "prevention": [
+      { "value": ["vaccination, though many strains and vaccine failures make full protection difficult", "keeping flocks well spaced apart", "isolating new or sick birds", "disinfection"], "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "treatment_overview": [
+      { "value": "No specific treatment; antibiotics may be given to prevent secondary infections", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ],
+    "summary": [
+      { "value": "Avian infectious bronchitis is a fast-spreading viral respiratory illness of chickens that also drops egg production and quality in laying hens. There is no cure, so prevention relies on vaccination and good biosecurity, though the virus has many strains that can get around existing vaccines.", "source_url": "https://en.wikipedia.org/wiki/Avian_infectious_bronchitis" }
+    ]
+  }
+}

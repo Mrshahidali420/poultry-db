@@ -1,0 +1,21 @@
+{
+  "id": "mardivirus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "quail"], "source_url": "https://en.wikipedia.org/wiki/Mardivirus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Mardivirus" }
+    ],
+    "pathogen": [
+      { "value": "Mardivirus, a herpesvirus genus that includes Gallid herpesvirus 2 (Marek's disease virus)", "source_url": "https://en.wikipedia.org/wiki/Mardivirus" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Mardivirus" }
+    ],
+    "summary": [
+      { "value": "Mardivirus is a genus of herpesviruses whose natural hosts include chickens, turkeys and quail. One member of the genus, the virus that causes Marek's disease, is pathogenic and produces paralysis and tumors, while two closely related, harmless members of the genus are used as vaccine strains against it.", "source_url": "https://en.wikipedia.org/wiki/Mardivirus" }
+    ]
+  }
+}

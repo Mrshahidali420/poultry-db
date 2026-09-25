@@ -1,0 +1,50 @@
+{
+  "id": "bergische-kr-her",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 130, "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 130, "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "egg_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 3.25, "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "broodiness": [
+      {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "varieties": [
+      {"value": ["gold-laced black", "black-silver (rare)"], "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "origin_country": [
+      {"value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "origin_year_or_period": [
+      {"value": "bred for hundreds of years, standardised 1885", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "conservation_status": [
+      {"value": "extremely endangered (GEH Rote Liste category I)", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "earlobe_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "notable_traits": [
+      {"value": ["unusually long crow, up to five times longer than other breeds", "long-crowing breed group", "broad lacing on breast feathers", "bred for crowing contests"], "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ],
+    "history_summary": [
+      {"value": "The breed has been kept in Germany's Bergisches Land for centuries, likely brought from south-east Europe or the Middle East and spread by Cistercian monks, and was selectively bred for its unusually long crow. A breed association formed in 1884 and it remains a rare, extremely endangered breed today.", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her"}
+    ]
+  }
+}

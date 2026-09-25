@@ -1,0 +1,49 @@
+{
+  "id": "legbar",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 180, "source_url": "https://en.wikipedia.org/wiki/Legbar" },
+      { "value": 160, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "egg_color": [
+      { "value": "blue, olive or green (cream variety)", "source_url": "https://en.wikipedia.org/wiki/Legbar" },
+      { "value": "sky-blue or pale green", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "temperament": [
+      { "value": ["active", "good forager"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "varieties": [
+      { "value": ["gold", "silver", "cream"], "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "crest": [
+      { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "origin_country": [
+      { "value": "United Kingdom", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "origin_year_or_period": [
+      { "value": "early 20th century", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "autosexing": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "conservation_status": [
+      { "value": "rare breed, on the Rare Breed Survival Trust watchlist (not priority)", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "notable_traits": [
+      { "value": ["created by crossing barred Plymouth Rock with brown Leghorns to give sex-linked chick colouring", "cream variety has a small crest sloping back from the eyes", "day-old chicks can be sexed by stripe markings"], "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ],
+    "history_summary": [
+      { "value": "The Legbar was bred in the early 1900s by Reginald Punnett and Michael Pease at Cambridge University by crossing Plymouth Rock and Leghorn birds to create an auto-sexing layer. The cream Legbar, which lays blue-green eggs and has a crest, arose later from an accidental cross with Araucana stock.", "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "delaware-blue-hen",
+  "fields": {
+    "purpose": [ { "value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen" } ],
+    "earlobe_color": [ { "value": "white (in the current University of Delaware flock, after crossing with Blue Andalusian)", "source_url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen" } ],
+    "origin_country": [ { "value": "United States (Delaware)", "source_url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen" } ],
+    "origin_year_or_period": [ { "value": "name dates from 1775", "source_url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen" } ],
+    "notable_traits": [ { "value": ["official state bird of Delaware", "modern flock crossed with Blue Andalusian and no longer resembles the original fighting strain"], "source_url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen" } ],
+    "history_summary": [ { "value": "Not a formally recognized chicken breed but a blue strain of American gamecock tied to a Delaware regiment in the Revolutionary War, with a name dating to 1775; it became Delaware's official state bird in 1939. The flock kept today by the University of Delaware has been crossbred with Blue Andalusian stock and no longer looks like the original fighting birds.", "source_url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen" } ]
+  }
+}

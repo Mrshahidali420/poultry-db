@@ -1,0 +1,13 @@
+{
+  "id": "stara-zagora-red",
+  "fields": {
+    "eggs_per_year_min": [{"value": 215, "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "eggs_per_year_max": [{"value": 220, "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "egg_color": [{"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "conservation_status": [{"value": "critical (SAVE Foundation, 2009)", "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "origin_country": [{"value": "Bulgaria", "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "origin_year_or_period": [{"value": "about 1970", "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "notable_traits": [{"value": ["bright red feathering", "broad straight back", "full breast", "well-developed wattles and comb"], "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}],
+    "history_summary": [{"value": "The Stara Zagora Red was created around 1970 by crossing local hens from the Stara Zagora region of Bulgaria with Rhode Island Red cocks, with the red colour fixed by the second generation. It is now a rare breed, kept mainly by the Bulgarian Poultry Institute and a handful of breeders.", "source_url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red"}]
+  }
+}

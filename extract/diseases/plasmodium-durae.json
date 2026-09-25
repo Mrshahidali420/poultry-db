@@ -1,0 +1,21 @@
+{
+  "id": "plasmodium-durae",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      { "value": ["domestic turkeys", "Swainson's francolin"], "source_url": "https://en.wikipedia.org/wiki/Plasmodium_durae" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Plasmodium_durae" }
+    ],
+    "pathogen": [
+      { "value": "Plasmodium durae, an avian malaria parasite", "source_url": "https://en.wikipedia.org/wiki/Plasmodium_durae" }
+    ],
+    "how_it_spreads": [
+      { "value": ["passes between bird hosts by way of an insect host, as with other Plasmodium species"], "source_url": "https://en.wikipedia.org/wiki/Plasmodium_durae" }
+    ],
+    "summary": [
+      { "value": "Plasmodium durae is an avian malaria parasite found in the United States and South Africa, documented in domestic turkeys and Swainson's francolin. The source text does not mention chickens as a host." , "source_url": "https://en.wikipedia.org/wiki/Plasmodium_durae" }
+    ]
+  }
+}

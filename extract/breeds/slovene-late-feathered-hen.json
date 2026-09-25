@@ -1,0 +1,50 @@
+{
+  "id": "slovene-late-feathered-hen",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "egg_color": [
+      { "value": "bright brown", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 4.5, "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "origin_country": [
+      { "value": "Slovenia", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "origin_year_or_period": [
+      { "value": "developed from around 1960 from imported White Plymouth Rock stock", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "conservation_status": [
+      { "value": "very small population, 340 birds recorded in 2020 (up from about 320 in 2006)", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "autosexing": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "notable_traits": [
+      { "value": ["white plumage with slow feathering speed", "yellow eyes and yellow legs", "when crossed with an early-feathering rooster, offspring can be autosexed by feather speed", "used as a grandparent line for the Prelux-BRO commercial broiler hybrid"], "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ],
+    "history_summary": [
+      { "value": "The Slovene Late-feathered Hen was developed from around 1960 from imported White Plymouth Rock stock brought to a farm near Pivka, with slow-feathering birds selected and refined at a research station and later at the University of Ljubljana. It is now the only traditional Slovenian meat-type chicken breed, kept in small numbers mainly for broiler breeding.", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" }
+    ]
+  }
+}

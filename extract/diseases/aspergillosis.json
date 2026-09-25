@@ -1,0 +1,58 @@
+{
+  "id": "aspergillosis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": "brooder pneumonia", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "species_affected": [
+      {"value": "chickens and turkeys mainly; also ducklings, pigeons, canaries, geese and other wild or pet birds", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "also reported in pet parrots, ducks (especially mallards), captive falcons and hawks, and the wild kakapo parrot", "source_url": "https://en.wikipedia.org/wiki/Aspergillosis"}
+    ],
+    "cause_type": [
+      {"value": "fungal", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "pathogen": [
+      {"value": "Aspergillus fumigatus most commonly, also A. flavus and A. niger; other molds like Rhizopus, Mucor and Penicillium can cause a similar disease", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "contagious": [
+      {"value": "no", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "how_it_spreads": [
+      {"value": "birds breathe in fungal spores from moldy bedding, litter, feed, or dusty range areas", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "spores become airborne when wet, moldy bedding dries out and is then disturbed", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "contaminated hatchery air-handling or ventilation systems can be a recurring source", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "chicks can be exposed to spores while hatching from contaminated eggs or contaminated bedding", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "key_symptoms": [
+      {"value": "labored or difficult breathing", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "fever", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "reduced appetite and poor growth", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "increased mortality, especially in young birds", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "occasionally head tilt and tremors if the infection reaches the brain", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "occasionally eye plaques with mycotic keratitis", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "mortality": [
+      {"value": "can be high in chicks and young poults that inhale large numbers of spores; survivors are often smaller than normal afterward", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "diagnosis": [
+      {"value": "based on clinical signs and typical lesions (whitish nodules/plaques in the lungs and air sacs), confirmed with fungal culture or microscopic examination of tissue", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "prevention": [
+      {"value": "do not use moldy bedding, litter or feed", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "avoid letting bedding get wet and then dry out, since this triggers mold growth and later releases spores when disturbed", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "keep ventilation good, unless the ventilation system itself is the source of contamination", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "do not set cracked or heavily soiled eggs for incubation", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"},
+      {"value": "thoroughly clean and disinfect hatcheries and housing between flocks, including fungicidal disinfectants on contaminated surfaces when no birds or eggs are present", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "treatment_overview": [
+      {"value": "there is no effective treatment for aspergillosis in poultry; birds can sometimes recover on their own once removed from the moldy environment", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "when_to_call_vet": [
+      {"value": "Call a vet if birds show labored breathing, poor growth, or unusual die-off, since aspergillosis needs lab confirmation to tell it apart from other respiratory diseases and there is no home treatment for it.", "source_url": "https://www.merckvetmanual.com/poultry/aspergillosis/aspergillosis-in-poultry"}
+    ],
+    "summary": [
+      {"value": "Aspergillosis, also called brooder pneumonia, is a fungal lung infection of young chickens and turkeys caused by breathing in mold spores from damp, moldy bedding, litter or feed. It is not spread bird-to-bird, has no effective treatment once a bird is sick, and is best managed by preventing mold in housing and removing affected birds from the contaminated environment."}
+    ]
+  }
+}

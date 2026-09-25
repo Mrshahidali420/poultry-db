@@ -1,0 +1,57 @@
+{
+  "id": "nankin-bantam",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 80, "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 100, "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "creamy white", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 0.62, "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 0.68, "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["calm", "friendly", "tame", "engaging"], "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "beginner_friendly": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "purpose": [
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" },
+      { "value": "eggs", "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "varieties": [
+      { "value": ["buff body with black tail (single colour breed, single-comb and rose-comb types)"], "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "comb": [
+      { "value": "single (five points) or rose", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+    ],
+    "conservation_status": [
+      { "value": "Critical (Livestock Conservancy, FAO 2007); estimated 50-100 birds in 2002", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "origin_country": [
+      { "value": "Southeast Asia (developed as a breed in Britain)", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "notable_traits": [
+      { "value": ["true bantam with no large-fowl counterpart", "one of the oldest bantam breeds", "ancestor of many other bantams, including the Sebright", "broody hens traditionally used to incubate pheasant, quail and partridge eggs", "slow to mature and a poor meat bird", "tends to stay in a tight group rather than wander"], "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ],
+    "history_summary": [
+      { "value": "The Nankin is thought to be one of the oldest true bantam breeds, likely originating in Southeast Asia and present in England since before the 1500s. It gave rise to many later bantam breeds such as the Sebright, and survived partly through its use as a broody hen for hatching game bird eggs, though it is now critically endangered.", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" }
+    ]
+  }
+}

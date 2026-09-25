@@ -1,0 +1,36 @@
+{
+  "id": "dorking-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "egg_color": [ { "value": "white to cream", "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "egg_size": [ { "value": "medium to large", "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 170, "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 190, "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "rooster_weight_kg": [
+      { "value": 4.55, "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" },
+      { "value": 6.35, "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" },
+      { "value": 4.1, "source_url": "https://livestockconservancy.org/dorking-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" },
+      { "value": 4.55, "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" },
+      { "value": 3.2, "source_url": "https://livestockconservancy.org/dorking-chicken/" }
+    ],
+    "temperament": [ { "value": ["calm", "gentle", "friendly", "tolerant"], "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "cold_hardy": [ { "value": "partly", "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "comb": [ { "value": "single (rose comb only in the Silver-Gray variety)", "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "skin_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "varieties": [ { "value": ["white", "silver-grey", "red", "dark/coloured", "cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "conservation_status": [
+      { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/dorking-chicken/" },
+      { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/dorking-chicken/" }
+    ],
+    "origin_country": [ { "value": "England (Surrey)", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ],
+    "notable_traits": [ { "value": ["five toes instead of the usual four", "prized table quality flesh", "excellent winter layer", "hens are exceptional mothers and will adopt other hens' chicks"], "source_url": "https://livestockconservancy.org/dorking-chicken/" } ],
+    "history_summary": [ { "value": "One of Britain's oldest chicken breeds, named after the Surrey market town of Dorking and possibly linked to the five-toed fowl described by the Roman writer Columella. It was Britain's leading meat breed until displaced by the Sussex in the early twentieth century, came close to extinction by the Second World War, and was revived when its breed club restarted in 1970.", "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" } ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ixworth-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "egg_color": [ { "value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "eggs_per_year_min": [ { "value": 270, "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "eggs_per_year_max": [ { "value": 270, "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "hen_weight_kg": [ { "value": 4.03, "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "comb": [ { "value": "pea", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "skin_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" } ],
+    "varieties": [ { "value": ["white (only recognised colour)"], "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "conservation_status": [
+      { "value": "endangered-maintained (FAO, 2007)", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" },
+      { "value": "Category 2: endangered (Rare Breeds Survival Trust, 2008)", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" }
+    ],
+    "origin_country": [ { "value": "England (Suffolk)", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "origin_year_or_period": [ { "value": "created 1932", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "notable_traits": [ { "value": ["meat commands premium prices", "fast-growing, high-quality table bird", "pea comb and small wattles aid cold hardiness"], "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ],
+    "history_summary": [ { "value": "Created in 1932 by Reginald Appleyard in the Suffolk village of Ixworth from white Sussex, Minorca, Orpington and Indian Game stock, it was bred as a fast-growing, high-quality dual-purpose table bird. It nearly disappeared in the 1970s and remains a rare, endangered breed today, valued for meat that commands premium prices.", "source_url": "https://en.wikipedia.org/wiki/Ixworth_chicken" } ]
+  }
+}

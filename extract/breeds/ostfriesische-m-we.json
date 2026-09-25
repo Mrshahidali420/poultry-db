@@ -1,0 +1,29 @@
+{
+  "id": "ostfriesische-m-we",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 170, "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "varieties": [
+      { "value": ["silver-pencilled", "gold-pencilled"], "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "conservation_status": [
+      { "value": "endangered (gefahrdet); 2016 population 215 cocks and 979 hens", "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "origin_country": [
+      { "value": "Germany (East Friesland)", "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "notable_traits": [
+      { "value": ["closely related to the Westfalische Totleger and the Braekel", "old traditional breed of rural East and West Friesland"], "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ],
+    "history_summary": [
+      { "value": "The Ostfriesische Mowe descends from the traditional farm chickens of East Friesland in north-west Germany and neighbouring West Friesland in the Netherlands, related to the Westfalische Totleger and the Braekel. It remains rare, with under 1,200 birds recorded in Germany in 2016.", "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ohiki",
+  "fields": {
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Ohiki" }
+    ],
+    "varieties": [
+      { "value": ["black-breasted red", "black-breasted silver", "white", "gold duckwing", "silver duckwing"], "source_url": "https://en.wikipedia.org/wiki/Ohiki" }
+    ],
+    "origin_country": [
+      { "value": "Japan (Kochi Prefecture, Shikoku)", "source_url": "https://en.wikipedia.org/wiki/Ohiki" }
+    ],
+    "origin_year_or_period": [
+      { "value": "Edo period (1603-1867)", "source_url": "https://en.wikipedia.org/wiki/Ohiki" }
+    ],
+    "notable_traits": [
+      { "value": ["true bantam breed with unusually long tail feathers on cocks that drag on the ground", "recognised as a Natural Monument of Japan in 1923", "thought to derive from crossing long-tailed breeds like the Onagadori with small bantams like the Chabo", "not bred in the UK until the 1990s"], "source_url": "https://en.wikipedia.org/wiki/Ohiki" }
+    ],
+    "history_summary": [
+      { "value": "The Ohiki is a Japanese true bantam from Kochi Prefecture, thought to have arisen during the Edo period from crossing long-tailed breeds such as the Onagadori with small bantams such as the Chabo. It was declared a Natural Monument of Japan in 1923 and was not bred in Britain until the 1990s.", "source_url": "https://en.wikipedia.org/wiki/Ohiki" }
+    ]
+  }
+}

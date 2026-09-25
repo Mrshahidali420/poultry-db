@@ -1,0 +1,66 @@
+{
+  "id": "phoenix-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 45, "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" },
+      { "value": 52, "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 120, "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" },
+      { "value": 126, "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "yellowish-white", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" },
+      { "value": "white to tinted brown", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "small to medium", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.8, "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.5, "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["docile", "independent", "aloof"], "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "medium", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "heat_tolerant": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "purpose": [
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" },
+      { "value": "ornamental", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ],
+    "varieties": [
+      { "value": ["gold", "silver", "orange", "black", "white", "partridge", "black-breasted red"], "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "white (oval)", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "comb": [
+      { "value": "single, five upright points, bright red", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+    ],
+    "conservation_status": [
+      { "value": "Watch (Livestock Conservancy); at risk/endangered in Germany and Australia, at risk/vulnerable in the US (1579 birds in 2015)", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "late 19th century", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["created by Hugo du Roi from Japanese long-tailed birds (similar to the Onagadori) crossed with hardier breeds including Leghorn, Malay and Old English Game", "does not carry the Onagadori's non-moulting gene, so its tail (still up to 90 cm or more) is shorter than the Onagadori's", "grouped by the Poultry Club of Great Britain with the Yokohama, and not separately recognised there", "only roosters grow the long tail"], "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Phoenix was created in Germany in the late 1800s by Hugo du Roi, who crossed delicate imported long-tailed Japanese birds related to the Onagadori with hardier European breeds to produce a more cold-tolerant long-tailed exhibition bird. It lost the Onagadori's non-moulting gene, so its tail, while still impressive, is shorter, and the breed remains endangered today.", "source_url": "https://en.wikipedia.org/wiki/Phoenix_chicken" }
+    ]
+  }
+}

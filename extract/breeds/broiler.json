@@ -1,0 +1,9 @@
+{
+ "id": "broiler",
+ "fields": {
+   "purpose": [ {"value": "meat", "source_url": "https://en.wikipedia.org/wiki/Broiler"} ],
+   "skin_color": [ {"value": "yellowish", "source_url": "https://en.wikipedia.org/wiki/Broiler"} ],
+   "notable_traits": [ {"value": ["typically white feathered", "bred for very fast growth and high feed conversion", "reaches slaughter weight around 2 kg in 5 to 7 weeks", "prone to skeletal and heart-related welfare problems from rapid growth", "slow-growing free-range/organic strains reach slaughter weight at 12-16 weeks"], "source_url": "https://en.wikipedia.org/wiki/Broiler"} ],
+   "history_summary": [ {"value": "The modern broiler emerged from pedigree breeding that began around 1916 and a Cornish x Plymouth Rock cross introduced in the 1930s, which became the dominant meat bird by the 1960s. Breeding programs since the 1950s, such as Donald Shaver's, further refined growth rate and traits like colour-sexing to produce today's fast-growing commercial broilers.", "source_url": "https://en.wikipedia.org/wiki/Broiler"} ]
+ }
+}

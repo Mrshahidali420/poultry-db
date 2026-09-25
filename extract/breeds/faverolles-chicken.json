@@ -1,0 +1,36 @@
+{
+  "id": "faverolles-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "egg_color": [ { "value": "tinted to light brown, sometimes pinkish", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "egg_size": [ { "value": "medium to large", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 150, "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "rooster_weight_kg": [
+      { "value": 4.08, "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" },
+      { "value": 4.98, "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" },
+      { "value": 3.6, "source_url": "https://livestockconservancy.org/faverolles-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" },
+      { "value": 4.3, "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" },
+      { "value": 2.9, "source_url": "https://livestockconservancy.org/faverolles-chicken/" }
+    ],
+    "temperament": [ { "value": ["gentle", "docile", "energetic", "adaptable", "curious", "friendly"], "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "broodiness": [ { "value": "medium", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "beginner_friendly": [ { "value": "yes", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "comb": [ { "value": "single, red", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "feathered_legs": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "skin_color": [ { "value": "pinkish-white", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ],
+    "varieties": [ { "value": ["Salmon", "White", "black", "ermine", "cuckoo", "mahogany", "splash", "blue"], "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "conservation_status": [
+      { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/faverolles-chicken/" },
+      { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/faverolles-chicken/" }
+    ],
+    "origin_country": [ { "value": "France", "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "origin_year_or_period": [ { "value": "developed in the 1860s", "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "notable_traits": [ { "value": ["beard and muffs", "feathered feet", "five toes per foot", "so docile it can be bullied by more assertive breeds"], "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" } ],
+    "history_summary": [ { "value": "Developed in the 1860s near the villages of Houdan and Faverolles in north-central France from a mix of breeds including the Houdan, Dorking, Brahma and Malines, it became a leading supplier of eggs and meat to the Paris market by the early 1900s. It reached Britain in the mid-1890s and the United States around 1901, and while it is now kept mainly for exhibition and as a pet for its gentle nature, it remains a good dual-purpose layer.", "source_url": "https://livestockconservancy.org/faverolles-chicken/" } ]
+  }
+}

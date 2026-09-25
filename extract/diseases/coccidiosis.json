@@ -1,0 +1,51 @@
+{
+  "id": "coccidiosis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "game birds", "cattle", "goats", "dogs", "cats", "ducks", "geese"], "source_url": "https://en.wikipedia.org/wiki/Coccidiosis" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Coccidiosis" }
+    ],
+    "pathogen": [
+      { "value": "Eimeria species protozoa (e.g. E. tenella, E. necatrix, E. acervulina, E. brunetti, E. maxima, E. mitis, E. praecox affect chickens)", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Coccidiosis" }
+    ],
+    "how_it_spreads": [
+      { "value": ["contact with infected droppings", "ingesting contaminated feed, water, litter or soil", "spread by equipment, footwear, insects and rodents"], "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Coccidiosis" }
+    ],
+    "key_symptoms": [
+      { "value": ["diarrhea, sometimes bloody", "weight loss", "reduced growth rate", "reduced feed and water intake", "drop in egg production", "lethargy and ruffled feathers", "can be fatal especially in young or sick birds"], "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "mortality": [
+      { "value": "varies from none in mild cases to high mortality in severe outbreaks, especially in young birds", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "incubation_period": [
+      { "value": "disease develops rapidly, over about 4 to 7 days from ingestion of infective oocysts", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "diagnosis": [
+      { "value": "finding oocysts in a fecal sample under a microscope, along with checking for characteristic gut damage at necropsy", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "prevention": [
+      { "value": ["anticoccidial medication mixed into feed", "vaccination of day-old chicks", "keeping birds off damp litter and away from droppings", "raising birds on wire floors reduces exposure"], "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "treatment_overview": [
+      { "value": "anticoccidial medication given in water once signs appear, along with supportive care to manage dehydration and prevent secondary bacterial infection", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Call a vet if chicks or young birds develop bloody or watery diarrhea with lethargy and poor appetite, since coccidiosis can turn fatal quickly.", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ],
+    "summary": [
+      { "value": "Coccidiosis is a common intestinal parasite disease of young chickens, spread through droppings that contaminate feed, water and litter. It causes diarrhea and poor growth and can kill quickly if untreated, but it is well controlled with anticoccidial feed additives or chick vaccination.", "source_url": "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry" }
+    ]
+  }
+}

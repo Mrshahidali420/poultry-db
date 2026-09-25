@@ -1,0 +1,74 @@
+{
+  "id": "sebright-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 60, "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 80, "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "creamy white", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "temperament": [
+      { "value": ["active", "spunky", "easily tamed"], "source_url": "https://livestockconservancy.org/sebright-chicken/" },
+      { "value": ["active", "easily tamed"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" },
+      { "value": "ornamental", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "varieties": [
+      { "value": ["gold laced", "silver laced"], "source_url": "https://livestockconservancy.org/sebright-chicken/" },
+      { "value": ["lemon (black-laced)", "chamois/buff (white-laced)"], "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "origin_country": [
+      { "value": "England", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "origin_year_or_period": [
+      { "value": "early 19th century (introduced 1810)", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "conservation_status": [
+      { "value": "Watch", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+    ],
+    "feathered_legs": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "skin_color": [
+      { "value": "slate blue", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "comb": [
+      { "value": "rose", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "mulberry or bright red", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["males are hen-feathered (no sickle tail feathers)", "true bantam with no large fowl counterpart", "same lacing pattern in both sexes"], "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Sebright was bred as an ornamental bantam by Sir John Saunders Sebright in the early 1800s, combining several small laced and game fowl to fix a sharply laced feather pattern. It became the first breed with its own specialist club and remains one of the oldest British bantam breeds.", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" }
+    ]
+  }
+}

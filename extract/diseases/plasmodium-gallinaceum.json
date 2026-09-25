@@ -1,0 +1,21 @@
+{
+  "id": "plasmodium-gallinaceum",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["poultry", "chickens (Gallus gallus domesticus)"], "source_url": "https://en.wikipedia.org/wiki/Plasmodium_gallinaceum" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Plasmodium_gallinaceum" }
+    ],
+    "pathogen": [
+      { "value": "Plasmodium gallinaceum, a malaria parasite of poultry", "source_url": "https://en.wikipedia.org/wiki/Plasmodium_gallinaceum" }
+    ],
+    "how_it_spreads": [
+      { "value": ["transmitted by bites from the Aedes aegypti mosquito"], "source_url": "https://en.wikipedia.org/wiki/Plasmodium_gallinaceum" }
+    ],
+    "summary": [
+      { "value": "Plasmodium gallinaceum is a malaria parasite that infects poultry, including chickens, and is spread by the Aedes aegypti mosquito. The source text focuses on the parasite's life cycle and its effect on blood chemistry rather than describing outward clinical signs." , "source_url": "https://en.wikipedia.org/wiki/Plasmodium_gallinaceum" }
+    ]
+  }
+}

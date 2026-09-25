@@ -1,0 +1,18 @@
+{
+  "id": "german-langshan",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "egg_color": [ { "value": "cream", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "egg_size": [ { "value": "large", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "rooster_weight_kg": [ { "value": 4.0, "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "comb": [ { "value": "single", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "varieties": [ { "value": ["black", "blue", "white"], "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "temperament": [ { "value": ["easily tamed"], "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "origin_country": [ { "value": "Germany", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "origin_year_or_period": [ { "value": "developed from Croad Langshan stock imported in 1879, completed by the early 20th century", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "notable_traits": [ { "value": ["\"wine glass\" profile from long legs and upright posture", "grows up fast", "heavy weight limits flight"], "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ],
+    "history_summary": [ { "value": "Developed in Germany from Croad Langshan stock imported in 1879, with some Minorca and Plymouth Rock influence, it became a distinct, tall, brown-tinted breed completed by the early twentieth century and given its own breed club in 1895. It is mostly kept for exhibition today, and the bantam version is more popular than the standard size in Britain.", "source_url": "https://en.wikipedia.org/wiki/German_Langshan" } ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "coucou-des-flandres",
+  "fields": {
+    "eggs_per_year_min": [ { "value": 150, "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "eggs_per_year_max": [ { "value": 150, "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "egg_color": [ { "value": "cream", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "comb": [ { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "varieties": [ { "value": ["cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "origin_country": [ { "value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "conservation_status": [ { "value": "critically endangered (Belgium)", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "notable_traits": [ { "value": ["good mothers", "good sitters"], "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ],
+    "history_summary": [ { "value": "An old Belgian breed of unclear origin, possibly linked to the Malines chicken of the Mechelen area, it vanished by the First World War and was recreated before the Second World War. It is now critically endangered in Belgium but more common in nearby northern France.", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" } ]
+  }
+}

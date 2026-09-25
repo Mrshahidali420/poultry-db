@@ -1,0 +1,38 @@
+{
+  "id": "pekin-bantam",
+  "fields": {
+    "hen_weight_kg": [
+      { "value": 0.57, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 0.65, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "temperament": [
+      { "value": ["docile", "tame with handling"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ],
+    "varieties": [
+      { "value": ["barred", "birchen", "black", "blue", "buff", "Columbian", "cuckoo", "lavender", "mottled", "partridge", "silver partridge", "white"], "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ],
+    "feathered_legs": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ],
+    "origin_country": [
+      { "value": "China (developed as a breed in Britain)", "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ],
+    "origin_year_or_period": [
+      { "value": "brought to Europe in the 19th century, around 1860", "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ],
+    "notable_traits": [
+      { "value": ["true bantam with no large fowl counterpart", "heavy leg and foot feathering like the Cochin, feet barely visible", "not closely related to the Cochin despite being treated as its bantam equivalent outside the UK", "known as Cochin Bantams in the US and Canada", "first birds reportedly looted from the Chinese Emperor's collection during the Second Opium War"], "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ],
+    "history_summary": [
+      { "value": "The Pekin Bantam descends from birds brought from China to Europe in the 1800s, with accounts crediting both an 1835 gift to Queen Victoria and an 1860 wartime looting for the breed's origin. It developed in Britain as a true bantam distinct from the Cochin, though other countries still treat it as the Cochin's bantam form.", "source_url": "https://en.wikipedia.org/wiki/Pekin_Bantam" }
+    ]
+  }
+}

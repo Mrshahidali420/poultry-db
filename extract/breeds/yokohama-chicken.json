@@ -1,0 +1,37 @@
+{
+ "id": "yokohama-chicken",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 60, "source_url": "https://livestockconservancy.org/yokohama-chicken/"} ],
+   "eggs_per_year_max": [
+     {"value": 80, "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"},
+     {"value": 80, "source_url": "https://livestockconservancy.org/yokohama-chicken/"}
+   ],
+   "egg_color": [
+     {"value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"},
+     {"value": "white/cream", "source_url": "https://livestockconservancy.org/yokohama-chicken/"},
+     {"value": "light tinted brown", "source_url": "https://livestockconservancy.org/yokohama-chicken/"}
+   ],
+   "egg_size": [ {"value": "small", "source_url": "https://livestockconservancy.org/yokohama-chicken/"} ],
+   "hen_weight_kg": [
+     {"value": 1.6, "source_url": "https://livestockconservancy.org/yokohama-chicken/"}
+   ],
+   "rooster_weight_kg": [
+     {"value": 2.2, "source_url": "https://livestockconservancy.org/yokohama-chicken/"}
+   ],
+   "broodiness": [ {"value": "high", "source_url": "https://livestockconservancy.org/yokohama-chicken/"} ],
+   "heat_tolerant": [ {"value": "no", "source_url": "https://livestockconservancy.org/yokohama-chicken/"} ],
+   "temperament": [
+     {"value": ["active", "alert"], "source_url": "https://livestockconservancy.org/yokohama-chicken/"},
+     {"value": ["easy to tame and handle"], "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+   ],
+   "purpose": [ {"value": "ornamental", "source_url": "https://livestockconservancy.org/yokohama-chicken/"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ],
+   "origin_country": [ {"value": "Germany (developed from imported Japanese fowl)", "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ],
+   "origin_year_or_period": [ {"value": "1880s", "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ],
+   "conservation_status": [ {"value": "Threatened", "source_url": "https://livestockconservancy.org/yokohama-chicken/"} ],
+   "comb": [ {"value": "pea or walnut", "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ],
+   "varieties": [ {"value": ["white", "red-saddled", "black-tailed buff", "blue-red", "spangled", "black-red", "golden duckwing", "silver duckwing"], "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ],
+   "notable_traits": [ {"value": ["very long tail and trailing saddle feathers, up to 3-4 feet", "yellow beak, legs and feet", "orange-red eyes", "small or missing wattles", "indifferent layers, go broody after a small clutch", "chicks need extra protein while tails grow"], "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ],
+   "history_summary": [ {"value": "The Yokohama was created in Germany in the 1880s by Hugo du Roi from long-tailed ornamental fowl imported from Japan through the port of Yokohama starting in the 1860s. Small surviving import stock forced breeders to outcross with Malay, Phoenix, game fowl and Sumatra chickens to keep the breed going, and it reached the US Standard of Perfection in 1981.", "source_url": "https://en.wikipedia.org/wiki/Yokohama_chicken"} ]
+ }
+}

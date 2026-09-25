@@ -1,0 +1,44 @@
+{
+  "id": "robusta-maculata",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 140, "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "egg_color": [
+      {"value": "pinkish brown", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 3.8, "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "earlobe_color": [
+      {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "skin_color": [
+      {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "origin_country": [
+      {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "origin_year_or_period": [
+      {"value": "1959-1965", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "notable_traits": [
+      {"value": ["silver-white plumage with black and silver hackles", "irregular black or dark grey markings", "black tail and wing-tips with green sheen"], "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ],
+    "history_summary": [
+      {"value": "The Robusta Maculata is a modern Italian dual-purpose breed created in the early 1960s at an experimental breeding centre in Rovigo, by crossing Buff Orpingtons with a commercial strain called White America. It is one of five local breeds included in a regional conservation project in Veneto, and its numbers remain low.", "source_url": "https://en.wikipedia.org/wiki/Robusta_Maculata"}
+    ]
+  }
+}

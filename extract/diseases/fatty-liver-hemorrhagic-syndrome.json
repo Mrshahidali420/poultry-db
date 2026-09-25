@@ -1,0 +1,46 @@
+{
+  "id": "fatty-liver-hemorrhagic-syndrome",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["fatty liver syndrome", "FLHS"], "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" }
+    ],
+    "species_affected": [
+      { "value": ["chickens (laying hens)", "other birds"], "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" }
+    ],
+    "cause_type": [
+      { "value": "nutritional", "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" },
+      { "value": "other", "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "contagious": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" }
+    ],
+    "key_symptoms": [
+      { "value": ["usually no warning signs before death", "overweight body condition", "pale comb and wattles", "decreased egg production"], "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" },
+      { "value": ["sudden death with no prior signs", "pale comb and wattles from blood loss"], "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "mortality": [
+      { "value": "Described as a major cause of death in laying hens; a 2019 study found 74% of caged-hen deaths were from this condition versus only 0-5% in cage-free/free-range hens", "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" },
+      { "value": "A leading noninfectious cause of death in backyard chickens; birds are typically found dead suddenly", "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "diagnosis": [
+      { "value": "Confirmed at necropsy by finding an enlarged, pale, fat-laden liver with hemorrhage", "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "prevention": [
+      { "value": ["avoiding excess dietary energy", "allowing hens room to exercise rather than caging them", "adding L-tryptophan to the diet"], "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" },
+      { "value": ["monitoring body weight and daily feed intake", "limiting energy intake or balancing carbohydrate and fat in the diet", "supplementing selenium and vitamin E or an antioxidant such as L-tryptophan"], "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "treatment_overview": [
+      { "value": "Because death is often sudden, treatment options are limited; management focuses on controlling energy intake and body weight along with vitamin and mineral supplementation to prevent the condition", "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ],
+    "when_to_call_vet": [
+      { "value": "An overweight caged hen with pale comb and dropping egg production should be evaluated, since fatty liver hemorrhagic syndrome often causes sudden unexpected death with few warning signs.", "source_url": "https://en.wikipedia.org/wiki/Fatty_liver_hemorrhagic_syndrome" }
+    ],
+    "summary": [
+      { "value": "Fatty liver hemorrhagic syndrome is a metabolic condition in which excess dietary energy and limited exercise cause too much fat to build up in a hen's liver, making it prone to sudden, often fatal internal bleeding. It mostly affects overweight, high-producing laying hens and is managed by controlling diet and body weight rather than by treatment after the fact.", "source_url": "https://www.merckvetmanual.com/poultry/fatty-liver-hemorrhagic-syndrome/fatty-liver-hemorrhagic-syndrome-in-poultry" }
+    ]
+  }
+}

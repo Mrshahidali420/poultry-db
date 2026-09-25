@@ -1,0 +1,51 @@
+{
+  "id": "duck-plague",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "other_names": [
+      { "value": ["duck viral enteritis"], "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "species_affected": [
+      { "value": ["ducks", "geese", "swans", "other waterfowl of the family Anatidae"], "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "pathogen": [
+      { "value": "Duck enteritis virus (DEV), a herpesvirus", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "how_it_spreads": [
+      { "value": ["contaminated water", "direct contact with infected birds", "carried by migratory waterfowl that show no symptoms", "passed from hen to egg"], "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "key_symptoms": [
+      { "value": ["sudden rise in flock deaths", "loss of appetite", "drop in egg production", "nasal discharge", "increased thirst", "diarrhea", "loss of coordination and tremors", "drooped wing", "refusal to drink"], "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "mortality": [
+      { "value": "can reach up to 90 percent, with death usually within 5 days of symptoms starting", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "incubation_period": [
+      { "value": "3 to 7 days in domestic waterfowl, up to 14 days in wild waterfowl", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "diagnosis": [
+      { "value": "based on clinical signs and post-mortem findings such as small bleeding spots in mucous membranes and organs, confirmed with tissue or antigen testing", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "prevention": [
+      { "value": ["routine vaccination with attenuated vaccine", "keeping birds away from wild waterfowl and contaminated water", "screening new birds before adding them to a flock"], "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "treatment_overview": [
+      { "value": "there is no treatment; outbreaks are managed by removing and isolating birds and thorough disinfection", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ],
+    "summary": [
+      { "value": "Duck plague is a highly fatal viral disease of ducks, geese and swans that spreads through contaminated water and direct contact, with migratory waterfowl often carrying it without symptoms. It is not known to infect chickens or humans, and prevention relies on vaccination and keeping flocks away from wild waterfowl.", "source_url": "https://en.wikipedia.org/wiki/Duck_plague" }
+    ]
+  }
+}

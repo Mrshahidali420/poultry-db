@@ -1,0 +1,42 @@
+{
+  "id": "eimeria",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["coccidiosis"], "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "species_affected": [
+      { "value": ["poultry (chickens)", "cattle", "sheep", "goats", "rabbits", "and many other animal hosts"], "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "pathogen": [
+      { "value": "Eimeria species (apicomplexan parasites); E. tenella, E. acervulina and E. maxima are the most economically important species in poultry", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "how_it_spreads": [
+      { "value": ["fecal-oral route, by ingesting oocysts shed in droppings", "spreads readily where many animals are kept closely confined"], "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "key_symptoms": [
+      { "value": ["diarrhea, sometimes bloody", "weight loss", "dehydration", "lethargy", "depression", "reduced normal grooming/preening behavior", "poor growth in young animals"], "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "diagnosis": [
+      { "value": "Severity depends on how many infective oocysts were ingested; light infections cause minimal, quickly repaired gut damage while heavy infections severely damage the intestinal lining", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "prevention": [
+      { "value": ["good husbandry practices", "preventive anticoccidial medication", "vaccinating newly hatched chicks with live attenuated vaccines"], "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "treatment_overview": [
+      { "value": "Prevention is generally considered more effective than treatment; anticoccidial medications are used, though drug resistance is a growing problem", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ],
+    "summary": [
+      { "value": "Eimeria are parasites that cause coccidiosis, a gut infection common in poultry that spreads when birds ingest droppings containing the parasite's oocysts. It causes diarrhea and poor growth, especially in young birds, and is mainly controlled through hygiene, preventive medication and vaccination rather than treating established infections.", "source_url": "https://en.wikipedia.org/wiki/Eimeria" }
+    ]
+  }
+}

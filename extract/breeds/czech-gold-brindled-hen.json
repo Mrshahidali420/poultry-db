@@ -1,0 +1,13 @@
+{
+  "id": "czech-gold-brindled-hen",
+  "fields": {
+    "eggs_per_year_min": [ { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "eggs_per_year_max": [ { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "comb": [ { "value": "single, red", "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "origin_country": [ { "value": "Czech Republic (Bohemia)", "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "origin_year_or_period": [ { "value": "first recorded 1205", "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "conservation_status": [ { "value": "endangered", "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "notable_traits": [ { "value": ["gold brindled plumage", "black tail", "slate-blue legs"], "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ],
+    "history_summary": [ { "value": "A very old Bohemian breed, first mentioned in 1205 when a flock was given as a wedding gift to the Danish king Valdemar II. It is now considered an endangered breed.", "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" } ]
+  }
+}

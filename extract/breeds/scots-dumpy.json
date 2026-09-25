@@ -1,0 +1,40 @@
+{
+  "id": "scots-dumpy",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "egg_color": [
+      {"value": "white or cream", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"},
+      {"value": "high", "source_url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-dumpy/"},
+      {"value": "high", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "temperament": [
+      {"value": ["docile"], "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "conservation_status": [
+      {"value": "at risk (2009 Rare Breeds Survival Trust listing); unknown as of 2025", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "origin_country": [
+      {"value": "Scotland", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "varieties": [
+      {"value": ["cuckoo", "black", "white"], "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "notable_traits": [
+      {"value": ["abnormally short legs (shanks no more than 3.75 cm)", "waddling or swimming gait", "used to hatch clutches of game-bird eggs", "also known as Bakie, Corlaigh, Crawler, Creeper or Stumpy"], "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ],
+    "history_summary": [
+      {"value": "The Scots Dumpy is a traditional Scottish short-legged breed bred for more than two centuries, which became very rare and was unsuccessfully searched for in Scotland in 1975. The breed was rebuilt from birds imported from Kenya in 1977, descendants of a flock taken there in 1902.", "source_url": "https://en.wikipedia.org/wiki/Scots_Dumpy"}
+    ]
+  }
+}

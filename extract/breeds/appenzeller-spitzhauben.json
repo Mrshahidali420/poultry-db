@@ -1,0 +1,15 @@
+{
+ "id": "appenzeller-spitzhauben",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "comb": [ {"value": "V-comb", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "crest": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "varieties": [ {"value": ["silver-spangled", "gold-spangled", "lemon-spangled", "chamois-spangled", "black", "blue"], "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "origin_country": [ {"value": "Switzerland", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "origin_year_or_period": [ {"value": "origin unknown, possibly 17th century; recovery project from 1983", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "conservation_status": [ {"value": "near extinction around 1950, recovered from 1983; small population, 243 hens/153 cocks (2019)", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "notable_traits": [ {"value": ["active breed that forages well and will roost in trees", "does poorly in close confinement", "very rare in North America and not recognized by the American Poultry Association", "silver-spangled is the most common colour"], "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ],
+   "history_summary": [ {"value": "The Appenzeller Spitzhauben has been bred in the Swiss Alps for centuries, though its exact origins are unclear and it may relate to the Brabanter of the Low Countries. It nearly went extinct around 1950 but was revived from 1983 with help from ProSpecieRara, hatching 230 chicks that year.", "source_url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben"} ]
+ }
+}

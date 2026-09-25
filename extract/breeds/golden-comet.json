@@ -1,0 +1,21 @@
+{
+  "id": "golden-comet",
+  "fields": {
+    "purpose": [ { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "eggs_per_year_min": [ { "value": 330, "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "eggs_per_year_max": [ { "value": 330, "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "temperament": [ { "value": ["laid-back", "relaxed", "amiable"], "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "heat_tolerant": [ { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "comb": [ { "value": "single, upright, red", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "lifespan_years": [ { "value": 4.5, "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "origin_country": [ { "value": "United States (developed by the Hubbard hatchery)", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "notable_traits": [ { "value": ["sex-linked, chick sex visible from hatch by color", "short productive lifespan, egg-laying drops off by age two to three", "prone to reproductive problems after age three", "comb is prone to frostbite"], "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ],
+    "history_summary": [ { "value": "A commercial sex-linked hybrid created by crossing a White Rock or Rhode Island White hen with a New Hampshire Red rooster, originated by the Hubbard hatchery. It is not recognized as a true breed by the American Poultry Association because it is a crossbreed, and while prized for very high egg production, its productive lifespan is short, typically two to three years.", "source_url": "https://en.wikipedia.org/wiki/Golden_Comet" } ]
+  }
+}

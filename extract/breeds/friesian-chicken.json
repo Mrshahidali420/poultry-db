@@ -1,0 +1,21 @@
+{
+  "id": "friesian-chicken",
+  "fields": {
+    "purpose": [ { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "eggs_per_year_min": [ { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "rooster_weight_kg": [ { "value": 1.4, "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" }, { "value": 1.6, "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "hen_weight_kg": [ { "value": 1.2, "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" }, { "value": 1.4, "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "temperament": [ { "value": ["active", "hardy", "flighty", "not docile"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://starmilling.com/poultry-chicken-breeds/" } ],
+    "comb": [ { "value": "single, red, small, five or six serrations", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "varieties": [ { "value": ["twelve colours recognised in the Netherlands", "eleven in Germany", "chamois-pencilled, gold-pencilled and silver-pencilled in the UK"], "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "origin_country": [ { "value": "Netherlands", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "origin_year_or_period": [ { "value": "ancient breed, earliest written description 1909", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "notable_traits": [ { "value": ["stands upright with tail held high", "white legs in the cuckoo variety, slate-blue in others", "good forager, expected to find most of its own food"], "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ],
+    "history_summary": [ { "value": "An old Dutch breed from the isolated Friesland coastal region, related to several other northern Dutch breeds, it was overtaken as an egg-layer by more productive breeds such as the Leghorn and Rhode Island Red from the early twentieth century. Numbers fell further during the First World War, but a Dutch breed society formed in 1922 helped preserve it, and it later gained followings in Germany and the UK.", "source_url": "https://en.wikipedia.org/wiki/Friesian_chicken" } ]
+  }
+}

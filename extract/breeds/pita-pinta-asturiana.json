@@ -1,0 +1,44 @@
+{
+  "id": "pita-pinta-asturiana",
+  "fields": {
+    "egg_color": [
+      { "value": "burnt-cream colour", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 2.5, "max": 3.0 }, "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 4.0, "max": 4.5 }, "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "temperament": [
+      { "value": ["tough", "responsive to environment"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "varieties": [
+      { "value": ["Pinta Negra (mottled black)", "Pinta Roxa (mottled red-brown)", "Blanca (white)", "Abedul (black)"], "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "comb": [
+      { "value": "single, 5-7 points", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "conservation_status": [
+      { "value": "rare; numbers fell almost to extinction in the 1950s-60s before recovery from the 1980s, about 2172 birds recorded by end of 2013", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "origin_country": [
+      { "value": "Spain (Asturias)", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "notable_traits": [
+      { "value": ["the only chicken breed indigenous to Asturias", "shares common origin with other north Spanish breeds such as the Euskal Oiloa of the Basque Country", "name means 'painted/mottled hen' in Asturian"], "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ],
+    "history_summary": [
+      { "value": "The Pita Pinta Asturiana is the only chicken breed native to the Asturias region of north-west Spain, related to other Atlantic-branch Spanish breeds like the Basque Euskal Oiloa. Industrialised egg production in the 1950s and 60s nearly wiped it out, but a recovery effort from the 1980s, backed by a breeders' association founded in 2003, has rebuilt its numbers.", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" }
+    ]
+  }
+}

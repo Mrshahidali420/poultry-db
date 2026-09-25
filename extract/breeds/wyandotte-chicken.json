@@ -1,0 +1,26 @@
+{
+ "id": "wyandotte-chicken",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "egg_color": [
+     {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"},
+     {"value": "light brown", "source_url": "https://starmilling.com/poultry-chicken-breeds/"}
+   ],
+   "hen_weight_kg": [ {"value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "rooster_weight_kg": [ {"value": 4.0, "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "broodiness": [ {"value": "high", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "temperament": [ {"value": ["friendly", "calm"], "source_url": "https://starmilling.com/poultry-chicken-breeds/"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "origin_country": [ {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "origin_year_or_period": [ {"value": "1870s", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "conservation_status": [ {"value": "removed from priority list in 2016 (previously listed 'recovering' by American Livestock Conservancy in 2015)", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "comb": [ {"value": "rose", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "skin_color": [ {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "earlobe_color": [ {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "varieties": [ {"value": ["black", "blue", "buff", "Columbian", "golden laced", "partridge", "silver laced", "silver penciled", "white"], "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "notable_traits": [ {"value": ["broad back and rounded breast", "clean legs", "excellent setters and mothers", "popular show bird especially in Germany"], "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ],
+   "history_summary": [ {"value": "The Wyandotte was developed in the United States in the 1870s, first as the silver-laced variety originally called the American Sebright, and was standardized by the American Poultry Association in 1883. Further colour varieties were produced over the following decades by crossing in Hamburg, Brahma, Cochin and Plymouth Rock stock.", "source_url": "https://en.wikipedia.org/wiki/Wyandotte_chicken"} ]
+ }
+}

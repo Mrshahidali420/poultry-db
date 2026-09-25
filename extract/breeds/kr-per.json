@@ -1,0 +1,38 @@
+{
+  "id": "kr-per",
+  "fields": {
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 1.5, "max": 2.0 }, "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "max": 2.25 }, "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "varieties": [
+      { "value": ["black", "white", "cuckoo", "silver", "gold", "partridge", "silver duckwing (bantam)"], "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "conservation_status": [
+      { "value": "gravely endangered (category 1, Rote Liste)", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "origin_country": [
+      { "value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "notable_traits": [
+      { "value": ["very short legs (7-10 cm)", "slate grey legs", "\"Dobbelung\" broad feather lacing in silver/gold birds"], "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ],
+    "history_summary": [
+      { "value": "The Kruper is an old German creeper breed from the Bergisches Land, related to two other local breeds with the same short-leg trait. It has become rare, and a genetic reserve of frozen semen was created after a 2013 census found fewer than 400 birds.", "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bassette-li-geoise",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 125, "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 1.0, "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.9, "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "purpose": [
+      {"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "varieties": [
+      {"value": ["quail", "silver quail", "partridge"], "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "origin_year_or_period": [
+      {"value": "19th century, standardised 1930", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "conservation_status": [
+      {"value": "at risk of extinction (unknown status as of 2025)", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "earlobe_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "notable_traits": [
+      {"value": ["larger than most bantams but smaller than full-sized breeds", "slate-blue beak and legs", "good sitters and mothers"], "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ],
+    "history_summary": [
+      {"value": "The breed developed in the Liege area of Wallonia from small partridge-coloured bantams crossed with local chickens, valued for hatching partridge and pheasant eggs. William Collier began selective breeding around 1917 and a standard was set in 1930, but the breed remains rare and at risk of extinction.", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise"}
+    ]
+  }
+}

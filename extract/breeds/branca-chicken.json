@@ -1,0 +1,18 @@
+{
+ "id": "branca-chicken",
+ "fields": {
+   "hen_weight_kg": [ {"value": 1.9, "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "rooster_weight_kg": [ {"value": 2.75, "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "origin_country": [ {"value": "Portugal", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "conservation_status": [ {"value": "not at risk (2024)", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "cold_hardy": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "broodiness": [ {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "comb": [ {"value": "single, five or six points", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "earlobe_color": [ {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "skin_color": [ {"value": "pale yellow shanks", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "varieties": [ {"value": ["white"], "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "notable_traits": [ {"value": ["naked neck with bare bright red skin", "pure white plumage", "active, hardy and disease-resistant", "good sitters with strong maternal behaviour"], "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ],
+   "history_summary": [ {"value": "The Branca is a traditional white naked-neck breed from north-western Portugal, kept on small family farms in the Entre Douro e Minho region for eggs and meat. It was the most endangered of the four Portuguese chicken breeds in 2016, with only a few hundred breeding birds, but its population had grown substantially by 2024.", "source_url": "https://en.wikipedia.org/wiki/Branca_(chicken)"} ]
+ }
+}

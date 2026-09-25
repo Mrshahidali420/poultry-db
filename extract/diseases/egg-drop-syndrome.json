@@ -1,0 +1,45 @@
+{
+  "id": "egg-drop-syndrome",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["EDS '76", "egg drop syndrome '76"], "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "ducks", "geese", "swans", "Japanese quail", "turkeys"], "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "pathogen": [
+      { "value": "Duck Atadenovirus A (also called duck adenovirus 1)", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "how_it_spreads": [
+      { "value": ["passed from hen to chick before hatching", "spread through eggs and droppings once mature birds start shedding virus", "reused contaminated egg trays", "contaminated drinking water"], "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "key_symptoms": [
+      { "value": ["sudden drop in egg production", "loss of eggshell color", "thin-shelled, soft-shelled or shell-less eggs", "rough or chalky shells", "watery egg whites", "smaller eggs", "temporary diarrhea", "anemia", "loss of appetite"], "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "mortality": [
+      { "value": "Increased mortality is not typically seen with this disease", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "diagnosis": [
+      { "value": "Clinical signs plus lab tests such as antibody blood tests or PCR, since it can look similar to other poultry diseases", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "prevention": [
+      { "value": ["cleaning and disinfecting breeding and laying areas and egg trays", "keeping healthy flocks separate from infected birds or wild waterfowl", "treating water supplies", "vaccinating pullets before they start laying"], "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "treatment_overview": [
+      { "value": "There is no treatment once a flock is infected; management relies on prevention and vaccination", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ],
+    "summary": [
+      { "value": "Egg drop syndrome is a viral infection of chickens and waterfowl that causes a sudden decline in egg output and poor shell quality without normally raising deaths. It spreads through infected eggs, droppings, and shared equipment, and is managed mainly through hygiene and vaccination since there is no cure.", "source_url": "https://en.wikipedia.org/wiki/Egg_drop_syndrome" }
+    ]
+  }
+}

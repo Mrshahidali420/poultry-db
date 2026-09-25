@@ -1,0 +1,33 @@
+{
+  "id": "streptococcal-infection-in-poultry",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": ["broiler chickens", "turkeys", "racing pigeons", "geese", "psittacine birds"], "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "cause_type": [
+      {"value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "pathogen": [
+      {"value": "Streptococcus species (opportunistic bacteria, several species involved)", "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "key_symptoms": [
+      {"value": ["septicaemia", "peritonitis", "salpingitis", "endocarditis"], "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "diagnosis": [
+      {"value": "Culturing bacteria from tissue taken at necropsy, or identifying it under a microscope; post-mortem exams show fragile internal organs, fluid in the abdomen, and signs of infection in joints, heart valves and brain.", "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "prevention": [
+      {"value": ["biosecurity protocols", "good hygiene"], "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "treatment_overview": [
+      {"value": "The bacteria should be cultured and tested for antibiotic sensitivity before starting treatment; antibiotics are generally effective.", "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ],
+    "summary": [
+      {"value": "Streptococcal infection in poultry is an opportunistic bacterial disease that can cause acute or chronic illness, including blood infection, abdominal infection, reproductive tract infection and heart valve infection. It affects chickens, turkeys, geese, pigeons and some other birds, and is managed with good hygiene, biosecurity, and antibiotics guided by culture testing; a vaccine exists against one causative species.", "source_url": "https://en.wikipedia.org/wiki/Streptococcal_infection_in_poultry"}
+    ]
+  }
+}

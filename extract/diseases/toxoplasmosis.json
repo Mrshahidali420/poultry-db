@@ -1,0 +1,39 @@
+{
+  "id": "toxoplasmosis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Toxoplasma gondii infection"], "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "species_affected": [
+      {"value": ["cats (the only definitive host)", "most warm-blooded animals as intermediate hosts, including chickens, pigs, sheep, goats, cattle, horses, wild birds, humans"], "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "pathogen": [
+      {"value": "Toxoplasma gondii (a protozoan parasite)", "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "how_it_spreads": [
+      {"value": ["eating undercooked meat containing cysts", "exposure to infected cat feces/oocysts in soil or litter", "contaminated water, unwashed produce, or unpasteurized milk", "mother to unborn young during pregnancy"], "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "key_symptoms": [
+      {"value": ["often no symptoms", "mild flu-like illness (fever, swollen lymph nodes, muscle aches)", "eye problems in some cases", "severe neurological signs in those with weak immune systems"], "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "diagnosis": [
+      {"value": "Blood antibody testing, or testing amniotic fluid for the parasite's DNA in pregnant patients.", "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "prevention": [
+      {"value": ["properly cooking food", "avoiding contact with cat feces/litter boxes, especially when pregnant", "hand hygiene after gardening or handling raw meat"], "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "treatment_overview": [
+      {"value": "Healthy people usually need no treatment; during pregnancy, prescription medication may be used to reduce risk to the baby.", "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ],
+    "summary": [
+      {"value": "Toxoplasmosis is caused by the parasite Toxoplasma gondii, which can infect nearly any warm-blooded animal, including chickens, though cats are the only host in which it completes its life cycle. Chickens kept indoors are rarely infected, but free-range or backyard chickens are exposed much more often (one US survey found 17-100% of free-range flocks infected depending on the farm), while thorough cooking of chicken meat means poultry is not considered a major source of human infection.", "source_url": "https://en.wikipedia.org/wiki/Toxoplasmosis"}
+    ]
+  }
+}

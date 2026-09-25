@@ -1,0 +1,21 @@
+{
+  "id": "leucocytozoon-andrewsi",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": ["chickens"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon_andrewsi"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon_andrewsi"}
+    ],
+    "pathogen": [
+      {"value": "Leucocytozoon andrewsi (blood parasite)", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon_andrewsi"}
+    ],
+    "how_it_spreads": [
+      {"value": ["transmitted by biting flies of the genus Simulium"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon_andrewsi"}
+    ],
+    "summary": [
+      {"value": "Leucocytozoon andrewsi is a blood parasite that specifically infects chickens and is spread by Simulium biting flies. It has been recorded in the United States, and the source text gives no further detail on its symptoms or severity.", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon_andrewsi"}
+    ]
+  }
+}

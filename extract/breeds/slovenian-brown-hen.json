@@ -1,0 +1,15 @@
+{
+  "id": "slovenian-brown-hen",
+  "fields": {
+    "eggs_per_year_min": [{"value": 295, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "eggs_per_year_max": [{"value": 305, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "egg_color": [{"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "purpose": [{"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "comb": [{"value": "single", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "earlobe_color": [{"value": "red in roosters, purple in hens", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "origin_country": [{"value": "Slovenia", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "origin_year_or_period": [{"value": "1970s", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "notable_traits": [{"value": ["dark brown plumage with metallic sheen in roosters", "yellow legs with brownish toes", "orange eyes"], "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}],
+    "history_summary": [{"value": "Bred in the 1970s at the University of Ljubljana's Biotechnical Faculty from imported Rhode Island Red stock, the Slovenian Brown became a popular layer on both large and small farms. It is now kept mainly at the university's poultry research center and used as a parent for the Prelux commercial crossbreeds.", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"}]
+  }
+}

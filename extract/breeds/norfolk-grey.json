@@ -1,0 +1,50 @@
+{
+  "id": "norfolk-grey",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 150, "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 220, "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "egg_color": [
+      { "value": "tinted (pale brown)", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "egg_size": [
+      { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 2.25, "max": 2.7 }, "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 3.2, "max": 3.6 }, "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "temperament": [
+      { "value": ["good forager"], "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "conservation_status": [
+      { "value": "at risk (Rare Breeds Survival Trust); nearly went extinct in the early 1970s, revived from a flock of 4 birds found in 1974", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "origin_country": [
+      { "value": "England (Norfolk)", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "origin_year_or_period": [
+      { "value": "around 1908-1910", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "notable_traits": [
+      { "value": ["originally named Black Maria, renamed Norfolk Grey in 1925", "believed to derive from Birchen English Game and Duckwing Leghorn crosses", "males have a silver hackle striped with black over otherwise black plumage", "lays well through winter", "meat is more gamey than most common breeds"], "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ],
+    "history_summary": [
+      { "value": "The Norfolk Grey was created by Frederick Myhill near Norwich around 1910, originally under the name Black Maria, likely from Birchen Game and Duckwing Leghorn stock. It nearly disappeared in the early 1970s and was revived from a single small flock found in 1974.", "source_url": "https://en.wikipedia.org/wiki/Norfolk_Grey" }
+    ]
+  }
+}

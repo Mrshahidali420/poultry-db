@@ -1,0 +1,15 @@
+{
+  "id": "slovenian-barred-hen",
+  "fields": {
+    "eggs_per_year_min": [{"value": 240, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "eggs_per_year_max": [{"value": 250, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "egg_color": [{"value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "purpose": [{"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "comb": [{"value": "single", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "earlobe_color": [{"value": "red", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "origin_country": [{"value": "Slovenia", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "origin_year_or_period": [{"value": "1970", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "notable_traits": [{"value": ["barred black and white plumage", "yellow legs with darker toes", "orange eyes"], "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}],
+    "history_summary": [{"value": "Developed in the 1970s at the University of Ljubljana's Biotechnical Faculty from Barred and White Plymouth Rock stock, this layer breed was bred for body mass, egg output and its barred plumage pattern. It now survives mainly at the university's poultry research center and serves as a parent line for the commercial Prelux crossbreeds.", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"}]
+  }
+}

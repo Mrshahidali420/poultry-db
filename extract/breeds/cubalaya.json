@@ -1,0 +1,41 @@
+{
+  "id": "cubalaya",
+  "fields": {
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" },
+      { "value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" },
+      { "value": "ornamental", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" }
+    ],
+    "egg_color": [ { "value": "white to tinted", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "egg_size": [
+      { "value": "small to medium", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" },
+      { "value": "small", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" }
+    ],
+    "eggs_per_year_min": [ { "value": 125, "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 175, "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "rooster_weight_kg": [
+      { "value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Cubalaya" },
+      { "value": 2.7, "source_url": "https://livestockconservancy.org/cubalaya-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.59, "source_url": "https://en.wikipedia.org/wiki/Cubalaya" },
+      { "value": 1.8, "source_url": "https://livestockconservancy.org/cubalaya-chicken/" }
+    ],
+    "temperament": [ { "value": ["friendly with people", "curious", "can be aggressive to other birds", "noisy", "brave"], "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "heat_tolerant": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "comb": [ { "value": "pea comb", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "skin_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "varieties": [ { "value": ["black", "white", "black-breasted red"], "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "conservation_status": [
+      { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" },
+      { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" }
+    ],
+    "origin_country": [ { "value": "Cuba", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "origin_year_or_period": [ { "value": "mid-19th century, approved as a breed 1935", "source_url": "https://en.wikipedia.org/wiki/Cubalaya" } ],
+    "notable_traits": [ { "value": ["\"lobster tail\" feathering carried below horizontal", "short, dome-shaped spurs on males", "matures slowly, up to three years to full size"], "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ],
+    "history_summary": [ { "value": "Developed in Cuba during the 1800s by crossing Malay and Sumatra gamefowl brought from the Philippines with European gamefowl, it is the only chicken breed officially recognized as native to Cuba and joined the American Poultry Association's standard in 1939. Originally a triple-purpose bird raised for meat, eggs and cockfighting, it is mostly kept today as an ornamental exhibition breed outside Cuba.", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" } ]
+  }
+}

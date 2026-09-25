@@ -1,0 +1,21 @@
+{
+  "id": "2008-united-states-salmonellosis-outbreak",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "cause_type": [
+      {"value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/2008_United_States_salmonellosis_outbreak"}
+    ],
+    "pathogen": [
+      {"value": "Salmonella enterica serovar Saintpaul", "source_url": "https://en.wikipedia.org/wiki/2008_United_States_salmonellosis_outbreak"}
+    ],
+    "how_it_spreads": [
+      {"value": "eating contaminated jalapeno and serrano peppers imported from Mexico, and possibly tomatoes", "source_url": "https://en.wikipedia.org/wiki/2008_United_States_salmonellosis_outbreak"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/2008_United_States_salmonellosis_outbreak"}
+    ],
+    "summary": [
+      {"value": "This was a 2008 US outbreak of Salmonella Saintpaul traced mainly to contaminated jalapeno and serrano peppers grown in Mexico, with tomatoes suspected early on. It sickened over 1,400 people across 43 states and Canada and is not connected to poultry or eggs.", "source_url": "https://en.wikipedia.org/wiki/2008_United_States_salmonellosis_outbreak"}
+    ]
+  }
+}

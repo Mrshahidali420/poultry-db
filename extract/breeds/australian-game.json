@@ -1,0 +1,12 @@
+{
+ "id": "australian-game",
+ "fields": {
+   "rooster_weight_kg": [ {"value": 5.45, "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ],
+   "hen_weight_kg": [ {"value": 4.55, "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ],
+   "purpose": [ {"value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Australian_Game"}, {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ],
+   "origin_country": [ {"value": "Australia", "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ],
+   "origin_year_or_period": [ {"value": "19th century (mid to late)", "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ],
+   "notable_traits": [ {"value": ["known for courage and stamina in the pit", "reported to be gentle and tame with its owner", "leggy build inherited from Malay Game ancestry"], "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ],
+   "history_summary": [ {"value": "The Australian Game was developed in New South Wales during the nineteenth century by crossing Australian Pit Game, Malay Game, Old English Game, Modern Game and Asil stock, originally for cockfighting and meat. It is now principally kept as an exhibition bird.", "source_url": "https://en.wikipedia.org/wiki/Australian_Game"} ]
+ }
+}

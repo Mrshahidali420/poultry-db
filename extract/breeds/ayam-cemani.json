@@ -1,0 +1,44 @@
+{
+  "id": "ayam-cemani",
+  "fields": {
+    "origin_country": [
+      {"value": "Indonesia", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "origin_year_or_period": [
+      {"value": "possibly since the 12th century on Java; first imported to Europe in 1998", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "purpose": [
+      {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "egg_color": [
+      {"value": "tinted or cream", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "hen_weight_kg": [
+      {"value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "comb": [
+      {"value": "single, black", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "skin_color": [
+      {"value": "black or grey, including meat and bones", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "broodiness": [
+      {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "lifespan_years": [
+      {"value": 7, "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "temperament": [
+      {"value": ["friendly", "skittish"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "notable_traits": [
+      {"value": ["all-black feathers, beak, comb, wattles, meat, organs and bones", "black colour caused by a genetic condition called fibromelanosis", "poor setters, rarely hatch their own eggs", "muscular thighs make them fast, valued for cockfighting"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ],
+    "history_summary": [
+      {"value": "The Ayam Cemani is a rare Indonesian breed from Java that has likely been used for religious and mystical purposes since around the 12th century. Dutch breeder Jan Steverink first imported the breed to Europe in 1998.", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani"}
+    ]
+  }
+}

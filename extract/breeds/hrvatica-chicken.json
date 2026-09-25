@@ -1,0 +1,8 @@
+{
+  "id": "hrvatica-chicken",
+  "fields": {
+    "origin_country": [ { "value": "Croatia", "source_url": "https://en.wikipedia.org/wiki/Hrvatica_chicken" } ],
+    "origin_year_or_period": [ { "value": "developed 1917", "source_url": "https://en.wikipedia.org/wiki/Hrvatica_chicken" } ],
+    "history_summary": [ { "value": "A Croatian breed developed in 1917 by Ivan Lakus in the village of Torcec in the Podravina region, now widespread across Croatia and the wider Balkans.", "source_url": "https://en.wikipedia.org/wiki/Hrvatica_chicken" } ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "brugse-vechter",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "egg_color": [ {"value": "cream", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "broodiness": [ {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "origin_country": [ {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "conservation_status": [
+     {"value": "endangered (large fowl, Belgium, 2010)", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"},
+     {"value": "critically endangered (bantam, Belgium)", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"}
+   ],
+   "temperament": [ {"value": ["aggressive", "powerful", "hardy"], "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "comb": [ {"value": "small, triple", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "notable_traits": [ {"value": ["flat, almost horizontal back", "deeply pigmented face from purplish-red to almost black", "thick slate-blue legs", "exhibition strains show less aggression", "seventeen recognised plumage colours"], "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ],
+   "history_summary": [ {"value": "The Brugse Vechter is the oldest of Belgium's three gamecock breeds, developed in West Flanders in the early 19th century for cock-fighting and first documented as 'the Bruges breed' in 1858. It is now endangered, having given rise to the Luikse Vechter and Tiense Vechter, with a bantam version created in the second half of the 20th century.", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter"} ]
+ }
+}

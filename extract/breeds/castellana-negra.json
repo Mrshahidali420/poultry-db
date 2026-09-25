@@ -1,0 +1,20 @@
+{
+  "id": "castellana-negra",
+  "fields": {
+    "eggs_per_year_min": [ { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "eggs_per_year_max": [ { "value": 225, "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "hen_weight_kg": [ { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "rooster_weight_kg": [
+      { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" },
+      { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" }
+    ],
+    "purpose": [ { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "comb": [ { "value": "single, five or six points", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "origin_country": [ { "value": "Spain", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "conservation_status": [ { "value": "at risk/vulnerable (Spain, 2025)", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "notable_traits": [ { "value": ["black plumage with greenish sheen", "slate-colored legs and feet", "disease-resistant, rustic"], "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ],
+    "history_summary": [ { "value": "A Spanish black chicken breed thought to date back to Moorish Spain, it nearly disappeared once imported commercial layer hybrids and intensive farming spread. A national conservation program from the 1970s onward, plus a formal breed standard first set in 1930 and revised in 2010, helped it survive.", "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" } ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "marans",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 150, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "egg_color": [
+      { "value": "dark brown, mahogany to chocolate", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "temperament": [
+      { "value": ["active", "friendly", "outgoing"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "varieties": [
+      { "value": ["white", "wheaten", "silver cuckoo", "golden cuckoo", "black", "copper-black", "silver-black", "copper-blue", "black-tailed buff", "Columbian", "birchen", "dark cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "feathered_legs": [
+      { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "comb": [
+      { "value": "single, red", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "origin_country": [
+      { "value": "France", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "origin_year_or_period": [
+      { "value": "first shown 1914, breed society formed 1929", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "notable_traits": [
+      { "value": ["one of only two breeds (with the Penedesenca) to lay such dark eggs", "British type has unfeathered shanks and may be a distinct strain from the French Marans", "cuckoo-patterned hens can be crossed for sex-linked chicks"], "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ],
+    "history_summary": [
+      { "value": "The Marans developed around the port town of Marans in south-west France from a mix of local birds, stock brought by British ships, and imported Croad Langshans. It was first exhibited in 1914 and a breed society and standard followed in the early 1930s, with a separate British strain later developed from a different set of crosses.", "source_url": "https://en.wikipedia.org/wiki/Marans" }
+    ]
+  }
+}

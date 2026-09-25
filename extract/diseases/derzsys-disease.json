@@ -1,0 +1,45 @@
+{
+  "id": "derzsys-disease",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      { "value": ["geese"], "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "pathogen": [
+      { "value": "Goose parvovirus", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "how_it_spreads": [
+      { "value": ["direct contact with infected droppings", "contaminated equipment and surfaces", "passed from breeder birds into eggs"], "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "key_symptoms": [
+      { "value": ["collapse and sudden death in young goslings", "reduced feed intake", "excess drinking", "swollen eyelids", "eye and nasal discharge", "white diarrhea", "loss of down feathers", "reddened skin"], "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "mortality": [
+      { "value": "acute disease kills most affected goslings between 7 and 10 days old; adults show no symptoms", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "diagnosis": [
+      { "value": "virus isolation along with immunofluorescence, electron microscopy and examination of tissue changes", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "prevention": [
+      { "value": ["vaccinating breeding geese before the laying season to pass protection to goslings through the egg", "quarantine and separating age groups", "good disinfection"], "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "treatment_overview": [
+      { "value": "no treatment exists for the virus itself; antibiotics may be used to help prevent secondary infections", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ],
+    "summary": [
+      { "value": "Derzsy's disease is a viral disease of geese caused by goose parvovirus, and it mainly kills young goslings within their first weeks of life. It is not described as a chicken disease, and prevention relies on vaccinating breeder geese and keeping good farm hygiene.", "source_url": "https://en.wikipedia.org/wiki/Derzsy's_disease" }
+    ]
+  }
+}

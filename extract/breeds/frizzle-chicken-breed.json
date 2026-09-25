@@ -1,0 +1,15 @@
+{
+  "id": "frizzle-chicken-breed",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "egg_color": [ { "value": "white or tinted", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "cold_hardy": [ { "value": "no", "source_url": "https://starmilling.com/poultry-chicken-breeds/" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "comb": [ { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "varieties": [ { "value": ["black", "blue", "cuckoo", "white"], "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "origin_country": [ { "value": "unclear; frizzle gene believed to have originated in Asia, breed developed and recognised in nine European countries and Australia", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "notable_traits": [ { "value": ["distinctive curled/frizzled feathers", "cannot fly", "poor heat retention, struggles in cold climates"], "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ],
+    "history_summary": [ { "value": "A breed defined by its curled plumage, from a frizzle gene believed to have arisen in Asia and reported there since the eighteenth century. Selective breeding for exhibition turned it into a distinct breed recognised in nine European countries and Australia, though in the United States frizzled birds are judged as a feather type within their own breed rather than as a separate breed.", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" } ]
+  }
+}

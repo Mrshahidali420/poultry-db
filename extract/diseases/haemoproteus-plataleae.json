@@ -1,0 +1,18 @@
+{
+  "id": "haemoproteus-plataleae",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      {"value": ["ibises", "spoonbills"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_plataleae"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_plataleae"}
+    ],
+    "pathogen": [
+      {"value": "Haemoproteus plataleae", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_plataleae"}
+    ],
+    "summary": [
+      {"value": "Haemoproteus plataleae is a blood parasite that infects ibises and spoonbills. It has been found in both young and adult American white ibises in Florida, and there is no indication it affects chickens.", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_plataleae"}
+    ]
+  }
+}

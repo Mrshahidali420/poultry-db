@@ -1,0 +1,15 @@
+{
+ "id": "amarela",
+ "fields": {
+   "hen_weight_kg": [ {"value": "1.7-2.5", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "rooster_weight_kg": [ {"value": "2.3-3.1", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "comb": [ {"value": "single, five or six points", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "feathered_legs": [ {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "varieties": [ {"value": ["buff/golden"], "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "origin_country": [ {"value": "Portugal", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "conservation_status": [ {"value": "not at risk (2024)", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "notable_traits": [ {"value": ["hardy and disease-resistant", "well suited to extensive free-range small farms"], "source_url": "https://en.wikipedia.org/wiki/Amarela"} ],
+   "history_summary": [ {"value": "The Amarela, also known as the Minhota, is a traditional Portuguese farm breed from the Minho region that fell sharply in numbers during the twentieth century as diets and farming changed. Conservation efforts since 2013 have grown its numbers, and by 2024 it was no longer considered at risk.", "source_url": "https://en.wikipedia.org/wiki/Amarela"} ]
+ }
+}

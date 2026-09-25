@@ -1,0 +1,20 @@
+{
+ "id": "augsburger",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 120, "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "eggs_per_year_max": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "hen_weight_kg": [ {"value": "2.0-2.5", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "rooster_weight_kg": [ {"value": "2.3-2.7", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "comb": [ {"value": "cup-shaped/rose comb", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "varieties": [ {"value": ["black (with greenish sheen)", "blue-laced (large fowl only, added 1990)"], "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "origin_country": [ {"value": "Germany (Bavaria)", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "origin_year_or_period": [ {"value": "1870s-1880s", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "conservation_status": [ {"value": "extremely endangered (category I, Rote Liste, GEH)", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "notable_traits": [ {"value": ["only chicken breed of Bavarian origin", "not officially recognized under the National Socialist regime and could not be exhibited"], "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ],
+   "history_summary": [ {"value": "The Augsburger was created around 1870-1880 by Julius Meyer near Augsburg, Bavaria, by crossing the French La Fleche with the now-extinct Italian Lamotta to combine good meat with good egg-laying. It fell out of favour from the 1960s as specialized commercial breeds took over and is now listed as extremely endangered in Germany.", "source_url": "https://en.wikipedia.org/wiki/Augsburger"} ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "histomoniasis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["blackhead disease", "infectious enterohepatitis"], "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "species_affected": [
+      {"value": ["chickens", "turkeys", "ducks", "geese", "grouse", "guineafowl", "partridges", "pheasants", "quails"], "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ],
+    "pathogen": [
+      {"value": "Histomonas meleagridis (protozoan)", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"},
+      {"value": "Histomonas meleagridis (anaerobic protozoal parasite)", "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ],
+    "how_it_spreads": [
+      {"value": ["birds ingest worm eggs carrying the parasite from contaminated soil or food", "earthworms can carry the infective eggs and pass them on when eaten", "direct bird-to-bird spread through cloacal contact or fresh droppings"], "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"},
+      {"value": ["worm eggs remain infective in soil for years, so it spreads readily through a contaminated environment"], "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "spreads_to_humans": [
+      {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ],
+    "key_symptoms": [
+      {"value": ["lethargy", "reduced appetite", "poor growth", "increased thirst", "sulphur-yellow diarrhoea", "dry ruffled feathers", "bluish discoloration of the head in some birds"], "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"},
+      {"value": ["listlessness", "decreased appetite", "drooping wings", "unkempt feathers", "yellow droppings in later stages"], "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "mortality": [
+      {"value": "High mortality rate, especially fatal in turkeys and less severe in other birds; chickens are usually subclinical carriers but mortality in turkeys is commonly 80-100%", "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "incubation_period": [
+      {"value": "Symptoms appear 7 to 12 days after infection", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ],
+    "diagnosis": [
+      {"value": "Based on characteristic damage seen in the cecum and liver on post-mortem exam; PCR testing and microscopic or tissue examination can confirm it", "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "prevention": [
+      {"value": ["quarantine sick birds and limit their movement around the flock", "deworm birds to reduce the cecal worms that carry the parasite", "good farm sanitation and management"], "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"},
+      {"value": ["keep turkeys separated from chickens and other gallinaceous birds", "avoid putting turkeys on ground previously used by chickens, since worm eggs can persist for years"], "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "vaccine_available": [
+      {"value": "no", "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "treatment_overview": [
+      {"value": "There is no approved drug treatment; prevention through sanitation, quarantine and reducing exposure to the carrier worm is the main approach", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ],
+    "when_to_call_vet": [
+      {"value": "Call a vet if birds show sudden lethargy, yellow diarrhoea, and drooping wings, since these signs can progress quickly and are hard to tell apart from other causes without testing.", "source_url": "https://www.merckvetmanual.com/poultry/histomoniasis/histomoniasis-in-poultry"}
+    ],
+    "summary": [
+      {"value": "Histomoniasis, commonly called blackhead disease, is caused by a protozoan parasite spread mainly through a cecal worm and contaminated soil, damaging the cecum and liver of infected birds. It is far more dangerous to turkeys than chickens, and while chickens often carry the disease with few symptoms, there is no approved cure, so prevention through sanitation and separating species is essential.", "source_url": "https://en.wikipedia.org/wiki/Histomoniasis"}
+    ]
+  }
+}

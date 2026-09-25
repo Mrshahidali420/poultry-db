@@ -1,0 +1,38 @@
+{
+  "id": "ayam-kampong",
+  "fields": {
+    "origin_country": [
+      {"value": "Indonesia and Malaysia", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "origin_year_or_period": [
+      {"value": "resulted from uncontrolled cross-breeding with exotic chickens imported in the late 1800s", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "eggs_per_year_min": [
+      {"value": 55, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 100, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "varieties": [
+      {"value": ["black-red", "red", "naked-neck"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "conservation_status": [
+      {"value": "least concern", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "notable_traits": [
+      {"value": ["slow-growing, low productivity", "highly variable colouring", "raised free-range by village households"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ],
+    "history_summary": [
+      {"value": "The Ayam Kampong is a diverse indigenous chicken population of Indonesia and Malaysia, resulting from uncontrolled crossbreeding of red jungle-fowl, local Southeast Asian chickens and exotic chickens introduced by Dutch and British settlers in the late 1800s. It has traditionally been raised as free-range village poultry for meat and eggs.", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong"}
+    ]
+  }
+}

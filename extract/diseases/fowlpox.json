@@ -1,0 +1,56 @@
+{
+  "id": "fowlpox",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["avian pox", "fowl pox"], "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "quail", "canaries", "pigeons", "many other bird species"], "source_url": "https://en.wikipedia.org/wiki/Fowlpox" },
+      { "value": ["pigeons", "wild birds", "turkeys", "ducks", "quail", "pheasant", "all breeds of chickens"], "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" }
+    ],
+    "pathogen": [
+      { "value": "Avipoxvirus (family Poxviridae)", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "how_it_spreads": [
+      { "value": ["biting insects, especially mosquitoes", "wound contamination", "inhaling or ingesting virus-laden dust or dander from skin lesions"], "source_url": "https://en.wikipedia.org/wiki/Fowlpox" },
+      { "value": ["mosquito bites, which can carry the virus for over a month", "contact with scabs from infected birds", "virus in dried scabs, feathers and skin dander carried on hands and clothing"], "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "key_symptoms": [
+      { "value": ["whitish blisters on comb, wattles and other skin", "blisters that turn into dark scabs over about three weeks", "difficulty breathing if lesions form in the mouth and throat"], "source_url": "https://en.wikipedia.org/wiki/Fowlpox" },
+      { "value": ["poor growth", "reduced egg production", "weight loss", "depressed appetite", "yellowish wart-like nodules on unfeathered skin that become dry scabs", "cheesy yellow masses in the throat and upper airway in severe cases"], "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "mortality": [
+      { "value": "Mortality is usually low in affected flocks; the wet (diphtheritic) form has a poor prognosis and can cause death", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" },
+      { "value": "Usually low, about 1-5%, though severe wet pox cases can cause much higher mortality", "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "diagnosis": [
+      { "value": "Wart-like lumps visible on affected birds are a reliable guide to diagnosis", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" }
+    ],
+    "prevention": [
+      { "value": ["vaccination", "managing mosquito populations"], "source_url": "https://en.wikipedia.org/wiki/Fowlpox" },
+      { "value": ["vaccinating backyard and commercial flocks", "vaccinating early in an outbreak while 20% or fewer birds show lesions to help limit spread"], "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" }
+    ],
+    "treatment_overview": [
+      { "value": "There is no treatment once a bird is infected; management relies on prevention through vaccination and mosquito control", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Birds with wart-like lesions in the mouth or throat causing breathing trouble need prompt attention, since the wet form of fowlpox can be fatal.", "source_url": "https://en.wikipedia.org/wiki/Fowlpox" }
+    ],
+    "summary": [
+      { "value": "Fowlpox is a viral disease spread mainly by mosquitoes and contact with scabs, causing wart-like skin lesions in most birds and, less often, a more dangerous form with growths in the mouth and throat. It cannot be treated once a bird is infected, so control relies on vaccination and mosquito management, and it does not affect humans.", "source_url": "https://extension.umd.edu/resource/recognizing-and-preventing-avian-pox-small-flocks-fs-979" }
+    ]
+  }
+}

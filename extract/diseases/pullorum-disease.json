@@ -1,0 +1,50 @@
+{
+  "id": "pullorum-disease",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": "bacillary white diarrhea", "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" }
+    ],
+    "species_affected": [
+      { "value": ["chickens (mainly young chicks, but older birds too)", "other domestic fowl"], "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" },
+      { "value": ["chickens", "turkeys", "guinea fowl", "quail", "pheasants", "sparrows", "parrots", "canaries", "bullfinches"], "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" }
+    ],
+    "pathogen": [
+      { "value": "Salmonella pullorum", "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" },
+      { "value": "Salmonella enterica serotype Gallinarum biovar Pullorum", "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "how_it_spreads": [
+      { "value": ["passed from hen to egg (vertical transmission)", "direct or indirect contact with infected birds", "contaminated feed, water, or litter", "moves between farms through poor biosecurity"], "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "key_symptoms": [
+      { "value": ["weakness or depression", "white diarrhea", "clustering near heat sources"], "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" },
+      { "value": ["loss of appetite", "white paste around the vent", "sometimes respiratory disease, blindness, or swollen joints"], "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "mortality": [
+      { "value": "80 to 100 percent in young flocks", "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" },
+      { "value": "can approach 100% in chicks and poults within the first 2 to 3 weeks after hatching", "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "diagnosis": [
+      { "value": "blood/serological testing is used to screen flocks, but a definitive diagnosis needs isolating and identifying the bacteria in the lab", "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "prevention": [
+      { "value": ["routine testing and removal of infected breeding stock", "buying birds only from sources known to be free of the disease", "biosecurity measures against feed, water, wild birds, rodents, insects and people carrying it in"], "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" },
+      { "value": ["most US states ban importing poultry unless certified pullorum-free", "flock registration and mortality monitoring for breeder flocks (Canada)"], "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease" }
+    ],
+    "treatment_overview": [
+      { "value": "treatment is not recommended, because the goal is eliminating the disease from a flock rather than curing infected birds", "source_url": "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry" }
+    ],
+    "summary": [
+      {
+        "value": "Pullorum disease is a bacterial infection that mainly kills young chicks, often wiping out most of an affected flock in the first weeks of life, and it can also linger in adult birds without obvious signs. It spreads through eggs and contaminated surroundings, so control programs focus on testing and removing infected breeding stock rather than treating sick birds.",
+        "source_url": "https://en.wikipedia.org/wiki/Pullorum_disease"
+      }
+    ]
+  }
+}

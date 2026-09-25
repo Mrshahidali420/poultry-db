@@ -1,0 +1,49 @@
+{
+  "id": "orpington-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 180, "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+      { "value": 340, "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "egg_color": [
+      { "value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 3, "max": 3.5 }, "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 4, "max": 4.5 }, "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "temperament": [
+      { "value": ["docile", "friendly"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "purpose": [
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" },
+      { "value": "dual (originally intended)", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "varieties": [
+      { "value": ["black", "blue", "buff", "cuckoo", "jubilee", "spangled", "white"], "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "origin_country": [
+      { "value": "England (Orpington, Kent)", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "1880s", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["bred by William Cook from Minorca, Langshan and Plymouth Rock crosses", "black colour chosen to hide soot and grime of London life", "the Australorp of Australia derives from Cook's original black stock and kept its productive qualities", "became a show bird after Langshan-Cochin crosses were marketed as larger, fuller-feathered Orpingtons in the 1890s", "egg production dropped over time as breeders selected for looks over utility"], "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Orpington was bred in the 1880s by William Cook in Kent by crossing Minorcas, Langshans and Plymouth Rocks, originally intended as a dual-purpose bird laying well while producing good meat. Other breeders soon created larger, showier versions marketed under the same name, and the breed shifted almost entirely to exhibition, while the related Australorp kept the original utility qualities.", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" }
+    ]
+  }
+}

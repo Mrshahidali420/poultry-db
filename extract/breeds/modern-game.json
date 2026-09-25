@@ -1,0 +1,65 @@
+{
+  "id": "modern-game",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 50, "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 80, "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "white", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 2.25, "max": 3.20 }, "source_url": "https://en.wikipedia.org/wiki/Modern_Game" },
+      { "value": 2.0, "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 3.20, "max": 4.10 }, "source_url": "https://en.wikipedia.org/wiki/Modern_Game" },
+      { "value": 2.7, "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["calm", "active", "noisy", "slow maturing", "loner in mixed flocks"], "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "medium", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "purpose": [
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" },
+      { "value": "ornamental", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ],
+    "varieties": [
+      { "value": ["birchen", "black", "black-red", "blue", "blue-red", "brown-red", "gold duckwing", "lemon-blue", "pile", "silver-blue", "silver duckwing", "wheaten", "white"], "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "comb": [
+      { "value": "single, small (often dubbed/removed on show males)", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ],
+    "conservation_status": [
+      { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+    ],
+    "origin_country": [
+      { "value": "England", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ],
+    "origin_year_or_period": [
+      { "value": "developed 1850-1900, after cockfighting was banned in 1849", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ],
+    "notable_traits": [
+      { "value": ["tall, upright body shaped like a clothes iron", "bred from gamecock stock purely for exhibition after cockfighting was outlawed", "kept mostly as bantams for showing"], "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ],
+    "history_summary": [
+      { "value": "After cockfighting was banned in Britain in 1849, breeders crossed Old English Game and Malay stock to create a purely ornamental exhibition bird, first called the Game and later the Modern Game. It was refined through the late 1800s into today's tall, upright show type and has never been valued for eggs or meat.", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }
+    ]
+  }
+}

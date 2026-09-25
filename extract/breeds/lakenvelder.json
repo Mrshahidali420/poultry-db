@@ -1,0 +1,65 @@
+{
+  "id": "lakenvelder",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 150, "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" },
+      { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Lakenvelder" }
+    ],
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Lakenvelder" },
+      { "value": "white to tinted", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" },
+      { "value": "porcelain white", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "egg_size": [
+      { "value": "small to medium", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.8, "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.3, "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["active", "flighty", "wary"], "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "partly", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "origin_country": [
+      { "value": "Germany and the Netherlands", "source_url": "https://en.wikipedia.org/wiki/Lakenvelder" }
+    ],
+    "origin_year_or_period": [
+      { "value": "first recorded 1727", "source_url": "https://en.wikipedia.org/wiki/Lakenvelder" }
+    ],
+    "conservation_status": [
+      { "value": "Threatened (Livestock Conservancy); watch/vulnerable in Germany and the Netherlands as of 2024", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Lakenvelder" }
+    ],
+    "notable_traits": [
+      { "value": ["black head, neck hackle and tail with a white body, nicknamed \"Shadow on a Sheet\"", "slate-blue legs", "takes until the third molt for full colour pattern to appear", "does not like confinement", "can dominate more docile breeds"], "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" }
+    ],
+    "history_summary": [
+      { "value": "The Lakenvelder is an old black-and-white breed from the German-Dutch border area, first recorded in 1727 and shown from 1835. It lost popularity after more productive breeds like the Leghorn arrived in the late 1800s, and is now considered threatened.", "source_url": "https://en.wikipedia.org/wiki/Lakenvelder" }
+    ]
+  }
+}

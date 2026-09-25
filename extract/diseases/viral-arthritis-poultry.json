@@ -1,0 +1,51 @@
+{
+  "id": "viral-arthritis-poultry",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Tenosynovitis", "Reoviral arthritis"], "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "species_affected": [
+      {"value": ["chickens", "turkeys"], "source_url": "https://en.wikipedia.org/wiki/Viral_arthritis_(poultry)"}
+    ],
+    "cause_type": [
+      {"value": "viral", "source_url": "https://en.wikipedia.org/wiki/Viral_arthritis_(poultry)"}
+    ],
+    "pathogen": [
+      {"value": "Avian reovirus (genus Orthoreovirus)", "source_url": "https://en.wikipedia.org/wiki/Viral_arthritis_(poultry)"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "how_it_spreads": [
+      {"value": ["vertical transmission from hen to egg", "horizontal transmission between birds", "mainly by ingestion"], "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "spreads_to_humans": [
+      {"value": "no", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "key_symptoms": [
+      {"value": ["swollen leg tendons and hock joints", "lameness", "ruptured tendons", "poor mobility", "slowed growth"], "source_url": "https://en.wikipedia.org/wiki/Viral_arthritis_(poultry)"}
+    ],
+    "diagnosis": [
+      {"value": "Detecting the virus in affected tendon or joint fluid using virus isolation or RT-PCR; blood antibody tests (ELISA) can show past exposure but aren't conclusive on their own.", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "prevention": [
+      {"value": ["vaccination of breeder flocks to pass protection to chicks", "custom (autogenous) vaccines where variant strains are circulating"], "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Viral_arthritis_(poultry)"}
+    ],
+    "treatment_overview": [
+      {"value": "There is no treatment once clinical signs appear; only general supportive care can be given, and severely lame birds unable to reach feed or water should be euthanized.", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "notifiable_us": [
+      {"value": "no", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "when_to_call_vet": [
+      {"value": "Call a vet if a bird develops swollen hock joints or leg tendons, sudden lameness, or is unable to reach food or water.", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ],
+    "summary": [
+      {"value": "Viral arthritis (tenosynovitis) is caused by avian reovirus and mainly affects chickens and turkeys, causing swollen leg tendons and joints, lameness, and sometimes tendon rupture. There is no treatment once signs appear, it does not infect humans, and prevention relies on vaccinating breeder flocks so chicks inherit protective antibodies.", "source_url": "https://www.merckvetmanual.com/poultry/viral-arthritis/viral-arthritis-in-poultry"}
+    ]
+  }
+}

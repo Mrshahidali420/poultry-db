@@ -1,0 +1,12 @@
+{
+  "id": "california-gray",
+  "fields": {
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ],
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ],
+    "origin_country": [ { "value": "United States", "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ],
+    "origin_year_or_period": [ { "value": "1930s", "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ],
+    "notable_traits": [ { "value": ["autosexing chicks", "barred gray plumage"], "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ],
+    "history_summary": [ { "value": "Developed in the 1930s in Modesto, California by Horace Dryden, who crossed Barred Plymouth Rock and White Leghorn birds to make a dual-purpose, autosexing chicken. It was never recognized by the American Poultry Association and remains a rare breed today.", "source_url": "https://en.wikipedia.org/wiki/California_Gray" } ]
+  }
+}

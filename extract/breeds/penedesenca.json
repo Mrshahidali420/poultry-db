@@ -1,0 +1,38 @@
+{
+  "id": "penedesenca",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ],
+    "egg_color": [
+      { "value": "dark brown, among the darkest of any breed", "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ],
+    "varieties": [
+      { "value": ["black", "crele", "partridge", "wheaten"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "comb": [
+      { "value": "carnation (unusual type)", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "conservation_status": [
+      { "value": "extremely rare, nearly extinct before a 1980s revival effort", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "origin_country": [
+      { "value": "Spain (Catalonia)", "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ],
+    "origin_year_or_period": [
+      { "value": "first documented 1928, black type standardised 1946", "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ],
+    "notable_traits": [
+      { "value": ["one of only two breeds, with the Marans, known for such dark eggs", "black type was originally standardised as \"Villafranquina Negra\""], "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ],
+    "history_summary": [
+      { "value": "The Penedesenca comes from the Penedes region of Catalonia, where dark-egg-laying farm chickens were traditionally kept, with efforts to save the type from extinction beginning in 1928. The black variety was standardised in 1946 as the Villafranquina Negra, and the breed nearly died out again before being revived by dedicated breeders in the 1980s.", "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+    ]
+  }
+}

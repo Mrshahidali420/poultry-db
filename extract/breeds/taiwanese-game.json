@@ -1,0 +1,13 @@
+{
+ "id": "taiwanese-game",
+ "fields": {
+   "hen_weight_kg": [ {"value": 4.5, "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "rooster_weight_kg": [ {"value": 6.0, "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "origin_country": [ {"value": "Taiwan", "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "earlobe_color": [ {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "comb": [ {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "notable_traits": [ {"value": ["one of the largest and heaviest chicken breeds, may exceed 10 kg", "yellow legs and feet, sometimes marked with black", "similar in type to large Japanese Shamo birds"], "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ],
+   "history_summary": [ {"value": "This very large game breed comes from Taiwan and is closely related in type to the Malay and to large Japanese Shamo birds. Similar large game fowl of uncertain breed are sometimes sold in the US under names like Saipan or Chinese Shamo.", "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game"} ]
+ }
+}

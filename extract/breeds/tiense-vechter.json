@@ -1,0 +1,15 @@
+{
+ "id": "tiense-vechter",
+ "fields": {
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "origin_country": [ {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "origin_year_or_period": [ {"value": "late 19th century", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "conservation_status": [ {"value": "critically endangered", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "skin_color": [ {"value": "pale, no dark pigmentation", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "comb": [ {"value": "triple", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "varieties": [ {"value": ["cuckoo (most common, plus 20 other recognised plumage colours)"], "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "notable_traits": [ {"value": ["large and powerful bird", "steeply inclined back-line", "rudimentary or absent wattles", "pale legs"], "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ],
+   "history_summary": [ {"value": "This critically endangered Belgian gamecock breed was developed in the late 1800s around the town of Tienen by crossing the older Brugse Vechter with Oriental fighting birds, similar to how the related Luikse Vechter was created. It is now the most threatened of the three Belgian fighting-cock breeds, with only 33 birds recorded in 2010.", "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter"} ]
+ }
+}

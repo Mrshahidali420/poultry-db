@@ -1,0 +1,11 @@
+{
+  "id": "green-legged-partridge",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Green-legged_Partridge" } ],
+    "conservation_status": [ { "value": "kept only for conservation, in two small closed flocks", "source_url": "https://en.wikipedia.org/wiki/Green-legged_Partridge" } ],
+    "origin_country": [ { "value": "Poland", "source_url": "https://en.wikipedia.org/wiki/Green-legged_Partridge" } ],
+    "origin_year_or_period": [ { "value": "first described 1879, breed standard 1921, officially recognised 1923", "source_url": "https://en.wikipedia.org/wiki/Green-legged_Partridge" } ],
+    "notable_traits": [ { "value": ["unusual reseda-green colored shanks", "forages well and is disease resistant", "poor egg-laying performance", "low-cholesterol egg yolks", "not suited to intensive or confined management, prone to feather-pulling and cannibalism if closely enclosed"], "source_url": "https://en.wikipedia.org/wiki/Green-legged_Partridge" } ],
+    "history_summary": [ { "value": "An old Polish breed identified by its unusual green legs, first described in 1879 and officially recognised in 1923; it was once raised across roughly 70 percent of Poland but declined sharply once it failed to adapt to intensive farming. It was used between 1946 and 1954 to help create the autosexing Polbar breed, and today survives only in two small closed conservation flocks.", "source_url": "https://en.wikipedia.org/wiki/Green-legged_Partridge" } ]
+  }
+}

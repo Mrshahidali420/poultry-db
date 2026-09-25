@@ -1,0 +1,34 @@
+{
+  "id": "chantecler-chicken",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "eggs_per_year_min": [ { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "eggs_per_year_max": [ { "value": 220, "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ],
+    "egg_color": [ { "value": "light brown / pinkish-brown", "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ],
+    "egg_size": [ { "value": "large", "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ],
+    "hen_weight_kg": [
+      { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" },
+      { "value": 2.5, "source_url": "https://livestockconservancy.org/chantecler-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 3.9, "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" },
+      { "value": 3.4, "source_url": "https://livestockconservancy.org/chantecler-chicken/" }
+    ],
+    "temperament": [ { "value": ["gentle", "calm", "personable", "hardy"], "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ],
+    "broodiness": [ { "value": "medium", "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "heat_tolerant": [ { "value": "no", "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ],
+    "comb": [ { "value": "small cushion comb, vestigial wattles", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "varieties": [ { "value": ["white", "partridge"], "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "conservation_status": [
+      { "value": "at risk/endangered (DAD-IS, 2025)", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" },
+      { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/chantecler-chicken/" }
+    ],
+    "origin_country": [ { "value": "Canada", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "origin_year_or_period": [ { "value": "from 1908", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "notable_traits": [ { "value": ["small cushion comb resists frostbite", "close feathering retains body heat", "only chicken breed native to Canada"], "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ],
+    "history_summary": [ { "value": "Bred from 1908 by the Cistercian monk Wilfrid Chatelain at the Oka Agricultural Institute in Quebec, it was designed as a cold-hardy dual-purpose fowl and shown publicly in 1918, joining the American Poultry Association standard in 1921. Its population nearly vanished by the late 1970s and it remains an endangered breed today, kept mostly in Quebec.", "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken" } ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "preta-lusit-nica",
+  "fields": {
+    "hen_weight_kg": [
+      { "value": { "min": 1.7, "max": 2.5 }, "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 2.5, "max": 3.0 }, "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "varieties": [
+      { "value": ["black (only colour, sometimes with a metallic blue-green sheen)"], "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "comb": [
+      { "value": "single, five or six points", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "earlobe_color": [
+      { "value": "bright red", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "feathered_legs": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "conservation_status": [
+      { "value": "not at risk as of 2024 (recovered from under 2000 breeding hens in the early 2000s to an estimated 15,000-26,000 birds)", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "origin_country": [
+      { "value": "Portugal (north-west)", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "notable_traits": [
+      { "value": ["one of four Portuguese chicken breeds, alongside the Amarela, Branca and Pedres Portuguesa", "listed in the Slow Food Foundation's Ark of Taste", "dark slate legs and beak"], "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ],
+    "history_summary": [
+      { "value": "The Preta Lusitanica is a traditional black breed from north-western Portugal that declined sharply in the mid-1900s as imported industrial chicken strains took over farming. Conservation efforts brought it back from under 2,000 breeding hens in the early 2000s to a healthy population by 2024, no longer considered at risk.", "source_url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica" }
+    ]
+  }
+}

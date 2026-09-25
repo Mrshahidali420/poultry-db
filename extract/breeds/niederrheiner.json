@@ -1,0 +1,47 @@
+{
+  "id": "niederrheiner",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "egg_color": [
+      { "value": "cream or light brown", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "temperament": [
+      { "value": ["docile", "little tendency to fly"], "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "purpose": [
+      { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "varieties": [
+      { "value": ["crele", "silver", "lemon cuckoo", "blue cuckoo", "birchen"], "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "feathered_legs": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "conservation_status": [
+      { "value": "endangered (category III, Rote Liste, 2001); reported 'at risk' to DAD-IS in 2022, population about 1660 in 2021", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "origin_country": [
+      { "value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "origin_year_or_period": [
+      { "value": "early 20th century, before World War Two; recognised 1943", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "notable_traits": [
+      { "value": ["derives mainly from the Dutch North Holland Blue meat chicken, differing mainly by having unfeathered legs", "fast-growing meat bird with fine white flesh"], "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ],
+    "history_summary": [
+      { "value": "The Niederrheiner was created in western Germany's Lower Rhine region before World War Two by crossing the Dutch North Holland Blue with various other heavy and light breeds, gaining official recognition in 1943. It is now an endangered breed with roughly 1,600 birds recorded in 2021.", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }
+    ]
+  }
+}

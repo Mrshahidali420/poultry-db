@@ -1,0 +1,16 @@
+{
+  "id": "kadaknath",
+  "fields": {
+    "purpose": [ { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "egg_color": [ { "value": "brown with a slightly pink tint", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "rooster_weight_kg": [ { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Kadaknath" }, { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "hen_weight_kg": [ { "value": 1.2, "source_url": "https://en.wikipedia.org/wiki/Kadaknath" }, { "value": 1.5, "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "varieties": [ { "value": ["jet black", "golden", "pencilled"], "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "skin_color": [ { "value": "grey-black", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "comb": [ { "value": "greyish-black", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "origin_country": [ { "value": "India (Madhya Pradesh)", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "notable_traits": [ { "value": ["entirely black skin, bones, organs, blood and meat, caused by melanin", "meat carries an Indian geographical indication (GI) tag since 2018", "subject of poultry farming scams due to high demand"], "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ],
+    "history_summary": [ { "value": "An Indian breed native to the Dhar and Jhabua districts of Madhya Pradesh, prized for its black meat, which many believe has health benefits, and protected by a geographical indication tag since 2018. Rising demand has driven overconsumption and price scams, prompting a state-backed breeding program to prevent the breed's decline.", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" } ]
+  }
+}

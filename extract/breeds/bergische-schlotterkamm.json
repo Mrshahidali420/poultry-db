@@ -1,0 +1,44 @@
+{
+  "id": "bergische-schlotterkamm",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "egg_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "broodiness": [
+      {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "varieties": [
+      {"value": ["cuckoo", "silver-laced black", "gold-laced black", "black"], "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "origin_country": [
+      {"value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "origin_year_or_period": [
+      {"value": "known since the 18th century", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "conservation_status": [
+      {"value": "extremely endangered (GEH Rote Liste category I)", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "comb": [
+      {"value": "single, flops from side to side", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "notable_traits": [
+      {"value": ["long, rectangular body shape", "single comb flops from side to side, giving the breed its name", "one of three chicken breeds native to the Bergisches Land"], "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ],
+    "history_summary": [
+      {"value": "The breed has been known since the eighteenth century in Germany's Bergisches Land, likely resulting from crossing Spanish birds with local Bergische Krahler stock, and nearly went extinct in the early 1800s due to competition from imported multi-purpose breeds. A breed association formed in 1916, and it remains critically endangered with around 250 birds recorded in 2013.", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"}
+    ]
+  }
+}

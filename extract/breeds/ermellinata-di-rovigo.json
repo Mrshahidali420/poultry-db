@@ -1,0 +1,25 @@
+{
+  "id": "ermellinata-di-rovigo",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "egg_color": [ { "value": "pinkish brown", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "eggs_per_year_min": [ { "value": 170, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "eggs_per_year_max": [ { "value": 190, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "rooster_weight_kg": [
+      { "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" },
+      { "value": 3.9, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.6, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" },
+      { "value": 3.1, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" }
+    ],
+    "comb": [ { "value": "single, large, 5-6 points", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "varieties": [ { "value": ["white with black 'ermine'/Columbian markings"], "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "origin_country": [ { "value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "origin_year_or_period": [ { "value": "created 1959-1965", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "notable_traits": [ { "value": ["Columbian 'ermine' plumage pattern resembling the Light Sussex", "yellow skin and legs, preferred by Italian consumers", "used to produce autosexing hybrids when crossed with buff Livorno or New Hampshire stock"], "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ],
+    "history_summary": [ { "value": "Created between 1959 and 1965 at an experimental poultry station in Rovigo, Veneto, by crossing Rhode Island Red and Sussex stock, it resembles a Light Sussex but has the yellow skin and legs favored by Italian consumers. It remains a rare regional breed with only a few hundred breeding birds, now conserved as part of a Veneto biodiversity project.", "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" } ]
+  }
+}

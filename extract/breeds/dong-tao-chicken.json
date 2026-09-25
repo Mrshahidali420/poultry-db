@@ -1,0 +1,10 @@
+{
+  "id": "dong-tao-chicken",
+  "fields": {
+    "purpose": [ { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Dong_Tao_chicken" } ],
+    "rooster_weight_kg": [ { "value": 6, "source_url": "https://en.wikipedia.org/wiki/Dong_Tao_chicken" } ],
+    "origin_country": [ { "value": "Vietnam", "source_url": "https://en.wikipedia.org/wiki/Dong_Tao_chicken" } ],
+    "notable_traits": [ { "value": ["unusually large, thick legs and feet", "hens often break their own eggs due to bulky legs, so eggs are usually incubated artificially", "sensitive to temperature changes", "takes 8 months to a year to reach slaughter weight of 3-5 kg"], "source_url": "https://en.wikipedia.org/wiki/Dong_Tao_chicken" } ],
+    "history_summary": [ { "value": "A rare Vietnamese breed from Dong Tao village near Hanoi known for its unusually large legs and feet, historically raised exclusively for the royal family and mandarins. It remains a prized, expensive delicacy today, though its bulky legs make natural incubation difficult.", "source_url": "https://en.wikipedia.org/wiki/Dong_Tao_chicken" } ]
+  }
+}

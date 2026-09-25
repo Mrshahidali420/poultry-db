@@ -1,0 +1,45 @@
+{
+  "id": "australorp",
+  "fields": {
+    "origin_country": [
+      {"value": "Australia", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "origin_year_or_period": [
+      {"value": "developed from around 1890 to the early 1900s, named and popularised in the early 1920s", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "eggs_per_year_min": [
+      {"value": 190, "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 309, "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "egg_color": [
+      {"value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "varieties": [
+      {"value": ["black", "blue", "white"], "source_url": "https://en.wikipedia.org/wiki/Australorp"},
+      {"value": ["buff", "splash", "wheaten laced", "golden"], "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "conservation_status": [
+      {"value": "not at risk worldwide (2024); listed at risk/endangered in Australia's DAD-IS and as a priority breed on the UK Rare Breeds Survival Trust watchlist; removed from the US Livestock Conservancy watchlist in 2023", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "notable_traits": [
+      {"value": ["good nest sitters and mothers", "set a world egg-laying record of 309.5 eggs per hen average over 365 days in 1922-23", "derived from the British Black Orpington"], "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ],
+    "history_summary": [
+      {"value": "The Australorp was developed in Australia from imported Black Orpington stock crossed with breeds such as Rhode Island Red, Minorca, White Leghorn and Langshan to improve egg-laying utility. It became famous worldwide in the 1920s after a record-setting egg-laying trial and was added to the American Poultry Association's Standard of Perfection in 1929.", "source_url": "https://en.wikipedia.org/wiki/Australorp"}
+    ]
+  }
+}

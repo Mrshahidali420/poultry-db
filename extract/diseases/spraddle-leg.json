@@ -1,0 +1,27 @@
+{
+  "id": "spraddle-leg",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": "splayed leg", "source_url": "https://en.wikipedia.org/wiki/Spraddle_leg" }
+    ],
+    "species_affected": [
+      { "value": ["newly hatched chicks"], "source_url": "https://en.wikipedia.org/wiki/Spraddle_leg" }
+    ],
+    "cause_type": [
+      { "value": "injury", "source_url": "https://en.wikipedia.org/wiki/Spraddle_leg" }
+    ],
+    "key_symptoms": [
+      { "value": ["legs splay out sideways instead of under the body", "chick cannot bear its own weight on its legs"], "source_url": "https://en.wikipedia.org/wiki/Spraddle_leg" }
+    ],
+    "treatment_overview": [
+      { "value": "supports or shackles are used to gently bring the legs back toward the midline of the body", "source_url": "https://en.wikipedia.org/wiki/Spraddle_leg" }
+    ],
+    "summary": [
+      {
+        "value": "Spraddle leg is a condition in newly hatched chicks where the legs splay out to the sides, most often blamed on a slippery floor surface, leaving the chick unable to stand normally. It is managed by fitting simple supports or shackles that hold the legs back in a normal position.",
+        "source_url": "https://en.wikipedia.org/wiki/Spraddle_leg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "borrelia-anserina",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["avian borreliosis", "fowl spirochetosis"], "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "ducks"], "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "pathogen": [
+      { "value": "Borrelia anserina, a spirochete bacterium", "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "how_it_spreads": [
+      { "value": ["bird to bird through the bite of ticks in the Argas and Ornithodoros genera"], "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "key_symptoms": [
+      { "value": ["anemia", "diarrhea", "severe nervous system problems"], "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "diagnosis": [
+      { "value": "Growing the bacteria in the lab (from blood or eggs) is a diagnostic method, though it is rarely done", "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ],
+    "summary": [
+      { "value": "Borrelia anserina is a bacterium spread between poultry by tick bites, causing a disease called fowl spirochetosis or borreliosis. Infected birds can develop anemia, diarrhea and serious nerve problems.", "source_url": "https://en.wikipedia.org/wiki/Borrelia_anserina" }
+    ]
+  }
+}

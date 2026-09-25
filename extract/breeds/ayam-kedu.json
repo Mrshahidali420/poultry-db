@@ -1,0 +1,41 @@
+{
+  "id": "ayam-kedu",
+  "fields": {
+    "origin_country": [
+      {"value": "Indonesia", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "eggs_per_year_min": [
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.95, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "hen_weight_kg": [
+      {"value": 1.95, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "varieties": [
+      {"value": ["Kedu Kedu (white-skinned)", "Kedu Cemani (black-skinned)", "Kedu Hsian (partridge, white-skinned)"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "skin_color": [
+      {"value": "black (Kedu Cemani variety) or white (other varieties)", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "comb": [
+      {"value": "large red or black comb, varies by variety", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "notable_traits": [
+      {"value": ["kept as a ritual bird in Indonesia", "used in Chinese traditional medicine", "one of the ancestors of the Ayam Cemani"], "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ],
+    "history_summary": [
+      {"value": "The Ayam Kedu originates from the village of Kedu on the Kedu Plain in Central Java, Indonesia, and is regarded as one of the ancestors of the Ayam Cemani. It is valued in Indonesia as a ritual bird and is also used in Chinese medicine.", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu"}
+    ]
+  }
+}

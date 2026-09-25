@@ -1,0 +1,17 @@
+{
+  "id": "ndio-gigante",
+  "fields": {
+    "origin_country": [
+      { "value": "Brazil", "source_url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante" }
+    ],
+    "origin_year_or_period": [
+      { "value": "late 1980s or early 1990s", "source_url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante" }
+    ],
+    "notable_traits": [
+      { "value": ["one of the largest and tallest chicken breeds in the world", "created by crossing large gamecocks (Indian Game, Shamo, Malay) with caipira mixed-breed farm chickens", "would be the first pure chicken breed to originate in Brazil, if officially recognised"], "source_url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante" }
+    ],
+    "history_summary": [
+      { "value": "The Indio Gigante was developed in Brazil's Minas Gerais and Goias states in the late 1980s or early 1990s by crossing large gamecock breeds with local caipira farm chickens. Its breed association is seeking official recognition, which would make it Brazil's first native pure chicken breed.", "source_url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante" }
+    ]
+  }
+}

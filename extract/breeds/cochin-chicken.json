@@ -1,0 +1,32 @@
+{
+  "id": "cochin-chicken",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" } ],
+    "egg_color": [
+      { "value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" },
+      { "value": "brown", "source_url": "https://livestockconservancy.org/cochin-chicken/" }
+    ],
+    "egg_size": [ { "value": "large", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 150, "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 5.0, "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "hen_weight_kg": [ { "value": 3.9, "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "temperament": [ { "value": ["friendly", "docile", "gentle", "calm"], "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "broodiness": [ { "value": "high", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "heat_tolerant": [ { "value": "no", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "feathered_legs": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" } ],
+    "comb": [ { "value": "single, small rounded in hens, medium in roosters", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "varieties": [ { "value": ["black", "blue", "buff", "cuckoo", "partridge", "grouse", "white", "barred", "brown", "golden-laced", "silver-laced"], "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" } ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" },
+      { "value": "no", "source_url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/cochin/" }
+    ],
+    "conservation_status": [ { "value": "Recovering (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "origin_country": [ { "value": "China", "source_url": "https://en.wikipedia.org/wiki/Cochin_chicken" } ],
+    "notable_traits": [ { "value": ["heart-shaped fluffy silhouette", "feathered feet and toes", "best broody breed, especially for hatching ducks and turkeys", "prone to obesity"], "source_url": "https://livestockconservancy.org/cochin-chicken/" } ],
+    "history_summary": [ { "value": "Descended from large feather-legged chickens brought from China to Europe and North America in the 1840s and 1850s, the Cochin sparked a mid-19th-century poultry craze after imported birds were given to Queen Victoria. Bred mainly for its impressive fluffy appearance rather than production, it remains popular today as an ornamental and broody breed rather than a meat or commercial egg bird.", "source_url": "https://livestockconservancy.org/cochin-chicken/" } ]
+  }
+}

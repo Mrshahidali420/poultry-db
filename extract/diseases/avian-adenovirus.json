@@ -1,0 +1,45 @@
+{
+  "id": "avian-adenovirus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["Aviadenovirus", "Quail Bronchitis", "Egg Drop Syndrome", "Haemorrhagic Enteritis", "Pheasant Marble Spleen Disease", "Inclusion Body Hepatitis"], "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "ducks", "geese", "turkeys", "pheasants"], "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "pathogen": [
+      { "value": "Aviadenovirus (avian adenovirus), several species with the most common serogroups being 1, 2 and 3", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "how_it_spreads": [
+      { "value": ["mainly through droppings contaminating feed, water or environment", "serogroup 1 can also pass from hen to chick through the egg", "can stay dormant in an infected bird and flare up when the bird is stressed"], "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "key_symptoms": [
+      { "value": ["often no visible signs", "diarrhea", "loss of appetite", "blood in droppings", "anemia and dehydration in gut infections", "reduced or abnormal egg laying", "eggs of abnormal size, shape, colour or texture"], "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "diagnosis": [
+      { "value": "Lab testing is needed, including tissue examination, electron microscopy, virus isolation, ELISA and PCR; a drop in egg production can be confirmed with a specific antibody test", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "prevention": [
+      { "value": ["vaccines exist for haemorrhagic enteritis and egg drop syndrome", "reducing stress", "good hygiene", "adequate nutrition"], "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "treatment_overview": [
+      { "value": "No specific treatment mentioned beyond reducing stress, hygiene and nutrition to lower the chance of clinical disease", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ],
+    "summary": [
+      { "value": "Avian adenovirus is a group of related viruses found worldwide that can cause gut, reproductive or organ disease in chickens and other poultry, often staying hidden until a bird is stressed. Vaccines exist for some forms, and management focuses on hygiene, nutrition and reducing stress rather than direct treatment.", "source_url": "https://en.wikipedia.org/wiki/Avian_adenovirus" }
+    ]
+  }
+}

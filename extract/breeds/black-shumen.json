@@ -1,0 +1,48 @@
+{
+  "id": "black-shumen",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 150, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"},
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 155, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"},
+      {"value": 170, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "egg_color": [
+      {"value": "greyish-white", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "hen_weight_kg": [
+      {"value": 1.45, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"},
+      {"value": 1.65, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 1.85, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"},
+      {"value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "purpose": [
+      {"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "origin_country": [
+      {"value": "Bulgaria", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "origin_year_or_period": [
+      {"value": "traditional, developed as a breed 1951-1989", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "conservation_status": [
+      {"value": "at risk/endangered-maintained", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "skin_color": [
+      {"value": "white (unpigmented)", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "comb": [
+      {"value": "large, 5-7 points, droops to one side in hens", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "notable_traits": [
+      {"value": ["black plumage with green sheen", "early maturing, laying starts around 145-173 days", "slate-grey shanks and feet", "black beak"], "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ],
+    "history_summary": [
+      {"value": "The breed developed from black Mediterranean-type chickens traditionally kept in Shumen Province, Bulgaria, and was formalized through selective breeding at the Agricultural Institute of Stara Zagora between 1951 and 1989, including an early cross with Minorca. Numbers fell sharply after 1989, and today only one flock of about 200 birds survives, making it an endangered breed.", "source_url": "https://en.wikipedia.org/wiki/Black_Shumen"}
+    ]
+  }
+}

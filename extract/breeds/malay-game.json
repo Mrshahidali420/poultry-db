@@ -1,0 +1,74 @@
+{
+  "id": "malay-game",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 20, "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 100, "source_url": "https://livestockconservancy.org/malay-chicken/" },
+      { "value": 80, "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "egg_color": [
+      { "value": "brownish or golden", "source_url": "https://en.wikipedia.org/wiki/Malay_Game" },
+      { "value": "brown", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "medium", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.2, "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 4.1, "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["active", "quarrelsome", "aggressive", "pugnacious"], "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "medium", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "heat_tolerant": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "purpose": [
+      { "value": "meat", "source_url": "https://livestockconservancy.org/malay-chicken/" },
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "varieties": [
+      { "value": ["black", "black-red", "pile", "spangled", "white", "wheaten"], "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "skin_color": [
+      { "value": "yellow (legs)", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "comb": [
+      { "value": "low, thick, strawberry-shaped (small walnut)", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "conservation_status": [
+      { "value": "Critical (Livestock Conservancy); listed critical by FAO in the USA in 2014", "source_url": "https://livestockconservancy.org/malay-chicken/" }
+    ],
+    "origin_country": [
+      { "value": "originated in the Indian subcontinent / Malay Peninsula; developed as a breed partly in England", "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "origin_year_or_period": [
+      { "value": "imported to England from about 1830", "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "notable_traits": [
+      { "value": ["among the tallest chicken breeds, can stand over 90 cm", "hoarse, roar-like crow", "pearl eyes and overhanging brows giving a snake-like expression", "males can be cruel to chicks", "used to develop the Indio Gigante of Brazil"], "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ],
+    "history_summary": [
+      { "value": "The Malay Game is an ancient breed from the Indian subcontinent and Southeast Asia, brought to England around 1830 where it became fashionable and was refined by breeders, especially in Devon and Cornwall. It has mostly been used since to add height and vitality when crossed into other Asian fowl breeds, rather than kept as a farm bird.", "source_url": "https://en.wikipedia.org/wiki/Malay_Game" }
+    ]
+  }
+}

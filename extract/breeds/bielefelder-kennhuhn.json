@@ -1,0 +1,43 @@
+{
+  "id": "bielefelder-kennhuhn",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 230, "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"},
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 230, "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"},
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "varieties": [
+      {"value": ["crele", "silver"], "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "origin_country": [
+      {"value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "origin_year_or_period": [
+      {"value": "1970s", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "conservation_status": [
+      {"value": "not at risk (FAO DAD-IS, 2007)", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "autosexing": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "notable_traits": [
+      {"value": ["autosexing chicks distinguishable by colour at hatch", "fast-growing with good carcass yield", "developed from Malines, Welsumer and Barred Rock crosses"], "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ],
+    "history_summary": [
+      {"value": "The breed was developed in the 1970s near Bielefeld, Germany by Gerd Roth, who crossed Malines and Welsumer stock with American Barred Rocks. Because of its Barred Rock ancestry it is autosexing, and it was formally recognised under its current name in 1980.", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn"}
+    ]
+  }
+}

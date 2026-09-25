@@ -1,0 +1,30 @@
+{
+  "id": "rumpless-game",
+  "fields": {
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ],
+    "hen_weight_kg": [
+      {"value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"},
+      {"value": "yes", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-hard-feather/rumpless-game/"}
+    ],
+    "origin_country": [
+      {"value": "Britain", "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ],
+    "notable_traits": [
+      {"value": ["tail-less, lacking the uropygium", "hard-feathered", "may be called Manx Rumpy"], "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ],
+    "history_summary": [
+      {"value": "The Rumpless Game is a tail-less British breed possibly originating on the Isle of Man. A separate American line called Manx Rumpy was created in 1958 by crossing tail-less birds of supposed Iranian origin with other breeds, though it is not recognised by the American Poultry Association.", "source_url": "https://en.wikipedia.org/wiki/Rumpless_Game"}
+    ]
+  }
+}

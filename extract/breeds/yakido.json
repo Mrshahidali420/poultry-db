@@ -1,0 +1,15 @@
+{
+ "id": "yakido",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 80, "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "egg_color": [ {"value": "cream or brown", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "origin_country": [ {"value": "Japan", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "origin_year_or_period": [ {"value": "mid-nineteenth century (circa 1850, late Edo period)", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "comb": [ {"value": "triple", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "varieties": [ {"value": ["black"], "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "notable_traits": [ {"value": ["small, muscular gamecock type", "stands very upright", "hard close feathers held close to body", "yellow beak and legs, sometimes with black markings", "made a Natural Monument of Japan in 1950", "bred as a sparring partner for larger fighting cocks", "used to create the Kumano Jidori meat hybrid"], "source_url": "https://en.wikipedia.org/wiki/Yakido"} ],
+   "history_summary": [ {"value": "The Yakido descends from the Shamo group of Japanese fighting fowl, themselves derived from Malay-type birds brought from Thailand in the 1600s, and was bred in Mie Prefecture in the mid-1800s as a smaller sparring partner for bigger gamecocks. Japan declared it a Natural Monument in 1950.", "source_url": "https://en.wikipedia.org/wiki/Yakido"} ]
+ }
+}

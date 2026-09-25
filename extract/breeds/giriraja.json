@@ -1,0 +1,14 @@
+{
+  "id": "giriraja",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "egg_color": [ { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "eggs_per_year_min": [ { "value": 180, "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "eggs_per_year_max": [ { "value": 190, "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "hen_weight_kg": [ { "value": 3, "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "rooster_weight_kg": [ { "value": 4, "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "origin_country": [ { "value": "India", "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "notable_traits": [ { "value": ["thick brown eggshells that resist breaking", "good hatchability, 80-85%", "resistant to most diseases except Newcastle (Ranikhet) disease", "good scavenger, suited to backyard farming"], "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ],
+    "history_summary": [ { "value": "Developed by Karnataka Veterinary, Animal and Fisheries Sciences University in Bengaluru by crossing purebred exotic lines to resemble native desi birds. It is a dual-purpose breed suited to backyard and free-range farming, growing faster than local varieties while still needing little special care.", "source_url": "https://en.wikipedia.org/wiki/Giriraja" } ]
+  }
+}

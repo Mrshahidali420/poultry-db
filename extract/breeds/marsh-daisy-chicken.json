@@ -1,0 +1,54 @@
+{
+  "id": "marsh-daisy-chicken",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "egg_color": [
+      { "value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" },
+      { "value": "cream", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.95, "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "temperament": [
+      { "value": ["calm", "active", "can fly", "flighty"], "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "varieties": [
+      { "value": ["black", "brown", "buff", "wheaten", "white"], "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "comb": [
+      { "value": "rose", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "endangered (Rare Breeds Survival Trust, UK); extremely rare even in its homeland", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "origin_country": [
+      { "value": "England", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "developed from the 1880s, established as a breed by 1913", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["willow green legs", "slow to mature but hardy once grown", "good forager, prefers free range", "never recognized by the American Poultry Association", "never had significant populations outside the UK"], "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Marsh Daisy was created in Lancashire from the 1880s by crossing Old English Game with Malay hens, then adding Black Hamburg, White Leghorn and Sicilian Buttercup blood, becoming a set breed by 1913. It has always been rare and confined mostly to England, and there is no bantam version.", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" }
+    ]
+  }
+}

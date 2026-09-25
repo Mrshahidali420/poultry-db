@@ -1,0 +1,18 @@
+{
+  "id": "duck-hepatitis-b-virus",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      { "value": ["ducks"], "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_B_virus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_B_virus" }
+    ],
+    "pathogen": [
+      { "value": "Duck hepatitis B virus (DHBV), a small DNA virus in the Hepadnaviridae family", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_B_virus" }
+    ],
+    "summary": [
+      { "value": "Duck hepatitis B virus is the cause of duck hepatitis B, a viral liver infection specific to ducks. The source text is mostly technical virus biology and does not describe symptoms, spread, treatment, or any effect on chickens, and it notes the virus is mainly useful as a research model for human hepatitis B.", "source_url": "https://en.wikipedia.org/wiki/Duck_hepatitis_B_virus" }
+    ]
+  }
+}

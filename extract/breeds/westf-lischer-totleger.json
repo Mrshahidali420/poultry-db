@@ -1,0 +1,15 @@
+{
+ "id": "westf-lischer-totleger",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "hen_weight_kg": [ {"value": 1.75, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "rooster_weight_kg": [ {"value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "broodiness": [ {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "origin_country": [ {"value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "origin_year_or_period": [ {"value": "more than 400 years old", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "varieties": [ {"value": ["gold-pencilled", "silver-pencilled"], "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "conservation_status": [ {"value": "gravely endangered (Stark gefährdet, 2016)", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "notable_traits": [ {"value": ["non-sitting hens", "closely related to Ostfriesische Möwe and Braekel"], "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ],
+   "history_summary": [ {"value": "This rare German breed comes from the traditional farm chickens of Westphalia around Bielefeld and Herford, and its name evolved from old Low German words meaning a daily or long-lasting egg layer rather than from the word for dead. It lost ground to more productive foreign breeds from the 1880s onward and its numbers have kept falling, reaching gravely endangered status by 2016.", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"} ]
+ }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "infectious-coryza-in-chickens",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["infectious coryza"], "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "species_affected": [
+      {"value": ["chickens"], "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "cause_type": [
+      {"value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "pathogen": [
+      {"value": "Avibacterium paragallinarum (gram-negative bacterium)", "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "how_it_spreads": [
+      {"value": ["direct contact between birds", "airborne droplets", "drinking contaminated water"], "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "spreads_to_humans": [
+      {"value": "no", "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "key_symptoms": [
+      {"value": ["depression", "watery nasal discharge", "sneezing", "swelling below the eye and around the face", "swollen wattles in males", "closed eyes from swelling in severe cases"], "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "incubation_period": [
+      {"value": "1 to 3 days, with illness typically lasting 2 to 3 weeks", "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "diagnosis": [
+      {"value": "Isolating the bacteria from affected birds, supported by clinical signs and PCR testing", "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ],
+    "prevention": [
+      {"value": ["starting flocks with coryza-free birds", "culling the whole flock in severe cases", "vaccination in high-risk areas"], "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"},
+      {"value": ["all-in all-out flock management with disinfection between groups", "strong biosecurity to keep out carrier birds"], "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "treatment_overview": [
+      {"value": "Early antibiotic treatment given promptly can help affected birds recover, though the disease can return once medication stops", "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "when_to_call_vet": [
+      {"value": "Call a vet if birds develop facial swelling with nasal discharge and sneezing, since prompt treatment improves recovery and a lab test is needed to tell it apart from similar respiratory diseases.", "source_url": "https://www.merckvetmanual.com/poultry/infectious-coryza/infectious-coryza"}
+    ],
+    "summary": [
+      {"value": "Infectious coryza is a contagious bacterial respiratory disease of chickens that causes facial swelling, nasal discharge and sneezing, and can sharply cut egg production in laying hens. It is not a risk to human health, and control relies on biosecurity, vaccination in high-risk areas, and prompt antibiotic treatment.", "source_url": "https://en.wikipedia.org/wiki/Infectious_coryza_in_chickens"}
+    ]
+  }
+}

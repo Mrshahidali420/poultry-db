@@ -1,0 +1,44 @@
+{
+  "id": "pedr-s-portuguesa",
+  "fields": {
+    "hen_weight_kg": [
+      { "value": { "min": 2.2, "max": 2.7 }, "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 2.6, "max": 3.2 }, "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "temperament": [
+      { "value": ["active", "hardy"], "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "varieties": [
+      { "value": ["barred (narrow dark grey bars on white or light grey; only colour variant)"], "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "comb": [
+      { "value": "single, five or six points", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "earlobe_color": [
+      { "value": "bright red", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "feathered_legs": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "conservation_status": [
+      { "value": "not at risk as of 2024 (population recovered to an estimated 15,000-27,000 birds from about 4,500 breeding hens in the early 2000s)", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "origin_country": [
+      { "value": "Portugal (Minho region)", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "notable_traits": [
+      { "value": ["one of four Portuguese chicken breeds, alongside the Amarela, Branca and Preta Lusitanica", "good disease resistance, suited to extensive free-range family farms", "feathers traditionally used to tie trout fishing flies"], "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ],
+    "history_summary": [
+      { "value": "The Pedres Portuguesa is a traditional Portuguese dual-purpose breed centred on the Minho region in the north-west of the country. Once considered at risk with only around 4,500 breeding hens in the early 2000s, its population had recovered substantially by 2024 and is no longer considered at risk.", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" }
+    ]
+  }
+}

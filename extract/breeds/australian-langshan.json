@@ -1,0 +1,44 @@
+{
+  "id": "australian-langshan",
+  "fields": {
+    "origin_country": [
+      {"value": "Australia", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "origin_year_or_period": [
+      {"value": "early 20th century, admitted to standard in 1998", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "varieties": [
+      {"value": ["black", "blue", "white"], "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "feathered_legs": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "comb": [
+      {"value": "single, medium-sized, straight, red", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "egg_color": [
+      {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "skin_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 3.2, "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "purpose": [
+      {"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "notable_traits": [
+      {"value": ["outer toe of each foot ideally feathered", "upright carriage with long legs", "black variety has a glossy green sheen"], "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ],
+    "history_summary": [
+      {"value": "The breed was developed in Australia in the early 20th century by crossing Croad Langshans, Orpingtons, Wakefer Chinese Langshans and Modern Langshans. It gained wide popularity in Australia by the 1950s and was formally admitted to the Australian Poultry Standard in 1998.", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan"}
+    ]
+  }
+}

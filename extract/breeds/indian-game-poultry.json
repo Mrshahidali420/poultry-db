@@ -1,0 +1,30 @@
+{
+  "id": "indian-game-poultry",
+  "fields": {
+    "purpose": [
+      { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" },
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" }
+    ],
+    "egg_color": [ { "value": "light brown / tinted", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" } ],
+    "eggs_per_year_max": [
+      { "value": 80, "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" },
+      { "value": 160, "source_url": "https://livestockconservancy.org/cornish-chicken/" }
+    ],
+    "rooster_weight_kg": [ { "value": 4.8, "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "hen_weight_kg": [ { "value": 3.6, "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "temperament": [ { "value": ["calm", "docile", "hens can be dominant in a mixed flock", "some roosters aggressive"], "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "broodiness": [ { "value": "medium", "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "comb": [ { "value": "small pea comb", "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "skin_color": [ { "value": "yellow (beak, shanks and feet)", "source_url": "https://livestockconservancy.org/cornish-chicken/" } ],
+    "varieties": [ { "value": ["dark", "Jubilee", "double-laced blue", "white", "white-laced red", "buff"], "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" } ],
+    "conservation_status": [
+      { "value": "priority (Rare Breeds Survival Trust, UK)", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" },
+      { "value": "Watch (Livestock Conservancy, US, as Cornish)", "source_url": "https://livestockconservancy.org/cornish-chicken/" }
+    ],
+    "origin_country": [ { "value": "England (Cornwall)", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" } ],
+    "origin_year_or_period": [ { "value": "developed about 1820", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" } ],
+    "notable_traits": [ { "value": ["unusually broad, deep breast", "some birds too short-legged and broad-breasted to reproduce naturally", "foundation breed of the commercial Cornish Rock broiler cross", "thin, hard feathers with no down, susceptible to cold"], "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" } ],
+    "history_summary": [ { "value": "Developed around 1820 in Cornwall, England, by Sir Walter Gilbert crossing game breeds such as the Aseel and Old English Game, it failed as a fighting bird but proved an excellent meat breed thanks to its unusually broad breast. Renamed Cornish in the United States in 1910, it became the foundation of the modern Cornish Rock broiler that dominates commercial chicken production worldwide.", "source_url": "https://livestockconservancy.org/cornish-chicken/" } ]
+  }
+}

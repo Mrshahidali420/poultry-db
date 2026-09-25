@@ -1,0 +1,39 @@
+{
+  "id": "haemoproteus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["pseudomalaria"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "species_affected": [
+      { "value": ["chickens (one species, H. sanîosdiasï, is recorded in Gallus gallus)", "pigeons and doves", "turkeys", "ducks", "quail", "many other wild bird species", "some reptiles and amphibians"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "pathogen": [
+      { "value": "Haemoproteus species (blood parasites related to Plasmodium)", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "contagious": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "how_it_spreads": [
+      { "value": ["bites from blood-sucking insects such as mosquitoes, biting midges, louse flies and horse-flies"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "key_symptoms": [
+      { "value": ["most infections cause no obvious signs (subclinical)", "in some other bird species: anemia, reluctance to move, ruffled appearance, lameness, difficulty breathing, or death in severe cases"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "mortality": [
+      { "value": "Generally low since most infections are subclinical, though some non-chicken species (e.g. bobwhite quail outbreaks) have shown average flock mortality over 20%", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "diagnosis": [
+      { "value": "Identified by finding parasite gametocytes within red blood cells on blood smears; post-mortem signs can include an enlarged, chocolate-brown spleen, liver and kidneys", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "prevention": [
+      { "value": ["controlling exposure to biting insects that transmit the parasite"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ],
+    "summary": [
+      { "value": "Haemoproteus is a genus of blood parasites spread by biting insects like mosquitoes and midges, related to the malaria parasite Plasmodium. Most infected birds, including chickens, show no obvious illness, though some other bird species can develop anemia or more serious disease.", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus" }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "catalana",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Catalana" } ],
+    "egg_color": [ { "value": "white to tinted", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "egg_size": [
+      { "value": "medium to large", "source_url": "https://livestockconservancy.org/catalana-chicken/" },
+      { "value": "medium", "source_url": "https://livestockconservancy.org/catalana-chicken/" }
+    ],
+    "eggs_per_year_min": [ { "value": 200, "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 240, "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 3.6, "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "hen_weight_kg": [ { "value": 2.7, "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "temperament": [ { "value": ["active", "alert", "not keen on being handled"], "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "heat_tolerant": [ { "value": "yes", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "comb": [ { "value": "large single comb with six upright points on males, flops over on hens", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "skin_color": [ { "value": "pinkish-white", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "varieties": [ { "value": ["buff", "white"], "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "conservation_status": [
+      { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/catalana-chicken/" },
+      { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/catalana-chicken/" }
+    ],
+    "origin_country": [ { "value": "Spain", "source_url": "https://en.wikipedia.org/wiki/Catalana" } ],
+    "origin_year_or_period": [ { "value": "second half of the 19th century", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "notable_traits": [ { "value": ["black tails with green sheen", "bluish slate legs", "good forager", "very heat tolerant"], "source_url": "https://livestockconservancy.org/catalana-chicken/" } ],
+    "history_summary": [ { "value": "Developed in Catalonia's El Prat area in the second half of the nineteenth century by crossing local landrace fowl with imported Asian stock, it was showcased at the 1902 Madrid World's Fair and admitted to the American Poultry Association's standard in 1949. Prized for its heat tolerance, it also became a commercial breed in parts of Latin America such as Argentina.", "source_url": "https://livestockconservancy.org/catalana-chicken/" } ]
+  }
+}

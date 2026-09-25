@@ -1,0 +1,42 @@
+{
+  "id": "sumatra-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 130, "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"},
+      {"value": 100, "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "egg_color": [
+      {"value": "white or cream", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"},
+      {"value": "white to tinted", "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "egg_size": [
+      {"value": "small", "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "hen_weight_kg": [
+      {"value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"},
+      {"value": 1.8, "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.3, "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "temperament": [{"value": ["flighty", "jumpy", "active", "alert"], "source_url": "https://livestockconservancy.org/sumatra-chicken/"}],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"},
+      {"value": "low", "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "cold_hardy": [{"value": "yes", "source_url": "https://livestockconservancy.org/sumatra-chicken/"}],
+    "purpose": [{"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"}],
+    "bantam_available": [{"value": "yes", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sumatra/"}],
+    "varieties": [{"value": ["black", "blue", "white", "dun"], "source_url": "https://livestockconservancy.org/sumatra-chicken/"}],
+    "conservation_status": [
+      {"value": "threatened", "source_url": "https://livestockconservancy.org/sumatra-chicken/"},
+      {"value": "watch", "source_url": "https://livestockconservancy.org/sumatra-chicken/"}
+    ],
+    "comb": [{"value": "pea-shaped, small", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"}],
+    "skin_color": [{"value": "black skin and bones", "source_url": "https://livestockconservancy.org/sumatra-chicken/"}],
+    "origin_country": [{"value": "Indonesia", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"}],
+    "origin_year_or_period": [{"value": "1847 (imported to United States)", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"}],
+    "notable_traits": [{"value": ["strong flying ability", "beetle-green sheen", "long flowing tail carried low", "pheasant-like carriage", "multiple spurs, sometimes three per leg"], "source_url": "https://livestockconservancy.org/sumatra-chicken/"}],
+    "history_summary": [{"value": "The Sumatra descends from fighting cocks brought from the Indonesian island of Sumatra to the United States in 1847, and later to Germany and Britain. Today it is kept purely as an ornamental and show bird, valued for its glossy black, low-carried tail and pheasant-like bearing.", "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken"}]
+  }
+}

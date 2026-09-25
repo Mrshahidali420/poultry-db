@@ -1,0 +1,44 @@
+{
+  "id": "belgian-bantam",
+  "fields": {
+    "egg_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.65, "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.55, "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "varieties": [
+      {"value": ["partridge"], "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "origin_year_or_period": [
+      {"value": "from about 1900, standardised 1934", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "conservation_status": [
+      {"value": "in danger of extinction (168 birds counted in Belgium in 2010)", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "notable_traits": [
+      {"value": ["true bantam with no full-sized counterpart", "small and alert", "slate-blue legs", "good sitters and mothers"], "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ],
+    "history_summary": [
+      {"value": "Like the Dutch Bantam, the breed descends from small partridge-coloured European bantams and was selectively bred in the Liege area of Wallonia from around 1900. Its standard was set in 1934, and it remains rare with only around 168 birds counted in Belgium in 2010.", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam"}
+    ]
+  }
+}

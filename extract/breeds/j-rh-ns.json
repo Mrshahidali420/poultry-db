@@ -1,0 +1,17 @@
+{
+  "id": "j-rh-ns",
+  "fields": {
+    "purpose": [ { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "eggs_per_year_min": [ { "value": 215, "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "eggs_per_year_max": [ { "value": 215, "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "comb": [ { "value": "single", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "varieties": [ { "value": ["dark brown and yellow", "light brown and yellow"], "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "conservation_status": [ { "value": "conservation-worthy national breed (Norwegian Forest and Landscape Institute, 2008-2010)", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "origin_country": [ { "value": "Norway", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "origin_year_or_period": [ { "value": "principal Norwegian breed until 19th-century imports; refined at a breeding station 1916-1973", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ],
+    "history_summary": [ { "value": "The only chicken breed indigenous to Norway, historically the country's principal breed until foreign imports began in the nineteenth century. It was refined at a state breeding station in Jaeren between 1916 and 1973, work that made it autosexing, and it is now recognized as a conservation-worthy national breed.", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" } ]
+  }
+}

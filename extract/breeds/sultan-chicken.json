@@ -1,0 +1,40 @@
+{
+  "id": "sultan-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 70, "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"},
+      {"value": 50, "source_url": "https://livestockconservancy.org/sultan-chicken/"}
+    ],
+    "egg_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"},
+      {"value": "white", "source_url": "https://livestockconservancy.org/sultan-chicken/"}
+    ],
+    "egg_size": [{"value": "small", "source_url": "https://livestockconservancy.org/sultan-chicken/"}],
+    "hen_weight_kg": [
+      {"value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"},
+      {"value": 1.8, "source_url": "https://livestockconservancy.org/sultan-chicken/"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"},
+      {"value": 2.7, "source_url": "https://livestockconservancy.org/sultan-chicken/"}
+    ],
+    "temperament": [{"value": ["active", "tame", "chatty but not loud"], "source_url": "https://livestockconservancy.org/sultan-chicken/"}],
+    "broodiness": [{"value": "low", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "cold_hardy": [{"value": "no", "source_url": "https://livestockconservancy.org/sultan-chicken/"}],
+    "heat_tolerant": [{"value": "partly", "source_url": "https://livestockconservancy.org/sultan-chicken/"}],
+    "purpose": [{"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "bantam_available": [{"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "varieties": [{"value": ["white"], "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "conservation_status": [
+      {"value": "threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/sultan-chicken/"},
+      {"value": "not at risk (FAO, 2007); priority (RBST, 2026); at risk/endangered (DAD-IS)", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}
+    ],
+    "feathered_legs": [{"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "crest": [{"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "comb": [{"value": "v-shaped", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "earlobe_color": [{"value": "bright red", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "origin_country": [{"value": "Turkey", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "notable_traits": [{"value": ["bearded", "muffed", "five-toed", "vulture hocks", "v-shaped comb", "heavily feathered legs and feet", "wings carried low"], "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}],
+    "history_summary": [{"value": "According to legend the Sultan was kept as an ornamental bird in the palace gardens of the Ottoman sultans in Turkey, and all Western stock descends from birds sent to a London poultry editor in 1854. It remains a rare, purely ornamental breed prized for its unusual crest, beard, muffs, feathered legs and five toes.", "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken"}]
+  }
+}

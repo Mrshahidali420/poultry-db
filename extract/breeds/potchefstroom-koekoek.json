@@ -1,0 +1,26 @@
+{
+  "id": "potchefstroom-koekoek",
+  "fields": {
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ],
+    "varieties": [
+      { "value": ["black-and-white barred (only pattern)"], "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ],
+    "autosexing": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ],
+    "origin_country": [
+      { "value": "South Africa", "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ],
+    "origin_year_or_period": [
+      { "value": "1960s", "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ],
+    "notable_traits": [
+      { "value": ["developed by crossing Black Australorp, White Leghorn and Barred Plymouth Rock for conditions in Southern Africa", "chicks can be sexed soon after hatching from distinct markings", "keeps up decent egg production even on poor or limited feed", "large-bodied for good meat production while free-ranging"], "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ],
+    "history_summary": [
+      { "value": "The Potchefstroom Koekoek was developed in the 1960s by Chris Marais at the Potchefstroom Agricultural College by crossing Black Australorp, White Leghorn and Barred Plymouth Rock stock to create a dual-purpose bird suited to South African free-range conditions. It keeps a barred black-and-white pattern and can be sexed at hatch.", "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+    ]
+  }
+}

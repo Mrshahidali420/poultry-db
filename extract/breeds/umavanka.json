@@ -1,0 +1,10 @@
+{
+ "id": "umavanka",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka"} ],
+   "eggs_per_year_max": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka"} ],
+   "origin_country": [ {"value": "Czech Republic", "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka"} ],
+   "notable_traits": [ {"value": ["original population went extinct and was restored by crossing survivors with Czech gold brindle, yellow Plymouth Rock, Rhode Island, New Hampshire and Wyandotte", "eggs weigh about 58 g"], "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka"} ],
+   "history_summary": [ {"value": "The Sumava is an old breed from the Bohemian Forest whose original population died out. It was later recreated in the second half of the 20th century by crossbreeding a few remaining birds with several other established breeds.", "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka"} ]
+ }
+}

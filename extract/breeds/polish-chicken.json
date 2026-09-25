@@ -1,0 +1,57 @@
+{
+  "id": "polish-chicken",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 150, "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" }
+    ],
+    "egg_size": [
+      { "value": "medium to large", "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.0, "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.7, "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["calm", "flighty when startled", "friendly", "nervous around crest obstruction"], "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "heat_tolerant": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" },
+      { "value": "eggs (historically, especially in France)", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" }
+    ],
+    "crest": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "comb": [
+      { "value": "small, v-shaped, often hidden by the crest", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "Recovering (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "notable_traits": [
+      { "value": ["bearded, non-bearded and frizzle varieties exist", "crest can obscure vision, making them vulnerable to aerial predators", "crest can become waterlogged or freeze in cold, wet weather", "gray, unfeathered legs with four toes"], "source_url": "https://livestockconservancy.org/polish-chicken/" }
+    ],
+    "history_summary": [
+      { "value": "The Polish chicken's crested type appears in European paintings from at least the 1400s-1600s, and its exact origin, whether Poland or elsewhere, remains uncertain. It was kept for eggs in places like France before losing favour as a layer to breeds like the Leghorn in the mid-1800s, after which it became mainly an exhibition bird.", "source_url": "https://en.wikipedia.org/wiki/Polish_chicken" }
+    ]
+  }
+}

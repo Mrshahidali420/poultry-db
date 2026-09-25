@@ -1,0 +1,74 @@
+{
+  "id": "la-fl-che-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 180, "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" },
+      { "value": 140, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 220, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" },
+      { "value": "white to cream", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "large", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" },
+      { "value": "large to extra-large", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 3, "max": 3.5 }, "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" },
+      { "value": 2.9, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 3.5, "max": 4 }, "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" },
+      { "value": 3.6, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["active"], "source_url": "https://livestockconservancy.org/la-fleche-chicken/" },
+      { "value": ["flighty", "wary of humans"], "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "varieties": [
+      { "value": ["black", "blue-laced", "cuckoo", "pearl-grey", "white"], "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "origin_country": [
+      { "value": "France", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "origin_year_or_period": [
+      { "value": "traced by many authors to the 15th century; first described 1846", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "comb": [
+      { "value": "u- or v-shaped (two vertical spikes)", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["large red wattles", "no crest", "resembles the Spanish breed except for its comb", "heavier than its tight feathers suggest", "good forager", "large breast for its size", "famous for producing capons and poulardes for the Paris market"], "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+    ],
+    "history_summary": [
+      { "value": "The La Fleche is an old French breed from the Sarthe area, prized historically for fine meat and once exported to the US, Germany and Britain in the 1800s. Numbers collapsed after World War Two and it came close to disappearing in the 1960s-70s before regional conservation efforts began a slow recovery.", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" }
+    ]
+  }
+}

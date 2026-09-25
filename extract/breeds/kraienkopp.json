@@ -1,0 +1,39 @@
+{
+  "id": "kraienkopp",
+  "fields": {
+    "egg_color": [
+      { "value": "off-white", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.75, "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" },
+      { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "comb": [
+      { "value": "small walnut-type", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "varieties": [
+      { "value": ["silver", "gold", "orange/lemon", "blue-gold", "crele", "pile", "blue-silver", "cuckoo", "silver cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "origin_country": [
+      { "value": "Germany and the Netherlands (border region)", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "notable_traits": [
+      { "value": ["active bird", "strong forager", "rare breed"], "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ],
+    "history_summary": [
+      { "value": "The Kraienkopp was bred in the late 1800s on the German-Dutch border by crossing local chickens with Malay and later silver duckwing Leghorn stock. It was first exhibited in the Netherlands in 1920 and in Germany in 1925.", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+ "id": "burmese-bantam",
+ "fields": {
+   "purpose": [ {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "feathered_legs": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "crest": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "comb": [ {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "origin_country": [ {"value": "Myanmar (Burma)", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "varieties": [ {"value": ["white"], "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"}, {"value": ["black (Dutch recreation)"], "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "notable_traits": [ {"value": ["true bantam with no corresponding large fowl", "smaller and lower to the ground than the similar Booted Bantam", "short heavily feathered legs", "small earlobes, long drooping wattles", "carries the creeper gene"], "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ],
+   "history_summary": [ {"value": "The Burmese Bantam apparently originated in Myanmar and reached the UK in the 1880s, but was believed extinct by the First World War. Surviving birds found in the 1970s were crossed with white Booted Bantams to recreate the breed, which the Poultry Club of Great Britain now recognises only in white.", "source_url": "https://en.wikipedia.org/wiki/Burmese_Bantam"} ]
+ }
+}

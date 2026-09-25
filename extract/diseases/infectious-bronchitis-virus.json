@@ -1,0 +1,36 @@
+{
+  "id": "infectious-bronchitis-virus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["IBV", "avian infectious bronchitis"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "species_affected": [
+      {"value": ["chickens"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "cause_type": [
+      {"value": "viral", "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "pathogen": [
+      {"value": "Infectious bronchitis virus (a Gammacoronavirus)", "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "how_it_spreads": [
+      {"value": ["inhaled and attaches to cells lining the respiratory tract", "spreads through the body via the bloodstream to other organs"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "key_symptoms": [
+      {"value": ["respiratory distress and laboured breathing", "sharp drop in egg production", "misshapen, shell-less, or watery eggs", "kidney damage in some strains"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "prevention": [
+      {"value": ["vaccination with attenuated or inactivated vaccines, though cross-protection between strains is limited"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ],
+    "summary": [
+      {"value": "Infectious bronchitis virus is a highly contagious coronavirus of chickens that damages the respiratory tract, kidneys and reproductive system, causing breathing problems and poor egg quality or output. Vaccines exist but protection between different strains of the virus is often incomplete.", "source_url": "https://en.wikipedia.org/wiki/Infectious_bronchitis_virus"}
+    ]
+  }
+}

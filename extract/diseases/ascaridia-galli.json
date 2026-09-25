@@ -1,0 +1,45 @@
+{
+  "id": "ascaridia-galli",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": "chickens", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "turkeys", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "other birds", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "pathogen": [
+      {"value": "Ascaridia galli, a large intestinal roundworm", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "how_it_spreads": [
+      {"value": "birds swallow worm eggs from contaminated feed or water", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "eggs are very hardy and can survive a long time in the environment", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "free-range birds are at higher risk because they pick up eggs from the ground, possibly aided by earthworms carrying the eggs", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "key_symptoms": [
+      {"value": "poor weight gain", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "reduced egg production", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "gut blockage and bloody intestinal inflammation in heavy infections", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "general unthriftiness, drooping wings and a pale head", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "emaciation and stunted growth, mainly in birds under 12 weeks old", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"},
+      {"value": "worms occasionally seen in droppings or even inside laid eggs", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "mortality": [
+      {"value": "heavy infections greatly increase mortality", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "diagnosis": [
+      {"value": "found by seeing worms or their eggs in droppings, or occasionally worms inside eggs", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "treatment_overview": [
+      {"value": "treated with deworming medication given in feed, water, or as a single dose; effectiveness varies by drug and by the bird's age", "source_url": "https://en.wikipedia.org/wiki/Ascaridia_galli"}
+    ],
+    "summary": [
+      {"value": "Ascaridia galli is a large roundworm that lives in the small intestine of chickens and turkeys and is picked up by swallowing hardy worm eggs from contaminated ground, feed or water. Heavy infections cause poor growth, fewer eggs, intestinal damage and can be fatal, but they are treatable with deworming medication."}
+    ]
+  }
+}

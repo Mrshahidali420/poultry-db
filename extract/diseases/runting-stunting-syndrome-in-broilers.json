@@ -1,0 +1,38 @@
+{
+  "id": "runting-stunting-syndrome-in-broilers",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": "viral enteritis", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" },
+      { "value": "malabsorption syndrome", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" },
+      { "value": "brittle bone disease", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" },
+      { "value": "infectious proventriculitis", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" },
+      { "value": "helicopter disease", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" },
+      { "value": "pale bird syndrome", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "species_affected": [
+      { "value": ["broiler chickens"], "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "cause_type": [
+      { "value": "other", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "key_symptoms": [
+      { "value": ["visibly stunted growth, most obvious around 30 to 42 days of age", "lower body weight in affected birds (runts)", "poorer feed conversion", "less uniform flock size"], "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "mortality": [
+      { "value": "flock mortality is not increased; about 1 to 10 percent of birds become runts", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "prevention": [
+      { "value": ["reovirus vaccination of breeders or broilers, though this does not fully solve the problem", "general good hygiene", "correct brooding temperatures"], "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers" }
+    ],
+    "summary": [
+      {
+        "value": "Runting-stunting syndrome is a growth problem seen in broiler chickens since the 1940s, where a portion of the flock grows poorly and converts feed less efficiently, usually becoming obvious around 30 to 42 days old. It has been linked to several viruses (especially reovirus) and bacteria acting together, and while reovirus vaccines and good hygiene help, the condition often clears up on its own.",
+        "source_url": "https://en.wikipedia.org/wiki/Runting-stunting_syndrome_in_broilers"
+      }
+    ]
+  }
+}

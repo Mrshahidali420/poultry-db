@@ -1,0 +1,44 @@
+{
+  "id": "barbu-danvers",
+  "fields": {
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "origin_year_or_period": [
+      {"value": "one of the oldest bantam breeds; first reliable written mention in 1858", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "purpose": [
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "bantam_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.7, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "egg_color": [
+      {"value": "creamy white", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "egg_size": [
+      {"value": "small", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "broodiness": [
+      {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "comb": [
+      {"value": "small rose comb", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "conservation_status": [
+      {"value": "not threatened; the only Belgian bantam breed not threatened with extinction", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "notable_traits": [
+      {"value": ["profuse feather beard covering the earlobes", "large round breast that juts forward", "small or non-existent wattles", "true bantam with no full-sized counterpart"], "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ],
+    "history_summary": [
+      {"value": "The Barbu d'Anvers is one of the oldest bantam breeds, thought to have originated in the Antwerp province of Belgium from small bearded chickens of the Low Countries. It is the ancestor of other Belgian bantam breeds such as the Barbu de Grubbe and Barbu d'Uccle.", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Anvers"}
+    ]
+  }
+}

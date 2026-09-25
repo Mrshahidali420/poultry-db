@@ -1,0 +1,41 @@
+{
+  "id": "padovana-chicken",
+  "fields": {
+    "egg_color": [
+      { "value": "cream to light brown", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 1.5, "max": 2.0 }, "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 1.8, "max": 2.3 }, "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "varieties": [
+      { "value": ["white", "black", "silver-laced", "gold-laced", "buff-laced", "sparrowhawk"], "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "comb": [
+      { "value": "absent (no comb)", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "whitish, small, covered by the crest", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "crest": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "low numbers, about 1200 breeding birds per a 2007 study", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Italy (Padova, Veneto)", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["small, crested and bearded breed recognised as indigenous to Italy despite uncertain deep history", "vestigial wattles and no comb", "possibly related to Polish and Dutch crested breeds, though the connection is debated", "crested chicken skulls and depictions exist from Roman times and a 1397 Padova fresco"], "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ],
+    "history_summary": [
+      { "value": "The Padovana is an old small crested and bearded chicken from Padova in Italy's Veneto region, with crested chickens depicted in the area as far back as a 1397 fresco. Its precise origins and relationship to similar Polish and Dutch crested breeds remain debated, and it survives today in low numbers of around 1,200 birds.", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }
+    ]
+  }
+}

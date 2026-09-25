@@ -1,0 +1,75 @@
+{
+  "id": "minorca-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 120, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": 140, "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 220, "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": "chalk white", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "extra-large", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 2.2, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": { "min": 2.70, "max": 3.60 }, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": 3.4, "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": { "min": 3.20, "max": 3.60 }, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": 4.1, "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "temperament": [
+      { "value": ["very active", "flighty", "not aggressive but not cuddly"], "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "low", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "heat_tolerant": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "no", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "purpose": [
+      { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" },
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "varieties": [
+      { "value": ["black", "blue", "white", "buff", "barred"], "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "skin_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "comb": [
+      { "value": "single, six points (rose-combed variants also exist)", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "conservation_status": [
+      { "value": "at risk of extinction in its native Menorca and listed 'at risk' globally; Watch status (Livestock Conservancy)", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "origin_country": [
+      { "value": "Spain (Menorca, Balearic Islands)", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ],
+    "notable_traits": [
+      { "value": ["largest chicken in the Mediterranean class", "greenish-black glossy plumage in the Spanish type", "large white earlobes", "meat considered dry, traditionally larded before roasting", "great forager"], "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+    ],
+    "history_summary": [
+      { "value": "The international Minorca was developed by the British from local Menorcan chickens during and after Britain's occupation of the island in the 1700s, and became a well-known egg-laying and exhibition breed in Devon and Cornwall. It is now rare on Menorca itself, with conservation programmes underway there since the 2000s.", "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }
+    ]
+  }
+}

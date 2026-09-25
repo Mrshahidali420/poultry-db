@@ -1,0 +1,36 @@
+{
+  "id": "avian-sarcoma-leukosis-virus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["Avian leukosis virus (ALV)", "avian sarcoma leukosis virus (ASLV)", "avian leukosis-sarcoma virus", "leukosis/sarcoma group", "lymphoid leukosis"], "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "species_affected": [
+      { "value": ["chickens"], "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "pathogen": [
+      { "value": "Avian leukosis virus (ALV), a retrovirus, closely related to Rous sarcoma virus", "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "how_it_spreads": [
+      { "value": ["some forms pass from hen to chick through the egg", "other forms spread bird to bird (horizontally)"], "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "key_symptoms": [
+      { "value": ["gradual onset with ongoing low-level deaths in the flock", "tumors of the bursa (lymphoid leukosis)", "enlarged liver from cancerous cell buildup", "other abdominal organs affected"], "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "mortality": [
+      { "value": "Lymphoid leukosis typically causes persistent low-level mortality with gradual onset rather than sudden deaths", "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ],
+    "summary": [
+      { "value": "Avian leukosis virus causes a slow-developing cancer of white blood cells in chickens, most often showing up as tumors of the bursa and an enlarged liver in birds 16 weeks or older. There is no vaccine, and some forms of the virus pass from hen to chick through the egg while others spread bird to bird.", "source_url": "https://en.wikipedia.org/wiki/Avian_sarcoma_leukosis_virus" }
+    ]
+  }
+}

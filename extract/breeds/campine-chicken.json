@@ -1,0 +1,28 @@
+{
+  "id": "campine-chicken",
+  "fields": {
+    "purpose": [ { "value": "eggs", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "egg_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "egg_size": [
+      { "value": "medium", "source_url": "https://livestockconservancy.org/campine-chicken/" },
+      { "value": "medium to large", "source_url": "https://livestockconservancy.org/campine-chicken/" }
+    ],
+    "eggs_per_year_min": [ { "value": 140, "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 2.7, "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "hen_weight_kg": [ { "value": 1.8, "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "temperament": [ { "value": ["active", "flighty", "inquisitive", "friendly but not cuddly"], "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "cold_hardy": [ { "value": "no", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "beginner_friendly": [ { "value": "yes", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "comb": [ { "value": "large single red comb, can flop to one side", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "earlobe_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "skin_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "varieties": [ { "value": ["Silver", "Golden"], "source_url": "https://en.wikipedia.org/wiki/Campine_chicken" } ],
+    "autosexing": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Campine_chicken" } ],
+    "conservation_status": [ { "value": "Threatened (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "origin_country": [ { "value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Campine_chicken" } ],
+    "notable_traits": [ { "value": ["vigorous forager", "hen-feathered males in Europe", "one of the rarer breeds", "does not like being handled"], "source_url": "https://livestockconservancy.org/campine-chicken/" } ],
+    "history_summary": [ { "value": "A Flemish breed closely related to the larger Braekel, it was formally split off as its own breed in the early 1900s and imported to Britain and the United States soon after. It later played a role in early autosexing genetics research, though it remains one of the rarer chicken breeds today.", "source_url": "https://en.wikipedia.org/wiki/Campine_chicken" } ]
+  }
+}

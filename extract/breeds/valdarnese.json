@@ -1,0 +1,21 @@
+{
+ "id": "valdarnese",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 135, "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "eggs_per_year_max": [ {"value": 135, "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "egg_color": [ {"value": "ivory-white", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "hen_weight_kg": [ {"value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "rooster_weight_kg": [ {"value": 3.1, "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "broodiness": [ {"value": "high", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "purpose": [ {"value": "meat", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "origin_country": [ {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "origin_year_or_period": [ {"value": "first described 1899", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "conservation_status": [ {"value": "recovering from near extinction", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "skin_color": [ {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "comb": [ {"value": "large, blood-red, five or six points", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "earlobe_color": [ {"value": "creamy yellow with some red veining", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "varieties": [ {"value": ["white (main recognised variety)"], "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "notable_traits": [ {"value": ["orange-yellow legs", "poor layer due to strong broodiness", "raised principally for meat, about 6000 birds slaughtered per year", "distinct from the black Valdarno Nero breed"], "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ],
+   "history_summary": [ {"value": "The Valdarnese is a white Italian breed from the upper Arno valley in Tuscany, first described in 1899 and nearly wiped out in the 20th century by intensive farming and competition from the White Leghorn. Conservation efforts from the 1990s onward have kept a small population going, with roughly 1200 birds recorded in a 2007 study.", "source_url": "https://en.wikipedia.org/wiki/Valdarnese"} ]
+ }
+}

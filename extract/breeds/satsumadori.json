@@ -1,0 +1,36 @@
+{
+  "id": "satsumadori",
+  "fields": {
+    "hen_weight_kg": [
+      {"value": 2.6, "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "comb": [
+      {"value": "triple (small or absent in hens)", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "earlobe_color": [
+      {"value": "red (may be absent)", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "purpose": [
+      {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"},
+      {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "conservation_status": [
+      {"value": "not at risk (1999 assessment)", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "origin_country": [
+      {"value": "Japan", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "varieties": [
+      {"value": ["akasasa (red-hackled)", "kinsasa (golden-hackled)", "kisasa (yellow-hackled)", "shirosasa (white-hackled)", "soukoku (black)", "taihaku (white)"], "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "notable_traits": [
+      {"value": ["designated a Natural Monument of Japan in 1943", "upright stance with laterally fanned tail held above horizontal", "bred for steel-spur cockfighting"], "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ],
+    "history_summary": [
+      {"value": "The Satsumadori originated in Kagoshima Prefecture in southern Japan, bred originally for steel-spur cockfighting, a practice no longer legal there. It was named a Natural Monument of Japan in 1943 and is now kept mainly for exhibition.", "source_url": "https://en.wikipedia.org/wiki/Satsumadori"}
+    ]
+  }
+}

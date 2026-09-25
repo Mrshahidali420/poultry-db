@@ -1,0 +1,47 @@
+{
+  "id": "robusta-lionata",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 160, "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 170, "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "egg_color": [
+      {"value": "salmon", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 3.8, "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "comb": [
+      {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "earlobe_color": [
+      {"value": "red", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "skin_color": [
+      {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "autosexing": [
+      {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "origin_country": [
+      {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "origin_year_or_period": [
+      {"value": "1959-1965", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "notable_traits": [
+      {"value": ["buff plumage resembling Buff Orpington", "black tail and wing-tips with green sheen", "crossed with Barred Plymouth Rock produces auto-sexing hybrid"], "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ],
+    "history_summary": [
+      {"value": "The Robusta Lionata is a modern Italian dual-purpose breed created in the early 1960s at an experimental breeding centre in Rovigo, by crossing Buff Orpingtons with a commercial strain called White America. It is one of five local breeds included in a regional conservation project in Veneto, and its numbers remain low.", "source_url": "https://en.wikipedia.org/wiki/Robusta_Lionata"}
+    ]
+  }
+}

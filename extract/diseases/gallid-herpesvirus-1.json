@@ -1,0 +1,51 @@
+{
+  "id": "gallid-herpesvirus-1",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["GaHV-1", "avian infectious laryngotracheitis", "AILT", "ILT", "LT", "infectious laryngotracheitis"], "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "pheasants"], "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "pathogen": [
+      { "value": "Gallid herpesvirus 1 (genus Iltovirus)", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "how_it_spreads": [
+      { "value": ["shed in respiratory secretions", "spread by inhaling droplets", "spread via contaminated objects (fomites)"], "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "key_symptoms": [
+      { "value": ["coughing", "sneezing", "head shaking", "lethargy", "discharge from eyes and nostrils, sometimes bloody", "difficulty breathing", "severe inflammation of the larynx and trachea", "membrane forming in the trachea that can block the airway", "abnormal or thin-shelled eggs and egg-laying problems"], "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "mortality": [
+      { "value": "Typically less than 15 percent", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "incubation_period": [
+      { "value": "2 to 8 days; a previously unexposed flock develops cases over 2 to 8 weeks after the virus is introduced", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "diagnosis": [
+      { "value": "Histopathology, PCR, ELISA, immunofluorescent staining, and viral isolation can all be used", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "prevention": [
+      { "value": ["vaccination", "quarantine of confirmed cases", "isolation and disinfection biosecurity measures"], "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "treatment_overview": [
+      { "value": "No specific treatment; a vaccine can be given during an outbreak to reduce illness and deaths, though it does not prevent latent infection", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Birds coughing, gasping for breath, or with bloody eye/nose discharge should be seen promptly, since this is one of the most contagious poultry diseases.", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ],
+    "summary": [
+      { "value": "Gallid herpesvirus 1 causes infectious laryngotracheitis, a highly contagious respiratory disease in chickens and pheasants spread through respiratory droplets and contaminated surfaces. It causes breathing difficulty and airway inflammation, and while a vaccine exists to reduce outbreak severity, there is no cure once a bird is infected.", "source_url": "https://en.wikipedia.org/wiki/Gallid_herpesvirus_1" }
+    ]
+  }
+}

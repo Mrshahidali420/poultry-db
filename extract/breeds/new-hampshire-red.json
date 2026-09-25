@@ -1,0 +1,69 @@
+{
+  "id": "new-hampshire-red",
+  "fields": {
+    "eggs_per_year_min": [
+      { "value": 200, "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "eggs_per_year_max": [
+      { "value": 220, "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "egg_color": [
+      { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" },
+      { "value": "tinted to brown", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "egg_size": [
+      { "value": "large", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 3.9, "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "temperament": [
+      { "value": ["docile or competitive and aggressive, depending on strain"], "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "broodiness": [
+      { "value": "medium", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "beginner_friendly": [
+      { "value": "yes", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "varieties": [
+      { "value": ["red", "white", "blue-tailed red"], "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "skin_color": [
+      { "value": "yellow", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+    ],
+    "comb": [
+      { "value": "single, five-pointed", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "conservation_status": [
+      { "value": "Watch/Threatened (Livestock Conservancy); not at risk per DAD-IS as of 2015 (~3300 birds)", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "origin_country": [
+      { "value": "United States", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "origin_year_or_period": [
+      { "value": "developed over about 30 years in the early 20th century, recognised 1935", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "notable_traits": [
+      { "value": ["developed purely from Rhode Island Red stock, no other breed involved", "fast-growing and quick-feathering", "official state bird of New Hampshire since 2018", "helped develop the Delaware breed in the 1940s", "used in the 1940s 'Chicken of Tomorrow' contests that shaped modern commercial broilers"], "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ],
+    "history_summary": [
+      { "value": "The New Hampshire Red was bred over about thirty years in the early 1900s by selecting Rhode Island Red stock for faster growth and feathering, without introducing any other breed, and was standardised in 1935. It became important to the region's poultry industry and was named New Hampshire's official state poultry in 2018.", "source_url": "https://en.wikipedia.org/wiki/New_Hampshire_Red" }
+    ]
+  }
+}

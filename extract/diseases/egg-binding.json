@@ -1,0 +1,36 @@
+{
+  "id": "egg-binding",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "cause_type": [
+      { "value": "other", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "species_affected": [
+      { "value": ["birds (including chickens)", "reptiles"], "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "contagious": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "key_symptoms": [
+      { "value": ["egg stuck near the cloaca or further inside the reproductive tract", "straining without passing an egg"], "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "mortality": [
+      { "value": "Can be fatal to the affected bird if the egg is not passed or removed", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "diagnosis": [
+      { "value": "Recognized when an egg fails to pass out of the reproductive tract in the usual time", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "prevention": [
+      { "value": ["avoiding obesity", "avoiding calcium deficiency", "avoiding environmental/temperature stress", "avoiding conditions that cause malformed eggs"], "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "treatment_overview": [
+      { "value": "The stuck egg may be gently massaged out; if that fails it may need to be broken in place and removed in pieces, with the oviduct cleaned afterward to prevent infection or damage", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "when_to_call_vet": [
+      { "value": "A bird that cannot pass a stuck egg on its own needs prompt help since egg binding can lead to infection, tissue damage, or death.", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ],
+    "summary": [
+      { "value": "Egg binding is when a hen's egg takes longer than normal to pass out of her reproductive tract, sometimes getting stuck near or inside the body. It can be caused by obesity, low calcium, temperature stress, or a malformed egg, and can be serious or fatal if not resolved.", "source_url": "https://en.wikipedia.org/wiki/Egg_binding" }
+    ]
+  }
+}

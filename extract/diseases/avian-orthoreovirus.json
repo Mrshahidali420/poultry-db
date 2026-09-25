@@ -1,0 +1,45 @@
+{
+  "id": "avian-orthoreovirus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["avian reovirus", "viral arthritis/tenosynovitis", "runting-stunting syndrome", "blue wing disease"], "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "poultry generally, broilers especially"], "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "pathogen": [
+      { "value": "Avian orthoreovirus (avian reovirus)", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "how_it_spreads": [
+      { "value": ["mainly through droppings (fecal-oral route)", "rarely from hen to chick through the egg", "can also enter through broken skin on the feet or legs"], "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "key_symptoms": [
+      { "value": ["lameness", "swelling or bleeding around the joints", "gut, respiratory or nervous system signs in some cases", "stunted growth and small body size (runting-stunting syndrome)", "in young broilers: bruising under the skin and in muscle with poor growth (blue wing disease)"], "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "mortality": [
+      { "value": "Blue wing disease in young broilers has an average death rate of about 10%", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "diagnosis": [
+      { "value": "Signs alone give only a suspected diagnosis; confirming it needs lab tests such as virus isolation, complement fixation, ELISA, immunodiffusion or tissue examination after death", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "prevention": [
+      { "value": ["vaccination of breeder hens so chicks get protection through maternal antibodies", "vaccinating chicks early in life"], "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ],
+    "summary": [
+      { "value": "Avian orthoreovirus is found worldwide in poultry flocks and mainly causes joint disease and lameness, along with runting-stunting problems in young birds. It is not caught by people, spreads mostly through droppings, and vaccination of breeding flocks is the main way to protect chicks.", "source_url": "https://en.wikipedia.org/wiki/Avian_orthoreovirus" }
+    ]
+  }
+}

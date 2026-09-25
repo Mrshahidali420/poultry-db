@@ -1,0 +1,44 @@
+{
+  "id": "bionda-piemontese",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "egg_color": [
+      {"value": "pinkish brown", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.15, "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.65, "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "origin_country": [
+      {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "origin_year_or_period": [
+      {"value": "traditional, standardised 2007", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "skin_color": [
+      {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "comb": [
+      {"value": "single, large, 4-6 points", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "earlobe_color": [
+      {"value": "yellow to creamy white", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "notable_traits": [
+      {"value": ["buff plumage with black or blue tail", "fast-growing", "used to produce the traditional Cappone di Morozzo capon"], "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ],
+    "history_summary": [
+      {"value": "This traditional dual-purpose breed from Piemonte, Italy, declined sharply in the 1960s as farming intensified since it needs free-range conditions. A recovery program began in 1999 and a formal breed standard followed in 2007, though total numbers remain modest.", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese"}
+    ]
+  }
+}

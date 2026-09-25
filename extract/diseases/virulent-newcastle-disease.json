@@ -1,0 +1,54 @@
+{
+  "id": "virulent-newcastle-disease",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Exotic Newcastle disease (former name)", "VND"], "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "species_affected": [
+      {"value": ["many domestic and wild bird species, including chickens", "humans (mild, rare cases)"], "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "cause_type": [
+      {"value": "viral", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "pathogen": [
+      {"value": "Newcastle disease virus (NDV), an avulavirus", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "how_it_spreads": [
+      {"value": ["direct contact with droppings and discharges from infected birds", "contaminated shoes, clothing, equipment and vehicles", "can survive for weeks on feathers and manure in warm, humid conditions"], "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "key_symptoms": [
+      {"value": ["gasping and coughing", "depression and loss of appetite", "muscle tremors and drooping wings", "twisted head and neck, circling", "paralysis", "swelling around the eyes and neck", "greenish watery diarrhea", "misshapen or thin-shelled eggs", "drop in egg production"], "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "mortality": [
+      {"value": "The most severe (velogenic) strains can cause up to 90% mortality; intermediate strains up to about 10%; mild strains cause little to no death.", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "incubation_period": [
+      {"value": "2 to 15 days", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "diagnosis": [
+      {"value": "Laboratory testing of trachea and cloaca swabs using ELISA, PCR, or next-generation sequencing; the virus can also be isolated from lungs, brain, spleen, liver or kidneys.", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "prevention": [
+      {"value": ["isolating any bird showing symptoms", "vaccinating new birds before adding them to a flock", "sanitary measures to limit spread"], "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "treatment_overview": [
+      {"value": "No treatment for the disease is known; control relies on vaccination and sanitary measures.", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "when_to_call_vet": [
+      {"value": "Call a vet promptly if birds show sudden respiratory distress, nervous signs like tremors or twisted neck, paralysis, or a sharp drop in egg production, and isolate them immediately.", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ],
+    "summary": [
+      {"value": "Virulent Newcastle disease is a highly contagious viral disease of chickens and other birds that can cause respiratory distress, nervous signs, egg problems and high death rates, and it can occasionally cause mild flu-like illness or conjunctivitis in people. There is no treatment, so control depends on vaccination, isolating sick birds, and strict sanitary practices, and outbreaks have historically led to government-ordered flock destruction in affected regions.", "source_url": "https://en.wikipedia.org/wiki/Virulent_Newcastle_disease"}
+    ]
+  }
+}

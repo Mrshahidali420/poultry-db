@@ -1,0 +1,11 @@
+{
+ "id": "tomaru",
+ "fields": {
+   "origin_country": [ {"value": "Japan", "source_url": "https://en.wikipedia.org/wiki/Tomaru"} ],
+   "comb": [ {"value": "single", "source_url": "https://en.wikipedia.org/wiki/Tomaru"} ],
+   "earlobe_color": [ {"value": "red, sometimes with dark markings (may be entirely black in hens)", "source_url": "https://en.wikipedia.org/wiki/Tomaru"} ],
+   "varieties": [ {"value": ["black with greenish sheen (only colour)"], "source_url": "https://en.wikipedia.org/wiki/Tomaru"} ],
+   "notable_traits": [ {"value": ["long-crowing breed, crow sustained about 25 seconds", "broad, compact body with full breast", "dark slate-grey feet and shanks", "registered as a Japanese natural monument of Niigata Prefecture in 1939"], "source_url": "https://en.wikipedia.org/wiki/Tomaru"} ],
+   "history_summary": [ {"value": "The Tomaru is a Japanese long-crowing breed thought to trace back to China's Tang dynasty. It is one of four recognised Japanese long-crowing breeds and was designated a natural monument of Niigata Prefecture in 1939.", "source_url": "https://en.wikipedia.org/wiki/Tomaru"} ]
+ }
+}

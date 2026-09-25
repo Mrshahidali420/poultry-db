@@ -1,0 +1,52 @@
+{
+  "id": "riemerella-anatipestifer",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "other_names": [
+      { "value": "duck septicaemia", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" },
+      { "value": "goose flu", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" },
+      { "value": "riemerellosis", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" },
+      { "value": "new duck disease", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" },
+      { "value": "polyserositis", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "species_affected": [
+      { "value": ["young ducks", "geese"], "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "pathogen": [
+      { "value": "Riemerella anatipestifer", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "how_it_spreads": [
+      { "value": ["spreads horizontally between birds"], "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "key_symptoms": [
+      { "value": ["diarrhoea", "fever", "loss of appetite", "stunted growth", "coughing and other breathing trouble", "convulsions and other nervous signs", "eye problems"], "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "mortality": [
+      { "value": "most common in birds 1 to 8 weeks old, with death following quickly in many birds", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "diagnosis": [
+      { "value": "clinical signs and post-mortem findings usually give a presumptive diagnosis, confirmed with bacterial culture, PCR or ELISA testing", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "prevention": [
+      { "value": ["good husbandry practices"], "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "treatment_overview": [
+      { "value": "antibiotics are the usual treatment, chosen based on sensitivity testing", "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer" }
+    ],
+    "summary": [
+      {
+        "value": "Riemerella anatipestifer is a bacterial infection that mainly kills young ducks and geese worldwide, causing sudden illness with diarrhea, breathing trouble and nervous signs. It spreads bird to bird, and can be managed with antibiotics, vaccination and good husbandry, but the source text does not mention chickens as a host.",
+        "source_url": "https://en.wikipedia.org/wiki/Riemerella_anatipestifer"
+      }
+    ]
+  }
+}

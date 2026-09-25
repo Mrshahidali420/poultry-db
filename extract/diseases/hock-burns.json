@@ -1,0 +1,33 @@
+{
+  "id": "hock-burns",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      {"value": ["chickens", "other broiler farm birds"], "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "cause_type": [
+      {"value": "injury", "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "contagious": [
+      {"value": "no", "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "how_it_spreads": [
+      {"value": ["not contagious; caused by ammonia in wet litter burning the skin of the leg joint"], "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "key_symptoms": [
+      {"value": ["brown ulcer-like mark on the hock joint", "visible scabs in severe cases", "pain and reduced mobility"], "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "diagnosis": [
+      {"value": "Visual scoring of the hock joint on a severity scale, most commonly the Welfare Quality Assessment Protocol", "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "prevention": [
+      {"value": ["reduce stocking density", "keep litter dry to limit ammonia buildup", "avoid conditions and fast-growing breeds that increase risk"], "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "treatment_overview": [
+      {"value": "No specific treatment described; management focuses on reducing litter moisture and overcrowding that cause the burns in the first place", "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ],
+    "summary": [
+      {"value": "Hock burns are ammonia-caused skin lesions on the leg joints of chickens, common in overcrowded broiler operations with wet litter. They are not contagious but cause pain and mobility problems, and are used by welfare researchers as an indicator of poor housing conditions.", "source_url": "https://en.wikipedia.org/wiki/Hock_burns"}
+    ]
+  }
+}

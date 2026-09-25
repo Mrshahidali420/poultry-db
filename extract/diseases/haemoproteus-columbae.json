@@ -1,0 +1,27 @@
+{
+  "id": "haemoproteus-columbae",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      { "value": ["pigeons"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ],
+    "pathogen": [
+      { "value": "Haemoproteus columbae (a blood parasite related to Plasmodium)", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ],
+    "contagious": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ],
+    "how_it_spreads": [
+      { "value": ["transmitted by the pigeon louse fly (Pseudolynchia canariensis)"], "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ],
+    "mortality": [
+      { "value": "Usually benign in pigeons and does not reduce survival, but can sometimes be fatal to young pigeons", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ],
+    "summary": [
+      { "value": "Haemoproteus columbae is a blood parasite that specifically infects pigeons, spread by the pigeon louse fly. It is usually harmless but can occasionally kill young pigeons; the source text does not describe it affecting chickens.", "source_url": "https://en.wikipedia.org/wiki/Haemoproteus_columbae" }
+    ]
+  }
+}

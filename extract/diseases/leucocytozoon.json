@@ -1,0 +1,31 @@
+{
+  "id": "leucocytozoon",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Leukocytozoon", "leucocytozoonosis"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "species_affected": [
+      {"value": ["over 100 bird species, including chickens, ducks, geese, turkeys and many wild birds"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "pathogen": [
+      {"value": "Leucocytozoon species (blood parasites related to malaria parasites)", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "how_it_spreads": [
+      {"value": ["transmitted by the bite of blackflies", "some species transmitted by biting midges instead of blackflies"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "key_symptoms": [
+      {"value": ["most infected birds show no signs"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"},
+      {"value": ["loss of appetite", "unsteady movement", "weakness", "anaemia", "weight loss", "difficulty breathing"], "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "mortality": [
+      {"value": "Excess deaths in adult birds are usually linked to weakness and greater vulnerability to other infections rather than the parasite alone", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ],
+    "summary": [
+      {"value": "Leucocytozoon is a large genus of blood parasites spread by blackfly or midge bites that infects over 100 bird species, including chickens, ducks, geese and turkeys. Most infected birds show no obvious signs, but some develop anaemia, weakness and breathing trouble, and are more likely to die from secondary infections.", "source_url": "https://en.wikipedia.org/wiki/Leucocytozoon"}
+    ]
+  }
+}

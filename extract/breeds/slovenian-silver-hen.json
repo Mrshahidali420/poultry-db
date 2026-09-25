@@ -1,0 +1,15 @@
+{
+  "id": "slovenian-silver-hen",
+  "fields": {
+    "eggs_per_year_min": [{"value": 260, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "eggs_per_year_max": [{"value": 270, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "egg_color": [{"value": "brown", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "purpose": [{"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "comb": [{"value": "single", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "earlobe_color": [{"value": "light red with white blotches", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "origin_country": [{"value": "Slovenia", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "origin_year_or_period": [{"value": "1968", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "notable_traits": [{"value": ["white plumage", "yellow legs", "yellow-orange eyes"], "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}],
+    "history_summary": [{"value": "Developed at the University of Ljubljana's Biotechnical Faculty and consolidated as a breed by 1968, the Slovenian Silver was selected for a sex-linked white plumage gene useful in crossbreeding. It is kept mainly at the university's poultry research center and used as a parent for the Prelux commercial crossbreeds.", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"}]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bianca-di-saluzzo",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "egg_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "hen_weight_kg": [
+      {"value": 2.05, "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 2.6, "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "purpose": [
+      {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "origin_country": [
+      {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "origin_year_or_period": [
+      {"value": "traditional, recovery effort began 1999", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "skin_color": [
+      {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "comb": [
+      {"value": "single, large, 4-6 points", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "earlobe_color": [
+      {"value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "notable_traits": [
+      {"value": ["white plumage", "yellow skin and legs", "suitable only for free-range management"], "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ],
+    "history_summary": [
+      {"value": "This traditional Italian breed from the Piemonte region was once abundant around Saluzzo but declined in the 1960s with industrialised farming, since it suits only free-range keeping. A recovery effort began in 1999, though breeding stock numbers remain low.", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo"}
+    ]
+  }
+}

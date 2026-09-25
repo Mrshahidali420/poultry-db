@@ -1,0 +1,39 @@
+{
+  "id": "avastrovirus-2",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["avian nephritis virus", "avian nephritis", "Infectious Stunting Syndrome", "Baby Chick Nephritis"], "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "species_affected": [
+      { "value": ["chickens"], "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "pathogen": [
+      { "value": "Avastrovirus 2 (avian nephritis virus, an astrovirus)", "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "how_it_spreads": [
+      { "value": ["mainly spread bird to bird through droppings contaminating feed or environment", "rarely passed from hen to chick through the egg"], "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "key_symptoms": [
+      { "value": ["diarrhea", "stunted growth", "skin lesions", "in severe cases kidney damage, wasting and sudden death"], "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "diagnosis": [
+      { "value": "Signs alone give only a suspected diagnosis; confirming it needs lab tests such as virus neutralisation, ELISA, immunofluorescence or RT-PCR on affected tissue", "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "prevention": [
+      { "value": ["fully cleaning and disinfecting housing between batches of birds", "keeping an all-in-all-out flock system", "good nutrition and a low-stress environment"], "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "treatment_overview": [
+      { "value": "No effective treatment exists; management focuses on hygiene, nutrition and reducing stress to limit disease severity", "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ],
+    "summary": [
+      { "value": "Avastrovirus 2, also known as avian nephritis virus, mainly affects chicks under two weeks old, causing mild diarrhea and stunted growth or, in weaker chicks, kidney damage and death. It spreads mostly through droppings and there is no cure, so prevention relies on cleaning, good nutrition and reducing stress.", "source_url": "https://en.wikipedia.org/wiki/Avastrovirus_2" }
+    ]
+  }
+}

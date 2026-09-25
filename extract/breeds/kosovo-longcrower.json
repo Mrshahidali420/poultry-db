@@ -1,0 +1,18 @@
+{
+  "id": "kosovo-longcrower",
+  "fields": {
+    "purpose": [ { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "egg_color": [ { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "eggs_per_year_min": [ { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "eggs_per_year_max": [ { "value": 160, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "rooster_weight_kg": [ { "value": 2, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" }, { "value": 3.25, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "hen_weight_kg": [ { "value": 1.5, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" }, { "value": 2, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "comb": [ { "value": "V comb", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "crest": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "varieties": [ { "value": ["black, sometimes with red or gold wing feathers"], "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "origin_country": [ { "value": "Kosovo", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "notable_traits": [ { "value": ["crow lasts 20-40 seconds, exceptional birds up to 60 seconds", "cocks begin crowing at 6-7 months old", "spread across many Balkan and European countries after 2011"], "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ],
+    "history_summary": [ { "value": "A landrace long-crowing breed that developed in the Drenica region of Kosovo, historically known locally as the Rooster of Drenica. Rarely kept before 2011, it has since spread in popularity across the Balkans and wider Europe thanks to its distinctive, unusually long crow.", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" } ]
+  }
+}

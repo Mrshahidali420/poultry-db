@@ -1,0 +1,26 @@
+{
+  "id": "barbu-deverberg",
+  "fields": {
+    "origin_country": [
+      {"value": "Belgium", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ],
+    "origin_year_or_period": [
+      {"value": "about 1906", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 0.75, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ],
+    "hen_weight_kg": [
+      {"value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ],
+    "conservation_status": [
+      {"value": "critical (2010, among the most endangered breeds in Belgium)", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ],
+    "notable_traits": [
+      {"value": ["tailless variant of the Barbu d'Uccle", "true bantam with no large counterpart", "considered a variant of the Barbu d'Uccle rather than a separate breed in Britain and the Netherlands"], "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ],
+    "history_summary": [
+      {"value": "The Barbu d'Everberg was bred around 1906 at the Chateau d'Everberg near Kortenberg, Belgium, as a tailless variant of the Barbu d'Uccle. It is one of the most endangered chicken breeds in Belgium.", "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg"}
+    ]
+  }
+}

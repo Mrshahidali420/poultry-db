@@ -1,0 +1,9 @@
+{
+ "id": "thai-game",
+ "fields": {
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Thai_Game"} ],
+   "origin_country": [ {"value": "Thailand", "source_url": "https://en.wikipedia.org/wiki/Thai_Game"} ],
+   "notable_traits": [ {"value": ["Malayoid type", "similar to Shamo but lighter build", "higher-positioned tail than Shamo, carried slightly above horizontal"], "source_url": "https://en.wikipedia.org/wiki/Thai_Game"} ],
+   "history_summary": [ {"value": "This hard-feather fighting breed originates in Thailand, where it is known as gai chon. It has been recognised by the British Poultry Standards since 2009.", "source_url": "https://en.wikipedia.org/wiki/Thai_Game"} ]
+ }
+}

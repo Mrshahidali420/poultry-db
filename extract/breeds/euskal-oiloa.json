@@ -1,0 +1,20 @@
+{
+  "id": "euskal-oiloa",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "egg_color": [ { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "eggs_per_year_min": [ { "value": 209, "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "eggs_per_year_max": [ { "value": 220, "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "rooster_weight_kg": [ { "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "hen_weight_kg": [ { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "comb": [ { "value": "single, five to seven points", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "varieties": [ { "value": ["Beltza (black)", "Gorria (red)", "Lepasoila (naked-necked, red-brown)", "Marraduna (golden cuckoo)", "Zilarra (black-tailed white)"], "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "conservation_status": [ { "value": "listed among Spain's indigenous breeds at risk of extinction (royal decree, 2008)", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "origin_country": [ { "value": "Spain (Basque Country) and south-western France", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "origin_year_or_period": [ { "value": "traditional breed; conservation breeding began 1975, standard approved 2001", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "notable_traits": [ { "value": ["naked-neck variety (Lepasoila) with red skin on the neck", "much meat production is capons, without chemical castration", "added to the Slow Food Ark of Taste in 2008"], "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ],
+    "history_summary": [ { "value": "The traditional dual-purpose farm chicken of the Basque Country, it survived early competition from white-egg commercial hybrids because local consumers preferred brown eggs, but later declined once brown-egg hybrids appeared. Conservation breeding began in 1975, and it gained an official Spanish breed standard in 2001.", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" } ]
+  }
+}

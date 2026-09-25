@@ -1,0 +1,62 @@
+{
+  "id": "salmonellosis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": "Salmonella infection", "source_url": "https://www.cdc.gov/salmonella/" },
+      { "value": "food poisoning (a general term, since Salmonella is one common cause among several)", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "ducks", "geese", "guinea fowl", "turkeys", "humans"], "source_url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html" },
+      { "value": ["cats", "dogs", "reptiles", "amphibians", "rodents"], "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "pathogen": [
+      { "value": "Salmonella bacteria (mainly Salmonella enterica, with serovars such as Enteritidis and Typhimurium most common in the US)", "source_url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137" }
+    ],
+    "how_it_spreads": [
+      { "value": ["can pass from hen to egg yolk during egg formation (vertical transmission)", "bacteria on the eggshell from droppings can pass through the porous shell into the egg", "spreads bird to bird through droppings contaminating litter, feed, or water (horizontal transmission)", "pests such as insects, mice and other rodents can carry and spread it"], "source_url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137" },
+      { "value": ["people can be infected by eating contaminated meat, eggs, water or milk", "handling live, infected birds", "contact with contaminated surfaces, feces, or poor hand hygiene around poultry"], "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "key_symptoms": [
+      { "value": ["birds are usually not visibly sick and can carry the bacteria without symptoms", "when birds are affected: diarrhea, fever, and reduced feed intake, leading to lower body weight", "ruffled feathers, discharge from eyes or nose, difficulty breathing, fewer or abnormal eggs, unexpected death"], "source_url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137" },
+      { "value": ["in people: diarrhea, fever, abdominal cramps, and vomiting"], "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "mortality": [
+      { "value": "in the US, an estimated 1.35 million human illnesses and about 420-450 deaths occur each year from salmonellosis; about 142,000 of those infections and 30 deaths a year are linked specifically to eggs", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "incubation_period": [
+      { "value": "in humans, symptoms usually start 12 to 72 hours after infection", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "diagnosis": [
+      { "value": "in humans, diagnosed with a stool or blood test", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "prevention": [
+      { "value": ["wash hands after handling poultry, eggs, or anything in their environment", "keep the coop, nests and perches clean", "collect eggs often, refrigerate them, and throw away cracked eggs", "cook eggs and poultry meat thoroughly", "buy chicks from hatcheries in the USDA National Poultry Improvement Plan", "isolate new birds for at least 30 days before mixing them with an existing flock", "use dedicated shoes and clothing for poultry care, and clean equipment outdoors, not in the house", "don't let poultry inside the house or near food-prep areas", "supervise young children around poultry and their handwashing", "practice general biosecurity: limit visitors, clean vehicles and equipment, and watch for and report sick birds"], "source_url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html" },
+      { "value": ["control pests such as rodents and insects that can carry Salmonella between flocks", "keep litter from becoming too wet", "use heat-processed feed where possible since heat kills Salmonella", "disinfect housing and equipment between flocks", "reduce stressors like overcrowding and heat, which increase a flock's susceptibility"], "source_url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "treatment_overview": [
+      { "value": "mild illness usually clears up without specific treatment; more severe human cases may need fluid and electrolyte replacement, and antibiotics are used only in higher-risk cases rather than routinely", "source_url": "https://en.wikipedia.org/wiki/Salmonellosis" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Contact a veterinarian or local extension agent if you notice signs of illness in your poultry.", "source_url": "https://www.cdc.gov/healthy-pets/about/backyard-poultry.html" }
+    ],
+    "summary": [
+      {
+        "value": "Salmonellosis is a common bacterial infection that chickens and other poultry can carry, often without looking sick themselves, while spreading it to people through eggs, meat, or direct contact with birds and their droppings. Good hand hygiene, clean coops, careful egg handling, and basic biosecurity greatly reduce the risk, since sick or carrier birds are hard to control once Salmonella is established in a flock.",
+        "source_url": "https://extension.umd.edu/resource/understanding-salmonella-its-presence-and-control-live-poultry-fs-1137"
+      }
+    ]
+  }
+}

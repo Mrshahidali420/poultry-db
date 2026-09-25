@@ -1,0 +1,24 @@
+{
+  "id": "reticuloendotheliosis-virus",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "species_affected": [
+      { "value": ["chickens", "quail", "geese", "ducks", "turkeys"], "source_url": "https://en.wikipedia.org/wiki/Reticuloendotheliosis_virus" }
+    ],
+    "cause_type": [
+      { "value": "viral", "source_url": "https://en.wikipedia.org/wiki/Reticuloendotheliosis_virus" }
+    ],
+    "pathogen": [
+      { "value": "reticuloendotheliosis virus (REV), a group of avian retroviruses", "source_url": "https://en.wikipedia.org/wiki/Reticuloendotheliosis_virus" }
+    ],
+    "key_symptoms": [
+      { "value": ["stunted growth (a runting syndrome)", "long-term tumors of the lymphoid and other tissues", "sudden-onset tumors of reticulum cells"], "source_url": "https://en.wikipedia.org/wiki/Reticuloendotheliosis_virus" }
+    ],
+    "summary": [
+      {
+        "value": "Reticuloendotheliosis is a group of syndromes in chickens and other poultry caused by an avian retrovirus, showing up as stunted growth or as tumors of the lymphoid and reticulum cells. It is grouped alongside Marek's disease and avian leukosis as one of the main viral tumor diseases of birds.",
+        "source_url": "https://en.wikipedia.org/wiki/Reticuloendotheliosis_virus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "jersey-giant",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "egg_color": [ { "value": "light cream to dark brown", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "egg_size": [ { "value": "extra-large", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 150, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 5.9, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" }, { "value": 6.8, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "hen_weight_kg": [ { "value": 4.5, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" }, { "value": 5.0, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "temperament": [ { "value": ["calm", "docile", "friendly", "rarely aggressive"], "source_url": "https://en.wikipedia.org/wiki/Jersey_Giant" } ],
+    "broodiness": [ { "value": "medium", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "heat_tolerant": [ { "value": "no", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "comb": [ { "value": "single, red", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "skin_color": [ { "value": "yellow", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "feathered_legs": [ { "value": "no", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "varieties": [ { "value": ["black", "white", "blue"], "source_url": "https://en.wikipedia.org/wiki/Jersey_Giant" } ],
+    "conservation_status": [ { "value": "Recovering (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "origin_country": [ { "value": "United States (New Jersey)", "source_url": "https://en.wikipedia.org/wiki/Jersey_Giant" } ],
+    "origin_year_or_period": [ { "value": "developed 1870-1890s", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "notable_traits": [ { "value": ["one of the heaviest of all chicken breeds", "originally bred to replace the turkey as a premium table bird", "black variety has a beetle-green sheen", "slow growing, takes 8-9 months to reach harvest size"], "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ],
+    "history_summary": [ { "value": "Created in Burlington County, New Jersey between 1870 and 1890 by John and Thomas Black, who crossed Black Java, Black Langshan and Dark Brahma stock hoping to produce a chicken that could replace the turkey as a premium table bird. It became one of the heaviest chicken breeds and joined the American Poultry Association's standard in 1922, and while it declined with the rise of faster-growing commercial broilers, its conservation status has since improved to recovering.", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" } ]
+  }
+}

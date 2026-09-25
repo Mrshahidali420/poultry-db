@@ -1,0 +1,13 @@
+{
+ "id": "bresse-gauloise",
+ "fields": {
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "egg_size": [ {"value": "large", "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "purpose": [ {"value": "meat", "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "broodiness": [ {"value": "low", "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "origin_country": [ {"value": "France", "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "varieties": [ {"value": ["grey (Bresse de Bourg, silver-pencilled)", "white (Bresse de Bény)", "black (Bresse de Louhans)", "blue"], "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "notable_traits": [ {"value": ["white variety raised in Bresse has appellation d'origine contrôlée status as poulet de Bresse", "regarded as a premium meat product", "hens are usually non-sitting"], "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ],
+   "history_summary": [ {"value": "Chickens from the Bresse region of eastern France were recorded as early as 1591 and gained a reputation as a premium table bird, but the breed nearly disappeared around 1900 before fancy breeders rebuilt it from white stock under a 1904 standard. The Bresse name received legal protection in 1936 and full appellation d'origine contrôlée status in 1957.", "source_url": "https://en.wikipedia.org/wiki/Bresse_Gauloise"} ]
+ }
+}

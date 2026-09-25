@@ -1,0 +1,26 @@
+{
+  "id": "croad-langshan",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "egg_color": [ { "value": "dark brown with a plum-colored bloom", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "eggs_per_year_min": [ { "value": 140, "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "eggs_per_year_max": [ { "value": 150, "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "rooster_weight_kg": [
+      { "value": 3.75, "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" },
+      { "value": 4.25, "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" }
+    ],
+    "hen_weight_kg": [
+      { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" },
+      { "value": 3.5, "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" }
+    ],
+    "broodiness": [ { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "temperament": [ { "value": ["easily tamed", "adapts well to confinement or free range"], "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "feathered_legs": [ { "value": "partly", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "comb": [ { "value": "single, medium-sized, upright", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "origin_country": [ { "value": "China (developed further in Britain)", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "origin_year_or_period": [ { "value": "imported to Britain in 1872", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "varieties": [ { "value": ["black", "white", "blue"], "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "notable_traits": [ { "value": ["distinctive U-shaped back and tail profile", "black plumage with a green sheen", "fine-textured flesh"], "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ],
+    "history_summary": [ { "value": "Descended from fowl from the Langshan area near Nantong, China, it was imported to Britain in 1872 by Major F.T. Croad and became a popular utility breed in the early twentieth century. Numbers fell after the Second World War but the breed was kept going by the Rare Poultry Society and its own club was revived in 1979.", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" } ]
+  }
+}

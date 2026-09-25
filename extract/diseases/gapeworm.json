@@ -1,0 +1,48 @@
+{
+  "id": "gapeworm",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["red worm", "forked worm", "gape", "Syngamus trachea"], "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "pheasants", "guinea fowl", "various wild birds"], "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "cause_type": [
+      { "value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "pathogen": [
+      { "value": "Syngamus trachea (a parasitic nematode worm)", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "how_it_spreads": [
+      { "value": ["ingesting worm eggs passed in droppings", "eating earthworms, snails or other hosts carrying worm larvae", "wild birds acting as a source of infection"], "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "key_symptoms": [
+      { "value": ["gasping for air with neck stretched out and mouth open", "hissing sound while breathing", "weakness and emaciation", "sitting with eyes closed and head drawn back", "convulsive head shaking", "occasional cough in mild cases", "loss of appetite and refusal to drink in severe cases"], "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "mortality": [
+      { "value": "Young birds can deteriorate rapidly and die; pheasants can have mortality as high as 25% in outbreaks; adult chickens are usually less severely affected", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "incubation_period": [
+      { "value": "Clinical signs first appear about 1-2 weeks after infection", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "diagnosis": [
+      { "value": "Usually diagnosed from the classic gaping behavior; confirmed at necropsy by finding worms in the trachea or by finding worm eggs in the feces", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "prevention": [
+      { "value": ["raising young birds in confinement rather than on open range/soil", "sanitation and breaking the parasite's life cycle", "not raising different species or age groups together", "changing litter regularly"], "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "treatment_overview": [
+      { "value": "A licensed deworming medication for poultry is used to treat infected birds; ongoing preventive medication is not usually recommended because it is uneconomical and can encourage drug resistance", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "when_to_call_vet": [
+      { "value": "A bird gasping for breath with its neck stretched out and mouth open should be seen quickly, since severe cases can deteriorate and die rapidly.", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ],
+    "summary": [
+      { "value": "Gapeworm is a parasitic worm that lodges in the windpipe of chickens and other birds, causing gasping and breathing difficulty, especially in young birds. Birds pick it up by eating worm eggs or hosts like earthworms, and it is managed with deworming medication and by keeping young birds off contaminated soil.", "source_url": "https://en.wikipedia.org/wiki/Gapeworm" }
+    ]
+  }
+}

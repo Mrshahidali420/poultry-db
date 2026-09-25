@@ -1,0 +1,47 @@
+{
+  "id": "pictave",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 130, "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "egg_color": [
+      { "value": "creamy-white", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "hen_weight_kg": [
+      { "value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 0.8, "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "varieties": [
+      { "value": ["partridge (only colour recognised)"], "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "earlobe_color": [
+      { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "comb": [
+      { "value": "red (type not specified)", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "conservation_status": [
+      { "value": "endangered (FAO, 2007); about 50 fertile hens recorded in 2014", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "origin_country": [
+      { "value": "France (Poitou)", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "origin_year_or_period": [
+      { "value": "developed from about 1900, standard drawn up 1928-29", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "notable_traits": [
+      { "value": ["the only true bantam breed native to France", "created by Raymond Lecointre, who used the hens to incubate and raise his pheasant eggs", "long tail, low-carried long wings, rounded breast", "later used in the Nord-Pas-de-Calais region to help reintroduce wild partridge"], "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ],
+    "history_summary": [
+      { "value": "The Pictave was developed from about 1900 by Raymond Lecointre near Poitiers from small European partridge-coloured bantam stock, and he used the hens to hatch and raise his pheasant chicks. It nearly went extinct after World War Two, and later cross-breeding to save it caused the breed to drift from its 1928 standard, prompting a 1998 effort to restore the original type.", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+    ]
+  }
+}

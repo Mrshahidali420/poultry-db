@@ -1,0 +1,52 @@
+{
+  "id": "campylobacteriosis",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["Campylobacter food poisoning", "campylobacter enteritis"], "source_url": "https://en.wikipedia.org/wiki/Campylobacteriosis" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "turkeys", "waterfowl", "humans", "cattle", "swine"], "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "cause_type": [
+      { "value": "bacterial", "source_url": "https://en.wikipedia.org/wiki/Campylobacteriosis" }
+    ],
+    "pathogen": [
+      { "value": "Campylobacter jejuni (also C. coli, C. lari; in layers C. hepaticus and C. bilis cause spotty liver disease)", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "contagious": [
+      { "value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "how_it_spreads": [
+      { "value": ["bird droppings contaminating the environment", "contaminated water such as puddles or unchlorinated ponds", "insects, rodents and wild birds", "contaminated equipment and footwear", "some transmission through the egg"], "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "spreads_to_humans": [
+      { "value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "key_symptoms": [
+      { "value": ["usually no visible signs in most birds"], "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" },
+      { "value": ["in spotty liver disease: drop in egg production, higher deaths, liver damage found at necropsy"], "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "mortality": [
+      { "value": "usually low in poultry, but spotty liver disease outbreaks in layers can approach 15% mortality", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "diagnosis": [
+      { "value": "bacterial culture of feces or liver, or PCR testing; there is no reliable blood/antibody test in birds", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "prevention": [
+      { "value": ["good biosecurity and hygiene", "keeping birds away from muddy puddles or untreated water sources", "controlling rodents, wild birds and insects", "cleaning housing between flocks"], "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "vaccine_available": [
+      { "value": "no", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "treatment_overview": [
+      { "value": "most poultry infections need no treatment since birds show no illness; spotty liver disease outbreaks in layers may be treated with antibiotics under veterinary guidance", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Call a vet if egg production suddenly drops along with unexplained deaths in the flock, which can point to spotty liver disease.", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ],
+    "summary": [
+      { "value": "Campylobacter bacteria commonly live in the gut of healthy chickens without making them sick, but people can catch a diarrheal illness from handling backyard poultry or eating undercooked chicken. In layer flocks, certain related bacteria can occasionally cause a liver disease that drops egg production and raises deaths, but the germ itself rarely makes chickens visibly ill.", "source_url": "https://www.merckvetmanual.com/poultry/campylobacteriosis-in-birds/campylobacteriosis-in-birds" }
+    ]
+  }
+}

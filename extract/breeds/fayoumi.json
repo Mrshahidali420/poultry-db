@@ -1,0 +1,19 @@
+{
+  "id": "fayoumi",
+  "fields": {
+    "purpose": [ { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "egg_color": [ { "value": "white or cream", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "egg_size": [ { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "temperament": [ { "value": ["hardy", "vocal when handled", "strong flier"], "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/fayoumi/" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "heat_tolerant": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "comb": [ { "value": "single, evenly serrated", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "varieties": [ { "value": ["silver-pencilled", "gold-pencilled"], "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "bantam_available": [ { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "origin_country": [ { "value": "Egypt", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "origin_year_or_period": [ { "value": "ancient breed", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "notable_traits": [ { "value": ["fast maturing, hens lay by about 4.5 months", "chicks hatch brown regardless of the adult color variety", "pencilled plumage pattern similar to the Belgian Braekel"], "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ],
+    "history_summary": [ { "value": "An ancient Egyptian breed from the Fayoum region south-west of Cairo, valued for its hardiness and believed disease resistance; some stock was imported to the United States in the 1940s and crossbred with American chickens, and it reached the United Kingdom in 1984. It remains outside the American Poultry Association's standard but is popular for hot climates and free-range keeping.", "source_url": "https://en.wikipedia.org/wiki/Fayoumi" } ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "american-game",
+ "fields": {
+   "egg_color": [ {"value": "brown", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "egg_size": [ {"value": "medium to large", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/American_Game"}, {"value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "comb": [ {"value": "single, five-pointed (bantam)", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "varieties": [ {"value": ["birchen", "black", "black-breasted red", "blue", "blue red", "brown red", "golden duckwing", "red pyle", "silver duckwing", "white", "brassy back", "wheaten"], "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "origin_country": [ {"value": "United States", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "conservation_status": [ {"value": "Livestock Conservancy 'study' (2020), delisted in 2021", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "notable_traits": [ {"value": ["comb, earlobes and wattles are dubbed (cut off) for exhibition", "good table bird", "bantam version bred separately from wild red jungle fowl and pit-game bantams"], "source_url": "https://en.wikipedia.org/wiki/American_Game"} ],
+   "history_summary": [ {"value": "The American Game was bred in the United States for cockfighting, and its bantam version was created separately in New Jersey during the 1940s by crossing wild red jungle fowl with pit-game bantams. The bantam was admitted to the American Poultry Association's standard in 2009, while the full-size bird remains unrecognized by major registries.", "source_url": "https://en.wikipedia.org/wiki/American_Game"} ]
+ }
+}

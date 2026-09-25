@@ -1,0 +1,38 @@
+{
+  "id": "pyncheon",
+  "fields": {
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "egg_size": [
+      { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "temperament": [
+      { "value": ["friendly", "strong flyer"], "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "crest": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "varieties": [
+      { "value": ["Mille Fleur (most common pattern)"], "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "comb": [
+      { "value": "single, followed by a tassel, often crooked into an 's' shape", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "origin_country": [
+      { "value": "United States (Northeast, ancestry traced to the Netherlands or Belgium)", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "conservation_status": [
+      { "value": "rare breed; recognised by the American Bantam Association but not the American Poultry Association", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "notable_traits": [
+      { "value": ["true bantam breed", "featured in Nathaniel Hawthorne's novel The House of the Seven Gables, which Hawthorne wrote while keeping the breed himself"], "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ],
+    "history_summary": [
+      { "value": "The Pyncheon is an old, rare American true bantam whose ancestors are thought to have come from the Netherlands or Belgium to the northeastern United States. It is notable for appearing in Nathaniel Hawthorne's novel The House of the Seven Gables, which he wrote while keeping the breed.", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+    ]
+  }
+}

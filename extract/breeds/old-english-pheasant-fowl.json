@@ -1,0 +1,35 @@
+{
+  "id": "old-english-pheasant-fowl",
+  "fields": {
+    "egg_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "temperament": [
+      { "value": ["hardy"], "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "comb": [
+      { "value": "rose", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "earlobe_color": [
+      { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "conservation_status": [
+      { "value": "at risk (Rare Breeds Survival Trust, 2014 watchlist)", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "origin_country": [
+      { "value": "England (Yorkshire, Lancashire, Cumberland and Westmorland)", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "origin_year_or_period": [
+      { "value": "named and breed club formed 1914, though the breed itself is older", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "notable_traits": [
+      { "value": ["mahogany plumage with darker lacing, resembling a wild pheasant, which gives the breed its name", "thought to be a precursor of the Hamburg breed", "previously known as the Yorkshire Pheasant, Golden Pheasant or Old-fashioned Pheasant", "meaty breast for a light breed, historically popular with farmers"], "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ],
+    "history_summary": [
+      { "value": "The Old English Pheasant Fowl is an old utility breed from rural Yorkshire and Lancashire, named for its pheasant-like plumage and formally named with a breed club in 1914. It is thought to be one of the ancestors of the Hamburg and remains rare today.", "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+    ]
+  }
+}

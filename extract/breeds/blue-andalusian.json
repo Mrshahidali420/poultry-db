@@ -1,0 +1,20 @@
+{
+ "id": "blue-andalusian",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 165, "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "purpose": [ {"value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "origin_country": [ {"value": "Spain", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "conservation_status": [
+     {"value": "at risk (FAO, 2007)", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"},
+     {"value": "extremely endangered in Germany", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"},
+     {"value": "priority (Rare Breeds Survival Trust, UK)", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"}
+   ],
+   "skin_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "comb": [ {"value": "single, medium size, five points", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "earlobe_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "notable_traits": [ {"value": ["slate-blue plumage from a dilution gene", "black legs and feet", "smooth almond-shaped earlobes"], "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ],
+   "history_summary": [ {"value": "Blue chickens from Andalusia in southern Spain reached England by 1851, where breeders developed the blue-laced type through selective and cross-breeding over many years. The breed spread to the United States, South America and Germany in the second half of the 19th century, and Spain officially recognised the Andaluza Azul in 2007.", "source_url": "https://en.wikipedia.org/wiki/Blue_Andalusian"} ]
+ }
+}

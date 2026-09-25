@@ -1,0 +1,15 @@
+{
+ "id": "tuzo-chicken",
+ "fields": {
+   "eggs_per_year_min": [ {"value": 80, "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "eggs_per_year_max": [ {"value": 80, "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "egg_color": [ {"value": "white or light brown", "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "purpose": [ {"value": "fighting", "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "origin_country": [ {"value": "Germany", "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "origin_year_or_period": [ {"value": "recognised in Germany in 1983", "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "varieties": [ {"value": ["black", "black mottled", "blue", "wheaten", "white", "black-red"], "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"}, {"value": ["black", "blue", "white"], "source_url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/tuzo/"} ],
+   "notable_traits": [ {"value": ["true bantam of gamecock type", "derives from Asian bloodlines, developed partly in Europe and partly in the US", "not recognised by the American Poultry Association"], "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ],
+   "history_summary": [ {"value": "The Tuzo is a German true bantam of gamecock type descended from Asian fighting fowl, possibly of Japanese origin, and was developed further in both Europe and the United States. It was officially recognised in Germany in 1983 and is now also recognised by the Entente Europeenne and the Poultry Club of Great Britain.", "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)"} ]
+ }
+}

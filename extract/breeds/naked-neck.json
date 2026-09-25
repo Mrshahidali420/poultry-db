@@ -1,0 +1,32 @@
+{
+  "id": "naked-neck",
+  "fields": {
+    "egg_color": [
+      { "value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "temperament": [
+      { "value": ["good forager", "hardy", "disease-resistant"], "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "cold_hardy": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "heat_tolerant": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "varieties": [
+      { "value": ["black", "white", "cuckoo", "buff", "red", "blue"], "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "notable_traits": [
+      { "value": ["naturally bare of feathers on the neck and vent, about half the feathers of a normal chicken", "easier to pluck for meat", "meaty body", "neck and head turn bright red with sun exposure", "naked-neck trait is a single dominant gene (Na) on chromosome 3", "also called Transylvanian Naked Neck or Turken"], "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ],
+    "history_summary": [
+      { "value": "The Naked Neck's origins are unclear but it is thought to trace back to Asia and was documented in Transylvania by the late 1800s before being refined in Germany and spread across Europe and the Americas. It became a recognised American breed in 1965 and reached Britain in the 1920s.", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck" }
+    ]
+  }
+}

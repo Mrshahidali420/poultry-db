@@ -1,0 +1,24 @@
+{
+  "id": "turkeypox-virus",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      {"value": ["wild and domestic turkeys"], "source_url": "https://en.wikipedia.org/wiki/Turkeypox_virus"}
+    ],
+    "cause_type": [
+      {"value": "viral", "source_url": "https://en.wikipedia.org/wiki/Turkeypox_virus"}
+    ],
+    "pathogen": [
+      {"value": "Turkeypox virus (genus Avipoxvirus, family Poxviridae)", "source_url": "https://en.wikipedia.org/wiki/Turkeypox_virus"}
+    ],
+    "how_it_spreads": [
+      {"value": ["direct skin contact", "mosquitoes and other arthropods acting as mechanical carriers"], "source_url": "https://en.wikipedia.org/wiki/Turkeypox_virus"}
+    ],
+    "key_symptoms": [
+      {"value": ["raised skin lesions on featherless parts of the body", "damaged, inflamed tissue in the upper respiratory tract lining"], "source_url": "https://en.wikipedia.org/wiki/Turkeypox_virus"}
+    ],
+    "summary": [
+      {"value": "Turkeypox virus is a poxvirus that mainly affects wild and domestic turkeys, causing skin bumps on bare skin and respiratory tract lesions. It spreads through skin contact or via mosquitoes, and the text does not report it infecting chickens; related but distinct poxviruses (such as fowlpox) affect other bird species instead.", "source_url": "https://en.wikipedia.org/wiki/Turkeypox_virus"}
+    ]
+  }
+}

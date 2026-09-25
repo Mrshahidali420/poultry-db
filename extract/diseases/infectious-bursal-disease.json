@@ -1,0 +1,53 @@
+{
+  "id": "infectious-bursal-disease",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      {"value": ["Gumboro disease", "infectious bursitis", "infectious avian nephrosis", "IBD"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ],
+    "species_affected": [
+      {"value": ["chickens", "turkeys"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ],
+    "cause_type": [
+      {"value": "viral", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ],
+    "pathogen": [
+      {"value": "Infectious bursal disease virus (IBDV), a double-stranded RNA virus", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ],
+    "contagious": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"},
+      {"value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "how_it_spreads": [
+      {"value": ["spreads through droppings", "spreads through contaminated food, water and physical contact"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"},
+      {"value": ["shed in feces and carried from house to house on contaminated equipment or clothing"], "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "key_symptoms": [
+      {"value": ["watery diarrhoea", "ruffled feathers", "trembling and slow walking", "birds huddled together with heads lowered", "reduced appetite"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"},
+      {"value": ["listlessness", "dehydration", "soiled vent feathers", "incoordination"], "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "mortality": [
+      {"value": "Around 20% with death within 3 to 4 days in clinical outbreaks", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"},
+      {"value": "Morbidity often reaches 100% of the flock; mortality usually low but can range from 5% to over 60% depending on the virus strain and breed", "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "incubation_period": [
+      {"value": "3 to 4 days", "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "diagnosis": [
+      {"value": "Based on flock history, clinical signs and post-mortem exam, confirmed by lab detection of the virus", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"},
+      {"value": "Gross and microscopic lesions in the bursa near the vent, plus molecular detection of the virus", "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "prevention": [
+      {"value": ["vaccinating breeder flocks so chicks get protective antibodies from the hen", "strict biosecurity limiting farm visits and contact with other flocks"], "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ],
+    "vaccine_available": [
+      {"value": "yes", "source_url": "https://www.merckvetmanual.com/poultry/infectious-bursal-disease/infectious-bursal-disease-in-poultry"}
+    ],
+    "treatment_overview": [
+      {"value": "No specific treatment exists; management relies on vaccination and prevention since the virus survives a long time in housing and water", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ],
+    "summary": [
+      {"value": "Infectious bursal disease, also known as Gumboro disease, is a highly contagious viral infection that mainly strikes young chickens between about three and six weeks old, attacking the immune system by destroying cells in the bursa. There is no treatment, so prevention through vaccination of breeder flocks and strong biosecurity is the main defense, since surviving birds are left more vulnerable to other infections.", "source_url": "https://en.wikipedia.org/wiki/Infectious_bursal_disease"}
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ramelsloher",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 170, "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "egg_color": [
+      { "value": "white or light cream", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "hen_weight_kg": [
+      { "value": { "min": 2.0, "max": 2.5 }, "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "rooster_weight_kg": [
+      { "value": { "min": 2.5, "max": 3.0 }, "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "purpose": [
+      { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "bantam_available": [
+      { "value": "no", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "varieties": [
+      { "value": ["white", "buff"], "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "comb": [
+      { "value": "single, red", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "earlobe_color": [
+      { "value": "bluish or blue", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "conservation_status": [
+      { "value": "extremely endangered (category I, Rote Liste); listed at risk/endangered in DAD-IS; included in the Slow Food Ark of Taste", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "origin_country": [
+      { "value": "Germany (near Hamburg)", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "origin_year_or_period": [
+      { "value": "1870s", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "notable_traits": [
+      { "value": ["slate-blue legs and feet with white claws", "bluish beak with a pale tip", "eyes so dark they appear black, a trait not seen in any other chicken breed", "the buff variant died out in the 1970s and was recreated from the 1980s using other breeds' blood", "no bantam version exists"], "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ],
+    "history_summary": [
+      { "value": "The Ramelsloher was bred in the 1870s near Hamburg by shipowner A.D. Wichmann, who crossed local white farm chickens with Andalusian, Cochin and Spanish stock. It was an important commercial breed in the early 1900s but declined sharply after World War Two, and remains critically endangered today despite a partial recovery.", "source_url": "https://en.wikipedia.org/wiki/Ramelsloher" }
+    ]
+  }
+}

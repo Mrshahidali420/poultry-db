@@ -1,0 +1,54 @@
+{
+  "id": "botulism",
+  "relevant_to_backyard_chickens": true,
+  "fields": {
+    "other_names": [
+      { "value": ["limberneck", "western duck sickness"], "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "species_affected": [
+      { "value": ["chickens", "poultry generally", "waterfowl and other wild birds", "many mammals including humans, cattle, dogs, horses"], "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "cause_type": [
+      { "value": "toxic", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "pathogen": [
+      { "value": "Botulinum neurotoxin produced by Clostridium botulinum (mainly toxin types C and D in birds)", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "contagious": [
+      { "value": "no", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "how_it_spreads": [
+      { "value": ["eating maggots or invertebrates that have fed on a decaying carcass (the carcass-maggot cycle)", "eating decaying organic matter or contaminated feed directly", "contaminated litter, boots or equipment carrying the bacteria onto a farm"], "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "spreads_to_humans": [
+      { "value": "no", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "key_symptoms": [
+      { "value": ["leg weakness progressing to floppy paralysis of legs, wings, neck and eyelids", "the classic limp, outstretched neck ('limberneck')", "ruffled or quivering feathers that pull out easily", "labored breathing", "birds lying flat on their chest, eyes partly or fully closed, unable to lift their head", "in broilers, sometimes diarrhea with excess urates"], "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "mortality": [
+      { "value": "In chickens, death rates vary widely, from a few birds up to 40% of the flock; large numbers of wild waterfowl can die in bigger outbreaks", "source_url": "https://en.wikipedia.org/wiki/Botulism" }
+    ],
+    "incubation_period": [
+      { "value": "Ranges from about 2 hours to roughly 2 weeks after eating the toxin, depending on the dose", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "diagnosis": [
+      { "value": "Based on typical signs plus lab detection of the toxin or the toxin-producing bacteria in blood, gut contents, feed or the environment; no visible lesions are found on post-mortem, which helps rule out other diseases", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "prevention": [
+      { "value": ["quickly removing and disposing of dead birds to break the carcass-maggot cycle", "separating sick birds from healthy ones", "replacing litter after an outbreak", "controlling flies and rodents", "cleaning and disinfecting with products effective against spore-forming bacteria", "checking feed and water sources for contamination or dead animals", "keeping poultry housed indoors rather than free-range, which lowers risk"], "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "vaccine_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Botulism" }
+    ],
+    "treatment_overview": [
+      { "value": "Some birds recover on their own or with supportive care; antitoxin can neutralize the toxin in the blood if available, and antibiotics have been used during outbreaks, but treatment can be limited or costly", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "when_to_call_vet": [
+      { "value": "Call a vet promptly if birds show sudden leg weakness or a limp, outstretched neck, since this can progress quickly to paralysis and death.", "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ],
+    "summary": [
+      { "value": "Botulism, also called limberneck, is caused not by an infection but by a powerful nerve toxin that chickens pick up from eating maggots or decaying matter containing the bacteria that make it. It causes progressive weakness and floppy paralysis starting in the legs, and while some birds recover with supportive care, prevention through quickly removing carcasses and good sanitation is the main defense." , "source_url": "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry" }
+    ]
+  }
+}

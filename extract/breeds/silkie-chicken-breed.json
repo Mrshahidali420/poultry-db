@@ -1,0 +1,50 @@
+{
+  "id": "silkie-chicken-breed",
+  "fields": {
+    "eggs_per_year_max": [
+      { "value": 100, "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "egg_color": [
+      { "value": "white to cream or light tan", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.4, "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "temperament": [
+      { "value": ["friendly", "tame", "cuddly", "docile"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+    ],
+    "broodiness": [
+      { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "purpose": [
+      { "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "bantam_available": [
+      { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "varieties": [
+      { "value": ["black", "blue", "splash", "lavender", "buff", "grey", "partridge", "white"], "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "origin_country": [
+      { "value": "China", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "skin_color": [
+      { "value": "black/bluish", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "comb": [
+      { "value": "small, walnut-shaped", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "earlobe_color": [
+      { "value": "turquoise-blue", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "notable_traits": [
+      { "value": ["black skin and bones", "five toes on each foot (polydactyly)", "fluffy, fur-like plumage lacking barbicels", "cannot fly and feathers are not waterproof", "grayish-black meat used in some Asian cuisines"], "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ],
+    "history_summary": [
+      { "value": "Silkies are an ancient Chinese breed first described in the West by Marco Polo in the 13th century as a furry chicken, though other parts of Asia have also been proposed as their origin. They reached the West via trade routes and became one of the most popular ornamental chicken breeds, valued for their fluffy plumage, black skin, and strong broodiness.", "source_url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)" }
+    ]
+  }
+}

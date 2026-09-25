@@ -1,0 +1,14 @@
+{
+ "id": "ardennaise",
+ "fields": {
+   "eggs_per_year_max": [ {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "varieties": [ {"value": ["twelve colours recognised by the Entente Européenne (not individually named)"], "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "bantam_available": [ {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "origin_country": [ {"value": "France/Belgium", "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "origin_year_or_period": [ {"value": "first described 1882", "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "conservation_status": [ {"value": "unknown (2025)", "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "notable_traits": [ {"value": ["genetically close to the Bresse Gauloise", "a tailless variant, the Sans-queue des Ardennes, is critically endangered"], "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ],
+   "history_summary": [ {"value": "The Ardennaise is a traditional breed of the Ardennes plateau spanning Belgium and France, first described in 1882. It nearly disappeared by 1940 after crossbreeding with Leghorn stock, and was gradually rebuilt over about three decades following the Second World War.", "source_url": "https://en.wikipedia.org/wiki/Ardennaise"} ]
+ }
+}

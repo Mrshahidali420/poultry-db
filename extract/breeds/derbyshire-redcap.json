@@ -1,0 +1,29 @@
+{
+  "id": "derbyshire-redcap",
+  "fields": {
+    "purpose": [ { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" } ],
+    "egg_color": [ { "value": "white to slightly tinted", "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "egg_size": [ { "value": "medium to large", "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "eggs_per_year_min": [ { "value": 150, "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "eggs_per_year_max": [ { "value": 200, "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "rooster_weight_kg": [ { "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" } ],
+    "hen_weight_kg": [
+      { "value": 2.75, "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" },
+      { "value": 2.7, "source_url": "https://livestockconservancy.org/redcap-chicken/" }
+    ],
+    "temperament": [ { "value": ["active", "alert", "lively", "somewhat wild/shy"], "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "broodiness": [ { "value": "low", "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "cold_hardy": [ { "value": "yes", "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "heat_tolerant": [ { "value": "no", "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "comb": [ { "value": "large rose comb over 7 cm with a backward-pointing spike (\"leader\")", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" } ],
+    "earlobe_color": [ { "value": "red", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" } ],
+    "skin_color": [ { "value": "white", "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "conservation_status": [
+      { "value": "Vulnerable (Rare Breeds Survival Trust, UK)", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" },
+      { "value": "Critical (Livestock Conservancy, US)", "source_url": "https://livestockconservancy.org/redcap-chicken/" }
+    ],
+    "origin_country": [ { "value": "England (Derbyshire)", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" } ],
+    "notable_traits": [ { "value": ["huge rose comb", "good forager", "needs a lot of space, dislikes confinement", "can fly"], "source_url": "https://livestockconservancy.org/redcap-chicken/" } ],
+    "history_summary": [ { "value": "An old English breed from Derbyshire and the Pennine area, likely descended from Golden Spangled Hamburghs, Dorkings, Old English Pheasant Fowl and Black-Breasted Red Games, and prized in the 1800s for heavy egg production. It nearly vanished in England by 1900 and remains rare today, listed as Vulnerable in the UK and Critical in the US.", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" } ]
+  }
+}

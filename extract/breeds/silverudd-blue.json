@@ -1,0 +1,29 @@
+{
+  "id": "silverudd-blue",
+  "fields": {
+    "egg_color": [
+      { "value": "blue/green", "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "hen_weight_kg": [
+      { "value": 1.5, "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "rooster_weight_kg": [
+      { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "varieties": [
+      { "value": ["black", "blue", "splashed white"], "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "origin_country": [
+      { "value": "Sweden", "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "comb": [
+      { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "notable_traits": [
+      { "value": ["lays blue/green eggs weighing 50-65 grams", "four-toed with dark legs and dark beak", "square body outline"], "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ],
+    "history_summary": [
+      { "value": "The Silverudd Blue was developed in Smaland, southern Sweden, by Martin Silverudd, crossing New Hampshire and Rhode Island Red stock with Cream Legbars from the UK to produce a blue-egg layer. Silverudd died in 1986 before the breed was fully fixed, so modern birds still vary in size and egg color, and the breed was renamed after him in 2016.", "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+    ]
+  }
+}

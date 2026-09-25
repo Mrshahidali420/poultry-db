@@ -1,0 +1,46 @@
+{
+  "id": "sussex-chicken",
+  "fields": {
+    "eggs_per_year_min": [
+      {"value": 180, "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": 200, "source_url": "https://livestockconservancy.org/sussex-chicken/"}
+    ],
+    "eggs_per_year_max": [
+      {"value": 200, "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": 250, "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": 250, "source_url": "https://livestockconservancy.org/sussex-chicken/"}
+    ],
+    "egg_color": [
+      {"value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": "tan to brown", "source_url": "https://livestockconservancy.org/sussex-chicken/"}
+    ],
+    "egg_size": [{"value": "large", "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "hen_weight_kg": [
+      {"value": 3.2, "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": 3.2, "source_url": "https://livestockconservancy.org/sussex-chicken/"}
+    ],
+    "rooster_weight_kg": [
+      {"value": 4.1, "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": 4.1, "source_url": "https://livestockconservancy.org/sussex-chicken/"}
+    ],
+    "temperament": [{"value": ["calm", "curious", "confident but not aggressive"], "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "broodiness": [{"value": "medium", "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "cold_hardy": [{"value": "yes", "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "heat_tolerant": [{"value": "no", "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "beginner_friendly": [{"value": "yes", "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "purpose": [{"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "bantam_available": [{"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "varieties": [{"value": ["brown", "buff", "coronation", "light", "red", "silver", "speckled", "white"], "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "conservation_status": [{"value": "Recovering", "source_url": "https://livestockconservancy.org/sussex-chicken/"}],
+    "comb": [{"value": "single", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "earlobe_color": [{"value": "red", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "skin_color": [
+      {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"},
+      {"value": "white", "source_url": "https://livestockconservancy.org/sussex-chicken/"}
+    ],
+    "origin_country": [{"value": "England", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "origin_year_or_period": [{"value": "shown as early as 1845; breed standard drawn up 1902", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "notable_traits": [{"value": ["long, broad, flat back", "rectangular build", "wide shoulders", "reputation for fine flavor"], "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}],
+    "history_summary": [{"value": "One of Britain's oldest chicken breeds, the Sussex was shown as early as 1845 and given a formal breed standard in 1902, after which it and the Rhode Island Red became the two leading British meat breeds until commercial hybrids took over. A breed club revived it after near-extinction in the early 1900s, and it is now raised as a calm, cold-hardy dual-purpose bird suitable for beginners.", "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken"}]
+  }
+}

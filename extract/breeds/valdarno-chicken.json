@@ -1,0 +1,16 @@
+{
+ "id": "valdarno-chicken",
+ "fields": {
+   "hen_weight_kg": [ {"value": 2.15, "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "rooster_weight_kg": [ {"value": 2.65, "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "egg_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "purpose": [ {"value": "dual", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "origin_country": [ {"value": "Italy", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "varieties": [ {"value": ["black", "white", "buff", "cuckoo"], "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "skin_color": [ {"value": "white", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "earlobe_color": [ {"value": "porcelain white", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "notable_traits": [ {"value": ["dark green sheen to black plumage", "dark slate legs", "black beak", "medium-large comb with 5-6 points"], "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "conservation_status": [ {"value": "very low numbers, recovering after near extinction (approx. 200 breeding birds in 2007 study)", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ],
+   "history_summary": [ {"value": "This black Tuscan breed from the lower Arno valley was described as early as 1900 and standardized in 1905, but competition from the White Leghorn drove it to near extinction by the late 1900s. It was rebuilt from surviving countryside birds crossed with Bresse and Castellana Negra stock, with the restored breed shown in 1998.", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken"} ]
+ }
+}

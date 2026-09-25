@@ -1,0 +1,27 @@
+{
+  "id": "trichobilharzia-regenti",
+  "relevant_to_backyard_chickens": false,
+  "fields": {
+    "species_affected": [
+      {"value": ["anatid (duck-family) birds such as mallards, shovelers and Muscovy ducks", "humans (skin only, causing cercarial dermatitis, not a true infection)", "mice used as a lab model"], "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ],
+    "cause_type": [
+      {"value": "parasitic", "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ],
+    "pathogen": [
+      {"value": "Trichobilharzia regenti (a parasitic flatworm/schistosome)", "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ],
+    "how_it_spreads": [
+      {"value": ["larvae (cercariae) released by an infected water snail penetrate the skin of a bird swimming or feeding in the water"], "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ],
+    "spreads_to_humans": [
+      {"value": "yes", "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ],
+    "key_symptoms": [
+      {"value": ["leg paralysis and balance problems in birds", "nasal tissue inflammation and bleeding in birds", "itchy rash (cercarial dermatitis/swimmer's itch) in humans, where the parasite cannot complete its life cycle"], "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ],
+    "summary": [
+      {"value": "Trichobilharzia regenti is a parasitic flatworm whose natural hosts are ducks and other waterfowl, where its larvae migrate through the nervous system to the nasal tissue and can cause neurological signs. In humans it cannot complete its life cycle but still causes an itchy skin rash known as swimmer's itch or cercarial dermatitis; it is not documented as a chicken or general poultry pathogen.", "source_url": "https://en.wikipedia.org/wiki/Trichobilharzia_regenti"}
+    ]
+  }
+}
