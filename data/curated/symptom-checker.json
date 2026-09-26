@@ -1,0 +1,1907 @@
+[
+  {
+    "id": "sneezing",
+    "symptom": "Sneezing",
+    "also_searched_as": [
+      "chicken keeps sneezing",
+      "chicken sneezing a lot"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "infectious-coryza-in-chickens",
+        "cause_name": "Infectious coryza",
+        "why": "A bacterial respiratory infection that causes sneezing along with facial swelling and nasal discharge."
+      },
+      {
+        "disease_id": "avian-infectious-bronchitis",
+        "cause_name": "Infectious bronchitis",
+        "why": "A common viral respiratory disease that starts with sneezing and coughing."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Dust or ammonia irritation",
+        "why": "High ammonia or dust levels in a poorly ventilated coop irritate the airways and trigger sneezing."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Improve coop ventilation and reduce litter dust.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If sneezing is paired with facial swelling, discharge, gasping, or spreads quickly through the flock.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "watery-eyes",
+    "symptom": "Watery eyes",
+    "also_searched_as": [
+      "runny eyes chicken",
+      "chicken eye discharge"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "infectious-coryza-in-chickens",
+        "cause_name": "Infectious coryza",
+        "why": "Causes watery nasal and eye discharge along with facial swelling."
+      },
+      {
+        "disease_id": "gallid-herpesvirus-1",
+        "cause_name": "Infectious laryngotracheitis",
+        "why": "A respiratory virus that can cause eye and nasal discharge."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Ammonia irritation or foreign body",
+        "why": "Ammonia fumes or dust and debris in the eye can cause watering without infection."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Rinse the eye gently with clean water if debris is visible.",
+      "Improve ventilation to cut ammonia levels.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If discharge turns thick or colored, the eyelid swells shut, or breathing is affected.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "diarrhea",
+    "symptom": "Diarrhea (watery droppings)",
+    "also_searched_as": [
+      "watery poop chicken",
+      "runny droppings"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "coccidiosis",
+        "cause_name": "Coccidiosis",
+        "why": "A common intestinal parasite infection that causes diarrhea, often in young birds."
+      },
+      {
+        "disease_id": "salmonellosis",
+        "cause_name": "Salmonellosis",
+        "why": "A bacterial infection that can cause diarrhea and reduced feed intake."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Internal worms",
+        "why": "Heavy worm burdens can loosen droppings."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Diet change or stress",
+        "why": "A sudden feed change, heat or stress can temporarily loosen droppings."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Keep bedding clean and dry to limit further parasite exposure.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If diarrhea lasts more than two days, contains blood, or the bird is also lethargic or off feed.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "green-poop",
+    "symptom": "Green droppings",
+    "also_searched_as": [
+      "chicken poop is green",
+      "green diarrhea chicken"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "Can cause greenish, watery diarrhea along with respiratory and nervous signs."
+      },
+      {
+        "disease_id": "avian-influenza",
+        "cause_name": "Avian influenza",
+        "why": "A reportable viral disease that can include diarrhea among its signs."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Not eating (bile-tinged droppings)",
+        "why": "Green tinged droppings are common and usually harmless when a bird has skipped a meal or two."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours.",
+      "Note whether the bird is eating normally alongside the green droppings."
+    ],
+    "when_to_call_vet": "If green droppings come with lethargy, not eating, or other sick birds in the flock, especially with a sudden onset.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "bloody-poop",
+    "symptom": "Bloody droppings",
+    "also_searched_as": [
+      "blood in chicken poop",
+      "blood in droppings"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "coccidiosis",
+        "cause_name": "Coccidiosis",
+        "why": "The classic cause of visibly bloody droppings, especially in growing birds."
+      },
+      {
+        "disease_id": "avian-adenovirus",
+        "cause_name": "Avian adenovirus infection",
+        "why": "Can cause blood in droppings along with anemia and dehydration."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Normal cecal dropping",
+        "why": "A dark, tarry cecal dropping passed once or twice a day is normal and is often mistaken for blood."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check droppings again over a few hours to see if the pattern repeats.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If true blood appears repeatedly, or the bird is also lethargic, pale or off feed.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "lethargic",
+    "symptom": "Lethargic or not moving",
+    "also_searched_as": [
+      "chicken won't move",
+      "chicken sitting still all day"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-influenza",
+        "cause_name": "Avian influenza",
+        "why": "A reportable disease that causes a sudden lack of energy."
+      },
+      {
+        "disease_id": "mareks-disease",
+        "cause_name": "Marek's disease",
+        "why": "A viral disease that can cause depression alongside paralysis."
+      },
+      {
+        "disease_id": "chicken-anemia-virus",
+        "cause_name": "Chicken anemia virus",
+        "why": "Causes weakness, lethargy and pale coloring."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the bird warm and offer water within easy reach.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "As soon as possible, especially if more than one bird is affected or the bird will not stand.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "not-eating",
+    "symptom": "Not eating (off feed)",
+    "also_searched_as": [
+      "chicken won't eat",
+      "chicken refusing food"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "coccidiosis",
+        "cause_name": "Coccidiosis",
+        "why": "Reduces feed intake alongside diarrhea and lethargy."
+      },
+      {
+        "disease_id": "infectious-coryza-in-chickens",
+        "cause_name": "Infectious coryza",
+        "why": "Facial swelling can make eating uncomfortable."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Crop impaction",
+        "why": "A blocked crop can leave a bird feeling full and unwilling to eat."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Heat stress",
+        "why": "Birds often go off feed in very hot weather."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Feel the crop in the morning before feeding to check it has emptied overnight.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the bird has not eaten for more than a day, or shows other signs of illness.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "puffed-up",
+    "symptom": "Puffed up or fluffed feathers",
+    "also_searched_as": [
+      "chicken sitting hunched",
+      "fluffed up chicken"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "General sign of illness",
+        "why": "Fluffing feathers to trap heat is one of the first visible signs a chicken is unwell."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Cold stress",
+        "why": "Birds fluff their feathers for insulation in cold weather."
+      },
+      {
+        "disease_id": "coccidiosis",
+        "cause_name": "Coccidiosis",
+        "why": "Ruffled, puffed feathers are a common early sign."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check crop, droppings, comb color and appetite for other clues.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If puffing up continues beyond a day or is joined by any other symptom.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "limping",
+    "symptom": "Limping",
+    "also_searched_as": [
+      "chicken limping on one leg",
+      "favoring a leg"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "viral-arthritis-poultry",
+        "cause_name": "Viral arthritis",
+        "why": "Causes swollen tendons and joints leading to lameness."
+      },
+      {
+        "disease_id": "mareks-disease",
+        "cause_name": "Marek's disease",
+        "why": "Can cause one-sided leg weakness or paralysis."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Bumblefoot",
+        "why": "A foot infection that causes pain and limping; see swollen foot for details."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Injury",
+        "why": "A sprain, bruise or predator-related injury can cause temporary limping."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check the foot pad and leg for swelling, heat or wounds.",
+      "Provide a low perch and soft bedding.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the leg is swollen, hot, or the bird cannot bear weight at all.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "swollen-foot",
+    "symptom": "Swollen foot (bumblefoot)",
+    "also_searched_as": [
+      "bumblefoot",
+      "chicken foot swollen and hot"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Bumblefoot (staphylococcal foot infection)",
+        "why": "Bacteria enter through a small cut or scrape on the foot pad, causing a swollen, sometimes scabbed lump."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Splinter or thorn injury",
+        "why": "A foreign object in the pad can cause localized swelling before it becomes infected."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Soak the foot in clean warm water to soften the area.",
+      "Provide soft, dry bedding and a clean, dry run to prevent it from getting worse.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the swelling is large, hot, or the bird is limping badly; a vet may need to remove the infected core.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "pale-comb",
+    "symptom": "Pale comb",
+    "also_searched_as": [
+      "chicken comb turning pale",
+      "washed out comb color"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "chicken-anemia-virus",
+        "cause_name": "Chicken anemia virus",
+        "why": "Directly causes a pale comb, wattle and legs from blood loss and anemia."
+      },
+      {
+        "disease_id": "dermanyssus-gallinae",
+        "cause_name": "Red mite infestation",
+        "why": "Heavy mite feeding at night can cause anemia and a pale comb."
+      },
+      {
+        "disease_id": "ornithonyssus-sylviarum",
+        "cause_name": "Northern fowl mite infestation",
+        "why": "Can cause anemia in heavy infestations."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Internal worms",
+        "why": "Heavy worm loads can cause anemia and paling."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check under wings and around the vent at night for mites.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the comb stays pale for more than a couple of days or the bird is also weak.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "purple-comb",
+    "symptom": "Purple or blue comb",
+    "also_searched_as": [
+      "chicken comb turning blue",
+      "cyanotic comb"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-influenza",
+        "cause_name": "Avian influenza",
+        "why": "Purple discoloration of the comb, wattles and legs is a hallmark sign of this reportable disease."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Poor circulation or heart problems",
+        "why": "Reduced oxygen delivery can turn the comb bluish-purple."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Heat stress",
+        "why": "Severe overheating can cause the comb to darken as the bird struggles to breathe."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours.",
+      "Move the bird to a cool, shaded, well-ventilated space.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Immediately, especially if other birds show sudden illness or death; report suspected avian influenza to your state vet or USDA.",
+    "sources": [
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      },
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "losing-feathers",
+    "symptom": "Losing feathers",
+    "also_searched_as": [
+      "chicken feathers falling out",
+      "bare patches feathers"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Seasonal molt",
+        "why": "Chickens naturally shed and regrow feathers once or twice a year, most often in fall."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Mites or lice",
+        "why": "External parasites cause itching that leads to feather loss."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Feather pecking",
+        "why": "Flock mates pulling at feathers, often from boredom, overcrowding or low protein."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Check the base of lost feathers and skin for mites, lice or wounds.",
+      "Confirm whether it lines up with the usual molting season.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If feather loss comes with broken skin, bleeding, or the bird seems unwell otherwise.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "bald-spots",
+    "symptom": "Bald spots",
+    "also_searched_as": [
+      "bald patches on chicken",
+      "chicken missing feathers on back"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Rooster mating wear",
+        "why": "Repeated mating can wear feathers off a hen's back and neck."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Mites or lice",
+        "why": "Parasite irritation can cause localized bald patches."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Feather pecking by flock mates",
+        "why": "Bullying or boredom-driven pecking removes feathers in patches."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Inspect the bald skin for mites, lice, redness or wounds.",
+      "Add a hen saddle or extra hiding spots if mating wear is the cause.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the skin is broken, bleeding, or other hens are actively drawing blood.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "tail-down",
+    "symptom": "Tail held down",
+    "also_searched_as": [
+      "chicken tail drooping",
+      "droopy tail"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "General sign of illness or pain",
+        "why": "A drooping tail often accompanies discomfort of many kinds."
+      },
+      {
+        "disease_id": "egg-binding",
+        "cause_name": "Egg binding",
+        "why": "Straining to pass a stuck egg can cause a drooped tail and hunched posture."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Internal worms",
+        "why": "Heavy worm loads can leave a bird looking unwell with a drooped tail."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check crop, vent and droppings for other clues.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If a droopy tail is joined by straining, lethargy or not eating.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "gasping",
+    "symptom": "Gasping or open-mouth breathing",
+    "also_searched_as": [
+      "chicken gasping for air",
+      "chicken breathing with mouth open"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-infectious-bronchitis",
+        "cause_name": "Infectious bronchitis",
+        "why": "A common respiratory virus that causes gasping and rattling."
+      },
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "A reportable disease with gasping and coughing among its signs."
+      },
+      {
+        "disease_id": "gapeworm",
+        "cause_name": "Gapeworm",
+        "why": "Worms in the windpipe cause gasping with the neck stretched out."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Heat stress",
+        "why": "Birds pant and gasp to cool down in extreme heat."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Move to a cool, well-ventilated area if heat is a possible cause.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Right away, especially if breathing distress is severe or several birds are affected.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "rattling-breathing",
+    "symptom": "Rattling or wheezing breathing",
+    "also_searched_as": [
+      "chicken breathing sounds funny",
+      "wheezy chicken"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-infectious-bronchitis",
+        "cause_name": "Infectious bronchitis",
+        "why": "Rattling breath sounds are a classic sign."
+      },
+      {
+        "disease_id": "gallid-herpesvirus-1",
+        "cause_name": "Infectious laryngotracheitis",
+        "why": "Causes severe airway inflammation and rattling."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Mycoplasma gallisepticum (chronic respiratory disease)",
+        "why": "A common cause of long-term rattling and mild respiratory signs in backyard flocks."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Improve ventilation and reduce dust and ammonia.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If breathing becomes labored, the bird stops eating, or it spreads through the flock.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "swollen-face",
+    "symptom": "Swollen face or eyes",
+    "also_searched_as": [
+      "chicken face swollen",
+      "puffy face chicken"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "infectious-coryza-in-chickens",
+        "cause_name": "Infectious coryza",
+        "why": "Causes noticeable swelling below the eye and around the face."
+      },
+      {
+        "disease_id": "avian-influenza",
+        "cause_name": "Avian influenza",
+        "why": "Swelling of the eyelids, comb and wattles is a key sign of this reportable disease."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Insect bite or injury",
+        "why": "A sting or minor injury can cause localized swelling."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak."
+    ],
+    "when_to_call_vet": "Promptly, and sooner if other birds show sudden illness or the swelling worsens quickly.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "crop-not-emptying",
+    "symptom": "Crop not emptying overnight",
+    "also_searched_as": [
+      "sour crop",
+      "impacted crop",
+      "squishy crop chicken"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Crop impaction",
+        "why": "Long fibrous grass or bedding can block the crop from emptying normally."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Sour crop (yeast infection of the crop)",
+        "why": "A fermenting, doughy crop with a sour smell points to a yeast overgrowth."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Feel the crop first thing in the morning before any food is offered.",
+      "Withhold treats and offer only water for a few hours to let the crop rest.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the crop stays full or squishy for more than a day, or smells sour.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "egg-bound",
+    "symptom": "Egg bound signs (straining, no egg)",
+    "also_searched_as": [
+      "egg bound chicken",
+      "chicken can't lay egg"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "egg-binding",
+        "cause_name": "Egg binding",
+        "why": "An egg stuck in the reproductive tract that the hen cannot pass on her own."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the hen warm and offer water and calcium-rich feed.",
+      "A warm bath can sometimes help her relax enough to pass the egg.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Immediately if she has been straining for more than an hour or two without result; egg binding can be fatal.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "soft-shell-eggs",
+    "symptom": "Soft or thin shelled eggs",
+    "also_searched_as": [
+      "rubber eggs",
+      "chicken laying soft eggs"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "egg-drop-syndrome",
+        "cause_name": "Egg drop syndrome",
+        "why": "A viral disease that causes thin, soft or shell-less eggs."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Calcium deficiency",
+        "why": "Not enough dietary calcium is the most common cause in backyard flocks."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Heat stress",
+        "why": "Hot weather can reduce shell quality."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Offer free-choice oyster shell alongside the regular feed.",
+      "Check that the layer feed is a complete, balanced ration.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If soft shells continue for more than a week despite good calcium and feed, or other birds are affected too.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "no-eggs",
+    "symptom": "No eggs or sudden drop in egg production",
+    "also_searched_as": [
+      "hens stopped laying",
+      "sudden drop in eggs"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-influenza",
+        "cause_name": "Avian influenza",
+        "why": "A sharp, flock-wide drop in egg production is an early warning sign."
+      },
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "Causes a marked drop in egg production."
+      },
+      {
+        "disease_id": "infectious-bronchitis-virus",
+        "cause_name": "Infectious bronchitis",
+        "why": "Commonly causes a sudden drop in laying."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Molting or shorter daylight",
+        "why": "A normal seasonal pause in laying, most common in fall and winter."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Check daylight hours, recent stress, and whether the flock is molting.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak."
+    ],
+    "when_to_call_vet": "If the drop is sudden and severe, or paired with sick or dying birds.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "penguin-walk",
+    "symptom": "Walking like a penguin",
+    "also_searched_as": [
+      "upright waddling chicken",
+      "hen walking stiffly upright"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "egg-binding",
+        "cause_name": "Egg binding",
+        "why": "A hen straining against a stuck egg often stands upright and waddles stiffly."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Vent or oviduct prolapse",
+        "why": "Internal tissue protruding from the vent changes how a hen walks and stands."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Obesity",
+        "why": "An overweight hen can adopt an upright, waddling gait."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check the vent for a stuck egg or protruding tissue.",
+      "Keep her warm and calm.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Right away; both egg binding and prolapse can become life threatening within hours.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "head-shaking",
+    "symptom": "Head shaking",
+    "also_searched_as": [
+      "chicken shaking head repeatedly",
+      "chicken flicking head"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "gallid-herpesvirus-1",
+        "cause_name": "Infectious laryngotracheitis",
+        "why": "Head shaking can accompany airway irritation from this virus."
+      },
+      {
+        "disease_id": "gapeworm",
+        "cause_name": "Gapeworm",
+        "why": "Worms in the windpipe cause convulsive head shaking as the bird tries to clear its airway."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Ear or nasal irritation",
+        "why": "Mites, debris or discharge in the ear or nostril can trigger repeated shaking."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check ears, nostrils and mouth for discharge, mites or blockages.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If shaking is frequent, paired with gasping or discharge, or does not resolve in a day or two.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "twisted-neck",
+    "symptom": "Twisted neck (stargazing)",
+    "also_searched_as": [
+      "chicken head upside down",
+      "torticollis chicken",
+      "crazy chick disease"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "mareks-disease",
+        "cause_name": "Marek's disease",
+        "why": "Can cause an unusual head and neck posture along with paralysis."
+      },
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "Twisting of the head and neck is a well known nervous sign."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Vitamin E or selenium deficiency (crazy chick disease)",
+        "why": "A nutritional deficiency in young chicks that causes twisted neck and loss of balance."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the bird somewhere safe and padded so it cannot injure itself.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "As soon as possible; nervous signs need a vet to narrow down the cause.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "paralysis",
+    "symptom": "Paralysis (cannot stand or use legs/wings)",
+    "also_searched_as": [
+      "chicken can't walk",
+      "chicken legs not working"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "mareks-disease",
+        "cause_name": "Marek's disease",
+        "why": "A leading cause of one or both legs or wings becoming paralyzed."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Botulism",
+        "why": "Toxin exposure, often from spoiled feed or carrion, causes a limp, floppy paralysis moving down the body."
+      },
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "Can progress to paralysis in its nervous form."
+      },
+      {
+        "disease_id": "tremovirus",
+        "cause_name": "Avian encephalomyelitis",
+        "why": "Causes tremors, weakness and paralysis, mostly in young birds."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the bird warm, supported and away from where flock mates might peck it.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Immediately, especially if paralysis appeared suddenly or more than one bird is affected.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "white-spots-comb",
+    "symptom": "White spots on comb",
+    "also_searched_as": [
+      "white bumps on chicken comb",
+      "white specks comb"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "fowlpox",
+        "cause_name": "Fowl pox",
+        "why": "Starts as small whitish blisters on the comb before scabbing over."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Frostbite (early stage)",
+        "why": "Cold damage can whiten comb tips before they blacken and scab."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check for drafts or freezing temperatures in the coop.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If spots grow, turn into scabs, or spread to the mouth and throat area.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "scabs-comb",
+    "symptom": "Scabs on comb",
+    "also_searched_as": [
+      "chicken comb has scabs",
+      "crusty comb"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "fowlpox",
+        "cause_name": "Fowl pox",
+        "why": "Whitish blisters progress into dark scabs over about three weeks."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Frostbite",
+        "why": "Frozen comb tips blacken, scab and can eventually slough off."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Pecking injury",
+        "why": "Flock mates pecking at the comb can cause wounds that scab over."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the area clean and dry, and separate the bird if flock mates are pecking at it.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If scabs spread to the mouth or throat, or the bird has trouble breathing or eating.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "mites",
+    "symptom": "Mites (visible bugs on skin)",
+    "also_searched_as": [
+      "chicken mites",
+      "bugs on chicken skin"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "dermanyssus-gallinae",
+        "cause_name": "Red mite (roost mite)",
+        "why": "Small mites that hide in cracks by day and feed on birds at night, causing irritation and anemia in heavy cases."
+      },
+      {
+        "disease_id": "ornithonyssus-sylviarum",
+        "cause_name": "Northern fowl mite",
+        "why": "Lives on the bird full time, often clustered around the vent."
+      }
+    ],
+    "urgency": "care-at-home",
+    "first_steps": [
+      "Check the vent, under wings and roost bars at night with a flashlight.",
+      "Clean and treat the coop thoroughly, focusing on cracks and roosts.",
+      "Offer a dust bath area with fine dry dirt or sand."
+    ],
+    "when_to_call_vet": "If the infestation is heavy, the comb is pale, or home treatment is not working after a couple of rounds.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "lice",
+    "symptom": "Lice (visible on feathers)",
+    "also_searched_as": [
+      "chicken lice",
+      "lice eggs on feathers"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Chewing lice (Menopon and Menacanthus species)",
+        "why": "Lice live entirely on the bird, laying clusters of small white eggs (nits) at the base of feathers, often around the vent."
+      }
+    ],
+    "urgency": "care-at-home",
+    "first_steps": [
+      "Check feather shafts near the vent for clusters of small white eggs.",
+      "Treat the whole flock at the same time since lice spread easily between birds.",
+      "Offer a dust bath area to help birds manage light infestations themselves."
+    ],
+    "when_to_call_vet": "If the infestation is severe, feathers are badly damaged, or the bird is losing condition.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "worms-in-poop",
+    "symptom": "Worms visible in droppings",
+    "also_searched_as": [
+      "worms in chicken poop",
+      "chicken has worms"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Roundworms (Ascaridia galli)",
+        "why": "Large, spaghetti-like worms sometimes visible in droppings or vomit."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Capillary worms (Capillaria species)",
+        "why": "Thin, thread-like worms that can cause weight loss and diarrhea."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Rotate or rest the run if possible to break the parasite cycle.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "To confirm the type of worm and get guidance on treating the whole flock safely.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "coughing",
+    "symptom": "Coughing",
+    "also_searched_as": [
+      "chicken coughing sound",
+      "chicken clearing throat"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-infectious-bronchitis",
+        "cause_name": "Infectious bronchitis",
+        "why": "A very common cause of coughing alongside sneezing and rattling."
+      },
+      {
+        "disease_id": "gallid-herpesvirus-1",
+        "cause_name": "Infectious laryngotracheitis",
+        "why": "Causes coughing along with severe airway inflammation."
+      },
+      {
+        "disease_id": "gapeworm",
+        "cause_name": "Gapeworm",
+        "why": "Worms in the windpipe cause an occasional cough in mild cases."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Improve ventilation and reduce dust.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If coughing worsens, breathing becomes labored, or it spreads through the flock.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "weight-loss",
+    "symptom": "Weight loss despite eating",
+    "also_searched_as": [
+      "chicken losing weight",
+      "thin chicken keel bone"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Internal worms",
+        "why": "A heavy worm burden robs the bird of nutrients even when it is eating normally."
+      },
+      {
+        "disease_id": "coccidiosis",
+        "cause_name": "Chronic coccidiosis",
+        "why": "Ongoing low-level infection can cause slow weight loss."
+      },
+      {
+        "disease_id": "avian-sarcoma-leukosis-virus",
+        "cause_name": "Lymphoid leukosis (tumor disease)",
+        "why": "Causes gradual weight loss from internal tumors."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Feel the keel bone to gauge body condition over time.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If weight loss continues over more than a week or two despite normal appetite.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "ruffled-feathers",
+    "symptom": "Ruffled feathers for an extended time",
+    "also_searched_as": [
+      "messy feathers chicken",
+      "chicken looks scruffy and unwell"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "General sign of illness",
+        "why": "A chicken that stops preening and looks scruffy for more than a day is usually unwell."
+      },
+      {
+        "disease_id": "infectious-bursal-disease",
+        "cause_name": "Infectious bursal disease",
+        "why": "Causes ruffled feathers along with trembling and reduced appetite in young birds."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check comb color, crop, droppings and appetite for more clues.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If ruffled feathers persist alongside any other symptom on this list.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "swollen-joints",
+    "symptom": "Swollen or hot leg joints",
+    "also_searched_as": [
+      "swollen hock chicken",
+      "hot swollen leg joint"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "viral-arthritis-poultry",
+        "cause_name": "Viral arthritis",
+        "why": "Causes swollen tendons and hock joints with lameness."
+      },
+      {
+        "disease_id": "avian-orthoreovirus",
+        "cause_name": "Reovirus infection",
+        "why": "Can cause swelling or bleeding around the joints."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Bacterial joint infection",
+        "why": "Bacteria can settle in a joint after an injury, causing heat and swelling."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Provide a low perch and soft, clean bedding.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the joint is hot, the bird will not bear weight, or more than one bird is affected.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "blood-on-eggshell",
+    "symptom": "Blood spots on the eggshell",
+    "also_searched_as": [
+      "blood on egg shell",
+      "spotting blood on eggs"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "dermanyssus-gallinae",
+        "cause_name": "Red mite infestation",
+        "why": "Heavy mite feeding around the vent can leave blood spots on the shell."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Shell gland or vent irritation",
+        "why": "Minor irritation while the egg passes can leave a small blood streak."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Check the vent and nest boxes for mites at night.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If blood spots continue on multiple eggs or the hen also seems unwell.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "foul-smell-droppings",
+    "symptom": "Foul smell from vent or droppings",
+    "also_searched_as": [
+      "chicken poop smells bad",
+      "smelly vent chicken"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "salmonellosis",
+        "cause_name": "Salmonellosis",
+        "why": "Can cause foul smelling droppings along with diarrhea and reduced feed intake."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Sour crop",
+        "why": "A yeast infection of the crop often produces a distinctly sour smell."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Bacterial vent infection",
+        "why": "Local infection around the vent can cause an unpleasant odor."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Check the crop and vent area closely.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the smell is strong and persistent, or paired with diarrhea, lethargy or not eating.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "pasty-butt",
+    "symptom": "Pasty butt (vent blocked with droppings, in chicks)",
+    "also_searched_as": [
+      "pasted vent chick",
+      "chick vent blocked"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Pasty butt (vent pasting)",
+        "why": "Dried droppings stick to the down around a chick's vent, often from temperature stress or shipping stress, and can block droppings entirely if not cleared."
+      }
+    ],
+    "urgency": "care-at-home",
+    "first_steps": [
+      "Gently soften the dried droppings with a warm, damp cloth and clear the vent.",
+      "Check brooder temperature is correct for the chick's age.",
+      "Dry the chick fully afterward before returning it to the brooder."
+    ],
+    "when_to_call_vet": "If it keeps recurring, the vent looks raw, or the chick seems weak.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "shivering",
+    "symptom": "Shivering or huddling together",
+    "also_searched_as": [
+      "chicken cold shivering",
+      "chickens huddled in cold"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Cold stress or hypothermia",
+        "why": "Wet feathers, drafts or extreme cold can drop body temperature faster than a bird can compensate."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Block drafts and add dry, deep bedding in the coop.",
+      "Bring severely cold or wet birds indoors to warm up gradually.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If a bird stays cold to the touch, cannot stand, or does not warm up after being moved somewhere sheltered.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "panting",
+    "symptom": "Panting or holding wings away from body",
+    "also_searched_as": [
+      "chicken panting heat",
+      "chicken heat stress"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Heat stress or heat stroke",
+        "why": "Chickens cool themselves by panting and holding their wings out; severe heat can be fatal."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Move the bird to shade with good airflow immediately.",
+      "Offer cool water, and consider a shallow pan of cool water for the feet.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "If the bird collapses, the comb turns purple or blue, or it does not recover within 15 to 20 minutes of cooling.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "Mississippi State University Extension - Poultry",
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "feather-pecking",
+    "symptom": "Feather pecking between flock mates",
+    "also_searched_as": [
+      "chickens pecking each other",
+      "bullying in flock"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Feather pecking (overcrowding, boredom or low protein)",
+        "why": "A behavioral issue often linked to too little space, boredom or a diet too low in protein."
+      }
+    ],
+    "urgency": "watch",
+    "first_steps": [
+      "Add more space, perches and forage or pecking toys.",
+      "Check the feed protein level is right for the flock's age and type.",
+      "Separate the target bird if it is being drawn to blood."
+    ],
+    "when_to_call_vet": "If pecking has broken the skin and is not stopping with more space and enrichment.",
+    "sources": [
+      {
+        "name": "Penn State Extension - Poultry",
+        "url": "https://extension.psu.edu/animals-and-livestock/poultry"
+      },
+      {
+        "name": "NC State Extension - Poultry",
+        "url": "https://poultry.ces.ncsu.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "vent-prolapse",
+    "symptom": "Vent or oviduct prolapse",
+    "also_searched_as": [
+      "chicken prolapse",
+      "pink tissue sticking out of vent"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Vent or oviduct prolapse",
+        "why": "Internal tissue pushes out through the vent, often after laying a large egg or from straining."
+      },
+      {
+        "disease_id": "egg-binding",
+        "cause_name": "Egg binding",
+        "why": "Straining against a stuck egg can lead directly to a prolapse."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the hen away from other birds immediately, since flock mates will peck at exposed tissue.",
+      "Keep the area clean; do not attempt to push tissue back in without guidance.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Immediately; a prolapse needs prompt vet attention and full recovery is not guaranteed.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "sudden-death",
+    "symptom": "Sudden death in the flock",
+    "also_searched_as": [
+      "chicken died suddenly no signs",
+      "multiple chickens dying"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "avian-influenza",
+        "cause_name": "Avian influenza",
+        "why": "Sudden death with no prior signs is a hallmark of highly pathogenic strains."
+      },
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "Can cause rapid deaths in unvaccinated flocks."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Botulism",
+        "why": "Toxin exposure can kill within hours of paralysis setting in."
+      },
+      {
+        "disease_id": "fatty-liver-hemorrhagic-syndrome",
+        "cause_name": "Fatty liver hemorrhagic syndrome",
+        "why": "Often shows no warning signs before sudden death in overweight layers."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate any remaining sick birds from the rest of the flock immediately.",
+      "Do not sell, give away or move birds off the property.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "Immediately; sudden or multiple deaths should be reported to a vet or your state animal health office to rule out reportable disease.",
+    "sources": [
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      },
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "loss-of-balance",
+    "symptom": "Loss of balance or stumbling",
+    "also_searched_as": [
+      "chicken can't balance",
+      "chicken falling over"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": "tremovirus",
+        "cause_name": "Avian encephalomyelitis",
+        "why": "Causes an unsteady gait, tremors and loss of balance, mostly in young birds."
+      },
+      {
+        "disease_id": "virulent-newcastle-disease",
+        "cause_name": "Newcastle disease",
+        "why": "Nervous signs can include circling and loss of coordination."
+      },
+      {
+        "disease_id": "mareks-disease",
+        "cause_name": "Marek's disease",
+        "why": "Nerve damage can affect balance and coordination."
+      }
+    ],
+    "urgency": "emergency",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Keep the bird somewhere padded and safe from falls or pecking.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Call a poultry-experienced vet or your state extension office for guidance."
+    ],
+    "when_to_call_vet": "As soon as possible; nervous system signs need a vet to help narrow down the cause.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "USDA APHIS - Defend the Flock",
+        "url": "https://www.aphis.usda.gov/livestock-poultry-disease/avian/defend-the-flock-program"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "swollen-abdomen",
+    "symptom": "Swollen or fluid-filled abdomen",
+    "also_searched_as": [
+      "chicken belly swollen",
+      "water belly chicken",
+      "ascites"
+    ],
+    "possible_causes": [
+      {
+        "disease_id": null,
+        "cause_name": "Ascites (water belly)",
+        "why": "Fluid builds up in the abdomen, often linked to heart or lung strain."
+      },
+      {
+        "disease_id": "avian-sarcoma-leukosis-virus",
+        "cause_name": "Lymphoid leukosis (tumor disease)",
+        "why": "An enlarged liver or other abdominal tumors can cause a swollen belly."
+      },
+      {
+        "disease_id": null,
+        "cause_name": "Egg yolk peritonitis",
+        "why": "Internal laying (yolk released into the abdomen instead of the oviduct) can cause abdominal swelling and illness."
+      }
+    ],
+    "urgency": "see-vet-soon",
+    "first_steps": [
+      "Isolate the bird from the rest of the flock in a warm, quiet space.",
+      "Feel gently for fluid or firmness in the lower abdomen.",
+      "Keep fresh water available at all times; add electrolytes if the bird seems weak.",
+      "Check the rest of the flock for the same signs and watch closely for the next 24 to 48 hours."
+    ],
+    "when_to_call_vet": "Promptly; a swollen abdomen usually needs a vet exam to find the cause.",
+    "sources": [
+      {
+        "name": "Merck Veterinary Manual - Poultry",
+        "url": "https://www.merckvetmanual.com/poultry"
+      },
+      {
+        "name": "University of Kentucky - Poultry Extension",
+        "url": "https://poultry.ca.uky.edu/"
+      }
+    ],
+    "needs_review": true
+  }
+]

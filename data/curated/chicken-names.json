@@ -1,0 +1,7708 @@
+{
+  "lists": [
+    {
+      "id": "funny",
+      "title": "Funny Chicken Names",
+      "description": "Silly and comedic names for chickens with big personalities.",
+      "search_phrase": "funny chicken names"
+    },
+    {
+      "id": "girl-names",
+      "title": "Girl Chicken Names",
+      "description": "Sweet and pretty names for hens.",
+      "search_phrase": "girl chicken names"
+    },
+    {
+      "id": "boy-names",
+      "title": "Boy Chicken Names",
+      "description": "Strong names for cockerels and roosters.",
+      "search_phrase": "boy chicken names"
+    },
+    {
+      "id": "rooster-names",
+      "title": "Rooster Names",
+      "description": "Bold, punny and commanding names built for a rooster.",
+      "search_phrase": "rooster names"
+    },
+    {
+      "id": "food",
+      "title": "Food Names for Chickens",
+      "description": "Names borrowed from food and drink, sweet to savory.",
+      "search_phrase": "food names for chickens"
+    },
+    {
+      "id": "famous",
+      "title": "Famous Chicken Names",
+      "description": "Names inspired by real and storybook chickens who made history.",
+      "search_phrase": "famous chicken names"
+    },
+    {
+      "id": "buff",
+      "title": "Names for Buff Chickens",
+      "description": "Names to match a golden buff or tan colored bird.",
+      "search_phrase": "names for buff chickens"
+    },
+    {
+      "id": "black",
+      "title": "Names for Black Chickens",
+      "description": "Dark, moody and elegant names for black feathered birds.",
+      "search_phrase": "names for black chickens"
+    },
+    {
+      "id": "white",
+      "title": "Names for White Chickens",
+      "description": "Bright and pure names for a white hen or rooster.",
+      "search_phrase": "names for white chickens"
+    },
+    {
+      "id": "red",
+      "title": "Names for Red Chickens",
+      "description": "Fiery names for red and chestnut colored birds.",
+      "search_phrase": "names for red chickens"
+    },
+    {
+      "id": "grey-blue",
+      "title": "Names for Grey and Blue Chickens",
+      "description": "Cool toned names for slate, grey and blue feathered birds.",
+      "search_phrase": "names for blue chickens"
+    },
+    {
+      "id": "speckled",
+      "title": "Names for Speckled Chickens",
+      "description": "Names for spotted, mottled and speckled feather patterns.",
+      "search_phrase": "names for speckled chickens"
+    },
+    {
+      "id": "lavender",
+      "title": "Names for Lavender Chickens",
+      "description": "Soft, dreamy names for lavender and self-blue chickens.",
+      "search_phrase": "names for lavender chickens"
+    },
+    {
+      "id": "disney",
+      "title": "Disney and Pop Culture Chicken Names",
+      "description": "Names pulled from movies, cartoons and pop culture for a chicken with star power.",
+      "search_phrase": "disney chicken names"
+    },
+    {
+      "id": "punny",
+      "title": "Punny Chicken Names",
+      "description": "Wordplay names built around eggs, feathers and clucks.",
+      "search_phrase": "punny chicken names"
+    },
+    {
+      "id": "country-farm",
+      "title": "Country and Farm Chicken Names",
+      "description": "Down home names that fit a farmyard flock.",
+      "search_phrase": "country chicken names"
+    },
+    {
+      "id": "cute",
+      "title": "Cute Chicken Names",
+      "description": "Adorable names for a favorite fluffy chicken.",
+      "search_phrase": "cute chicken names"
+    },
+    {
+      "id": "badass",
+      "title": "Badass Chicken Names",
+      "description": "Tough, fierce names for a chicken with attitude.",
+      "search_phrase": "badass chicken names"
+    },
+    {
+      "id": "old-lady",
+      "title": "Old Lady Chicken Names",
+      "description": "Vintage grandma style names for a dignified hen.",
+      "search_phrase": "old lady chicken names"
+    },
+    {
+      "id": "chick-names",
+      "title": "Names for Baby Chicks",
+      "description": "Small, gentle names that suit a newly hatched chick.",
+      "search_phrase": "names for baby chicks"
+    },
+    {
+      "id": "pairs-trios",
+      "title": "Names for Pairs and Trios",
+      "description": "Matching name sets for two or three chickens kept together.",
+      "search_phrase": "chicken names for pairs"
+    },
+    {
+      "id": "silkie",
+      "title": "Silkie Names",
+      "description": "Fluffy, whimsical names that suit a Silkie's fuzzy look.",
+      "search_phrase": "silkie chicken names"
+    }
+  ],
+  "names": [
+    {
+      "id": "abby-mallard",
+      "name": "Abby Mallard",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "A duck-billed hen character from the film Hoodwinked."
+    },
+    {
+      "id": "ace",
+      "name": "Ace",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "adelaide",
+      "name": "Adelaide",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "aegean",
+      "name": "Aegean",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "afro",
+      "name": "Afro",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "agnes",
+      "name": "Agnes",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ajax",
+      "name": "Ajax",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "alabaster",
+      "name": "Alabaster",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "alarm-clock",
+      "name": "Alarm Clock",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "amber",
+      "name": "Amber",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "amelia",
+      "name": "Amelia",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "amethyst",
+      "name": "Amethyst",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "amethyst-sky",
+      "name": "Amethyst Sky",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "angel",
+      "name": "Angel",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "angora",
+      "name": "Angora",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "anna",
+      "name": "Anna",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "anthracite",
+      "name": "Anthracite",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "arwen",
+      "name": "Arwen",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ash",
+      "name": "Ash",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "aslan",
+      "name": "Aslan",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "autumn-blaze",
+      "name": "Autumn Blaze",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "babs",
+      "name": "Babs",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "A knitting hen from Chicken Run."
+    },
+    {
+      "id": "bagel",
+      "name": "Bagel",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "baloo",
+      "name": "Baloo",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bandana",
+      "name": "Bandana",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bandit",
+      "name": "Bandit",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bane",
+      "name": "Bane",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bao",
+      "name": "Bao",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bao-bao",
+      "name": "Bao Bao",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "barley",
+      "name": "Barley",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "barney",
+      "name": "Barney",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Betty."
+    },
+    {
+      "id": "barnyard-betty",
+      "name": "Barnyard Betty",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "barnyard-boss",
+      "name": "Barnyard Boss",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "baron-beaks",
+      "name": "Baron Beaks",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "baron-von-fowl",
+      "name": "Baron Von Fowl",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "basil",
+      "name": "Basil",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "batman",
+      "name": "Batman",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Robin."
+    },
+    {
+      "id": "battleship",
+      "name": "Battleship",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bawk-obama",
+      "name": "Bawk Obama",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "baymax",
+      "name": "Baymax",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "beak-jagger",
+      "name": "Beak Jagger",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "beaker",
+      "name": "Beaker",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "beakon",
+      "name": "Beakon",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bean",
+      "name": "Bean",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "beatrice",
+      "name": "Beatrice",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "beau",
+      "name": "Beau",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bella",
+      "name": "Bella",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "belle",
+      "name": "Belle",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "bellflower",
+      "name": "Bellflower",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ben",
+      "name": "Ben",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Jerry."
+    },
+    {
+      "id": "bernice",
+      "name": "Bernice",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "bertha",
+      "name": "Bertha",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "bessie",
+      "name": "Bessie",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "betty",
+      "name": "Betty",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Barney."
+    },
+    {
+      "id": "beulah",
+      "name": "Beulah",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "biddy",
+      "name": "Biddy",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Old-fashioned English word for a hen."
+    },
+    {
+      "id": "big-comb",
+      "name": "Big Comb",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "big-red",
+      "name": "Big Red",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "big-snoo",
+      "name": "Big Snoo",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "birdseed",
+      "name": "Birdseed",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "biscotti",
+      "name": "Biscotti",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "biscuit",
+      "name": "Biscuit",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bitty",
+      "name": "Bitty",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "blackberry",
+      "name": "Blackberry",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blackbird",
+      "name": "Blackbird",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blackjack",
+      "name": "Blackjack",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "blackout",
+      "name": "Blackout",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "blackout-betty",
+      "name": "Blackout Betty",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blade",
+      "name": "Blade",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "blanca",
+      "name": "Blanca",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blaze",
+      "name": "Blaze",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "blizzard",
+      "name": "Blizzard",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blondie",
+      "name": "Blondie",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "bloodhound",
+      "name": "Bloodhound",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "blossom",
+      "name": "Blossom",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blue-belle",
+      "name": "Blue Belle",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blue-jay",
+      "name": "Blue Jay",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "blue-steel",
+      "name": "Blue Steel",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bo",
+      "name": "Bo",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bone-china",
+      "name": "Bone China",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "bones",
+      "name": "Bones",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Part of a Kirk, Spock and Bones trio set."
+    },
+    {
+      "id": "bonnie",
+      "name": "Bonnie",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Clyde."
+    },
+    {
+      "id": "boris",
+      "name": "Boris",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "boss-rooster",
+      "name": "Boss Rooster",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "brain",
+      "name": "Brain",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Pinky."
+    },
+    {
+      "id": "bramble",
+      "name": "Bramble",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "braveheart",
+      "name": "Braveheart",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "brick",
+      "name": "Brick",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "brimstone",
+      "name": "Brimstone",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bruno",
+      "name": "Bruno",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "brutus",
+      "name": "Brutus",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bubbles",
+      "name": "Bubbles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "buckwheat",
+      "name": "Buckwheat",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "buddy",
+      "name": "Buddy",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "buk-buk-barnaby",
+      "name": "Buk Buk Barnaby",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bulldozer",
+      "name": "Bulldozer",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "bumble",
+      "name": "Bumble",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bumblebee",
+      "name": "Bumblebee",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "bunty",
+      "name": "Bunty",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "A hen character from Chicken Run."
+    },
+    {
+      "id": "burgundy",
+      "name": "Burgundy",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "burrito",
+      "name": "Burrito",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "buttercorn",
+      "name": "Buttercorn",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "buttercream",
+      "name": "Buttercream",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "buttercup",
+      "name": "Buttercup",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "butterscotch",
+      "name": "Butterscotch",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "button",
+      "name": "Button",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "buttons",
+      "name": "Buttons",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "buzz",
+      "name": "Buzz",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cackle",
+      "name": "Cackle",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cagney",
+      "name": "Cagney",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Lacey."
+    },
+    {
+      "id": "calico",
+      "name": "Calico",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "camel",
+      "name": "Camel",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "camelot-hen",
+      "name": "Camelot Hen",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "camilla",
+      "name": "Camilla",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "A chicken character on The Muppet Show."
+    },
+    {
+      "id": "camille",
+      "name": "Camille",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "captain-cluck",
+      "name": "Captain Cluck",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "caramel",
+      "name": "Caramel",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cardinal",
+      "name": "Cardinal",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cash",
+      "name": "Cash",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "casper",
+      "name": "Casper",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cayenne",
+      "name": "Cayenne",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cayenne-pepper",
+      "name": "Cayenne Pepper",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "chalk",
+      "name": "Chalk",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chanticleer",
+      "name": "Chanticleer",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "A rooster's name in medieval fable and folklore."
+    },
+    {
+      "id": "chanticleer-the-second",
+      "name": "Chanticleer the Second",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "chaos",
+      "name": "Chaos",
+      "lists": [
+        "badass"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "charcoal",
+      "name": "Charcoal",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cheep",
+      "name": "Cheep",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cheep-blue",
+      "name": "Cheep Blue",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "chenille",
+      "name": "Chenille",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cher",
+      "name": "Cher",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Sonny."
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cherry-blossom",
+      "name": "Cherry Blossom",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "chestnut",
+      "name": "Chestnut",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chewie",
+      "name": "Chewie",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "chick-flick",
+      "name": "Chick Flick",
+      "lists": [
+        "punny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "chick-jagger",
+      "name": "Chick Jagger",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chick-magnet",
+      "name": "Chick Magnet",
+      "lists": [
+        "punny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "chick-norris-jr",
+      "name": "Chick Norris Jr",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chickadee",
+      "name": "Chickadee",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "chicken-little",
+      "name": "Chicken Little",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chicken-soup",
+      "name": "Chicken Soup",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chicken-tikka",
+      "name": "Chicken Tikka",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chickennoodlesoup",
+      "name": "Chickennoodlesoup",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chickpea",
+      "name": "Chickpea",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chief",
+      "name": "Chief",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "chili",
+      "name": "Chili",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chinchilla",
+      "name": "Chinchilla",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chip",
+      "name": "Chip",
+      "lists": [
+        "speckled",
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Dale."
+    },
+    {
+      "id": "chirp",
+      "name": "Chirp",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chirp-kardashian",
+      "name": "Chirp Kardashian",
+      "lists": [
+        "punny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "chirpin-hendrix",
+      "name": "Chirpin' Hendrix",
+      "lists": [
+        "punny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "chirpy-chapman",
+      "name": "Chirpy Chapman",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "chook",
+      "name": "Chook",
+      "lists": [
+        "famous"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Australian slang word for a chicken, used as an affectionate name."
+    },
+    {
+      "id": "chrome",
+      "name": "Chrome",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "chuck-the-chicken",
+      "name": "Chuck the Chicken",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cider",
+      "name": "Cider",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cinder-grey",
+      "name": "Cinder Grey",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cinnabar",
+      "name": "Cinnabar",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cinnamon",
+      "name": "Cinnamon",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cirrus",
+      "name": "Cirrus",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "clara",
+      "name": "Clara",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "clarabelle",
+      "name": "Clarabelle",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "clementine",
+      "name": "Clementine",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cletus",
+      "name": "Cletus",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cloudy",
+      "name": "Cloudy",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "clover",
+      "name": "Clover",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cluck-a-doodle",
+      "name": "Cluck-a-doodle",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-a-mole",
+      "name": "Cluck-a-mole",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-berry",
+      "name": "Cluck Berry",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-berry-finn",
+      "name": "Cluck Berry Finn",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-bumble",
+      "name": "Cluck Bumble",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-cluck-boom",
+      "name": "Cluck Cluck Boom",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-cluck-clarkson",
+      "name": "Cluck Cluck Clarkson",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluck-holmes",
+      "name": "Cluck Holmes",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-kennedy",
+      "name": "Cluck Kennedy",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluck-kent",
+      "name": "Cluck Kent",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluck-norris",
+      "name": "Cluck Norris",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluck-sinatra",
+      "name": "Cluck Sinatra",
+      "lists": [
+        "punny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluck-sparrow",
+      "name": "Cluck Sparrow",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluck-sparrow-two",
+      "name": "Cluck Sparrow Two",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-yeah",
+      "name": "Cluck Yeah",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluck-yegger",
+      "name": "Cluck Yegger",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluckingham",
+      "name": "Cluckingham",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cluckleberry-finn",
+      "name": "Cluckleberry Finn",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cluckwork-orange",
+      "name": "Cluckwork Orange",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "clyde",
+      "name": "Clyde",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Bonnie."
+    },
+    {
+      "id": "coal",
+      "name": "Coal",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "coal-miner",
+      "name": "Coal Miner",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cobalt",
+      "name": "Cobalt",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cock-a-doodle-dan",
+      "name": "Cock-a-doodle Dan",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cockadoodle-chad",
+      "name": "Cockadoodle Chad",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cockpit",
+      "name": "Cockpit",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cockrell",
+      "name": "Cockrell",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cocky-locky",
+      "name": "Cocky Locky",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "A rooster character from the Henny Penny folk tale."
+    },
+    {
+      "id": "coco",
+      "name": "Coco",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cocoa",
+      "name": "Cocoa",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cocorico",
+      "name": "Cocorico",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "French onomatopoeia for a rooster's crow."
+    },
+    {
+      "id": "colonel-cluckers",
+      "name": "Colonel Cluckers",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "comb-over",
+      "name": "Comb Over",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "combine",
+      "name": "Combine",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "confetti",
+      "name": "Confetti",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "constance",
+      "name": "Constance",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "constellation",
+      "name": "Constellation",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cookie",
+      "name": "Cookie",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "copper",
+      "name": "Copper",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "copperfield",
+      "name": "Copperfield",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "corn-silk",
+      "name": "Corn Silk",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cornbread",
+      "name": "Cornbread",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cornelia",
+      "name": "Cornelia",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cornflake",
+      "name": "Cornflake",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cornhusk",
+      "name": "Cornhusk",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cotton",
+      "name": "Cotton",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cotton-ball-two",
+      "name": "Cotton Ball Two",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cotton-candy",
+      "name": "Cotton Candy",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cotton-cloud",
+      "name": "Cotton Cloud",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cottonball",
+      "name": "Cottonball",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cottontop",
+      "name": "Cottontop",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cranberry",
+      "name": "Cranberry",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "crest",
+      "name": "Crest",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "crimson",
+      "name": "Crimson",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "crocus",
+      "name": "Crocus",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "crow-magnon",
+      "name": "Crow Magnon",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "crowbar",
+      "name": "Crowbar",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "crower",
+      "name": "Crower",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "crowfeather",
+      "name": "Crowfeather",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "crumpet",
+      "name": "Crumpet",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cuddles",
+      "name": "Cuddles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cumulonimbus",
+      "name": "Cumulonimbus",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cumulus",
+      "name": "Cumulus",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cumulus-cloud",
+      "name": "Cumulus Cloud",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "cupcake",
+      "name": "Cupcake",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "curly",
+      "name": "Curly",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Part of a Larry, Curly and Moe trio set."
+    },
+    {
+      "id": "custard",
+      "name": "Custard",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "custard-cream",
+      "name": "Custard Cream",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "cyclone",
+      "name": "Cyclone",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dale",
+      "name": "Dale",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Chip."
+    },
+    {
+      "id": "dalmatian",
+      "name": "Dalmatian",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "dandelion",
+      "name": "Dandelion",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dandelion-puff",
+      "name": "Dandelion Puff",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "dapple",
+      "name": "Dapple",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dark-roast",
+      "name": "Dark Roast",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "delilah",
+      "name": "Delilah",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "denim",
+      "name": "Denim",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "deviled-egg",
+      "name": "Deviled Egg",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "dewey",
+      "name": "Dewey",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Part of a Huey, Dewey and Louie trio set."
+    },
+    {
+      "id": "dexter",
+      "name": "Dexter",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "diesel",
+      "name": "Diesel",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "dimples",
+      "name": "Dimples",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dixie",
+      "name": "Dixie",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dixieland",
+      "name": "Dixieland",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "dobby",
+      "name": "Dobby",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "doeskin",
+      "name": "Doeskin",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "domino",
+      "name": "Domino",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "doodlebug",
+      "name": "Doodlebug",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "doodles",
+      "name": "Doodles",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "doris",
+      "name": "Doris",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dorothy",
+      "name": "Dorothy",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dory",
+      "name": "Dory",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dot",
+      "name": "Dot",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "dottie",
+      "name": "Dottie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dove",
+      "name": "Dove",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "downy",
+      "name": "Downy",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "downy-two",
+      "name": "Downy Two",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "drumstick",
+      "name": "Drumstick",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "ducky-lucky",
+      "name": "Ducky Lucky",
+      "lists": [
+        "famous"
+      ],
+      "gender": "any",
+      "meaning_or_note": "A companion character from the Henny Penny folk tale."
+    },
+    {
+      "id": "duke",
+      "name": "Duke",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "duke-of-dawn",
+      "name": "Duke of Dawn",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "duke-of-feathers",
+      "name": "Duke of Feathers",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "dumpling",
+      "name": "Dumpling",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "dusk",
+      "name": "Dusk",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dusky-rose",
+      "name": "Dusky Rose",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "dust-bunny",
+      "name": "Dust Bunny",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "ebony",
+      "name": "Ebony",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "eclipse",
+      "name": "Eclipse",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "edna",
+      "name": "Edna",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "egg-bert",
+      "name": "Egg Bert",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-cellent",
+      "name": "Egg Cellent",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-mcflufffin",
+      "name": "Egg McFlufffin",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-monroe",
+      "name": "Egg Monroe",
+      "lists": [
+        "funny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "egg-nog",
+      "name": "Egg Nog",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-roll",
+      "name": "Egg Roll",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-sheeran",
+      "name": "Egg Sheeran",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-stra",
+      "name": "Egg Stra",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-strodinary",
+      "name": "Egg-strodinary",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-wood",
+      "name": "Egg Wood",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egg-zavier",
+      "name": "Egg Zavier",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egghead",
+      "name": "Egghead",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egghead-einstein",
+      "name": "Egghead Einstein",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "egret",
+      "name": "Egret",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "el-gallo",
+      "name": "El Gallo",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "elsa",
+      "name": "Elsa",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ember",
+      "name": "Ember",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "enzo",
+      "name": "Enzo",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "espresso",
+      "name": "Espresso",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "espresso-bean",
+      "name": "Espresso Bean",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "estelle",
+      "name": "Estelle",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "estelle-rose",
+      "name": "Estelle Rose",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ethel",
+      "name": "Ethel",
+      "lists": [
+        "old-lady",
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Lucy."
+    },
+    {
+      "id": "eunice",
+      "name": "Eunice",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "falafel",
+      "name": "Falafel",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fang",
+      "name": "Fang",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "farmhand",
+      "name": "Farmhand",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "fauxhawk",
+      "name": "Fauxhawk",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "feather-bueller",
+      "name": "Feather Bueller",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "feather-duster",
+      "name": "Feather Duster",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "feather-duster-deluxe",
+      "name": "Feather Duster Deluxe",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "feather-locklear",
+      "name": "Feather Locklear",
+      "lists": [
+        "punny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "featherlight",
+      "name": "Featherlight",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "featherton",
+      "name": "Featherton",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fig",
+      "name": "Fig",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "finn",
+      "name": "Finn",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "fiona",
+      "name": "Fiona",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fire",
+      "name": "Fire",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "firebird",
+      "name": "Firebird",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "firecracker",
+      "name": "Firecracker",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fleck",
+      "name": "Fleck",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fledgling",
+      "name": "Fledgling",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "flint",
+      "name": "Flint",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "florence",
+      "name": "Florence",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "flounder",
+      "name": "Flounder",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fluff-ball-junior",
+      "name": "Fluff Ball Junior",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fluffball",
+      "name": "Fluffball",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fluffy",
+      "name": "Fluffy",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fog",
+      "name": "Fog",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "foghorn",
+      "name": "Foghorn",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "fondant",
+      "name": "Fondant",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fossil",
+      "name": "Fossil",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fowl-ball",
+      "name": "Fowl Ball",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fowl-fitzgerald",
+      "name": "Fowl Fitzgerald",
+      "lists": [
+        "punny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fowl-mouth",
+      "name": "Fowl Mouth",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fowl-play",
+      "name": "Fowl Play",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fowler",
+      "name": "Fowler",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "A veteran rooster character from Chicken Run."
+    },
+    {
+      "id": "fox-fire",
+      "name": "Fox Fire",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "foxglove",
+      "name": "Foxglove",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "foxy-loxy",
+      "name": "Foxy Loxy",
+      "lists": [
+        "famous"
+      ],
+      "gender": "any",
+      "meaning_or_note": "The clever fox from the Henny Penny folk tale."
+    },
+    {
+      "id": "frack",
+      "name": "Frack",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Frick."
+    },
+    {
+      "id": "freckles",
+      "name": "Freckles",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fred",
+      "name": "Fred",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Wilma."
+    },
+    {
+      "id": "freesia",
+      "name": "Freesia",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "freya",
+      "name": "Freya",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fricassee",
+      "name": "Fricassee",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "frick",
+      "name": "Frick",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Frack."
+    },
+    {
+      "id": "fritz",
+      "name": "Fritz",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "frizz",
+      "name": "Frizz",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "frost",
+      "name": "Frost",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fry",
+      "name": "Fry",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fudge",
+      "name": "Fudge",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fury",
+      "name": "Fury",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "fuzz-lightyear",
+      "name": "Fuzz Lightyear",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "fuzzball",
+      "name": "Fuzzball",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fuzzles",
+      "name": "Fuzzles",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fuzzy",
+      "name": "Fuzzy",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "fuzzy-wuzzy",
+      "name": "Fuzzy Wuzzy",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "gandalf",
+      "name": "Gandalf",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "garfunkel",
+      "name": "Garfunkel",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Simon."
+    },
+    {
+      "id": "garnet",
+      "name": "Garnet",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gaston",
+      "name": "Gaston",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "gelato",
+      "name": "Gelato",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "general-tso",
+      "name": "General Tso",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "georgia",
+      "name": "Georgia",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gertie",
+      "name": "Gertie",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gertrude",
+      "name": "Gertrude",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "gideon",
+      "name": "Gideon",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "giggles",
+      "name": "Giggles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "gigi",
+      "name": "Gigi",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "lists": [
+        "girl-names",
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Lead hen in the film Chicken Run."
+    },
+    {
+      "id": "ginger-snap",
+      "name": "Ginger Snap",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gingerbread",
+      "name": "Gingerbread",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "gingham",
+      "name": "Gingham",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gladys",
+      "name": "Gladys",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "golden",
+      "name": "Golden",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "goldie",
+      "name": "Goldie",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "goosey-loosey",
+      "name": "Goosey Loosey",
+      "lists": [
+        "famous"
+      ],
+      "gender": "any",
+      "meaning_or_note": "A companion character from the Henny Penny folk tale."
+    },
+    {
+      "id": "governor",
+      "name": "Governor",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "granite",
+      "name": "Granite",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "grape",
+      "name": "Grape",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "graphite",
+      "name": "Graphite",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "gravy",
+      "name": "Gravy",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "grit",
+      "name": "Grit",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "groot",
+      "name": "Groot",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "guinea-fowl-print",
+      "name": "Guinea Fowl Print",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gumdrop",
+      "name": "Gumdrop",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "gunmetal",
+      "name": "Gunmetal",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "gunner",
+      "name": "Gunner",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "gus",
+      "name": "Gus",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "half-pint",
+      "name": "Half Pint",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "han",
+      "name": "Han",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Leia in a trio with Chewie."
+    },
+    {
+      "id": "hank",
+      "name": "Hank",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "hard-boiled",
+      "name": "Hard Boiled",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "harlow",
+      "name": "Harlow",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "harriet",
+      "name": "Harriet",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "hattie",
+      "name": "Hattie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "havoc",
+      "name": "Havoc",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "havok",
+      "name": "Havok",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "hayseed",
+      "name": "Hayseed",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "haystack",
+      "name": "Haystack",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "hazel",
+      "name": "Hazel",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "heather",
+      "name": "Heather",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "hei-hei",
+      "name": "Hei Hei",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "The rooster sidekick from Disney's Moana."
+    },
+    {
+      "id": "hellcat",
+      "name": "Hellcat",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "hen-solo",
+      "name": "Hen Solo",
+      "lists": [
+        "funny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "henny",
+      "name": "Henny",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "henny-penny",
+      "name": "Henny Penny",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "The hen who believed the sky was falling in the folk tale."
+    },
+    {
+      "id": "henrietta",
+      "name": "Henrietta",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "henrietta-lacks-a-feather",
+      "name": "Henrietta Lacks-a-Feather",
+      "lists": [
+        "funny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "henrietta-mae",
+      "name": "Henrietta Mae",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "herald",
+      "name": "Herald",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "hermione",
+      "name": "Hermione",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "hilda",
+      "name": "Hilda",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "hoedown",
+      "name": "Hoedown",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "homestead",
+      "name": "Homestead",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "honey-nugget",
+      "name": "Honey Nugget",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "honeybun",
+      "name": "Honeybun",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "honeycomb",
+      "name": "Honeycomb",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "honeydew",
+      "name": "Honeydew",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "huey",
+      "name": "Huey",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Part of a Huey, Dewey and Louie trio set."
+    },
+    {
+      "id": "hugo",
+      "name": "Hugo",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "hutch",
+      "name": "Hutch",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Starsky."
+    },
+    {
+      "id": "hydrangea",
+      "name": "Hydrangea",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "iago",
+      "name": "Iago",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ida",
+      "name": "Ida",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "igloo",
+      "name": "Igloo",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "indigo",
+      "name": "Indigo",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ink-well",
+      "name": "Ink Well",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "inkblot",
+      "name": "Inkblot",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "inkspot",
+      "name": "Inkspot",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "iris-bloom",
+      "name": "Iris Bloom",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ironclad",
+      "name": "Ironclad",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ironfist",
+      "name": "Ironfist",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ironsides",
+      "name": "Ironsides",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "isla",
+      "name": "Isla",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ivan",
+      "name": "Ivan",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ivory",
+      "name": "Ivory",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ivy",
+      "name": "Ivy",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "jam",
+      "name": "Jam",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "jax",
+      "name": "Jax",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "jelly",
+      "name": "Jelly",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "jellybean",
+      "name": "Jellybean",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "jerry",
+      "name": "Jerry",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Ben."
+    },
+    {
+      "id": "jet",
+      "name": "Jet",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "jetstream",
+      "name": "Jetstream",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "jinx",
+      "name": "Jinx",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "josephine",
+      "name": "Josephine",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "josie",
+      "name": "Josie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "juniper",
+      "name": "Juniper",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "katie",
+      "name": "Katie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "kernel",
+      "name": "Kernel",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "king-feathers",
+      "name": "King Feathers",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "kingpin",
+      "name": "Kingpin",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "kingston",
+      "name": "Kingston",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "kirk",
+      "name": "Kirk",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Part of a Kirk, Spock and Bones trio set."
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "kiwi-belle",
+      "name": "Kiwi Belle",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "kukeleku",
+      "name": "Kukeleku",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Dutch word for a rooster's crow, used as a playful name."
+    },
+    {
+      "id": "lacey",
+      "name": "Lacey",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Cagney."
+    },
+    {
+      "id": "lady-cluck-cluck",
+      "name": "Lady Cluck-Cluck",
+      "lists": [
+        "punny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ladybug",
+      "name": "Ladybug",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "larry",
+      "name": "Larry",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Part of a Larry, Curly and Moe trio set."
+    },
+    {
+      "id": "latte",
+      "name": "Latte",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "latte-buff",
+      "name": "Latte Buff",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "lavender-blue",
+      "name": "Lavender Blue",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lavender-fields",
+      "name": "Lavender Fields",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lavender-haze",
+      "name": "Lavender Haze",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lavendula",
+      "name": "Lavendula",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "laverne",
+      "name": "Laverne",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Shirley."
+    },
+    {
+      "id": "leia",
+      "name": "Leia",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "leopard",
+      "name": "Leopard",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "licorice",
+      "name": "Licorice",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "lilac",
+      "name": "Lilac",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lilac-belle",
+      "name": "Lilac Belle",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lilac-mist",
+      "name": "Lilac Mist",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lily",
+      "name": "Lily",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lincoln",
+      "name": "Lincoln",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "linen",
+      "name": "Linen",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "little-bit",
+      "name": "Little Bit",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "little-red-hen",
+      "name": "Little Red Hen",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "The industrious hen of the classic folk tale."
+    },
+    {
+      "id": "lola",
+      "name": "Lola",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lollipop",
+      "name": "Lollipop",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lord-cluckworth",
+      "name": "Lord Cluckworth",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "loud-mouth",
+      "name": "Loud Mouth",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "louella",
+      "name": "Louella",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "louie",
+      "name": "Louie",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Part of a Huey, Dewey and Louie trio set."
+    },
+    {
+      "id": "louise",
+      "name": "Louise",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Thelma."
+    },
+    {
+      "id": "lucy",
+      "name": "Lucy",
+      "lists": [
+        "girl-names",
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Ethel."
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "lupine",
+      "name": "Lupine",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mabel",
+      "name": "Mabel",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mac",
+      "name": "Mac",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "The inventive hen from Chicken Run."
+    },
+    {
+      "id": "mahogany",
+      "name": "Mahogany",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "maple",
+      "name": "Maple",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marabou",
+      "name": "Marabou",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marble",
+      "name": "Marble",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marble-cake",
+      "name": "Marble Cake",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "marble-chick",
+      "name": "Marble Chick",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marigold",
+      "name": "Marigold",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "marigold-sky",
+      "name": "Marigold Sky",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "marmalade",
+      "name": "Marmalade",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marmalade-sky",
+      "name": "Marmalade Sky",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marshal",
+      "name": "Marshal",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "marshmallow",
+      "name": "Marshmallow",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marshmallow-cloud",
+      "name": "Marshmallow Cloud",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marshmallow-fluff",
+      "name": "Marshmallow Fluff",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "marzipan",
+      "name": "Marzipan",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "marzipan-two",
+      "name": "Marzipan Two",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "matilda",
+      "name": "Matilda",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "maui",
+      "name": "Maui",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "mauve",
+      "name": "Mauve",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mauve-rose",
+      "name": "Mauve Rose",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "mavis",
+      "name": "Mavis",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "max",
+      "name": "Max",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "maximus",
+      "name": "Maximus",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "mayor-mccluck",
+      "name": "Mayor McCluck",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "meadow",
+      "name": "Meadow",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "merida",
+      "name": "Merida",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "meringue",
+      "name": "Meringue",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "meringue-puff",
+      "name": "Meringue Puff",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "merlot",
+      "name": "Merlot",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "midnight",
+      "name": "Midnight",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "mike-the-headless-chicken",
+      "name": "Mike the Headless Chicken",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "A rooster from Colorado who famously lived for months after losing his head in 1945."
+    },
+    {
+      "id": "mildred",
+      "name": "Mildred",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "millicent",
+      "name": "Millicent",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "milo",
+      "name": "Milo",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "miss-poppy",
+      "name": "Miss Poppy",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mister-wake-up",
+      "name": "Mister Wake Up",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "misty",
+      "name": "Misty",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "misty-mauve",
+      "name": "Misty Mauve",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "moana",
+      "name": "Moana",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mocha",
+      "name": "Mocha",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "mochi",
+      "name": "Mochi",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "moe",
+      "name": "Moe",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Part of a Larry, Curly and Moe trio set."
+    },
+    {
+      "id": "molasses",
+      "name": "Molasses",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "moonstone",
+      "name": "Moonstone",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mosaic",
+      "name": "Mosaic",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mottle",
+      "name": "Mottle",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "mrs-tweedy",
+      "name": "Mrs Tweedy",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "The farm owner in Chicken Run (used as a cheeky hen name)."
+    },
+    {
+      "id": "muffin",
+      "name": "Muffin",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "mulan",
+      "name": "Mulan",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "munchkin",
+      "name": "Munchkin",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "muriel",
+      "name": "Muriel",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "mushu",
+      "name": "Mushu",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Named for the dragon guardian in Disney's Mulan."
+    },
+    {
+      "id": "myrtle",
+      "name": "Myrtle",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "nadine",
+      "name": "Nadine",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "nala",
+      "name": "Nala",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "napoleon",
+      "name": "Napoleon",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "navy",
+      "name": "Navy",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "nemo",
+      "name": "Nemo",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "newbie",
+      "name": "Newbie",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "newsprint",
+      "name": "Newsprint",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "nibbles",
+      "name": "Nibbles",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "nibblet",
+      "name": "Nibblet",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "nick",
+      "name": "Nick",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "A black market rat character's chicken customer, Chicken Run."
+    },
+    {
+      "id": "nightfall",
+      "name": "Nightfall",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "nightshade",
+      "name": "Nightshade",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "nimbus",
+      "name": "Nimbus",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "ninja",
+      "name": "Ninja",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "noir",
+      "name": "Noir",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "noodle",
+      "name": "Noodle",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "nora",
+      "name": "Nora",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "nub",
+      "name": "Nub",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "nugget",
+      "name": "Nugget",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "nutmeg",
+      "name": "Nutmeg",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ochre",
+      "name": "Ochre",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "olaf",
+      "name": "Olaf",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ollie",
+      "name": "Ollie",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "omelette",
+      "name": "Omelette",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "onyx",
+      "name": "Onyx",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "opal",
+      "name": "Opal",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "opal-white",
+      "name": "Opal White",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "orchid",
+      "name": "Orchid",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "otis",
+      "name": "Otis",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ottilie",
+      "name": "Ottilie",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "outlaw",
+      "name": "Outlaw",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "over-easy",
+      "name": "Over Easy",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "overalls",
+      "name": "Overalls",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "overcast",
+      "name": "Overcast",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "overlord",
+      "name": "Overlord",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "pancake",
+      "name": "Pancake",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "panther",
+      "name": "Panther",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "panther-lily",
+      "name": "Panther Lily",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "papa-rooster",
+      "name": "Papa Rooster",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "paprikash",
+      "name": "Paprikash",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "partlet",
+      "name": "Partlet",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "A traditional storybook name for a hen."
+    },
+    {
+      "id": "pasture",
+      "name": "Pasture",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "patches",
+      "name": "Patches",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peaches",
+      "name": "Peaches",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "peanut",
+      "name": "Peanut",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peanut-brittle",
+      "name": "Peanut Brittle",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pearl",
+      "name": "Pearl",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pearl-white",
+      "name": "Pearl White",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pebble",
+      "name": "Pebble",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pebbles",
+      "name": "Pebbles",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "peck-a-boo",
+      "name": "Peck-a-boo",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peck-lemmon",
+      "name": "Peck Lemmon",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peck-sniffin",
+      "name": "Peck Sniffin",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peckerella",
+      "name": "Peckerella",
+      "lists": [
+        "funny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "peckham-palace",
+      "name": "Peckham Palace",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pecky-mcpeckface",
+      "name": "Pecky McPeckface",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peckzilla",
+      "name": "Peckzilla",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peep",
+      "name": "Peep",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peep-perry",
+      "name": "Peep Perry",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peep-show",
+      "name": "Peep Show",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "peggy",
+      "name": "Peggy",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "penny",
+      "name": "Penny",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pepper",
+      "name": "Pepper",
+      "lists": [
+        "food",
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Salt."
+    },
+    {
+      "id": "peppercorn",
+      "name": "Peppercorn",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "percy",
+      "name": "Percy",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "periwinkle",
+      "name": "Periwinkle",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "periwinkle-bloom",
+      "name": "Periwinkle Bloom",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "periwinkle-sky",
+      "name": "Periwinkle Sky",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pertelote",
+      "name": "Pertelote",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Chanticleer's hen companion in Chaucer's tale."
+    },
+    {
+      "id": "petal",
+      "name": "Petal",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "petunia",
+      "name": "Petunia",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "petunia-mae",
+      "name": "Petunia Mae",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pewter",
+      "name": "Pewter",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "phyllis",
+      "name": "Phyllis",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pie",
+      "name": "Pie",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pigeon",
+      "name": "Pigeon",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pikachu",
+      "name": "Pikachu",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pinky",
+      "name": "Pinky",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Brain."
+    },
+    {
+      "id": "pip",
+      "name": "Pip",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pip-squeak",
+      "name": "Pip Squeak",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pippin",
+      "name": "Pippin",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pipsqueak-two",
+      "name": "Pipsqueak Two",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pitch",
+      "name": "Pitch",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "pitchfork",
+      "name": "Pitchfork",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "pixelly",
+      "name": "Pixelly",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "plum",
+      "name": "Plum",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "plush",
+      "name": "Plush",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "poach-perfect",
+      "name": "Poach Perfect",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "poinsettia",
+      "name": "Poinsettia",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "polka",
+      "name": "Polka",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pollo-loco",
+      "name": "Pollo Loco",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "pom-pom",
+      "name": "Pom Pom",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pom-pom-deluxe",
+      "name": "Pom-Pom Deluxe",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "poof",
+      "name": "Poof",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "popcorn",
+      "name": "Popcorn",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "popcorn-puff",
+      "name": "Popcorn Puff",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "poppy",
+      "name": "Poppy",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pouf",
+      "name": "Pouf",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "poultrygeist",
+      "name": "Poultrygeist",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "powder",
+      "name": "Powder",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "powderpuff",
+      "name": "Powderpuff",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "prairie",
+      "name": "Prairie",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "praline",
+      "name": "Praline",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pretzel",
+      "name": "Pretzel",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "prince",
+      "name": "Prince",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "prince-peck",
+      "name": "Prince Peck",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "priscilla",
+      "name": "Priscilla",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "provence",
+      "name": "Provence",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "prudence",
+      "name": "Prudence",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "pudding",
+      "name": "Pudding",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "puddle",
+      "name": "Puddle",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "puff",
+      "name": "Puff",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "puffball",
+      "name": "Puffball",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "puffin",
+      "name": "Puffin",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "pumbaa",
+      "name": "Pumbaa",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "purple-sage",
+      "name": "Purple Sage",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "q-tip",
+      "name": "Q-tip",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "queenie",
+      "name": "Queenie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "radish",
+      "name": "Radish",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "rafiki",
+      "name": "Rafiki",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ragnar",
+      "name": "Ragnar",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "rainstorm",
+      "name": "Rainstorm",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "rampage",
+      "name": "Rampage",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rapunzel",
+      "name": "Rapunzel",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "raven",
+      "name": "Raven",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "raven-feather",
+      "name": "Raven Feather",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "reaper",
+      "name": "Reaper",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "red-rover",
+      "name": "Red Rover",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "reggie",
+      "name": "Reggie",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "renegade",
+      "name": "Renegade",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rex",
+      "name": "Rex",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "riot",
+      "name": "Riot",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "robin",
+      "name": "Robin",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Batman."
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "rocky",
+      "name": "Rocky",
+      "lists": [
+        "boy-names",
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "The rooster hero of Chicken Run."
+    },
+    {
+      "id": "rooibos",
+      "name": "Rooibos",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "roostafarian",
+      "name": "Roostafarian",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rooster-booster",
+      "name": "Rooster Booster",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rooster-cogburn",
+      "name": "Rooster Cogburn",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rooster-mcroosterface",
+      "name": "Rooster McRoosterface",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rooster-rex",
+      "name": "Rooster Rex",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "root-beer",
+      "name": "Root Beer",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "rosalee",
+      "name": "Rosalee",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "rosalind",
+      "name": "Rosalind",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "rosewood",
+      "name": "Rosewood",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "rosie",
+      "name": "Rosie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ruby-red",
+      "name": "Ruby Red",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "ruffles-the-rooster",
+      "name": "Ruffles the Rooster",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rufus",
+      "name": "Rufus",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "lists": [
+        "red"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "rustic",
+      "name": "Rustic",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "rusty",
+      "name": "Rusty",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sable",
+      "name": "Sable",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "saffron",
+      "name": "Saffron",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sahara",
+      "name": "Sahara",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "lists": [
+        "food",
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Pepper."
+    },
+    {
+      "id": "salt-and-pepper-speck",
+      "name": "Salt and Pepper Speck",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "salt-flat",
+      "name": "Salt Flat",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sandy",
+      "name": "Sandy",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sapphire",
+      "name": "Sapphire",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sarge",
+      "name": "Sarge",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sassafras",
+      "name": "Sassafras",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "scarecrow",
+      "name": "Scarecrow",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "scarlet",
+      "name": "Scarlet",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "scone",
+      "name": "Scone",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "scout",
+      "name": "Scout",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "scrambled",
+      "name": "Scrambled",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "scrappy",
+      "name": "Scrappy",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sebastian",
+      "name": "Sebastian",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sepia",
+      "name": "Sepia",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sergeant-squawk",
+      "name": "Sergeant Squawk",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "shadow",
+      "name": "Shadow",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "shag-carpet",
+      "name": "Shag Carpet",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sheepish",
+      "name": "Sheepish",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "shell-shocked",
+      "name": "Shell Shocked",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sherbet",
+      "name": "Sherbet",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "shirley",
+      "name": "Shirley",
+      "lists": [
+        "old-lady",
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Laverne."
+    },
+    {
+      "id": "shrapnel",
+      "name": "Shrapnel",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "shrek",
+      "name": "Shrek",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "silky-way",
+      "name": "Silky Way",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "silo",
+      "name": "Silo",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "silo-sally",
+      "name": "Silo Sally",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "simba",
+      "name": "Simba",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "simon",
+      "name": "Simon",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Garfunkel."
+    },
+    {
+      "id": "sir-cluckington",
+      "name": "Sir Cluckington",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sir-crows-a-lot",
+      "name": "Sir Crows-a-Lot",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sir-crows-alot",
+      "name": "Sir Crows Alot",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sir-loin",
+      "name": "Sir Loin",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sir-peckington",
+      "name": "Sir Peckington",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "smokey",
+      "name": "Smokey",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "snickerdoodle",
+      "name": "Snickerdoodle",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "snow-angel",
+      "name": "Snow Angel",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "snowball",
+      "name": "Snowball",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "snowdrop",
+      "name": "Snowdrop",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "snowflake",
+      "name": "Snowflake",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "snowy",
+      "name": "Snowy",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "snuggles",
+      "name": "Snuggles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sonny",
+      "name": "Sonny",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Cher."
+    },
+    {
+      "id": "soot",
+      "name": "Soot",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sophie",
+      "name": "Sophie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sorbet",
+      "name": "Sorbet",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sparklet",
+      "name": "Sparklet",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sparrow",
+      "name": "Sparrow",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "speck",
+      "name": "Speck",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "speckle",
+      "name": "Speckle",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "speckled-hen",
+      "name": "Speckled Hen",
+      "lists": [
+        "famous"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "speckles",
+      "name": "Speckles",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "splatter",
+      "name": "Splatter",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "spock",
+      "name": "Spock",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Part of a Kirk, Spock and Bones trio set."
+    },
+    {
+      "id": "sprig",
+      "name": "Sprig",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sprinkle",
+      "name": "Sprinkle",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sprinkles",
+      "name": "Sprinkles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sprinklet",
+      "name": "Sprinklet",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sprout",
+      "name": "Sprout",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "squeak",
+      "name": "Squeak",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "squeaky",
+      "name": "Squeaky",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sriracha",
+      "name": "Sriracha",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "starling",
+      "name": "Starling",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "starsky",
+      "name": "Starsky",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Often paired with Hutch."
+    },
+    {
+      "id": "static",
+      "name": "Static",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "static-fuzz",
+      "name": "Static Fuzz",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "steel",
+      "name": "Steel",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "stitch",
+      "name": "Stitch",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "storm",
+      "name": "Storm",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "stormy",
+      "name": "Stormy",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "straw",
+      "name": "Straw",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sugar-cube",
+      "name": "Sugar Cube",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sugar-plum",
+      "name": "Sugar Plum",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sultan",
+      "name": "Sultan",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sunbeam",
+      "name": "Sunbeam",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sunflower",
+      "name": "Sunflower",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sunkissed",
+      "name": "Sunkissed",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sunny-side-up",
+      "name": "Sunny Side Up",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "sunrise-sam",
+      "name": "Sunrise Sam",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sunshine",
+      "name": "Sunshine",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "suntan",
+      "name": "Suntan",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "susie",
+      "name": "Susie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sweetpea",
+      "name": "Sweetpea",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "sylvia",
+      "name": "Sylvia",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "syrup",
+      "name": "Syrup",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "taco",
+      "name": "Taco",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "talon",
+      "name": "Talon",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tangerine",
+      "name": "Tangerine",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tarbaby",
+      "name": "Tarbaby",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tarmac",
+      "name": "Tarmac",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tart",
+      "name": "Tart",
+      "lists": [
+        "food"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "tawny",
+      "name": "Tawny",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "terracotta",
+      "name": "Terracotta",
+      "lists": [
+        "red"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "terrazzo",
+      "name": "Terrazzo",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "thelma",
+      "name": "Thelma",
+      "lists": [
+        "old-lady",
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Louise."
+    },
+    {
+      "id": "theo",
+      "name": "Theo",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "thistle",
+      "name": "Thistle",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "thistledown",
+      "name": "Thistledown",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "thor",
+      "name": "Thor",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "thunder",
+      "name": "Thunder",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "thundercloud",
+      "name": "Thundercloud",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tiana",
+      "name": "Tiana",
+      "lists": [
+        "disney"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "tilly",
+      "name": "Tilly",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "timon",
+      "name": "Timon",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tiny",
+      "name": "Tiny",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "titan",
+      "name": "Titan",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "toasty",
+      "name": "Toasty",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "toffee",
+      "name": "Toffee",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tofu",
+      "name": "Tofu",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "toots",
+      "name": "Toots",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "tootsie",
+      "name": "Tootsie",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "top-hat",
+      "name": "Top Hat",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "topaz",
+      "name": "Topaz",
+      "lists": [
+        "buff"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "tortilla",
+      "name": "Tortilla",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tot",
+      "name": "Tot",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tot-two",
+      "name": "Tot Two",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "totoro",
+      "name": "Totoro",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "toupee",
+      "name": "Toupee",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tractor",
+      "name": "Tractor",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tribble",
+      "name": "Tribble",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Named for the fluffy, fast-breeding creatures from Star Trek."
+    },
+    {
+      "id": "trout",
+      "name": "Trout",
+      "lists": [
+        "speckled"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "truffle",
+      "name": "Truffle",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tumbles",
+      "name": "Tumbles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "tumbleweed",
+      "name": "Tumbleweed",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "turbo",
+      "name": "Turbo",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "turkey-lurkey",
+      "name": "Turkey Lurkey",
+      "lists": [
+        "famous"
+      ],
+      "gender": "any",
+      "meaning_or_note": "A companion character from the Henny Penny folk tale."
+    },
+    {
+      "id": "twang",
+      "name": "Twang",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "tweedledee",
+      "name": "Tweedledee",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Tweedledum."
+    },
+    {
+      "id": "tweedledum",
+      "name": "Tweedledum",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "any",
+      "meaning_or_note": "Often paired with Tweedledee."
+    },
+    {
+      "id": "tweet",
+      "name": "Tweet",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "twilight",
+      "name": "Twilight",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "twilight-grey",
+      "name": "Twilight Grey",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "twinkle",
+      "name": "Twinkle",
+      "lists": [
+        "cute"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "unusual-the-unusual",
+      "name": "Unusual the Unusual",
+      "lists": [
+        "famous"
+      ],
+      "gender": "rooster",
+      "meaning_or_note": "Guinness World Records' oldest living rooster title holder name style."
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "vanilla-bean",
+      "name": "Vanilla Bean",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "vantablack",
+      "name": "Vantablack",
+      "lists": [
+        "black"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "velma",
+      "name": "Velma",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "vendetta",
+      "name": "Vendetta",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "vera",
+      "name": "Vera",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "verbena",
+      "name": "Verbena",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "vermilion",
+      "name": "Vermilion",
+      "lists": [
+        "red"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "victor",
+      "name": "Victor",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "violet-dusk",
+      "name": "Violet Dusk",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "violette",
+      "name": "Violette",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "viper",
+      "name": "Viper",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "void",
+      "name": "Void",
+      "lists": [
+        "black"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "vortex",
+      "name": "Vortex",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "waddles",
+      "name": "Waddles",
+      "lists": [
+        "cute"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "waffle-cone",
+      "name": "Waffle Cone",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "waffle-iron",
+      "name": "Waffle Iron",
+      "lists": [
+        "food"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "waffles",
+      "name": "Waffles",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wanda",
+      "name": "Wanda",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "warhawk",
+      "name": "Warhawk",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "warlord",
+      "name": "Warlord",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "warpath",
+      "name": "Warpath",
+      "lists": [
+        "badass"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "wattle-waggoner",
+      "name": "Wattle Waggoner",
+      "lists": [
+        "rooster-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "wattlebottom",
+      "name": "Wattlebottom",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "wee-one",
+      "name": "Wee One",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wheat",
+      "name": "Wheat",
+      "lists": [
+        "country-farm"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wheaten",
+      "name": "Wheaten",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wheatley",
+      "name": "Wheatley",
+      "lists": [
+        "buff"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "whitewash",
+      "name": "Whitewash",
+      "lists": [
+        "white"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "widowmaker",
+      "name": "Widowmaker",
+      "lists": [
+        "badass"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "widows-peak",
+      "name": "Widow's Peak",
+      "lists": [
+        "black"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "wig",
+      "name": "Wig",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wilhelmina",
+      "name": "Wilhelmina",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "willow",
+      "name": "Willow",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "wilma",
+      "name": "Wilma",
+      "lists": [
+        "pairs-trios"
+      ],
+      "gender": "hen",
+      "meaning_or_note": "Often paired with Fred."
+    },
+    {
+      "id": "wing-commander",
+      "name": "Wing Commander",
+      "lists": [
+        "punny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "wing-it",
+      "name": "Wing It",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wing-man",
+      "name": "Wing Man",
+      "lists": [
+        "funny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wing-nut",
+      "name": "Wing Nut",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wingston-churchill",
+      "name": "Wingston Churchill",
+      "lists": [
+        "funny"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "winifred",
+      "name": "Winifred",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "winnie",
+      "name": "Winnie",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "winston",
+      "name": "Winston",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "winter",
+      "name": "Winter",
+      "lists": [
+        "white"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "wisp",
+      "name": "Wisp",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wisteria",
+      "name": "Wisteria",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "wisteria-lane",
+      "name": "Wisteria Lane",
+      "lists": [
+        "lavender"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "wobble",
+      "name": "Wobble",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "wolf-grey",
+      "name": "Wolf Grey",
+      "lists": [
+        "grey-blue"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "woody",
+      "name": "Woody",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "woolly",
+      "name": "Woolly",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yellowbelly",
+      "name": "Yellowbelly",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "lists": [
+        "silkie"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yoda",
+      "name": "Yoda",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yolk",
+      "name": "Yolk",
+      "lists": [
+        "chick-names"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yolk-norris",
+      "name": "Yolk Norris",
+      "lists": [
+        "punny"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yolko-ono",
+      "name": "Yolko Ono",
+      "lists": [
+        "funny"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "yoshi",
+      "name": "Yoshi",
+      "lists": [
+        "disney"
+      ],
+      "gender": "any"
+    },
+    {
+      "id": "yvonne",
+      "name": "Yvonne",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "zazu",
+      "name": "Zazu",
+      "lists": [
+        "disney"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "zelda",
+      "name": "Zelda",
+      "lists": [
+        "old-lady"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    },
+    {
+      "id": "zinnia",
+      "name": "Zinnia",
+      "lists": [
+        "girl-names"
+      ],
+      "gender": "hen"
+    },
+    {
+      "id": "zorro",
+      "name": "Zorro",
+      "lists": [
+        "boy-names"
+      ],
+      "gender": "rooster"
+    }
+  ]
+}
