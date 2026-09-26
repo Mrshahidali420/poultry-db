@@ -1,0 +1,24 @@
+{
+  "id": "fort-worth-tx", "city": "Fort Worth", "state": "TX", "population": 1028117,
+  "allowed": "conditional",
+  "max_hens": 12,
+  "hens_rule_text": "Up to 12 fowl (with no more than 2 roosters) on a lot of half an acre or less; higher caps apply on larger lots (25 on over half an acre to one acre, 50 on over one acre).",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit reported for flocks under roughly 10 birds; larger flocks fall under the tiered lot-size limits above rather than a separate permit.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Coop or pen must be fully enclosed and at least 50 ft from any 'regulated structure', defined broadly to include any other residence, restaurant, church, school, hospital, nursing home, residential treatment facility, daycare, medical or dental facility, hotel, motel or similar lodging.",
+  "coop_rules": "Fowl must be contained in a pen or coop at all times; pens and coops must be cleaned daily.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are in City Code Sec. 11A-22, Keeping pigeons and certain fowl, and apply citywide by lot size rather than by zoning district. Texas HB 1750 (2023), which protects backyard poultry keeping as an agricultural operation, may limit how the rooster cap and setback can be enforced, but Fort Worth's own page still describes a 2-rooster limit.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 11A-22",
+  "sources": [
+    { "name": "City of Fort Worth, Requirements for roosters and fowl", "url": "https://www.fortworthtexas.gov/departments/code-compliance/animals/pet-resources/roosters-and-fowl", "type": "city-website" },
+    { "name": "Fort Worth City Code Sec. 11A-22, Keeping pigeons and certain fowl", "url": "https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-40033", "type": "municipal-code" },
+    { "name": "6AM City, Decode the code: backyard chickens in Fort Worth", "url": "https://6amcity.com/web/tx/fort-worth/city/decode-the-code-backyard-chickens-fort-worth-tx", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The official fortworthtexas.gov page returned a 403 to a direct fetch from this machine (Akamai block) and the amlegal code page has no Wayback copy, so the lot-size tiers, 50 ft setback and 2-rooster cap come from a search-result extract of the official city page plus a local explainer, not a directly opened source. Whether Texas HB 1750 (2023) has altered enforcement of the rooster cap here was not confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

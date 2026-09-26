@@ -1,0 +1,23 @@
+{
+  "id": "tulsa-ok", "city": "Tulsa", "state": "OK", "population": 416209,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "On property not zoned agricultural, up to 6 adult poultry (chickens or turkeys) plus 14 chicks under 8 weeks old, kept in a building at least 50 ft from any adjoining residence.",
+  "roosters_allowed": "unknown",
+  "permit_required": "no",
+  "permit_notes": "No permit requirement found; the ordinance sets a count cap, a building setback and sanitation rules instead of a permit process.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "The poultry building must be no closer than 50 ft to any adjoining residence (non-agricultural zones). On agricultural-zoned lots, pens or buildings must be at least 100 ft from an adjoining property line.",
+  "coop_rules": "Poultry must be kept in a building with easily cleanable floors, kept sanitary with droppings routinely removed, and outside openings screened against flies and vermin.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The 6-adult/14-chick cap and 50 ft setback apply to areas not zoned agricultural. In agricultural-zoned (AG-R) lots, larger flocks are allowed: 10 additional adult hens and 15 additional chicks per half acre over 1 acre, up to a maximum of 45 adult hens and 70 chicks, with a 100 ft property-line setback.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Tulsa Code Title 2, Section 200, Paragraphs C and D",
+  "sources": [
+    { "name": "Tulsa Urban Ag Coalition, Animal Ordinances for City of Tulsa (quotes Title 2, Section 200 C and D verbatim)", "url": "https://www.tulsaurbanag.org/animal-ordiances", "type": "secondary" },
+    { "name": "City of Tulsa Planning, AG-R zoning flier referencing animal-keeping standards", "url": "https://tulsaplanning.org/forms/AG-R-Flier.pdf", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The Tulsa Urban Ag Coalition page quotes the ordinance text of Title 2, Section 200 C and D verbatim with a citation, so the count, setback and sanitation rules are treated as reliable, but this is a secondary (nonprofit) site rather than the official code portal, which could not be reached directly. Roosters and slaughter are not addressed separately in the text found, so both are left unknown.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "yonkers-ny", "city": "Yonkers", "state": "NY", "population": 212603,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "The code bans keeping poultry, fowl or other birds on any premises, with narrow exceptions (live poultry markets, sale at mercantile establishments); backyard hens on an ordinary residential lot are not covered by any exception.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No residential permit exists to keep poultry since the underlying activity is banned outright for ordinary households.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable; the code does not set coop setbacks because keeping poultry is banned rather than regulated by placement.",
+  "coop_rules": "Not applicable on residential lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Sec. 65-23 (Keeping of poultry or other birds), added 7-3-1990 by Local Law No. 6-1990, is in Chapter 65 Animals and Dogs, Part VII Nuisances, Public Welfare and Criminal, of the Code of the City of Yonkers.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 65-23",
+  "sources": [
+    { "name": "Code of the City of Yonkers, NY, Chapter 65 Animals and Dogs (eCode360)", "url": "https://ecode360.com/15089027", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Sec. 65-23 text was read via search-result extracts quoting the code directly (\"No person shall keep... any poultry, fowl or other birds, except as hereinafter provided\"), naming the exceptions as live poultry markets and mercantile sale, neither of which covers ordinary backyard keeping; ecode360.com itself returns a Cloudflare block from this machine so the full chapter text was not opened directly. No 2023 to 2026 amendment was found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

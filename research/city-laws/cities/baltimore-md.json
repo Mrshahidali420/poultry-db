@@ -1,0 +1,24 @@
+{
+  "id": "baltimore-md", "city": "Baltimore", "state": "MD", "population": 569997,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 hens on a lot under 2,000 sq ft, plus 1 more hen per additional 1,000 sq ft, capped at 10 hens, and only with a permit from Baltimore City Animal Control.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A backyard chicken permit (about $80) is required from the Baltimore City Health Department, Bureau of Environmental Health, Office of Animal Control, via an Exotic Pet Application. An inspection of the chickens and coop follows before the permit is mailed. Owners must also register the flock with the Maryland Department of Agriculture, which applies statewide with no small-flock exemption.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "The coop may not be closer than 15 ft from a residence.",
+  "coop_rules": "Minimum 2 sq ft of coop space per hen required by the permit rules; larger space (about 4 sq ft indoor, 8 sq ft outdoor per bird) is recommended for welfare but not required.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are set citywide by the Health Department's Regulations for Wild, Exotic and Hybrid Animals; Baltimore County (a separate jurisdiction) has its own, different backyard-chicken licensing rules under Article 12 of the county code.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Baltimore City Health Department, Title 13 Health Department, Subtitle 03 Animal Provisions",
+  "sources": [
+    { "name": "Bmore Chickens, Baltimore City Chicken Permit & Rules", "url": "http://www.bmorechickens.com/baltimore-city-chicken-permit-rules.html", "type": "secondary" },
+    { "name": "Community Law Center, Chicken Keeping in the City (Baltimore)", "url": "https://communitylaw.org/urbanagriculturelawproject/baltimore/urbanagriculturelawprojectchicken-keeping-in-the-city/", "type": "secondary" },
+    { "name": "Maryland Department of Agriculture, Backyard Flock Registration", "url": "https://mda.maryland.gov/AnimalHealth/pages/poultry-reg-faq.aspx", "type": "city-website" }
+  ],
+  "confidence": "low",
+  "research_notes": "The Baltimore City Health Department's own Title 13 animal provisions page returned a 404 when fetched directly, so the hen cap, permit process and 15 ft setback come from consistent secondary sources (a dedicated Baltimore chicken-keeping site and a legal aid guide) rather than the city code text itself; the state poultry registration requirement is confirmed on the official MDA page.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

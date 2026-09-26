@@ -1,0 +1,24 @@
+{
+  "id": "sacramento-ca", "city": "Sacramento", "state": "CA", "population": 536449,
+  "allowed": "conditional",
+  "max_hens": 3,
+  "hens_rule_text": "Up to 3 hens per residential parcel, with an annual poultry license from the City of Sacramento (Front Street Animal Shelter).",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A poultry license/permit is required: about $30/year plus a $10 annual licensing fee per chicken, from the City of Sacramento Animal Care Front Street Animal Shelter.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop cannot be closer than 20 ft to the nearest neighboring dwelling.",
+  "coop_rules": "Coop must be 15 to 42 sq ft, have four walls and a roof of suitable material, and be kept only in the rear yard; chickens must be confined in the coop at all times, and feces and feathers removed every 24 hours into airtight containers.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules apply citywide under Sacramento City Code Sec. 9.44.860; Sacramento County, a separate jurisdiction, has its own different crowing-fowl and chicken rules that should not be confused with the city ordinance.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sacramento City Code Sec. 9.44.860 (Keeping of chickens, unlawful, restrictions), amended by Ordinance No. 2011-039",
+  "sources": [
+    { "name": "Sacramento City Code Sec. 9.44.860, Keeping of chickens", "url": "https://codelibrary.amlegal.com/codes/sacramentoca/latest/sacramento_ca/0-0-0-21428", "type": "municipal-code" },
+    { "name": "City of Sacramento, Poultry License & Permit Application", "url": "https://www.cityofsacramento.gov/content/dam/portal/cdd/Animal-Care/pdf/Poultry_License_Permit_Application.pdf", "type": "city-website" },
+    { "name": "Fox40, Is it legal to own chickens in Sacramento?", "url": "https://fox40.com/news/local-news/sacramento/is-it-legal-to-own-chickens-in-sacramento/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "amlegal returned a 403 and the city's own poultry permit PDF did not extract readable text from this machine. The 3-hen cap, license fee, no-rooster rule, coop size and 20 ft setback come from search-result extracts that name Sec. 9.44.860 and Ordinance 2011-039 directly, corroborated by recent (2026) local news; the underlying code text itself could not be opened.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

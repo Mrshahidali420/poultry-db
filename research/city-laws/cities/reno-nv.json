@@ -1,0 +1,24 @@
+{
+  "id": "reno-nv", "city": "Reno", "state": "NV", "population": 283621,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Reno allows residents to keep chickens on their own property, but secondary sources disagree on the exact cap (numbers seen range from 6 to 12 hens); no confirmed city code limit found",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "One secondary source claims an annual hen permit is required; the city's own code enforcement contact page and a Washoe County FAQ do not confirm a permit process, only that a coop over 200 sq ft may need a building permit.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Secondary sources give a 20 ft setback from neighboring structures, not confirmed against the primary code text.",
+  "coop_rules": "Chickens must be kept on the owner's own property with a coop for shelter; roughly 3 to 4 sq ft per bird is recommended; a coop over 200 sq ft may require a city building permit; general nuisance rules ban chickens whose noise or odor annoys the neighborhood.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Reno Animal Services and Washoe County Regional Animal Services both say livestock zoning is handled separately from animal control; Reno Code Enforcement (775-334-2099) is the contact for zoning questions inside city limits, distinct from unincorporated Washoe County rules.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Washoe County, Can I have livestock or chickens in the city limits?", "url": "https://www.washoecounty.gov/animal/faq/livestock_zoning.php", "type": "city-website" },
+    { "name": "Washoe County 311 Knowledgebase, Can I Have Livestock/Chickens in the City Limits?", "url": "https://washoecountynv.qscend.com/311/knowledgebase/article/30366", "type": "city-website" },
+    { "name": "CoopCraft Guide, Reno Nevada Chicken Laws", "url": "https://coopcraftguide.com/chicken-laws/nevada/reno/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "The official Washoe County FAQ confirms Reno allows chickens but does not give a specific numeric cap or code section; secondary sites disagree with each other on the hen limit (6 vs 12) and on whether a permit is required, and library.municode.com style access to Reno's own municipal code text was not achieved, so the cap is left unknown rather than guessed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

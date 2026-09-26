@@ -1,0 +1,24 @@
+{
+  "id": "detroit-mi", "city": "Detroit", "state": "MI", "population": 649095,
+  "allowed": "conditional",
+  "max_hens": 8,
+  "hens_rule_text": "Up to 8 chickens and ducks combined per residential lot, with an Animal Husbandry License from Detroit Animal Care and Control. Urban farms and gardens can keep more depending on lot size.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "An Animal Husbandry License from Detroit Animal Care and Control is required, effective February 2025 under the new animal husbandry and beekeeping amendment to Chapter 61 (Zoning). Violations are a misdemeanor with a $100 fine, rising for repeat offenses.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Chickens and ducks must be kept at least 30 ft from neighboring homes and at least 5 ft from the property line.",
+  "coop_rules": "Animal shelters must be enclosed on all sides, ventilated and kept clean; rules also cover feed and compost storage, manure removal, pest control, tagging animals and disposing of deceased animals, and preventing runoff onto adjacent properties.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Applies in single-family, two-family, and medium and high density residential districts citywide, adopted January 31, 2025. Urban gardens and farms have higher caps (up to 12 chickens/ducks) depending on size.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Detroit City Code, Chapter 61 (Zoning), Animal Husbandry and Beekeeping amendment (2025)",
+  "sources": [
+    { "name": "City of Detroit, Amendments to Chapter 61 (Zoning) Related to Animal Husbandry", "url": "https://detroitmi.gov/document/amendments-chapter-61-zoning-detroit-city-code-related-animal-husbandry", "type": "city-website" },
+    { "name": "Planet Detroit, Detroit residents can now apply for backyard chicken licenses", "url": "https://planetdetroit.org/2025/02/detroit-residents-animal-keeping-licenses/", "type": "secondary" },
+    { "name": "BridgeDetroit, Detroit City Council approves backyard birds, bees", "url": "https://www.bridgedetroit.com/detroit-city-council-backyard-farms-ordinance-approved-set-priorities/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Detroit replaced its old flat livestock ban (former Sec. 6-1-5) with a new licensed animal husbandry ordinance effective Jan 31 2025 to Feb 2025; facts come from the city's own ordinance document page and consistent news coverage (BridgeDetroit, Planet Detroit, Fox 2), read as search extracts rather than the full code text.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

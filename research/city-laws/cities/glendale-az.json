@@ -1,0 +1,24 @@
+{
+  "id": "glendale-az", "city": "Glendale", "state": "AZ", "population": 260572,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens allowed in the backyard of a detached single-family home on a lot of half an acre or less, under Arizona state law; the city cannot ban this even though its own older zoning code once limited chicken-keeping to agricultural and suburban-residential zones.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No city permit found; the state law sets the baseline right to keep up to 6 hens.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "State law lets cities require the coop in the rear or side yard at least 20 ft from neighboring homes, with a maximum coop size of 200 sq ft and 8 ft height; Glendale's own application of this was not separately confirmed.",
+  "coop_rules": "Poultry must be contained within a fence, corral or coop; manure, feed and water sanitation rules apply under state law.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Glendale's pre-2024 zoning code allowed chicken-keeping only in A-1, RR-90, RR-45, SR-30, SR-17 and SR-12 zones; Arizona's 2024 state law (A.R.S. 9-462.12, HB 2325) now overrides that and guarantees up to 6 hens on any qualifying single-family lot regardless of zone.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "A.R.S. 9-462.12 (state law); city zoning code chicken provisions predate this",
+  "sources": [
+    { "name": "A.R.S. 9-462.12, Backyard fowl regulation", "url": "https://www.azleg.gov/ars/9/00462-12.htm", "type": "municipal-code" },
+    { "name": "Glendale Star, New law to allow Arizonans to have backyard chickens", "url": "https://www.glendalestar.com/news/new-law-to-allow-arizonans-to-have-backyard-chickens/article_bb80c666-2e5e-11ef-8670-43820e9fb7af.html", "type": "secondary" },
+    { "name": "Cronkite News, Glendale move for backyard chickens", "url": "https://cronkitenews.azpbs.org/2016/10/05/debated-glendale-ordinance-could-allow-residents-to-own/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Applying Arizona's 2024 state preemption law (confirmed high-confidence at the state level) to Glendale; no official Glendale city page updating its own code to match the 2024 state law was found, and the older city zoning-only rule is documented mainly in a 2016 Cronkite News piece. Confidence is medium because the city's own current code text was not read directly.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": "providence-ri", "city": "Providence", "state": "RI", "population": 195310,
+  "allowed": "conditional", "max_hens": 6,
+  "hens_rule_text": "1 hen per 800 sq ft of lot area, capped at 6 hens total per lot.",
+  "roosters_allowed": "no", "permit_required": "unknown",
+  "permit_notes": "Secondary sources say no permit is required, but this was not confirmed on an official Providence city page and could not be verified in the zoning ordinance PDF directly.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop must be at least 20 ft from any dwelling, and the fenced enclosure at least 20 ft from any property line, per secondary summaries of the zoning ordinance's urban-agriculture provisions.",
+  "coop_rules": "Coop must be covered/predator-proof, well ventilated, provide at least 2 sq ft per chicken, and be kept clean, dry and sanitary.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules sit in the Providence Zoning Ordinance (Chapter 2014-39, No. 513) under its urban-agriculture provisions, which define terms like chicken coop; the ordinance has been amended multiple times through 2026 and the current PDF could not be downloaded from this machine to confirm the exact section number.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Providence Rhode Island Chicken Ordinance, BackYard Chickens", "url": "https://www.backyardchickens.com/articles/providence-rhode-island-chicken-ordinance.61893/", "type": "secondary" },
+    { "name": "City of Providence Zoning Ordinance (official PDF listing page)", "url": "https://www.providenceri.gov/planning/zoning/", "type": "city-website" }
+  ],
+  "confidence": "low",
+  "research_notes": "Attempts to download the current official zoning ordinance PDF from providenceri.gov failed (404 on two dated URLs, connection reset on a third), so the 1-hen-per-800-sq-ft rule, 6-hen cap, no-permit claim and 20 ft setback all come from secondary chicken-law aggregator sites rather than a direct read of the ordinance text; the exact code section number could not be confirmed and is left blank.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

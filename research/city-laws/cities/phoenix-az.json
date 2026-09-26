@@ -1,0 +1,23 @@
+{
+  "id": "phoenix-az", "city": "Phoenix", "state": "AZ", "population": 1665481,
+  "allowed": "conditional",
+  "max_hens": 20,
+  "hens_rule_text": "Up to 20 head of poultry allowed on the first half acre of a lot (combined with rodents, no more than 25 total); the enclosure must be at least 80 ft from any residence unless the neighbor gives written permission for it to be closer, and never in the front yard.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No city permit for keeping hens. If the coop is closer than 80 ft to a neighbor's residence, written permission from that occupant and owner is required first.",
+  "setback_ft_from_homes": 80,
+  "setback_notes": "80 ft from any residence in the city, reducible with written neighbor consent. Arizona's 2024 state law (A.R.S. 9-462.12) separately guarantees up to six hens on lots of half an acre or less at single-family homes and caps any city setback at 20 ft with an 8 ft high, 200 sq ft enclosure limit for that guarantee, but Phoenix's own code already allows more (20 birds) than the state floor.",
+  "coop_rules": "Enclosures must be built to keep poultry from wandering onto neighboring property and kept free of offensive smell or odor.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Sec. 8-7 applies citywide, not by zone. No male poultry may be kept unless incapable of making vocal noise that disturbs the peace, which in practice rules out crowing roosters almost everywhere.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 8-7",
+  "sources": [
+    { "name": "Phoenix City Code Sec. 8-7, Poultry and rodents", "url": "https://phoenix.municipal.codes/CC/8-7", "type": "municipal-code" },
+    { "name": "A.R.S. 9-462.12, Backyard fowl regulation", "url": "https://www.azleg.gov/ars/9/00462-12.htm", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full Sec. 8-7 text via an Internet Archive copy of phoenix.municipal.codes (live site is Cloudflare-blocked from this machine); the copy is dated current through Ordinance G-7247 (April 2024). Did not separately confirm whether any 2024-2026 amendment changed the 80 ft figure.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

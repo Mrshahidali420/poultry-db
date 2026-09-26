@@ -1,0 +1,24 @@
+{
+  "id": "madison-wi", "city": "Madison", "state": "WI", "population": 286233,
+  "allowed": "yes",
+  "max_hens": 8,
+  "hens_rule_text": "up to 8 chickens allowed as an accessory use on lots with up to 4 dwelling units; no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A Chicken Owner Registration/License ($10 fee) is required through the city's Building Inspection Division; applicants must first complete the free Wisconsin DATCP Livestock Premises Registration and provide that registration number. The Zoning Administrator can revoke a license after 3 or more ordinance violations in 6 months.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Enclosure must be at least 25 ft from any residential structure on an adjacent lot.",
+  "coop_rules": "Chickens must be kept in a covered enclosure or a fenced enclosure at all times.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rule is citywide under Madison General Ordinances (MGO) Sec. 28.151; the city doubled its hen cap in past years (from 4 to 8) per Wisconsin Public Radio coverage.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "MGO Sec. 28.151",
+  "sources": [
+    { "name": "City of Madison, Chicken License (official page)", "url": "https://www.cityofmadison.com/dpced/bi/obtaining-a-city-of-madison-chicken-license/65/", "type": "city-website" },
+    { "name": "Madison General Ordinances (Municipal Code Corp. library)", "url": "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/50000/1206515/pdf", "type": "municipal-code" },
+    { "name": "Wisconsin Public Radio, Madison doubles its cap on backyard chickens", "url": "https://www.wpr.org/agriculture/madison-common-council-cap-backyard-egg-chickens", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "The city's own Chicken License page and search extracts of the Madison General Ordinances agree on the 8-hen cap, no-rooster rule, 25 ft setback, on-site slaughter ban and the state livestock-premises registration prerequisite; both searches returned matching detail from the same official source.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

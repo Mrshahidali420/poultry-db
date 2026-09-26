@@ -1,0 +1,23 @@
+{
+  "id": "little-rock-ar", "city": "Little Rock", "state": "AR", "population": 206427,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Sources disagree on a fixed hen cap: a 2016 city report described no numeric limit (only coop-space, coop-to-home and neighbor-setback rules), while Animal Services proposed adding a 12-chicken-per-household cap that year; it is unclear whether that cap was ever formally adopted, and other secondary sources describe the current rule as simply requiring the flock size be reasonable for the lot.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "Sources conflict: some describe no permit needed if setback and housing rules are met, others describe a permit requirement; not resolved from available extracts.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "As of a 2016 city report, the coop must be at least 5 ft from the owner's own home and at least 25 ft from the nearest neighboring residence; a proposed 2016 update would also have required at least 100 sq ft of pen space for the first chicken plus 25 sq ft per additional chicken, but adoption of that change is unconfirmed.",
+  "coop_rules": "At least 3 sq ft of coop space per chicken over 4 months old; a 300 ft no-offensive-odor standard was mentioned in one secondary source.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Little Rock is one of the more permissive cities in the state: chickens and fowl are legal citywide rather than restricted to certain zones, per Chapter 6 (Animals) of the municipal code.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-44",
+  "sources": [
+    { "name": "KATV, Changes proposed to ordinance that allows backyard chickens in Little Rock (Feb 2016)", "url": "https://katv.com/news/local/changes-proposed-to-ordinance-that-allows-backyard-chickens-in-little-rock", "type": "secondary" },
+    { "name": "Little Rock, AR Code of Ordinances, Chapter 6 Animals (Municode)", "url": "https://library.municode.com/ar/little_rock/codes/code_of_ordinances?nodeId=COOR_CH6AN", "type": "municipal-code" }
+  ],
+  "confidence": "low",
+  "research_notes": "Read a 2016 local news article directly, which is the clearest primary-adjacent description found (quoting the then-current 5 ft/25 ft/3 sq ft rule and a proposed but unconfirmed 12-bird cap), but it is roughly ten years old and Municode itself is region-blocked from this machine so the current code text was not verified. Secondary sources conflict on whether a numeric cap or a permit currently exists; this record favors the no-fixed-cap description and flags the ambiguity rather than asserting a number that could not be confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

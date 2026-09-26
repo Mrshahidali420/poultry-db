@@ -1,0 +1,21 @@
+{
+  "id": "vancouver-wa", "city": "Vancouver", "state": "WA", "population": 199698,
+  "allowed": "yes", "max_hens": 3,
+  "hens_rule_text": "Up to 3 hens allowed with no minimum lot size, kept confined to the property by a fence or run.",
+  "roosters_allowed": "no", "permit_required": "unknown",
+  "permit_notes": "No source found describing a separate chicken permit; regulation appears to be a straight zoning-code limit rather than a licensing scheme, but an official city permit page was not directly confirmed.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Code text (VMC 20.895.050) requires coops/shelters to sit in the rear yard and meet the same side and rear yard setbacks as the primary residence, with openings facing away from neighboring properties; it does not appear to set a flat foot distance from a neighbor's house, so no reliable number is given here.",
+  "coop_rules": "Coop/shelter must be in the rear yard, meet the same side/rear setbacks as the main house, face away from neighboring properties, and animals must be confined or tethered so they cannot get onto neighboring property or damage neighboring landscaping/fences; must also comply with Ch. 20.935 VMC (Off-Site Impacts).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Turkeys, peacocks and roosters are not permitted anywhere in the city; the rule is in VMC 20.895.050, Domestic Animals and Livestock, part of the general zoning code (Title 20).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Vancouver Municipal Code 20.895.050",
+  "sources": [
+    { "name": "20.895.050 Domestic Animals and Livestock, Vancouver Municipal Code", "url": "https://vancouver.municipal.codes/VMC/20.895.050", "type": "municipal-code" },
+    { "name": "Check It Out: Cooped up in Vancouver, The Columbian", "url": "https://www.columbian.com/news/2025/feb/01/check-it-out-cooped-up-in-vancouver/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "vancouver.municipal.codes returned a Cloudflare challenge page when fetched directly from this machine, so the section was not read verbatim; the 3-hen cap, no-rooster rule and rear-yard/setback language come from consistent search-result extracts of that same code section plus a 2025 local newspaper piece, but the exact setback distance from a neighbor's house could not be confirmed as a specific foot figure.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

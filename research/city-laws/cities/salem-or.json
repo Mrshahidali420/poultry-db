@@ -1,0 +1,23 @@
+{
+  "id": "salem-or", "city": "Salem", "state": "OR", "population": 181779,
+  "allowed": "yes",
+  "max_hens": 12,
+  "hens_rule_text": "Up to 12 poultry total per property (chickens, ducks, guinea fowl, pheasants, pigeons, quail, partridges and doves count together); no permit needed.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit or license required to keep poultry, but the facility must be maintained so it does not create noise or odor that disturbs neighbors.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "The poultry facility (coop and run together) must be at least 25 ft from a residence on an adjacent property.",
+  "coop_rules": "Coop (roofed shelter) capped at 120 sq ft; at least 3 sq ft of coop space and 6 sq ft of run space per bird. Geese, turkeys, emus, ostriches and similarly large birds are not allowed as backyard poultry.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules found on the city's household animals page apply generally; not stated as varying by residential zoning district.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Salem Revised Code 50.710",
+  "sources": [
+    { "name": "City of Salem, Poultry Keeping Rules (Household Animals and Pets)", "url": "https://www.cityofsalem.net/community/household/animals-pets/poultry-keeping-rules", "type": "city-website" },
+    { "name": "BackYard Chickens: Salem Oregon Chicken and Duck Laws", "url": "https://www.backyardchickens.com/articles/salem-oregon-chicken-and-duck-laws.76348/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from a WebSearch extract of the city's own Poultry Keeping Rules page, which cites Salem Revised Code 50.710 by name; the live page returned a 403 to direct fetch, so the full page text was not independently read and slaughter was not addressed in the extract.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

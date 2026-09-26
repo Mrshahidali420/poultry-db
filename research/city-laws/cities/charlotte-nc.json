@@ -1,0 +1,23 @@
+{
+  "id": "charlotte-nc", "city": "Charlotte", "state": "NC", "population": 964784,
+  "allowed": "conditional",
+  "max_hens": 5,
+  "hens_rule_text": "Fowl are capped at roughly 20 per acre, which works out to about 5 chickens on a typical quarter-acre lot; a paid annual permit and property inspection are required regardless of flock size.",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "An annual permit from Charlotte-Mecklenburg Animal Care & Control is required, with a reported $40 fee and a pre-issuance inspection.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop must be at least 25 ft from any property line; no distance specifically from neighboring homes was found.",
+  "coop_rules": "Coop must be fully enclosed, well ventilated, cleaned daily, and provide at least 4 sq ft of floor area per bird; fowl must be confined at all times.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are in Charlotte Municipal Code Sec. 3-102, applying citywide to equine, cloven-hoofed animals and domestic fowl, contingent on a city permit application. Roosters are not explicitly banned but a permit can be denied over expected noise nuisance.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 3-102",
+  "sources": [
+    { "name": "American Farmland Trust, Charlotte North Carolina Urban Livestock Ordinance", "url": "https://farmlandinfo.org/law/charlotte-north-carolina-urban-livestock-ordinance/", "type": "secondary" },
+    { "name": "City of Charlotte permit application (SeamlessDocs)", "url": "https://charlottenc.seamlessdocs.com/f/oleI27", "type": "city-website" }
+  ],
+  "confidence": "low",
+  "research_notes": "The Municipal Code text of Sec. 3-102 was not directly opened (Municode region block, no Wayback copy found); the 20-per-acre density figure, $40 fee and 25 ft setback come from secondary summaries and a farmland-law database citing the 2010 ordinance, not the current code text, so exact current numbers are unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

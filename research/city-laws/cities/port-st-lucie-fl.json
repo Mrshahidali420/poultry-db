@@ -1,0 +1,24 @@
+{
+  "id": "port-st-lucie-fl", "city": "Port St. Lucie", "state": "FL", "population": 268062,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "Chickens are classed as farm animals and are banned within city limits, except in areas zoned agricultural.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit path exists for ordinary residential lots; chickens are simply prohibited outside agricultural zoning.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable on residential lots.",
+  "coop_rules": "Not applicable on residential lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Ordinance Sec. 92.05(3) bans keeping or running at large chickens and other farm animals within city limits except in agricultural districts. Unincorporated St. Lucie County, a separate jurisdiction, runs its own Backyard Chicken Program allowing up to 5 hens; that program does not apply inside Port St. Lucie city limits.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 92.05(3)",
+  "sources": [
+    { "name": "City of Port St. Lucie (official X/Twitter account), backyard chickens not allowed statement citing Code of Ordinances", "url": "https://x.com/CityPortStLucie/status/1768685502956240922", "type": "city-website" },
+    { "name": "Port St. Lucie 1PSL knowledge base, Does the City of Port St. Lucie allow residents to have chickens?", "url": "https://portstluciefl.qscend.com/311/knowledgebase/article/109072", "type": "city-website" },
+    { "name": "St. Lucie County, Backyard Chicken Program FAQ (county program, separate from the city)", "url": "https://www.stlucieco.gov/departments-and-services/planning-and-development-services/code-compliance/backyard-chicken-program/bcp-faq", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "The city's own official account and its 311 knowledge base both state plainly that backyard chickens are not allowed inside city limits, citing Ordinance Sec. 92.05(3); this is distinct from St. Lucie County's own Backyard Chicken Program for unincorporated county land, which several secondary sites conflate with the city.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

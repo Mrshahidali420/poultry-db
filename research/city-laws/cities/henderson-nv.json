@@ -1,0 +1,25 @@
+{
+  "id": "henderson-nv", "city": "Henderson", "state": "NV", "population": 353289,
+  "allowed": "conditional",
+  "max_hens": 7,
+  "hens_rule_text": "Sources commonly cite up to 7 hens on a typical residential lot; some describe a combined 10-bird cap (chickens, hens, ducks, quail) for RS-1 through RS-6 zoned lots. The exact current cap could not be confirmed after an October 2025 ordinance update.",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "Henderson requires a permit to keep backyard chickens. Historically roosters were banned citywide; search extracts describing the pre-2025 rule said roosters and males of fowl over 3 months were prohibited except where the zoning allows it, and a newer description says one rooster per lot is allowed only in the RS-1 and RS-2 rural preservation zones, not downtown or in Green Valley.",
+  "setback_ft_from_homes": 350,
+  "setback_notes": "The older code language required fowl to be kept at least 350 ft from any dwelling owned by another person, unless that neighbor filed written consent with animal control; this large distance is a practical barrier on most standard lots without a signed neighbor consent.",
+  "coop_rules": "Fowl must be confined at all times in a suitable coop, home or enclosed runway.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules differ by zoning district (RS-1 through RS-6 versus rural preservation RS-1/RS-2 versus urban districts like downtown or Green Valley), and roosters are more restricted outside rural zones. The City Council passed a new animal ordinance on 23 October 2025 that raised backyard livestock and chicken allowances and changed rooster rules, but the specific new hen cap and rooster provisions were not confirmed in the sources reviewed.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Henderson City Code Sec. 7.40.050 (Restrictions on keeping fowl), amended by an animal-code ordinance passed 23 October 2025",
+  "sources": [
+    { "name": "City of Henderson, Chicken Information Letter (PDF)", "url": "https://www.cityofhenderson.org/wp-content/uploads/2023/02/Chicken-Information-Letter-size.pdf", "type": "city-website" },
+    { "name": "Henderson City Code, Title 7 Animals", "url": "https://library.municode.com/nv/henderson/codes/code_of_ordinances?nodeId=TIT7AN", "type": "municipal-code" },
+    { "name": "FOX5 Vegas, Henderson City Council approves new protections for livestock (Oct 23, 2025)", "url": "https://www.fox5vegas.com/2025/10/23/henderson-city-council-approves-new-protections-livestock/", "type": "secondary" },
+    { "name": "8NewsNow, Henderson's roosters rejoice after controversial animal code vote", "url": "https://www.8newsnow.com/news/local-news/hendersons-roosters-rejoice-after-controversial-animal-code-vote/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Henderson's animal code was substantially amended on 23 October 2025 (livestock and rooster allowances increased), and the sources found describe both the older 7.40.050 rule (7 hens, 350 ft setback, no roosters citywide) and a newer, zone-dependent rooster allowance without giving the amended code's exact new text. Municode and the city's PDF letter could not be opened directly from this machine, so the numbers here are unverified and should be treated as provisional pending a read of the amended ordinance.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

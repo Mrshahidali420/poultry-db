@@ -1,0 +1,24 @@
+{
+  "id": "pittsburgh-pa", "city": "Pittsburgh", "state": "PA", "population": 307632,
+  "allowed": "conditional",
+  "max_hens": 3,
+  "hens_rule_text": "3 chickens allowed for the first 2,000 sq ft of lot, plus 1 more chicken for each additional 1,000 sq ft; no roosters; a zoning permit is required",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A same-day zoning permit is required, reported at around $70 after the city lowered an earlier $350 fee; one secondary source instead describes a $300 zoning-variance fee, so the current amount is unconfirmed.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Secondary sources describe coops as generally needing to be 15 to 50 ft from neighboring dwellings and 5 to 10 ft from property lines, but the exact code figures were not confirmed from the primary text.",
+  "coop_rules": "Feed must be kept in a rodent-proof container; chickens must be confined to the owner's property and not allowed to roam.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is citywide under Pittsburgh Zoning Code Sec. 912.07.B (Urban Agriculture), adopted as part of a 2016 to 2017 urban agriculture zoning update; a separate ordinance Sec. 635.02 bars letting chickens roam off the owner's property.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 912.07.B",
+  "sources": [
+    { "name": "Fireman Creative, City of Pittsburgh Passes New Urban Agriculture Zoning Code", "url": "https://firemancreative.net/city-of-pittsburgh-passes-new-urban-agriculture-zoning-code/", "type": "secondary" },
+    { "name": "Pittsburgh Pro-Poultry People (P4), Chicken-Keeping FAQ", "url": "http://pittsburghpropoultrypeople.blogspot.com/p/faq.html", "type": "secondary" },
+    { "name": "Pittsburgh Post-Gazette (via PressReader), Backyard chickens given approval", "url": "https://www.pressreader.com/usa/pittsburgh-post-gazette/20161021/282016146861277", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Only secondary sources (a local advocacy blog, a zoning-news blog and archived news coverage) were found describing Zoning Code Sec. 912.07.B; the two searches gave slightly different chicken counts (3 base vs 5 base per 2,000 sq ft) and different permit fees, and the primary zoning code text could not be opened, so figures should be treated as approximate.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

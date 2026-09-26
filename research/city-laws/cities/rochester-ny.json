@@ -1,0 +1,22 @@
+{
+  "id": "rochester-ny", "city": "Rochester", "state": "NY", "population": 206108,
+  "allowed": "conditional",
+  "max_hens": 30,
+  "hens_rule_text": "Keeping chickens or other fowl is banned citywide except under a license issued by the Chief of Police; licensed keepers may keep up to 30 fowl within an open area of 240 sq ft.",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "A license from the Chief of Police (Rochester Police Department) is required to keep any fowl; the code frames chicken-keeping as generally prohibited with a licensing exception, rather than allowed by right.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No live poultry may be kept in a cellar or any part of a dwelling or building used for continuous daily human occupation; a secondary source cites a 25 ft setback from adjacent dwellings, but this was not confirmed in the sections read directly.",
+  "coop_rules": "Each fowl needs at least 4 sq ft of floor space in the coop plus at least 4 sq ft of runway space; coops, runways and premises must be kept clean and sanitary at all times and are subject to inspection.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules sit in Municipal Code Chapter 30 (Animals), Article I: Sec. 30-13 Poultry Raising Prohibited (the general ban with the licensing exception), Sec. 30-15/30-16 Licenses and Fee, and Sec. 30-19 Regulations Relating to Fowl (the space and housing standards).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 30-13, Sec. 30-19",
+  "sources": [
+    { "name": "City of Rochester, NY Code, Chapter 30 Animals, Article I Permitted Animals (via Internet Archive copy of eCode360)", "url": "https://ecode360.com/8674253", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "ecode360.com returns a Cloudflare block from this machine; a July 2023 Internet Archive snapshot of the article's table of contents confirmed the section numbers and titles (Sec. 30-13 Poultry Raising Prohibited, Sec. 30-19 Regulations Relating to Fowl), and search-result extracts quoted the operative text directly, including the license requirement, the 30-fowl/240-sq-ft cap, the 4 sq ft floor plus 4 sq ft runway standard, and the rule that a male fowl must be removed once the Chief of Police gives notice it is a nuisance. The specific full text of Sec. 30-19 and any coop setback distance were not read directly, so those points are lower confidence.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

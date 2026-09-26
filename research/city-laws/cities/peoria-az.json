@@ -1,0 +1,22 @@
+{
+  "id": "peoria-az", "city": "Peoria", "state": "AZ", "population": 200881,
+  "allowed": "yes", "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens at a single-family detached home, guaranteed statewide by Arizona HB 2325 (2024, ARS 9-462.12) for lots of half an acre or less; Peoria's own code (Chapter 16, Animals) defers to this state law for fowl-keeping.",
+  "roosters_allowed": "no", "permit_required": "unknown",
+  "permit_notes": "No source found stating a Peoria-specific fowl permit; state law framework focuses on coop/placement standards rather than a permit, but this was not confirmed on an official Peoria page.",
+  "setback_ft_from_homes": 40,
+  "setback_notes": "Secondary sources describe coop placement at least 20 ft from the property line and 40 ft from a neighboring residence; state law (HB 2325) separately requires at least 20 ft from neighboring dwellings, max 200 sq ft, 8 ft high. Peoria zoning also applies its normal accessory-building setback rules (Secs. 21-410/21-411) to fowl structures.",
+  "coop_rules": "Enclosed coop, maximum 200 sq ft and 8 ft tall per state law, must be cleaned at least twice a week; accessory buildings for fowl otherwise follow the same setback as the principal building or Secs. 21-410/21-411, whichever is greater.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Arizona HB 2325 (2024) bars cities and counties from banning up to 6 hens at a detached single-family home on a lot of half an acre or less; Peoria's Chapter 16 (Animals) and its TA24-02 zoning text amendment (backyard fowl + ADUs) were updated to defer to this state floor, referencing ARS 9-462.10/9-462.12. Local rules on roosters, coop placement and cleanliness still apply.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Peoria City Code Ch. 16 (Animals); Zoning Ordinance Secs. 21-410/21-411; state law ARS 9-462.12 (HB 2325)",
+  "sources": [
+    { "name": "New law to allow Arizonans to have backyard chickens, Peoria Times", "url": "https://www.peoriatimes.com/news/new-law-to-allow-arizonans-to-have-backyard-chickens/article_f9d08e10-2e6d-11ef-8d9b-9fa796132aa5.html", "type": "secondary" },
+    { "name": "Zoning Code Amendment: Accessory Dwelling Units and Backyard Fowl, TA24-02 (staff report)", "url": "https://peoriaaz.novusagenda.com/agendapublic/AttachmentViewer.ashx?AttachmentID=17231&ItemID=7875", "type": "city-website" },
+    { "name": "City of Peoria City Code page", "url": "https://www.peoriaaz.gov/government/city-law/city-code", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Confirmed via the city's own TA24-02 zoning amendment staff report (which quotes Chapter 16 and cites ARS 9-462.10) plus local news coverage of the state law; did not obtain the raw amlegal.com code text (blocked from this machine), so exact coop-setback numbers rely on secondary summaries and could differ slightly from the adopted ordinance text. Permit requirement is unconfirmed either way.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

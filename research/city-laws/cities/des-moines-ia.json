@@ -1,0 +1,24 @@
+{
+  "id": "des-moines-ia", "city": "Des Moines", "state": "IA", "population": 212086,
+  "allowed": "yes",
+  "max_hens": 30,
+  "hens_rule_text": "Fowl are capped at 30 on parcels under 1 acre (25 per acre, plus 50 per additional acre on larger lots) under the current code, provided they do not create a noise disturbance.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No license or permit is required to keep chickens; a building permit is only needed if the coop exceeds 120 sq ft.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Coops, cages, hutches and other fowl enclosures must be at least 25 ft from a neighboring dwelling and may not be placed in a front yard or street-side yard.",
+  "coop_rules": "Enclosures must be cleaned at least every other day (more often if a health officer requires it); coops over 120 sq ft need a building permit.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "As of the most recent search (September 2025) the City Council had proposed cutting the flock cap from 30 to 12 and banning roosters outright, after a July 2024 vote to change the ordinance stalled when it did not pass unanimously (three-reading requirement was not waived); no source found confirms the new ordinance has actually taken effect, so the 30-bird cap and conditional rooster rule below reflect the code as still in force.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 18 (Animals)",
+  "sources": [
+    { "name": "Des Moines, IA Code of Ordinances, Chapter 18 Animals (Municode)", "url": "https://library.municode.com/ia/des_moines/codes/code_of_ordinances?nodeId=MUCO_CH18AN", "type": "municipal-code" },
+    { "name": "City of Des Moines, Resident Guide to Urban Chickens", "url": "https://www.dsm.city/news_detail_T21_R135.php", "type": "city-website" },
+    { "name": "WeAreIowa, Backyard chicken flock owners voicing frustration with Des Moines", "url": "https://www.weareiowa.com/article/news/local/local-politics/des-moines-city-council-new-ordinance-backyard-chicken-flocks-restrictions-birds-roosters-hens/524-91c06a71-4ba8-44e3-bbb4-f7db105e366d", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Rules (30-fowl cap, 25 ft setback, no permit, rooster consent requirement) come from consistent search-result extracts of the city's own resident guide and news coverage; the city's guide page itself returned a 403 on direct fetch and Municode is region-blocked, so the underlying code text was not read directly. A 2024 to 2025 push to cut the cap to 12 and ban roosters outright was reported but no source confirms it passed, so this record uses the last confirmed rule and flags the pending change; this should be re-checked.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

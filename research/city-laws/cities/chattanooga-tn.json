@@ -1,0 +1,24 @@
+{
+  "id": "chattanooga-tn", "city": "Chattanooga", "state": "TN", "population": 194144,
+  "allowed": "conditional",
+  "max_hens": 8,
+  "hens_rule_text": "As of a July 2025 ordinance (7-2 council vote) that lifted a roughly 20-year ban, up to 8 laying hens are allowed on single-family residential lots under 2 acres, kept in a fenced enclosure in the rear yard.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "News coverage of the 2025 ordinance describes housing and care standards rather than a permit system; no separate city permit for keeping hens was found. Before this ordinance, chickens required agricultural zoning or a lot over 5 acres.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Hens must be kept in a fenced enclosure in the rear yard; no specific neighbor-setback distance in feet was found in available coverage. On agriculturally zoned land, barns/buildings housing livestock or fowl must be 150 ft from any property line, but this figure applies to ag-zoned lots, not the new residential hen rule.",
+  "coop_rules": "Predator-proof hen house required; rules cover food storage and waste removal. Older agricultural-zone standard (may still apply there) called for enclosures at least 18 inches high with 10 sq ft of floor area per fowl.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "New rule applies to single-family residential lots and other residential zones under 2 acres; roosters, other fowl, hatching chicks and selling chicken products remain banned in residential zones and are only allowed on agriculturally zoned land.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Chattanooga Times Free Press: Chicken ownership now allowed in Chattanooga (Jul 29, 2025)", "url": "https://www.timesfreepress.com/news/2025/jul/29/chicken-ownership-now-allowed-in-chattanooga/", "type": "secondary" },
+    { "name": "NewsChannel9: Chattanooga city council considers ordinance to allow backyard hens", "url": "https://newschannel9.com/news/local/chattanooga-city-council-considers-ordinance-to-allow-backyard-hens-within-city-limits", "type": "secondary" },
+    { "name": "local3news.com: Chattanooga City Council Approves Backyard Chicken Ordinance", "url": "https://www.local3news.com/local-news/update-chattanooga-city-council-approves-backyard-chicken-ordinance/article_cac71dfa-d9ad-4ba1-b90d-eb1c88cbaf32.html", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "The city's own Municode code text could not be reached (blocked from this machine) and no official chattanoogatn.gov page was found describing the codified rule, so this record relies on local news coverage of the July 2025 ordinance passage. The exact codified section number and residential setback distance were not found; per batch instructions, no Tennessee state law overrides local rules and a 2024 state bill to protect small flocks did not pass.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "philadelphia-pa", "city": "Philadelphia", "state": "PA", "population": 1574281,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "Chickens are classed as a banned farm animal on ordinary residential lots; the code has no residential hen allowance at all.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No residential permit path exists because keeping any chickens on a typical residential lot is itself prohibited.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable; chickens are not a permitted residential use in most of the city.",
+  "coop_rules": "None apply to ordinary residential lots since chickens are not allowed there.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Philadelphia Code Sec. 10-112, Keeping Farm Animals, bans chickens and other farm animals in residential zones (from a 2004 ordinance, Bill No. 040566), with exceptions reported for lots over about 3 acres, industrial districts, schools, zoos and research facilities. Bills to legalize up to six hens per household were introduced in 2019, 2022 and again pushed in 2025, but none had passed as of early 2026.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 10-112",
+  "sources": [
+    { "name": "Philadelphia Code Sec. 10-112, Keeping Farm Animals (via search extract)", "url": "https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-281826", "type": "municipal-code" },
+    { "name": "City of Philadelphia Legistar, Bill No. 040566", "url": "https://phila.legistar.com/LegislationDetail.aspx?ID=1228292", "type": "city-website" },
+    { "name": "WHYY, Philadelphia backyard chicken legalization effort in 2025", "url": "https://whyy.org/articles/backyard-chicken-philadelphia-homes-law/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The amlegal code page has no Wayback copy and the live site is Cloudflare-blocked from this machine, so Sec. 10-112 is known only from search-result extracts of the code and the original 2004 ordinance on Legistar; the 3-acre and district exceptions are reported secondhand and not independently verified against the current code text. Whether any 2025-2026 legalization bill has since passed could not be confirmed beyond early-2026 reporting that it had not.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

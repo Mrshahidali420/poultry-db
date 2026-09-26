@@ -1,0 +1,24 @@
+{
+  "id": "tempe-az", "city": "Tempe", "state": "AZ", "population": 190571,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 domestic chickens per lot at a single-family detached home, counted separately from the small-animal allotment; this matches the Arizona state floor (A.R.S. 9-462.12 / HB 2325) that cities cannot go below.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No coop permit is required for up to 6 chickens; keeping more than 6 requires a Use Permit.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Sources describe a 20 ft coop setback from neighboring properties (property line), consistent with the Arizona state-law floor for coop placement; could not confirm from a direct Tempe.gov page whether this is measured to the property line or to a neighboring dwelling, so setback_ft_from_homes is left null and the 20 ft figure is noted here instead.",
+  "coop_rules": "On lots under 1 acre, the chicken enclosure may be no taller than the fence/wall line on the property; secondary sources describe a roughly 200 sq ft, 8 ft high enclosure kept in the rear or side yard, matching the Arizona state-law defaults.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Applies to single-family detached homes; roosters and peafowl are prohibited in residential zoning districts but allowed in the AG (Agricultural) district. Tempe amended its city code to align with 2024 state law HB 2325.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Tempe City Code Sec. 6-126 (Backyard Chickens)",
+  "sources": [
+    { "name": "City of Tempe, AZ, City Code Violations - Animal Quantities page", "url": "https://www.tempe.gov/government/community-development/code-compliance-open-m-i-n-d/landlords-and-renters/violations/animals-insects/animal-quantities", "type": "city-website" },
+    { "name": "Tempe approves ordinance for domestic chickens, Phoenix/Tempe Independent (yourvalley.net)", "url": "https://www.yourvalley.net/tempe-independent/stories/tempe-approves-ordinance-for-domestic-chickens,554004", "type": "secondary" },
+    { "name": "Arizona HB2325 (56th Leg., 2nd Reg. Session) house bill summary, Arizona State Legislature", "url": "https://www.azleg.gov/legtext/56leg/2R/summary/H.HB2325_022024_HOUSEENGROSSED.DOCX.htm", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from WebSearch extracts that quote Tempe City Code Sec. 6-126 and the city's own code-compliance page, cross-checked against multiple secondary summaries and the state HB 2325 backdrop; the direct Tempe.gov municipal code text was not read verbatim so the exact setback wording (property line vs. neighboring dwelling) is uncertain and left as a note rather than a number. Because AZ state law (A.R.S. 9-462.12) guarantees at least 6 hens on qualifying lots, allowed is reported as yes rather than conditional.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

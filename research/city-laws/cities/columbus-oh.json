@@ -1,0 +1,23 @@
+{
+  "id": "columbus-oh", "city": "Columbus", "state": "OH", "population": 938396,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to about 4 hens allowed on a typical residential lot (limit rises with lot size) with a Columbus Public Health permit; a poultry education course is reported as a permit condition.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A permit from Columbus Public Health is required, reported at a $100 fee valid for 4 years (an older $50 fee is also cited by some sources); completion of a certified poultry education course is reported as a requirement.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop must be at least 20 ft from any neighboring residence and 5 ft from property lines.",
+  "coop_rules": "Coop must be kept clean and in good repair; as of 2026, rodent-proofing with half-inch hardware cloth and an impervious floor (concrete or treated wood) is reported as a new requirement.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rules apply to residential lots citywide, with the hen cap scaling with lot size; slaughter on the property is reported as not permitted.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "BackYard Chickens forum, Columbus Ohio Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/columbus-ohio-chicken-ordinance.61062/", "type": "secondary" },
+    { "name": "CoopCraft Guide, Ohio Backyard Chicken Laws by City", "url": "https://coopcraftguide.com/chicken-laws/ohio/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "No Columbus Public Health page or municipal code section was directly opened; all figures come from secondary sites summarizing the permit program, and they disagree on the fee amount ($50 vs $100), so the permit cost, exact code section and the 2026 rodent-proofing rule are unverified against a primary source.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

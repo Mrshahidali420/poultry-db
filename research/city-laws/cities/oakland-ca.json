@@ -1,0 +1,22 @@
+{
+  "id": "oakland-ca", "city": "Oakland", "state": "CA", "population": 440838,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "No numeric cap on hens found in the code; hens are allowed on ordinary residential lots as long as the enclosure clears the required setback.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No chicken-specific permit found in the code sections located; general animal control rules still apply.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "The exterior boundary of a fowl enclosure must be more than 20 feet from any dwelling, church or school.",
+  "coop_rules": "Enclosure/coop must meet the 20 ft setback from dwellings, churches and schools; keeping fowl in a yard on property occupied by an apartment house or hotel, or in a business district, is prohibited.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule (Sec. 6.04.320, Keeping Fowl) sits in the general animal control chapter, not zoning; it applies citywide except apartment/hotel properties and business districts, where keeping fowl is banned outright.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Oakland Municipal Code Sec. 6.04.320 (Keeping fowl), Title 6 Chapter 6.04",
+  "sources": [
+    { "name": "Oakland Municipal Code, Chapter 6.04 Animal Control Regulations Generally, Sec. 6.04.320 Keeping Fowl", "url": "https://library.municode.com/ca/oakland/codes/code_of_ordinances?nodeId=TIT6AN_CH6.04ANCOREGE_6.04.320KEFO", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked from this machine and the Wayback copy of this node is an Angular app that does not render its text in the archived HTML, so the rules come from WebSearch's quoted extracts of the Municode page (20 ft setback, no cap on hens, rooster ban, no permit, apartment/hotel and business-district ban). Slaughter is not addressed in the sections found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

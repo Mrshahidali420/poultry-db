@@ -1,0 +1,25 @@
+{
+  "id": "worcester-ma", "city": "Worcester", "state": "MA", "population": 213862,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "As of April 2026 the city has no ordinance permitting backyard hens on ordinary residential lots; the City Council voted 9 to 2 to take no action on a proposal to allow them, after city staff said most properties lack the required space and the city lacks capacity to enforce a permit system.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No general residential chicken-keeping permit exists; Worcester's 2019 Urban Agriculture zoning ordinance covers urban farms, community gardens and yard gardens (some requiring special permits) but that ordinance is about growing spaces, not keeping livestock or fowl.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable under the current no-chickens status for ordinary residential lots; some secondary sites describe setback figures (for example 15 ft from neighboring buildings, 5 ft from property lines) as if an ordinance already existed, but the April 2026 council vote indicates no such ordinance is currently in force.",
+  "coop_rules": "Not applicable; no adopted ordinance governs residential coops.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The Planning Board recommended in 2022 and again in 2025 that the Council direct staff to draft a chicken-keeping ordinance with regulatory controls; in April 2026 the Council instead voted to place the City Manager's recommendation against allowing chickens on file, so the zoning code does not currently list residential chicken-keeping as a permitted or special-permit use.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "News coverage of April 2026 Worcester City Council vote on backyard chickens", "url": "https://www.aol.com/articles/chicken-debate-leads-finger-pointing-210543000.html", "type": "secondary" },
+    { "name": "Citizen Portal, Committee asks administration for report on rules for backyard hens", "url": "https://citizenportal.ai/articles/6202234/Massachusetts/Worcester-County/Worcester-City/Committee-asks-administration-for-report-on-rules-for-backyard-hens-holds-zoning-petitions", "type": "secondary" },
+    { "name": "REC Worcester, City of Worcester's Urban Agriculture Ordinance", "url": "https://www.recworcester.org/urban-ag-ordinance", "type": "secondary" },
+    { "name": "City of Worcester, Ordinances and Regulations", "url": "https://www.worcesterma.gov/city-clerk/ordinances-regulations", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Several generic chicken-law aggregator sites describe Worcester as already allowing hens with a permit and specific setbacks, but that appears to be outdated or wrong: recent local news from April 2026 reports the City Council voted 9-2 to take no action on a staff recommendation and did not adopt a chicken-keeping ordinance, citing lack of space on most properties and no enforcement capacity, after the Planning Board had twice (2022, 2025) asked for one to be drafted. This research favored the recent, specific local reporting over the generic aggregator claims per the brief's confidence rules. The exact zoning code section was not identified.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

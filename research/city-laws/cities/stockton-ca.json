@@ -1,0 +1,25 @@
+{
+  "id": "stockton-ca", "city": "Stockton", "state": "CA", "population": 324597,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "up to 4 hens allowed on residential lots of at least 5,000 sq ft under the Urban Agriculture Ordinance; no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No specific permit is needed if the lot-size and setback rules are followed, per news coverage of the ordinance.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coops must be in the rear yard, at least 20 ft from neighboring homes and at least 5 ft from side or rear property lines.",
+  "coop_rules": "Coop must be kept clean, dry and well ventilated; chickens and ducks must be confined when no one is present to respond to them.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule comes from Stockton's Urban Agriculture Ordinance (city council approved it to allow chickens, ducks and bees on qualifying residential lots); minimum lot size of 5,000 sq ft applies.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "ABC10, Stockton allows chickens, ducks and more (Urban Agriculture Ordinance coverage)", "url": "https://www.abc10.com/article/news/local/stockton/allow-us-to-take-control-of-our-health-stockton-allowing-urbanites-to-have-chickens-ducks-and-more/103-36c4211a-a709-4be6-a194-277e57da14c3", "type": "secondary" },
+    { "name": "FOX40, New Stockton ordinance allows homes to raise chickens, ducks and bees", "url": "https://fox40.com/news/local-news/new-stockton-ordinance-allows-homes-to-raise-chickens-ducks-and-bees/", "type": "secondary" },
+    { "name": "City of Stockton Code of Ordinances, Chapter 6.04 Animal Services (eCode360)", "url": "https://ecode360.com/43675277", "type": "municipal-code" },
+    { "name": "City of Stockton Council agenda item, Urban Agriculture proposed ordinance", "url": "https://stockton.granicus.com/MetaViewer.php?view_id=48&clip_id=7188&meta_id=642014", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from local news coverage of the Urban Agriculture Ordinance and a city council agenda item, not a directly read code section; the eCode360 chapter with the exact urban-agriculture section number could not be opened from this machine. Rooster ban is separately confirmed by search-result quotes of the animal code.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

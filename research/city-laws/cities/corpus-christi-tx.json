@@ -1,0 +1,24 @@
+{
+  "id": "corpus-christi-tx", "city": "Corpus Christi", "state": "TX", "population": 317247,
+  "allowed": "yes",
+  "max_hens": 7,
+  "hens_rule_text": "up to 7 urban domestic fowl allowed in residential districts, kept only for egg production, no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit is required to keep chickens under Sec. 6-154, provided the coop, setback and fowl-count conditions are met.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Coop may not be within 25 ft of any dwelling or business building owned, used or maintained by anyone other than the owner or keeper.",
+  "coop_rules": "Coop (hen house) must not exceed 5 ft wide by 5 ft long by 5 ft high, and must be surrounded by a 6 ft high secure fenced enclosure; fowl must stay in the enclosure at all times.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is citywide for residential districts under Chapter 6, Article VI, Sec. 6-154 'Keeping of any livestock or fowl', amended in 2011 to add the urban domestic fowl allowance. No profit may be made from egg sales.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-154",
+  "sources": [
+    { "name": "Corpus Christi Code of Ordinances, Chapter 6 Article VI Sec. 6-154 Keeping of any livestock or fowl (elaws.us mirror)", "url": "http://corpuschristi.elaws.us/code/coor_ch6_artvi_sec6-154", "type": "municipal-code" },
+    { "name": "Corpus Christi Code of Ordinances, Chapter 6 Animal Care and Control (Municode)", "url": "https://library.municode.com/tx/corpus_christi/codes/code_of_ordinances?nodeId=PTIIITHCOOR_CH6ANCACO", "type": "municipal-code" },
+    { "name": "City of Corpus Christi, Animal Permits", "url": "https://www.corpuschristitx.gov/department-directory/animal-care-services/get-help/animal-permits/", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Search-result extracts of an elaws.us mirror of Sec. 6-154 gave the fowl count, coop dimensions, setback and no-rooster/no-profit rules consistently across two independent searches; the exact code text was not opened directly (library.municode.com is region-blocked), so this is a search-extract read, not a full-text read.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

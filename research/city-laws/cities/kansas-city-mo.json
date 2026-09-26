@@ -1,0 +1,35 @@
+{
+  "id": "kansas-city-mo",
+  "city": "Kansas City",
+  "state": "MO",
+  "population": 521220,
+  "allowed": "conditional",
+  "max_hens": 15,
+  "hens_rule_text": "Up to 15 adult chickens are allowed if the pen is at least 100 ft from any building other than the keeper's own dwelling. On smaller lots that can't meet the 100 ft distance, a free Special Exception Permit for Chickens allows up to 15 chickens with written consent from neighbors within that distance.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit or fee is needed if the 100 ft distance from other buildings is met. If not, a Special Exception Permit for Chickens (no fee, renewed after 1 year then every 5 years) requires written permission from owners and occupants of buildings within the minimum distance.",
+  "setback_ft_from_homes": 100,
+  "setback_notes": "General chicken pens must be at least 100 ft from buildings other than the keeper's own dwelling; a crowing rooster must be kept at least 300 ft from any residence other than the owner's, which is impractical on most standard residential lots.",
+  "coop_rules": "Standards cover odor control, manure storage and disposal, and enclosure maintenance, with periodic inspections.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Eggs produced on site may be sold from residential properties. The property maintenance appeals board can grant exceptions to the distance requirement.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Kansas City Code of Ordinances, Chapter 14 (Animals), Sec. 14-12 and 14-14 (permit exceptions), Sec. 14-15",
+  "sources": [
+    {
+      "name": "Kansas City, MO Code of Ordinances, Chapter 14 Animals",
+      "url": "https://library.municode.com/mo/kansas_city/codes/code_of_ordinances?nodeId=PTIICOOR_CH14AN",
+      "type": "municipal-code"
+    },
+    {
+      "name": "Sarah's Guide to Backyard Chicken Regulations in the Kansas City Area",
+      "url": "https://sarahsnodgrass.com/blog/sarahs-guide-to-backyard-chicken-regulations-in-the-kansas-city-area/",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked from this machine; the 100 ft general setback, 15-hen cap, free special exception permit and 300 ft rooster setback come from search-result extracts citing Sec. 14-12 and 14-14 directly, cross-checked with a local KC-area chicken-keeping guide. The full code text could not be opened to confirm exact wording.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

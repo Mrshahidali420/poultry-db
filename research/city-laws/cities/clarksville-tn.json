@@ -1,0 +1,24 @@
+{
+  "id": "clarksville-tn", "city": "Clarksville", "state": "TN", "population": 188829,
+  "allowed": "conditional",
+  "max_hens": 8,
+  "hens_rule_text": "Up to 8 domesticated hens on a residential lot of at least 9,000 sq ft in the E-1, R-1, R-1A, R-2 and R-2A zoning districts, with a permit.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A domesticated hen permit from the Clarksville Building and Codes Department is required before keeping hens; the application references a one-time fee of $50. Other fowl and poultry (ducks, geese, quail, pigeons, turkeys) do not qualify as domesticated hens and are not covered by this permit.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Search extracts of the code describe the coop and enclosure as located in the rear of the property, at least 10 ft from any side property line; no distance from a neighbor's dwelling was found.",
+  "coop_rules": "Hens kept outside any habitable structure in a fenced enclosure with a covered coop inside it. Coop: at least 2 sq ft per hen, maximum 50 sq ft. Enclosure (including the coop): at least 6 sq ft per hen, maximum 400 sq ft total. Must be kept clean; waste removed at least biweekly.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Allowed only in residential zoning districts E-1, R-1, R-1A, R-2 and R-2A on lots of at least 9,000 sq ft. Breeding of permitted hens on the property is prohibited.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 3-109",
+  "sources": [
+    { "name": "Clarksville, TN Code of Ordinances, Title 3 Animals (hosted copy)", "url": "https://montgomerytn.gov/storage/departments/animal-control/Laws%20and%20Ordinances/Clarksville,%20TN%20Code%20of%20Ordinances.pdf", "type": "municipal-code" },
+    { "name": "Title 3, Animals, Clarksville, TN Code of Ordinances (Municode)", "url": "https://library.municode.com/tn/clarksville/codes/code_of_ordinances?nodeId=TIT3AN_CH1ANCO_S3-109KECAHOSHGOSWPOREAR", "type": "municipal-code" },
+    { "name": "Domesticated Hen Application, Clarksville Building & Codes Department", "url": "https://www.clarksvilletn.gov/DocumentCenter/View/3132/Hen-Application", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from WebSearch extracts quoting the Municode section 3-109 text (lot size, hen count, coop and enclosure dimensions, rooster and slaughter bans) and from a search extract of the city's hen permit application referencing a $50 fee; the Municode page and the PDF permit form could not be opened directly (PDF fetch returned binary/blocked), so the exact setback-from-dwelling distance and full permit process were not independently confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

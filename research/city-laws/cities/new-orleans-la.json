@@ -1,0 +1,22 @@
+{
+  "id": "new-orleans-la", "city": "New Orleans", "state": "LA", "population": 362154,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chickens allowed at a home, garden or farm, subject to a permit from the Department of Safety and Permits.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A permit from the city's Department of Safety and Permits is required before keeping chickens; the city's Urban Animal Husbandry FAQ (nola.gov) covers the process, and questions go to urbanag@nola.gov or 504-658-4957.",
+  "setback_ft_from_homes": 10,
+  "setback_notes": "Coops and runs must be set back at least 10 ft from all lot lines and at least 10 ft from any dwelling, and may only be located in the rear yard.",
+  "coop_rules": "Coop and run must be predator-proof, kept in good repair, clean and sanitary, free of vermin and odors, with at least 4 sq ft of space per chicken.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rules apply to residential properties keeping chickens as part of the city's urban agriculture program.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "City of New Orleans, Urban Animal Husbandry FAQ Sheet (Office of Resilience)", "url": "https://nola.gov/nola/media/Resilience/Urban-Animal-Husbandry-FAQ-Sheet.pdf", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The official city FAQ PDF is confirmed to exist and WebSearch quoted several of its lines directly (6-chicken cap, no roosters, slaughter prohibited, 10 ft setbacks, permit requirement), but the PDF itself could not be parsed for full text in the sandbox, and no specific municipal code section number was found in the extracts, so code_section is left blank.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

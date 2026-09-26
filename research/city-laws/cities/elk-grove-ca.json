@@ -1,0 +1,23 @@
+{
+  "id": "elk-grove-ca", "city": "Elk Grove", "state": "CA", "population": 185007,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chickens on a residential lot in any RD (residential) zoning district, kept in a clean coop or cage; up to 12 chickens if a 40 ft buffer from all neighboring property lines is maintained instead.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit found; chicken keeping is an allowed accessory use in residential zoning districts under the zoning code's animal keeping standards.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop or cage must be at least 5 ft from interior side and rear property lines (not stated as distance from a neighbor's dwelling). The 12-chicken option instead requires a 40 ft buffer from any neighboring property line, kept by fence, wall or other barrier.",
+  "coop_rules": "Chickens must be confined within a clean coop or cage unless the larger 40 ft buffer option is used, in which case chickens may roam the buffered area.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule applies to fowl (limited to chickens) kept in traditional residential (RD) zoning districts, as an accessory use to the primary residential use, per Elk Grove Municipal Code Title 23 zoning code Table 23.27-1 footnotes.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "EGMC 23.27 (Table 23.27-1, footnote 3.b)",
+  "sources": [
+    { "name": "Elk Grove Municipal Code, Chapter 23.27 Allowed Uses and Required Entitlements (Wayback copy)", "url": "https://www.codepublishing.com/CA/ElkGrove/html/ElkGrove23/ElkGrove2327.html", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Elk Grove California Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/elk-grove-california-chicken-ordinance.61088/", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the actual footnote 3.b text of EGMC Table 23.27-1 via an Internet Archive Wayback Machine copy of the codepublishing.com page (original code page returned 403 to direct fetch): it states the 6/12 chicken counts, coop setbacks, 40 ft buffer alternative, and the rooster ban in RD zone districts. Slaughter is not addressed in the text found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

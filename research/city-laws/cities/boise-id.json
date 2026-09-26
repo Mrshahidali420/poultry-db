@@ -1,0 +1,24 @@
+{
+  "id": "boise-id", "city": "Boise", "state": "ID", "population": 238429,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens allowed with no permit, kept in a rear-yard coop.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit required to keep hens under the 2021 animal code update.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop must be in the rear yard and at least 10 ft from property lines, screened from view; this is a property-line setback, not a distance from a neighbor's home.",
+  "coop_rules": "Coop kept clean and odor-free; chickens contained on the owner's property.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Title 5, Chapter 1, Boise City Code (Animal Code, updated 2021)",
+  "sources": [
+    { "name": "City of Boise, Boise's Updated Animal Code Now in Effect (2021)", "url": "https://www.cityofboise.org/news/dfa/2021/june/boises-updated-animal-code-now-in-effect/", "type": "city-website" },
+    { "name": "City of Boise, Animal Code Update summary (official PDF)", "url": "https://www.cityofboise.org/media/11472/animal-code-update-2021-002.pdf", "type": "city-website" },
+    { "name": "Boise, ID Code of Ordinances, Title 5 Chapter 1 Animals (American Legal)", "url": "https://codelibrary.amlegal.com/codes/boise_id/latest/boise/0-0-0-5093", "type": "municipal-code" }
+  ],
+  "confidence": "low",
+  "research_notes": "Search-result summaries disagree on the hen cap, one giving 6 and another giving 8; 6 is used here because it is corroborated by more independent sources (a local realtor guide and multiple aggregator sites) discussing the 2021 code update, but the primary code text and the city's own PDFs (confirmed reachable) could not be read directly on this machine to settle the conflict. Roosters banned, no permit and a 10 ft property-line setback are consistent across all sources.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

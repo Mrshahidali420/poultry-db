@@ -1,0 +1,23 @@
+{
+  "id": "san-antonio-tx", "city": "San Antonio", "state": "TX", "population": 1548422,
+  "allowed": "yes",
+  "max_hens": 8,
+  "hens_rule_text": "Up to 8 domestic fowl allowed on a residential lot without a permit; only one rooster is included in that count.",
+  "roosters_allowed": "yes",
+  "permit_required": "no",
+  "permit_notes": "Keeping more than 8 fowl requires an excess animal permit, which adds inspections and stricter setback requirements.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop and run must be at least 20 ft from neighboring residences, as reported by secondary sources summarizing Sec. 5-107.",
+  "coop_rules": "Coop and run must total at least 24 sq ft, or at least 6 sq ft per fowl, whichever is larger; fowl must be confined so as not to create a nuisance, with sanitation to avoid attracting pests.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules fall under City Code Chapter 5, Sec. 5-107, Animal limits; excess animal permit. Texas HB 1750 (2023), which protects backyard poultry keeping as an agricultural operation under Agriculture Code Chapter 251, has been reported to override rooster bans statewide (confirmed directly on Dallas's own city page), so the older one-rooster limit here may no longer be enforceable, though this was not separately confirmed for San Antonio. Texas has no state law limiting city or HOA authority over hen counts generally.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 5-107",
+  "sources": [
+    { "name": "San Antonio Report, New Laws on Chicken Ownership Could Help Reduce Food Insecurity", "url": "https://sanantonioreport.org/new-laws-on-chicken-ownership-could-help-reduce-food-insecurity-in-san-antonio/", "type": "secondary" },
+    { "name": "CoopCraft Guide, San Antonio Texas Chicken Laws", "url": "https://coopcraftguide.com/chicken-laws/texas/san-antonio/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "San Antonio's code is hosted on Municode, which is region-blocked from this machine, and no Wayback copy of the specific Sec. 5-107 page was found; all figures (8 fowl cap, one rooster, 20 ft setback, coop size) come from secondary sites and local news summarizing the code, not the code text itself.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

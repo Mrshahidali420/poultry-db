@@ -1,0 +1,24 @@
+{
+  "id": "portland-or", "city": "Portland", "state": "OR", "population": 635109,
+  "allowed": "yes",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 chickens (or other similarly sized domestic fowl) on any lot, up to 6 on lots of 10,000 sq ft or more, and no cap on lots of 20,000 sq ft or more zoned for agricultural use. Chicks under 12 weeks don't count toward the cap (up to 4 extra).",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit is required to keep backyard chickens; keepers must simply follow the Title 13 code standards for livestock.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "The code sets a structure setback from property lines, not from neighboring homes: livestock structures must be at least 3 ft from side and rear property lines and 10 ft from the front property line.",
+  "coop_rules": "Each fowl over 12 weeks old must have at least 10 sq ft of usable shelter or pen area; the facility must be kept clean, sanitary, and free of vermin, disease and odor, and must not create a noise, odor or nuisance complaint.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters are unlawful except for agricultural purposes on lots that allow agricultural use under Title 33 zoning. Larger or louder fowl (geese, turkeys, peacocks, emus) require a 20,000 sq ft or larger agricultural-use lot.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Portland City Code Title 13, Chapter 13.40, Sec. 13.40.020 and 13.40.040",
+  "sources": [
+    { "name": "Portland City Code 13.40.020 Backyard Livestock", "url": "https://www.portland.gov/code/13/40/020", "type": "municipal-code" },
+    { "name": "Portland City Code Chapter 13.40 Keeping Livestock", "url": "https://www.portland.gov/code/13/40", "type": "municipal-code" },
+    { "name": "Portland.gov, Keeping chickens and small domestic fowl in Portland", "url": "https://www.portland.gov/bps/sustainability/guide-bees-and-livestock/chickens-and-fowl", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read directly from the current Portland City Code sections 13.40.020 and 13.40.040 (amended by Ordinance 192002, effective January 10, 2025), fetched from portland.gov, not a search extract or archive copy.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

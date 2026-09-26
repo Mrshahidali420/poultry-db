@@ -1,0 +1,23 @@
+{
+  "id": "san-bernardino-ca", "city": "San Bernardino", "state": "CA", "population": 222044,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "The city's own Municipal Code Title 6 has a dedicated Chapter 6.05 titled FOWL, indicating chickens are regulated rather than banned, but the specific hen count cap could not be confirmed from available extracts.",
+  "roosters_allowed": "conditional",
+  "permit_required": "unknown",
+  "permit_notes": "No permit requirement was confirmed for the city (a different rule, requiring an accessory-use permit for some counts, applies to unincorporated San Bernardino County, a separate jurisdiction, and should not be read as the city's rule).",
+  "setback_ft_from_homes": 200,
+  "setback_notes": "City Municipal Code Sec. 6.05.040 (Roosters and Peacocks Not Permitted Within 200 Feet of Human Dwelling) bans roosters and peacocks within 200 ft of any human dwelling; this is the only distance figure confirmed for the city chapter.",
+  "coop_rules": "Not confirmed from available extracts.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Do not confuse the incorporated City of San Bernardino's Municipal Code (Title 6, Chapter 6.05 FOWL) with unincorporated San Bernardino County's separate Development Code (Title 8, Chapter 84.04 Animal Keeping); most search results returned the county rule, which does not apply inside city limits.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6.05.040",
+  "sources": [
+    { "name": "San Bernardino, CA Code of Ordinances, Title 6 Animals, Chapter 6.05 Fowl (amlegal)", "url": "https://codelibrary.amlegal.com/codes/sanbernardinoca/latest/sanbernardino_ca/0-0-0-6569", "type": "municipal-code" },
+    { "name": "Sec. 6.05.040 Roosters and Peacocks Not Permitted Within 200 Feet of Human Dwelling (amlegal)", "url": "https://codelibrary.amlegal.com/codes/sanbernardinoca/latest/sanbernardino_ca/0-0-0-6823", "type": "municipal-code" }
+  ],
+  "confidence": "low",
+  "research_notes": "codelibrary.amlegal.com is region-blocked from this machine for the city's own code (sanbernardinoca), and the individual chapter/section pages were not found in the Wayback Machine (only the Title-level table of contents page archived, which confirmed Chapter 6.05 FOWL exists and lists Sec. 6.05.040 by title). Most search-engine results conflate the incorporated city with unincorporated San Bernardino County's separate and more detailed Development Code, which quotes specific hen counts (e.g. 2 to 4 female poultry by lot size) that belong to the county, not the city; those numbers were deliberately excluded here. Max hens, permit requirement, and slaughter rules for the city itself remain unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": "st-paul-mn", "city": "St. Paul", "state": "MN", "population": 306684,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 hens with a Tier One Backyard Chicken Keeping Permit; 7 to 15 hens need a Tier Two permit with a neighbor petition; 16 or more, and any roosters, are never allowed",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A Backyard Chicken Keeping Permit is required under St. Paul Legislative Code Sec. 198. Tier One (1 to 6 hens) costs $26 to start plus a $16 annual renewal and needs written notice to adjacent neighbors; Tier Two (7 to 15 hens) needs a neighbor petition. Animal Control inspects yearly.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop must be at least 5 ft from property lines and at least 20 ft from neighboring residences.",
+  "coop_rules": "Coop over 200 sq ft or with electricity needs a separate building or electrical permit; site plan required with the application.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Citywide permit system under Legislative Code Title XX (Animals), Sec. 198, administered by the Department of Safety and Inspections, Animal Control.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 198",
+  "sources": [
+    { "name": "City of Saint Paul, Backyard Chicken Keeping (official page)", "url": "https://stpaul.gov/departments/safety-inspections/animal-control/animal-licenses-and-permits/backyard-chicken-keeping", "type": "city-website" },
+    { "name": "City of Saint Paul, Backyard Chicken Keeping Permit Application (PDF)", "url": "https://www.stpaul.gov/sites/default/files/2024-04/Application%20Backyard%20Chicken%20Keeping%20Permit%204%202%2024.pdf", "type": "city-website" },
+    { "name": "City of Saint Paul, Keeping of Animals Regulations (PDF)", "url": "https://www.stpaul.gov/sites/default/files/2022-07/Keeping%20of%20Animals%20Regulations%207%2019%2022.pdf", "type": "city-website" },
+    { "name": "St. Paul Legislative Code, Title XX Animals (Municode)", "url": "https://library.municode.com/mn/st._paul/codes/code_of_ordinances?nodeId=PTIILECO_TITXXAN", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Two independent searches returned matching detail from the city's own official Backyard Chicken Keeping page and its permit application and regulations PDFs, describing the same tier system, rooster ban, fees and setbacks consistently.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

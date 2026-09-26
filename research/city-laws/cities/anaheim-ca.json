@@ -1,0 +1,22 @@
+{
+  "id": "anaheim-ca", "city": "Anaheim", "state": "CA", "population": 341008,
+  "allowed": "yes",
+  "max_hens": 4,
+  "hens_rule_text": "Poultry (including hens) capped at 1 bird per 1,800 sq ft of lot area, so a typical 7,200 sq ft lot allows about 4 hens; larger lots allow more.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No chicken-specific permit found; the animal-keeping standard is set directly in the zoning code's supplemental use regulations.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Birds may not be kept, stabled, tethered or confined within 50 ft of any structure used for human habitation other than the owner's, or within 20 ft of any property line, except when kept inside the dwelling.",
+  "coop_rules": "Birds must be tethered or kept in coops, corrals or other confinement satisfactory to the Planning Department.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters and peacocks are not permitted in any residential zone unless the underlying zone specifically allows it (e.g. some agricultural or rural-residential zones).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Anaheim Municipal Code Sec. 18.38.030 (Animal Keeping)",
+  "sources": [
+    { "name": "Anaheim Municipal Code Sec. 18.38.030, Animal Keeping", "url": "https://codelibrary.amlegal.com/codes/anaheim/latest/anaheim_ca/0-0-0-68050", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "amlegal.com is Cloudflare-blocked and a mirror site (elaws.us) timed out from this machine, so the rules come from WebSearch's quoted extract of Sec. 18.38.030, which stated the 1-per-1,800-sq-ft cap, rooster/peacock ban and the 50 ft/20 ft setbacks in what reads as verbatim code language. The typical hen count of 4 assumes a 7,200 sq ft lot; actual count scales with each property's lot area. Slaughter is not addressed in the section found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

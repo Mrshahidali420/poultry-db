@@ -1,0 +1,40 @@
+{
+  "id": "tucson-az",
+  "city": "Tucson",
+  "state": "AZ",
+  "population": 548371,
+  "allowed": "yes",
+  "max_hens": 24,
+  "hens_rule_text": "Backyard chickens are an allowed accessory use on residential lots under the Unified Development Code's food-producing animal rules. Animals are counted in 'animal units' (1 chicken = 1 unit); lots under 16,000 sq ft can keep up to 24 animal units, so up to 24 hens if no other animals are kept, more on larger lots. Arizona state law (A.R.S. 9-462.12) separately guarantees at least 6 hens on any single-family lot of half an acre or less.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit was found for backyard chicken keeping within the animal-unit limits under the 2013 urban agriculture UDC amendment (Sec. 6.6.5E).",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop and shelter setback from a neighbor's house is described as about 20 ft, varying with coop size and lot size; exact figures could not be confirmed in the UDC text itself.",
+  "coop_rules": "Shelters must meet UDC placement and setback standards and be kept clean and sanitary; no male fowl (roosters) are allowed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Chickens are allowed as an accessory use to a permitted residential use, an accessory community garden, or an accessory urban farm under UDC Sec. 6.6.5E. Arizona's A.R.S. 9-462.12 (2024) also bars the city from banning up to 6 hens on a detached single-family lot of half an acre or less, so the state floor applies even if a specific parcel's animal-unit count would allow fewer.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Tucson Unified Development Code, Sec. 6.6.5E (Food-Producing Animals)",
+  "sources": [
+    {
+      "name": "City of Tucson, Urban Agriculture Reference Sheet",
+      "url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/planning-initiatives/urban-agriculture-reference-sheet.pdf",
+      "type": "city-website"
+    },
+    {
+      "name": "Tucson.com, Council approves rules for backyard chickens and gardens",
+      "url": "https://tucson.com/news/local/council-approves-rules-for-backyard-chickens-and-gardens/article_25d05941-f0c8-5b58-9199-dbfc61468619.html",
+      "type": "secondary"
+    },
+    {
+      "name": "A.R.S. 9-462.12 Backyard fowl regulation (state law)",
+      "url": "https://www.azleg.gov/ars/9/00462-12.htm",
+      "type": "city-website"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own Urban Agriculture Reference Sheet PDF did not extract readable text from this machine, so the animal-units system (chicken=1 unit, 24 units on lots under 16,000 sq ft) and no-rooster rule come from search-result summaries of UDC Sec. 6.6.5E plus 2013 Tucson.com news coverage of the ordinance's passage. State law A.R.S. 9-462.12 independently guarantees at least 6 hens on qualifying lots regardless of the local unit count.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

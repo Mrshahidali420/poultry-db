@@ -1,0 +1,24 @@
+{
+  "id": "baton-rouge-la", "city": "Baton Rouge", "state": "LA", "population": 222795,
+  "allowed": "yes",
+  "max_hens": 3,
+  "hens_rule_text": "Up to 3 chickens allowed in a recognized residential subdivision on a lot under 1 acre; larger lots are not capped at 3 under this rule.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit requirement was found in the code text located; the ordinance sets counts, species bans and setbacks rather than a permit process.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Pens, coops, flight cages or other enclosures must sit at least 10 ft from the nearest property line and at least 50 ft from any residence other than the owner's.",
+  "coop_rules": "Birds must be confined to the owner's property at all times and may not create a nuisance; owners are liable for damage the birds cause.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters, geese, guinea fowl, ducks, turkeys and peacocks are banned in recognized residential subdivisions on lots of 2 acres or less. Rule is in Title 14, Chapter 2, Part II (Livestock Raising and Keeping Restricted) of the combined city-parish code.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 14:224",
+  "sources": [
+    { "name": "Code of Ordinances, Baton Rouge, East Baton Rouge Parish, Sec. 14:224 Chickens, other fowls, and birds (elaws.us mirror)", "url": "http://br-la.elaws.us/code/coor_title14_ch2_ptii_sec14:224", "type": "secondary" },
+    { "name": "City of Baton Rouge, Livestock, Chickens and Fowl Regulations page", "url": "https://www.brla.gov/184/Livestock-Chickens-Fowl-Regulations", "type": "city-website" },
+    { "name": "Baton Rouge, East Baton Rouge Parish Code of Ordinances, Title 14 Animals (Municode)", "url": "https://library.municode.com/la/baton_rouge,_east_baton_rouge_parish/codes/code_of_ordinances?nodeId=TIT14AN", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own animal control page only links out to the ordinance rather than stating numbers; the specific figures (3 hens, 10 ft/50 ft setbacks, rooster ban on lots 2 acres or less) come from a search-result quote of Sec. 14:224 plus a third-party code mirror (elaws.us), since library.municode.com is region-blocked from this machine and the elaws copy timed out on direct fetch. Numbers were not independently cross-checked against a second source.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "grand-rapids-mi", "city": "Grand Rapids", "state": "MI", "population": 201183,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Chickens allowed only with a city Backyard Chicken Permit: up to 4 chickens on lots under 5,000 sq ft, up to 6 chickens on lots 5,000 sq ft or larger. The lot must be at least 3,800 sq ft and hold no more than 2 dwelling units.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A non-refundable Backyard Chicken Permit application fee applies. All adjacent neighbors are notified by letter; if even one neighbor objects in writing within 21 days, the city must deny the permit. Renters need written landlord permission. The permit is valid one year and must be renewed annually (city page says an initial permit is valid 3 years with conditional 1-3 year renewals per the ordinance text, but the step-by-step instructions on the same page state a 1-year permit renewed annually; this inconsistency is noted as-is from the source).",
+  "setback_ft_from_homes": null,
+  "setback_notes": "The coop and yard must be at least 10 ft from all property lines, not specifically from a neighbor's dwelling.",
+  "coop_rules": "Chickens must be kept in a coop or a fenced, covered enclosure located only in the rear yard; coop plus enclosure may cover no more than 50% of the rear yard; coop must be under 8 ft tall and no more than 6 sq ft per chicken; only one coop per property is allowed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Backyard chickens were legalized citywide after a 2-year pilot program; rules are administered as a residential building permit (Development Center) rather than a separate animal-control license.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Grand Rapids City Code Sec. 9.219 (coop/setback standards) and Sec. 9.220 (permit/neighbor notification), per secondary-source citation; not independently confirmed against the codified ordinance text",
+  "sources": [
+    { "name": "Backyard Chicken Permit, City of Grand Rapids, Michigan (official permit page, read directly)", "url": "https://www.grandrapidsmi.gov/grow-and-thrive/development-center/permits/residential-building-permits/backyard-chicken-permit/", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "The official City of Grand Rapids permit page was fetched and read in full; it gives detailed, plainly stated requirements (lot size tiers, hen caps, setbacks, rooster ban, neighbor-objection process). The exact code section numbers (9.219/9.220) come from a secondary summary only and were not cross-checked against the codified ordinance itself, and the page's permit-renewal wording is internally inconsistent (1 year vs 3 years) as noted above.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

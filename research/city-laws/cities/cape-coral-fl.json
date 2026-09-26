@@ -1,0 +1,23 @@
+{
+  "id": "cape-coral-fl", "city": "Cape Coral", "state": "FL", "population": 236264,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "Chickens and other poultry are not permitted within the city, including on ordinary residential lots.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit path exists for keeping chickens; the code sets the count at zero.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable given the ban; older secondary sources describe a historical 25 ft setback from neighboring dwellings for coops, but this is disputed and does not reflect the current no-chickens rule.",
+  "coop_rules": "Not applicable on residential lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "There has been public controversy over interpretation and a petition to allow educational (4-H) backyard chickens, but the city's position as found is that poultry is banned.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 4-31 (as cited in secondary sources)",
+  "sources": [
+    { "name": "Change.org petition, Backyard Chickens for education in Cape Coral Florida (describes the city's ban and cites the ordinance)", "url": "https://www.change.org/p/robert-peters-backyard-chickens-in-cape-coral-florida", "type": "secondary" },
+    { "name": "BackYardChickens.com, Cape Coral Florida Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/cape-coral-florida-chicken-ordinance.61443/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "No official Cape Coral city page or code page could be reached to confirm the ban directly; the conclusion rests on secondary aggregator sites and a citizen petition that both describe a total ban on chickens (citing Sec. 4-31), with older, possibly outdated claims of a 25 ft setback rule that other sources say no longer applies. Confidence is low until the city's own code or website is read directly.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

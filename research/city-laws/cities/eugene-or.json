@@ -1,0 +1,23 @@
+{
+  "id": "eugene-or", "city": "Eugene", "state": "OR", "population": 178618,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chickens and/or domestic fowl over 6 months old (plus up to 6 more under 6 months old) per property; no permit needed.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No special permit required to keep chickens or domestic fowl; owners must follow sanitation and setback standards in the code.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops should be placed at least 10 ft from property lines; not stated as distance from a neighbor's dwelling specifically.",
+  "coop_rules": "Standards cover sanitation and coop placement under the urban animal keeping rules; specific coop size limits were not found in the sources checked.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters, geese, peacocks and turkeys are prohibited. Domestic fowl (quail, pheasants, ducks, pigeons, doves) are allowed under the same standards as chickens.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Eugene Code 9.5250",
+  "sources": [
+    { "name": "Eugene Code 9.5250, Urban Animal Keeping Standards (municipal.codes)", "url": "https://eugene.municipal.codes/EC/9.5250", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Eugene Oregon Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/eugene-oregon-chicken-ordinance.61399/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from a WebSearch extract that names and quotes Eugene Code 9.5250 (flock limits by age, rooster/goose/peacock/turkey ban, 10 ft coop setback, no permit); the municipal.codes page itself returned a 403 to direct fetch, so the full section text was not independently read and slaughter is unaddressed in the extract.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

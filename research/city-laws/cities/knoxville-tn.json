@@ -1,0 +1,23 @@
+{
+  "id": "knoxville-tn", "city": "Knoxville", "state": "TN", "population": 202021,
+  "allowed": "conditional",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 hens are allowed per single-family dwelling with a City of Knoxville Urban Livestock Permit (one secondary source says 6, but the official permit application document states 5).",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A permit from the Knoxville-Knox County animal services unit (administered with Young-Williams Animal Center) is required before keeping hens; a fee is charged. Permitted fowl are limited to single-family dwellings in R-1, R-2 or R-3 zoning districts.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "The henhouse and fenced enclosure must be at least 10 ft from any abutting property line; the code text found does not give a separate distance specifically measured to a neighbor's dwelling.",
+  "coop_rules": "No henhouse or enclosure is allowed in a front yard; must be at least 10 ft from abutting property lines; feed must be kept indoors or in a weather/rodent-resistant container and uneaten food removed daily.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Only single-family dwellings in R-1, R-2 or R-3 zones are eligible for the permit; Tennessee has no statewide chicken law preempting city rules (a 2024 state bill on the subject died in summer study).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "City of Knoxville Code of Ordinances, Animal Control chapter (exact section number not confirmed; permit governed via animal services rules)",
+  "sources": [
+    { "name": "Application for Permit to Keep Domesticated Hens, City of Knoxville / Young-Williams Animal Center", "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_109478/File/Boards/animals/domesticatedhens.pdf", "type": "city-website" },
+    { "name": "Animal Control Permits, City of Knoxville", "url": "https://www.knoxvilletn.gov/government/boards_commissions/animal_control_board/animal_control_permits", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts are drawn from search-engine text extracts of the official City of Knoxville hen-permit PDF and the city's animal control permits page, not from a direct read of the full PDF, since it could not be fetched as plain text in this session. The hen-count cap is inconsistent across secondary sources (5 vs 6); the number quoted directly from the official application document (5) was preferred.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

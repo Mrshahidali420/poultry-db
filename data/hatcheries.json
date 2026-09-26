@@ -1,0 +1,728 @@
+[
+  {
+    "id": "meyer-hatchery",
+    "name": "Meyer Hatchery",
+    "state": "OH",
+    "city": null,
+    "website": "https://meyerhatchery.com/",
+    "founded_year": 1985,
+    "npip_certified": "yes",
+    "min_order": "3 chicks April-November, 8 chicks December-March",
+    "ships_to": "all 50 states",
+    "shipping_season": "year-round, seasonal minimums apply",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "started pullets",
+      "ducks",
+      "turkeys",
+      "quail",
+      "guineas"
+    ],
+    "breed_count": 160,
+    "notable_breeds": [],
+    "vaccination_offered": "yes",
+    "sexing_guarantee": "sexed and straight-run options offered, guarantee terms on site",
+    "sources": [
+      {
+        "name": "Meyer Hatchery",
+        "url": "https://meyerhatchery.com/"
+      },
+      {
+        "name": "Meyer Hatchery NPIP info",
+        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360024553431-The-National-Poultry-Improvement-Plan-NPIP"
+      },
+      {
+        "name": "Meyer Hatchery ordering policy",
+        "url": "https://blog.meyerhatchery.com/ordering-from-meyer-hatchery-5/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "cackle-hatchery",
+    "name": "Cackle Hatchery",
+    "state": "MO",
+    "city": "Lebanon",
+    "website": "https://www.cacklehatchery.com/",
+    "founded_year": 1936,
+    "npip_certified": "yes",
+    "min_order": "15 birds for free shipping",
+    "ships_to": "all 50 states",
+    "shipping_season": "year-round",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "started pullets",
+      "ducks",
+      "turkeys",
+      "quail",
+      "guineas"
+    ],
+    "breed_count": 190,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Cackle Hatchery",
+        "url": "https://www.cacklehatchery.com/"
+      },
+      {
+        "name": "Cackle Hatchery History",
+        "url": "https://www.cacklehatchery.com/history/"
+      },
+      {
+        "name": "Cackle Hatchery Guarantees & Policies",
+        "url": "https://www.cacklehatchery.com/guarantees-policies/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "murray-mcmurray-hatchery",
+    "name": "Murray McMurray Hatchery",
+    "state": "IA",
+    "city": "Webster City",
+    "website": "https://www.mcmurrayhatchery.com/",
+    "founded_year": 1917,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal, primarily spring",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 200,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Murray McMurray Hatchery History",
+        "url": "https://www.mcmurrayhatchery.com/history.html"
+      },
+      {
+        "name": "Messenger News: 100 years of poultry",
+        "url": "https://www.messengernews.net/news/local-business/2017/09/100-years-of-poultry/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "my-pet-chicken",
+    "name": "My Pet Chicken",
+    "state": "OH",
+    "city": null,
+    "website": "https://www.mypetchicken.com/",
+    "founded_year": 2005,
+    "npip_certified": "yes (via partner hatcheries)",
+    "min_order": "3 chicks April-November, 8 chicks December-March; 6 eggs per farm for hatching eggs",
+    "ships_to": "all 50 states",
+    "shipping_season": "year-round, seasonal minimums apply",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "started pullets",
+      "ducks",
+      "turkeys",
+      "quail",
+      "guineas"
+    ],
+    "breed_count": 100,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "My Pet Chicken shipping policy",
+        "url": "https://www.mypetchicken.com/policies/shipping-policy"
+      },
+      {
+        "name": "My Pet Chicken baby chick info",
+        "url": "https://www.mypetchicken.com/pages/baby-chick-information"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "hoovers-hatchery",
+    "name": "Hoover's Hatchery",
+    "state": "IA",
+    "city": "Rudd",
+    "website": "https://hoovershatchery.com/",
+    "founded_year": 1944,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal, primarily spring and fall",
+    "sells": [
+      "chicks",
+      "started pullets",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 100,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Hoover's Hatchery About Us",
+        "url": "https://hoovershatchery.com/about-hoovers-hatchery"
+      },
+      {
+        "name": "Hoover's Hatchery Policies",
+        "url": "https://hoovershatchery.com/hoovers-hatchery-policies"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "ideal-poultry",
+    "name": "Ideal Poultry Breeding Farms",
+    "state": "TX",
+    "city": "Cameron",
+    "website": "https://www.idealpoultry.com/",
+    "founded_year": 1937,
+    "npip_certified": "yes",
+    "min_order": "$30 minimum order value, no fixed bird count minimum",
+    "ships_to": "all 50 states",
+    "shipping_season": "year-round, hatches 52 weeks a year",
+    "sells": [
+      "chicks",
+      "ducks",
+      "turkeys",
+      "guineas",
+      "quail"
+    ],
+    "breed_count": 100,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Ideal Poultry",
+        "url": "https://www.idealpoultry.com/shipping"
+      },
+      {
+        "name": "Ideal Poultry History",
+        "url": "https://www.idealpoultryinsights.com/history-of-ideal-poultry"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "strombergs-chickens",
+    "name": "Stromberg's Chicks and Game Birds",
+    "state": "MN",
+    "city": "Hackensack / Pine River",
+    "website": "https://www.strombergschickens.com/",
+    "founded_year": 1921,
+    "npip_certified": "unknown",
+    "min_order": null,
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "ducks",
+      "turkeys",
+      "quail",
+      "guineas"
+    ],
+    "breed_count": 200,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Stromberg's Chickens",
+        "url": "https://www.strombergschickens.com/"
+      },
+      {
+        "name": "Mergr company profile",
+        "url": "https://mergr.com/stromberg-s-chicks-and-game-birds-overview"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "welp-hatchery",
+    "name": "Welp Hatchery",
+    "state": "IA",
+    "city": "Bancroft",
+    "website": "https://welphatchery.com/",
+    "founded_year": 1929,
+    "npip_certified": "yes",
+    "min_order": "25 chicks for free shipping (lower paid-shipping minimums also offered)",
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal, primarily spring",
+    "sells": [
+      "chicks",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 100,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Welp Hatchery",
+        "url": "https://welphatchery.com/"
+      },
+      {
+        "name": "Welp Hatchery FAQs",
+        "url": "https://www.welphatchery.com/faqs"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "freedom-ranger-hatchery",
+    "name": "Freedom Ranger Hatchery",
+    "state": "PA",
+    "city": "Reinholds / Lancaster County",
+    "website": "https://www.freedomrangerhatchery.com/",
+    "founded_year": 2007,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal, primarily spring through fall",
+    "sells": [
+      "chicks",
+      "started pullets"
+    ],
+    "breed_count": 15,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "straight-run broilers primarily; sexed layers offered separately",
+    "sources": [
+      {
+        "name": "Freedom Ranger Hatcheries",
+        "url": "https://www.freedomrangerhatchery.com/"
+      },
+      {
+        "name": "Freedom Ranger Hatcheries story",
+        "url": "https://www.freedomrangerhatchery.com/hatcheries/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "purely-poultry",
+    "name": "Purely Poultry",
+    "state": "WI",
+    "city": "Fremont / Durand",
+    "website": "https://purelypoultry.com/",
+    "founded_year": 2007,
+    "npip_certified": "yes (via NPIP-certified breeder network)",
+    "min_order": "as few as 3 chicks",
+    "ships_to": "all 50 states",
+    "shipping_season": "year-round, seasonal minimums may apply",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "ducks",
+      "turkeys",
+      "quail",
+      "guineas"
+    ],
+    "breed_count": 300,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Purely Poultry",
+        "url": "https://purelypoultry.com/"
+      },
+      {
+        "name": "Purely Poultry FAQ",
+        "url": "https://purelypoultry.com/faq/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "chickens-for-backyards",
+    "name": "Chickens for Backyards",
+    "state": "MO",
+    "city": null,
+    "website": "https://www.chickensforbackyards.com/",
+    "founded_year": null,
+    "npip_certified": "yes (via partner hatchery network)",
+    "min_order": "as few as 3 birds",
+    "ships_to": "all 50 states",
+    "shipping_season": "February through October",
+    "sells": [
+      "chicks",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 100,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Chickens for Backyards",
+        "url": "http://go.chickensforbackyards.com/home.html"
+      },
+      {
+        "name": "The Featherbrain hatchery comparison",
+        "url": "https://www.thefeatherbrain.com/blog/chicken-hatchery-comparison"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "townline-hatchery",
+    "name": "Townline Poultry Farm (Townline Hatchery)",
+    "state": "MI",
+    "city": "Zeeland",
+    "website": "https://townlinehatchery.com/",
+    "founded_year": 1913,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "started pullets",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 60,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Townline Poultry Farm",
+        "url": "https://townlinehatchery.com/"
+      },
+      {
+        "name": "Townline About page",
+        "url": "https://townlinehatchery.com/about-townline/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "moyers-chicks",
+    "name": "Moyer's Chicks",
+    "state": "PA",
+    "city": "Quakertown",
+    "website": "https://www.moyerschicks.com/",
+    "founded_year": 1946,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "contiguous US",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "started pullets",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 40,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Hoover's Hatchery: about Moyer's Chicks",
+        "url": "https://hoovershatchery.com/about-moyers-chicks"
+      },
+      {
+        "name": "PennAg member profile",
+        "url": "https://pennag.com/member_company/moyers-hatchery/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "dunlap-hatchery",
+    "name": "Dunlap Hatchery",
+    "state": "ID",
+    "city": "Caldwell",
+    "website": "https://www.dunlaphatcherypoultry.com/",
+    "founded_year": 1918,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "unknown, primarily regional pickup and shipping",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "hatching eggs",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 50,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Dunlap Hatchery",
+        "url": "https://www.dunlaphatcherypoultry.com/"
+      },
+      {
+        "name": "Idaho Business Review: Dunlap Hatchery at 106 years",
+        "url": "https://idahobusinessreview.com/2024/05/09/dunlap-hatchery-still-good-place-to-pick-up-chicks-after-106-years/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "privett-hatchery",
+    "name": "Privett Hatchery",
+    "state": "NM",
+    "city": "Portales",
+    "website": "http://www.privetthatchery.com/",
+    "founded_year": 1960,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "turkeys",
+      "guineas",
+      "quail"
+    ],
+    "breed_count": 60,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Privett Hatchery BBB profile",
+        "url": "https://www.bbb.org/us/nm/portales/profile/poultry-farm/privett-hatchery-inc-0806-48017"
+      },
+      {
+        "name": "Hoover's Hatchery: Privett Rare Breeds",
+        "url": "https://hoovershatchery.com/privett-rare-breeds-2"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "mt-healthy-hatcheries",
+    "name": "Mt. Healthy Hatcheries",
+    "state": "OH",
+    "city": "Cincinnati",
+    "website": "https://www.mthealthy.com/",
+    "founded_year": 1924,
+    "npip_certified": "yes",
+    "min_order": "5 chicks (approx., tied to $65 shipping band for 5-15 chicks)",
+    "ships_to": "all 50 states",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "turkeys",
+      "guineas",
+      "game birds"
+    ],
+    "breed_count": 40,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Mt. Healthy Hatcheries",
+        "url": "https://www.mthealthy.com/"
+      },
+      {
+        "name": "Mt. Healthy Hatcheries BBB profile",
+        "url": "https://www.bbb.org/us/oh/cincinnati/profile/hatchery/mt-healthy-hatcheries-inc-0292-1170704"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "tractor-supply-chick-days",
+    "name": "Tractor Supply Co. (Chick Days)",
+    "state": "TN",
+    "city": "Brentwood",
+    "website": "https://www.tractorsupply.com/tsc/cms/chick-days",
+    "founded_year": null,
+    "npip_certified": "yes (via hatchery suppliers)",
+    "min_order": "varies by store, in-store purchase only, no shipping minimum",
+    "ships_to": "in-store pickup only, not a mail-order hatchery",
+    "shipping_season": "late winter through spring, store-dependent",
+    "sells": [
+      "chicks",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": null,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "generally straight-run in-store; policies vary by store",
+    "sources": [
+      {
+        "name": "Tractor Supply Chick Days",
+        "url": "https://www.tractorsupply.com/tsc/cms/chick-days"
+      },
+      {
+        "name": "Tractor Supply newsroom",
+        "url": "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Announces-a-Flock-of-Animal-Friendly-Festivities-Launching-This-Month/default.aspx"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "rural-king-chick-days",
+    "name": "Rural King (Chick Days)",
+    "state": "IN",
+    "city": "Mattoon",
+    "website": "https://www.ruralking.com/chick-days",
+    "founded_year": null,
+    "npip_certified": "unknown",
+    "min_order": "varies by store, in-store purchase only",
+    "ships_to": "in-store pickup only, not a mail-order hatchery",
+    "shipping_season": "spring and late summer, store-dependent",
+    "sells": [
+      "chicks"
+    ],
+    "breed_count": null,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "policies vary by store",
+    "sources": [
+      {
+        "name": "Rural King Chick Days",
+        "url": "https://www.ruralking.com/chick-days"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "atwoods-chick-days",
+    "name": "Atwoods Ranch & Home (Chick Days)",
+    "state": "OK",
+    "city": "Ardmore",
+    "website": "https://www.atwoods.com/seasonal/chick-days/",
+    "founded_year": null,
+    "npip_certified": "unknown",
+    "min_order": "sold in small packs (e.g. 6-pack) in-store",
+    "ships_to": "in-store pickup only, not a mail-order hatchery; stores in OK, TX, KS, MO, AR",
+    "shipping_season": "spring, store-dependent",
+    "sells": [
+      "chicks"
+    ],
+    "breed_count": null,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "policies vary by store",
+    "sources": [
+      {
+        "name": "Atwoods Chick Days",
+        "url": "https://www.atwoods.com/seasonal/chick-days/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "belt-hatchery",
+    "name": "Belt Hatchery",
+    "state": "CA",
+    "city": "Fresno",
+    "website": "https://www.belthatchery.com/",
+    "founded_year": null,
+    "npip_certified": "yes",
+    "min_order": "25 chicks for delivery safety",
+    "ships_to": "primarily western US",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "ducks",
+      "turkeys",
+      "guineas",
+      "game birds"
+    ],
+    "breed_count": 22,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "sexed and straight-run options offered",
+    "sources": [
+      {
+        "name": "Belt Hatchery",
+        "url": "https://www.belthatchery.com/"
+      },
+      {
+        "name": "Belt Hatchery FAQ",
+        "url": "https://www.belthatchery.com/faq.htm"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  },
+  {
+    "id": "eagle-nest-poultry",
+    "name": "Eagle Nest Poultry",
+    "state": "OH",
+    "city": "Bucyrus",
+    "website": "https://eaglenestpoultryohio.com/",
+    "founded_year": null,
+    "npip_certified": "yes",
+    "min_order": null,
+    "ships_to": "unknown, regional Ohio focus with some mail order",
+    "shipping_season": "seasonal",
+    "sells": [
+      "chicks",
+      "started pullets",
+      "ducks",
+      "turkeys",
+      "guineas"
+    ],
+    "breed_count": 30,
+    "notable_breeds": [],
+    "vaccination_offered": "unknown",
+    "sexing_guarantee": "unknown",
+    "sources": [
+      {
+        "name": "Eagle Nest Poultry",
+        "url": "https://eaglenestpoultryohio.com/"
+      },
+      {
+        "name": "Ohio Ag Net: Eagle Nest Hatchery finds new wings",
+        "url": "https://ocj.com/2026/04/eagle-nest-hatchery-finds-new-wings/"
+      }
+    ],
+    "last_checked": "2026-09-26",
+    "needs_review": true
+  }
+]

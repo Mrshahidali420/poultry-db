@@ -1,0 +1,23 @@
+{
+  "id": "boston-ma", "city": "Boston", "state": "MA", "population": 672973,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 adult hens per lot, plus up to 6 non-egg-laying replacement chicks or pullets, but only with a Use of Premises live fowl permit from Inspectional Services and Zoning Board of Appeals approval.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A Use of Premises permit from Boston Inspectional Services is required under Article 89 of the Boston Zoning Code, including a plot plan, an inspection, and review by the Zoning Board of Appeals where abutters can comment.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Coops and runs must be at least 25 ft from neighboring dwellings.",
+  "coop_rules": "Coop must be in the rear yard, fully enclosed, kept sanitary, no taller than 8 ft, and meet the setback from neighboring homes.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Urban agriculture, including chicken keeping, is governed by Article 89 of the Boston Zoning Code, applied citywide but with abutter comment as part of the permit process.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Boston Zoning Code, Article 89 (Urban Agriculture)",
+  "sources": [
+    { "name": "Boston.gov, Live Fowl Permit Information", "url": "https://content.boston.gov/departments/inspectional-services/live-fowl-permit-information", "type": "city-website" },
+    { "name": "Boston.gov, Inspectional Services", "url": "https://www.boston.gov/departments/inspectional-services", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The permit process, hen cap and rooster ban come from Boston's own Live Fowl Permit Information page (official city source, read via search extract); the 25 ft setback and 8 ft coop height are from secondary chicken-law summaries that align with the city page but could not be independently confirmed in the Article 89 text itself.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

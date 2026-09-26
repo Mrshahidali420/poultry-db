@@ -1,0 +1,23 @@
+{
+  "id": "buffalo-ny", "city": "Buffalo", "state": "NY", "population": 274613,
+  "allowed": "conditional",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 chicken hens per single-family or multifamily dwelling, kept in the rear or backyard, with a city license.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A license from the city is required to keep chicken hens; the fee is $25 per hen, up to a maximum of $125 for 5 hens.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop or cage must be at least 20 ft from any door or window of a dwelling, school or church other than the keeper's own home; also at least 5 ft from a side lot line and 18 inches (5 ft in some cases) from a rear lot line, and not in the front or side street yard.",
+  "coop_rules": "Total coop or cage area on a lot may not exceed 32 sq ft for up to 5 hens; must meet the code's design, location and sanitation standards.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Multifamily properties such as duplexes need written consent from the owner and agreement of all tenants before keeping hens.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 341, Sec. 341-11.1 to 341-11.4",
+  "sources": [
+    { "name": "City of Buffalo, NY, Code of Ordinances, Chapter 341 Property Maintenance", "url": "https://ecode360.com/11767344", "type": "municipal-code" },
+    { "name": "Buffalo's Food System, policy brief citing the 2009 chicken-keeping amendment", "url": "https://foodsystemsplanning.ap.buffalo.edu/wp-content/uploads/sites/68/2017/06/HKHCpolicybrieflocalBuffalo_FINAL2_27_2012_4.pdf", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from a search-result extract of the eCode360 copy of Chapter 341 Sec. 341-11.1 to 341-11.4; the full ecode360 page could not be opened directly from this machine (Cloudflare block). Chickens kept as pets and personal use only, no sale of eggs or meat, no breeding for commercial purposes. No 2023 to 2026 amendment found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "huntington-beach-ca", "city": "Huntington Beach", "state": "CA", "population": 191451,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 total domestic fowl (chickens, geese, ducks, turkeys, etc. combined) per property, with a residential animal permit required for any chickens.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "Huntington Beach Municipal Code requires a residential animal permit, reviewed and approved by the Director of Planning and Building, for keeping any chickens (also required for a goose, rabbit, pot-bellied pig, turkey, duck, or a fourth dog).",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Fowl may not be kept within 25 feet of any dwelling, church, school, hospital, or food establishment, unless that dwelling is occupied by the fowl owner; this effectively sets a 25 ft setback from neighboring dwellings.",
+  "coop_rules": "No specific coop size/material standard found; general nuisance and at-large provisions apply (fowl may not run or fly at large onto neighboring property).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules found are citywide animal-control provisions (Municipal Code Title 7), not zoning-district specific; no residential-zone restriction beyond the count and setback limits was found.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Huntington Beach Municipal Code, Title 7, Chapter 7.12 (Secs. 7.12.110 and 7.12.120, plus a residential animal permit provision)",
+  "sources": [
+    { "name": "Chapter 7.12: Miscellaneous Animal Care and Control, City of Huntington Beach Municipal Code (eCode360 index page)", "url": "https://ecode360.com/43796234", "type": "municipal-code" },
+    { "name": "City of Huntington Beach Municipal Code Sec. 7.12.110, Fowl and Rabbits at Large (qcode.us)", "url": "https://library.qcode.us/lib/huntington_beach_ca/pub/municipal_code/item/municipal_code-title_7-chapter_7_12-7_12_110", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Huntington Beach California Chicken Ordinance (secondary summary quoting code text)", "url": "https://www.backyardchickens.com/articles/huntington-beach-california-chicken-ordinance.61735/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Direct code sites (ecode360.com and library.qcode.us) returned 403/Cloudflare-block from this machine and were not archived on Wayback Machine, so facts come from WebSearch result extracts that quote the municipal code text verbatim with section numbers (7.12.110 fowl at large, 7.12.120 keeping restrictions including the 25 ft setback, 6-fowl cap, and rooster ban over 4 months) plus a separately quoted residential animal permit requirement for chickens. Could not directly verify the exact permit section number or confirm no 2023-2026 amendments changed these limits.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

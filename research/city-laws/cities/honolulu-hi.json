@@ -1,0 +1,22 @@
+{
+  "id": "honolulu-hi", "city": "Honolulu", "state": "HI", "population": 341868,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Residential 'poultry raising' (hens only, no roosters) is a permitted accessory use under the Land Use Ordinance, Sec. 21-5.50-3(e); secondary sources disagree on the exact cap, giving figures anywhere from 2 to 6 hens, so no specific number is recorded here.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit was found for the residential accessory poultry-raising use; it is listed directly in the zoning code's residential use table rather than requiring a separate application.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Sources disagree on the coop setback: some cite roughly 10 ft from a neighboring residence and 5 ft from the property line for small residential flocks, others cite a 300 ft setback that appears to apply to larger livestock/poultry-keeping operations (Sec. 21-5.40-2) rather than ordinary backyard hens. Not confirmed which applies to a typical home lot.",
+  "coop_rules": "Hens must be kept in a fenced enclosure in the side or rear yard; specific coop construction standards were not confirmed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The Land Use Ordinance's residential 'poultry raising' use (hens only) is distinct from the separate 'livestock and poultry keeping' use (Sec. 21-5.40-2) that applies to larger operations and carries the much larger 300 ft setback from adjoining residential zoning. Selling eggs or meat from residential hens is reportedly not allowed.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Revised Ordinances of Honolulu, Land Use Ordinance Sec. 21-5.50-3(e) (Poultry raising, residential accessory use); see also Sec. 21-5.40-2 (Livestock and poultry keeping)",
+  "sources": [
+    { "name": "Revised Ordinances of Honolulu, Sec. 21-5.40-2 Livestock and poultry keeping", "url": "https://codelibrary.amlegal.com/codes/honolulu/latest/honolulu/0-0-0-94838", "type": "municipal-code" }
+  ],
+  "confidence": "low",
+  "research_notes": "amlegal.com is Cloudflare-blocked and khon2.com denied the fetch from this machine, so this relies entirely on WebSearch extracts, which gave inconsistent hen counts (2, 5 and 6) and inconsistent setbacks (10 ft versus 300 ft) across sources, likely because they conflate the small residential 'poultry raising' use with the larger 'livestock and poultry keeping' use. Only the rooster ban and the existence of a hens-only residential accessory use are treated as reliable; the numeric cap and setback are left unset rather than guessed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

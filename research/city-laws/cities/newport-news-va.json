@@ -1,0 +1,23 @@
+{
+  "id": "newport-news-va", "city": "Newport News", "state": "VA", "population": 183230,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens for non-commercial, personal use on residential property; no roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "Search extracts describe periodic inspection of chicken housing by a city inspector but did not confirm whether a permit or registration is required before keeping hens.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Search extracts report coops or chicken housing must be kept at least 25 ft from property lines; whether this is measured from a neighbor's dwelling specifically was not confirmed.",
+  "coop_rules": "Chickens must be confined and may not run at large on streets, parks or other public property; poultry yards and enclosures must be kept clean and sanitary and free of refuse.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rules found in City Code Chapter 6, Animals and Fowl, apply city-wide to residential keeping since a 2015 city council amendment; not confirmed by zoning district.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 6, Art. II",
+  "sources": [
+    { "name": "Newport News, VA Code of Ordinances, Chapter 6 Animals and Fowl (Municode)", "url": "https://library.municode.com/VA/Newport_News/codes/Code_of_Ordinances?nodeId=CD_ORD_CH6ANFO_ARTIIDOCAGE_DIV1GE_S6-22DE", "type": "municipal-code" },
+    { "name": "Peninsula Chicken Keepers (PeCK): Newport News local law brochure (2015 city council amendment)", "url": "https://peninsulachickenkeepers.weebly.com/uploads/2/7/6/3/27635855/newport_news_brochure_v3_pdf.pdf", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts (6-hen cap, no roosters, 25 ft setback, no on-site slaughter, general poultry-at-large and sanitation rules) come from a WebSearch extract of the Municode Chapter 6 page and a secondary local advocacy group brochure describing the 2015 ordinance change; Municode itself is region-blocked from this machine and was not opened directly, and whether a permit is required was not established.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

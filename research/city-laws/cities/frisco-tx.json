@@ -1,0 +1,23 @@
+{
+  "id": "frisco-tx", "city": "Frisco", "state": "TX", "population": 236955,
+  "allowed": "yes",
+  "max_hens": 12,
+  "hens_rule_text": "Up to 12 chicken hens allowed per residence, varying with lot size; no roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No dedicated backyard-chicken permit was confirmed; only a separate multiple-pet permit is known to apply to other animals. Whether any registration applies to hens was not established.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Setback and coop placement details in Sec. 14-17 (Fowl) of the city code were not confirmed from available extracts.",
+  "coop_rules": "Not confirmed in detail from available sources.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The 12-hen figure varies by residential lot size per city ordinance summaries; smaller lots may allow fewer.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 14, Sec. 14-17 (Fowl)",
+  "sources": [
+    { "name": "City of Frisco, TX Code of Ordinances, Chapter 14 Animals (eCode360)", "url": "https://ecode360.com/38314866", "type": "municipal-code" },
+    { "name": "City of Frisco, Animal Ordinance Info (official PDF)", "url": "https://friscotexas.gov/DocumentCenter/View/29668/Animal-Ordinance-Info---Access?bidId=", "type": "city-website" }
+  ],
+  "confidence": "low",
+  "research_notes": "The 12-hen cap and rooster ban are repeated across multiple secondary aggregator sites citing the city code, and the city's own eCode360 chapter and an official Animal Ordinance PDF exist, but neither could be opened directly from this machine (Cloudflare block on eCode360) to confirm setback, permit and exact hen-per-lot-size detail. Treat the max_hens figure as approximate until the code section is read directly.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

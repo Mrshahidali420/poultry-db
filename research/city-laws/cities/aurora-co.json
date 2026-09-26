@@ -1,0 +1,23 @@
+{
+  "id": "aurora-co", "city": "Aurora", "state": "CO", "population": 410053,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chicken hens (or a mix of up to 2 ducks and up to 4 chickens) on single-family lots under 20,000 sq ft, larger lots may keep more; a city permit is required first.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A permit from the City's Neighborhood Services/Animal Services permit office is required before keeping chickens or ducks. Application needs a property drawing and written consent from neighbors (and from a landlord if renting), plus a one-time $40 fee. The permit can be revoked for city-ordinance violations.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "Coop/chicken house must be at least 15 feet from any neighboring residence and located in the rear yard only.",
+  "coop_rules": "Chicken house must be covered, predator-resistant, kept clean and sanitary, and located in the rear yard.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Applies to single-family residential lots; HOAs may separately prohibit chickens or ducks even where the city permits them.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Aurora City Code Sec. 14-134 (Keeping of chickens and domesticated ducks)",
+  "sources": [
+    { "name": "City of Aurora, Chickens & Ducks (Animal Services permit page)", "url": "https://www.auroragov.org/residents/animal_services/field_services/ordinances_enforcement/chickensducks", "type": "city-website" },
+    { "name": "Aurora City Code Sec. 14-134, Keeping of chickens and domesticated ducks", "url": "https://aurora.municipal.codes/Code/14-134", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the official Aurora animal services page directly, which confirms the permit requirement, $40 fee, neighbor-consent process and HOA override. The hen count, rooster ban and 15 ft setback come from WebSearch's quoted extracts of Sec. 14-134, since aurora.municipal.codes is Cloudflare-blocked from this machine; those extracts agreed across two searches.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

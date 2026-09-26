@@ -5,21 +5,47 @@
     {
       "state": "AL",
       "state_name": "Alabama",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No statewide law sets backyard hen limits or stops a city from banning them. Alabama's Right to Farm Act shields established farm operations from nuisance suits but does not override municipal zoning bans on residential poultry. NPIP flock registration through the state agriculture department is voluntary, not mandatory, for small flocks.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Alabama's Right to Farm Act protects qualifying farm operations from being declared a nuisance, but this protection is aimed at established agricultural operations and does not override local zoning ordinances that restrict or ban residential backyard poultry.",
+          "citation": "Ala. Code 6-5-127",
+          "url": "https://agi.alabama.gov/animalindustries/animal-health/poultry-information/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Alabama Department of Agriculture and Industries, Poultry Information",
+          "url": "https://agi.alabama.gov/animalindustries/animal-health/poultry-information/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "AK",
       "state_name": "Alaska",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No statewide law sets a backyard hen limit or stops a borough or city from banning them. State rules under 18 AAC 36 cover poultry disease reporting and biosecurity, not flock size or local zoning; boroughs and cities set the actual keeping rules.",
+      "state_rules": [
+        {
+          "topic": "poultry-health-reporting",
+          "note": "State animal health regulations require reporting of unexplained poultry deaths to the Office of the State Veterinarian and set biosecurity rules, but they do not set a statewide backyard flock size limit or preempt local ordinances.",
+          "citation": "18 AAC 36 (Animal Health Regulations)",
+          "url": "https://dec.alaska.gov/commish/regulations/18-aac-36"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Alaska Dept. of Environmental Conservation, 18 AAC 36 Animal Health",
+          "url": "https://dec.alaska.gov/commish/regulations/18-aac-36",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
@@ -59,141 +85,310 @@
     {
       "state": "AR",
       "state_name": "Arkansas",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide rule was found that sets backyard hen limits or stops a city from banning them. The Arkansas Livestock and Poultry Commission handles animal-health regulation, and keeping rules are set city by city.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Arkansas Livestock and Poultry Commission (Arkansas Dept. of Agriculture)",
+          "url": "https://ar.accessgov.com/livestock-poultry",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "CA",
       "state_name": "California",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "California's Right to Farm Act protects only commercial agricultural operations from nuisance claims, not backyard poultry keeping, so it does not stop a city from banning or limiting hens. HOAs can also ban chickens through their covenants. Rules are set city by city.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Right to Farm Act says agricultural activity conducted under proper and accepted customs cannot be deemed a nuisance, but California courts and state guidance treat this as protection for commercial farm operations, not residential backyard flocks, so it does not preempt local bans on backyard chickens.",
+          "citation": "Cal. Civil Code 3482.5",
+          "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3482.5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "California Legislative Information, Civil Code 3482.5",
+          "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3482.5",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "CO",
       "state_name": "Colorado",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No statewide law sets a backyard hen limit or stops a city from banning them. The Colorado Department of Agriculture regulates poultry health and commercial slaughter/sale, and personal-use home slaughter is exempt from inspection, but keeping rules are set city by city and HOAs can add their own bans.",
+      "state_rules": [
+        {
+          "topic": "home-slaughter",
+          "note": "Personal-use backyard poultry slaughter is exempt from state meat inspection: a resident may slaughter birds they raised for their own household, family, non-paying guests, or employees, provided the meat is not sold or donated, and processing is done under sanitary conditions.",
+          "citation": "Colorado Dept. of Agriculture poultry exemption guidance, 8 CCR 1201-20",
+          "url": "https://ag.colorado.gov/poultry"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Colorado Department of Agriculture, Poultry",
+          "url": "https://ag.colorado.gov/poultry",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "CT",
       "state_name": "Connecticut",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Connecticut's Right to Farm law protects accepted agricultural practices from nuisance suits but explicitly leaves home-rule zoning power, including lot size, setback and permit rules for backyard flocks, with each town. It does not stop a town from banning or limiting backyard hens.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "State right-to-farm law shields established farm operations from nuisance lawsuits over noise or odor, but the state has confirmed this does not preempt municipal zoning restrictions on residential backyard chicken keeping; towns retain home-rule authority over flock size, setbacks and permits.",
+          "citation": "Conn. Gen. Stat. 19a-341",
+          "url": "https://business.ct.gov/-/media/DOAG/Commish_and_Gov/LivestockGuidanceBookWEB-002-FINAL.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Connecticut Dept. of Agriculture, Guidance for CT Municipalities on Zoning for Livestock",
+          "url": "https://business.ct.gov/-/media/DOAG/Commish_and_Gov/LivestockGuidanceBookWEB-002-FINAL.pdf",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "DE",
       "state_name": "Delaware",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Every location that keeps live poultry, even a single backyard bird, must be registered with the Delaware Department of Agriculture for disease tracking. Whether hens are allowed at all is set by the county (New Castle, Kent, Sussex) or municipality.",
+      "state_rules": [
+        {
+          "topic": "poultry-registration",
+          "note": "The Delaware Department of Agriculture requires registration of every location where poultry is kept, including a single backyard bird, so the state can notify owners of disease alerts such as avian influenza. Registration uses the Poultry Premises Registration form.",
+          "citation": "Delaware Dept. of Agriculture poultry premises registration program (3 Del. Admin. Code 901)",
+          "url": "https://agriculture.delaware.gov/poultry-animal-health/poultry/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Delaware Department of Agriculture, Poultry",
+          "url": "https://agriculture.delaware.gov/poultry-animal-health/poultry/",
+          "type": "state-agency"
+        },
+        {
+          "name": "Delaware Poultry Premises Registration form",
+          "url": "https://agriculture.delaware.gov/wp-content/uploads/sites/108/2025/10/English-Poultry-Form-10.17.25.pdf",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "high",
       "needs_review": true
     },
     {
       "state": "DC",
       "state_name": "District of Columbia",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "DC allows backyard hens citywide under DC Health rules: an annual permit is required, roosters are banned, and the coop must be at least 50 feet from any residence with written consent from neighbors within 100 feet.",
+      "state_rules": [
+        {
+          "topic": "permit-required",
+          "note": "DC Health requires an annual animal keeping permit before acquiring hens. Only hens are allowed, no roosters. The coop must be at least 50 feet from any human residence, built to exclude rodents, and kept free of odor and pests, and the keeper must get written consent from all neighbors within 100 feet of the property.",
+          "citation": "DC animal control regulations, Title 24 DCMR; enforced by DC Health Animal Services Program",
+          "url": "https://dchealth.dc.gov/publication/municipal-regulations-animal-control"
+        }
+      ],
+      "sources": [
+        {
+          "name": "DC Health, Municipal Regulations for Animal Control",
+          "url": "https://dchealth.dc.gov/publication/municipal-regulations-animal-control",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "FL",
       "state_name": "Florida",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Florida's Right to Farm Act mainly protects agricultural-zoned land and does not stop a city or county from setting its own backyard hen rules on residential property. HOAs can also ban chickens through their covenants even where local zoning allows them.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Florida Right to Farm Act protects bona fide farm operations from nuisance suits, but its protections are generally tied to agricultural-zoned land rather than residential backyard poultry keeping, so it does not preempt city or county limits on backyard hens.",
+          "citation": "Fla. Stat. 823.14",
+          "url": "https://www.flsenate.gov/Laws/Statutes/2025/823.14"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Florida Senate, Statute 823.14 (Florida Right to Farm Act)",
+          "url": "https://www.flsenate.gov/Laws/Statutes/2025/823.14",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "GA",
       "state_name": "Georgia",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No statewide right to keep backyard chickens. State law bars cities and counties from regulating animal husbandry practices in farm production on private property, but it keeps local zoning power, so city and county zoning rules on backyard hens still apply. A bill to guarantee home chickens statewide (House Bill 2) was proposed but not found to have passed.",
+      "state_rules": [
+        {
+          "topic": "local-preemption",
+          "note": "Local governments may not adopt or enforce rules on crop management or animal husbandry practices in the production of agricultural or farm products on private property. This does not limit local zoning ordinances or zoning decisions, which is how most Georgia cities regulate backyard chickens.",
+          "citation": "O.C.G.A. 2-1-6 (2009 Ga. Laws 99)",
+          "url": "https://law.justia.com/codes/georgia/title-2/chapter-1/section-2-1-6/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Justia, Georgia Code 2-1-6, Preemption of local ordinances relating to production of agricultural or farm products",
+          "url": "https://law.justia.com/codes/georgia/title-2/chapter-1/section-2-1-6/",
+          "type": "state-statute"
+        },
+        {
+          "name": "Gainesville Times, bill allowing backyard chickens may not survive Crossover Day",
+          "url": "https://www.gainesvilletimes.com/news/georgia-legislature/bill-allowing-backyard-chickens-may-not-survive-crossover-day/",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "HI",
       "state_name": "Hawaii",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "The state agriculture department runs biosecurity and disease-tracking programs for poultry statewide, but flock size limits and whether hens are allowed at all are set by each county, which vary widely across the islands.",
+      "state_rules": [
+        {
+          "topic": "poultry-registration",
+          "note": "The Hawaii Department of Agriculture and Biosecurity runs flock biosecurity and disease-reporting programs for poultry keepers statewide, tied to avian influenza monitoring, but this is a health/biosecurity program, not a rule on whether backyard hens are allowed or how many may be kept; that is set by each county.",
+          "citation": "Hawaii Dept. of Agriculture and Biosecurity, Animal Industry Division biosecurity program",
+          "url": "https://dab.hawaii.gov/ai/ldc/adconcerns/aiinfo/biosec/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Hawaii Dept. of Agriculture and Biosecurity, Avian Influenza Biosecurity",
+          "url": "https://dab.hawaii.gov/ai/ldc/adconcerns/aiinfo/biosec/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "ID",
       "state_name": "Idaho",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Idaho's Right to Farm Act calls farming a permitted use statewide but is aimed at nuisance suits against established agriculture, not at forcing cities or HOAs to allow backyard hens. A 2025 bill to stop HOAs from banning chickens (SB 1026 / HB 404) failed, so HOA covenants and local ordinances still control.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Right to Farm Act finds that the right to farm is a natural right and a permitted use throughout Idaho, and limits when agricultural operations can be deemed a nuisance, but this does not override HOA covenants or local zoning that restrict residential backyard chicken keeping.",
+          "citation": "Idaho Code 22-4501 to 22-4504",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/title22/t22ch45/sect22-4501/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Idaho State Legislature, Idaho Code 22-4501",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/title22/t22ch45/sect22-4501/",
+          "type": "state-statute"
+        },
+        {
+          "name": "BoiseDev, House committee kills bill preempting HOA bans on chickens (2025)",
+          "url": "https://boisedev.com/news/2025/03/10/chicken-hoa-ban/",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "IL",
       "state_name": "Illinois",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide right to keep backyard hens exists yet. HB 4764, introduced in the 2026 session, would create one for personal noncommercial hens but would still let HOAs and condo boards ban or regulate chickens; it had not been enacted as of this check.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Illinois General Assembly, HB4764 (2026)",
+          "url": "https://www.billtrack50.com/billdetail/1959211",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "IN",
       "state_name": "Indiana",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide rule sets backyard hen limits or stops a city or HOA from banning them. Each city, town or county sets its own zoning and permit rules, and HOA covenants can independently prohibit chickens even where the city allows them.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Indiana State Dept. of Agriculture, general poultry program information",
+          "url": "https://www.in.gov/isda/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "IA",
       "state_name": "Iowa",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide rule sets backyard hen limits or stops a city from banning them; keeping rules are set city by city, and an HOA covenant can still be more restrictive than the local ordinance.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Iowa Department of Agriculture and Land Stewardship",
+          "url": "https://iowaagriculture.gov/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "KS",
       "state_name": "Kansas",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Kansas has a Right to Farm Act that shields qualifying agricultural operations from nuisance suits, but no confirmed state-level rule sets backyard hen limits or stops a city or HOA from banning them; those rules are set locally.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Kansas Right to Farm Act shields qualifying agricultural operations, including poultry farming, from nuisance lawsuits, but its protections are aimed at established agricultural operations rather than residential backyard flocks, and it does not confirm preemption of local zoning bans on backyard hens.",
+          "citation": "K.S.A. 2-3201 to 2-3205",
+          "url": "https://www.canr.msu.edu/news/right_to_farm_act_can_preempt_local_regulation_authority_but_not_all_local"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Michigan State Univ. Extension, Right to Farm Act can preempt local regulation authority, but not all local regulations",
+          "url": "https://www.canr.msu.edu/news/right_to_farm_act_can_preempt_local_regulation_authority_but_not_all_local",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
@@ -227,11 +422,17 @@
     {
       "state": "LA",
       "state_name": "Louisiana",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide law sets backyard hen limits or stops a parish or city from banning them; Louisiana relies on home rule, so each parish and municipality writes its own rules, and HOA covenants can be more restrictive still.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Louisiana Dept. of Agriculture and Forestry",
+          "url": "https://www.ldaf.state.la.us/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
@@ -293,41 +494,79 @@
     {
       "state": "MA",
       "state_name": "Massachusetts",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No statewide law sets backyard hen limits. The state offers towns a model Right to Farm bylaw they can adopt locally, and the state Dept. of Agricultural Resources handles poultry health, but flock limits, permits and setbacks are set town by town.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The state provides a model Right to Farm bylaw that towns may adopt to protect agricultural activity from nuisance complaints, but adoption and scope are decided locally, so it does not itself force a town to allow backyard hens.",
+          "citation": "Mass. Model Right to Farm By-Law (Mass. Dept. of Agricultural Resources)",
+          "url": "https://www.mass.gov/doc/model-right-to-farm-by-law/download"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Mass.gov, Massachusetts law about backyard chickens",
+          "url": "https://www.mass.gov/info-details/massachusetts-law-about-backyard-chickens",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "MI",
       "state_name": "Michigan",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "The Right to Farm Act can preempt local ordinances for qualifying commercial agricultural operations that follow the state's management practices, but a 2014 change (Category 4) excludes primarily residential sites, so cities may still regulate or ban backyard chickens in residential areas, and personal-use, non-commercial flocks are not covered at all.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Right to Farm Act only protects commercial agricultural production carried out for profit and following the state's Generally Accepted Agricultural and Management Practices (GAAMPs); it does not cover chickens kept only for personal household use. The 2014 Site Selection GAAMP created a Category 4 for primarily residential sites (generally more than 13 non-farm homes within an eighth of a mile, or a non-farm home within 250 feet) that are not protected, so municipalities may regulate or prohibit backyard poultry there.",
+          "citation": "Mich. Comp. Laws 286.472 (Right to Farm Act, Act 93 of 1981); MDARD Site Selection GAAMPs",
+          "url": "https://www.michigan.gov/mdard/environment/rtf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Michigan Dept. of Agriculture and Rural Development, Right to Farm",
+          "url": "https://www.michigan.gov/mdard/environment/rtf",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "MN",
       "state_name": "Minnesota",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide ordinance sets backyard hen limits or stops a city from banning them. The Board of Animal Health issues general biosecurity guidance, but flock limits, permits and setbacks are set city by city, and HOA covenants can be more restrictive.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Minnesota Board of Animal Health",
+          "url": "https://www.bah.state.mn.us/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "MS",
       "state_name": "Mississippi",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide rule sets backyard hen limits or stops a city or county from banning them; right-to-farm protection is aimed at established rural agricultural operations, not residential poultry keeping. A 2021 bill to bar local regulation of on-farm sales and production (HB 588) died in committee and was never enacted.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Mississippi Legislature, HB 588 (2021, died in committee)",
+          "url": "https://billstatus.ls.state.ms.us/documents/2021/html/HB/0500-0599/HB0588IN.htm",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
@@ -366,161 +605,320 @@
     {
       "state": "MT",
       "state_name": "Montana",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide law sets backyard hen limits or stops a city or HOA from banning them; general nuisance and sanitation statutes apply statewide, but flock size, permits and setbacks are set city or county by city or county.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Montana Department of Livestock",
+          "url": "https://liv.mt.gov/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "NE",
       "state_name": "Nebraska",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "The Nebraska Right to Farm Act does not override other state and federal statutes and has limited reach over local ordinances; no statewide rule sets backyard hen limits or stops a city or HOA from banning them. Flock size, permit and setback rules are set city by city.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Nebraska's Right to Farm Act protects qualifying agricultural operations from certain nuisance actions but by its own terms does not affect the application of other state and federal statutes, and it has not been shown to preempt local zoning bans on residential backyard poultry.",
+          "citation": "Neb. Rev. Stat. 2-4401 et seq.",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=2-4404"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Nebraska Legislature, Statute 2-4404",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=2-4404",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "NV",
       "state_name": "Nevada",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "Nevada has no state law stopping an HOA from banning backyard chickens, and no statewide flock limit; local ordinances set the actual keeping rules in each city or county, with right-to-farm protection carrying the most weight in unincorporated rural areas.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Nevada Dept. of Agriculture",
+          "url": "https://agri.nv.gov/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "NH",
       "state_name": "New Hampshire",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "New Hampshire has not passed a statewide law that stops an HOA from banning backyard poultry. Some towns carry their own local Right-to-Farm designation, but there is no statewide preemption of local zoning or HOA covenants for backyard hens.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "NH Dept. of Agriculture, Markets and Food",
+          "url": "https://www.agriculture.nh.gov/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "NJ",
       "state_name": "New Jersey",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "New Jersey's Right to Farm Act can shield a qualifying commercial farm from certain local restrictions, but it is aimed at commercial farm operations, not small residential backyard flocks, and does not override HOA or deed restrictions. Keeping rules for backyard hens are set town by town.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Right to Farm Act allows a qualifying commercial farm to seek preemption of a local ordinance if it can show a legitimate agriculturally based reason for not complying, through the county Agriculture Development Board. This process is built for commercial farm operations, not small residential backyard flocks, and it does not override private HOA covenants or deed restrictions.",
+          "citation": "N.J.S.A. 4:1C-1 et seq. (Right to Farm Act)",
+          "url": "https://njaes.rutgers.edu/fs1253/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Rutgers NJAES, FS1253: New Jersey's Right to Farm Act",
+          "url": "https://njaes.rutgers.edu/fs1253/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "NM",
       "state_name": "New Mexico",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "New Mexico's Right to Farm Act can shield an already-established farm from a nuisance claim when new development moves in nearby, but it does not cancel a city ordinance for a lot already inside city limits, and it does not stop HOA covenants from banning poultry. Keeping rules are set city by city.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Right to Farm Act can protect an established farm operation from a nuisance claim brought because of later nearby development, but it does not override an existing city ordinance for property already inside city limits, and it does not affect private HOA restrictions.",
+          "citation": "NMSA 1978, 47-9-1 to 47-9-7",
+          "url": "https://www.canr.msu.edu/news/right_to_farm_act_can_preempt_local_regulation_authority_but_not_all_local"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Michigan State Univ. Extension summary of state right-to-farm preemption (New Mexico example)",
+          "url": "https://www.canr.msu.edu/news/right_to_farm_act_can_preempt_local_regulation_authority_but_not_all_local",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "NY",
       "state_name": "New York",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Inside one of the state's certified agricultural districts, state law restricts local governments from unreasonably regulating farm operations, which can help a keeper with a farm operation get an opinion against a restrictive local law. This does not apply to ordinary residential lots outside those districts, and it does not touch HOA or deed restrictions.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Within a certified agricultural district, a farm owner, operator, or municipality may ask the Commissioner of Agriculture and Markets for an opinion on whether a proposed or existing local law, ordinance or regulation unreasonably restricts farm operations; land use applications on or near farms in a district also require an agricultural data statement. This mainly helps established farm operations inside agricultural districts, not typical backyard flocks on ordinary residential lots.",
+          "citation": "N.Y. Agriculture and Markets Law 305-a",
+          "url": "https://agriculture.ny.gov/land-and-water/section-305-review-restrictive-laws"
+        }
+      ],
+      "sources": [
+        {
+          "name": "New York State Dept. of Agriculture and Markets, Section 305-a Review of Restrictive Laws",
+          "url": "https://agriculture.ny.gov/land-and-water/section-305-review-restrictive-laws",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "NC",
       "state_name": "North Carolina",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "North Carolina's Right to Farm law, strengthened in 2025, protects established agricultural operations from nuisance suits caused by nearby development, but it is built for commercial operations, so small backyard flocks inside city limits are generally left to municipal ordinances and, separately, to any HOA or deed restrictions.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Right to Farm Act shields qualifying agricultural operations from nuisance lawsuits tied to changed conditions such as nearby development, and was strengthened in 2025, but its protections are aimed at established, generally commercial agricultural operations rather than residential backyard poultry keeping inside city or town limits.",
+          "citation": "N.C. Gen. Stat. 106-700 et seq.",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_106/Article_50.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "North Carolina General Assembly, Chapter 106, Article 50 (Right to Farm Act)",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_106/Article_50.html",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "ND",
       "state_name": "North Dakota",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide law sets backyard hen limits or stops a city or HOA from banning them. Keeping rules are set city by city, and some cities such as Bismarck do not allow chickens inside city limits at all.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "North Dakota Dept. of Agriculture",
+          "url": "https://www.nd.gov/ndda/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "OH",
       "state_name": "Ohio",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "Ohio courts have held that residents do not have a constitutional right to keep chickens and other fowl, and a city ordinance banning them does not violate state or federal constitutional rights. No statewide rule sets backyard hen limits; rules are set by each city, village or township, and HOA covenants can be stricter still.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Ohio State University Extension Farm Office, backyard chickens",
+          "url": "https://farmoffice.osu.edu/blog-tags/backyard-chickens",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "OK",
       "state_name": "Oklahoma",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide ordinance sets backyard hen limits or stops a city from banning them. Oklahoma's right-to-farm protection applies to established agricultural zones, not residential lots, and it does not override HOA covenants, which can ban poultry even where the city allows it.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Oklahoma Department of Agriculture, Food and Forestry",
+          "url": "https://www.oda.state.ok.us/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "OR",
       "state_name": "Oregon",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No statewide ordinance sets backyard hen limits or stops a city from banning them; Oregon's Right to Farm Law mainly protects commercial farm practices from nuisance suits. Keeping rules are set city by city, and HOA covenants can still ban poultry where the city allows it.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Oregon's Right to Farm Law protects farming and forest practices carried out on lands zoned for those uses from being considered a nuisance or trespass, but it is aimed at commercial farm and forest operations rather than residential backyard poultry keeping, and it does not override HOA restrictions.",
+          "citation": "ORS 30.930 to 30.947",
+          "url": "https://www.oregon.gov/oda/shared/Documents/Publications/NaturalResources/RightToFarm.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Oregon Dept. of Agriculture, Oregon's Right-to-Farm Law",
+          "url": "https://www.oregon.gov/oda/shared/Documents/Publications/NaturalResources/RightToFarm.pdf",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "PA",
       "state_name": "Pennsylvania",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Pennsylvania's ACRE Act (Act 38 of 2005) blocks a local ordinance that unlawfully restricts a normal agricultural operation, but this protection is generally tied to farms of 10 or more contiguous acres, so it does not reach typical residential backyard flocks. Keeping rules are set municipality by municipality, and HOAs can be stricter than township zoning.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Agriculture, Communities and Rural Environment (ACRE) Act lets the state Attorney General challenge a local ordinance that unlawfully restricts a normal agricultural operation. This protection is generally tied to farms of 10 or more contiguous acres and is not aimed at small residential backyard flocks, which remain subject to municipal zoning and any HOA restrictions.",
+          "citation": "3 Pa.C.S. 311 et seq. (Act 38 of 2005, the ACRE Act)",
+          "url": "https://www.chescoplanning.org/municorner/etools/PDF/ModelTwpOrd-Chickens.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Chester County Planning Commission, Model Township Ordinance for Keeping of Chickens (references state right-to-farm framework)",
+          "url": "https://www.chescoplanning.org/municorner/etools/PDF/ModelTwpOrd-Chickens.pdf",
+          "type": "secondary"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "RI",
       "state_name": "Rhode Island",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "The Rhode Island Right to Farm Act says local ordinances cannot be enforced against a qualifying agricultural operation, but this is generally understood to protect established farm operations rather than force a town to allow small residential backyard flocks, and it does not resolve disputes with HOA covenants, which can still ban poultry.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "The Rhode Island Right to Farm Act says a city or town ordinance shall not be enforced against a qualifying agricultural operation as defined in the chapter. Whether this reaches small residential backyard flocks (as opposed to established farm operations) is not settled, and it does not override private HOA covenants, which can still prohibit poultry.",
+          "citation": "R.I. Gen. Laws 2-23-1 et seq.",
+          "url": "http://webserver.rilin.state.ri.us/Statutes/TITLE2/2-23/2-23-1.HTM"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Rhode Island General Laws, Title 2, Chapter 2-23 (Right to Farm)",
+          "url": "http://webserver.rilin.state.ri.us/Statutes/TITLE2/2-23/2-23-1.HTM",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "SC",
       "state_name": "South Carolina",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "State law says South Carolina occupies the field of regulating the care and handling of livestock and poultry, preempting local ordinances on that subject, but it expressly preserves local land use and zoning authority. In practice this means a city can still use zoning to decide whether backyard hens are allowed at all, and HOA covenants remain enforceable.",
+      "state_rules": [
+        {
+          "topic": "local-preemption",
+          "note": "The state intends to occupy the field of regulating the care and handling of livestock and poultry, so local ordinances on that specific subject are preempted by state law and agency regulations. However, the statute expressly does not limit a local government's land use and zoning authority, or the separate Right to Farm nuisance-suit provisions, so cities can still zone to allow, limit or exclude backyard poultry, and private HOA covenants are unaffected.",
+          "citation": "S.C. Code Ann. 47-4-160",
+          "url": "https://www.scstatehouse.gov/code/t47c004.php"
+        }
+      ],
+      "sources": [
+        {
+          "name": "South Carolina Legislature, Code of Laws Title 47, Chapter 4",
+          "url": "https://www.scstatehouse.gov/code/t47c004.php",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "SD",
       "state_name": "South Dakota",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide rule sets backyard hen limits or stops a city from banning them; South Dakota's right-to-farm law protects established commercial agricultural operations from nuisance suits, not individual backyard keepers, and it does not override HOA restrictions.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "South Dakota Dept. of Agriculture and Natural Resources",
+          "url": "https://danr.sd.gov/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
@@ -563,51 +961,122 @@
     {
       "state": "UT",
       "state_name": "Utah",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Utah's Right to Farm Act does not override local zoning that prohibits livestock, and the state's Community Association Act confirms an HOA may still adopt rules restricting or prohibiting poultry through its CC&Rs even where the city allows backyard hens. Flock size, coop placement and setbacks are set by each city or county.",
+      "state_rules": [
+        {
+          "topic": "hoa-restriction",
+          "note": "The Community Association Act sets general limits on what rules an HOA may adopt but allows an association's governing documents to authorize the board to adopt rules with exceptions, which in practice lets an HOA restrict or prohibit keeping poultry even in a city that allows backyard hens.",
+          "citation": "Utah Code 57-8a-218",
+          "url": "https://le.utah.gov/xcode/Title57/Chapter8a/57-8a-S218.html"
+        },
+        {
+          "topic": "right-to-farm",
+          "note": "Utah's Right to Farm Act (Title 4, Chapter 44) offers some protection to established agricultural operations against nuisance complaints, but it does not override local zoning ordinances that prohibit livestock in a given zone in the first place.",
+          "citation": "Utah Code Title 4, Chapter 44",
+          "url": "https://le.utah.gov/xcode/Title4/Chapter44/4-44.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Utah State Legislature, Utah Code 57-8a-218",
+          "url": "https://le.utah.gov/xcode/Title57/Chapter8a/57-8a-S218.html",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "VT",
       "state_name": "Vermont",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Vermont has no statewide law giving residents a right to keep backyard hens; each city and town sets its own hen limits, permits and setbacks. A small backyard flock can sometimes fall under the state's Right to Farm nuisance-suit protections, but Vermont has no law stopping an HOA from banning chickens even where the town allows them.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Vermont's Right to Farm law shields qualifying agricultural operations, which can include small backyard flocks that meet the statute's conditions, from nuisance lawsuits over noise or odor brought by neighbors. It does not create a right to keep chickens against a town ordinance, and it does not override HOA covenants.",
+          "citation": "10 V.S.A. 4941-4942 (Vermont Required Agricultural Practices / Right to Farm)",
+          "url": "https://legislature.vermont.gov/statutes/section/10/151/04941"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Vermont General Assembly, 10 V.S.A. 4941",
+          "url": "https://legislature.vermont.gov/statutes/section/10/151/04941",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "VA",
       "state_name": "Virginia",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Virginia's Right to Farm Act stops localities from requiring a special exception or special use permit, or from unreasonably restricting farm structures and practices, in an agricultural district or zoning classification. This mainly helps properties already zoned agricultural, not ordinary residential lots, and it does not override HOA covenants, which can ban chickens even where the city allows them.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Localities may not require a special exception or special use permit for agricultural or forestry activities in an agricultural district or classification, and may not enact zoning ordinances that unreasonably restrict farm structures or farming/forestry practices there unless the restriction relates to health, safety or general welfare. This protection is tied to agricultural zoning, so it generally does not reach ordinary residential lots, and it does not affect HOA covenants.",
+          "citation": "Va. Code 3.2-300 et seq. (Right to Farm Act)",
+          "url": "https://law.lis.virginia.gov/vacodefull/title3.2/chapter3/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Code of Virginia, Title 3.2, Chapter 3 (Right to Farm)",
+          "url": "https://law.lis.virginia.gov/vacodefull/title3.2/chapter3/",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "medium",
       "needs_review": true
     },
     {
       "state": "WA",
       "state_name": "Washington",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "Washington has no statewide backyard chicken law; the state does not preempt local governments, so each city or county decides whether livestock is allowed in a given zone and sets flock size and permit rules. The state's Right to Farm Act protects commercial operations that predate nearby development, and it does not override HOA covenants, which can ban chickens even where the city allows them.",
+      "state_rules": [
+        {
+          "topic": "right-to-farm",
+          "note": "Washington's Right to Farm Act shields qualifying agricultural operations from nuisance claims, generally where the operation predates surrounding residential development, but it does not override local zoning and does not create a right to keep backyard poultry against a city ordinance or HOA covenant.",
+          "citation": "RCW 7.48.305",
+          "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=7.48.305"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Washington State Legislature, RCW 7.48.305",
+          "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=7.48.305",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
       "state": "WV",
       "state_name": "West Virginia",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
-      "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "research_status": "researched",
+      "summary": "No enacted statewide law yet stops an HOA from banning backyard hens. A 2025 bill (SB 805) would have voided HOA covenants that prohibit up to four hens (no roosters), but it only reached a committee substitute in the Senate Agriculture Committee and was not confirmed as passed or signed. The Right to Farm Act protects established agricultural operations, not typical backyard flocks, and does not override city zoning.",
+      "state_rules": [
+        {
+          "topic": "hoa-restriction",
+          "note": "SB 805 (2025) would have made void and unenforceable any HOA covenant restricting the ownership of up to four chickens (no roosters, no free-ranging) recorded after the bill's effective date, while still letting HOAs regulate coop specs and property maintenance. A committee substitute was reported out of the Senate Agriculture Committee on March 26, 2025; further passage and enactment were not confirmed.",
+          "citation": "SB 805 (2025 Regular Session)",
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2025_SESSIONS/RS/bills/sb805%20sub1.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "West Virginia Legislature, SB 805 (2025), committee substitute text",
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2025_SESSIONS/RS/bills/sb805%20sub1.pdf",
+          "type": "state-statute"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     },
     {
@@ -636,11 +1105,17 @@
     {
       "state": "WY",
       "state_name": "Wyoming",
-      "research_status": "not-researched",
-      "summary": "Not researched yet. No state-level rule has been checked for this state, so do not assume none exists. City or county rules still apply.",
+      "research_status": "researched",
+      "summary": "No statewide law sets backyard hen limits or stops a city from banning them; HOAs are not preempted and their CC&Rs can prohibit or restrict backyard chickens even where the city allows them. Keeping rules are set city by city.",
       "state_rules": [],
-      "sources": [],
-      "confidence": "unknown",
+      "sources": [
+        {
+          "name": "Wyoming Department of Agriculture",
+          "url": "https://agriculture.wy.gov/",
+          "type": "state-agency"
+        }
+      ],
+      "confidence": "low",
       "needs_review": true
     }
   ]

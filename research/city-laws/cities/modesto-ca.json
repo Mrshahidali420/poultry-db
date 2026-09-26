@@ -1,0 +1,23 @@
+{
+  "id": "modesto-ca", "city": "Modesto", "state": "CA", "population": 219652,
+  "allowed": "conditional",
+  "max_hens": 12,
+  "hens_rule_text": "Up to 12 domestic fowl (hens only) allowed per dwelling unit, but only in the R-1 (single-family residential) zone.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit required for keeping hens within the allowed counts and zone.",
+  "setback_ft_from_homes": 40,
+  "setback_notes": "Pens, coops, cages or similar housing must be at least 40 ft from the window or door of any building used for human habitation.",
+  "coop_rules": "Not further detailed in the sources found beyond the 40 ft setback from habitable buildings.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is specific to the R-1 zone; Title 10 (Zoning Regulations) of the Modesto Municipal Code.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Modesto, CA Code of Ordinances, Title 10 Zoning Regulations (Municode)", "url": "https://library.municode.com/ca/modesto/codes/code_of_ordinances?nodeId=TIT10ZORE", "type": "municipal-code" },
+    { "name": "BackYardChickens.com, Modesto California Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/modesto-california-chicken-ordinance.61215/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Numbers (12 hens, no roosters, 40 ft setback, R-1 only, no permit) are consistent across three separate search queries and both a secondary chicken-law site and Municode-indexed extracts, but the exact code section number was not found and Municode itself is region-blocked from this machine, so the primary text was not read directly.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

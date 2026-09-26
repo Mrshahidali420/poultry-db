@@ -1,0 +1,25 @@
+{
+  "id": "chandler-az", "city": "Chandler", "state": "AZ", "population": 278748,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 hens per detached single-family lot (raised from 5 to 6 to match the 2024 state law ARS 9-462.12); no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No coop permit is required unless the coop exceeds 120 sq ft or 7 ft in height, or is connected to electricity or water, in which case a building permit is required regardless of size.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop's outer edge must be at least 5 ft from any property line (not stated as a distance from a neighboring home specifically); chickens must stay within the rear and side yards.",
+  "coop_rules": "Chickens must be housed in a secured coop that does not exceed the height of the surrounding property wall; droppings must be removed from the coop at least twice weekly and from the property at least once a week.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is citywide under Chandler City Code Sec. 14-33 (Backyard Chickens, Ordinance 5035), first adopted effective Jan. 5, 2023 and updated to raise the cap from 5 to 6 hens for compliance with 2024 state law HB 2325 (A.R.S. 9-462.12).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 14-33",
+  "sources": [
+    { "name": "City of Chandler, Backyard Chicken Ordinance (official page)", "url": "https://www.chandleraz.gov/government/departments/city-clerks-office/city-code-and-charter/backyard-chicken-ordinance", "type": "city-website" },
+    { "name": "City of Chandler Council Memorandum, Backyard Chickens (Development Services Memo 22-056FA)", "url": "https://www.chandleraz.gov/sites/default/files/departments/development-services/City-of-Chandler-Backyard-Chickens-Council-Memo.pdf", "type": "city-website" },
+    { "name": "City of Chandler, Chandler prepares for city code amendments to reflect new state laws", "url": "https://www.chandleraz.gov/news-center/chandler-prepares-city-code-amendments-reflect-new-state-laws", "type": "city-website" },
+    { "name": "Arizona Revised Statutes 9-462.12, Backyard fowl regulation", "url": "https://www.azleg.gov/ars/9/00462-12.htm", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "Multiple official City of Chandler pages (the code page itself, a council memo and a news item on the 2024 state-law update) consistently describe Sec. 14-33: originally 5 hens, no roosters, 5 ft coop setback from property lines, coop height and cleaning rules, and the later increase to 6 hens to match state law.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

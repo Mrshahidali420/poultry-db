@@ -1,0 +1,40 @@
+{
+  "id": "el-paso-tx",
+  "city": "El Paso",
+  "state": "TX",
+  "population": 683012,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "Fewer than 6 fowl kept as household pets are allowed without a permit in most residential zones. Keeping 6 or more fowl, or any fowl outside that pet exemption, needs a city permit.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit is needed to keep fewer than 6 rabbits or fowl as household pets. A permit from El Paso Animal Services (about $35/year) is required for 6 or more, or outside a farm-ranch or stockyard-zoned district. No more than 3 roosters are allowed where fowl are kept at all.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Enclosures must be at least 30 ft from any private residence, hotel, apartment, hospital, church or school, or as close as 20 ft if separated by a public alley and a solid fence or wall at least 6 ft high.",
+  "coop_rules": "Fowl must be kept in a secure pen or enclosure; manure must be removed from yards, cages and enclosures at least twice weekly and disposed of so the premises stay free of nuisance.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Permit is not required in a farm-ranch district or a zoning district where a stockyard or stable is permitted. Elsewhere the fewer-than-6 pet exemption applies.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Title 7, Ch. 7.24 (Livestock and Other Animals), Sec. 7.24.050",
+  "sources": [
+    {
+      "name": "El Paso Code of Ordinances, Title 7 Animals",
+      "url": "https://library.municode.com/tx/el_paso/codes/code_of_ordinances?nodeId=TIT7AN",
+      "type": "municipal-code"
+    },
+    {
+      "name": "El Paso Animal Services, Fowl/Rabbits/Livestock Permit Application",
+      "url": "https://elpasoanimalservices.org/assets/Documents/Permits-Licenses/Permit-App-Fowl-Rabbits-Livestock.pdf",
+      "type": "city-website"
+    },
+    {
+      "name": "El Paso Code of Ordinances Sec. 7.24.050, mirrored copy",
+      "url": "http://elpaso-tx.elaws.us/code/coor_title7_ch7.24_sec7.24.050",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked from this machine; facts come from search-result extracts of Title 7/Chapter 7.24 and the city's own permit PDF, cross-checked against a mirrored copy of Sec. 7.24.050. The exact wording of the pet-exemption count and setback distances could not be confirmed against the live code text.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

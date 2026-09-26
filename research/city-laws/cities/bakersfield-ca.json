@@ -1,0 +1,23 @@
+{
+  "id": "bakersfield-ca", "city": "Bakersfield", "state": "CA", "population": 422165,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Keeping chickens is unlawful citywide except on property zoned Residential Suburban (R-S) or Agricultural; most ordinary Bakersfield homes are zoned R-1, where chickens are banned. No numeric cap was found for the R-S/Ag exception.",
+  "roosters_allowed": "conditional",
+  "permit_required": "unknown",
+  "permit_notes": "No separate chicken permit was found; the controlling factor is the property's zoning district (R-S or Agricultural), not a permit application.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Coops, pens or other structures housing poultry may not be kept within 50 feet of any dwelling or structure used for human habitation, or within 100 feet of the front lot line.",
+  "coop_rules": "Chickens must be kept securely enclosed in a yard or pen at all times.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "A 2020 ordinance briefly allowed hens in R-1 (standard single-family) zones citywide, but a CEQA lawsuit from Citizens for the Preservation of R-1 Zones led the City Council to rescind it in February 2021 by a 4-3 vote, restoring the R-1 ban. Only R-S and Agricultural zoned lots may keep poultry; R-S zones are a small share of the city.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Bakersfield Municipal Code Sec. 6.08.010 (Keeping prohibited, Exception)",
+  "sources": [
+    { "name": "Bakersfield Municipal Code Sec. 6.08.010, Keeping prohibited, Exception", "url": "https://bakersfield.municipal.codes/Code/6.08.010", "type": "municipal-code" },
+    { "name": "Bakersfield.com, Bakersfield City Council repeals ordinances allowing urban hens (Feb 2021)", "url": "https://www.bakersfield.com/news/bakersfield-city-council-repeals-ordinances-allowing-urban-hens/article_e1ea6d34-6698-11eb-bb61-2b6e1fca1859.amp.html", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Site bakersfield.municipal.codes is Cloudflare-blocked from this machine, so the code text comes from WebSearch's quoted extracts of Sec. 6.08.010 (R-1 ban, R-S/Ag exception, 50 ft dwelling setback, 100 ft front-lot-line setback) plus local news confirming the 2021 repeal of the short-lived R-1 hen ordinance. No numeric hen cap for the R-S exception was located.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

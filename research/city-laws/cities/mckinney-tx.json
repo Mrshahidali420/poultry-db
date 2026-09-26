@@ -1,0 +1,23 @@
+{
+  "id": "mckinney-tx", "city": "McKinney", "state": "TX", "population": 236001,
+  "allowed": "yes",
+  "max_hens": 12,
+  "hens_rule_text": "Up to 12 hens allowed in the city, kept in a proper enclosure; no roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit mentioned on the city's own FAQ; only an enclosure requirement.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "The city's FAQ requires only that hens be kept in a proper enclosure; no specific setback distance is given.",
+  "coop_rules": "Hens must be kept in a proper enclosure; other fowl (ducks, geese, guineas, peacocks, turkeys) are banned entirely.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 26, Animal Control",
+  "sources": [
+    { "name": "City of McKinney, TX, official FAQ: Am I allowed to have chickens in the city limits?", "url": "https://www.mckinneytexas.org/FAQ.aspx?QID=67", "type": "city-website" },
+    { "name": "Community Impact, McKinney city ordinance allows chickens; some HOAs do not", "url": "https://communityimpact.com/mckinney/city-county/2018/05/06/mckinney-city-ordinance-allows-chickens-some-homeowners-associations-do-not/", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the city's own official FAQ page directly (fetched successfully): it plainly states up to 12 hens are allowed with a proper enclosure, no roosters, and lists the other banned fowl. No numeric setback is published; the FAQ does not mention a permit.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

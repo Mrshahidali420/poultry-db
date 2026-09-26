@@ -1,0 +1,24 @@
+{
+  "id": "akron-oh", "city": "Akron", "state": "OH", "population": 189691,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "No numeric cap found in the primary code text; the binding limit is a 100 ft distance rule (see setback_notes) that makes chicken-keeping impractical on most ordinary residential lots and effectively restricts it to larger properties.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "Several secondary chicken-law aggregator sites claim a $25 city permit for up to 6 hens, but this was not found in the quoted primary code text (Akron Code of Ordinances Sec. 92.18) and could not be confirmed on an official Akron.gov page, so this is reported as unknown rather than confirmed.",
+  "setback_ft_from_homes": 100,
+  "setback_notes": "Akron Code of Ordinances Sec. 92.18 ('Restricting certain animals') states no person shall keep chickens or other poultry in any dwelling or within 100 feet of a dwelling; multiple independent search results quote this language identically. This 100 ft figure applies to any dwelling, not only a neighbor's, which makes compliance impossible on most standard residential lots. A minority of secondary sources instead cite a 50 ft coop setback from a building used for human habitation; that figure could not be verified against the primary code and appears less reliable.",
+  "coop_rules": "Poultry must be kept securely enclosed in a pen or building and not permitted to run at large or go onto another person's property (general fowl-restraint provision, Akron Code Ch. 92); no specific coop size/material standard was found.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule found is a citywide animal-control distance restriction (Chapter 92, General Provisions), not a zoning-district-specific allowance; no separate residential-zone chicken permit process was confirmed from a primary source.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Akron Code of Ordinances, Title 9, Chapter 92, Sec. 92.18 (Restricting Certain Animals)",
+  "sources": [
+    { "name": "Akron Code of Ordinances Sec. 92.18, Restricting Certain Animals (elaws.us mirror)", "url": "http://akron-oh.elaws.us/code/coor_title9_ch92_sec92.18", "type": "municipal-code" },
+    { "name": "Chapter 92, Animals, Code of Ordinances, City of Akron (Municode Library)", "url": "https://library.municode.com/oh/akron/codes/code_of_ordinances?nodeId=TIT9GEPR_CH92AN", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Akron Ohio Chicken Ordinance (secondary summary quoting code text)", "url": "https://www.backyardchickens.com/articles/akron-ohio-chicken-ordinance.61057/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "The Municode and elaws.us pages could not be fetched directly from this machine (blocked/timed out) and no Wayback snapshot was found, so the 100 ft dwelling-setback text is taken from WebSearch extracts that quote Sec. 92.18 verbatim and agree across multiple independent results. However, other secondary aggregator sites (not the code) contradict each other on a $25 permit and a 50 ft alternative setback that could not be verified against the primary code, so confidence is low and permit_required and max_hens are left unknown/null rather than guessed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

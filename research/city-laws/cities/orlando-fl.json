@@ -1,0 +1,23 @@
+{
+  "id": "orlando-fl", "city": "Orlando", "state": "FL", "population": 333888,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 hens (no roosters or other poultry) at an owner-occupied single-family residence, with a permit from the City.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A city permit is required, available only to owner-occupied single-family homes on properly zoned property; renters cannot get the permit. Applicants must complete an online backyard chicken training class. Chickens are not allowed on duplexes, triplexes, townhomes, multifamily properties or community gardens.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "Coop must be in the rear yard, at least 15 ft from neighboring homes, and no closer than 5 ft to any side or rear property line.",
+  "coop_rules": "Chickens must be secured at all times in a covered chicken coop, chicken tractor or fenced pen/run; they may not run at large on public property or off the owner's premises.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Only hens are allowed, capped at 4 per property; ducks, geese, turkeys, peafowl, roosters, pigeons and other poultry are banned outright under this ordinance.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Orlando Code of Ordinances Chapter 6, Article III, Sec. 6.19 (General Conditions for the Keeping of Backyard Chickens), enacted by Ordinance No. 2016-79",
+  "sources": [
+    { "name": "Orlando Code of Ordinances, Chapter 6 Control and Regulation of Animals, Article III Backyard Chickens, Sec. 6.19", "url": "http://orlando-fl.elaws.us/code/coor_ch6_artiii_sec6.19", "type": "municipal-code" },
+    { "name": "City of Orlando Ordinance No. 2016-79, Backyard Chicken Ordinance", "url": "https://orlando.novusagenda.com/AgendaPublic/AttachmentViewer.ashx?AttachmentID=68288&ItemID=40756", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The core code portal could not be opened directly, but WebSearch's quoted extracts of Sec. 6.19 were detailed and consistent across two separate searches, including the explicit ban on sales, breeding, slaughter and consumption of the chickens, plus the permit, training class and owner-occupancy requirements.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

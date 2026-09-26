@@ -1,0 +1,35 @@
+{
+  "id": "lubbock-tx",
+  "city": "Lubbock",
+  "state": "TX",
+  "population": 273071,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chicken hens allowed by right in single-family residential zones (R-1, R-1A, R-2) with no permit; more than 6 needs a multipet permit.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit for 6 or fewer hens in qualifying residential zones. Keeping more than 6 requires a multipet permit from the Director of Animal Services.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Enclosure must be in the rear yard; an enclosure under 200 sq ft needs at least a 5 ft setback from a side or rear property line, not a distance from neighboring homes. Enclosures over 200 sq ft follow the zoning code's general setback rules (Chapter 40).",
+  "coop_rules": "Hens must stay confined to a rear-yard enclosure; litter and droppings collected daily into a closed, rat-proof, fly-tight container.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Applies in R-1, R-1A and R-2 residential districts; other zoning may differ.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Code of Ordinances, Chapter 4 (Animals), Article 4.01 and Division on Livestock and Other Animals",
+  "sources": [
+    {
+      "name": "City of Lubbock, TX Code of Ordinances, Livestock and Other Animals (eCode360)",
+      "url": "https://ecode360.com/38870263",
+      "type": "municipal-code"
+    },
+    {
+      "name": "KFYO, Lubbock's Rules For Keeping Backyard Chickens At Home",
+      "url": "https://kfyo.com/ixp/157/p/lubbock-backyard-chicken-rules/",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from search-result extracts of the city's eCode360-hosted code (setback and rear-yard rules) and a local news summary of the hen cap and multipet permit rule; the full eCode360 page could not be opened directly from this machine (Cloudflare block). Texas has no state cap on city rules and HOAs can still restrict chickens; no 2023 to 2026 amendment was found.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

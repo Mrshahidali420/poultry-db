@@ -1,0 +1,23 @@
+{
+  "id": "nashville-tn", "city": "Nashville", "state": "TN", "population": 721074,
+  "allowed": "conditional",
+  "max_hens": 2,
+  "hens_rule_text": "Hen limit scales with lot size: 2 hens on lots up to about 5,009 sq ft (0.11 acre), rising to as many as 6 on larger residential lots. A Metro permit is required regardless of flock size.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A Domestic Hen Permit from Metro Public Health / Animal Care and Control is required, renewed periodically, with a signed rules-and-regulations form.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Hen house and enclosure must be in the side or rear yard, never the front yard, and at least 25 ft from a neighboring residence.",
+  "coop_rules": "Hen house must be fully enclosed with a roof, lockable doors, and predator-proof screening on any openings (holes smaller than one square inch); it must provide at least 2 sq ft per hen, with the outdoor fenced run providing at least 6 sq ft per hen; the area must be kept free of trash and accumulated droppings.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules apply to residential lots citywide under Metro's domestic hen permitting program, administered by Animal Care and Control; the state has no law overriding local rules (a 2024 bill to protect up to six hens statewide did not pass, per Tennessee's state-law entry).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Nashville.gov, Get or Renew Domestic Hen Permit", "url": "https://www.nashville.gov/departments/health/animal-care-and-control/get-or-renew-domestic-hen-permit", "type": "city-website" },
+    { "name": "Metro Animal Care and Control, Hens Rules and Regulations (PDF)", "url": "https://filetransfer.nashville.gov/portals/0/sitecontent/Health/PDFs/Animal/HensRulesAndRegulations.pdf", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The official nashville.gov permit page returned a Cloudflare block to a direct fetch, and the official Rules and Regulations PDF was downloaded but could not be text-extracted in this sandbox, so the lot-size tiers, 25 ft setback and coop dimensions come from a search-result extract of that same official material rather than text confirmed by this session directly.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dallas-tx",
+  "city": "Dallas",
+  "state": "TX",
+  "population": 1329491,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "No flat citywide hen cap was found; keeping fowl is allowed with a setback from property lines and from neighboring homes, and a permit is required above an unconfirmed bird-count threshold.",
+  "roosters_allowed": "yes",
+  "permit_required": "unknown",
+  "permit_notes": "An 'excess animal permit' is reported to apply once a flock crosses a threshold (secondary sources say roughly 5 to 8 birds), but the exact number in the current code was not confirmed.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Any animal enclosure must be at least 20 ft from an adjacent property line; an enclosure holding two or more fowl must be at least 30 ft from any adjacent residence or business, per a change reported to have lowered this from 50 ft in October 2022.",
+  "coop_rules": "Fowl must be kept in a proper enclosure; general sanitation and nuisance rules apply.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Dallas City Code Chapter 7 (Animals) no longer bans roosters: Dallas Animal Services' own website states that Texas House Bill 1750 (effective Sept 1, 2023), which made backyard poultry keeping a protected agricultural operation under Agriculture Code Chapter 251, overrode the city's rooster ban, so keeping roosters is currently lawful in Dallas city limits, though sanitation, setback and noise rules still apply.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 7",
+  "sources": [
+    {
+      "name": "Dallas Animal Services, Keeping of Roosters",
+      "url": "https://dallascityhall.com/departments/dallas-animal-services/Pages/Roosters.aspx",
+      "type": "city-website"
+    },
+    {
+      "name": "Houston Chronicle, It's legal to have horses, pigs and roosters",
+      "url": "https://www.houstonchronicle.com/opinion/outlook/article/legal-urban-livestock-texas-rooster-hen-cow-pig-20244385.php",
+      "type": "secondary"
+    },
+    {
+      "name": "CoopCraft Guide, Dallas Texas Chicken Laws",
+      "url": "https://coopcraftguide.com/chicken-laws/texas/dallas/",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "The rooster status is high confidence, read directly on the official Dallas Animal Services page. The hen count, permit threshold and 30 ft setback come from secondary sites summarizing Chapter 7, which is on Municode and region-blocked from this machine with no Wayback copy found; those figures are not independently verified against the code text.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

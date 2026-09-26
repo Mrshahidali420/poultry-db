@@ -1,0 +1,23 @@
+{
+  "id": "montgomery-al", "city": "Montgomery", "state": "AL", "population": 195300,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens allowed, but most residential zones (R-125 down to R-50) require a Special Exception approved by the Board of Adjustment before keeping any; only the AGR-1 and AGR-2 agricultural-residential zones allow chickens by right.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A zoning Special Exception from the Board of Adjustment is required in standard residential zones before installing a coop; chickens are allowed outright only in AGR-1/AGR-2 zones.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "City guidance states the coop should be at least 30 ft from the nearest residence; not confirmed as the exact zoning-code figure, only as stated on the city's 311 knowledgebase page.",
+  "coop_rules": "Coop/hen house must be provided for predator protection and kept clean without creating odor or noise nuisance.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Zoning Ordinance permits chickens by right in AGR-1 (Residential Agriculture) and AGR-2 (General Agriculture); allowed by Special Exception (Board of Adjustment) in R-125, R-100, R-85, R-75, R-65, R-60 and R-50 residential districts.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "City of Montgomery 311 Knowledgebase: Chickens and other agriculture", "url": "https://montgomeryal.qscend.com/311/knowledgebase/article/179179", "type": "city-website" },
+    { "name": "Backyard Chickens forum: Montgomery Alabama Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/montgomery-alabama-chicken-ordinance.61041/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts drawn from the City of Montgomery's own 311 knowledgebase page (official city source) via search-result extract; the underlying Zoning Ordinance section number could not be located, and the municipal code site (Municode) was not directly reachable, so this is not confirmed against primary code text.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

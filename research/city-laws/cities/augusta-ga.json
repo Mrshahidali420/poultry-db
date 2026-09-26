@@ -1,0 +1,24 @@
+{
+  "id": "augusta-ga", "city": "Augusta", "state": "GA", "population": 201999,
+  "allowed": "unknown",
+  "max_hens": null,
+  "hens_rule_text": "No numeric hen cap, permit, or residential setback for keeping chickens could be confirmed in the Augusta-Richmond County animal code or the 2019 Comprehensive Zoning Ordinance. Several secondary sites (BackYardChickens.com, ChickenLaws.com) claim a 6-hen limit, no rooster, and a 50 ft home setback, but that specific text was not found in either primary document read directly for this entry.",
+  "roosters_allowed": "unknown",
+  "permit_required": "unknown",
+  "permit_notes": "The animal code's Sec. 4-1-51 requires Board of Health permission for a \"stock pen\" but that section names stock, cattle, hogs, sheep and goats, not fowl, so it does not clearly apply to backyard chickens. No fowl-specific permit provision was found.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not found in the animal code (Title 4, Chapter 1) or the 2019 zoning ordinance text searched. Secondary sources cite 50 ft from a neighboring dwelling and 10 ft from side/rear lines, but this could not be verified against the code text obtained.",
+  "coop_rules": "unknown from primary sources checked",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The Augusta animal code (Chapter 1, Animals and Fowl) only addresses fowl running at large (Sec. 4-1-30) and does not set a residential keeping limit. The full text of the 2019 Comprehensive Zoning Ordinance was searched for \"fowl,\" \"poultry,\" and \"chicken\" and returned no residential accessory-use provision; its only fowl-related clause is in the Heavy Industry special-exception list (killing of fowl is excluded from the ban on animal slaughter there), which does not govern ordinary residential lots.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Augusta-Richmond County Code, Title 4, Chapter 1 - Animals and Fowl (full PDF, read directly)", "url": "https://www.augustaga.gov/DocumentCenter/View/19642", "type": "municipal-code" },
+    { "name": "Comprehensive Zoning Ordinance of Augusta, Georgia, November 2019 (full PDF, read directly)", "url": "https://www.augustaga.gov/DocumentCenter/View/8388/Comprehensive-Zoning-Ordinance---November-2019", "type": "municipal-code" },
+    { "name": "Augusta Georgia Chicken Ordinance summary (unverified claims of 6-hen cap and 50 ft setback)", "url": "https://www.backyardchickens.com/articles/augusta-georgia-chicken-ordinance.61558/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Both primary Augusta documents (the animal code PDF and the full 2019 zoning ordinance PDF) were downloaded and their full text searched directly for fowl/chicken/poultry/coop/rooster terms. Neither contains an explicit residential hen cap, permit, or setback. Because the code is silent rather than explicitly permissive or explicitly prohibitive, allowed is marked unknown rather than guessing from unverified secondary-site numbers; this needs a human follow-up call to Augusta Planning & Development or Animal Services to confirm current practice, and a check for a separate ordinance not indexed under these two documents.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

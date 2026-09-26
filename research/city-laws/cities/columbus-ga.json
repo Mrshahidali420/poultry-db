@@ -1,0 +1,23 @@
+{
+  "id": "columbus-ga", "city": "Columbus", "state": "GA", "population": 202171,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "Columbus code text found in search extracts limits fowl-keeping to lots of two acres or more; on a qualifying lot the cap is one \"bird unit\" per acre, with a bird unit defined as 32 chickens (or 16 ducks, or 8 turkeys/geese). Ordinary residential lots under 2 acres appear not to qualify at all.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit process was found; eligibility instead turns on lot size (2+ acres), which functions like a zoning threshold rather than a permit.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Search extracts of the code state barns or structures for keeping/confining poultry must be at least 100 ft from any lot line, not specifically from a neighbor's dwelling.",
+  "coop_rules": "Structures used to keep or shelter poultry must sit at least 100 ft from any property line; only fowl six weeks or older count toward the per-acre cap.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Chapter 5 (Animals and Fowl) of the Columbus consolidated government code appears to treat fowl-keeping as an accessory agricultural use requiring a 2+ acre lot, which excludes most ordinary single-family residential parcels.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 5-7.1 (section number uncertain; possibly renumbered, one summary cited Sec. 5-42)",
+  "sources": [
+    { "name": "Chapter 5 - Animals and Fowl, Code of Ordinances, Columbus, GA (Municode)", "url": "https://library.municode.com/ga/columbus/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANFO", "type": "municipal-code" },
+    { "name": "Columbus Georgia Chicken Ordinance summary", "url": "https://www.backyardchickens.com/articles/columbus-georgia-chicken-ordinance.61173/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Municode's Columbus page returned a 403 (region block) on direct and Wayback fetch attempts, so all code language here comes from search-engine text extracts that quote the ordinance, not a page I read directly. The exact code section number is inconsistent between two search results (5-7.1 vs 5-42), so it is flagged as uncertain. The core fact (2-acre minimum, 32-chicken bird unit, no roosters) appeared consistently across the extract, but this needs direct verification.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

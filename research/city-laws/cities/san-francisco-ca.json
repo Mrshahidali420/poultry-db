@@ -1,0 +1,35 @@
+{
+  "id": "san-francisco-ca",
+  "city": "San Francisco",
+  "state": "CA",
+  "population": 826079,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 small animals total (hens count toward this along with dogs 6 months or older, rabbits, ducks, etc.) allowed without a permit; more requires Department of Public Health approval.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed for the standard allowance of up to 4 hens; a permit from the Director of Public Health is needed to keep more, and the coop itself must be approved by that office.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop must be at least 20 ft from any door or window of a residence.",
+  "coop_rules": "Coop must be approved by the Department of Public Health; general sanitation and nuisance rules apply.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are in San Francisco Health Code Sec. 37, Keeping and feeding of small animals, poultry and game birds, and apply citywide rather than by zoning district.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Health Code Sec. 37",
+  "sources": [
+    {
+      "name": "San Francisco Health Code Sec. 37, Keeping and Feeding of Small Animals, Poultry and Game Birds",
+      "url": "https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_health/0-0-0-43",
+      "type": "municipal-code"
+    },
+    {
+      "name": "BackYard Chickens forum, San Francisco California Chicken Ordinance",
+      "url": "https://www.backyardchickens.com/articles/san-francisco-california-chicken-ordinance.61150/",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "The amlegal code page could not be opened directly (Cloudflare block, no Wayback copy available) so the figures rest on search-result extracts of Health Code Sec. 37 plus a secondary summary that agree with each other; the 4-animal combined cap and 20 ft door/window setback were not confirmed against the full code text.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "santa-ana-ca",
+  "city": "Santa Ana",
+  "state": "CA",
+  "population": 315586,
+  "allowed": "yes",
+  "max_hens": 4,
+  "hens_rule_text": "up to 4 fowl (hens) allowed on any residential premises; more than 4 requires a special permit; no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit is needed for 4 or fewer fowl. Keeping more than 4 requires a special permit from the city.",
+  "setback_ft_from_homes": 30,
+  "setback_notes": "Fowl pens, coops or runs must be at least 30 ft from any residence other than the keeper's own; sources describing a special-permit case for more than 4 fowl mention stricter distance rules (around 100 ft) but the exact text for that case was not confirmed.",
+  "coop_rules": "Fowl and their housing must be kept away from neighboring residences per the 30 ft setback; no further coop construction standard confirmed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is citywide under Santa Ana Municipal Code Chapter 5 (Animals), Article I; roosters are separately banned citywide on residential premises under Sec. 5-6.5.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 5-6",
+  "sources": [
+    {
+      "name": "Santa Ana Code of Ordinances Sec. 5-6.5 Prohibition of roosters (elaws.us mirror)",
+      "url": "http://santaana-ca.elaws.us/code/coor_ch5_arti_sec5-6.5",
+      "type": "municipal-code"
+    },
+    {
+      "name": "Santa Ana Code of Ordinances, Chapter 5 Animals, Article I (Municode)",
+      "url": "https://library.municode.com/ca/santa_ana/codes/code_of_ordinances?nodeId=PTIITHCO_CH5AN_ARTIIDO",
+      "type": "municipal-code"
+    },
+    {
+      "name": "New University (UC Irvine), The Chicken Lady: how the Santa Ana chicken ordinance changed",
+      "url": "https://newuniversity.org/2017/03/14/the-chicken-lady-how-one-woman-changed-the-chicken-ordinance-of-santa-ana/",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Search-result extracts quoted the actual code language (4-fowl limit, 30 ft setback, Sec. 5-6.5 rooster ban) from an elaws.us mirror of the Santa Ana code, but the full page could not be opened directly and the exact numbered section for the fowl-count rule (likely Sec. 5-6) was not fully confirmed; a secondary claim of a 100 ft rule for permitted flocks over 4 birds is noted but unverified.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

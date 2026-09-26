@@ -1,0 +1,21 @@
+{
+  "id": "mobile-al", "city": "Mobile", "state": "AL", "population": 200824,
+  "allowed": "conditional", "max_hens": 4,
+  "hens_rule_text": "Up to 4 hens on lots under 10,000 sq ft, up to 8 hens on lots 10,000 sq ft or larger, with an annual permit.",
+  "roosters_allowed": "conditional", "permit_required": "yes",
+  "permit_notes": "An annual $25 backyard-fowl permit from the city director is required before keeping any domestic fowl; it is unlawful to keep fowl without one.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Coops and runs must be at least 25 ft from any property line and at least 50 ft from a residence on an adjacent lot, per secondary summaries of Chapter 7; one other source gave 40 ft to neighboring residences, so treat the exact figure as approximate pending a direct code read.",
+  "coop_rules": "Fowl must be kept in an appropriate house, coop, ark or yard meeting standards set by the city director; kept clean and maintained to avoid nuisance conditions.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters are not permitted in ordinary residential zones; a permit for a rooster can only be issued in a residential-agricultural (R-A) zoned area. Rules live in Mobile Code of Ordinances Chapter 7, Animals and Fowl.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Mobile Code of Ordinances, Ch. 7 (Animals and Fowl), approx. Sec. 7-103",
+  "sources": [
+    { "name": "Code of Ordinances, Mobile AL, Chapter 7 Animals and Fowl (Municode Library)", "url": "https://library.municode.com/al/mobile/codes/code_of_ordinances?nodeId=CICO_CH7ANFO", "type": "municipal-code" },
+    { "name": "Mobile Alabama Chicken Ordinance, BackYard Chickens", "url": "https://www.backyardchickens.com/articles/mobile-alabama-chicken-ordinance.61199/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "library.municode.com returns a 403 block from this machine and no Wayback snapshot was found, so the code was never read directly; all figures (hen caps, permit fee, setbacks) come from search-result extracts and secondary sites that appear to paraphrase Chapter 7, and two sources gave slightly different setback distances (40 ft vs 50 ft). Treat hen counts and setbacks as approximate until verified against the actual ordinance text.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

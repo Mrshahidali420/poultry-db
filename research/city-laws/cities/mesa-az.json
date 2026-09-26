@@ -1,0 +1,40 @@
+{
+  "id": "mesa-az",
+  "city": "Mesa",
+  "state": "AZ",
+  "population": 513656,
+  "allowed": "yes",
+  "max_hens": 10,
+  "hens_rule_text": "Up to 10 fowl (chickens counted together with rabbits/rodents) on the first half acre or less of a lot, with more allowed on larger lots and no limit at 2.5 acres or more. Arizona state law (A.R.S. 9-462.12) separately guarantees at least 6 hens on any single-family lot of half an acre or less.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No coop permit is required under Mesa City Code Sec. 8-6-21.",
+  "setback_ft_from_homes": 40,
+  "setback_notes": "Sources describe an enclosure setback of about 40 ft and a coop setback of about 75 ft from any other residence; other secondary sources cite a simpler 20 ft figure. The exact distances could not be confirmed against the code text itself.",
+  "coop_rules": "Enclosures must be kept sanitary and fowl must not be allowed to run loose or create a noise disturbance.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Roosters are allowed as long as they do not create a noise disturbance; a substantiated noise complaint can require the rooster's removal. Arizona's A.R.S. 9-462.12 (2024) separately bars the city from banning up to 6 hens on a detached single-family lot of half an acre or less, regardless of the local fowl-or-rodent count rule.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Mesa City Code Sec. 8-6-21 (Fowl, Rodents & Livestock)",
+  "sources": [
+    {
+      "name": "coopcraftguide.com, Can You Have Chickens in Mesa, Arizona?",
+      "url": "https://coopcraftguide.com/chicken-laws/arizona/mesa/",
+      "type": "secondary"
+    },
+    {
+      "name": "Az Chickens, Arizona Chicken Regulations City-by-City Guide",
+      "url": "https://azchickens.com/blogs/news/arizona-chicken-regulations-city-by-city-ordinance-guide-2024",
+      "type": "secondary"
+    },
+    {
+      "name": "A.R.S. 9-462.12 Backyard fowl regulation (state law)",
+      "url": "https://www.azleg.gov/ars/9/00462-12.htm",
+      "type": "city-website"
+    }
+  ],
+  "confidence": "low",
+  "research_notes": "Mesa's own municipal code page could not be opened or reached via search extract with the exact section text; the 10-fowl/half-acre rule and code section (8-6-21) are consistent across secondary chicken-law sites, but the setback distance is disputed between sources (40/75 ft vs 20 ft) and could not be resolved. State law A.R.S. 9-462.12 independently guarantees a 6-hen floor.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

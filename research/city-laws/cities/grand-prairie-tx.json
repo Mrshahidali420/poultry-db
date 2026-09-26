@@ -1,0 +1,22 @@
+{
+  "id": "grand-prairie-tx", "city": "Grand Prairie", "state": "TX", "population": 209434,
+  "allowed": "conditional",
+  "max_hens": null,
+  "hens_rule_text": "No fixed headcount cap; instead the code requires 20 sq ft of space per fowl and, separately, bans any fowl pen or coop within 150 ft of any residence, business, school, hospital or similar building other than the owner's own. That 150 ft rule makes keeping fowl impractical on most ordinary residential lots.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit found for keeping hens; the 150 ft distance and 20 sq ft per bird space rule are the operative limits, not a licensing process.",
+  "setback_ft_from_homes": 150,
+  "setback_notes": "Sec. 5-26 bans fowl pens, stables, sheds, coops or enclosures within 150 ft of any residence, business or commercial establishment or office other than the owner's, as well as grocery stores, restaurants, schools, hospitals and nursing homes.",
+  "coop_rules": "Fowl must be kept in a pen, stable, shed, coop or enclosure with at least 20 sq ft of space per bird (equivalently 500 sq ft per 25 birds).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "\"Fowl\" is defined broadly (Order Anseriformes such as ducks, geese, swans; Order Galliformes such as chickens, peafowl, turkey, guinea fowl, and other wild or domesticated Gallinaceous birds). The 150 ft rule effectively confines legal fowl-keeping to large lots.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 5-26",
+  "sources": [
+    { "name": "Grand Prairie, TX Code of Ordinances, Chapter 5 Animal Services (Municode)", "url": "https://library.municode.com/tx/grand_prairie/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANSE", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts (150 ft setback, 20 sq ft per fowl, outright rooster ban) come from consistent search-result extracts quoting Sec. 5-26 directly across two separate queries; Municode itself is region-blocked from this machine so the full chapter text was not opened directly. A PDF titled 'Urban Hen Guidelines' found under cityofgp.com was checked and rejected: that domain belongs to Grande Prairie, Alberta, Canada, not Grand Prairie, Texas, so it was not used.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

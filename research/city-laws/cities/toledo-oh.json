@@ -1,0 +1,30 @@
+{
+  "id": "toledo-oh",
+  "city": "Toledo",
+  "state": "OH",
+  "population": 263423,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens allowed per single-family dwelling with no permit needed, if setback and coop standards are met.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed when the dwelling setback, side-yard setback, coop and sanitation rules are all met. A permit (with a variance explanation) is required if a resident cannot meet one of those standards.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "25 ft setback from dwellings and a separate 5 ft side-yard setback apply to the coop and enclosure.",
+  "coop_rules": "Covered, predator-proof, well-ventilated coop with at least 1 sq ft per hen, plus a fenced outdoor enclosure; coop and enclosure kept sanitary and free of offensive odor.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Applies to single-family dwellings.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 1705, Toledo Municipal Code",
+  "sources": [
+    {
+      "name": "City of Toledo, Keeping Chickens (official page)",
+      "url": "https://toledo.oh.gov/residents/neighborhoods/nuisance-animals/keeping-chickens",
+      "type": "city-website"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from a search-result extract of the city's own official Keeping Chickens page; the full page text was not opened directly from this machine. No 2023 to 2026 amendment was found. Ohio has no known state law overriding this.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

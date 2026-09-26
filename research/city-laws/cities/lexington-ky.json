@@ -1,0 +1,23 @@
+{
+  "id": "lexington-ky", "city": "Lexington", "state": "KY", "population": 329751,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "No numeric cap on hens was found in the Lexington-Fayette Urban County code sections located; chickens must be confined to the owner's property and not run at large.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit requirement was found in the code provisions located (Chapter 4, Animals and Fowl); some secondary sources mention a permit but this was not confirmed in the code text itself.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No specific setback distance from neighboring dwellings was found in the sections reviewed (Sec. 4-8, Sec. 4-10).",
+  "coop_rules": "Fowl must be confined to the owner's property at all times; running at large is prohibited (Sec. 4-10, Fowl going at large).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "As of 1 November 2025, an Urban County Council ordinance limits households outside agricultural zones to no more than 1 rooster; this was passed in response to noise complaints and raised the maximum fine for animal-code violations to $100 per day.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Lexington-Fayette Urban County Code Chapter 4 (Animals and Fowl), Sec. 4-8 and Sec. 4-10; rooster limit added by a 2025 amending ordinance effective November 1, 2025",
+  "sources": [
+    { "name": "Lexington-Fayette Urban County Code, Sec. 4-10, Fowl going at large", "url": "https://codelibrary.amlegal.com/codes/lexingtonfayettecoky/latest/lexingtonfayettecoky_code/0-0-0-3704", "type": "municipal-code" },
+    { "name": "Spectrum News 1, Lexington residents could see limits on rooster ownership (Aug 2025)", "url": "https://spectrumnews1.com/ky/louisville/news/2025/08/26/lexington-households-may-soon-be-limited-to-one-rooster", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "amlegal.com is Cloudflare-blocked from this machine, so the base rules come from WebSearch's extracts of the code's fowl sections, which did not surface a hen cap, permit rule or setback distance; those fields are left unknown rather than guessed. A 2025 news article (confirmed by search, not the ordinance text itself) describes a new one-rooster-per-household limit outside agricultural zones effective November 1, 2025, so roosters are marked conditional. An unrelated Lexington, Virginia news article about a different small town's 2019 hen ordinance was found during research and explicitly excluded as it does not describe this city.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

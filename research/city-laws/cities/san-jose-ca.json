@@ -1,0 +1,35 @@
+{
+  "id": "san-jose-ca",
+  "city": "San Jose",
+  "state": "CA",
+  "population": 989814,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens allowed on a residential lot with no permit, provided the coop is in the rear yard at least 20 ft from any dwelling; more (up to 10, then up to 20) are allowed with a permit and greater distance from dwellings.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed for 6 or fewer hens. Keeping more requires a permit from the city, with the allowed count rising as distance from neighboring dwellings increases.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop must be in the rear yard and at least 20 ft from any dwelling unit, not just a property line; placement in the front yard or a side setback area is not allowed.",
+  "coop_rules": "Coop must be in the rear yard; general sanitation and nuisance provisions apply under Title 7 (Animal Care and Control).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules apply to residential zoning; roosters are not allowed in any residentially zoned area.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Title 7 (Sec. 7.72 area)",
+  "sources": [
+    {
+      "name": "San Jose Municipal Code, Title 7 Animals (PDF)",
+      "url": "https://www.theanimalcouncil.com/files/San_Jos_Municipal_Code_7.pdf",
+      "type": "municipal-code"
+    },
+    {
+      "name": "Urban Chickens Network, San Jose CA",
+      "url": "http://wiki.urbanchickens.net/San_Jose,_CA",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "library.municode.com is region-blocked from this machine, so the exact section number and current text were not opened directly; figures come from a hosted copy of Title 7 and secondary summaries that agree with each other on the 6/10/20 tiers and 20 ft dwelling setback.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

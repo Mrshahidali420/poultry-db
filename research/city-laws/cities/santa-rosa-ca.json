@@ -1,0 +1,23 @@
+{
+  "id": "santa-rosa-ca", "city": "Santa Rosa", "state": "CA", "population": 179437,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Hens allowed with no fixed cap found; the required coop setback grows once you keep more than 6 hens, so 6 or fewer is the simplest tier. No roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No permit requirement was confirmed or ruled out in the sources found; the rules read as development standards in the zoning code rather than a permit program.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop set back at least 5 ft from side or rear property lines when keeping 6 or fewer hens, or at least 10 ft from those lines when keeping more than 6; not stated as distance from a neighbor's dwelling.",
+  "coop_rules": "Hens kept in a coop and pen within a securely fenced rear yard area; coop height capped at 8 ft; coop and pen kept clean and sanitary.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Standards appear to come from the zoning code's Standards for Specific Land Uses chapter (City of Santa Rosa Code, Chapter 20-42); applicability across all residential zones was not fully confirmed.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 20-42",
+  "sources": [
+    { "name": "City of Santa Rosa Code, Chapter 20-42 Standards for Specific Land Uses (eCode360)", "url": "https://ecode360.com/42982089", "type": "municipal-code" },
+    { "name": "BackYard Chickens: Santa Rosa California Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/santa-rosa-california-chicken-ordinance.61223/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts (rooster ban, tiered 5 ft/10 ft setback by hen count, coop height cap, rear-yard containment) come from a WebSearch extract referencing the City of Santa Rosa zoning code's Chapter 20-42 land use standards; the eCode360 page itself was not opened directly, and no numeric hen cap, code section number, or permit requirement could be confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

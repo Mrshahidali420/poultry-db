@@ -1,0 +1,24 @@
+{
+  "id": "memphis-tn", "city": "Memphis", "state": "TN", "population": 609647,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens on a typical residential lot, figured as roughly 1 hen per 1,500 sq ft of lot area, so larger lots can keep more.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No city permit is required to keep hens within the lot-area based limit. One secondary source describes an older 1,000 ft health-officer permit rule under Sec. 8-8-10 for livestock near another residence, which may predate the current fowl-specific chapter and could not be reconciled with the no-permit sources.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No specific distance from neighboring homes was confirmed. General nuisance and enclosure rules apply, and coop placement must meet the standards of the applicable zoning district.",
+  "coop_rules": "Chickens must be kept with sufficient water, shelter, ventilation and food, and cannot be kept in conditions that cause odor, disease or nuisance. Animals may not run at large on streets, alleys or unenclosed lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Chapter 8-4 (Livestock and Fowl) of the Memphis Code of Ordinances covers keeping of birds; coop and enclosure placement must also meet the setback and placement standards of the property's zoning district.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Memphis Code of Ordinances, Title 8, Chapter 8-4 (Livestock and Fowl), Sec. 8-4-4",
+  "sources": [
+    { "name": "Memphis Code of Ordinances, Chapter 8-4 Livestock and Fowl", "url": "https://library.municode.com/tn/memphis/codes/code_of_ordinances?nodeId=TIT8AN_CH8-4LIFO_S8-4-4KIBI", "type": "municipal-code" },
+    { "name": "Memphis Code of Ordinances, Title 8 Animals", "url": "https://library.municode.com/tn/memphis/codes/code_of_ordinances?nodeId=TIT8AN", "type": "municipal-code" },
+    { "name": "MicroMemphis Cooper-Young, Need-to-Know Ordinances for Urban Chicken Farmers", "url": "https://cooperyoung.weebly.com/need-to-know-ordinances-for-urban-chicken-farmers.html", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked and a Shelby County PDF copy of the animal code did not extract readable text, so the 6-hen/1,500-sq-ft rule and no-permit, no-rooster facts come from search-result extracts of Chapter 8-4 Sec. 8-4-4, cross-checked against a local Cooper-Young neighborhood chicken-keeping guide. An older Sec. 8-8-10 permit rule appears in one secondary source but could not be reconciled with the current chapter.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "atlanta-ga", "city": "Atlanta", "state": "GA", "population": 529110,
+  "allowed": "yes",
+  "max_hens": 25,
+  "hens_rule_text": "Up to 25 chickens per premises are allowed, though the number kept must be reasonable for the size of the property.",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No permit is required to keep backyard chickens. Eggs and meat produced by the birds cannot be sold.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Enclosures must be 50 ft from neighboring residences and also meet the setback requirements that apply to accessory structures generally.",
+  "coop_rules": "Enclosures must have a solid floor of cement or other washable material unless the pen is 75 ft or more from the nearest neighbor's residence or place of business; the coop must be kept clean and sanitary and free of waste and pest buildup.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Atlanta does not explicitly ban roosters, but persistent crowing (10 or more consecutive minutes) is treated as a noise nuisance under Sec. 18-11, with fines from $150 to $1,000, so roosters are allowed only if they do not trigger a noise complaint.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Atlanta Municipal Code, Chapter 18 (Animals), Sec. 18-7 to 18-41",
+  "sources": [
+    { "name": "Atlanta, Ga. Code of Ordinances, Chapter 18 Animals", "url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIICOORENOR_CH18AN", "type": "municipal-code" },
+    { "name": "Farmland Information Center, Atlanta Georgia Urban Livestock Ordinances", "url": "https://farmlandinfo.org/law/atlanta-georgia-urban-livestock-ordinances/", "type": "secondary" },
+    { "name": "Atlanta 311, Livestock/Farm Animals on Residential & Commercial Property", "url": "https://www.atl311.com/en-us/knowledgearticle/?code=KB0012356", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked from this machine; facts come from search-result extracts citing specific sections (18-7, 18-11, 18-41) plus a Farmland Information Center legal summary and the city's own 311 knowledge article, which agree on the 25-bird cap, 50 ft setback and no-permit rule. Rooster status is marked conditional because crowing itself is regulated as a noise nuisance rather than the bird being banned outright.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

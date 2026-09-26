@@ -1,0 +1,23 @@
+{
+  "id": "aurora-il", "city": "Aurora", "state": "IL", "population": 181505,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chicken hens (or a mix of up to 2 ducks and up to 4 chickens) on single-family residential lots under 20,000 sq ft, with a one-time permit; no roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A one-time permit from the Director of Housing and Community Services (Neighborhood Services) is required, with a one-time fee. The permit lapses if chickens or ducks are not kept for 12 or more consecutive months. If the applicant is not the property owner, the owner's written consent is required.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Search extracts did not give a setback distance from a neighbor's dwelling; only coop floor-space limits were found.",
+  "coop_rules": "Coop must have at least 2 sq ft of floor space per hen or duck, capped at 120 sq ft total, and must be properly ventilated.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Applies to single-family residential properties on lots under 20,000 sq ft; larger lots may follow different limits not confirmed here.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 14-134",
+  "sources": [
+    { "name": "Aurora City Code Sec. 14-134, Keeping of chickens and domesticated ducks", "url": "https://aurora.municipal.codes/Code/14-134", "type": "municipal-code" },
+    { "name": "City of Aurora Neighborhood Services Department, Chicken Permit Application", "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_1881137/File/Residents/Animal%20Services/Ordinances%20&%20Enforcements/019377.pdf", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from a WebSearch extract that quotes the codified Sec. 14-134 text in detail (hen/duck counts, permit, lapse rule, owner consent, coop size, slaughter restriction) plus the city's own permit application PDF; the aurora.municipal.codes page itself returned a 403 to direct fetch, so the full text was not independently read.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

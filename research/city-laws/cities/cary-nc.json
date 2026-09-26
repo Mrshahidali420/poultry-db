@@ -1,0 +1,23 @@
+{
+  "id": "cary-nc", "city": "Cary", "state": "NC", "population": 183582,
+  "allowed": "conditional",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 hens on single-family detached lots of at least 6,000 sq ft, with a permit; no roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A one-time permit, reported as a $50 fee, is required for the chicken coop before keeping hens. Only single-family detached dwellings qualify.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops, pens and chicken tractors must sit in the rear yard, behind the back wall of the house, at least 15 ft from side and rear property lines; not stated as distance from a neighbor's dwelling.",
+  "coop_rules": "Chickens kept in a coop and pen, or a movable chicken tractor; coops and enclosures may not be inside the residence or garage. Chickens must be secured in the coop during non-daylight hours.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Applies only to single-family detached dwelling units; not confirmed for other residential lot types.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "Town of Cary, Citizen Guide to Backyard Chickens Permits (Planning Department FAQ)", "url": "https://www.carync.gov/connect-engage/town-departments-offices/planning-department/faq/backyard-chickens-faq", "type": "city-website" },
+    { "name": "BackYard Chickens: Cary North Carolina Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/cary-north-carolina-chicken-ordinance.61183/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from a WebSearch extract of the Town of Cary's own Backyard Chickens FAQ page (lot size, hen cap, permit fee, coop location and setback); the live page returned a 403 to direct fetch and a Wayback copy was rate limited, so the full page and the exact Land Development Ordinance section number were not independently confirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

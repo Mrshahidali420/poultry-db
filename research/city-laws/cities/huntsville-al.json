@@ -1,0 +1,25 @@
+{
+  "id": "huntsville-al", "city": "Huntsville", "state": "AL", "population": 233627,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Hens allowed on residential lots, commonly cited as up to 6 hens on lots under half an acre and up to 12 hens on lots half an acre or larger; roosters not allowed.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit found for keeping hens; secondary sources agree the city takes a nuisance and containment based approach rather than requiring a permit.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Multiple secondary sources cite a 25 ft setback for coops and runs from neighboring residences and public rights of way; one search extract instead described a 150 ft setback, so this figure is not fully confirmed.",
+  "coop_rules": "Coop and run must be kept clean, free of rodents, and waste disposed of so it does not create a public nuisance.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rules sit in Code of Ordinances Chapter 5 (Animals); a 2013 city discussion considered a stricter 3-hen cap that does not appear to be the current rule.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 5 (Animals)",
+  "sources": [
+    { "name": "Huntsville Chicken Ordinance summary", "url": "https://www.backyardchickens.com/articles/huntsville-alabama-chicken-ordinance.61480/", "type": "secondary" },
+    { "name": "ChickenLaws.com Huntsville page", "url": "https://chickenlaws.com/alabama/huntsville-chicken-laws/", "type": "secondary" },
+    { "name": "City of Huntsville Code of Ordinances, Chapter 5 Animals (Municode)", "url": "https://library.municode.com/al/huntsville/codes/code_of_ordinances?nodeId=COOR_CH5AN", "type": "municipal-code" },
+    { "name": "City of Huntsville Animal Services, Licenses and Pet Ordinances", "url": "https://www.huntsvilleal.gov/environment/animal-services/pet-services/ordinance-and-license/", "type": "city-website" }
+  ],
+  "confidence": "low",
+  "research_notes": "Municode is region-blocked from this machine and its Huntsville chicken chapter renders via JavaScript, so no Wayback snapshot captured the actual code text; all numeric facts come from consistent but secondary sources (backyardchickens.com, chickenlaws.com, cityhubgo), which the brief flags as facts to report cautiously. Setback figure conflicts between 25 ft and 150 ft in different search extracts; used the more commonly repeated 25 ft. Slaughter ban and no-permit status are also secondary-sourced only.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

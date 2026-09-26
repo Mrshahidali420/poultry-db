@@ -1,0 +1,40 @@
+{
+  "id": "las-vegas-nv",
+  "city": "Las Vegas",
+  "state": "NV",
+  "population": 679817,
+  "allowed": "conditional",
+  "max_hens": 10,
+  "hens_rule_text": "On a typical single-family residential lot, up to 10 hens may be kept, but only with written consent from every neighbor whose dwelling is within 350 ft, filed with Animal Control. Larger, lower-density lots may allow more.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No general city permit, but the code requires filing written, unrevoked neighbor consent with the Animal Control Officer whenever poultry are kept within 350 ft of another person's dwelling. Chickens cannot be bred for sale or slaughtered for sale.",
+  "setback_ft_from_homes": 20,
+  "setback_notes": "Coop and run cannot be closer than 20 ft from a neighboring home; the 350 ft distance is the trigger for needing written neighbor consent in the first place, not a hard ban past that distance.",
+  "coop_rules": "Poultry must be confined in a suitable coop, outbuilding or enclosed runway kept clean and free of odor, waste, rodents or flies; poultry cannot be kept inside a dwelling, basement or cellar.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rule applies citywide to single-family residential lots; secondary sources describe an easier 20-hen, no-consent allowance on larger low-density lots, which could not be confirmed against the code text.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Title 7, Ch. 7.38 (Wild and Farm Animals), Sec. 7.38.050 (Poultry and birds)",
+  "sources": [
+    {
+      "name": "Las Vegas Code of Ordinances, Chapter 7.38 Wild and Farm Animals",
+      "url": "https://library.municode.com/nv/las_vegas/codes/code_of_ordinances?nodeId=TIT7AN_CH7.38WIFAAN",
+      "type": "municipal-code"
+    },
+    {
+      "name": "Las Vegas Review-Journal, Las Vegas residents can now keep chickens in their yards",
+      "url": "https://www.reviewjournal.com/news/politics-and-government/las-vegas/las-vegas-residents-can-now-keep-chickens-in-their-yards/",
+      "type": "secondary"
+    },
+    {
+      "name": "Las Vegas Review-Journal, council considering expanding resident chicken coops",
+      "url": "https://www.reviewjournal.com/news/politics-and-government/las-vegas/las-vegas-council-considering-expanding-resident-chicken-coops/",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked from this machine. Facts combine a search-result extract of Sec. 7.38.050 (350 ft consent rule, no roosters, coop confinement) with Review-Journal news coverage of the 2018 ordinance allowing up to 10 hens with neighbor consent. One secondary source claims a simpler 20-hen/no-consent rule that could not be verified and was not used.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

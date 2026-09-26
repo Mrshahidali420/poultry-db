@@ -1,0 +1,23 @@
+{
+  "id": "seattle-wa", "city": "Seattle", "state": "WA", "population": 784777,
+  "allowed": "yes",
+  "max_hens": 8,
+  "hens_rule_text": "Up to 8 domestic fowl allowed on any residential lot with no permit; lots over 10,000 sq ft may keep one additional bird for each extra 1,000 sq ft of lot area.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit is required to keep the allowed number of hens.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop must be at least 10 ft from property lines; no separate distance from neighboring dwellings was found.",
+  "coop_rules": "Coop must be properly constructed and kept in a sanitary condition; general nuisance rules apply.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are in Seattle Municipal Code Sec. 23.42.052, Keeping of animals, and apply citywide.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "SMC 23.42.052",
+  "sources": [
+    { "name": "HenRules, Backyard Chicken Laws in Washington", "url": "https://henrules.pages.dev/states/washington", "type": "secondary" },
+    { "name": "Seattle Homestead, Urban Chicken Laws in Washington", "url": "https://www.seattlehomestead.com/resources/washington-chicken-laws/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "SMC 23.42.052 was not opened directly; the 8-hen cap, no-permit status, 10 ft setback and the 1,000 sq ft expansion rule all come from secondary summaries, not the code text itself, though the sources agree with each other.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

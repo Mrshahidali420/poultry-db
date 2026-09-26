@@ -1,0 +1,23 @@
+{
+  "id": "san-diego-ca", "city": "San Diego", "state": "CA", "population": 1406106,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 hens on a single-family lot with the coop outside all required setbacks; more are allowed farther from property lines (up to 15 hens at 15 ft from property lines, up to 25 hens if the coop is 50 ft from any residence).",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit is described for keeping chickens on a single-family lot, community garden or retail farm; the limits are set purely by setback distance.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Municipal Code Sec. 131.0443 sets setbacks from property lines by zone, not a flat distance from neighboring homes; the 25-chicken tier requires the coop to be at least 50 ft from any residential building.",
+  "coop_rules": "Coop and outdoor enclosure must be predator-proof, easily cleaned, well ventilated, fenced to keep chickens on the property, and provide at least 10 sq ft per chicken in the outdoor run.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Allowed on single-family residential properties, community gardens and retail farms per Municipal Code Sec. 42.0709, added in 2012.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 42.0709",
+  "sources": [
+    { "name": "City of San Diego, Chickens (Urban Farming, Bees and Livestock)", "url": "https://www.sandiego.gov/urban-farming/bees-and-livestock/chickens", "type": "city-website" },
+    { "name": "San Diego Humane Society, Keeping Chickens in the City of San Diego", "url": "https://sdhumane.org/resources/keeping-chickens-in-the-city-of-san-diego/", "type": "secondary" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the live official city page directly, which states the full 'Summary of Regulations' plainly (5/15/25 chicken tiers by setback, no roosters, coop specs). Did not separately open Municipal Code Sec. 42.0709 or Sec. 131.0443 text, but the city page states it summarizes them.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fontana-ca", "city": "Fontana", "state": "CA", "population": 221223,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "Raising chickens, rabbits or similar fowl and small animals is permitted, with the actual headcount set by Table No. 30-432 in the Zoning and Development Code; the specific number of hens in that table could not be read from available extracts.",
+  "roosters_allowed": "unknown",
+  "permit_required": "unknown",
+  "permit_notes": "One secondary source suggested Fontana may require a permit and pointed to the Fontana Police Department Animal Services team, but no permit process for keeping chickens was confirmed in the code text found.",
+  "setback_ft_from_homes": 40,
+  "setback_notes": "Animals must be corralled, penned or caged at least 40 ft from any dwelling on the property, per a search-result extract of the zoning code.",
+  "coop_rules": "Animals must be corralled, penned or caged; other keeping standards are in Table No. 30-432 and surrounding sections, not fully read.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Rules sit in Chapter 30 (Zoning and Development Code) Sec. 30-432, referenced by the city's own Animal Municipal Code index as 'Fowl & Livestock 30-432(2)a.1' and 'Quantity of Animals 30-432(2)b'; animal slaughter for marketable products or private consumption is prohibited in all zoning districts.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 30-432",
+  "sources": [
+    { "name": "City of Fontana, Animal Municipal Code index page", "url": "https://www.fontanaca.gov/2778/Animal-Municipal-Code", "type": "city-website" },
+    { "name": "Fontana Zoning and Development Code, Chapter 30 (Municode)", "url": "https://library.municode.com/ca/fontana/codes/zoning_and_development_code?nodeId=CH30ZODECO", "type": "municipal-code" }
+  ],
+  "confidence": "low",
+  "research_notes": "The city's own Animal Municipal Code page (read directly) confirms the exact section numbers (30-432(2)a.1 for fowl and livestock, 30-432(2)b for quantity) but only links out rather than quoting text. Municode is region-blocked from this machine and the specific zoning code node with Table No. 30-432 was not located via search or Wayback, so the numeric hen cap, rooster rule and permit status are unconfirmed; the 40 ft setback and slaughter ban come from a single search-result extract, not directly verified text.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

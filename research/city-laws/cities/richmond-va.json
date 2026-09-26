@@ -1,0 +1,22 @@
+{
+  "id": "richmond-va", "city": "Richmond", "state": "VA", "population": 237257,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 hens allowed with an annual permit from Richmond Animal Care and Control; no roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "An annual permit from Richmond Animal Care and Control (RACC) is required, with a $60 fee.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "Chickens, pens, fenced areas or coops may not be located within 15 ft of any adjacent dwelling.",
+  "coop_rules": "Coop and enclosure standards set out in RACC's chicken-keeping guide; birds must be confined to the owner's property.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "City of Richmond Animal Care and Control, A Guide to Owning Chickens in Richmond (official PDF)", "url": "https://rva.gov/sites/default/files/2019-04/RACCChickenGuide.pdf", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own RACC chicken guide PDF (confirmed reachable, 200 OK) is quoted in search-result extracts giving the 4-hen cap, no-rooster rule, $60 annual permit and 15 ft setback from an adjacent dwelling; the PDF text itself could not be extracted on this machine and the exact code section was not identified. Some secondary aggregator sites wrongly claim 6 or 8 hens; those were rejected in favor of the official guide.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

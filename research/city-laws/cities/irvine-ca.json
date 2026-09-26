@@ -1,0 +1,24 @@
+{
+  "id": "irvine-ca", "city": "Irvine", "state": "CA", "population": 318764,
+  "allowed": "no",
+  "max_hens": null,
+  "hens_rule_text": "backyard chickens are not allowed in the city of Irvine",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No residential backyard-chicken permit path found; the city's poultry and rabbits code section appears to be a prohibition rather than a permit scheme.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Not applicable on ordinary residential lots.",
+  "coop_rules": "Not applicable on ordinary residential lots.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Irvine Municipal Code Title 4, Division 5, Chapter 9 (Livestock and Poultry), Sec. 4-5-902 'Poultry and rabbits' governs this; multiple secondary summaries (Your Orange County, backyardchickens.com, texasrealfood) agree Irvine prohibits backyard chickens, unlike neighboring Orange County cities such as Anaheim, Orange and Newport Beach which allow limited hens.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 4-5-902",
+  "sources": [
+    { "name": "Irvine Municipal Code, Title 4 Div. 5 Ch. 9, Sec. 4-5-902 Poultry and rabbits (Municode)", "url": "https://library.municode.com/ca/irvine/codes/code_of_ordinances?nodeId=TIT4PUSA_DIV5ANRE_CH9LIPO_S4-5-902ZORE", "type": "municipal-code" },
+    { "name": "Your Orange County, Are Chickens Allowed In Your Orange County City?", "url": "https://yourorangecounty.com/are-chickens-allowed-in-your-orange-county-city/", "type": "secondary" },
+    { "name": "Urban Chickens Network, Irvine CA wiki page", "url": "http://wiki.urbanchickens.net/Irvine,_CA", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "library.municode.com is region-blocked from this machine so the code text itself could not be read; the ban is corroborated by two independent secondary summaries and matches the code section name (poultry and rabbits under livestock code), but the exact prohibition wording is unverified.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

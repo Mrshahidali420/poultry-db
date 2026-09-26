@@ -1,0 +1,40 @@
+{
+  "id": "st-louis-mo",
+  "city": "St. Louis",
+  "state": "MO",
+  "population": 278144,
+  "allowed": "yes",
+  "max_hens": 8,
+  "hens_rule_text": "Up to 8 fowl per parcel are allowed by right, based on a density rule of 1 fowl per 4 sq ft of indoor coop space and 10 sq ft of outdoor space; more than 8 requires a Small Farm Animal Permit and extra land.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed for 8 or fewer fowl. Keeping more than 8 requires a Small Farm Animal Permit from the Health Commissioner, plus at least 20,000 sq ft of contiguous land and living within a quarter mile of the property.",
+  "setback_ft_from_homes": 10,
+  "setback_notes": "Coop or cage must be at least 10 ft from structures and neighboring buildings.",
+  "coop_rules": "Covered, predator-proof, ventilated coop, easy to access and clean, at least 2 sq ft of interior space per bird; coop and run together should not exceed about 50 sq ft.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Allowed in residential zones under Ordinance 70608 (2017); non-residential zones are not covered by this residential-keeping rule.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ordinance 70608 (City of St. Louis animal control code)",
+  "sources": [
+    {
+      "name": "City of St. Louis, Ordinance 70608 (animal control bill)",
+      "url": "https://www.stlouis-mo.gov/government/city-laws/ordinances/ordinance.cfm?ord=70608",
+      "type": "municipal-code"
+    },
+    {
+      "name": "City of St. Louis, Animal Laws and Regulations",
+      "url": "https://www.stlouis-mo.gov/government/departments/health/animal-care-control/animal-laws.cfm",
+      "type": "city-website"
+    },
+    {
+      "name": "Missouri Coalition for the Environment, Overview of City of St. Louis Ordinance 70608",
+      "url": "https://moenvironment.org/wp-content/uploads/sites/370/2016/07/Overview-of-BB52-Chickens.pdf",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "Facts come from search-result extracts of the city's own ordinance page and animal laws page plus a nonprofit's plain-language overview of the same ordinance; the full ordinance text could not be opened directly from this machine. No 2023 to 2026 amendment was found. State law (Missouri) does not set a hen cap; a 2024 HOA protection law was later struck down in court, so HOAs may still restrict chickens.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

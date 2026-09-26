@@ -1,0 +1,24 @@
+{
+  "id": "laredo-tx", "city": "Laredo", "state": "TX", "population": 269515,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 chickens allowed with a coop set back at least 50 ft; 5 or more chickens require a 100 ft coop setback. Five is stated elsewhere as a general per-residence cap.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No dedicated backyard-chicken permit was found; keeping is governed by Chapter 6 (Animals and Fowl) setback and corral rules rather than a separate license, but this was not fully confirmed.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "Coop or corral must be set back at least 50 ft to keep up to 4 chickens, or 100 ft to keep 5 or more; unclear from search extracts whether this is measured from neighboring homes or from property lines.",
+  "coop_rules": "Chickens must be kept in a corral, kept sanitary, with feed in rat-proof containers.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Code of Ordinances, Chapter 6, Article III (Sec. 6-42, Sec. 6-66 area), amended by Ordinance No. 2017-0-072",
+  "sources": [
+    { "name": "Laredo, TX Code of Ordinances, Chapter 6 Animals and Fowl (Municode)", "url": "https://library.municode.com/tx/laredo/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ANFO", "type": "municipal-code" },
+    { "name": "City of Laredo Ordinance No. 2017-0-072 amending animal and fowl rules", "url": "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/12258/837110/pdf", "type": "city-website" },
+    { "name": "KGNS, On Your Side: City of Laredo chicken coop ordinance", "url": "https://www.kgns.tv/2023/02/20/kgns-your-side-city-laredo-chicken-coop-ordinance/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Municode's Laredo pages are region-blocked from this machine and could not be opened; the 50/100 ft setback tiers and 4-vs-5 chicken split come from a local TV news segment (secondary), and the overall 5-chicken cap and rooster ban come from the same secondary source repeated across chicken-law aggregator sites. The exact code text was not read, so the max_hens figure and setback basis (property line vs. neighboring home) are uncertain.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

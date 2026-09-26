@@ -1,0 +1,22 @@
+{
+  "id": "tampa-fl", "city": "Tampa", "state": "FL", "population": 413554,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "Chickens are allowed as a residential accessory use at a rate of 1 chicken per 1,000 sq ft of lot area, rounded down, so a typical 5,000 sq ft lot allows 5 hens; larger lots allow more.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No separate chicken permit found; keeping chickens is allowed by right as a residential accessory use under the zoning code, subject to lot-size formula and coop standards.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop setbacks follow the standard accessory-structure rules: 3 ft from side and rear lot lines, 60 ft from the front lot line, and 15 ft from a corner lot line in RS-75/100/150 districts (7 ft in other residential districts). No separate distance-from-neighboring-dwelling rule was found.",
+  "coop_rules": "Chickens must be kept in a fenced or walled enclosure at all times with a coop on the property; coop maximum height 6 ft, maximum area 125 sq ft, with roughly 4 sq ft of coop space and 10 sq ft of open run per bird.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Chicken-keeping was added as a residential accessory use by a 2013 zoning amendment; chickens do not count toward the household's general pet limit. Other fowl (ducks, geese, turkeys) fall under separate farm-animal rules requiring a 200 ft setback from neighboring dwellings.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Tampa Code of Ordinances Sec. 27-282.28 (Chickens, accessory use)",
+  "sources": [
+    { "name": "Tampa Code of Ordinances, Chapter 27 Zoning and Land Development, Sec. 27-282.28 Chickens, Accessory Use", "url": "https://library.municode.com/fl/tampa/codes/code_of_ordinances?nodeId=COOR_CH27ZOLADE_ARTVISURE_DIV2RESPUS_S27-282.28CHACUS", "type": "municipal-code" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Municode is region blocked from this machine, so the lot-size formula, coop specs and setbacks come from WebSearch's quoted extracts of Sec. 27-282.28, which were consistent across two separate searches. The typical hen count of 5 assumes a 5,000 sq ft lot; actual count scales with each property's lot area. Slaughter is not addressed in the sections found.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

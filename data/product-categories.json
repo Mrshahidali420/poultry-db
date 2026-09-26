@@ -1,0 +1,320 @@
+[
+  {
+    "id": "coops",
+    "title": "Chicken Coops",
+    "buyer_guide_points": [
+      "Budget 2-4 square feet of coop floor per standard-size hen, more for large breeds",
+      "Look for a hinged roof or side panel so you can actually reach the far corners to clean",
+      "Predator-proofing matters more than looks: hardware cloth over vents, secure latches, no gaps over 0.5 inch",
+      "Roosting bars should sit higher than nest boxes so hens sleep on the bars, not in the boxes",
+      "Ventilation near the roofline (not at floor level, to avoid drafts) prevents ammonia buildup and frostbite",
+      "Wood needs yearly maintenance and repainting; plastic/resin coops cost more but need almost none",
+      "Check if the coop ships fully assembled or flat-packed, and how many people it takes to build"
+    ],
+    "search_phrase": "best chicken coop for 6 chickens"
+  },
+  {
+    "id": "runs",
+    "title": "Chicken Runs",
+    "buyer_guide_points": [
+      "Aim for at least 8-10 square feet of run per hen on top of the coop itself",
+      "Cover the run, not just the sides: hawks attack from above",
+      "Welded wire holds up to raccoons far better than chicken wire, which mainly stops the chickens, not predators",
+      "A run with a buried or apron-skirted bottom edge stops digging predators",
+      "Portable/collapsible runs are easiest to move onto fresh grass but blow around in wind unless staked down",
+      "Tarp or clear panel roof options let snow and rain shed instead of pooling on flat wire tops"
+    ],
+    "search_phrase": "predator proof chicken run"
+  },
+  {
+    "id": "feeders",
+    "title": "Chicken Feeders",
+    "buyer_guide_points": [
+      "Gravity feeders are cheapest and simplest but let feed sit exposed to rain and rodents",
+      "Treadle feeders close when hens step off, which cuts rodent and wild-bird access dramatically",
+      "PVC pipe feeders are a low-cost DIY option and resist tipping better than open pans",
+      "Size feeder capacity to how often you want to refill: a 4-6 hen flock usually needs a 5-12 lb capacity feeder",
+      "Metal feeders resist chewing and UV breakdown better than plastic over multiple seasons",
+      "Treadle feeders need chicks to be trained onto the pedal and are not ideal for very small bantams"
+    ],
+    "search_phrase": "best treadle chicken feeder"
+  },
+  {
+    "id": "waterers",
+    "title": "Chicken Waterers",
+    "buyer_guide_points": [
+      "Nipple waterers keep water cleanest since birds can't stand or defecate in the water source",
+      "Cup waterers are easier for chicks to learn but need daily cleaning of the cup",
+      "In freezing climates, a heated waterer or a heated base under a standard fount avoids daily ice-breaking",
+      "Match nipple height to your shortest bird and adjust as chicks grow",
+      "Gravity founts should be elevated slightly above litter level to keep bedding and droppings out",
+      "Check flow rate in cold weather: some nipples clog before they fully freeze"
+    ],
+    "search_phrase": "best chicken waterer for winter"
+  },
+  {
+    "id": "heated-base-deicer",
+    "title": "Heated Bases and De-Icers",
+    "buyer_guide_points": [
+      "A heated base under an existing plastic fount is cheaper than buying a whole new heated waterer",
+      "Look for thermostatically controlled bases that only draw power below about 40°F",
+      "Check the base's wattage against your coop's extension cord and outlet capacity",
+      "Cord should be chew-resistant or run through conduit; chickens and rodents both go after cords",
+      "Confirm the base's diameter matches the waterer or bucket you already own"
+    ],
+    "search_phrase": "heated chicken waterer base"
+  },
+  {
+    "id": "brooder-heat-plate",
+    "title": "Brooder Heat Plates",
+    "buyer_guide_points": [
+      "Radiant heat plates are safer than heat lamps because there's no exposed bulb or open flame risk",
+      "Adjustable-height plates let you raise the plate as chicks grow instead of buying a new unit",
+      "Chicks should be able to walk under the plate and stand up without touching it",
+      "Size the plate to your chick count; overcrowding under an undersized plate causes pile-ups",
+      "Plates draw far less power than a 250W heat lamp, which matters for extension cord safety"
+    ],
+    "search_phrase": "chick brooder heat plate"
+  },
+  {
+    "id": "heat-lamp",
+    "title": "Heat Lamps",
+    "buyer_guide_points": [
+      "Heat lamps are the single most common cause of coop and brooder fires; a radiant heat plate is safer where practical",
+      "If using a lamp, always use a ceramic socket, a metal guard/dome, and a secondary safety chain or clamp, never just the clamp",
+      "Never hang a lamp directly over dry bedding, wood shavings, or cardboard without a solid heat gap",
+      "Red bulbs reduce pecking behavior compared with bright white bulbs",
+      "Check the bulb wattage against the brooder size; 250W is overkill for a small indoor brooder"
+    ],
+    "search_phrase": "chicken coop heat lamp safety"
+  },
+  {
+    "id": "brooders-starter-kits",
+    "title": "Brooders and Chick Starter Kits",
+    "buyer_guide_points": [
+      "A brooder needs draft-free sides at least 12-18 inches tall as chicks start test-flying at a few weeks old",
+      "Starter kits bundling a heat source, feeder, and waterer save first-time keepers from guessing at sizing",
+      "Solid (not wire) flooring under bedding prevents leg injuries in very young chicks",
+      "Plan for at least 0.5 square feet per chick at first, doubling by 4 weeks old",
+      "Clear or mesh lids/covers keep curious pets and older birds out of a young brooder"
+    ],
+    "search_phrase": "chick brooder starter kit"
+  },
+  {
+    "id": "incubators",
+    "title": "Egg Incubators",
+    "buyer_guide_points": [
+      "Still-air incubators are cheaper but need more manual temperature and turning attention",
+      "Forced-air (fan-circulated) incubators hold temperature far more evenly across all eggs",
+      "Automatic egg turners save you from turning eggs by hand 3-5 times a day for 18 days",
+      "Match capacity to your actual hatching plans; small hobby incubators run 3-12 eggs, cabinet models 40+",
+      "A clear lid or viewing window lets you monitor without opening and losing humidity",
+      "Humidity control (manual water channels vs. digital humidity readout) affects hatch rate more than most buyers expect"
+    ],
+    "search_phrase": "best egg incubator for beginners"
+  },
+  {
+    "id": "candlers",
+    "title": "Egg Candlers",
+    "buyer_guide_points": [
+      "A bright, focused LED beam matters more than lumens on the spec sheet; diffuse light won't show veining",
+      "Adjustable or cone-shaped heads seal out ambient light for a clearer view of dark or brown-shelled eggs",
+      "Candling is easiest around day 7-10 for the first check and day 14-18 for a second check",
+      "Brown and dark-shelled eggs need a stronger, more concentrated light than white eggs",
+      "Battery-powered units are easiest to use right at the incubator instead of ferrying eggs to an outlet"
+    ],
+    "search_phrase": "egg candler for hatching eggs"
+  },
+  {
+    "id": "egg-cartons",
+    "title": "Egg Cartons",
+    "buyer_guide_points": [
+      "Pulp (molded fiber) cartons are compostable and the standard choice for farm-stand sales",
+      "Clear plastic (PET) cartons show off egg color and size, popular for farmers market displays",
+      "Blank cartons let you add your own farm-name stamp or sticker without reprinting",
+      "Check state cottage-food and egg-labeling rules before selling eggs in any carton to the public",
+      "Buy jumbo or duck-size cartons separately if your birds lay larger eggs than standard"
+    ],
+    "search_phrase": "blank egg cartons for farm sales"
+  },
+  {
+    "id": "egg-skelter",
+    "title": "Egg Skelters and Countertop Storage",
+    "buyer_guide_points": [
+      "A skelter rotates stock automatically: new eggs go in the top, oldest come out the bottom",
+      "Countertop storage only makes sense for unwashed, bloom-intact eggs; washed eggs need refrigeration",
+      "Check stated capacity in eggs, not dozens, since spiral skelters vary a lot by model",
+      "Metal skelters last longer and look better on a counter than most plastic holders",
+      "A skelter is a nice-to-have organizer, not a substitute for knowing how old your eggs are"
+    ],
+    "search_phrase": "egg skelter countertop storage"
+  },
+  {
+    "id": "nesting-boxes",
+    "title": "Nesting Boxes",
+    "buyer_guide_points": [
+      "Plan on one nest box per 3-4 hens; more boxes than that just invite broodiness and mess",
+      "12x12x12 inches is the standard interior size for a standard breed; bantams can go smaller, large breeds bigger",
+      "A slightly recessed or lipped front keeps bedding and eggs from spilling out",
+      "Dark, enclosed boxes get used more readily than open ones; hens want privacy to lay",
+      "Removable or hinged lids make collecting eggs and cleaning much faster"
+    ],
+    "search_phrase": "chicken nesting box plastic"
+  },
+  {
+    "id": "roll-away-nest-boxes",
+    "title": "Roll-Away Nesting Boxes",
+    "buyer_guide_points": [
+      "A sloped floor lets the egg roll away from the hen into a protected collection tray, cutting down on breakage and egg-eating",
+      "Roll-away boxes only work well once hens are already trained to use a standard nest box",
+      "Check the collection tray is deep and padded enough to prevent cracked eggs on impact",
+      "Best paired with an automatic coop door setup since they reduce the need for multiple daily collections",
+      "External-access roll-away boxes let you collect eggs from outside the coop without disturbing the flock"
+    ],
+    "search_phrase": "roll away chicken nesting box"
+  },
+  {
+    "id": "bedding",
+    "title": "Coop Bedding",
+    "buyer_guide_points": [
+      "Pine shavings are the standard, affordable choice; never use cedar shavings, which are toxic to poultry",
+      "Hemp bedding absorbs more moisture and dust than pine and composts faster",
+      "Straw insulates well in winter but holds moisture and mats down faster than shavings",
+      "Sand (the deep litter alternative) is easy to sift like a litter box but is heavy and holds cold in winter",
+      "Whatever you choose, budget for 3-4 inches of depth and a full change every few weeks to control ammonia"
+    ],
+    "search_phrase": "best chicken coop bedding"
+  },
+  {
+    "id": "grit",
+    "title": "Poultry Grit",
+    "buyer_guide_points": [
+      "Grit is insoluble stone that sits in the gizzard to grind food; it is not the same thing as oyster shell calcium",
+      "Free-ranging birds on gravelly ground may need little or no supplemental grit",
+      "Chick-size (starter) grit and adult-size grit are not interchangeable; check the bag",
+      "Offer grit free-choice in a separate dish rather than mixing it into feed",
+      "Skip grit entirely if you only feed pelleted feed and birds never get scratch, whole grain, or forage"
+    ],
+    "search_phrase": "chicken grit supplement"
+  },
+  {
+    "id": "oyster-shell",
+    "title": "Oyster Shell",
+    "buyer_guide_points": [
+      "Crushed oyster shell is a calcium supplement for laying hens, not a substitute for grit",
+      "Offer it free-choice in a separate dish; don't mix into layer feed, which is already balanced",
+      "Only birds actively laying eggs need supplemental calcium; it can harm younger, non-laying birds' kidneys",
+      "Particle size matters: too fine and it's ignored, too coarse and smaller breeds skip it",
+      "Watch shell quality (thin or soft-shelled eggs) as the signal to add or increase oyster shell"
+    ],
+    "search_phrase": "crushed oyster shell for chickens"
+  },
+  {
+    "id": "feed",
+    "title": "Chicken Feed",
+    "buyer_guide_points": [
+      "Starter feed (18-20% protein) is for chicks 0-8 weeks; layer feed's added calcium can harm young kidneys",
+      "Layer feed (16-18% protein, added calcium) is for hens already laying, generally from about 18-20 weeks",
+      "Organic and non-GMO feed lines cost noticeably more per pound; decide if that matters for your goals",
+      "Crumble is easier for young or small-beaked birds; pellets waste less and are easier to store",
+      "Medicated starter feed (with amprolium) helps prevent coccidiosis in unvaccinated chicks; skip it if chicks were already vaccinated"
+    ],
+    "search_phrase": "best layer feed for backyard chickens"
+  },
+  {
+    "id": "treats",
+    "title": "Chicken Treats",
+    "buyer_guide_points": [
+      "Treats should stay under about 10% of a bird's total daily diet so they don't dilute complete feed nutrition",
+      "Dried mealworms and black soldier fly larvae are both high-protein, popular, and easy to store",
+      "Black soldier fly larvae have a better calcium-to-phosphorus ratio than mealworms, which is gentler on laying hens",
+      "Scatter treats in bedding to encourage natural scratching behavior instead of just tossing in a pile",
+      "Skip treats high in salt, sugar, or avocado, onion, and chocolate, all of which are unsafe for chickens"
+    ],
+    "search_phrase": "dried mealworms for chickens"
+  },
+  {
+    "id": "dust-bath",
+    "title": "Dust Bath Supplies",
+    "buyer_guide_points": [
+      "Dust bathing is a natural behavior chickens use to control mites, lice, and skin oil, not just play",
+      "A mix of fine sand and wood ash or dry dirt works as well as commercial dust bath product for most flocks",
+      "Food-grade diatomaceous earth is a popular additive but should be used dry and away from anyone's lungs, including yours",
+      "Keep the dust bath area covered or under an overhang so rain doesn't turn it to mud",
+      "A dedicated container (old tire, low tub, or built-in box) keeps the mix from spreading through the whole run"
+    ],
+    "search_phrase": "chicken dust bath diatomaceous earth"
+  },
+  {
+    "id": "poultry-netting-electric-fence",
+    "title": "Poultry Netting and Electric Fencing",
+    "buyer_guide_points": [
+      "Electrified poultry netting is the standard way to give a flock fresh range daily while keeping most predators out",
+      "Check the horizontal spacing near the ground; keeps small chicks in and stops digging predators",
+      "A dedicated low-impedance energizer sized to the total fence length is critical; underpowered fences train predators that it's safe to push through",
+      "Netting needs regular grass trimming underneath, since contact with vegetation drains the charge",
+      "Bright or double-spiked posts make the netting easier to see and keep upright on uneven ground"
+    ],
+    "search_phrase": "electric poultry netting fence"
+  },
+  {
+    "id": "predator-proof-latch",
+    "title": "Predator-Proof Latches",
+    "buyer_guide_points": [
+      "Standard slide bolts and hook-and-eye latches are easily opened by raccoon paws; look for latches needing two motions",
+      "Carabiners or spring-loaded snaps added to existing latches are the cheapest predator-proofing upgrade",
+      "Check latch material for rust resistance if the coop door faces weather",
+      "Test any new latch yourself at raccoon height before trusting it overnight",
+      "Pair latches with hardware-cloth-covered gaps; a good latch on a weak door frame won't help"
+    ],
+    "search_phrase": "raccoon proof chicken coop latch"
+  },
+  {
+    "id": "automatic-coop-door",
+    "title": "Automatic Coop Doors",
+    "buyer_guide_points": [
+      "Automatic doors run on a light-sensor, timer, or both; timer-only units need manual seasonal adjustment",
+      "Battery life matters if the coop has no outlet nearby; look for low-power draw and battery-level warnings",
+      "Check maximum door size and weight rating against your coop's existing door opening",
+      "An anti-crush safety stop (or a door that reverses on obstruction) prevents trapping a slow bird",
+      "Weatherproofing and a manual override switch matter if the motor housing sits outside the coop"
+    ],
+    "search_phrase": "automatic chicken coop door"
+  },
+  {
+    "id": "first-aid",
+    "title": "Poultry First Aid",
+    "buyer_guide_points": [
+      "A basic kit covers a wound spray, electrolytes, and a way to isolate an injured or sick bird",
+      "Vetericyn-type wound sprays are non-stinging and safe without a prescription for minor cuts and pecking wounds",
+      "Poultry electrolyte and vitamin powders help birds recovering from heat stress, shipping stress, or illness",
+      "Keep a separate dog crate or tote on hand for isolating a sick or injured bird from the flock",
+      "Know your nearest avian or livestock vet before an emergency, since many small-animal vets won't see poultry"
+    ],
+    "search_phrase": "chicken first aid kit"
+  },
+  {
+    "id": "poultry-scale",
+    "title": "Poultry Scales",
+    "buyer_guide_points": [
+      "A hanging sling or bag scale is the easiest way to weigh a live, wriggling bird",
+      "Digital scales with a hold/lock function make reading the number easier once the bird stops moving",
+      "Weight tracking helps catch illness early, since weight loss often shows before obvious symptoms",
+      "Choose a capacity comfortably above your heaviest breed's adult weight, with some headroom",
+      "A simple kitchen or luggage scale with a sling or basket works fine for small flocks; dedicated poultry scales just add a purpose-built harness"
+    ],
+    "search_phrase": "hanging scale for weighing chickens"
+  },
+  {
+    "id": "egg-washer",
+    "title": "Egg Washers",
+    "buyer_guide_points": [
+      "Washing is only necessary for visibly dirty eggs; clean eggs keep longer unwashed thanks to the natural bloom coating",
+      "Water for washing should be warmer than the egg, never colder, to avoid drawing contaminants through the shell",
+      "Small brush-drum washers work well for flocks producing a few dozen eggs a day; larger flocks may want a motorized model",
+      "Washed eggs lose the protective bloom and must be refrigerated, unlike unwashed eggs",
+      "Sanitize the washer itself regularly since it handles dozens of eggs in a row"
+    ],
+    "search_phrase": "egg washing machine for chicken eggs"
+  }
+]

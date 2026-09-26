@@ -1,0 +1,22 @@
+{
+  "id": "colorado-springs-co", "city": "Colorado Springs", "state": "CO", "population": 494743,
+  "allowed": "yes",
+  "max_hens": 10,
+  "hens_rule_text": "Up to 10 rabbits or chickens (combined) six months or older per property, allowed in all zone districts except Public Parks.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit specific to chickens found; the coop is subject to normal accessory structure and zoning rules under City Code Subsection 7.3.105.A.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "Coop must be in the rear yard, at least 15 feet from neighboring residential structures, and no closer than 5 feet to side or rear property lines.",
+  "coop_rules": "Shelter/coop must provide at least 4 sq ft per rabbit or chicken and meet applicable zoning and accessory-structure building codes.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Keeping up to 10 chickens/rabbits is permitted in all zone districts except PK Public Parks.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "City Code Subsection 7.3.105.A (accessory structures); animal count rule stated on the city's animal regulations page",
+  "sources": [
+    { "name": "City of Colorado Springs, City Regulations for Animals (Rabbits and Chickens)", "url": "https://coloradosprings.gov/planning/page/dab-401-city-regulations-animals", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the official city planning page directly, which states the rabbit/chicken combined cap of 10, rooster ban, coop setback and slaughter ban in plain language. The exact codified section number for the count and rooster ban was not separately located since the page cites Subsection 7.3.105.A only for accessory structures.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

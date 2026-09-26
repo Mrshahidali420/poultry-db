@@ -1,0 +1,23 @@
+{
+  "id": "fayetteville-nc", "city": "Fayetteville", "state": "NC", "population": 209120,
+  "allowed": "conditional",
+  "max_hens": 10,
+  "hens_rule_text": "Up to 10 hens allowed on a home lot; one secondary source ties this to a minimum lot size of about 10,000 sq ft. No roosters.",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "No general chicken permit was confirmed for the city; a secondary source suggested permits may apply in certain zoning districts, but this was not verified in the code text found.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No specific setback distance in feet was found in available extracts of Sec. 6-228; the code instead requires sanitary housing meeting Cumberland County Board of Health standards.",
+  "coop_rules": "Coops must be kept clean and ventilated, placed in the backyard, with proper manure disposal, and must meet Cumberland County Board of Health sanitary standards.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Keeping animals that are a nuisance or hazard, including by crowing, is separately prohibited, which is the likely basis for the rooster ban alongside the fowl-specific rule.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-228",
+  "sources": [
+    { "name": "BackyardChickens.com, Fayetteville North Carolina Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/fayetteville-north-carolina-chicken-ordinance.61725/", "type": "secondary" },
+    { "name": "Chicken.io, Fayetteville North Carolina Chicken Ordinance", "url": "http://chicken.io/ordinance/fayetteville-north-carolina-chicken-ordinance", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "The exact city code (Sec. 6-228) was not located on Municode or an archived copy; all figures (10 hens, no roosters, Cumberland County Board of Health sanitary standard, possible 10,000 sq ft minimum lot) come from consistent secondary chicken-law sites quoting the section number, not from the primary text itself. Setback distance and permit rules in specific zoning districts remain unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

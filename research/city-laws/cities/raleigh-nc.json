@@ -1,0 +1,23 @@
+{
+  "id": "raleigh-nc", "city": "Raleigh", "state": "NC", "population": 506306,
+  "allowed": "yes",
+  "max_hens": 10,
+  "hens_rule_text": "1 chicken per 1,000 sq ft of lot area, up to a maximum of 10 chickens on any single lot, allowed as a limited 'restricted agriculture' accessory use distinct from the full Agriculture use category (which is not allowed in Residential Districts).",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit specific to chickens was found; the coop itself is treated as an accessory structure subject to standard zoning permitting for structures.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coops, hutches and similar structures must be at least 25 ft from any property line (not specifically from a neighbor's dwelling), per UDO Sec. 6.6.1, and must also meet the accessory structure setback rules of Sec. 6.6.1/6.6 generally; the coop cannot be in the front yard.",
+  "coop_rules": "Coop, hutch or similar animal housing structure must sit at least 25 ft from any property line and cannot be located in the front yard.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Raleigh's UDO Sec. 6.6.1 treats broad 'Agriculture' as not permitted in Residential Districts, but a narrower 'restricted agriculture' category allows a small number of chickens (the 1 per 1,000 sq ft/10 max rule) as an accessory residential use; this distinction is drawn from secondary summaries and could not be confirmed by reading the Restricted Agriculture subsection directly.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Raleigh Unified Development Ordinance, Sec. 6.6.1 (Agriculture)",
+  "sources": [
+    { "name": "Raleigh UDO, Sec. 6.6.1 Agriculture", "url": "https://udo.raleighnc.gov/sec-661-agriculture", "type": "municipal-code" },
+    { "name": "coopcraftguide.com, Raleigh North Carolina Chicken Laws", "url": "https://coopcraftguide.com/chicken-laws/north-carolina/raleigh/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the top-level Sec. 6.6.1 Agriculture page directly on udo.raleighnc.gov, which lists 'Restricted agriculture' as a separate use from full Agriculture (the latter not permitted in Residential Districts), but the page's Restricted Agriculture subsection with the specific chicken numbers did not load in full; the 1-per-1,000-sq-ft/10-max/no-rooster/25-ft rule is corroborated by multiple secondary chicken-law summaries that cite the same UDO section.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

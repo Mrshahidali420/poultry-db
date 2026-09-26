@@ -1,0 +1,24 @@
+{
+  "id": "greensboro-nc", "city": "Greensboro", "state": "NC", "population": 308667,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "no chickens allowed on lots under 7,000 sq ft; 4 hens allowed on lots from 7,000 to 12,000 sq ft; up to 20 on larger lots; no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "Some secondary summaries mention a permit may be required; the city's own poultry handout was not read in full to confirm a permit process.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop setbacks range from 25 to 50 ft from property lines depending on lot size (not stated specifically as distance from homes); manure must be stored in sealed containers or composted at least 50 ft from neighboring residences.",
+  "coop_rules": "Chickens must be enclosed and not allowed to roam loose; manure storage or composting must be kept at least 50 ft from neighboring residences.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Minimum lot size of 7,000 sq ft applies before any hens are allowed; hen cap scales up with lot size (4 on 7,000 to 12,000 sq ft, 20 on lots over that).",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "",
+  "sources": [
+    { "name": "City of Greensboro, Poultry (official published document)", "url": "https://www.greensboro-nc.gov/home/showpublisheddocument/20967/636510647144300000", "type": "city-website" },
+    { "name": "CityRuleLookup, Animal Ordinances in Greensboro, NC", "url": "https://cityrulelookup.com/cities/greensboro-nc/animals", "type": "secondary" },
+    { "name": "MyFox8, North Carolina backyard chicken rules", "url": "https://myfox8.com/news/north-carolina/egg-prices-too-high-in-north-carolina-you-may-be-able-to-raise-chickens-in-your-backyard-if-you-follow-these-rules/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own published Poultry document is cited by search extracts as the source for the 7,000 sq ft minimum lot size, tiered hen counts, no-rooster rule and manure setback, corroborated by a secondary city-rules aggregator; the document itself and the specific code section number were not opened directly, so numbers are treated as search-extract facts, not confirmed code text.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

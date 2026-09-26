@@ -1,0 +1,22 @@
+{
+  "id": "minneapolis-mn", "city": "Minneapolis", "state": "MN", "population": 430324,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "Chickens allowed only with an annual fowl permit; a Tier I permit covers 1 to 6 birds, Tier II 7 to 15, Tier III 16 to 30.",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "A fowl permit from Minneapolis Animal Care and Control is required for chickens, turkeys, ducks, pigeons or quail. Applicant must show proof of neighbor consent, complete an approved fowl education course, get zoning approval from Community Planning and Economic Development, and pass a home inspection. Fees: $32/yr for 1-6 birds, $58/yr for 7-15, $84/yr for 16-30, plus a separate $110/yr rooster permit.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "No specific setback distance was stated on the city's permit page; zoning approval from Community Planning and Economic Development is required as part of the permit process, which may apply lot or setback standards not detailed here.",
+  "coop_rules": "Not detailed on the official permit page beyond the home inspection requirement; the codified ordinance (63.90) likely contains enclosure standards not confirmed here.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Fowl permit applicants must provide a copy of zoning approval from the City's Community Planning and Economic Development department, meaning zoning review is required in addition to the animal permit.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "City of Minneapolis Ordinance 63.90 (Fowl)",
+  "sources": [
+    { "name": "City of Minneapolis, Pet Licenses and Animal Permits (Backyard chickens and other fowl)", "url": "https://www.minneapolismn.gov/resident-services/animals-pets/pet-licenses-animal-permits/", "type": "city-website" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Read the official city permits page directly, which plainly states the permit tiers, neighbor consent, education course, zoning approval and fees, and names Ordinance 63.90 as the source. The full codified ordinance text (coop/setback specifics, slaughter) was not opened, so those fields are unconfirmed.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

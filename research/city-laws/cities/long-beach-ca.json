@@ -1,0 +1,35 @@
+{
+  "id": "long-beach-ca",
+  "city": "Long Beach",
+  "state": "CA",
+  "population": 450469,
+  "allowed": "conditional",
+  "max_hens": 4,
+  "hens_rule_text": "Up to 4 live chickens on residential property without a permit, kept at least 10 ft from any neighbor's dwelling; 5 to 10 chickens are allowed only with a city permit and a 35 ft setback (up to 20 chickens total per lot with a permit at 50 ft).",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed for 1 to 4 chickens. A Chicken Permit from Animal Care Services, including a pre-inspection, is required to keep 5 or more chickens on residential property (LBMC 6.20.120); permits run up to 1 year and renew annually.",
+  "setback_ft_from_homes": 10,
+  "setback_notes": "Distance from any adjacent dwelling scales with flock size: 1 to 4 chickens need 10 ft, 5 to 10 chickens need 35 ft, 11 to 20 chickens need 50 ft (LBMC 6.20.140). Chickens and their enclosures may not be kept in the front yard.",
+  "coop_rules": "Enclosure/fencing must contain the chickens and provide at least 10 sq ft of permeable land per chicken, plus adequate shelter from weather and predators (LBMC 6.20.130). Coops and yards must be kept clean and sanitary with manure removed daily.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules apply citywide on residential property; total live fowl per lot is capped at 20 combined. A single pet fowl may be kept with only a 20 ft setback under the general fowl section, separate from the chicken-specific rules.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Long Beach Municipal Code Chapter 6.20 (LBMC 6.20.020, 6.20.040, 6.20.120, 6.20.130, 6.20.140)",
+  "sources": [
+    {
+      "name": "City of Long Beach, Animal Care Services, Livestock rules (full text of LBMC Chapter 6.20)",
+      "url": "https://www.longbeach.gov/acs/laws-enforcement/animal-laws/livestock/",
+      "type": "city-website"
+    },
+    {
+      "name": "Long Beach Municipal Code, Chapter 6.20 Fowl, Rabbits and Goats",
+      "url": "https://library.municode.com/ca/long_beach/codes/municipal_code?nodeId=TIT6AN_CH6.20FORAGO",
+      "type": "municipal-code"
+    }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full ordinance text directly from the city's own Animal Care Services page, which reproduces LBMC 6.20.020 through 6.20.140 verbatim, including the tiered chicken permit and distance table. Slaughter is not addressed in this chapter so left unknown.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "anchorage-ak", "city": "Anchorage", "state": "AK", "population": 287155,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "up to 5 chickens allowed on lots of 6,000 sq ft or less; 1 more chicken per additional 1,000 sq ft on larger lots; no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "unknown",
+  "permit_notes": "The city's zoning self-help page does not describe a chicken-keeping permit process, only zoning setback standards; a separate coop building permit may apply depending on structure size, unconfirmed.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Structures for keeping animals must meet the zoning district's setbacks and be at least 10 ft from any lot line; one search extract also described uncovered enclosures needing 75 ft from residences, but this was not confirmed against the primary text.",
+  "coop_rules": "Enclosure size scales with the number of birds (1,000 sq ft of lot per bird beyond the first 5 on a 6,000 sq ft lot); noisy fowl such as roosters, turkeys, guinea fowl, peacocks and geese are banned outright.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is citywide under Anchorage Municipal Code Title 21 (Land Use Planning), Sec. 21.05.070.D, animal-keeping standards; noise and animal-care rules also sit in Title 17 (Animals), enforced by Animal Care and Control.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "AMC 21.05.070.D",
+  "sources": [
+    { "name": "Municipality of Anchorage, Zoning Self-Help: Animals", "url": "https://www.muni.org/Departments/OCPD/Planning/zoning/selfHelp/pages/animals.aspx", "type": "city-website" },
+    { "name": "Anchorage Title 21 Chapter 5, Use Regulations (municipal PDF)", "url": "https://www.muni.org/Departments/OCPD/Planning/Projects/t21/T21%20Adopted%20Chapters%20and%20Ordinances/Chapter%205%20adopted%202-26-13.pdf", "type": "city-website" },
+    { "name": "Anchorage Code of Ordinances, Title 17 Animals (elaws.us mirror)", "url": "http://www.anchorage-ak.elaws.us/code/coor_title17", "type": "municipal-code" }
+  ],
+  "confidence": "high",
+  "research_notes": "The city's own zoning self-help page for animals (muni.org) directly states the 5-chicken/6,000 sq ft baseline, the 1,000 sq ft per additional bird formula, the 10 ft lot-line setback and the ban on noisy fowl including roosters; a secondary search extract citing a 75 ft residence setback for uncovered enclosures could not be reconciled with the official page.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

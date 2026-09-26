@@ -1,0 +1,22 @@
+{
+  "id": "brownsville-tx", "city": "Brownsville", "state": "TX", "population": 192957,
+  "allowed": "yes",
+  "max_hens": null,
+  "hens_rule_text": "No numeric cap on hens found in the city code; chickens (and other fowl) are allowed on residential lots as long as their pen or enclosure is kept at least 50 ft from any neighboring residence, church, school, hospital, convalescent home or nursing home.",
+  "roosters_allowed": "yes",
+  "permit_required": "no",
+  "permit_notes": "No permit or license for keeping backyard fowl was found in the city's animal-control FAQ or the cited ordinance; the rule is a distance/enclosure standard, not a permit system.",
+  "setback_ft_from_homes": 50,
+  "setback_notes": "It is unlawful to keep chickens or other fowl in a pen, enclosure or structure within 50 ft of any residence or building used for human habitation other than the owner's own, or within 50 ft of a church, school, hospital, convalescent home or nursing home. Measured in a straight line from the nearest point of the pen/enclosure to the nearest point of that building. (Confirms the setback is from neighbors' homes, not the owner's own.)",
+  "coop_rules": "Rule is framed around the required distance for the fowl's pen/enclosure/structure rather than construction standards; no additional coop-design requirements were found.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "The 50 ft distance rule for fowl (chickens, turkeys, ducks, geese, peafowl, pigeons, rabbits, guinea pigs) applies citywide; a separate, stricter rule (150 ft from a neighbor's home, minimum 20,000 sq ft of land) applies to larger livestock such as horses, cattle, sheep and goats, not to chickens.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ord. 10-63 A & B",
+  "sources": [
+    { "name": "City of Brownsville FAQ: Can I own livestock inside city limits? (BARCC)", "url": "https://www.brownsvilletx.gov/FAQ.aspx?QID=282", "type": "city-website" }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full official FAQ text directly from brownsvilletx.gov (via sandboxed fetch), which quotes the codified ordinance (Ord. 10-63 A & B) verbatim, including the 50 ft setback measured to neighboring homes, not the owner's own. No numeric hen cap, rooster ban, or permit requirement was found anywhere in that page or in secondary sources, consistent with several backyard-chicken sites describing Brownsville as having no hen limit and no rooster ban.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

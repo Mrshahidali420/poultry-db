@@ -1,0 +1,24 @@
+{
+  "id": "cincinnati-oh", "city": "Cincinnati", "state": "OH", "population": 314367,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "up to 6 chickens on lots under 10,000 sq ft, 12 on lots 10,000 to 20,000 sq ft, 24 on lots over 20,000 sq ft",
+  "roosters_allowed": "conditional",
+  "permit_required": "yes",
+  "permit_notes": "A $25 urban agriculture animal-keeping permit is required.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Enclosures must be set back at least 10 ft from all property lines (not stated as distance from a home specifically); roosters must be kept at least 50 ft from all property lines.",
+  "coop_rules": "Enclosures must provide at least 4 sq ft per adult bird and be set back at least 10 ft from property lines; birds must be kept secured and not allowed to run at large.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are set citywide in the Zoning Code, Chapter 1422 (Urban Agriculture, Animal Keeping), which also covers ducks, quail, doves, rabbits, bees, turkeys and goats.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 1422 (Sec. 1422-05 Domestic Residence)",
+  "sources": [
+    { "name": "Cincinnati Zoning Code Chapter 1422, Sec. 1422-05 Domestic Residence keeping (Municode)", "url": "https://library.municode.com/oh/cincinnati/codes/code_of_ordinances?nodeId=TIXIZOCOCI_CH1422URAGHOANKE_S1422-05DERE", "type": "municipal-code" },
+    { "name": "Cincinnati Magazine, Local Laws for Homesteading", "url": "https://www.cincinnatimagazine.com/article/local-laws-for-homesteading/", "type": "secondary" },
+    { "name": "CoopCraft Guide, Cincinnati Ohio Chicken Laws", "url": "https://coopcraftguide.com/chicken-laws/ohio/cincinnati/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Two independent search queries returned matching search-result extracts citing the same Municode Chapter 1422 section (lot-size tiered hen limits, rooster ratio and setback, permit fee, coop density), which agree with each other and with a local magazine's coverage; the full code text was not opened directly, so treated as a search-extract read.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

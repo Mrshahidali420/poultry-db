@@ -1,0 +1,23 @@
+{
+  "id": "indianapolis-in", "city": "Indianapolis", "state": "IN", "population": 901116,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 hens allowed in a fenced rear yard on residential lots, with no permit required.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No bird-keeping permit is required; the zoning code simply designates where hens are a permitted use.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Coop must be at least 3 ft from any building on the owner's own property and 25 ft from any neighboring residence.",
+  "coop_rules": "Hens must be kept in a fenced rear yard; general sanitation rules apply under the consolidated city-county animal code.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Governed by the Indianapolis-Marion County consolidated code, Chapter 531 (Animals), together with the unified zoning code, which permits backyard hens in single-family residential (RS) and urban development zoning districts.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 531",
+  "sources": [
+    { "name": "BackYard Chickens forum, Indianapolis Indiana Chicken Ordinance", "url": "https://www.backyardchickens.com/articles/indianapolis-indiana-chicken-ordinance.61438/", "type": "secondary" },
+    { "name": "CityRuleLookup, Indianapolis IN Ordinances & Municipal Code", "url": "https://cityrulelookup.com/indianapolis-in", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "The consolidated code (Municode-hosted) was not opened directly due to the region block and no Wayback copy was found; the 6-hen cap, no-permit status and 3 ft/25 ft setbacks come from secondary summaries only.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

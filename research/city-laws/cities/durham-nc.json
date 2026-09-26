@@ -1,0 +1,24 @@
+{
+  "id": "durham-nc", "city": "Durham", "state": "NC", "population": 305561,
+  "allowed": "conditional",
+  "max_hens": 10,
+  "hens_rule_text": "up to 10 female chickens allowed on a single-family lot with a Limited Agriculture Permit, for personal use only; no roosters",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A Limited Agriculture Permit from the Durham Planning Department is required. Neighbors are notified during the application; an objection triggers administrative review with the Planning Department making the final call.",
+  "setback_ft_from_homes": 40,
+  "setback_notes": "Coop must be at least 15 ft from any property line or right-of-way and at least 40 ft from neighboring residences.",
+  "coop_rules": "Minimum 3 sq ft of floor area per chicken, at least 1 sq ft of window per 15 sq ft of floor area, and chickens must be secured in the coop during non-daylight hours.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rule is citywide under Durham Unified Development Ordinance (UDO) Article 5.4.12-B, Domestic Chickens Use Regulations, adopted around 2011 and amended effective Sept. 1, 2017. Selling eggs, chicks, adult chickens, manure or manure-fertilized produce from a permitted flock is prohibited.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 5.4.12",
+  "sources": [
+    { "name": "Healthy Food Policy Project, Durham N.C. Unified Development Code Sec. 5.4.12 (Sept. 1, 2017)", "url": "https://healthyfoodpolicyproject.org/policy/durham-n-c-unified-development-code-sec-5-4-12-sept-1-2017", "type": "secondary" },
+    { "name": "Growing Food Connections, Domestic Chickens Use Regulations, Article 5.4.12-B of the Durham UDO", "url": "https://growingfoodconnections.org/gfc-policy/domestic-chickens-use-regulations-article-5-4-12-b-of-the-durham-unified-development-ordinance/", "type": "secondary" },
+    { "name": "INDY Week, Durham says yes to backyard chickens", "url": "https://indyweek.com/news/durham-says-yes-backyard-chickens/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "Two independent searches gave matching detail (10 hens, no roosters, Limited Agriculture Permit, 15 ft property-line and 40 ft residence setbacks, coop floor and window standards) from policy-tracker sites that reproduce the UDO section text, but the Durham UDO itself was not opened directly to confirm current wording, so this is treated as a search-extract read of secondary policy summaries of the code.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

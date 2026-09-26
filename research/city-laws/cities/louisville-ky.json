@@ -1,0 +1,24 @@
+{
+  "id": "louisville-ky", "city": "Louisville", "state": "KY", "population": 641962,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "On lots under half an acre, up to 5 non-crowing hens plus 1 crowing bird (rooster) are allowed. Lots of half an acre or more are not subject to that specific bird-count limit.",
+  "roosters_allowed": "conditional",
+  "permit_required": "unknown",
+  "permit_notes": "No city chicken permit was confirmed; some secondary sources mention registering a flock with Louisville Metro Animal Services, but this could not be verified against the code text.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "Secondary sources describe a 25 ft setback from neighboring homes and a rule against coops being visible from the street, but this was not confirmed in the amlegal code text directly.",
+  "coop_rules": "Waste must be managed so it does not create unsanitary conditions or attract rodents; coop placement and visibility rules are described by secondary sources but not independently confirmed.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Chapter 91 of the Louisville Metro Code of Ordinances governs animals, including poultry; the half-acre threshold changes the bird-count limit rather than banning poultry outright.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Louisville Metro Code, Chapter 91 (Animals), Sec. 91.001 and related sections",
+  "sources": [
+    { "name": "Louisville Metro Code of Ordinances, Chapter 91 Animals", "url": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-7177", "type": "municipal-code" },
+    { "name": "Louisville Metro Code Sec. 91.001 Definitions", "url": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-23708", "type": "municipal-code" },
+    { "name": "LouisvilleKY.gov, Animal Ordinances", "url": "https://louisvilleky.gov/government/animal-services/services/animal-ordinances", "type": "city-website" }
+  ],
+  "confidence": "low",
+  "research_notes": "amlegal is Cloudflare blocked from this machine and a city PDF copy of the ordinance did not extract readable text. The half-acre/5-hen-plus-1-rooster rule comes from a search-result extract that cites the amlegal code page directly, but the full text could not be opened, and setback and permit details rely on secondary sources that disagree with each other on rooster allowance.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

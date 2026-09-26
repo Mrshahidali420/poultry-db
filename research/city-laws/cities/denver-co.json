@@ -1,0 +1,23 @@
+{
+  "id": "denver-co", "city": "Denver", "state": "CO", "population": 740613,
+  "allowed": "conditional",
+  "max_hens": 8,
+  "hens_rule_text": "Up to 8 hens and/or ducks combined are allowed on a residential lot with a Food-Producing Animal permit.",
+  "roosters_allowed": "no",
+  "permit_required": "yes",
+  "permit_notes": "A one-time Food-Producing Animal permit, reported at a $25 fee, is obtained through Denver Animal Protection before keeping hens.",
+  "setback_ft_from_homes": 15,
+  "setback_notes": "Coop must be at least 15 ft from any neighboring residence; separate zoning or accessory-structure review can also apply to the coop itself.",
+  "coop_rules": "Coop must be a covered, predator-resistant enclosure kept clean and sanitary.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules are administered under Denver Municipal Code Ch. 8 (Animals), reported around Sec. 8-91, separately from any zoning or building review of the coop structure.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Ch. 8, Sec. 8-91",
+  "sources": [
+    { "name": "American Farmland Trust, Denver Colorado Urban Livestock Ordinance", "url": "https://farmlandinfo.org/law/denver-colorado-urban-livestock-ordinance/", "type": "secondary" },
+    { "name": "CoopCraft Guide, Denver Colorado Chicken Laws", "url": "https://coopcraftguide.com/chicken-laws/colorado/denver/", "type": "secondary" }
+  ],
+  "confidence": "low",
+  "research_notes": "Denver's municipal code was not opened directly (Municode region block, no Wayback copy found); the 8-bird cap, $25 permit fee and 15 ft setback all come from secondary summaries, not the code text or an official city permit page.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

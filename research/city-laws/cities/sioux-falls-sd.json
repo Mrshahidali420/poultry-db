@@ -1,0 +1,35 @@
+{
+  "id": "sioux-falls-sd",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "population": 213748,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "Up to 6 chickens (combined with rabbits and hares) may be kept on residential land without a special license; more than 6 requires a license.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed for up to 6 chickens. To keep more than 6, or any fowl species other than chickens, the owner must get a license under Sec. 90.078, which requires written consent from 100% of owners of real estate within 100 ft of the applicant's property.",
+  "setback_ft_from_homes": 25,
+  "setback_notes": "A search-result extract of the licensing section cites a 25 ft coop setback from any neighboring dwelling; this could not be confirmed by direct fetch of the full Sec. 90.078 text.",
+  "coop_rules": "Keeping of animals may not create a nuisance; livestock in general is banned citywide except on AG-zoned land.",
+  "slaughter_allowed": "no",
+  "zoning_notes": "Livestock is banned within city limits except on property zoned AG (Agricultural District); this rule sits alongside, and is broader than, the 6-chicken household allowance.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 90.008",
+  "sources": [
+    {
+      "name": "Sioux Falls, SD Code of Ordinances, Sec. 90.008 Keeping of Animals (via Internet Archive copy of amlegal)",
+      "url": "https://codelibrary.amlegal.com/codes/siouxfalls/latest/siouxfalls_sd/0-0-0-53396",
+      "type": "municipal-code"
+    },
+    {
+      "name": "Sioux Falls, SD Code of Ordinances, Sec. 90.078 Licensing of Animals and Fowl",
+      "url": "https://codelibrary.amlegal.com/codes/siouxfalls/latest/siouxfalls_sd/0-0-0-53547",
+      "type": "municipal-code"
+    }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full text of Sec. 90.008 via an August 2025 Internet Archive snapshot of the amlegal code page, which directly confirms the 6-chicken cap, rooster ban, and explicit slaughter ban. Sec. 90.078 (license and 100 ft neighbor consent for more than 6 birds, and the 25 ft coop setback figure) comes from a search-result extract only, since that page was not archived; treated as medium-confidence detail within an otherwise high-confidence record.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

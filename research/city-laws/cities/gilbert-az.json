@@ -1,0 +1,24 @@
+{
+  "id": "gilbert-az", "city": "Gilbert", "state": "AZ", "population": 287285,
+  "allowed": "yes",
+  "max_hens": 6,
+  "hens_rule_text": "state law (ARS 9-462.12) guarantees at least 6 hens on a single-family lot of half an acre or less; Gilbert's own zoning code (Ch. 6) allows up to 25 fowl and rodents combined on lots up to 20,000 sq ft, with more on larger lots, so most residential lots qualify for well above the state floor",
+  "roosters_allowed": "conditional",
+  "permit_required": "no",
+  "permit_notes": "No coop permit is required; a rooster over 4 months old is allowed, one per 20,000 sq ft of lot area, if it does not violate the town's noisy-animal rule (Ch. 6, Sec. 6.2).",
+  "setback_ft_from_homes": 40,
+  "setback_notes": "Search extracts gave two different setback figures for the aviary/coop: a rear-half-of-lot placement at least 5 ft from a property line in one description, and a 10 ft property-line, 40 ft neighboring-residence setback in another; the 40 ft residence figure is used here but the two descriptions were not reconciled against the primary code text.",
+  "coop_rules": "Aviary or coop must be within the building envelope or the rear half of the lot; combined fowl and rodent counts scale with lot size (up to 25 on lots up to 20,000 sq ft, plus 12 more per additional 10,000 sq ft).",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Gilbert Municipal Code Chapter 6 (Animals), Sec. 6-126/6-127, updated to comply with 2024 state law HB 2325 (ARS 9-462.12), which bars towns from banning up to 6 hens on lots of half an acre or less.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Sec. 6-126, Sec. 6-127",
+  "sources": [
+    { "name": "Arizona Revised Statutes 9-462.12, Backyard fowl regulation", "url": "https://www.azleg.gov/ars/9/00462-12.htm", "type": "municipal-code" },
+    { "name": "Gilbert Municipal Code Chapter 6 Animals (Municode)", "url": "https://library.municode.com/az/gilbert/codes/code_of_ordinances?nodeId=CO_CH6AN", "type": "municipal-code" },
+    { "name": "chickenlaws.com, Gilbert Chicken Laws", "url": "https://chickenlaws.com/arizona/gilbert-chicken-laws/", "type": "secondary" }
+  ],
+  "confidence": "medium",
+  "research_notes": "library.municode.com is region-blocked from this machine so Gilbert's Chapter 6 could not be read directly; two search queries returned overlapping but not fully consistent search-extract descriptions of the fowl/rodent count formula and coop setback, and the state statute A.R.S. 9-462.12 was read directly and sets the guaranteed floor of 6 hens.",
+  "last_checked": "2026-09-26", "needs_review": true
+}

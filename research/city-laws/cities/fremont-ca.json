@@ -1,0 +1,35 @@
+{
+  "id": "fremont-ca",
+  "city": "Fremont",
+  "state": "CA",
+  "population": 226442,
+  "allowed": "conditional",
+  "max_hens": 6,
+  "hens_rule_text": "On residential lots over 6,000 sq ft, up to 6 female chickens are allowed (combined with rabbits, pigeons and doves, only two of those species per lot); on lots of 6,000 sq ft or less, chickens are not allowed at all. Larger lots can keep more chickens (up to 10 on lots 10,000 to 21,779 sq ft, up to 15 on lots half an acre or more) with an animal fancier permit.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit needed for up to 6 hens on a qualifying lot; an animal fancier's permit under Chapter 6.40 is required to keep more than 6 (up to 10 or 15 depending on lot size).",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Code Sec. 6.10.130 ties enclosure setback to lot size and chicken count: n/a for 0 chickens on lots 6,000 sq ft or less, 10 ft for 1 to 5 chickens (lots 6,001 to 9,999 sq ft), 35 ft for 6 to 10 chickens (lots 10,000 to 21,779 sq ft), 50 ft for 11 to 15 chickens (lots 21,780 sq ft or more). Intro text says the setback is from another person's residence but the table header says from any property line, so the exact reference point is ambiguous.",
+  "coop_rules": "Enclosure must provide at least 10 sq ft of permeable land per chicken and may not be placed in the front yard; shelters need at least 5 sides including roof and floor, protection from weather, and daily removal of manure.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Rules apply to real property zoned residential; Ordinance 10-2022 (effective November 3, 2022) rewrote the chicken limits and setback table.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Fremont Municipal Code Sec. 6.10.030, 6.10.040, 6.10.130",
+  "sources": [
+    {
+      "name": "Fremont Municipal Code Chapter 6.10 Animal Ownership (via Internet Archive copy of codepublishing.com)",
+      "url": "https://www.codepublishing.com/CA/Fremont/html/Fremont06/Fremont0610.html",
+      "type": "municipal-code"
+    },
+    {
+      "name": "City of Fremont news release, Amendment to City Ordinance Title 6 Animals",
+      "url": "https://www.fremont.gov/Home/Components/News/News/245/1067",
+      "type": "city-website"
+    }
+  ],
+  "confidence": "high",
+  "research_notes": "Read the full current code text (Sections 6.10.010 to 6.10.140) via a December 2024 Internet Archive snapshot of the codepublishing.com page, since the live page returns a Cloudflare block from this machine. Text reflects Ordinance 10-2022, the most recent chicken-related amendment found. Slaughter is not addressed in this chapter.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}

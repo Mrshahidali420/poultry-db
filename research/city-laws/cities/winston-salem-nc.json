@@ -1,0 +1,40 @@
+{
+  "id": "winston-salem-nc",
+  "city": "Winston-Salem",
+  "state": "NC",
+  "population": 257271,
+  "allowed": "yes",
+  "max_hens": 5,
+  "hens_rule_text": "Up to 5 hens allowed on any residentially zoned property, no permit needed.",
+  "roosters_allowed": "no",
+  "permit_required": "no",
+  "permit_notes": "No permit required to keep hens under the current code.",
+  "setback_ft_from_homes": null,
+  "setback_notes": "Coop and run must be set back at least 20 ft from property lines, reduced from 100 ft by Ordinance 2022-18 (August 2022); this is a property-line setback, not a distance from a neighbor's home.",
+  "coop_rules": "Run must be enclosed, at least 4 ft high, providing 10 sq ft per chicken; coop must sit inside the run and offer at least 3 sq ft of floor area per chicken; coop and run kept in the backyard.",
+  "slaughter_allowed": "unknown",
+  "zoning_notes": "Applies to residentially zoned property within city limits.",
+  "hoa_note": "Homeowners associations, deed restrictions and leases can be stricter than city law. Check yours before getting chickens.",
+  "code_section": "Chapter 6, Animals and Fowl, as amended by Ordinance No. 2022-18",
+  "sources": [
+    {
+      "name": "City of Winston-Salem, Ordinance No. 2022-18 amending Chapter 6 Animals and Fowl (official PDF)",
+      "url": "https://www.cityofws.org/DocumentCenter/View/25868/ORD---Animals-and-Fowl",
+      "type": "city-website"
+    },
+    {
+      "name": "Winston-Salem, NC Code of Ordinances, Chapter 6 Animals and Fowl (Municode)",
+      "url": "https://library.municode.com/nc/winston-salem/codes/code_of_ordinances?nodeId=PTIIICOOR_CH6ANFO",
+      "type": "municipal-code"
+    },
+    {
+      "name": "WStoday, What to know about owning chickens in Winston-Salem, NC",
+      "url": "https://wstoday.6amcity.com/city/owning-chickens-winston-salem-nc",
+      "type": "secondary"
+    }
+  ],
+  "confidence": "medium",
+  "research_notes": "The city's own official ordinance PDF (confirmed reachable, 200 OK) is quoted in search-result extracts confirming the 5-hen cap, no-rooster rule, and the 2022 setback reduction from 100 ft to 20 ft; the PDF text itself could not be extracted on this machine. Slaughter for meat is allowed only away from public view per one secondary source, not confirmed in the code, so marked unknown.",
+  "last_checked": "2026-09-26",
+  "needs_review": true
+}
