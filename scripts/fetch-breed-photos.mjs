@@ -16,6 +16,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync, copyFileSync, openS
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fetchWithRetry } from "./fetch-originals.mjs";
+import { fetchPageLeadImage } from "./lib/wiki.mjs";
 
 const COMMONS_SEARCH = "https://api.wikimedia.org/core/v1/commons/search/page";
 const FILE_INFO_API = "https://en.wikipedia.org/w/api.php";
@@ -120,7 +121,46 @@ const stripHtml = (s) => (s || "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").
 
 // Extra Commons search names for breeds whose page title is not what photo
 // uploaders call them.
-const COMMONS_NAMES = { "golden-comet": ["Gold Comet", "Golden Comet hen"], "red-sex-link": ["Red Star"], "black-sex-link": ["Black Star"] };
+const COMMONS_NAMES = {
+  "golden-comet": ["Gold Comet", "Golden Comet hen"], "red-sex-link": ["Red Star"], "black-sex-link": ["Black Star"],
+  // Belgian Bantam's German name is what the only Commons photos are filed under.
+  "belgian-bantam": ["Antwerpener Bartzwerg"],
+  // No photo is filed under "Croad Langshan" specifically; the breed is the
+  // classic (usually black) Langshan, so a general Langshan photo serves it.
+  "croad-langshan": ["Black Langshans"],
+};
+
+// A Wikipedia article's lead (infobox) image, looked up via action=query&
+// prop=pageimages and resolved to a Commons file through the same
+// en.wikipedia.org gateway used for Commons search (commons.wikimedia.org
+// itself resets connections from this network).
+async function wikipediaCandidate(breed) {
+  for (const name of [breed.name, ...(breed.altnames || [])]) {
+    let file;
+    try { file = await fetchPageLeadImage(name); } catch { continue; }
+    if (!file) continue;
+    const info = await fetchWithRetry(`${FILE_INFO_API}?action=query&format=json&formatversion=2&titles=${encodeURIComponent(`File:${file}`)}` +
+      `&prop=imageinfo&iiprop=url|size|mime|extmetadata&iiurlwidth=${THUMB_WIDTH}`);
+    if (!info.ok) continue;
+    const page = (await info.json()).query?.pages?.[0];
+    // A Commons file served through this gateway is flagged "missing" even
+    // when it exists, because it lives on the shared (Commons) repository.
+    if (!page || (page.missing && page.imagerepository !== "shared")) continue;
+    const ii = page.imageinfo?.[0];
+    if (!ii || !/^image\/(jpeg|png|webp)$/.test(ii.mime) || ii.width < MIN_WIDTH) continue;
+    const meta = ii.extmetadata || {};
+    const about = `${file} ${stripHtml(meta.ImageDescription?.value)} ${meta.Categories?.value || ""}`;
+    if (!CHICKEN_WORDS.test(about)) continue;
+    return {
+      url: ii.thumburl || ii.url,
+      page: ii.descriptionurl,
+      credit: stripHtml(meta.Artist?.value) || "Wikimedia Commons contributor",
+      license: stripHtml(meta.LicenseShortName?.value) || "not stated",
+      license_url: meta.LicenseUrl?.value || null,
+    };
+  }
+  return null;
+}
 
 async function commonsCandidate(breed) {
   const names = [breed.name, ...(breed.altnames || []), ...(COMMONS_NAMES[breed.id] || [])];
@@ -191,6 +231,12 @@ async function photoFor(breed, links, global) {
     return { breed_id: breed.id, local_path: rel, ...sizeOfFile(abs(rel)), source_url: HARRIS_RAW + h,
       page_url: "https://github.com/Harris730/Chicken_breed_dataset",
       credit: "Harris730/Chicken_breed_dataset (GitHub)", license: "not stated", origin: "github:Harris730/Chicken_breed_dataset" };
+  }
+  const w = await wikipediaCandidate(breed);
+  if (w) {
+    const got = await download(w.url, dir, "wikipedia");
+    return { breed_id: breed.id, ...got, source_url: w.url, page_url: w.page, credit: w.credit,
+      license: w.license, license_url: w.license_url, origin: "wikipedia-lead-image" };
   }
   const c = await commonsCandidate(breed);
   if (c) {

@@ -418,5 +418,53 @@
     "credit": "Harris730/Chicken_breed_dataset (GitHub)",
     "license": "not stated",
     "origin": "github:Harris730/Chicken_breed_dataset"
+  },
+  {
+    "breed_id": "belgian-bantam",
+    "local_path": "data/images-original/breeds/belgian-bantam/commons.jpg",
+    "width": 800,
+    "height": 600,
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/0%2C1_Antwerpener_Bartzwerg_-_wachtelfarbig.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:0,1_Antwerpener_Bartzwerg_-_wachtelfarbig.jpg",
+    "credit": "Wiedeco",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "origin": "wikimedia-commons"
+  },
+  {
+    "breed_id": "croad-langshan",
+    "local_path": "data/images-original/breeds/croad-langshan/commons.jpg",
+    "width": 1280,
+    "height": 959,
+    "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Black_Langshans_%2821403472993%29.jpg/1280px-Black_Langshans_%2821403472993%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Black_Langshans_(21403472993).jpg",
+    "credit": "Community Archives",
+    "license": "Public domain",
+    "license_url": null,
+    "origin": "wikimedia-commons"
+  },
+  {
+    "breed_id": "czech-gold-brindled-hen",
+    "local_path": "data/images-original/breeds/czech-gold-brindled-hen/wikipedia.jpg",
+    "width": 800,
+    "height": 600,
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Slepice_%C4%8Desk%C3%A1_zlat%C4%9B_kropenat%C3%A1%2C_mlad%C3%BD_p%C3%A1r.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Slepice_%C4%8Desk%C3%A1_zlat%C4%9B_kropenat%C3%A1,_mlad%C3%BD_p%C3%A1r.jpg",
+    "credit": "Milan Kylar",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "origin": "wikipedia-lead-image"
+  },
+  {
+    "breed_id": "delaware-blue-hen",
+    "local_path": "data/images-original/breeds/delaware-blue-hen/wikipedia.png",
+    "width": 928,
+    "height": 927,
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Delaware_Blue_rooster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Delaware_Blue_rooster.png",
+    "credit": "Jane McNellis-Sadowy (Swaphandmedowns.com)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "origin": "wikipedia-lead-image"
   }
 ]
