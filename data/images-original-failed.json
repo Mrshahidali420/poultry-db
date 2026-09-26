@@ -1,0 +1,191 @@
+[
+  {
+    "entity_type": "breeds",
+    "entity_id": "altsteirer",
+    "file": "altsteirer.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "cubalaya",
+    "file": "cubalaya.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "houdan-chicken",
+    "file": "houdan.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "iowa-blue",
+    "file": "iowa-blue.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "ixworth-chicken",
+    "file": "ixworth.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "japanese-bantam",
+    "file": "chabo.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "lakenvelder",
+    "file": "lakenvelder.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "marsh-daisy-chicken",
+    "file": "marsh-daisy.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "naked-neck",
+    "file": "naked-neck.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "nankin-bantam",
+    "file": "nankin.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "new-hampshire-red",
+    "file": "new-hampshire.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "norfolk-grey",
+    "file": "norfolk-grey.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "old-english-game",
+    "file": "old-english-game.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "orloff-chicken",
+    "file": "orloff.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "pekin-bantam",
+    "file": "pekin-bantam.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "breeds",
+    "entity_id": "welsummer",
+    "file": "welsummer.jpg",
+    "role": "main",
+    "error": "missing on Commons"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "brussels-sprouts",
+    "file": "Brussels_sprout_closeup.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "jalapenos",
+    "file": "Immature_jalapeno_capsicum_annuum_var_annuum.jpeg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "japanese-beetles",
+    "file": "Popillia_japonica.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "persimmon",
+    "file": "Fuyu_persimmon_fruits,_one_cut_open.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "foods",
+    "entity_id": "pinto-beans",
+    "file": "Pinto_Beans_Seeds.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "predators",
+    "entity_id": "bobcat",
+    "file": "Bobcat_at_Columbus_Zoo_Boo.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "autumn-crocus",
+    "file": "Illustration_Colchicum_autumnale0.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "toxic-plants",
+    "entity_id": "oleander",
+    "file": "Nerium_oleander_flowers_leaves.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "oregano",
+    "file": "Origanum_vulgare_-_harilik_pune.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "safe-forage-plants",
+    "entity_id": "wild-strawberry",
+    "file": "Illustration_Fragaria_vesca0.jpg",
+    "role": "main",
+    "error": "HTTP 429"
+  },
+  {
+    "entity_type": "diseases",
+    "entity_id": "animal-health-and-welfare-act-1984",
+    "file": "Royal_coat_of_arms_of_the_United_Kingdom_(1952–2022,_variant_1).svg",
+    "role": "main",
+    "error": "HTTP 429"
+  }
+]
