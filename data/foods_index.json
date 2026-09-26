@@ -179,9 +179,7 @@
       "Beef",
       "ground beef",
       "hamburger",
-      "steak",
-      "meat scraps",
-      "meat"
+      "steak"
     ],
     "category": "meat-fish",
     "source_file": "data/curated/food-safety.json"
@@ -326,6 +324,22 @@
       "buckwheat groats"
     ],
     "category": "grain",
+    "source_file": "data/curated/food-safety.json"
+  },
+  {
+    "id": "bugs",
+    "name": "Bugs and insects",
+    "search_terms": [
+      "Bugs and insects",
+      "bugs",
+      "insects",
+      "beetles",
+      "caterpillars",
+      "june bugs",
+      "moths",
+      "flies"
+    ],
+    "category": "insect",
     "source_file": "data/curated/food-safety.json"
   },
   {
@@ -580,6 +594,19 @@
     "source_file": "data/curated/food-safety.json"
   },
   {
+    "id": "citrus",
+    "name": "Citrus fruit",
+    "search_terms": [
+      "Citrus fruit",
+      "citrus",
+      "citrus fruits",
+      "citrus peel",
+      "citrus peels"
+    ],
+    "category": "fruit",
+    "source_file": "data/curated/food-safety.json"
+  },
+  {
     "id": "clover",
     "name": "Clover",
     "search_terms": [
@@ -728,8 +755,7 @@
     "search_terms": [
       "Dandelions",
       "dandelion",
-      "dandelion greens",
-      "weeds"
+      "dandelion greens"
     ],
     "category": "plant-weed",
     "source_file": "data/curated/food-safety.json"
@@ -1256,6 +1282,23 @@
     "source_file": "data/curated/food-safety.json"
   },
   {
+    "id": "meat",
+    "name": "Meat",
+    "search_terms": [
+      "Meat",
+      "meat",
+      "meat scraps",
+      "cooked meat",
+      "raw meat",
+      "leftover meat",
+      "lamb",
+      "turkey meat",
+      "steak scraps"
+    ],
+    "category": "meat-fish",
+    "source_file": "data/curated/food-safety.json"
+  },
+  {
     "id": "milk",
     "name": "Milk",
     "search_terms": [
@@ -1288,9 +1331,9 @@
   },
   {
     "id": "moldy-food",
-    "name": "Mouldy food",
+    "name": "Moldy food",
     "search_terms": [
-      "Mouldy food",
+      "Moldy food",
       "moldy food",
       "rotten food",
       "spoiled food",
@@ -1340,6 +1383,19 @@
       "stinging nettles"
     ],
     "category": "plant-weed",
+    "source_file": "data/curated/food-safety.json"
+  },
+  {
+    "id": "nuts",
+    "name": "Nuts",
+    "search_terms": [
+      "Nuts",
+      "nuts",
+      "mixed nuts",
+      "tree nuts",
+      "nut shells"
+    ],
+    "category": "nut-seed",
     "source_file": "data/curated/food-safety.json"
   },
   {
@@ -1396,9 +1452,7 @@
     "search_terms": [
       "Oranges",
       "orange",
-      "orange peels",
-      "clementines",
-      "mandarins"
+      "orange peels"
     ],
     "category": "fruit",
     "source_file": "data/curated/food-safety.json"
@@ -1989,7 +2043,9 @@
       "tangerine",
       "clementine",
       "satsuma",
-      "mandarin orange"
+      "mandarin orange",
+      "clementines",
+      "mandarins"
     ],
     "category": "fruit",
     "source_file": "data/curated/food-safety.json"
@@ -2116,6 +2172,19 @@
     "source_file": "data/curated/food-safety.json"
   },
   {
+    "id": "weeds",
+    "name": "Weeds",
+    "search_terms": [
+      "Weeds",
+      "weeds",
+      "garden weeds",
+      "lawn weeds",
+      "pulled weeds"
+    ],
+    "category": "plant-weed",
+    "source_file": "data/curated/food-safety.json"
+  },
+  {
     "id": "wheat",
     "name": "Wheat",
     "search_terms": [
@@ -2135,8 +2204,7 @@
       "Earthworms",
       "earthworms",
       "red wigglers",
-      "nightcrawlers",
-      "bugs"
+      "nightcrawlers"
     ],
     "category": "insect",
     "source_file": "data/curated/food-safety.json"

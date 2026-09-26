@@ -1,0 +1,2341 @@
+[
+  {
+    "food_id": "acorns",
+    "status": "approved",
+    "changes": "Short answer rewritten; sources replaced with a hen feeding trial (tannins 7%, 10% boiled acorn tolerated) and Cornell's oak entry; confidence low to medium.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8025638/",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=70"
+    ]
+  },
+  {
+    "food_id": "alcohol",
+    "status": "approved",
+    "changes": "Verdict confirmed by three extension sources; spent grain part checked against Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/74"
+    ]
+  },
+  {
+    "food_id": "alfalfa",
+    "status": "approved",
+    "changes": "Short answer rewritten; page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/275",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "almonds",
+    "status": "needs-human",
+    "changes": "Salted part unsafe to limit, to match other salty foods. Merck covers cyanide and mold only; no source directly covers almonds as a chicken treat.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "apples",
+    "status": "fixed",
+    "changes": "Added a crab apples part (plan W1-06); short answer rewritten.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://www.feedipedia.org/node/20703",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "apricots",
+    "status": "approved",
+    "changes": "Pit and leaf warnings confirmed (UF/IFAS, Merck Prunus list).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "arugula",
+    "status": "approved",
+    "changes": "Category support: extension sources list leafy vegetable scraps as safe treats.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "asparagus",
+    "status": "approved",
+    "changes": "Short answer rewritten; category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "avocado",
+    "status": "fixed",
+    "changes": "Verdict limit to unsafe and flesh part limit to unsafe: UC Davis and UF/IFAS say avoid avocado entirely, and Merck links fruit, leaves and seeds to heart damage in chickens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/food-hazards/avocado-persea-spp-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/"
+    ]
+  },
+  {
+    "food_id": "bacon",
+    "status": "approved",
+    "changes": "Verdict confirmed (salty and fatty foods to avoid).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "baked-beans",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "bananas",
+    "status": "approved",
+    "changes": "Peel covered as a part (plan W1-06); tannins in peel noted by Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/683",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "barley",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/227",
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "basil",
+    "status": "needs-human",
+    "changes": "No extension, veterinary or feed reference names basil. Verdict looks right; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "beans",
+    "status": "approved",
+    "changes": "Raw bean warning confirmed by three extension sources and Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/266"
+    ]
+  },
+  {
+    "food_id": "beef",
+    "status": "fixed",
+    "changes": "Moved the meat and meat scraps aliases to the new meat record; short answer rewritten.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/222",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "beets",
+    "status": "approved",
+    "changes": "Short answer rewritten; category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "bell-peppers",
+    "status": "approved",
+    "changes": "Pepper leaf warning confirmed (UF/IFAS AN239, UC Davis).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "bird-seed",
+    "status": "approved",
+    "changes": "Common seed mix grains checked in Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/722",
+      "https://www.feedipedia.org/node/40",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "black-beans",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://www.feedipedia.org/node/266"
+    ]
+  },
+  {
+    "food_id": "black-soldier-fly-larvae",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/16388",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "blackberries",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "blueberries",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "bok-choy",
+    "status": "approved",
+    "changes": "Cornell lists Brassica spp for poultry (roots and seeds, glucosinolates), consistent with the large-amounts caveat.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "bread",
+    "status": "approved",
+    "changes": "Verdict confirmed (UMN, Poultry Extension).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.feedipedia.org/node/70"
+    ]
+  },
+  {
+    "food_id": "broccoli",
+    "status": "approved",
+    "changes": "Category support; Brassica caveat from Cornell.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "brussels-sprouts",
+    "status": "approved",
+    "changes": "Category support; alias brussel sprouts already present (plan W1-06).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "buckwheat",
+    "status": "approved",
+    "changes": "Feedipedia confirms grain use in poultry.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/25140",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "bugs",
+    "status": "approved",
+    "changes": "New record for the bugs and insects searches (plan W1-06).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/poultry-health/internal-parasites-of-poultry/",
+      "https://www.feedipedia.org/content/insect-meals-animal-feed",
+      "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry"
+    ]
+  },
+  {
+    "food_id": "cabbage",
+    "status": "approved",
+    "changes": "Category support; Brassica caveat from Cornell.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "cake",
+    "status": "approved",
+    "changes": "Verdict confirmed (avoid sugary and fatty foods).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/70"
+    ]
+  },
+  {
+    "food_id": "candy",
+    "status": "approved",
+    "changes": "Verdict confirmed; UF/IFAS AN239 lists candy, chocolate and sugar under never feed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "cantaloupe",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/520",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "carrots",
+    "status": "approved",
+    "changes": "Feedipedia confirms roots and tops fed to laying hens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/539",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "cashews",
+    "status": "fixed",
+    "changes": "Salted part unsafe to limit (consistency with salty foods); shell toxicity confirmed by Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/56",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "cassava",
+    "status": "fixed",
+    "changes": "Toxic compound corrected from amygdalin to linamarin and lotaustralin (Feedipedia, FAO); processed-cassava part reworded.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/527",
+      "https://www.fao.org/4/t0554e/t0554e06.htm",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals"
+    ]
+  },
+  {
+    "food_id": "cat-food",
+    "status": "needs-human",
+    "changes": "Removed an unsupported claim that cat food is salty. No reliable source covers pet food for chickens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "cauliflower",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "celery",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "cereal",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/70",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "cheerios",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/70",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "cheese",
+    "status": "approved",
+    "changes": "Dairy listed as a scrap by CSU; lactose checked against Feedipedia whey.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/730"
+    ]
+  },
+  {
+    "food_id": "cherries",
+    "status": "approved",
+    "changes": "Pit and leaf warnings confirmed (UF/IFAS, Merck, Cornell: amygdalin, prunasin).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=68"
+    ]
+  },
+  {
+    "food_id": "chia-seeds",
+    "status": "needs-human",
+    "changes": "No reliable source names chia for poultry. Verdict plausible; needs a human check.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "chicken",
+    "status": "approved",
+    "changes": "Verdict confirmed; poultry by-products are a standard poultry feed ingredient.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/214",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "chickpeas",
+    "status": "approved",
+    "changes": "Raw chickpea antinutrients confirmed by Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/319",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "chickweed",
+    "status": "approved",
+    "changes": "Weeds listed as forage by CSU Extension.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "chips",
+    "status": "approved",
+    "changes": "Verdict confirmed; UF/IFAS names chips as salty food to avoid.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "chives",
+    "status": "approved",
+    "changes": "Merck lists chives among Allium spp.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "chocolate",
+    "status": "approved",
+    "changes": "Verdict confirmed by five sources; serving line now adds when to call a vet.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals",
+      "https://www.feedipedia.org/node/23"
+    ]
+  },
+  {
+    "food_id": "cilantro",
+    "status": "needs-human",
+    "changes": "No reliable source names cilantro. Verdict looks right; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "citrus",
+    "status": "approved",
+    "changes": "New group record for citrus searches (plan W1-06); links to the single citrus fruits.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/678",
+      "https://www.feedipedia.org/node/679"
+    ]
+  },
+  {
+    "food_id": "clover",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.feedipedia.org/node/245"
+    ]
+  },
+  {
+    "food_id": "cockroaches",
+    "status": "approved",
+    "changes": "Eyeworm and intermediate host claims confirmed (Merck, Poultry Extension).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/poultry/helminthiasis/helminthiasis-in-poultry",
+      "https://poultry.extension.org/articles/poultry-health/internal-parasites-of-poultry/"
+    ]
+  },
+  {
+    "food_id": "coconut",
+    "status": "approved",
+    "changes": "Copra is a poultry feed ingredient (Feedipedia); fat caveat from UF/IFAS.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/46",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "coffee",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/549",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "collard-greens",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "comfrey",
+    "status": "approved",
+    "changes": "Feedipedia flags comfrey alkaloids; Merck confirms these alkaloids cause liver damage in chickens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/92",
+      "https://www.merckvetmanual.com/poultry/poisonings/poisonings-in-poultry"
+    ]
+  },
+  {
+    "food_id": "cookies",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/70"
+    ]
+  },
+  {
+    "food_id": "corn",
+    "status": "approved",
+    "changes": "Verdict confirmed; aflatoxin caveat from Merck.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/556",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "cottage-cheese",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/730"
+    ]
+  },
+  {
+    "food_id": "crackers",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "cranberries",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "crickets",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/198",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "cucumbers",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "dandelions",
+    "status": "fixed",
+    "changes": "Moved the weeds alias to the new weeds record.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "dates",
+    "status": "approved",
+    "changes": "Feedipedia confirms dates fed to poultry.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/688",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "dill",
+    "status": "needs-human",
+    "changes": "No reliable source names dill. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "dog-food",
+    "status": "needs-human",
+    "changes": "No reliable source covers pet food for chickens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "dragon-fruit",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "duck-feed",
+    "status": "needs-human",
+    "changes": "Oyster shell advice for non-layer feeds is sourced; no source directly covers waterfowl feed for chickens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "duckweed",
+    "status": "approved",
+    "changes": "Feeding trials in Feedipedia and LRRD.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/15306",
+      "https://www.lrrd.org/lrrd25/6/hang25101.htm"
+    ]
+  },
+  {
+    "food_id": "edamame",
+    "status": "approved",
+    "changes": "Trypsin inhibitor claim confirmed by Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/42",
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf"
+    ]
+  },
+  {
+    "food_id": "eggplant",
+    "status": "approved",
+    "changes": "Leaf warning confirmed (UF/IFAS AN239, UC Davis).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "eggs",
+    "status": "approved",
+    "changes": "Egg-eating risk and protein value confirmed by Penn State; eggs are a poultry feed ingredient (Feedipedia).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/prevention-of-egg-eating-in-chickens",
+      "https://www.feedipedia.org/node/212"
+    ]
+  },
+  {
+    "food_id": "eggshells",
+    "status": "approved",
+    "changes": "Penn State: dry and crush very fine; CSU and Feedipedia confirm calcium value.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/prevention-of-egg-eating-in-chickens",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/210"
+    ]
+  },
+  {
+    "food_id": "elderberries",
+    "status": "fixed",
+    "changes": "Toxic compound corrected from amygdalin to sambunigrin (Cornell).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=76",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals"
+    ]
+  },
+  {
+    "food_id": "fennel",
+    "status": "approved",
+    "changes": "Category support (vegetable).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "figs",
+    "status": "fixed",
+    "changes": "Corrected the furanocoumarin note, which placed figs in the carrot family; category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "fish",
+    "status": "approved",
+    "changes": "Fish is a standard poultry protein (Feedipedia).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/208",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "flaxseed",
+    "status": "approved",
+    "changes": "Feedipedia: gums and low-level toxins limit linseed for poultry; Merck lists flax as cyanogenic.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/735",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals"
+    ]
+  },
+  {
+    "food_id": "french-fries",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "garlic",
+    "status": "fixed",
+    "changes": "Verdict moderation to limit, parts to limit, and serving line without a dose: Merck says garlic is 3 to 5 times more toxic than onion, which was already rated limit.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/"
+    ]
+  },
+  {
+    "food_id": "grapefruit",
+    "status": "fixed",
+    "changes": "Added a seeds part (limonin in citrus seeds, Feedipedia).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/678",
+      "https://www.feedipedia.org/node/679"
+    ]
+  },
+  {
+    "food_id": "grapes",
+    "status": "approved",
+    "changes": "Merck grape toxicity entry covers dogs only, consistent with the record.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/691",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"
+    ]
+  },
+  {
+    "food_id": "grass",
+    "status": "approved",
+    "changes": "Grass and grit confirmed (CSU, Poultry Extension).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "grasshoppers",
+    "status": "approved",
+    "changes": "Intermediate host claim confirmed (Merck, Poultry Extension).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/198",
+      "https://poultry.extension.org/articles/poultry-health/internal-parasites-of-poultry/",
+      "https://www.merckvetmanual.com/poultry/helminthiasis/helminthiasis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "green-beans",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/266"
+    ]
+  },
+  {
+    "food_id": "ham",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "hay",
+    "status": "needs-human",
+    "changes": "Mold risk sourced; no source directly addresses hay as a chicken treat.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/mycotoxicoses-in-poultry"
+    ]
+  },
+  {
+    "food_id": "hazelnuts",
+    "status": "needs-human",
+    "changes": "Salted part unsafe to limit. Only the mold risk is sourced; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "honey",
+    "status": "needs-human",
+    "changes": "UF/IFAS lists sugar as a food to avoid; no second source names honey.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://poultry.extension.org/",
+      "https://www.merckvetmanual.com/",
+      "https://content.ces.ncsu.edu/"
+    ]
+  },
+  {
+    "food_id": "honeydew",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/520",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "hot-dogs",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "jalapenos",
+    "status": "approved",
+    "changes": "Pepper leaf warning confirmed; fruit covered by vegetable scraps.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "japanese-beetles",
+    "status": "approved",
+    "changes": "Insects are a natural food (UMN, CSU).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/poultry-health/internal-parasites-of-poultry/"
+    ]
+  },
+  {
+    "food_id": "kale",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "kelp",
+    "status": "needs-human",
+    "changes": "Feedipedia supports low inclusion of seaweed; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/78",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "kidney-beans",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://www.feedipedia.org/node/266"
+    ]
+  },
+  {
+    "food_id": "kiwi",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "kohlrabi",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "lavender",
+    "status": "needs-human",
+    "changes": "No reliable source names lavender. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "layer-feed",
+    "status": "approved",
+    "changes": "Confirmed by Oregon State PNW 477, Poultry Extension and Penn State.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks"
+    ]
+  },
+  {
+    "food_id": "leeks",
+    "status": "approved",
+    "changes": "Merck lists leeks among Allium spp.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "lemons",
+    "status": "fixed",
+    "changes": "Added a seeds part.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/678",
+      "https://www.feedipedia.org/node/679"
+    ]
+  },
+  {
+    "food_id": "lentils",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/284",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "lettuce",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "lima-beans",
+    "status": "fixed",
+    "changes": "Toxic compound corrected from amygdalin to linamarin; Merck lists lima bean as cyanogenic.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/267",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "limes",
+    "status": "fixed",
+    "changes": "Added a seeds part.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/678",
+      "https://www.feedipedia.org/node/679"
+    ]
+  },
+  {
+    "food_id": "lychee",
+    "status": "needs-human",
+    "changes": "Low confidence; no reliable poultry source for lychee toxins.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "mac-and-cheese",
+    "status": "approved",
+    "changes": "US wording; verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "mango",
+    "status": "approved",
+    "changes": "Alias mangoes present (plan W1-06); Feedipedia checked.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/516",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "marshmallows",
+    "status": "needs-human",
+    "changes": "Both sources are UF/IFAS (one publisher) and speak of sugar in general; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/"
+    ]
+  },
+  {
+    "food_id": "mealworms",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/16401",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "meat",
+    "status": "approved",
+    "changes": "New group record for the meat searches (plan W1-06, 5.2K a month).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/222",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "milk",
+    "status": "approved",
+    "changes": "Lactose caveat consistent with Feedipedia whey.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/730"
+    ]
+  },
+  {
+    "food_id": "millet",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/722",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "mint",
+    "status": "needs-human",
+    "changes": "No reliable source names mint. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "moldy-food",
+    "status": "fixed",
+    "changes": "Added the botulism risk from rotting scraps (Poultry Extension, Merck).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/mycotoxicoses-in-poultry",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://www.merckvetmanual.com/poultry/botulism/botulism-in-poultry"
+    ]
+  },
+  {
+    "food_id": "mulberries",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/123",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "mushrooms",
+    "status": "needs-human",
+    "changes": "No reliable source covers mushrooms for chickens.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.merckvetmanual.com/",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/"
+    ]
+  },
+  {
+    "food_id": "nectarines",
+    "status": "approved",
+    "changes": "Merck lists nectarine among cyanogenic Prunus.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "nettles",
+    "status": "approved",
+    "changes": "Weeds listed as forage (CSU).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "nuts",
+    "status": "approved",
+    "changes": "New group record for the nuts searches (plan W1-06, 4.3K a month).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/699",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://www.feedipedia.org/node/38",
+      "https://www.feedipedia.org/node/56"
+    ]
+  },
+  {
+    "food_id": "oats",
+    "status": "approved",
+    "changes": "UMN names oats as a treat.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/231"
+    ]
+  },
+  {
+    "food_id": "okra",
+    "status": "approved",
+    "changes": "Feedipedia: seeds collected for chicken feed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/519",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "olives",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "onions",
+    "status": "approved",
+    "changes": "Verdict confirmed; green onions part present (plan W1-06).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "oranges",
+    "status": "fixed",
+    "changes": "Moved clementine and mandarin aliases to tangerines (they collided); added a seeds part.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/678",
+      "https://www.feedipedia.org/node/679"
+    ]
+  },
+  {
+    "food_id": "oregano",
+    "status": "needs-human",
+    "changes": "No reliable source names oregano as a treat. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "oyster-shell",
+    "status": "approved",
+    "changes": "Confirmed by four sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks",
+      "https://www.merckvetmanual.com/poultry/disorders-of-the-reproductive-system-in-poultry/calcium-metabolism-problems-in-hens"
+    ]
+  },
+  {
+    "food_id": "pancakes",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/70"
+    ]
+  },
+  {
+    "food_id": "papaya",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/522",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "parsley",
+    "status": "needs-human",
+    "changes": "No reliable source names parsley. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "parsnips",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "pasta",
+    "status": "approved",
+    "changes": "Spaghetti and noodles aliases present (plan W1-06).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/70",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "peaches",
+    "status": "approved",
+    "changes": "Pit warning confirmed (UF/IFAS, Merck).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "peanut-butter",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/699",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "peanuts",
+    "status": "fixed",
+    "changes": "Salted part unsafe to limit; aflatoxin risk confirmed (Feedipedia, Merck).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/699",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "pears",
+    "status": "approved",
+    "changes": "Seed caveat consistent with UF/IFAS.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "peas",
+    "status": "approved",
+    "changes": "Feedipedia confirms peas for poultry.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/264",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "pecans",
+    "status": "needs-human",
+    "changes": "Only the mold risk is sourced; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "persimmon",
+    "status": "needs-human",
+    "changes": "Low confidence; no reliable poultry source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "pickles",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "pineapple",
+    "status": "approved",
+    "changes": "Feedipedia: fibrous pineapple bran depressed chick growth, consistent with the fiber caveat.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/676",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "pinto-beans",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://www.feedipedia.org/node/266"
+    ]
+  },
+  {
+    "food_id": "pistachios",
+    "status": "needs-human",
+    "changes": "Salted part unsafe to limit. Only the mold risk is sourced; needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry",
+      "https://poultry.extension.org/",
+      "https://extension.umn.edu/",
+      "https://extension.umd.edu/"
+    ]
+  },
+  {
+    "food_id": "pizza",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "plantain-weed",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/114",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "plums",
+    "status": "approved",
+    "changes": "Pit warning confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "pomegranate",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "popcorn",
+    "status": "fixed",
+    "changes": "Salted part unsafe to limit (consistency with salty foods).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/556",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "pork",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/222",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "potatoes",
+    "status": "approved",
+    "changes": "Confirmed by five sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.feedipedia.org/node/547",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=80"
+    ]
+  },
+  {
+    "food_id": "pumpkin",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/44",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "purslane",
+    "status": "approved",
+    "changes": "Weeds listed as forage (CSU).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "quinoa",
+    "status": "approved",
+    "changes": "Saponins confirmed by Feedipedia.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/229",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "radishes",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "raisins",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/691",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"
+    ]
+  },
+  {
+    "food_id": "raspberries",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "refried-beans",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "rhubarb",
+    "status": "approved",
+    "changes": "Confirmed (UF/IFAS, UC Davis, Cornell).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=72"
+    ]
+  },
+  {
+    "food_id": "rice",
+    "status": "approved",
+    "changes": "Feedipedia: rice similar to corn for poultry.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/748",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "rosemary",
+    "status": "needs-human",
+    "changes": "No reliable source names rosemary. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "rutabaga",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "sage",
+    "status": "needs-human",
+    "changes": "No reliable source names sage. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "salmon",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/208",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "salt",
+    "status": "approved",
+    "changes": "Merck confirms salt toxicosis signs in poultry; confidence medium to high.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "sauerkraut",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "scratch-grains",
+    "status": "approved",
+    "changes": "Confirmed by four extension sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/news/keep-eggs-coming-right-chicken-care",
+      "https://source.colostate.edu/raising-backyard-chickens-eggs/"
+    ]
+  },
+  {
+    "food_id": "shrimp",
+    "status": "approved",
+    "changes": "Shrimp meal is a poultry ingredient (Feedipedia).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/202",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "slugs-and-snails",
+    "status": "approved",
+    "changes": "Intermediate host claim confirmed (Poultry Extension, Merck).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-health/internal-parasites-of-poultry/",
+      "https://www.merckvetmanual.com/poultry/helminthiasis/helminthiasis-in-poultry",
+      "https://www.feedipedia.org/node/200"
+    ]
+  },
+  {
+    "food_id": "soybeans",
+    "status": "approved",
+    "changes": "Confirmed by Feedipedia and Oregon State.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/42",
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf"
+    ]
+  },
+  {
+    "food_id": "spinach",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "squash",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/44",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "star-fruit",
+    "status": "needs-human",
+    "changes": "Low confidence; no reliable poultry source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/",
+      "https://www.merckvetmanual.com/",
+      "https://content.ces.ncsu.edu/"
+    ]
+  },
+  {
+    "food_id": "stink-bugs",
+    "status": "needs-human",
+    "changes": "Low confidence; insects in general are sourced, stink bugs are not.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "strawberries",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "sunflower-seeds",
+    "status": "fixed",
+    "changes": "Salted part unsafe to limit; Feedipedia: no antinutritional factors.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/40",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "sweet-potatoes",
+    "status": "approved",
+    "changes": "Feedipedia: cooking improves tubers for poultry.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/745",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "swiss-chard",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "tangerines",
+    "status": "fixed",
+    "changes": "Took over the clementine and mandarin aliases; added a seeds part.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://www.feedipedia.org/node/678",
+      "https://www.feedipedia.org/node/679"
+    ]
+  },
+  {
+    "food_id": "tea",
+    "status": "approved",
+    "changes": "UF/IFAS names tea bags; Merck confirms caffeine is a methylxanthine toxin.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blogs.ifas.ufl.edu/holmesco/2026/05/25/10-foods-you-should-never-feed-chickens/",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "thyme",
+    "status": "needs-human",
+    "changes": "No reliable source names thyme. Needs a second reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "ticks",
+    "status": "approved",
+    "changes": "Penn State: no North American studies show chickens control ticks.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/do-chickens-guinea-fowl-or-opossums-control-ticks",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs"
+    ]
+  },
+  {
+    "food_id": "tofu",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/42",
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf"
+    ]
+  },
+  {
+    "food_id": "tomatoes",
+    "status": "approved",
+    "changes": "Leaf warning confirmed (UF/IFAS, UC Davis); Cornell lists immature Solanum fruit as poisonous.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://ucanr.edu/sites/default/files/2015-04/211138.pdf",
+      "https://www.feedipedia.org/node/689",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=80"
+    ]
+  },
+  {
+    "food_id": "tortillas",
+    "status": "approved",
+    "changes": "Verdict confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/70",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "food_id": "tuna",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/208",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
+    ]
+  },
+  {
+    "food_id": "turnips",
+    "status": "approved",
+    "changes": "Category support; Cornell lists turnip roots under Brassica for poultry in large amounts.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry"
+    ]
+  },
+  {
+    "food_id": "walnuts",
+    "status": "fixed",
+    "changes": "Salted part unsafe to limit; Feedipedia confirms walnut meal fed to poultry.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/38",
+      "https://www.merckvetmanual.com/poultry/mycotoxicoses-in-poultry/aflatoxicosis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "watercress",
+    "status": "approved",
+    "changes": "Category support.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "watermelon",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/166",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "food_id": "weeds",
+    "status": "approved",
+    "changes": "New group record for the weeds searches (plan W1-06).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=display&ispecies=poultry",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=80",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "food_id": "wheat",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/223",
+      "https://extension.oregonstate.edu/sites/extd8/files/catalog/auto/PNW477.pdf"
+    ]
+  },
+  {
+    "food_id": "worms",
+    "status": "fixed",
+    "changes": "Moved the bugs alias to the new bugs record; parasite claim confirmed (Merck, UMD).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/665",
+      "https://extension.umd.edu/sites/extension.umd.edu/files/publications/FS-999%20Recognizing%20and%20Preventing%20Internal%20Parasites%20in%20Small%20Flocks.pdf",
+      "https://www.merckvetmanual.com/poultry/helminthiasis/helminthiasis-in-poultry"
+    ]
+  },
+  {
+    "food_id": "yogurt",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+      "https://www.feedipedia.org/node/730"
+    ]
+  },
+  {
+    "food_id": "zucchini",
+    "status": "approved",
+    "changes": "Page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/44",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  }
+]

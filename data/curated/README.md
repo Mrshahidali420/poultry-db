@@ -8,7 +8,7 @@ a JSON array, sorted by `id` (kebab-case, unique), pretty-printed.
 
 | File | Records | What it holds |
 |---|---|---|
-| `food-safety.json` | 193 | One record per food from `niche-research/12-chicken-food-pages.md` (variants such as peels, seeds, rinds, skins, cooked/raw are `parts`, not separate records). Verdict, reason, per-part verdicts, toxic compounds, preparation, serving guidance, benefits, chick safety. |
+| `food-safety.json` | 198 | One record per food from `niche-research/12-chicken-food-pages.md` (variants such as peels, seeds, rinds, skins, cooked/raw are `parts`, not separate records), plus five group records added in the W1-03 review: `bugs`, `citrus`, `meat`, `nuts`, `weeds`. Verdict, short answer (`verdict_reason`), per-part verdicts, toxic compounds, preparation, serving guidance, benefits, chick safety. Reviewed record by record in `../reviews/food-safety-reviews.json`. |
 | `toxic-plants.json` | 53 | Garden plants and weeds harmful to chickens: toxic parts, compound, severity, signs, notes. |
 | `safe-forage-plants.json` | 41 | Common safe greens, weeds and herbs chickens forage: edible parts, benefits, cautions. |
 | `predators.json` | 22 | US and UK chicken predators: region, active time, attack signs (how to tell who did it), what they take, prevention. |
@@ -41,21 +41,36 @@ a JSON array, sorted by `id` (kebab-case, unique), pretty-printed.
   `source_confidence: "page"` means the URL is a specific page known to exist.
   `"domain"` means the URL is the publisher's site root, because no deep link was
   verified. No deep links were guessed.
-- Almost every source is currently domain-level. Before publishing, replace each
-  domain root with the specific extension or government page that supports the
-  claim, and change it to `"page"`.
+- Almost every source in the other files is still domain-level. Before
+  publishing, replace each domain root with the specific extension or government
+  page that supports the claim, and change it to `"page"`.
+- `food-safety.json` also cites Feedipedia (INRAE, CIRAD, AFZ and FAO), FAO, and
+  peer-reviewed feeding trials where extension pages are silent. Every food
+  source was fetched and read on 2026-09-26. "Category support" in a review
+  means the source names the food's group (fruit and vegetable scraps, leafy
+  greens, grains, insects, worms, weeds, meat, dairy) rather than the food itself;
+  it is only used for plain foods with no known toxic part.
 
 ## needs_review
 
-`needs_review` is `true` when `confidence` is not `high` or any source is only
-domain-level. Right now that is every record, because of the domain-level
-sources. **Every `needs_review: true` record must be checked by a human before
-it is published.** Suggested order: `confidence: "low"` first, then `"medium"`,
-then any food with an `unsafe` or `limit` verdict or part, then the rest.
+`food-safety.json`: `needs_review` is `false` only when the W1-03 review marked
+the record `approved` or `fixed` and it has 2+ page-level sources from 2+
+independent publishers (different registrable domains) that agree. Records the
+review marked `needs-human` keep `needs_review: true`; the review entry says
+what is missing. `test/food-safety.test.mjs` enforces this.
+
+Other files: `needs_review` is `true` when `confidence` is not `high` or any
+source is only domain-level. **Every `needs_review: true` record must be checked
+by a human before it is published.** Suggested order: `confidence: "low"` first,
+then `"medium"`, then any food with an `unsafe` or `limit` verdict or part, then
+the rest.
 
 ## Rules for editing
 
-- Plain, short sentences. No em dashes.
+- Plain, short sentences. No em dashes. US spelling in food text (mold, color,
+  fiber, molt); aliases may keep British forms so search still finds them.
+- Unsafe foods: `serving_guidance` starts "Do not feed." and points to a vet,
+  and `toxic_compounds` names what is harmful.
 - No invented statistics or studies. Use ranges, not fake precision.
 - Keep ids unique and files sorted by id. Validate with
   `node -e "JSON.parse(require('fs').readFileSync('food-safety.json','utf8'))"`.
