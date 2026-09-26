@@ -11,30 +11,42 @@
     ],
     "benefits": [
       "High in protein for a green.",
-      "Rich in pigments that deepen yolk colour."
+      "Rich in xanthophyll pigments that deepen yolk color."
     ],
     "cautions": [
+      "High in fiber, so it dilutes the diet when fed in bulk. Offer the leafy parts as a treat.",
+      "Contains saponins, highest in midsummer growth. High levels are bitter and cut feed intake and growth.",
       "Long stems in hay can cause crop impaction."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feed-ingredients-for-poultry/alfalfa-in-poultry-diets/",
         "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/anti-nutritional-factors-in-poultry-feed/saponins/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://www.feedipedia.org/node/275",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=56",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://extension.umd.edu/resource/common-crop-issues-backyard-chickens-ebr-60",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "amaranth",
@@ -43,34 +55,50 @@
     "type": "weed",
     "edible_parts": [
       "leaves",
-      "seed heads"
+      "young shoots"
     ],
     "benefits": [
-      "Leaves and seeds are both eaten."
+      "Leafy summer weed. Amaranth leaves have been tested as a broiler feed."
     ],
     "cautions": [
-      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day.",
-      "Can build up nitrates when grown on heavily fertilised ground. Only a concern in large amounts."
+      "Do not feed raw amaranth seed as a grain. In feeding trials raw seed cut broiler growth, and in one Australian report chickens fed raw grain had convulsions and died. Birds nibbling seed heads on the plant is a different matter.",
+      "Pigweeds build up nitrates, most on heavily fertilized ground.",
+      "Contains oxalic acid. Fine as part of mixed forage, not as the only green every day."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/573",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/187",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://www.merckvetmanual.com/toxicology/nitrate-and-nitrite-poisoning/nitrate-and-nitrite-poisoning-in-animals",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=12",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/amaranthus-retroflexus/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11316716/",
+        "publisher": "Tropical Animal Health and Production, Amaranthus spinosus in broiler diets (PubMed Central)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "basil",
@@ -82,28 +110,28 @@
       "flowers"
     ],
     "benefits": [
-      "Aromatic garden herb, well liked."
+      "Aromatic garden herb. In a laying hen trial, basil in the forage raised egg output and gave more yellow yolks."
     ],
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://doi.org/10.1080/00071668.2012.681770",
+        "publisher": "British Poultry Science (Taylor and Francis), kale, basil and thyme as forage for laying hens",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066449/",
+        "publisher": "Foods (MDPI), basil, calendula and dandelion as yolk pigments (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "blackberry-bramble",
@@ -123,23 +151,23 @@
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://s3.wp.wsu.edu/uploads/sites/2080/2021/02/Planting-a-Chicken-Friendly-Garden.pdf",
+        "publisher": "Washington State University Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3143080/",
+        "publisher": "Journal of Ethnobiology and Ethnomedicine, poultry plants in British Columbia (PubMed Central)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "borage",
@@ -154,27 +182,27 @@
       "Attracts pollinators and insects for birds to catch."
     ],
     "cautions": [
-      "Contains small amounts of pyrrolizidine alkaloids. Best as an occasional nibble, not a main green."
+      "Contains pyrrolizidine alkaloids, which can damage the liver, and poultry are among the animals affected by them. Best as an occasional nibble, not a main green."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/borago-officinalis/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.merckvetmanual.com/",
+        "url": "https://www.merckvetmanual.com/toxicology/pyrrolizidine-alkaloidosis/pyrrolizidine-alkaloidosis-in-animals",
         "publisher": "Merck Veterinary Manual",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://doi.org/10.1080/10888705.2021.2021653",
+        "publisher": "Journal of Applied Animal Welfare Science (Taylor and Francis), borage extract in broilers",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "calendula",
@@ -186,30 +214,31 @@
       "leaves"
     ],
     "benefits": [
-      "Petals add colour to yolks."
+      "Petals are rich in carotenoids. In a hen feeding trial, dried calendula flowers deepened yolk color, though less than Tagetes marigold petals."
     ],
     "cautions": [
-      "Not the same as French or African marigolds (Tagetes), which are less palatable."
+      "Not the same as French or African marigolds (Tagetes). Tagetes petals are also used to color yolks.",
+      "Feed as a treat. In one broiler trial the higher level of dried flowers slowed early growth."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066449/",
+        "publisher": "Foods (MDPI), basil, calendula and dandelion as yolk pigments (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6739258/",
+        "publisher": "Animal Nutrition, calendula flower in broiler diets (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/calendula-officinalis/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "chickweed",
@@ -223,27 +252,28 @@
       "Soft, easy to eat and a favourite in cool seasons."
     ],
     "cautions": [
-      "Scarlet pimpernel, a mildly toxic lookalike with orange-red flowers, can grow alongside it."
+      "Contains small amounts of saponins, which are poorly absorbed and not a concern in normal forage.",
+      "Pick only plants you can identify. Lookalike weeds such as scarlet pimpernel can grow alongside it."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/stellaria-media/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://www.cambridge.org/core/journals/weed-technology/article/abs/common-chickweed-stellaria-media-l-villmere-chicken-feed/29EFBFC5A48F159FC3ECA6B8C9AEB518",
+        "publisher": "Weed Technology (Cambridge University Press), common chickweed as chicken feed",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+        "publisher": "Colorado State University Extension",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "chicory",
@@ -256,29 +286,29 @@
       "roots"
     ],
     "benefits": [
-      "Deep rooted, stays green in dry weather.",
-      "Used in pasture mixes for poultry and livestock."
+      "Deep taproot, and established plants cope with dry weather.",
+      "Used in pasture mixes for free-range laying hens."
     ],
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8228090/",
+        "publisher": "Animals (MDPI), hens with chicory and white clover access (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+        "publisher": "Poultry Science, pasture species for free-range laying hens (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/cichorium-intybus/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "cilantro",
@@ -296,23 +326,23 @@
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7419069/",
+        "publisher": "Open Veterinary Journal, coriander seed in broiler diets (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10906120/",
+        "publisher": "Veterinary Quarterly, coriander in broiler diets (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/coriandrum-sativum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "cleavers",
@@ -323,30 +353,25 @@
       "young leaves and stems"
     ],
     "benefits": [
-      "Early spring green. Traditionally fed to geese and poultry."
+      "Early spring green. Traditionally fed to poultry, fresh or dried."
     ],
     "cautions": [
       "Sticky mature stems can tangle. Offer young growth."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3143080/",
+        "publisher": "Journal of Ethnobiology and Ethnomedicine, poultry plants in British Columbia (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/galium-aparine/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "dandelion",
@@ -359,31 +384,31 @@
       "roots"
     ],
     "benefits": [
-      "Rich in vitamins A and K.",
-      "Flowers add yolk colour."
+      "Leaves, flowers and roots are all eaten.",
+      "Flowers carry yellow pigments. Dried dandelion flowers were fed to hens in a yolk color trial."
     ],
     "cautions": [
-      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertilizer."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066449/",
+        "publisher": "Foods (MDPI), basil, calendula and dandelion as yolk pigments (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10540353/",
+        "publisher": "BMC Veterinary Research, fermented dandelion in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/taraxacum-officinale/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "dead-nettle",
@@ -400,19 +425,9 @@
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/lamium-purpureum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -435,23 +450,28 @@
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://doi.org/10.1111/jpn.13052",
+        "publisher": "Journal of Animal Physiology and Animal Nutrition (Wiley), dill seed in broilers",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/anethum-graveolens/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://plants.ces.ncsu.edu/plants/conium-maculatum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=28",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "duckweed",
@@ -462,31 +482,32 @@
       "whole plant"
     ],
     "benefits": [
-      "High in protein.",
-      "Easy to grow in a tub."
+      "High in protein and a source of yolk pigment.",
+      "Grows fast in still water."
     ],
     "cautions": [
-      "Collect from clean water only."
+      "Collect from clean water only.",
+      "Feed it as part of the diet, not the main feed. High levels cut growth, most in young chicks."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/15306",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9817926/",
+        "publisher": "Animals (MDPI), duckweed protein for broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/lemna-minor/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "fennel",
@@ -506,23 +527,33 @@
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7070762/",
+        "publisher": "Animals (MDPI), fennel seed in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7847707/",
+        "publisher": "PeerJ, fennel seed in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://plants.ces.ncsu.edu/plants/foeniculum-vulgare/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/conium-maculatum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=28",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "grass-short",
@@ -534,32 +565,36 @@
       "seed heads"
     ],
     "benefits": [
-      "The base of free-range forage.",
-      "Gives yolks a deeper colour."
+      "The base of free-range forage. Pasture intake gives yolks a deeper color."
     ],
     "cautions": [
-      "Long grass and clippings can ball up in the crop.",
-      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+      "Long grass and clippings can ball up in the crop and cause impaction.",
+      "Avoid lawns, verges or fields treated with herbicide or fertilizer."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+        "publisher": "Poultry Science, pasture species for free-range laying hens (PubMed Central)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://extension.umd.edu/resource/common-crop-issues-backyard-chickens-ebr-60",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feed-ingredients-for-poultry/forage-and-poultry/",
         "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf",
+        "publisher": "Colorado State University Extension",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "henbit",
@@ -571,24 +606,14 @@
       "flowers"
     ],
     "benefits": [
-      "Common early spring weed chickens eat readily."
+      "Common early spring weed. Its name comes from chickens liking it."
     ],
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/lamium-amplexicaule/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -603,30 +628,30 @@
       "leaves"
     ],
     "benefits": [
-      "Hardy winter green, rich in vitamins and calcium."
+      "Hardy winter green. In a hen trial, fresh kale leaves raised egg weight and gave deeper yolks with more lutein."
     ],
     "cautions": [
-      "Cabbage-family goitrogens only matter in very large amounts."
+      "Cabbage-family glucosinolates (goitrogens) only matter in very large amounts. Seeds and roots hold the most."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://doi.org/10.1080/00071668.2012.681770",
+        "publisher": "British Poultry Science (Taylor and Francis), kale, basil and thyme as forage for laying hens",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=20",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "lambs-quarters",
@@ -638,31 +663,31 @@
       "seeds"
     ],
     "benefits": [
-      "Nutritious leaves and plenty of seed."
+      "Young plants are a good green. Another common name is fat hen."
     ],
     "cautions": [
-      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day.",
-      "Can build up nitrates when grown on heavily fertilised ground. Only a concern in large amounts."
+      "Feed young plants. Older plants are less palatable and hold more saponins and oxalic acid.",
+      "Builds up nitrates, most on heavily fertilized ground. Only a concern in large amounts."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/chenopodium-album/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=25",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/toxicology/nitrate-and-nitrite-poisoning/nitrate-and-nitrite-poisoning-in-animals",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "lemon-balm",
@@ -673,28 +698,28 @@
       "leaves"
     ],
     "benefits": [
-      "Aromatic. Often used in nest boxes."
+      "Aromatic herb. Lemon balm has been fed to broilers as an extract and tested as a poultry bedding herb."
     ],
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7477259/",
+        "publisher": "Journal of Poultry Science, lemon balm extract in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877630/",
+        "publisher": "Materials (MDPI), medicinal herbs in poultry bedding (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/melissa-officinalis/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "mallow",
@@ -703,34 +728,39 @@
     "type": "weed",
     "edible_parts": [
       "leaves",
-      "flowers",
-      "seeds"
+      "flowers"
     ],
     "benefits": [
-      "Soft leaves and plenty of seed."
+      "Soft leaves. Mallow leaf powder has been fed to broilers."
     ],
     "cautions": [
-      "Can build up nitrates when grown on heavily fertilised ground. Only a concern in large amounts."
+      "Keep laying hens off mallow seeds (the small round 'cheeses'). The seed oil has cyclopropenoid fatty acids that turn stored egg whites pink and can cut laying.",
+      "Leaves are fine as part of mixed forage."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11461295/",
+        "publisher": "Frontiers in Physiology, Malva sylvestris leaf powder in broilers (PubMed Central)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0032579119482059",
+        "publisher": "Poultry Science (Elsevier), Malvales plants and pink whites in stored eggs",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/anti-nutritional-factors-in-poultry-feed/cyclopropenoid-fatty-acids/",
         "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/malva-neglecta/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "mint",
@@ -741,30 +771,30 @@
       "leaves"
     ],
     "benefits": [
-      "Hardy herb. Often hung in coops or nest boxes."
+      "Hardy herb. Mint leaf powder has been tested as a broiler feed additive."
     ],
     "cautions": [
       "Spreads fast in beds."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12874420/",
+        "publisher": "Poultry Science, mint leaf powder in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871272/",
+        "publisher": "Journal of Evidence-Based Complementary and Alternative Medicine, peppermint powder in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/mentha-spicata/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "mulberry-leaves",
@@ -780,27 +810,33 @@
       "Fallen fruit is a summer treat."
     ],
     "cautions": [
-      "Unripe fruit and milky sap can upset the gut in quantity."
+      "Unripe fruit and the milky sap in leaves and young shoots are mildly toxic and can upset the gut in quantity.",
+      "Leaves are bulky and fibrous. Feed them as a supplement, not a main feed."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/123",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798068/",
+        "publisher": "Veterinary World, mulberry leaf in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/morus-alba/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://s3.wp.wsu.edu/uploads/sites/2080/2021/02/Planting-a-Chicken-Friendly-Garden.pdf",
+        "publisher": "Washington State University Extension",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "mustard-greens",
@@ -808,34 +844,29 @@
     "scientific_name": "Brassica juncea",
     "type": "vegetable-crop",
     "edible_parts": [
-      "leaves",
-      "seeds"
+      "leaves"
     ],
     "benefits": [
-      "Fast-growing cover crop for runs."
+      "Fast-growing leafy green."
     ],
     "cautions": [
-      "Cabbage-family goitrogens only matter in very large amounts."
+      "Seeds and roots are the most toxic parts. They are high in glucosinolates, which affect poultry. Feed leaves, not seed.",
+      "Cabbage-family goitrogens in the leaves only matter in very large amounts."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=20",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-juncea/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "nasturtium",
@@ -850,22 +881,14 @@
     "benefits": [
       "Peppery leaves and flowers are eaten readily."
     ],
-    "cautions": [],
+    "cautions": [
+      "Leaves, buds and seeds contain mustard oils. Feed as an occasional nibble."
+    ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/tropaeolum-majus/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -880,28 +903,28 @@
       "leaves"
     ],
     "benefits": [
-      "Hardy perennial herb."
+      "Hardy perennial herb. Dried oregano leaves have been fed to turkeys, and the herb has been tested in broiler bedding."
     ],
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://doi.org/10.1080/00071660500256057",
+        "publisher": "British Poultry Science (Taylor and Francis), dried oregano leaves in turkeys",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877630/",
+        "publisher": "Materials (MDPI), medicinal herbs in poultry bedding (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/origanum-vulgare/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "parsley",
@@ -916,23 +939,21 @@
       "Rich in vitamins."
     ],
     "cautions": [
-      "Feed in normal treat amounts."
+      "Feed leaves in normal treat amounts.",
+      "Do not feed the seeds. NC State Extension lists parsley fruit and seeds as poisonous to birds.",
+      "Contains furanocoumarins, which can cause sunburn-like skin damage when eaten in large amounts.",
+      "Poison hemlock is often mistaken for parsley. Only feed parsley you grew or bought."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/petroselinum-crispum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/conium-maculatum/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -948,29 +969,19 @@
       "seed spikes"
     ],
     "benefits": [
-      "Very common lawn weed, eaten readily."
+      "Very common lawn weed. Leaves are high in calcium and vitamins A, C and K."
     ],
     "cautions": [
-      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertilizer."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/plantago-major/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "high",
+    "confidence": "medium",
     "needs_review": true
   },
   {
@@ -983,30 +994,30 @@
       "seed spikes"
     ],
     "benefits": [
-      "Included in some pasture seed mixes."
+      "Included in pasture mixes for free-range laying hens."
     ],
     "cautions": [
-      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+      "Avoid plants from lawns, verges or fields treated with herbicide or fertilizer."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/114",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+        "publisher": "Poultry Science, pasture species for free-range laying hens (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/plantago-lanceolata/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "purslane",
@@ -1018,31 +1029,31 @@
       "stems"
     ],
     "benefits": [
-      "Succulent, stays green in heat.",
-      "Source of omega-3 fatty acids."
+      "Succulent, stays green in heat. One of the richest leafy greens in omega-3 fatty acids.",
+      "Purslane has been fed to broilers."
     ],
     "cautions": [
-      "Contains some oxalic acid. Fine as part of mixed forage, not as the only green every day."
+      "High in oxalates. Fine as part of mixed forage, not as the only green every day."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3934766/",
+        "publisher": "The Scientific World Journal, purslane nutrition and oxalates (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7902751/",
+        "publisher": "AMB Express, dietary purslane in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/portulaca-oleracea/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "red-clover",
@@ -1054,30 +1065,41 @@
       "flowers"
     ],
     "benefits": [
-      "Protein-rich legume forage."
+      "Protein-rich legume, used in free-range hen pastures."
     ],
     "cautions": [
-      "Mouldy clover hay can cause bleeding problems in livestock. Feed fresh."
+      "In wet, cool years red clover can carry black patch fungus. Its toxin, slaframine, causes heavy drooling in horses and cattle. Feed fresh, clean clover.",
+      "Do not confuse with sweet clover (Melilotus). Moldy sweet clover hay causes bleeding problems in livestock."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.merckvetmanual.com/",
+        "url": "https://www.merckvetmanual.com/toxicology/mycotoxicoses/slaframine-toxicosis-in-animals",
         "publisher": "Merck Veterinary Manual",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.merckvetmanual.com/toxicology/moldy-sweet-clover-poisoning/moldy-sweet-clover-poisoning-in-animals",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=88",
+        "publisher": "Cornell University, Plants Poisonous to Livestock",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+        "publisher": "Poultry Science, pasture species for free-range laying hens (PubMed Central)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://doi.org/10.1080/00071668.2021.1929069",
+        "publisher": "British Poultry Science (Taylor and Francis), red clover grassland and free-range hen eggs",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "shepherds-purse",
@@ -1094,19 +1116,9 @@
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/capsella-bursa-pastoris/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -1127,19 +1139,14 @@
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10942912.2017.1415931",
+        "publisher": "International Journal of Food Properties (Taylor and Francis), research progress of Sonchus species",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/sonchus-asper/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -1155,30 +1162,30 @@
       "wilted or dried leaves"
     ],
     "benefits": [
-      "Very nutritious once the sting is gone."
+      "Very nutritious once the sting is gone. Dried nettle has been fed to broilers."
     ],
     "cautions": [
       "Wilt or dry it first to remove the sting."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8959287/",
+        "publisher": "Veterinary Medicine and Science, stinging nettle in broilers (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=90",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/urtica-dioica/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "sunflower",
@@ -1194,26 +1201,29 @@
       "Dried seed heads are good winter enrichment.",
       "Tall plants give shade and cover."
     ],
-    "cautions": [],
+    "cautions": [
+      "Seeds are rich in oil. Feed them as a treat, not a main feed.",
+      "Sunflower plants can build up nitrates on heavily fertilized ground."
+    ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/40",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://www.merckvetmanual.com/toxicology/nitrate-and-nitrite-poisoning/nitrate-and-nitrite-poisoning-in-animals",
+        "publisher": "Merck Veterinary Manual",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/helianthus-annuus/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "swiss-chard",
@@ -1232,22 +1242,12 @@
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://doi.org/10.1111/j.1439-0396.2012.01309.x",
+        "publisher": "Journal of Animal Physiology and Animal Nutrition (Wiley), review of oxalate poisoning in domestic animals",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "high",
+    "confidence": "medium",
     "needs_review": true
   },
   {
@@ -1264,23 +1264,28 @@
     "cautions": [],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://doi.org/10.1080/00071668.2012.681770",
+        "publisher": "British Poultry Science (Taylor and Francis), kale, basil and thyme as forage for laying hens",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122464/",
+        "publisher": "Veterinary Medicine and Science, thyme in broiler diets (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877630/",
+        "publisher": "Materials (MDPI), medicinal herbs in poultry bedding (PubMed Central)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/thymus-vulgaris/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "violet",
@@ -1299,19 +1304,14 @@
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/viola-sororia/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/saintpaulia-ionantha/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -1327,30 +1327,37 @@
       "flowers"
     ],
     "benefits": [
-      "Low-growing legume that survives scratching. Good for run edges."
+      "Palatable, protein-rich legume. Once rated one of the best pasture forages for poultry.",
+      "Laying hens eat it readily and ate more white clover than chicory in a trial."
     ],
     "cautions": [
-      "Avoid plants from lawns, verges or fields treated with herbicide or fertiliser."
+      "Chickens graze it down fast, so rotate or rest the patch.",
+      "Avoid lawns treated with herbicide or fertilizer."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.feedipedia.org/node/245",
+        "publisher": "Feedipedia (INRAE, CIRAD, AFZ and FAO)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8228090/",
+        "publisher": "Animals (MDPI), hens with chicory and white clover access (PubMed Central)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
+        "url": "https://ask.extension.org/kb/faq.php?id=902288",
+        "publisher": "Ask Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=88",
         "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "wild-strawberry",
@@ -1369,19 +1376,14 @@
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/fragaria-virginiana/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://plants.ces.ncsu.edu/plants/potentilla-indica/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -1397,29 +1399,34 @@
       "flowers"
     ],
     "benefits": [
-      "Popular in nest boxes for its scent."
+      "Tough, palatable perennial that handles occasional grazing."
     ],
     "cautions": [
-      "Large amounts are bitter and are reported as mildly toxic to some livestock. Chickens nibble it rather than eat it in bulk."
+      "Bitter. ASPCA lists yarrow as toxic to dogs, cats and horses. Chickens tend to nibble it rather than eat it in bulk."
     ],
     "sources": [
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://ask.extension.org/kb/faq.php?id=902288",
+        "publisher": "Ask Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poisonousplants.ansci.cornell.edu/",
-        "publisher": "Cornell University, Plants Poisonous to Livestock",
-        "source_confidence": "domain"
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow",
+        "publisher": "ASPCA Animal Poison Control Center",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
-        "publisher": "ASPCA Animal Poison Control (toxic and non-toxic plants list)",
+        "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/",
+        "publisher": "NC State Extension Gardener Plant Toolbox",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://ijasr.um.ac.ir/article_41532.html?lang=en",
+        "publisher": "Iranian Journal of Animal Science Research, yarrow essential oil in broilers",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   }
 ]

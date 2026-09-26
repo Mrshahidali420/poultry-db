@@ -59,6 +59,11 @@ independent publishers (different registrable domains) that agree. Records the
 review marked `needs-human` keep `needs_review: true`; the review entry says
 what is missing. `test/food-safety.test.mjs` enforces this.
 
+The ten other reviewed files (feed guide, toxic and safe plants, lifecycle FAQ,
+laying guide, chick care, coop specs, predators, egg facts, incubation) follow the
+same rule; their review logs are `data/reviews/<file-stem>-reviews.json` and
+`test/curated-reviews.test.mjs` enforces it.
+
 Other files: `needs_review` is `true` when `confidence` is not `high` or any
 source is only domain-level. **Every `needs_review: true` record must be checked
 by a human before it is published.** Suggested order: `confidence: "low"` first,

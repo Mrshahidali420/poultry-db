@@ -1,0 +1,691 @@
+[
+  {
+    "record_id": "autumn-crocus",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/autumn-crocus",
+      "https://plants.ces.ncsu.edu/plants/colchicum-autumnale/",
+      "https://chickendvm.com/poisonous/meadow-saffron",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "avocado-tree",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, Merck Veterinary Manual, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/avocado",
+      "https://www.merckvetmanual.com/toxicology/food-hazards/avocado-persea-spp-toxicosis-in-animals",
+      "https://chickendvm.com/poisonous/avocado",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "bittersweet-nightshade",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/european-bittersweet",
+      "https://plants.ces.ncsu.edu/plants/solanum-dulcamara/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "black-locust",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/locust",
+      "https://plants.ces.ncsu.edu/plants/robinia-pseudoacacia/",
+      "https://chickendvm.com/poisonous/black-locust",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "black-nightshade",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/black-nightshade",
+      "https://plants.ces.ncsu.edu/plants/solanum-nigrum/",
+      "https://chickendvm.com/poisonous/nightshades",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "boxwood",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/boxwood",
+      "https://plants.ces.ncsu.edu/plants/buxus-sempervirens/",
+      "https://chickendvm.com/poisonous/boxwood",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "bracken-fern",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bracken-fern",
+      "https://www.merckvetmanual.com/toxicology/bracken-fern-and-other-fern-poisoning/bracken-fern-and-other-fern-poisoning-in-animals",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "buttercups",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/buttercup",
+      "https://plants.ces.ncsu.edu/plants/ranunculus/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "castor-bean",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/castor-bean-plant",
+      "https://plants.ces.ncsu.edu/plants/ricinus-communis/",
+      "https://chickendvm.com/poisonous/caster-oil-plant",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "cherry-laurel",
+    "status": "approved",
+    "changes": "ASPCA's laurel page is mountain laurel (Kalmia), so it was dropped; NC State and Merck's cyanide page confirm cyanogenic glycosides in cherry laurel.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/prunus-laurocerasus/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/laurel"
+    ]
+  },
+  {
+    "record_id": "chokecherry-wild-cherry",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/choke-cherry",
+      "https://plants.ces.ncsu.edu/plants/prunus-serotina/",
+      "https://www.merckvetmanual.com/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "clematis",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clematis",
+      "https://plants.ces.ncsu.edu/plants/clematis/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "cocklebur",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/xanthium-strumarium/",
+      "https://chickendvm.com/poisonous/cocklebur",
+      "https://www.merckvetmanual.com/toxicology/poisonous-plants/range-plants-of-temperate-north-america",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cocklebur"
+    ]
+  },
+  {
+    "record_id": "coffee-senna",
+    "status": "fixed",
+    "changes": "Compound narrowed to the anthraquinone-derived dianthrones in the seeds, which damage muscle in poultry (Merck toxic myopathy page). Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/senna-occidentalis/",
+      "https://chickendvm.com/poisonous/senna-occidentalis",
+      "https://www.merckvetmanual.com/poultry/myopathies-in-poultry/toxic-myopathy-in-poultry",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/coffee-senna"
+    ]
+  },
+  {
+    "record_id": "corn-cockle",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/agrostemma-githago/",
+      "https://chickendvm.com/poisonous/corn-cockle",
+      "https://www.merckvetmanual.com/toxicology/poisonous-plants/range-plants-of-temperate-north-america",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/corn-cockle"
+    ]
+  },
+  {
+    "record_id": "crotalaria",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rattlebox",
+      "https://plants.ces.ncsu.edu/plants/crotalaria-spectabilis/",
+      "https://chickendvm.com/poisonous/rattlepods",
+      "https://www.merckvetmanual.com/poultry/poisonings/poisonings-in-poultry",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "daffodil",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/daffodil",
+      "https://plants.ces.ncsu.edu/plants/narcissus/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "daphne",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), IVIS; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/daphne-mezereum/",
+      "https://chickendvm.com/poisonous/daphne-mezereum",
+      "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/daphne-species-daphne",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/daphne"
+    ]
+  },
+  {
+    "record_id": "deadly-nightshade",
+    "status": "approved",
+    "changes": "ASPCA's nightshade page covers Solanum, not Atropa, so it was dropped; NC State and PoultryDVM both confirm tropane alkaloids in all parts.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/atropa-bella-donna/",
+      "https://chickendvm.com/poisonous/belladonna",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/deadly-nightshade"
+    ]
+  },
+  {
+    "record_id": "delphinium-larkspur",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/larkspur",
+      "https://plants.ces.ncsu.edu/plants/delphinium/",
+      "https://chickendvm.com/poisonous/larkspur",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "english-ivy",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/english-ivy",
+      "https://plants.ces.ncsu.edu/plants/hedera-helix/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "foxglove",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/foxglove",
+      "https://plants.ces.ncsu.edu/plants/digitalis-purpurea/",
+      "https://chickendvm.com/poisonous/foxglove",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "hellebore",
+    "status": "fixed",
+    "changes": "Compound named as bufadienolide cardiac glycosides (ASPCA); notes now record that NC State rates severity higher than this record. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hellebore",
+      "https://plants.ces.ncsu.edu/plants/helleborus/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "horse-chestnut",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/horse-chestnut",
+      "https://plants.ces.ncsu.edu/plants/aesculus-hippocastanum/",
+      "https://chickendvm.com/poisonous/horse-chestnut",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "hounds-tongue",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by PoultryDVM (poultry veterinary reference), ASPCA Animal Poison Control Center, Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://chickendvm.com/poisonous/houndstongue",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hounds-tongue",
+      "https://www.merckvetmanual.com/toxicology/pyrrolizidine-alkaloidosis/pyrrolizidine-alkaloidosis-in-animals",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "hyacinth",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hyacinth",
+      "https://plants.ces.ncsu.edu/plants/hyacinthus-orientalis/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "jimsonweed",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/datura-stramonium/",
+      "https://www.merckvetmanual.com/toxicology/poisonous-plants/range-plants-of-temperate-north-america",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jimson-weed"
+    ]
+  },
+  {
+    "record_id": "laburnum",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), IVIS; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/laburnum-anagyroides/",
+      "https://chickendvm.com/poisonous/laburnum",
+      "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/laburnum-anagyroides-golden-chain-tree",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/laburnum"
+    ]
+  },
+  {
+    "record_id": "lantana",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lantana",
+      "https://plants.ces.ncsu.edu/plants/lantana-camara/",
+      "https://chickendvm.com/poisonous/lantana",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "lily-of-the-valley",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily-valley",
+      "https://plants.ces.ncsu.edu/plants/convallaria-majalis/",
+      "https://chickendvm.com/poisonous/lily-of-the-valley",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "lupins",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/lupinus/",
+      "https://chickendvm.com/poisonous/lupines",
+      "https://www.merckvetmanual.com/toxicology/poisonous-plants/range-plants-of-temperate-north-america",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lupine"
+    ]
+  },
+  {
+    "record_id": "milkweed",
+    "status": "fixed",
+    "changes": "Compound corrected: ASPCA says some milkweeds hold cardenolides and others neurotoxins, which fits the note that narrow-leaved species are most toxic. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milkweed",
+      "https://plants.ces.ncsu.edu/plants/asclepias-syriaca/",
+      "https://chickendvm.com/poisonous/common-milkweed",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "monkshood",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/aconitum/",
+      "https://chickendvm.com/poisonous/monkshood",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/monkshood"
+    ]
+  },
+  {
+    "record_id": "morning-glory",
+    "status": "fixed",
+    "changes": "ASPCA, NC State and IVIS agree the seeds carry indole alkaloids of the lysergic acid group; confidence raised from low to medium.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/morning-glory",
+      "https://plants.ces.ncsu.edu/plants/ipomoea-purpurea/",
+      "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/ipomoea-tricolor-morning-glory",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "mountain-laurel",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mountain-laurel",
+      "https://plants.ces.ncsu.edu/plants/kalmia-latifolia/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "oak",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oak",
+      "https://plants.ces.ncsu.edu/plants/quercus/",
+      "https://chickendvm.com/poisonous/oak-tree",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "oleander",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oleander",
+      "https://plants.ces.ncsu.edu/plants/nerium-oleander/",
+      "https://chickendvm.com/poisonous/oleander",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "pieris",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pieris",
+      "https://plants.ces.ncsu.edu/plants/pieris-japonica/",
+      "https://chickendvm.com/poisonous/pieris-japonica",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "poison-hemlock",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poison-hemlock",
+      "https://plants.ces.ncsu.edu/plants/conium-maculatum/",
+      "https://chickendvm.com/poisonous/poison-hemlock",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "pokeweed",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/phytolacca-americana/",
+      "https://chickendvm.com/poisonous/pokeweed",
+      "https://www.merckvetmanual.com/toxicology/poisonous-plants/range-plants-of-temperate-north-america",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pokeweed"
+    ]
+  },
+  {
+    "record_id": "potato-plant",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference), UF Health; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/solanum-tuberosum/",
+      "https://chickendvm.com/poisonous/potato",
+      "https://ufhealth.org/conditions-and-treatments/potato-plant-poisoning-green-tubers-and-sprouts",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/potato"
+    ]
+  },
+  {
+    "record_id": "privet",
+    "status": "fixed",
+    "changes": "Compound corrected: ASPCA lists terpenoid glycosides and NC State names syringin (ligustrin); confidence raised from low to medium. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/privet",
+      "https://plants.ces.ncsu.edu/plants/ligustrum-vulgare/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "ragwort",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ragwort",
+      "https://plants.ces.ncsu.edu/plants/jacobaea-vulgaris/",
+      "https://chickendvm.com/poisonous/tansy-ragwort",
+      "https://www.merckvetmanual.com/toxicology/pyrrolizidine-alkaloidosis/pyrrolizidine-alkaloidosis-in-animals",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "rhododendron-azalea",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rhododendron",
+      "https://plants.ces.ncsu.edu/plants/rhododendron/",
+      "https://chickendvm.com/poisonous/azalea",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "rhubarb-plant",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rhubarb",
+      "https://plants.ces.ncsu.edu/plants/rheum-rhabarbarum/",
+      "https://chickendvm.com/poisonous/rhubarb",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "rosary-pea",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rosary-pea",
+      "https://plants.ces.ncsu.edu/plants/abrus-precatorius/",
+      "https://chickendvm.com/poisonous/rosary-bean",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "sweet-pea",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/lathyrus-odoratus/",
+      "https://chickendvm.com/poisonous/sweatpea",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sweet-pea"
+    ]
+  },
+  {
+    "record_id": "tobacco",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tobacco",
+      "https://plants.ces.ncsu.edu/plants/nicotiana-tabacum/",
+      "https://chickendvm.com/poisonous/tobacco",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "tomato-plant",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato-plant",
+      "https://plants.ces.ncsu.edu/plants/solanum-lycopersicum/",
+      "https://chickendvm.com/poisonous/tomato-plant",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "tulip",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension; domain-root sources replaced with plant pages. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tulip",
+      "https://plants.ces.ncsu.edu/plants/tulipa/",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "water-hemlock",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference); domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/water-hemlock",
+      "https://plants.ces.ncsu.edu/plants/cicuta-maculata/",
+      "https://chickendvm.com/poisonous/water-hemlock",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "wisteria",
+    "status": "fixed",
+    "changes": "US English: autumn changed to fall. Toxins (lectin, wisterin glycoside) confirmed by ASPCA and NC State. Spelling changed to US diarrhea.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wisteria",
+      "https://plants.ces.ncsu.edu/plants/wisteria-sinensis/",
+      "https://chickendvm.com/poisonous/wisteria",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "record_id": "yew",
+    "status": "approved",
+    "changes": "Toxic parts and compound confirmed by ASPCA Animal Poison Control Center, NC State Extension, PoultryDVM (poultry veterinary reference), Merck Veterinary Manual; domain-root sources replaced with plant pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yew",
+      "https://plants.ces.ncsu.edu/plants/taxus-baccata/",
+      "https://chickendvm.com/poisonous/yew",
+      "https://www.merckvetmanual.com/toxicology/poisonous-plants/houseplants-and-ornamentals-toxic-to-animals",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  }
+]

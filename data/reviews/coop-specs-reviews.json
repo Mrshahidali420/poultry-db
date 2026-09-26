@@ -1,0 +1,331 @@
+[
+  {
+    "record_id": "brooder-temp-week-1",
+    "status": "approved",
+    "changes": "Range confirmed by Penn State, UNH and Minnesota; Merck's lower floor figure noted. Domain roots replaced with four specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "brooder-temp-week-2",
+    "status": "approved",
+    "changes": "Matches Penn State's table (85 to 90 F at 2 to 3 weeks) and the drop of 5 F a week in UNH, Minnesota and Merck. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "brooder-temp-week-3",
+    "status": "approved",
+    "changes": "Matches Penn State's table (80 to 85 F at 3 to 5 weeks) and the 5 F a week rule. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "brooder-temp-week-4",
+    "status": "approved",
+    "changes": "5 F a week rule confirmed; Penn State's slower table added to the note. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "brooder-temp-week-5",
+    "status": "approved",
+    "changes": "5 F a week rule confirmed; Penn State's 70 to 80 F band for weeks 5 to 8 added to the note. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "brooder-temp-week-6",
+    "status": "approved",
+    "changes": "End point confirmed by UNH (65 to 70 F) and Penn State (62 to 65 F room temperature); note rewritten to cite both. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "coop-floor-space-bantam",
+    "status": "needs-human",
+    "changes": "Lower bound corrected to Penn State's 1 sq ft minimum. Only Penn State gives a bantam figure; a second publisher with a bantam number is still needed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://poultry.extension.org/articles/getting-started-with-small-and-backyard-poultry/housing-for-small-and-backyard-poultry-flocks/space-allowances-in-housing-for-small-and-backyard-poultry-flocks/"
+    ]
+  },
+  {
+    "record_id": "coop-floor-space-standard",
+    "status": "fixed",
+    "changes": "Kept 3 to 4 sq ft as the common guideline but added the 1.5 to 2 sq ft minimum from Penn State, Merck and Maryland (min now 1.5). No-run figure corrected from 7 to 10 to Oregon State's 8 to 10 sq ft.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/getting-started-with-small-and-backyard-poultry/housing-for-small-and-backyard-poultry-flocks/space-allowances-in-housing-for-small-and-backyard-poultry-flocks/",
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design",
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://extension.umd.edu/resource/construction-specific-requirements"
+    ]
+  },
+  {
+    "record_id": "feed-per-hen-per-day",
+    "status": "fixed",
+    "changes": "Range corrected from 100 to 130 g to about 110 to 150 g (1/4 to 1/3 lb) to match Merck, NC State and the Extension Foundation. Unsourced bantam figure removed. Treat limit tied to Oregon State's scratch guidance.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens"
+    ]
+  },
+  {
+    "record_id": "feeder-space",
+    "status": "approved",
+    "changes": "3 to 4 inches for adults and 1 inch for chicks confirmed by Penn State, NC State and Minnesota; back-height feeders confirmed by Penn State. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "grit",
+    "status": "approved",
+    "changes": "Confirmed by the Extension Foundation, Oregon State, Alabama and NC State, including that oyster shell is not grit. Fine gravel added as the substitute the Extension Foundation names. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina"
+    ]
+  },
+  {
+    "record_id": "grower-feed-protein",
+    "status": "fixed",
+    "changes": "Typical range corrected to 14 to 16% with Alabama's 16 to 18% kept as a genuine variant (min now 14). Layer switch corrected from 16 to 20 weeks to Oregon State's 18 to 20 weeks or first egg.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "layer-feed-calcium",
+    "status": "fixed",
+    "changes": "Range corrected from 3.5 to 4.5% to Oregon State's 3 to 4%, with Alabama and Merck ranges kept in the note. Unsourced 1% chick figure removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "layer-feed-protein",
+    "status": "approved",
+    "changes": "Value confirmed by Oregon State, the Extension Foundation and NC State. Unsourced molt feed advice replaced with the source figures. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina"
+    ]
+  },
+  {
+    "record_id": "lighting-for-laying",
+    "status": "fixed",
+    "changes": "14 to 16 hours confirmed by Oregon State, NC State, Virginia Tech and the Extension Foundation. Drop-off threshold corrected from 12 to 14 hours to below 12 hours; 6 hours of dark added from Virginia Tech.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/"
+    ]
+  },
+  {
+    "record_id": "nest-box-size",
+    "status": "fixed",
+    "changes": "Range widened to the 10 to 14 inches the sources give. Unsourced Brahma and bantam sizes removed. Placement advice changed: sources say keep nests away from roosts and do not set them lower than roosts, so the claim that nests go below roosts was removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.umd.edu/resource/construction-specific-requirements"
+    ]
+  },
+  {
+    "record_id": "nest-boxes-per-hen",
+    "status": "approved",
+    "changes": "Confirmed by Oregon State, NC State and Maryland. US spelling. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.umd.edu/resource/construction-specific-requirements"
+    ]
+  },
+  {
+    "record_id": "oyster-shell",
+    "status": "approved",
+    "changes": "Separate free-choice dish confirmed by Oregon State and Alabama; not for growing birds confirmed by Alabama and the Extension Foundation. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "record_id": "roost-height",
+    "status": "fixed",
+    "changes": "Height corrected from 2 to 4 feet to 18 to 24 inches with a 4 foot maximum (Penn State, Maryland, Oregon State). Claim that roosts must sit higher than nests removed because Oregon State and NC State say the opposite. Bar spacing widened to 10 to 15 inches.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://extension.umd.edu/resource/construction-specific-requirements",
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina"
+    ]
+  },
+  {
+    "record_id": "roost-length-per-bird",
+    "status": "fixed",
+    "changes": "Range corrected from 8 to 10 to 6 to 10 inches to cover Penn State and Maryland (6) and NC State (9 to 10). Bantam figure corrected from 6 to 8 to Penn State's 4 inches.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://extension.umd.edu/resource/construction-specific-requirements",
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina"
+    ]
+  },
+  {
+    "record_id": "roost-width",
+    "status": "fixed",
+    "changes": "Width corrected from 2 to 4 inches (2x4 wide side up) to about 2 inches with rounded edges, as Oregon State, NC State and Minnesota give. The frostbite claim for wide flat perches was removed because no extension source supports it.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "run-space-standard",
+    "status": "approved",
+    "changes": "Confirmed by Merck, Penn State and the Extension Foundation; bantam figure tied to Penn State. US spelling. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://poultry.extension.org/articles/getting-started-with-small-and-backyard-poultry/housing-for-small-and-backyard-poultry-flocks/space-allowances-in-housing-for-small-and-backyard-poultry-flocks/"
+    ]
+  },
+  {
+    "record_id": "starter-feed-protein",
+    "status": "fixed",
+    "changes": "Range corrected from 18 to 20% to 18 to 22% because the Extension Foundation and Alabama give 20 to 22%. Unsourced claim about vaccinated chicks removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+      "https://extension.psu.edu/brooding-of-domestic-fowl"
+    ]
+  },
+  {
+    "record_id": "ventilation",
+    "status": "needs-human",
+    "changes": "Unsourced 1 sq ft per bird figure removed; mesh advice changed to hardware cloth (Meyer). The 1 to 10 ratio has only one page source (Meyer Hatchery); a second publisher that gives a number is still needed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://meyerhatchery.zendesk.com/hc/en-us/articles/29413913917581-Why-Is-Coop-Ventilation-Important-and-How-Much-Do-I-Need",
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://poultry.extension.org/articles/getting-started-with-small-and-backyard-poultry/housing-for-small-and-backyard-poultry-flocks/small-scale-poultry-housing/",
+      "https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design"
+    ]
+  },
+  {
+    "record_id": "water-per-hen-per-day",
+    "status": "fixed",
+    "changes": "Ratio corrected from about twice to Merck's 1.5 to 3.5 times feed by weight. Volume confirmed by My Pet Chicken and consistent with Merck's ratio. Domain roots replaced with specific pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.mypetchicken.com/blogs/faqs/how-much-water-do-chickens-drink-per-day",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "waterer-space",
+    "status": "needs-human",
+    "changes": "Nipple ratio corrected from 3 to 5 to Penn State's 6 to 8 birds; space widened to 1 to 2 inches. Only Penn State gives adult figures (Minnesota's 40 inches per 100 growing birds does not match), so a second publisher is still needed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.psu.edu/small-scale-poultry-housing",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  }
+]

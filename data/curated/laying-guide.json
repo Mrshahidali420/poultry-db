@@ -7,15 +7,16 @@
     },
     "what_to_do": [
       "Add light in the early morning on a timer so the day totals 14 to 16 hours, and let them go to roost with the sunset.",
+      "Do not light adult birds for more than 16 hours a day (Penn State).",
       "Keep at least 6 hours of unbroken dark.",
       "One 4 to 5 watt LED (40 watt equivalent) per 100 sq ft is enough, about bright enough to read a newspaper.",
       "Once you start a lighting program, keep it going. Cutting it back drops production.",
       "Extra light gives more winter eggs, not more eggs over a hen's life (Merck)."
     ],
-    "conflict": true,
-    "conflict_notes": "Poultry Extension and Virginia Tech: 14 hours. Oregon State: 14 to 16 hours, more than 12. Merck: 13 to 16 hours, or 14 to 16 at peak. Meyer: 12 to 14 hours.",
-    "confidence": "medium",
-    "needs_review": true,
+    "conflict": false,
+    "conflict_notes": null,
+    "confidence": "high",
+    "needs_review": false,
     "id": "daylight-hours",
     "type": "daylight",
     "name": "Daylight needed to keep laying",
@@ -24,12 +25,6 @@
       {
         "name": "How Many Eggs Can a Hen Lay in One Day?",
         "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "page"
-      },
-      {
-        "name": "Raising Chickens for Egg Production",
-        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
         "publisher": "Poultry Extension (Extension Foundation)",
         "source_confidence": "page"
       },
@@ -58,9 +53,9 @@
         "source_confidence": "page"
       },
       {
-        "name": "How Long Does It Take A Hen To Lay An Egg?",
-        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
-        "publisher": "Meyer Hatchery",
+        "name": "Successfully Raising a Small Flock of Laying Chickens",
+        "url": "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       }
     ]
@@ -74,8 +69,8 @@
     "what_to_do": [],
     "conflict": false,
     "conflict_notes": null,
-    "confidence": "medium",
-    "needs_review": true,
+    "confidence": "high",
+    "needs_review": false,
     "id": "egg-formation-time",
     "type": "egg-formation",
     "name": "How long an egg takes to form",
@@ -88,15 +83,15 @@
         "source_confidence": "page"
       },
       {
-        "name": "Raising Chickens for Egg Production",
-        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "name": "Avian Reproductive System: Female",
+        "url": "https://poultry.extension.org/articles/poultry-anatomy/avian-reproductive-female/",
         "publisher": "Poultry Extension (Extension Foundation)",
         "source_confidence": "page"
       },
       {
-        "name": "How Long Does It Take A Hen To Lay An Egg?",
-        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
-        "publisher": "Meyer Hatchery",
+        "name": "The Making of an Egg (VME-0021)",
+        "url": "https://ohioline.osu.edu/factsheet/vme-0021",
+        "publisher": "Ohio State University Extension (Ohioline)",
         "source_confidence": "page"
       }
     ]
@@ -106,17 +101,17 @@
       "laying_years_good_min": 2,
       "laying_years_good_max": 3,
       "lifespan_years_min": 3,
-      "lifespan_years_max": 7
+      "lifespan_years_max": 8
     },
     "what_to_do": [],
     "conflict": true,
-    "conflict_notes": "Oregon State: well until 2 to 3 years. Poultry Extension: on and off for 3 to 4 years. Meyer: sporadic after 5.",
+    "conflict_notes": "Laying: Oregon State says well until 2 to 3 years, Poultry Extension on and off for 3 to 4 years, Meyer sporadic after 5. Lifespan: Meyer says most backyard hens live 3 to 7 years, Penn State says most small-flock chickens live 8 years.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "egg-laying-lifespan",
     "type": "lifespan",
     "name": "Egg-laying lifespan",
-    "summary": "Most hens lay well for 2 to 3 years and on and off for a few more. Hens often live 3 to 7 years, and some reach 10 or more.",
+    "summary": "Most hens lay well for 2 to 3 years and on and off for a few more. Hens commonly live about 3 to 8 years, and some reach 10 to 15.",
     "notes": "High-output hybrids tend to lay hard and stop sooner. Heritage and dual-purpose breeds lay fewer eggs a year but for more years.",
     "sources": [
       {
@@ -129,6 +124,12 @@
         "name": "Raising Chickens for Egg Production",
         "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
         "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Successfully Raising a Small Flock of Laying Chickens",
+        "url": "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       },
       {
@@ -150,14 +151,14 @@
       "Let hens molt fully in their second winter; Oregon State suggests turning extra lights off for about 6 weeks so the molt is complete."
     ],
     "conflict": true,
-    "conflict_notes": "Merck: typically 3 to 4 months, sometimes longer. Mississippi State: 2 to 3 months for late molters, up to 4 to 6 for early molters.",
+    "conflict_notes": "Merck: typically 3 to 4 months, sometimes longer. Penn State: about 10 to 12 weeks to finish and return to lay. Mississippi State: 2 to 3 months for late molters, up to 4 to 6 for early molters.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "molting-season-and-length",
     "type": "molting",
     "name": "Molting season and length",
     "summary": "Most hens molt once a year, usually in autumn as days shorten. A molt usually takes about 2 to 4 months. Good layers (late molters) drop feathers fast and finish in 2 to 3 months. Poor layers (early molters) can take 4 to 6 months.",
-    "notes": "With extra lighting, hens usually lay about a year before molting. Bare patches are not molt; they are almost always feather picking.",
+    "notes": "With extra lighting, hens usually lay about a year before molting (Merck). Feathers drop in a set order: head, neck, breast, body, wings, then tail (Mississippi State).",
     "sources": [
       {
         "name": "Laying and Reproduction in Backyard Poultry",
@@ -176,6 +177,12 @@
         "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
         "publisher": "Oregon State University Extension Service",
         "source_confidence": "page"
+      },
+      {
+        "name": "Management Requirements for Laying Flocks",
+        "url": "https://extension.psu.edu/management-requirements-for-laying-flocks",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
       }
     ]
   },
@@ -188,14 +195,14 @@
     },
     "what_to_do": [],
     "conflict": true,
-    "conflict_notes": "Cornell: about 2 eggs every 3 days, up to 15 dozen (180) in the first year. Meyer: 4 to 6 eggs a week, up to almost 300 at peak. Oregon State: about 265 for commercial Leghorns.",
+    "conflict_notes": "Cornell: about 2 eggs every 3 days, up to 15 dozen (180) in the first year. Meyer: 4 to 6 eggs a week, up to almost 300 at peak. Oregon State: about 265 for commercial Leghorns. Penn State: common heritage breeds 50 to 100 a year.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "production-year-1",
     "type": "production-by-age",
     "name": "Laying in year 1",
     "summary": "The best year. Production climbs quickly after the first egg and peaks at about 35 weeks, when a good flock lays more than 9 eggs per 10 hens a day. The peak lasts about 10 weeks, then slowly declines.",
-    "notes": "Breed matters a lot. A commercial White Leghorn averages about 265 eggs a year, and backyard breeds lay fewer.",
+    "notes": "Breed matters a lot. A commercial White Leghorn averages about 265 eggs a year, backyard breeds lay fewer, and some heritage breeds lay only 50 to 100 (Penn State).",
     "sources": [
       {
         "name": "Why did my chickens stop laying? (PNW 565)",
@@ -207,6 +214,12 @@
         "name": "Backyard Chickens",
         "url": "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
         "publisher": "Cornell Cooperative Extension (Washington County)",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Successfully Raising a Small Flock of Laying Chickens",
+        "url": "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       },
       {
@@ -226,7 +239,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "production-year-2",
     "type": "production-by-age",
     "name": "Laying in year 2",
@@ -246,9 +259,9 @@
         "source_confidence": "page"
       },
       {
-        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
-        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
-        "publisher": "Meyer Hatchery",
+        "name": "Management Requirements for Laying Flocks",
+        "url": "https://extension.psu.edu/management-requirements-for-laying-flocks",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       }
     ]
@@ -262,7 +275,7 @@
     "conflict": true,
     "conflict_notes": "Oregon State: well until 2 to 3 years. Poultry Extension: on and off for 3 to 4 years. Meyer: slowing from year 3, sporadic from 5.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "production-year-3-plus",
     "type": "production-by-age",
     "name": "Laying in year 3 and later",
@@ -282,6 +295,12 @@
         "source_confidence": "page"
       },
       {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
         "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
         "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
         "publisher": "Meyer Hatchery",
@@ -292,14 +311,14 @@
   {
     "values": {},
     "what_to_do": [
-      "Put golf balls or wooden eggs in the nest boxes.",
-      "Give about 1 nest box per 4 hens.",
+      "Put golf balls or wooden eggs in the nest boxes (Meyer).",
+      "Have nest boxes in place by about 18 weeks, at least 1 per 4 to 5 hens (Penn State, UF/IFAS).",
       "Switch to layer feed at the first egg."
     ],
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "signs-of-lay",
     "type": "start-age",
     "name": "Signs a pullet is about to lay",
@@ -315,6 +334,18 @@
         "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
         "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
         "publisher": "Valley Hatchery",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Management Requirements for Laying Flocks",
+        "url": "https://extension.psu.edu/management-requirements-for-laying-flocks",
+        "publisher": "Penn State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "AN239: Raising Backyard Chickens for Eggs",
+        "url": "https://ask.ifas.ufl.edu/publication/AN239",
+        "publisher": "UF/IFAS Extension",
         "source_confidence": "page"
       }
     ]
@@ -377,9 +408,9 @@
     },
     "what_to_do": [],
     "conflict": true,
-    "conflict_notes": "Valley Hatchery: Rhode Island Red, Australorp and Plymouth Rock 18 to 22 weeks; Wyandotte, Orpington and Sussex 20 to 24 weeks. Meyer: 5 to 6 months on average.",
+    "conflict_notes": "Valley Hatchery: Rhode Island Red, Australorp and Plymouth Rock 18 to 22 weeks; Wyandotte, Orpington and Sussex 20 to 24 weeks. Meyer: 5 to 6 months on average. Oregon State: pullets in general 18 to 20 weeks. Ohio State: about 20 to 22 weeks.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "start-age-dual-purpose",
     "type": "start-age",
     "name": "When dual-purpose breeds start laying",
@@ -399,9 +430,15 @@
         "source_confidence": "page"
       },
       {
-        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
-        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
-        "publisher": "Meyer Hatchery",
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "name": "The Making of an Egg (VME-0021)",
+        "url": "https://ohioline.osu.edu/factsheet/vme-0021",
+        "publisher": "Ohio State University Extension (Ohioline)",
         "source_confidence": "page"
       }
     ]
@@ -445,7 +482,7 @@
     "conflict": true,
     "conflict_notes": "Valley Hatchery: Leghorns 16 to 18 weeks, hybrids 16 to 20. Alabama Extension: Leghorns about 18 to 22 weeks. Oregon State: pullets in general 18 to 20 weeks.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "start-age-light-production",
     "type": "start-age",
     "name": "When light and production breeds start laying",
@@ -482,7 +519,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-age",
     "type": "stop-reason",
     "name": "Age",
@@ -520,8 +557,8 @@
     ],
     "conflict": false,
     "conflict_notes": null,
-    "confidence": "medium",
-    "needs_review": true,
+    "confidence": "high",
+    "needs_review": false,
     "id": "stop-reason-broodiness",
     "type": "stop-reason",
     "name": "Broodiness",
@@ -548,8 +585,8 @@
     ],
     "conflict": false,
     "conflict_notes": null,
-    "confidence": "medium",
-    "needs_review": true,
+    "confidence": "high",
+    "needs_review": false,
     "id": "stop-reason-daylight",
     "type": "stop-reason",
     "name": "Short days",
@@ -586,7 +623,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-diet",
     "type": "stop-reason",
     "name": "Poor diet",
@@ -621,7 +658,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-illness",
     "type": "stop-reason",
     "name": "Illness",
@@ -652,7 +689,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-molting",
     "type": "stop-reason",
     "name": "Molting",
@@ -688,11 +725,11 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-parasites",
     "type": "stop-reason",
     "name": "Parasites",
-    "summary": "Heavy mites can make hens anaemic, and heavy worm loads damage the gut. Both lower laying.",
+    "summary": "Heavy mites can make hens anemic, and heavy worm loads damage the gut. Both lower laying.",
     "sources": [
       {
         "name": "Raising Chickens for Egg Production",
@@ -704,12 +741,6 @@
         "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
         "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
         "publisher": "Virginia Cooperative Extension (Virginia Tech)",
-        "source_confidence": "page"
-      },
-      {
-        "name": "Management of Growing Chickens",
-        "url": "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
-        "publisher": "Merck Veterinary Manual",
         "source_confidence": "page"
       }
     ]
@@ -725,7 +756,7 @@
     "conflict": true,
     "conflict_notes": "Fence depth: Cornell says at least 6 inches, Merck at least 12 inches.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-predators",
     "type": "stop-reason",
     "name": "Predators",
@@ -768,7 +799,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "stop-reason-stress",
     "type": "stop-reason",
     "name": "Stress",

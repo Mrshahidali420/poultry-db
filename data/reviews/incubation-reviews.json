@@ -1,0 +1,119 @@
+[
+  {
+    "record_id": "bantam-chicken",
+    "status": "needs-human",
+    "changes": "Sources replaced with Mississippi State and Texas A&M incubation tables; forced-air temperature widened to 99.5 to 100 F; humidity before lockdown raised from 40-50% to 55-60% to match both tables; turning advice raised to at least 5 times a day. Needs human: no reliable source gives a bantam-specific day count; 20 days and the day 17 lockdown are keeper experience only.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "chicken",
+    "status": "fixed",
+    "changes": "Sources replaced with Mississippi State and Texas A&M incubation pages; forced-air temperature widened to 99.5 to 100 F (MSU 100, Texas A&M 99.5 to 100); humidity before lockdown raised from 40-50% to 55-60% (both give 55 to 60%); turning advice raised to at least 5 times a day. Days and lockdown confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "coturnix-quail",
+    "status": "fixed",
+    "changes": "Stop-turning and lockdown day corrected from 14 to 15 (both tables); day range narrowed to 17-18; humidity before lockdown raised from 45-50% to 55-62%; forced-air 99.5 to 100 F.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "duck",
+    "status": "fixed",
+    "changes": "Humidity before lockdown raised from 50-60% to 55-62% (Texas A&M 58 to 62%, MSU 85 to 86 F wet bulb); forced-air 99.5 to 100 F; 28 days and day 25 lockdown confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "goose",
+    "status": "fixed",
+    "changes": "Day range 28-35 corrected to 28-34 (MSU); still-air raised to 101 to 102 F (forced-air plus 2 to 3 F); humidity before lockdown raised from 50-55% to 60-65% (Texas A&M 62%, MSU 86 to 88 F wet bulb) and lockdown humidity 70-80% to 65-75%. Lockdown day 27 kept (Texas A&M); MSU's day 25 recorded in notes.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "guinea-fowl",
+    "status": "fixed",
+    "changes": "Incubation days corrected from 27 to 28 (both tables); lockdown moved from day 24 to 25 (MSU); humidity before lockdown 45-55% changed to 54-60%.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "muscovy-duck",
+    "status": "fixed",
+    "changes": "Days range 33-35 corrected to 35-37 (both tables); lockdown moved from day 32 to 31 (MSU stops turning after day 31, Texas A&M transfers day 31 to 33); humidity 50-60% changed to 55-62%.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "peafowl",
+    "status": "fixed",
+    "changes": "Forced-air temperature 99 to 99.5 F (MSU 99, Texas A&M 99.5); humidity before lockdown 55-62%; 28-30 days and day 25 lockdown confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "pheasant",
+    "status": "fixed",
+    "changes": "Humidity before lockdown raised from 45-55% to 55-62% (Texas A&M 58 to 62%, MSU 86 to 88 F wet bulb); forced-air 99.5 to 100 F; 24 days and day 21 lockdown confirmed for ring-necked pheasant.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  },
+  {
+    "record_id": "turkey",
+    "status": "fixed",
+    "changes": "Forced-air temperature 99 to 99.5 F (MSU 99, Texas A&M 99.5); humidity before lockdown 54-60% (Texas A&M 54 to 58%, MSU 84 to 86 F wet bulb); 28 days and day 25 lockdown confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+      "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+      "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf"
+    ]
+  }
+]

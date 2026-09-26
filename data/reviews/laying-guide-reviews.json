@@ -1,0 +1,268 @@
+[
+  {
+    "record_id": "daylight-hours",
+    "status": "fixed",
+    "changes": "Replaced Meyer Hatchery (12 to 14 hours, an outlier) with Penn State (14 to 16 hours, no more than 16). The extension sources and Merck agree on about 14 to 16 hours, so conflict is now false. Added Penn State's 16-hour cap.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-laying-chickens",
+      "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+      "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens"
+    ]
+  },
+  {
+    "record_id": "egg-formation-time",
+    "status": "approved",
+    "changes": "24 to 26 hours and about 20 hours in the shell gland confirmed by Ohio State (20 to 21 hours) and Poultry Extension (25 to 26 hours, 20 or more in the shell gland). Replaced Meyer Hatchery with Ohio State.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+      "https://poultry.extension.org/articles/poultry-anatomy/avian-reproductive-female/",
+      "https://ohioline.osu.edu/factsheet/vme-0021"
+    ]
+  },
+  {
+    "record_id": "egg-laying-lifespan",
+    "status": "fixed",
+    "changes": "Lifespan widened from 3-7 to 3-8 years: Penn State says chickens in most small flocks live 8 years and can reach 12 to 15. Added to the conflict note.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+      "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens"
+    ]
+  },
+  {
+    "record_id": "molting-season-and-length",
+    "status": "fixed",
+    "changes": "Removed the unsourced claim that bare patches are almost always feather picking. Added Penn State (10 to 12 weeks to finish a molt and return to lay) and Mississippi State's feather-loss order.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+      "https://extension.msstate.edu/agriculture/livestock/poultry/molting-laying-hens",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks"
+    ]
+  },
+  {
+    "record_id": "production-year-1",
+    "status": "fixed",
+    "changes": "Added Penn State: common heritage breeds lay only 50 to 100 eggs a year, well below the 180 floor, so the note now says so. Peak (35 weeks, over 90%, about 10 weeks) confirmed on Oregon State.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+      "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens"
+    ]
+  },
+  {
+    "record_id": "production-year-2",
+    "status": "approved",
+    "changes": "Confirmed on Poultry Extension (fewer eggs each year, bigger eggs, weaker shells) and Oregon State (molt in the second winter). Replaced Meyer Hatchery with Penn State (fewer eggs with each extra cycle).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks"
+    ]
+  },
+  {
+    "record_id": "production-year-3-plus",
+    "status": "approved",
+    "changes": "Confirmed on Oregon State (decline after 2 to 3 years, longer and more frequent molts), Poultry Extension (3 to 4 years on and off) and Meyer (sporadic at 5 or more). Added Virginia Tech.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html"
+    ]
+  },
+  {
+    "record_id": "signs-of-lay",
+    "status": "fixed",
+    "changes": "Nest box rule corrected from 1 per 4 hens to 1 per 4 to 5 hens (Penn State 1 per 4 with a minimum, UF/IFAS 1 per 5), with Penn State and UF/IFAS added. Signs confirmed by two hatcheries (Meyer, Valley) that agree; no extension page lists them.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blog.meyerhatchery.com/2020/06/signs-that-a-pullet-will-begin-laying-soon/",
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "record_id": "start-age-bantam",
+    "status": "needs-human",
+    "changes": "The 6 to 9 month start age comes only from Valley Hatchery. Meyer and Penn State support the small eggs and 2 to 4 eggs a week but not the start age. No extension or veterinary page with a bantam start age was found.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+      "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+      "https://blog.meyerhatchery.com/2023/05/all-about-bantams/",
+      "https://blog.meyerhatchery.com/2026/06/standard-vs-bantam-chicken-breeds/",
+      "https://extension.psu.edu/small-scale-egg-production-organic-and-conventional"
+    ]
+  },
+  {
+    "record_id": "start-age-dual-purpose",
+    "status": "approved",
+    "changes": "Valley Hatchery breed table confirmed. Replaced the second Meyer page (a lifespan article) with Oregon State (18 to 20 weeks) and Ohio State (20 to 22 weeks), which fit the 18 to 24 week range.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+      "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://ohioline.osu.edu/factsheet/vme-0021"
+    ]
+  },
+  {
+    "record_id": "start-age-heavy",
+    "status": "needs-human",
+    "changes": "Valley Hatchery (24 to 28 weeks or more for Brahma, Cochin, Jersey Giant) and Meyer (some pullets 28 to 32 weeks) agree. Only hatchery sources give breed-level ages; extension pages give general ranges only. Held for a human: both sources are hatcheries (Valley, Meyer); no extension or vet page gives a breed-level start age.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+      "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/"
+    ]
+  },
+  {
+    "record_id": "start-age-light-production",
+    "status": "approved",
+    "changes": "Confirmed: Valley (Leghorns 16 to 18, hybrids 16 to 20), Alabama (Leghorns about 18 to 22 weeks when maturing in spring), Oregon State (18 to 20).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "stop-reason-age",
+    "status": "approved",
+    "changes": "Oregon State confirms decline after 2 to 3 years and egg binding, internal laying and prolapse in older hens. Virginia Tech agrees on the 2 to 3 year decline.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/"
+    ]
+  },
+  {
+    "record_id": "stop-reason-broodiness",
+    "status": "approved",
+    "changes": "Merck confirms 3 to 4 weeks broody and 2 to 3 days in a wire cage. Oregon State confirms Cochins and Silkies go broody often and Leghorns rarely.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "stop-reason-daylight",
+    "status": "approved",
+    "changes": "Oregon State, Virginia Tech and Poultry Extension all confirm short days as the main winter cause and about 14 hours of light.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/"
+    ]
+  },
+  {
+    "record_id": "stop-reason-diet",
+    "status": "approved",
+    "changes": "Oregon State (15 minutes or none, no starter or grower for layers), Virginia Tech and Poultry Extension confirm.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "record_id": "stop-reason-illness",
+    "status": "approved",
+    "changes": "Oregon State and Virginia Tech both say an egg drop is often the first sign of disease and list the same other signs.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html"
+    ]
+  },
+  {
+    "record_id": "stop-reason-molting",
+    "status": "approved",
+    "changes": "Oregon State, Mississippi State and Merck confirm the molt stops laying and usually comes in the fall.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://extension.msstate.edu/agriculture/livestock/poultry/molting-laying-hens",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "stop-reason-parasites",
+    "status": "fixed",
+    "changes": "Fixed British spelling anaemic to anemic. Poultry Extension confirms mites cause anemia and worms damage the gut; Virginia Tech lists parasites as a stress. Dropped the Merck growing-chickens page, which only says pullets should be treated as needed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "stop-reason-predators",
+    "status": "approved",
+    "changes": "Cornell (predation the top cause of death, bury at least 6 inches), Merck (at least 12 inches, cover the run) and Virginia Tech (predator presence stresses hens) confirmed. The fence-depth conflict is real and kept.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "stop-reason-stress",
+    "status": "approved",
+    "changes": "Oregon State and Virginia Tech list the same stresses.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html"
+    ]
+  }
+]

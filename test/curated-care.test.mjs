@@ -32,7 +32,8 @@ for (const name of FILES) {
         assert.match(s.url, /^https?:\/\//, `${r.id} bad url`);
         assert.ok(s.name && s.publisher, `${r.id} source missing name or publisher`);
       }
-      assert.equal(r.needs_review, true, `${r.id} needs_review`);
+      // needs_review may be false after the W1-04 review; curated-reviews.test.mjs checks when.
+      assert.equal(typeof r.needs_review, "boolean", `${r.id} needs_review`);
       assert.equal(typeof r.conflict, "boolean", `${r.id} conflict flag`);
     }
   });

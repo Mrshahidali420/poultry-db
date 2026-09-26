@@ -1,0 +1,504 @@
+[
+  {
+    "record_id": "at-what-age-do-hens-stop-laying",
+    "status": "approved",
+    "changes": "Checked against Oregon State (production declines after 2 to 3 years, every hen eventually stops) and Virginia Tech (decline after two or three years). The 5-year figure is Meyer Hatchery's; kept as the third source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/"
+    ]
+  },
+  {
+    "record_id": "can-chicks-eat-layer-feed",
+    "status": "approved",
+    "changes": "Confirmed by Merck (layer calcium 3.5 to 6% causes irreversible kidney damage in growing birds), Penn State, Maryland and Poultry Extension (layer 2.5 to 3.5% calcium, growing birds need 1.2%).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "record_id": "can-hens-crow",
+    "status": "needs-human",
+    "changes": "Only a retailer (My Pet Chicken) and a farm blog (Brimwood Farm) support this. No extension or veterinary page found on hens crowing or the 3-month rule. Needs a reliable second source before publishing.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.mypetchicken.com/blogs/faqs/at-what-age-does-a-rooster-begin-crowing",
+      "https://www.brimwoodfarm.com/articles/when-do-roosters-start-crowing"
+    ]
+  },
+  {
+    "record_id": "can-roosters-eat-layer-feed",
+    "status": "fixed",
+    "changes": "Conflict resolved. Alabama Extension (Feeding Roosters) says to feed roosters the same diet as the laying hens in most backyard flocks, with kidney problems only rare. Oregon State supports the all-flock plus oyster shell option. My Pet Chicken dropped.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens"
+    ]
+  },
+  {
+    "record_id": "do-chickens-lay-during-molt",
+    "status": "approved",
+    "changes": "Mississippi State: most hens stop until the molt is done, some keep laying. Oregon State: energy goes to feather growth.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/molting-laying-hens",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "do-chickens-need-grit",
+    "status": "approved",
+    "changes": "Weak sources replaced. Alabama Extension says birds on ground commercial feed do not need grit; Poultry Extension and Oregon State say give grit with scratch grains and that oyster shell cannot replace it.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens"
+    ]
+  },
+  {
+    "record_id": "do-hens-need-a-rooster-to-lay-eggs",
+    "status": "approved",
+    "changes": "Cornell Cooperative Extension, NC State and Alabama Extension all say roosters are only needed for fertile eggs. Valley Hatchery source replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/"
+    ]
+  },
+  {
+    "record_id": "do-hens-need-dark-at-night",
+    "status": "approved",
+    "changes": "Virginia Tech: allow at least 6 hours of continuous dark. Merck: continuous light makes birds stressed and raises cannibalism risk.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "do-laying-hens-need-oyster-shell",
+    "status": "approved",
+    "changes": "Oregon State: free choice in a separate feeder, thin or rough shells are the sign, required with all-purpose feed. Poultry Extension agrees. Nutrena source replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html"
+    ]
+  },
+  {
+    "record_id": "does-extra-light-mean-more-eggs",
+    "status": "approved",
+    "changes": "Merck: lighting raises winter eggs but not the total. Oregon State: once started a lighting program must be continued, even a 1-day lapse hurts laying.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "heat-plate-or-heat-lamp",
+    "status": "approved",
+    "changes": "NC Cooperative Extension (Haywood): heat plates stay at or below 125 F and are not a fire risk, lamps can start fires. Penn State: lamps at least 20 inches from flammable material, hung by chain. Minnesota source replaced with UNH (chain, not the cord).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://haywood.ces.ncsu.edu/brooding-chicks-in-the-classroom",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks"
+    ]
+  },
+  {
+    "record_id": "how-long-can-chicks-go-without-food-after-hatching",
+    "status": "fixed",
+    "changes": "Penn State says about 72 hours on the yolk if necessary, and to get chicks food and water within 24 hours if possible. Answer now gives the 24-hour target. Fresh Eggs Daily replaced with Penn State.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://valleyhatchery.com/how-valley-hatchery-ships-live-chicks/"
+    ]
+  },
+  {
+    "record_id": "how-long-do-chickens-live",
+    "status": "fixed",
+    "changes": "Wisconsin Extension (6 to 8 years or more in backyard flocks) added. It is higher than Meyer Hatchery's 3 to 7 years, so both values are kept and flagged. Oregon State and Cornell sources removed: neither gives a lifespan.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://livestock.extension.wisc.edu/articles/life-cycle-of-a-laying-hen/",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/"
+    ]
+  },
+  {
+    "record_id": "how-long-do-chicks-need-a-heat-lamp",
+    "status": "approved",
+    "changes": "UNH (remove at 65 to 70 F or when it matches outside), Penn State (down to 62 to 65 F) and Merck (to 70 F) checked. They genuinely differ on the end temperature, so the conflict note stays.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "how-long-do-hens-lay-eggs",
+    "status": "fixed",
+    "changes": "Not a real conflict: Oregon State (best for 2 to 3 years, then decline), Poultry Extension and Wisconsin Extension (on and off for 3 to 4 years) agree. Conflict cleared, Meyer Hatchery replaced with Wisconsin Extension.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://livestock.extension.wisc.edu/articles/life-cycle-of-a-laying-hen/"
+    ]
+  },
+  {
+    "record_id": "how-long-does-a-hen-stay-broody",
+    "status": "approved",
+    "changes": "Merck: 3 to 4 weeks left alone, 2 to 3 days in a wire cage. Oregon State: removing her from the nest for several days breaks it.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "how-long-does-it-take-a-chicken-to-lay-an-egg",
+    "status": "approved",
+    "changes": "Poultry Extension gives 24 to 26 hours and says the egg stays in the shell gland 20 or more hours. Meyer Hatchery agrees (24 to 26 hours, 20 on the shell). Duplicate Poultry Extension page swapped for the reproductive system page that has the shell figure.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+      "https://poultry.extension.org/articles/poultry-anatomy/avian-reproductive-female/",
+      "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/"
+    ]
+  },
+  {
+    "record_id": "how-long-does-molting-last",
+    "status": "approved",
+    "changes": "Merck (3 to 4 months, sometimes longer) and Mississippi State (2 to 3 months for late molters, 4 to 6 for early molters) checked. The ranges genuinely differ, so the conflict note stays.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry",
+      "https://extension.msstate.edu/agriculture/livestock/poultry/molting-laying-hens"
+    ]
+  },
+  {
+    "record_id": "how-long-leave-chicks-in-incubator",
+    "status": "fixed",
+    "changes": "Fresh Eggs Daily and Valley Hatchery replaced with NC Cooperative Extension (move chicks once fluffed, typically 24 hours after the first chick hatches) and Penn State (into the brooder within 24 hours). The unsupported 12-hour minimum removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://haywood.ces.ncsu.edu/brooding-chicks-in-the-classroom",
+      "https://extension.psu.edu/brooding-of-domestic-fowl"
+    ]
+  },
+  {
+    "record_id": "how-long-until-meat-chickens-are-ready",
+    "status": "approved",
+    "changes": "Minnesota Extension: Cornish Cross 6 to 8 weeks at 4 to 6 lb carcass, slower breeds 10 to 12 weeks. Meyer Hatchery agrees on 6 to 8 weeks. Alabama Extension added (roasters about 12 weeks).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/"
+    ]
+  },
+  {
+    "record_id": "how-many-eggs-does-a-chicken-lay-a-day",
+    "status": "approved",
+    "changes": "Poultry Extension: at most one egg a day, 24 to 26 hours per egg, later each day then a skipped day. NC State (about two eggs every three days) added as a second publisher; Meyer Hatchery dropped.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina"
+    ]
+  },
+  {
+    "record_id": "how-many-eggs-does-a-chicken-lay-a-year",
+    "status": "fixed",
+    "changes": "Not a real conflict: Cornell and NC State (up to 15 dozen in year one, 12 dozen in year two), Oregon State (commercial Leghorn about 265) and Poultry Extension (almost 300 for top strains) describe different birds. Bantam figure dropped because it rested on one hatchery page. Meyer sources replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/"
+    ]
+  },
+  {
+    "record_id": "how-many-hours-of-light-do-hens-need",
+    "status": "fixed",
+    "changes": "Extension sources agree: 14 hours keeps hens laying (Virginia Tech, Poultry Extension), 14 to 16 is typical (Oregon State), below 12 laying slows or stops. Meyer Hatchery's 12 to 14 dropped, conflict cleared.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "how-much-does-a-chicken-eat-a-day",
+    "status": "fixed",
+    "changes": "My Pet Chicken and the unverified Poultry Extension figure replaced. NC State says about 1/3 lb a day while laying, higher than the usual 1/4 lb; both kept as a range.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/"
+    ]
+  },
+  {
+    "record_id": "how-much-scratch-to-feed",
+    "status": "approved",
+    "changes": "Maryland (about 10% of daily intake, with grit), Poultry Extension (afternoon, after complete feed, 15 to 20 minutes) and Oregon State (about 20 minutes, 10 to 15%) agree.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "how-much-space-do-chicks-need",
+    "status": "approved",
+    "changes": "Penn State table (1/4 sq ft week 1, 1 sq ft at 5 to 8 weeks, 1 1/2 to 3 after 8 weeks) and Minnesota (1/2 sq ft) checked. The week-1 figures genuinely differ, so the conflict note stays.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "how-to-tell-if-chicks-are-cold",
+    "status": "approved",
+    "changes": "UNH, Minnesota and Penn State all describe huddling (cold), moving away (hot) and evenly spread (comfortable). Meyer Hatchery help-desk page (blocked, could not be opened) replaced with Penn State.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://extension.psu.edu/brooding-of-domestic-fowl"
+    ]
+  },
+  {
+    "record_id": "medicated-or-unmedicated-chick-feed",
+    "status": "fixed",
+    "changes": "Nutrena and Meyer Hatchery replaced with Alabama Extension (medicated feed carries a coccidiostat, typically amprolium), Penn State (never give medicated feed to waterfowl) and Minnesota (vaccinated chicks can go on non-medicated feed). Unsupported 28-day figure and the not-an-antibiotic claim removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat"
+    ]
+  },
+  {
+    "record_id": "signs-a-hen-will-lay-soon",
+    "status": "approved",
+    "changes": "Comb and wattle reddening confirmed by Poultry Extension and NC State (laying hens have large, bright red combs). Squatting and nest-box interest rest on Meyer Hatchery only. Valley Hatchery replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blog.meyerhatchery.com/2020/06/signs-that-a-pullet-will-begin-laying-soon/",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina"
+    ]
+  },
+  {
+    "record_id": "what-is-pasty-butt",
+    "status": "needs-human",
+    "changes": "Only hatchery and feed-company pages support this (Meyer Hatchery, Purina). The PoultryDVM pasty-vent page is broken (loads an unrelated duck case), so it was replaced with Purina. No extension or veterinary page found. Needs a reliable second source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://blog.meyerhatchery.com/2018/02/how-to-treat-pasty-bottom-in-newly-hatched-chicks/",
+      "https://www.purinamills.com/chicken-feed/education/detail/pasty-butt-sick-baby-chick-symptoms-and-care"
+    ]
+  },
+  {
+    "record_id": "what-is-point-of-lay",
+    "status": "approved",
+    "changes": "NC State (pullets begin to lay at 16 to 24 weeks) and Oregon State (18 to 20 weeks) replace the two hatchery pages.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying"
+    ]
+  },
+  {
+    "record_id": "what-is-splay-leg",
+    "status": "fixed",
+    "changes": "PoultryDVM and Meyer Hatchery checked. Meyer says the hobble should come off within 24 hours at a time and treatment runs about 3 to 4 days; answer said a day or two.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultrydvm.com/condition/splayed-leg",
+      "https://blog.meyerhatchery.com/2019/09/spraddle-leg-causes-and-treatment/"
+    ]
+  },
+  {
+    "record_id": "what-protein-should-chick-starter-have",
+    "status": "approved",
+    "changes": "Penn State and Oregon State (18 to 20%) and Alabama (20 to 22%) checked. They genuinely differ, so the conflict note stays.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/"
+    ]
+  },
+  {
+    "record_id": "what-temperature-for-chicks-first-week",
+    "status": "approved",
+    "changes": "Penn State (92 to 95 F), UNH (90 to 95 F), Merck (85 to 90 F floor level, 5 F less each week) checked. Conflict note kept.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "when-can-chicks-go-outside",
+    "status": "fixed",
+    "changes": "Meyer Hatchery help-desk page could not be opened. Minnesota Extension says meat birds are fully feathered at about 4 weeks (answer said 3). Penn State (protect from chills for the first 6 weeks), NC State (move out when well feathered) and Alabama (pasture at any age in good weather with predator protection) agree, so the conflict flag is cleared.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/"
+    ]
+  },
+  {
+    "record_id": "when-can-you-tell-a-chicks-sex",
+    "status": "approved",
+    "changes": "Mississippi State (secondary sex traits at 4 to 6 weeks, vent and feather sexing mostly for hatcheries) and Poultry Extension checked. British spelling fixed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks",
+      "https://poultry.extension.org/articles/poultry-management/sexing-day-old-chicks/"
+    ]
+  },
+  {
+    "record_id": "when-do-chickens-molt",
+    "status": "approved",
+    "changes": "Oregon State: seasonal, usually fall, can happen any time under stress such as lack of water or feed. Merck: at least once a year.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "when-do-chickens-start-laying",
+    "status": "fixed",
+    "changes": "Valley Hatchery and Meyer Hatchery replaced with NC State (16 to 24 weeks), Oregon State (18 to 20 weeks) and Wisconsin Extension (18 to 22 weeks). These agree, so the conflict flag is cleared. The unsupported 32-week figure removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://livestock.extension.wisc.edu/articles/life-cycle-of-a-laying-hen/"
+    ]
+  },
+  {
+    "record_id": "when-do-chicks-get-coccidiosis",
+    "status": "fixed",
+    "changes": "PoultryDVM: usually 1 to 4 months old, chicks under 1 week cannot have it. Merck: 4 to 7 days from swallowing the parasite to disease, moisture helps it spread. The 2 to 3 week first-signs figure was not supported and is replaced. Meyer help-desk page removed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultrydvm.com/condition/coccidiosis",
+      "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry"
+    ]
+  },
+  {
+    "record_id": "when-do-roosters-start-crowing",
+    "status": "needs-human",
+    "changes": "Both sources (My Pet Chicken, Brimwood Farm) agree on 4 to 5 months, 2 to 9 months at the extremes, but both are retail or farm blogs. No extension or veterinary page gives a crowing age. Needs a reliable source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.mypetchicken.com/blogs/faqs/at-what-age-does-a-rooster-begin-crowing",
+      "https://www.brimwoodfarm.com/articles/when-do-roosters-start-crowing"
+    ]
+  },
+  {
+    "record_id": "when-to-switch-from-starter-to-grower",
+    "status": "approved",
+    "changes": "Oregon State and Poultry Extension (about 6 weeks) and Minnesota (6 to 8 weeks) checked; NC State also says 8 weeks. Conflict note kept.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "when-to-switch-to-layer-feed",
+    "status": "approved",
+    "changes": "Oregon State: 18 to 20 weeks or first egg, whichever comes first. Poultry Extension: around 20 weeks. Merck: layer feed harms growing birds' kidneys.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "why-did-my-chickens-stop-laying",
+    "status": "approved",
+    "changes": "Oregon State and Virginia Tech list the same causes: short days, molt, broodiness, age, stress, nutrition, disease.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html"
+    ]
+  }
+]

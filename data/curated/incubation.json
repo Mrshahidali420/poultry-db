@@ -9,11 +9,11 @@
     },
     "temp_forced_air_c": {
       "min": 37.5,
-      "max": 37.5
+      "max": 37.8
     },
     "temp_forced_air_f": {
       "min": 99.5,
-      "max": 99.5
+      "max": 100
     },
     "temp_still_air_c": {
       "min": 38.3,
@@ -24,8 +24,8 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 40,
-      "max": 50
+      "min": 55,
+      "max": 60
     },
     "humidity_lockdown_pct": {
       "min": 65,
@@ -33,27 +33,17 @@
     },
     "lockdown_day": 17,
     "turning_stop_day": 17,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Bantam eggs are smaller and often hatch a day earlier than large fowl, so many keepers lock down on day 17 or 18.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. No extension table lists bantams separately; they use the chicken settings. Bantam eggs are smaller and keepers often see them hatch a day or so earlier than large fowl, so many lock down on day 17 or 18. That earlier hatch is keeper experience, not an extension figure.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -69,11 +59,11 @@
     },
     "temp_forced_air_c": {
       "min": 37.5,
-      "max": 37.5
+      "max": 37.8
     },
     "temp_forced_air_f": {
       "min": 99.5,
-      "max": 99.5
+      "max": 100
     },
     "temp_still_air_c": {
       "min": 38.3,
@@ -84,8 +74,8 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 40,
-      "max": 50
+      "min": 55,
+      "max": 60
     },
     "humidity_lockdown_pct": {
       "min": 65,
@@ -93,47 +83,37 @@
     },
     "lockdown_day": 18,
     "turning_stop_day": 18,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Some keepers run 45 to 55% humidity in dry climates or use dry hatching. Cool or old eggs may hatch a day late.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Some keepers with small forced-air incubators run lower humidity (about 45 to 50%) or dry hatch in humid climates; check the air cell and adjust. Cool or old eggs may hatch a day late.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "coturnix-quail",
     "name": "Quail (Coturnix)",
     "incubation_days": 17,
     "incubation_days_range": {
-      "min": 16,
+      "min": 17,
       "max": 18
     },
     "temp_forced_air_c": {
       "min": 37.5,
-      "max": 37.5
+      "max": 37.8
     },
     "temp_forced_air_f": {
       "min": 99.5,
-      "max": 99.5
+      "max": 100
     },
     "temp_still_air_c": {
       "min": 38.3,
@@ -144,40 +124,35 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 45,
-      "max": 50
+      "min": 55,
+      "max": 62
     },
     "humidity_lockdown_pct": {
       "min": 65,
       "max": 75
     },
-    "lockdown_day": 14,
-    "turning_stop_day": 14,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Use small egg turner rails. Chicks are tiny, so cover waterers with marbles or stones after hatch.",
+    "lockdown_day": 15,
+    "turning_stop_day": 15,
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Mississippi State lists 17 days and Texas A&M 17 to 18 days; both stop turning after day 15. Use small egg turner rails. Chicks are tiny, so cover waterers with marbles or stones after hatch.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "duck",
@@ -189,11 +164,11 @@
     },
     "temp_forced_air_c": {
       "min": 37.5,
-      "max": 37.5
+      "max": 37.8
     },
     "temp_forced_air_f": {
       "min": 99.5,
-      "max": 99.5
+      "max": 100
     },
     "temp_still_air_c": {
       "min": 38.3,
@@ -204,8 +179,8 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 50,
-      "max": 60
+      "min": 55,
+      "max": 62
     },
     "humidity_lockdown_pct": {
       "min": 65,
@@ -213,31 +188,21 @@
     },
     "lockdown_day": 25,
     "turning_stop_day": 25,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Many keepers mist or cool duck eggs once a day from about the second week, but this is not required in all incubators.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Many keepers mist or cool duck eggs once a day from about the second week, but this is not required in all incubators.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "goose",
@@ -245,7 +210,7 @@
     "incubation_days": 30,
     "incubation_days_range": {
       "min": 28,
-      "max": 35
+      "max": 34
     },
     "temp_forced_air_c": {
       "min": 37.2,
@@ -256,64 +221,59 @@
       "max": 99.5
     },
     "temp_still_air_c": {
-      "min": 37.8,
-      "max": 38.6
+      "min": 38.3,
+      "max": 38.9
     },
     "temp_still_air_f": {
-      "min": 100,
-      "max": 101.5
+      "min": 101,
+      "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 50,
-      "max": 55
+      "min": 60,
+      "max": 65
     },
     "humidity_lockdown_pct": {
-      "min": 70,
-      "max": 80
+      "min": 65,
+      "max": 75
     },
     "lockdown_day": 27,
     "turning_stop_day": 27,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Length varies by breed: lighter breeds about 28 to 30 days, heavy breeds up to 35. Goose eggs are often cooled and misted daily. Lock down about 3 days before the expected hatch.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Length varies by breed: Mississippi State gives 28 to 34 days and Texas A&M 30 days for domestic geese. Goose eggs need more humidity than chicken eggs and are often cooled and misted daily. Texas A&M moves eggs to the hatcher on day 27, while Mississippi State stops turning after day 25; lock down about 3 days before the expected hatch.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "guinea-fowl",
     "name": "Guinea fowl",
-    "incubation_days": 27,
+    "incubation_days": 28,
     "incubation_days_range": {
       "min": 26,
       "max": 28
     },
     "temp_forced_air_c": {
       "min": 37.5,
-      "max": 37.5
+      "max": 37.8
     },
     "temp_forced_air_f": {
       "min": 99.5,
-      "max": 99.5
+      "max": 100
     },
     "temp_still_air_c": {
       "min": 38.3,
@@ -324,100 +284,90 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 45,
-      "max": 55
-    },
-    "humidity_lockdown_pct": {
-      "min": 65,
-      "max": 75
-    },
-    "lockdown_day": 24,
-    "turning_stop_day": 24,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers.",
-    "sources": [
-      {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
-      }
-    ],
-    "confidence": "medium",
-    "needs_review": true
-  },
-  {
-    "id": "muscovy-duck",
-    "name": "Muscovy duck",
-    "incubation_days": 35,
-    "incubation_days_range": {
-      "min": 33,
-      "max": 35
-    },
-    "temp_forced_air_c": {
-      "min": 37.5,
-      "max": 37.5
-    },
-    "temp_forced_air_f": {
-      "min": 99.5,
-      "max": 99.5
-    },
-    "temp_still_air_c": {
-      "min": 38.3,
-      "max": 38.9
-    },
-    "temp_still_air_f": {
-      "min": 101,
-      "max": 102
-    },
-    "humidity_days_1_to_lockdown_pct": {
-      "min": 50,
+      "min": 54,
       "max": 60
     },
     "humidity_lockdown_pct": {
       "min": 65,
       "max": 75
     },
-    "lockdown_day": 32,
-    "turning_stop_day": 32,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Muscovies are a different species from other domestic ducks and take about a week longer.",
+    "lockdown_day": 25,
+    "turning_stop_day": 25,
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Both extension tables give 28 days; eggs sometimes hatch a day or two early. Mississippi State stops turning after day 25.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": "muscovy-duck",
+    "name": "Muscovy duck",
+    "incubation_days": 35,
+    "incubation_days_range": {
+      "min": 35,
+      "max": 37
+    },
+    "temp_forced_air_c": {
+      "min": 37.5,
+      "max": 37.8
+    },
+    "temp_forced_air_f": {
+      "min": 99.5,
+      "max": 100
+    },
+    "temp_still_air_c": {
+      "min": 38.3,
+      "max": 38.9
+    },
+    "temp_still_air_f": {
+      "min": 101,
+      "max": 102
+    },
+    "humidity_days_1_to_lockdown_pct": {
+      "min": 55,
+      "max": 62
+    },
+    "humidity_lockdown_pct": {
+      "min": 65,
+      "max": 75
+    },
+    "lockdown_day": 31,
+    "turning_stop_day": 31,
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Muscovies are a different species from other domestic ducks and take about a week longer: 35 to 37 days in both extension tables. Mississippi State stops turning after day 31; Texas A&M moves eggs to the hatcher on day 31 to 33.",
+    "sources": [
+      {
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
+      }
+    ],
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "peafowl",
@@ -428,11 +378,11 @@
       "max": 30
     },
     "temp_forced_air_c": {
-      "min": 37.5,
+      "min": 37.2,
       "max": 37.5
     },
     "temp_forced_air_f": {
-      "min": 99.5,
+      "min": 99,
       "max": 99.5
     },
     "temp_still_air_c": {
@@ -444,8 +394,8 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 50,
-      "max": 60
+      "min": 55,
+      "max": 62
     },
     "humidity_lockdown_pct": {
       "min": 65,
@@ -453,31 +403,26 @@
     },
     "lockdown_day": 25,
     "turning_stop_day": 25,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Mississippi State gives 28 to 30 days, Texas A&M 28 to 29.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "pheasant",
@@ -489,11 +434,11 @@
     },
     "temp_forced_air_c": {
       "min": 37.5,
-      "max": 37.5
+      "max": 37.8
     },
     "temp_forced_air_f": {
       "min": 99.5,
-      "max": 99.5
+      "max": 100
     },
     "temp_still_air_c": {
       "min": 38.3,
@@ -504,8 +449,8 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 45,
-      "max": 55
+      "min": 55,
+      "max": 62
     },
     "humidity_lockdown_pct": {
       "min": 65,
@@ -513,31 +458,26 @@
     },
     "lockdown_day": 21,
     "turning_stop_day": 21,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers. Other pheasant species vary by a day or two.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Figures are for ring-necked pheasant (24 days in Texas A&M's table). Other pheasant species range from about 22 to 28 days.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "turkey",
@@ -548,11 +488,11 @@
       "max": 29
     },
     "temp_forced_air_c": {
-      "min": 37.5,
+      "min": 37.2,
       "max": 37.5
     },
     "temp_forced_air_f": {
-      "min": 99.5,
+      "min": 99,
       "max": 99.5
     },
     "temp_still_air_c": {
@@ -564,7 +504,7 @@
       "max": 102
     },
     "humidity_days_1_to_lockdown_pct": {
-      "min": 50,
+      "min": 54,
       "max": 60
     },
     "humidity_lockdown_pct": {
@@ -573,30 +513,25 @@
     },
     "lockdown_day": 25,
     "turning_stop_day": 25,
-    "notes": "Turn eggs at least 3 times a day (an odd number, so they do not sit on the same side each night) until the lockdown day. Figures are typical starting points. Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers.",
+    "notes": "Turn eggs at least 5 times a day, an odd number so they do not rest on the same side each night, or use an automatic turner, until the lockdown day. Figures are typical starting points from extension incubation tables (Mississippi State, Texas A&M). Adjust humidity by checking air cell size or weight loss. Still-air temperatures are measured at the top of the eggs, because still-air incubators have warmer and cooler layers; Mississippi State says to add 2 to 3 F to the forced-air setting. Mississippi State sets turkey eggs at 99 F, Texas A&M at 99.5 F.",
     "sources": [
       {
-        "url": "http://extension.msstate.edu/",
-        "publisher": "Mississippi State University Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.msstate.edu/agriculture/livestock/poultry/important-incubation-factors",
+        "publisher": "Mississippi State University Extension Service",
+        "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.poultry.msstate.edu/pdf/extension/hatchery_management_guide.pdf",
+        "publisher": "Mississippi State University Extension Service (Hatchery Management Guide for Game Bird and Small Poultry Flock Owners)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://content.ces.ncsu.edu/",
-        "publisher": "NC State Extension",
-        "source_confidence": "domain"
+        "url": "https://cdn-de.agrilife.org/extension/departments/posc/posc-pu-018/publications/files/incubating-and-hatching-eggs.pdf",
+        "publisher": "Texas A&M AgriLife Extension (POSC-PU-018 Incubating and Hatching Eggs)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   }
 ]

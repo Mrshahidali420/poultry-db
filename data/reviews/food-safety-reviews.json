@@ -1681,15 +1681,14 @@
   },
   {
     "food_id": "persimmon",
-    "status": "needs-human",
-    "changes": "Low confidence; no reliable poultry source.",
+    "status": "fixed",
+    "changes": "Retry: domain-level sources replaced with two hen feeding trials from separate journals (persimmon peel at 0.15 to 8% of the diet did not hurt laying; Korea 2013, Japan 2021) plus UMN's fruit scraps page; astringent tannin note added; confidence low to medium.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
       "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
-      "https://poultry.extension.org/",
-      "https://extension.umn.edu/",
-      "https://extension.umd.edu/"
+      "https://www.animbiosci.org/journal/view.php?number=4644",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8630409/"
     ]
   },
   {
@@ -2084,11 +2083,12 @@
   },
   {
     "food_id": "stink-bugs",
-    "status": "needs-human",
-    "changes": "Low confidence; insects in general are sourced, stink bugs are not.",
+    "status": "fixed",
+    "changes": "Retry: added NC State Extension's stink bug FAQ, which says chickens have been seen eating stink bugs with no ill effects and that the taste deters some birds; UMN and Colorado State insect pages kept as category support; confidence low to medium.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
+      "https://entomology.ces.ncsu.edu/faqs-brown-marmorated-stink-bug/",
       "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
       "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
     ]

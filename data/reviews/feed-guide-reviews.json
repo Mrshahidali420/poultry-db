@@ -1,0 +1,207 @@
+[
+  {
+    "record_id": "all-flock",
+    "status": "approved",
+    "changes": "Checked against Oregon State PNW 477 (all-purpose feed, oyster shell needed for layers) and Poultry Extension (16%, only if a single feed is available). Added UF/IFAS AN239, which suggests all-flock feed for flocks that include males.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "record_id": "broiler-starter",
+    "status": "fixed",
+    "changes": "Added Alabama's 20 to 23% for the first 4 weeks to the conflict note and widened the age to 3 to 4 weeks (Maryland 0 to 3, Alabama 0 to 4). Removed the Meyer Hatchery source and its 12-hours-on, 12-off feeding claim, which the page does not make.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+      "https://meyerhatchery.zendesk.com/hc/en-us/articles/360055407371-Brooding-Cornish-Cross-Broilers-101-How-to-raise-from-hatch-to-processing"
+    ]
+  },
+  {
+    "record_id": "chick-starter",
+    "status": "fixed",
+    "changes": "Protein range widened from 18-22% to 18-24% because UF/IFAS gives 20 to 24% (Penn State also allows 18 to 24% medicated starter). Added UF's 4 lb per bird and Merck's 30 to 60 g a day for day-old chicks to the amount note. Replaced the My Pet Chicken weekly figure as the main support with extension figures.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "record_id": "developer",
+    "status": "approved",
+    "changes": "Protein and ages confirmed on Oregon State (14 to 15% after about 14 weeks), Alabama (14 to 16%, 14 to 20 weeks) and Maryland (13 to 20 weeks). Added Penn State's 14 to 15% grower or developer to 18 weeks.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks"
+    ]
+  },
+  {
+    "record_id": "feed-form-crumble-pellet-mash",
+    "status": "fixed",
+    "changes": "Maryland (pellets cost more, less waste, birds cannot pick out ingredients) and Minnesota (starter and laying mash) confirmed. Fixed British spelling favourite to favorite.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development"
+    ]
+  },
+  {
+    "record_id": "finisher",
+    "status": "fixed",
+    "changes": "Protein was null; Alabama Extension gives 15 to 18% for broiler finisher, so it is now set. Ages conflict (Maryland 3 to 6 weeks, Alabama from 8 or 9 weeks after a 4 to 8 week grower), so conflict is now true.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/"
+    ]
+  },
+  {
+    "record_id": "grit-insoluble",
+    "status": "approved",
+    "changes": "Confirmed on Poultry Extension (chick and hen sizes, fine gravel works, oyster shell too soft), Alabama (pullet-size granite grit from 6 weeks), Minnesota, Maryland and Nutrena (not needed on pellets alone, harder to find in snow).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://nutrenaworld.com/blog/poultry/feeding-grit-and-oyster-shell-to-chickens/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://extension.umd.edu/resource/feeding-flock"
+    ]
+  },
+  {
+    "record_id": "grower",
+    "status": "fixed",
+    "changes": "Protein range widened from 14-18% to 14-20% because UF/IFAS gives 16 to 20% grower from 6 to 18 weeks. Added Penn State (14 to 15% to 18 weeks) and UF/IFAS to the conflict note.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "record_id": "layer",
+    "status": "fixed",
+    "changes": "Protein range widened to 14-18% (UF/IFAS 14 to 16%, Poultry Extension minimum 14%). Removed Penn State from the kidney-damage claim (the brooding page does not say it) and credited UF/IFAS. Roosters: added UF/IFAS, which says not to feed layer feed to males. Added Merck's upper limit of about 0.1 kg a day. Storage note now 2 to 3 months (Oregon State 2, Alabama 3).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://extension.psu.edu/management-requirements-for-laying-flocks"
+    ]
+  },
+  {
+    "record_id": "medicated-chick-starter",
+    "status": "fixed",
+    "changes": "Penn State's duration was misquoted: the brooding page says medicated starter for the first 8 weeks, the small-flock page says under 4 weeks, and Michigan State's vet school says 6 weeks, so conflict is now true. Vaccinated-chick warning now backed by UF/IFAS (medicated feed counteracts the live vaccine); 'not an antibiotic' by Michigan State. Removed Meyer Hatchery, which does not support the vaccine claim.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://nutrenaworld.com/medicated-chick-starter-facts/",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://cvm.msu.edu/vdl/client-education/newsletter/spring-2018/preventing-six-common-mistakes-in-small-poultry-flocks"
+    ]
+  },
+  {
+    "record_id": "non-medicated-chick-starter",
+    "status": "approved",
+    "changes": "Confirmed: Penn State says waterfowl get only non-medicated starter, UF/IFAS says non-medicated starter is for vaccinated birds. Replaced the Meyer Hatchery page, which does not cover this, with UF/IFAS.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://nutrenaworld.com/medicated-chick-starter-facts/",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
+      "https://ask.ifas.ufl.edu/publication/AN239"
+    ]
+  },
+  {
+    "record_id": "oyster-shell",
+    "status": "approved",
+    "changes": "Confirmed on Oregon State, Poultry Extension, Virginia Tech and Nutrena. The Merck point about coarse pieces is on the Common Management-Related Problems page, so that URL replaces the Management page. Dropped the duplicate Oregon State PNW 565 source.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://nutrenaworld.com/blog/poultry/feeding-grit-and-oyster-shell-to-chickens/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/common-management-related-problems-in-backyard-poultry",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html"
+    ]
+  },
+  {
+    "record_id": "scratch-grains",
+    "status": "approved",
+    "changes": "All four clean-up rules checked and correct, including Alabama's 20 to 30 minutes. Added Penn State, which says cracked corn and scratch should not be fed at all, to the conflict note.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/feeding-flock",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+      "https://extension.psu.edu/successfully-raising-a-small-flock-of-laying-chickens"
+    ]
+  },
+  {
+    "record_id": "starter-grower",
+    "status": "approved",
+    "changes": "UF/IFAS confirms many stores sell a combination starter/grower. Nutrena and Purina labels both show 18% protein for hatch to lay. Added UF/IFAS and the Purina label; removed nothing.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://nutrenaworld.com/medicated-chick-starter-facts/",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://ask.ifas.ufl.edu/publication/AN239",
+      "https://www.purinamills.com/chicken-feed/products/detail/purina-organic-starter-grower"
+    ]
+  }
+]

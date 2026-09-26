@@ -3,7 +3,7 @@
     "conflict": true,
     "conflict_notes": "Temperature: Penn State says 92 to 95 F (95 F in its brooding guide), UNH says 90 to 95 F, Merck gives 85 to 90 F at floor level. Protein: Penn State and Oregon State say 18 to 20%, Poultry Extension, Alabama Extension and My Pet Chicken say 20 to 22%. Space: 1/4 vs 1/2 sq ft.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-00-hatch-day",
     "order": 0,
     "age_label": "Day 0 to 1 (hatch or arrival day)",
@@ -40,7 +40,7 @@
     },
     "milestones": [
       "Chicks absorb the yolk just before hatching. It can carry them for about 48 to 72 hours, which is why day-old chicks can be shipped.",
-      "Sex-link chicks can be sexed by down colour at hatch. A few strains can be feather sexed. Most breeds cannot be sexed by eye yet."
+      "Sex-link chicks can be sexed by down color at hatch. A few strains can be feather sexed. Most breeds cannot be sexed by eye yet."
     ],
     "common_problems": [
       {
@@ -134,7 +134,7 @@
     "conflict": true,
     "conflict_notes": "Temperature and protein ranges differ between sources as noted for hatch day.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-01-week-1",
     "order": 1,
     "age_label": "Week 1",
@@ -239,7 +239,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-02-week-2",
     "order": 2,
     "age_label": "Week 2",
@@ -323,7 +323,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-03-week-3",
     "order": 3,
     "age_label": "Week 3",
@@ -412,7 +412,7 @@
     "conflict": true,
     "conflict_notes": "UNH and Merck lower 5 F each week (75 to 80 F in week 4). Penn State's space table gives 80 to 85 F for weeks 3 to 5.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-04-week-4",
     "order": 4,
     "age_label": "Week 4",
@@ -496,7 +496,7 @@
     "conflict": true,
     "conflict_notes": "Temperature schedule differs between the 5 F a week rule (UNH, Merck) and Penn State's table.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-05-week-5",
     "order": 5,
     "age_label": "Week 5",
@@ -585,7 +585,7 @@
     "conflict": true,
     "conflict_notes": "Brooder end temperature: UNH 65 to 70 F, Penn State 62 to 65 F room temperature, Merck lowers to 70 F. Feed switch: 6 weeks (Oregon State) vs 6 to 8 weeks (Minnesota).",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-06-week-6",
     "order": 6,
     "age_label": "Week 6",
@@ -696,7 +696,7 @@
     "conflict": true,
     "conflict_notes": "Grower protein: Oregon State 15 to 16%, Poultry Extension 14 to 16%, Alabama Extension 16 to 18%.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-07-week-7",
     "order": 7,
     "age_label": "Week 7",
@@ -785,7 +785,7 @@
     "conflict": false,
     "conflict_notes": null,
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-08-week-8",
     "order": 8,
     "age_label": "Week 8",
@@ -816,7 +816,7 @@
     },
     "milestones": [
       "Penn State lists a second Newcastle and bronchitis dose at 8 weeks, and fowl pox vaccination at 8 weeks where pox has been a problem.",
-      "Cornish Cross broilers reach processing weight around 6 to 8 weeks."
+      "Minnesota lists broilers as processed at about 7 to 9 weeks, and meat chickens in general at 6 to 12 weeks depending on breed and target weight."
     ],
     "common_problems": [
       {
@@ -869,7 +869,7 @@
     "conflict": true,
     "conflict_notes": "Grower protein 14 to 16% (Poultry Extension), 15 to 16% (Oregon State), 16 to 18% (Alabama Extension).",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-09-weeks-8-to-16",
     "order": 9,
     "age_label": "8 to 16 weeks (growing pullets and cockerels)",
@@ -882,7 +882,7 @@
       "min": 1.5,
       "max": 2.5
     },
-    "space_notes": "Minnesota: Leghorn pullets 1 1/2 to 2 sq ft from 6 to 15 weeks, heavier pullets 2 to 2 1/2 sq ft.",
+    "space_notes": "Minnesota: Leghorn pullets 1 1/2 to 2 sq ft from 6 to 15 weeks when confined, mature pullets 2 to 2 1/2 sq ft.",
     "feed_type": "Grower, or developer from about 14 weeks. Do not start layer feed yet.",
     "protein_percent": {
       "min": 14,
@@ -976,7 +976,7 @@
     "conflict": true,
     "conflict_notes": "Switch to layer: Oregon State says 18 to 20 weeks or the first egg, Poultry Extension and Minnesota say about 20 weeks.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-10-weeks-16-to-20",
     "order": 10,
     "age_label": "16 to 20 weeks (point of lay approaching)",
@@ -1069,7 +1069,7 @@
     "conflict": true,
     "conflict_notes": "Layer protein: Oregon State about 16%, Poultry Extension 15 to 18%, Virginia Tech 16 to 18%, Alabama Extension about 18%.",
     "confidence": "medium",
-    "needs_review": true,
+    "needs_review": false,
     "id": "age-11-weeks-20-plus",
     "order": 11,
     "age_label": "20 weeks and older (point of lay)",

@@ -1,0 +1,274 @@
+[
+  {
+    "record_id": "badger",
+    "status": "fixed",
+    "changes": "Domain roots replaced with two BHWT predator pages and the GOV.UK badger protection page. Unsourced sign (birds eaten on site with heavy disturbance) removed. Added the legal point: badgers and setts are protected, so exclusion only.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.bhwt.org.uk/blog/health-welfare/top-tips-for-a-fox-proof-chicken-coop/",
+      "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
+      "https://www.gov.uk/guidance/badgers-protection-surveys-and-licences"
+    ]
+  },
+  {
+    "record_id": "bears",
+    "status": "fixed",
+    "changes": "Sources replaced with ICWDM black bear damage page, BearWise chickens page and Virginia Tech APSC-192P. 'Feed first' softened: BearWise says chickens, eggs and feed all draw bears. Feed storage advice made specific (bear-resistant container or locked building, not the coop).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/black-bears/black-bear-damage-identification/",
+      "https://bearwise.org/raising-chickens-in-bear-country/",
+      "https://www.pubs.ext.vt.edu/APSC/apsc-192/apsc-192.html"
+    ]
+  },
+  {
+    "record_id": "bobcat",
+    "status": "fixed",
+    "changes": "Sources replaced with ICWDM bobcat page, Poultry Extension predator article and UMD FS-1132. Caching sign (not in the sources) replaced with UMD's claw scratches on the side and back; ICWDM's throat bite kept. Active time noted as mostly dawn and dusk.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/bobcats/bobcat-damage-identification/",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132"
+    ]
+  },
+  {
+    "record_id": "cats",
+    "status": "fixed",
+    "changes": "BHWT and domain roots replaced with UMD FS-1132, Poultry Extension and Oklahoma State AFS-8221. Signs corrected to UMD: small chicks eaten whole, wings and feathers of young birds left; cats can kill full-grown hens, so 'adult hens left alone' was too strong.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html"
+    ]
+  },
+  {
+    "record_id": "coyote",
+    "status": "approved",
+    "changes": "Facts confirmed (whole bird carried off, scattered feathers, digging and jumping fences up to about 5 feet per UMD). Domain roots replaced with ICWDM coyote page, UMD FS-1132, Oklahoma State and Poultry Extension.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/coyotes/coyote-damage-identification/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/"
+    ]
+  },
+  {
+    "record_id": "crows-and-magpies",
+    "status": "fixed",
+    "changes": "Sources replaced with ICWDM crows page, Ohio State VME-22 and Poultry Extension (crows and jays take eggs and leave shells), plus GOV.UK wild bird protection. Added legal status: crows are protected under the Migratory Bird Treaty Act and all UK wild birds are protected.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/birds/crows/",
+      "https://ohioline.osu.edu/factsheet/vme-22",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences"
+    ]
+  },
+  {
+    "record_id": "dogs",
+    "status": "fixed",
+    "changes": "Sources replaced with UMD FS-1132, Oklahoma State (dogs usually come in daylight, mauled birds) and Poultry Extension. UK police line made precise: the Dogs (Protection of Livestock) Act 1953 counts poultry as livestock in England and Wales.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://www.legislation.gov.uk/ukpga/Eliz2/1-2/28/section/3"
+    ]
+  },
+  {
+    "record_id": "eagles",
+    "status": "fixed",
+    "changes": "Sources replaced with UMD FS-1132 (eagles and hawks hunt by day, eat large birds at the kill site and carry small ones off; all eagles, hawks and owls are protected by the Migratory Bird Treaty Act), Poultry Extension raptor section and GOV.UK wild bird protection. Legal wording now names the Act.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences"
+    ]
+  },
+  {
+    "record_id": "fox",
+    "status": "fixed",
+    "changes": "Sources replaced with ICWDM fox page, UMD FS-1132 and two BHWT pages. Added BHWT's point that early evening and dusk is the riskiest time and urban foxes now strike by day; spring cub-feeding season confirmed by ICWDM and UMD.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/foxes/fox-damage-identification/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://www.bhwt.org.uk/blog/health-welfare/top-tips-for-a-fox-proof-chicken-coop/",
+      "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/"
+    ]
+  },
+  {
+    "record_id": "hawks",
+    "status": "fixed",
+    "changes": "Sources replaced with Poultry Extension hawk section (breast eaten, feathers cleanly plucked), UMD FS-1132, BHWT predators page and GOV.UK wild bird protection. UK species line corrected to what BHWT names (buzzards and red kites, mainly near moorland and uplands).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
+      "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences"
+    ]
+  },
+  {
+    "record_id": "hedgehogs",
+    "status": "needs-human",
+    "changes": "No extension, government or poultry-body page found that describes hedgehogs raiding nest boxes; only forum and hobby pages. Legal wording softened (declining species, not a fully protected one). Needs a reliable UK source on hedgehogs and poultry eggs before publishing.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.britishhedgehogs.org.uk/",
+      "https://www.bhwt.org.uk/"
+    ]
+  },
+  {
+    "record_id": "mink",
+    "status": "fixed",
+    "changes": "Sources replaced with ICWDM mink page (surplus killing, dead birds piled), UMD FS-1132, Oklahoma State and BHWT (mink are a danger to UK hens). Unsourced 'feral invasive' wording replaced with the BHWT point.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/minks/mink-damage-identification/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://www.bhwt.org.uk/blog/health-welfare/top-tips-for-a-fox-proof-chicken-coop/"
+    ]
+  },
+  {
+    "record_id": "opossum",
+    "status": "approved",
+    "changes": "Facts confirmed (one bird per visit, abdomen eaten, chicks and eggs taken). Domain roots replaced with ICWDM opossum page, Oklahoma State and Poultry Extension.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/other-mammals/opossums/opossum-damage-identification/",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/"
+    ]
+  },
+  {
+    "record_id": "owls",
+    "status": "fixed",
+    "changes": "Facts confirmed (great horned owl the main culprit, head and neck eaten, night kills). Sources replaced with Poultry Extension, UMD FS-1132, Oklahoma State and GOV.UK wild bird protection. Legal line now names the Migratory Bird Treaty Act.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences"
+    ]
+  },
+  {
+    "record_id": "pine-marten",
+    "status": "fixed",
+    "changes": "Sources replaced with Vincent Wildlife Trust pine marten page (full legal protection under the Wildlife and Countryside Act 1981; no hen house holes over 45 mm) and Saving Wildcats poultry guidance (45 mm, close and secure doors at dark). Gap size and door advice made specific.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.vwt.org.uk/species/pine-marten",
+      "https://www.savingwildcats.org.uk/guidance/wildcats-and-predation-of-domestic-poultry/"
+    ]
+  },
+  {
+    "record_id": "polecat",
+    "status": "needs-human",
+    "changes": "Domain roots replaced with the Vincent Wildlife Trust polecat page and leaflet (polecats may kill poultry when pens are open to them, squeeze through gaps of about 4 cm, and are on Schedule 6 of the Wildlife and Countryside Act). Only one publisher found; a second reliable page is needed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.vwt.org.uk/species/pole-cat",
+      "https://www.vwt.org.uk/wp-content/uploads/2015/04/polecat-leaflet.pdf"
+    ]
+  },
+  {
+    "record_id": "raccoon",
+    "status": "approved",
+    "changes": "Facts confirmed (heads bitten off, birds pulled through wire, eggs eaten, simple latches opened). Domain roots replaced with ICWDM raccoon damage page, Poultry Extension and UMD FS-1132.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/raccoons/raccoon-damage-identification/",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132"
+    ]
+  },
+  {
+    "record_id": "rats",
+    "status": "approved",
+    "changes": "Facts confirmed (eggs rolled or chewed, chicks taken, bites on hocks, burrows under coops). Domain roots replaced with BHWT predators page, Poultry Extension, Oklahoma State and ICWDM Norway rat page.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://icwdm.org/species/rodents/norway-rats/"
+    ]
+  },
+  {
+    "record_id": "skunk",
+    "status": "fixed",
+    "changes": "Sources replaced with ICWDM skunk damage page, Oklahoma State and UMD FS-1132. Egg sign corrected to ICWDM (opened at one end, edges crushed inward); chick sign to Oklahoma State (abdomen eaten); odor noted as not always present.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://icwdm.org/species/carnivores/skunks/skunk-damage-identification/",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132"
+    ]
+  },
+  {
+    "record_id": "snakes",
+    "status": "fixed",
+    "changes": "Sources replaced with Poultry Extension, UMD FS-1132, Oklahoma State and ICWDM snakes page. Mesh advice corrected: snakes that fit 1/4 inch gaps rarely cause losses, so 1/4 inch hardware cloth for chicks. Unsourced UK line removed. Added that snakes are protected in most US states.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+      "https://icwdm.org/species/reptiles/snakes/"
+    ]
+  },
+  {
+    "record_id": "stoat",
+    "status": "approved",
+    "changes": "Facts confirmed (surplus killing of poultry when access is easy, bites to head and neck, bodies lined up). Domain roots replaced with Vincent Wildlife Trust stoat page, ICWDM weasel page, Poultry Extension and UMD FS-1132.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.vwt.org.uk/species/stoat",
+      "https://icwdm.org/species/carnivores/weasels/weasel-damage-identification/",
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132"
+    ]
+  },
+  {
+    "record_id": "weasel",
+    "status": "fixed",
+    "changes": "Sources replaced with Poultry Extension, ICWDM weasel page, UMD FS-1132 and Vincent Wildlife Trust. Hole size corrected: least weasels pass through holes about 1/4 inch wide and through chicken wire (was 1 inch). Mesh advice changed to 1/4 inch hardware cloth.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+      "https://icwdm.org/species/carnivores/weasels/weasel-damage-identification/",
+      "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+      "https://www.vwt.org.uk/species/weasel"
+    ]
+  }
+]

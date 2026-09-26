@@ -7,9 +7,8 @@
     ],
     "active_time": "night",
     "attack_signs": [
-      "Coop doors, panels or weak wire torn open by force",
-      "Deep digging under fences",
-      "Birds eaten on site, with parts left and heavy disturbance",
+      "Coop doors, panels or weak wire broken open by force",
+      "Digging under fences and run edges",
       "Eggs eaten"
     ],
     "what_they_take": "Adult birds and eggs. Can break into poorly built coops.",
@@ -17,27 +16,28 @@
       "Build a strong coop with solid timber and secure fixings.",
       "Stop digging with a buried wire apron or skirt, about 12 inches (30 cm) down or laid flat outward along the base of the run.",
       "Shut birds in a secure coop every night before dusk. An automatic door helps.",
-      "Electric poultry netting or offset electric wires around the run are very effective."
+      "Electric poultry netting or offset electric wires around the run are very effective.",
+      "Badgers and their setts are protected by law in the UK. Use fencing and a strong coop, and never block or disturb a sett."
     ],
     "sources": [
       {
-        "url": "https://www.bhwt.org.uk/",
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/top-tips-for-a-fox-proof-chicken-coop/",
         "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.wildlifetrusts.org/",
-        "publisher": "The Wildlife Trusts (UK)",
-        "source_confidence": "domain"
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.rspca.org.uk/",
-        "publisher": "RSPCA",
-        "source_confidence": "domain"
+        "url": "https://www.gov.uk/guidance/badgers-protection-surveys-and-licences",
+        "publisher": "Natural England and Defra (GOV.UK)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "bears",
@@ -51,31 +51,31 @@
       "Feed bins opened and emptied",
       "Birds and eggs gone, with heavy damage everywhere"
     ],
-    "what_they_take": "Feed first, then birds and eggs. Black bears are the usual culprit.",
+    "what_they_take": "Feed, birds and eggs. Chicken feed is a strong draw. Black bears are the usual culprit.",
     "prevention": [
       "Electric fencing around coop and run.",
-      "Store feed in metal bins and remove feeders at night.",
+      "Store feed in a bear-resistant container or a sturdy locked building, not in the coop or on a porch.",
       "Do not leave kitchen scraps or compost near the coop."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/black-bears/black-bear-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://bearwise.org/raising-chickens-in-bear-country/",
+        "publisher": "BearWise (state wildlife agencies)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://www.pubs.ext.vt.edu/APSC/apsc-192/apsc-192.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "bobcat",
@@ -85,11 +85,12 @@
     ],
     "active_time": "both",
     "attack_signs": [
-      "One bird taken, sometimes cached under leaves or debris nearby",
-      "Bite marks to the head and neck",
+      "One or two birds taken, often with only a few feathers left",
+      "Claw scratches on the sides and back of dead or surviving birds",
+      "Bite to the throat or neck",
       "Can climb or jump fences"
     ],
-    "what_they_take": "Usually one adult bird at a time.",
+    "what_they_take": "Birds of any size, usually one or two at a time. Hunts mostly at dawn and dusk but can attack at any time.",
     "prevention": [
       "Cover the run with a solid roof or mesh.",
       "Shut birds in a secure coop every night before dusk. An automatic door helps.",
@@ -97,23 +98,23 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/bobcats/bobcat-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "cats",
@@ -123,11 +124,12 @@
     ],
     "active_time": "both",
     "attack_signs": [
-      "Chicks or small bantams missing or partly eaten, often starting at the head",
-      "Adult full-size hens are usually left alone",
+      "Small chicks missing with no trace",
+      "Wings and feathers of young birds left behind",
+      "Full-size hens are attacked less often, but cats can kill them",
       "Feathers scattered near cover"
     ],
-    "what_they_take": "Chicks, young birds and bantams. Rarely adult large-fowl hens.",
+    "what_they_take": "Chicks, young birds and bantams. Sometimes adult hens.",
     "prevention": [
       "Keep chicks in a covered brooder or pen.",
       "Cover the run with a solid roof or mesh.",
@@ -135,23 +137,23 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
-        "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "coyote",
@@ -175,23 +177,28 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/coyotes/coyote-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "crows-and-magpies",
@@ -202,34 +209,40 @@
     "active_time": "day",
     "attack_signs": [
       "Eggs missing, or shells with a hole pecked in and contents gone",
-      "Shells carried away and found some distance from the nest",
+      "Eaten shells left behind, sometimes some distance from the nest",
       "Chicks taken from open runs"
     ],
     "what_they_take": "Eggs and chicks.",
     "prevention": [
       "Collect eggs at least daily.",
       "Put nest boxes inside the coop, out of sight.",
-      "Cover the run with a solid roof or mesh."
+      "Cover the run with a solid roof or mesh.",
+      "Crows are protected in the US under the Migratory Bird Treaty Act, and all wild birds are protected in the UK. Rely on prevention."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/birds/crows/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://ohioline.osu.edu/factsheet/vme-22",
+        "publisher": "Ohio State University Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences",
+        "publisher": "Natural England and Defra (GOV.UK)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "dogs",
@@ -248,27 +261,32 @@
     "prevention": [
       "A strong perimeter fence.",
       "Electric poultry netting or offset electric wires around the run are very effective.",
-      "Talk to neighbours about loose dogs. In the UK, dog attacks on poultry can be reported to the police."
+      "Talk to neighbors about loose dogs. In England and Wales a dog worrying poultry on agricultural land is an offense under the Dogs (Protection of Livestock) Act 1953, and it can be reported to the police."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
-        "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.legislation.gov.uk/ukpga/Eliz2/1-2/28/section/3",
+        "publisher": "UK legislation (legislation.gov.uk)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "eagles",
@@ -278,35 +296,35 @@
     ],
     "active_time": "day",
     "attack_signs": [
-      "Whole bird carried away with no remains",
-      "A few feathers where the bird was grabbed",
+      "Small birds carried off, with feathers under a nearby tree",
+      "Larger birds eaten at the kill site, leaving many feathers",
       "Talon punctures on the back if a bird escapes"
     ],
-    "what_they_take": "Adult birds carried away. Bald and golden eagles are protected by law.",
+    "what_they_take": "Adult birds, carried off or eaten on the spot. Bald and golden eagles are protected by law.",
     "prevention": [
       "Cover the run with a solid roof or mesh.",
       "Provide shrubs, covered areas or shelters birds can run under.",
-      "All eagles and hawks are protected in the US and UK. Only non-lethal prevention is allowed."
+      "All eagles, hawks and owls are federally protected in the US under the Migratory Bird Treaty Act, and all wild birds are protected in the UK. Only non-lethal prevention is allowed."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
-        "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences",
+        "publisher": "Natural England and Defra (GOV.UK)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "fox",
@@ -328,32 +346,32 @@
       "Electric poultry netting or offset electric wires around the run are very effective.",
       "Stop digging with a buried wire apron or skirt, about 12 inches (30 cm) down or laid flat outward along the base of the run.",
       "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
-      "Foxes also hunt in daylight in spring and summer when feeding cubs."
+      "Dusk is a high-risk time. Foxes also hunt in daylight, especially in spring when feeding cubs and in towns where they are used to people."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/foxes/fox-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/top-tips-for-a-fox-proof-chicken-coop/",
         "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.wildlifetrusts.org/",
-        "publisher": "The Wildlife Trusts (UK)",
-        "source_confidence": "domain"
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
+        "publisher": "British Hen Welfare Trust",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "hawks",
@@ -369,32 +387,37 @@
       "Talon puncture wounds on the back and head",
       "Small birds and chicks may be carried off"
     ],
-    "what_they_take": "Chicks, bantams and some adult hens. In the UK, goshawks, sparrowhawks and buzzards occasionally take poultry.",
+    "what_they_take": "Chicks, bantams and some adult hens. In the US, red-tailed, red-shouldered and Cooper's hawks are the usual ones. In the UK, buzzards and red kites can take hens, mainly near moorland and uplands.",
     "prevention": [
       "Cover the run with a solid roof or mesh.",
       "Provide cover such as shrubs or a shelter to hide under.",
       "A rooster can give warning calls.",
-      "All hawks are protected in the US and UK. Only non-lethal prevention is allowed."
+      "Hawks are federally protected in the US under the Migratory Bird Treaty Act, and all wild birds are protected in the UK. Only non-lethal prevention is allowed."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
-        "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
         "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences",
+        "publisher": "Natural England and Defra (GOV.UK)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "hedgehogs",
@@ -404,29 +427,24 @@
     ],
     "active_time": "night",
     "attack_signs": [
-      "Eggs broken and eaten in nest boxes at ground level",
+      "Eggs laid on the ground or already cracked are broken open and licked out",
       "Messy shell fragments left behind"
     ],
     "what_they_take": "Eggs. They do not harm adult birds.",
     "prevention": [
       "Collect eggs at least daily.",
       "Raise nest boxes off the ground.",
-      "Hedgehogs are a declining protected species. Keep them out, never harm them."
+      "Hedgehogs are in decline in the UK. Keep them out, never harm them."
     ],
     "sources": [
       {
+        "url": "https://www.britishhedgehogs.org.uk/",
+        "publisher": "British Hedgehog Preservation Society",
+        "source_confidence": "domain"
+      },
+      {
         "url": "https://www.bhwt.org.uk/",
         "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.wildlifetrusts.org/",
-        "publisher": "The Wildlife Trusts (UK)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.rspca.org.uk/",
-        "publisher": "RSPCA",
         "source_confidence": "domain"
       }
     ],
@@ -442,11 +460,11 @@
     "active_time": "night",
     "attack_signs": [
       "Several birds killed at once",
-      "Bite wounds to the head and neck",
-      "Bodies piled or dragged into a corner or hole",
+      "Bite wounds to the back of the head and neck",
+      "Dead birds neatly piled",
       "Usually near water"
     ],
-    "what_they_take": "Several birds in one attack. American mink is also a feral invasive species in the UK.",
+    "what_they_take": "Several birds in one attack, up to chicken or duck size. A danger to hens in both the US and the UK.",
     "prevention": [
       "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
       "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
@@ -454,23 +472,28 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/minks/mink-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/top-tips-for-a-fox-proof-chicken-coop/",
         "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "opossum",
@@ -494,23 +517,23 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/other-mammals/opossums/opossum-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "owls",
@@ -530,27 +553,32 @@
       "Shut birds in a secure coop every night before dusk. An automatic door helps.",
       "Cover the run with a solid roof or mesh.",
       "Do not let birds roost in trees or on open fences.",
-      "Owls are protected in the US and UK."
+      "Owls are federally protected in the US under the Migratory Bird Treaty Act, and all wild birds are protected in the UK. Only non-lethal prevention is allowed."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
-        "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences",
+        "publisher": "Natural England and Defra (GOV.UK)",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "pine-marten",
@@ -564,31 +592,26 @@
       "Can climb well and enter through small gaps high up",
       "Bodies may be cached"
     ],
-    "what_they_take": "Birds and eggs. Pine martens are rare and legally protected in the UK.",
+    "what_they_take": "Birds and eggs. Pine martens are rare and fully protected by law in Britain (Wildlife and Countryside Act 1981).",
     "prevention": [
-      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Pine martens can squeeze through a hole about 45 mm (1 3/4 inches) wide. Replace rotten wood and seal every gap bigger than that.",
       "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
-      "Shut birds in a secure coop every night before dusk. An automatic door helps."
+      "Shut birds in every night before dark, and secure the pop-hole door so a marten cannot lift it."
     ],
     "sources": [
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://www.vwt.org.uk/species/pine-marten",
+        "publisher": "Vincent Wildlife Trust",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.wildlifetrusts.org/",
-        "publisher": "The Wildlife Trusts (UK)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.rspca.org.uk/",
-        "publisher": "RSPCA",
-        "source_confidence": "domain"
+        "url": "https://www.savingwildcats.org.uk/guidance/wildcats-and-predation-of-domestic-poultry/",
+        "publisher": "Saving Wildcats (RZSS and partners)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "polecat",
@@ -604,25 +627,20 @@
     ],
     "what_they_take": "Several birds in one visit, and eggs.",
     "prevention": [
-      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
+      "Polecats can squeeze through gaps of about 4 cm (1 1/2 inches). Seal every gap bigger than that and check wire and wooden houses for weak spots.",
       "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
       "Shut birds in a secure coop every night before dusk. An automatic door helps."
     ],
     "sources": [
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://www.vwt.org.uk/species/pole-cat",
+        "publisher": "Vincent Wildlife Trust",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.wildlifetrusts.org/",
-        "publisher": "The Wildlife Trusts (UK)",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.rspca.org.uk/",
-        "publisher": "RSPCA",
-        "source_confidence": "domain"
+        "url": "https://www.vwt.org.uk/wp-content/uploads/2015/04/polecat-leaflet.pdf",
+        "publisher": "Vincent Wildlife Trust",
+        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
@@ -651,23 +669,23 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/raccoons/raccoon-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "rats",
@@ -691,23 +709,28 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
-        "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://www.bhwt.org.uk/",
+        "url": "https://www.bhwt.org.uk/blog/health-welfare/chicken-predators/",
         "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://icwdm.org/species/rodents/norway-rats/",
+        "publisher": "Internet Center for Wildlife Damage Management",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "skunk",
@@ -717,9 +740,9 @@
     ],
     "active_time": "night",
     "attack_signs": [
-      "Eggs eaten with an opened end and contents gone, often messy",
-      "Chicks killed and partly eaten",
-      "Musky smell around the coop",
+      "Eggs opened at one end with the edges crushed inward",
+      "Chicks killed with the belly eaten",
+      "A musky smell, though skunks do not always spray",
       "Shallow digging around the coop"
     ],
     "what_they_take": "Mainly eggs and chicks. Rarely adults.",
@@ -730,23 +753,23 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://icwdm.org/species/carnivores/skunks/skunk-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "snakes",
@@ -760,31 +783,37 @@
       "Chicks swallowed whole and missing without trace",
       "A snake found in a nest box, sometimes too swollen to leave"
     ],
-    "what_they_take": "Eggs and chicks. Rat snakes are common egg thieves in the US. UK snakes do not normally take poultry.",
+    "what_they_take": "Eggs and chicks under about a month old. Rat snakes are common egg thieves in the US.",
     "prevention": [
-      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
-      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
-      "Collect eggs at least daily."
+      "Keep chicks in pens with 1/4 inch (6 mm) hardware cloth. Snakes small enough to pass through that rarely cause losses.",
+      "Seal gaps around doors, floors and vents.",
+      "Collect eggs at least daily.",
+      "Many US states protect nongame snakes, so check state rules before removing one."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://extension.okstate.edu/fact-sheets/protecting-small-poultry-flocks-from-predators.html",
+        "publisher": "Oklahoma State University Extension",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://icwdm.org/species/reptiles/snakes/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.psu.edu/",
-        "publisher": "Penn State Extension",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "stoat",
@@ -807,23 +836,28 @@
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://www.vwt.org.uk/species/stoat",
+        "publisher": "Vincent Wildlife Trust",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://icwdm.org/species/carnivores/weasels/weasel-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "weasel",
@@ -834,34 +868,39 @@
     "active_time": "both",
     "attack_signs": [
       "Several birds killed at once, often small birds or chicks",
-      "Small puncture wounds to the head and neck",
-      "Bodies left neatly or cached",
-      "Entry through holes as small as about 1 inch (2.5 cm)"
+      "Small bite wounds to the head and neck",
+      "Bodies left neatly or lined up",
+      "Entry through holes as small as about 1/4 inch (6 mm)"
     ],
     "what_they_take": "Chicks, bantams and eggs. Can kill adult hens.",
     "prevention": [
-      "Seal every gap larger than about 1 inch (2.5 cm), including where walls meet the floor and roof.",
-      "Use 1/2 inch (12 to 13 mm) welded wire mesh, not chicken wire, on runs and vents. Chicken wire keeps chickens in but does not keep predators out.",
+      "Weasels can squeeze through holes about 1/4 inch (6 mm) wide. Cover vents and low openings with 1/4 inch hardware cloth.",
+      "Seal gaps where walls meet the floor and roof.",
       "Shut birds in a secure coop every night before dusk. An automatic door helps."
     ],
     "sources": [
       {
-        "url": "https://icwdm.org/",
+        "url": "https://poultry.extension.org/articles/poultry-management/predator-management-for-small-and-backyard-poultry-flocks/",
+        "publisher": "Poultry Extension (Extension Foundation)",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://icwdm.org/species/carnivores/weasels/weasel-damage-identification/",
         "publisher": "Internet Center for Wildlife Damage Management",
-        "source_confidence": "domain"
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
+        "url": "https://extension.umd.edu/resource/identifying-and-preventing-poultry-predators-mid-atlantic-region-fs-1132",
+        "publisher": "University of Maryland Extension",
+        "source_confidence": "page"
       },
       {
-        "url": "https://www.bhwt.org.uk/",
-        "publisher": "British Hen Welfare Trust",
-        "source_confidence": "domain"
+        "url": "https://www.vwt.org.uk/species/weasel",
+        "publisher": "Vincent Wildlife Trust",
+        "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   }
 ]

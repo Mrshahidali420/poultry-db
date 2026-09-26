@@ -1,0 +1,184 @@
+[
+  {
+    "record_id": "age-00-hatch-day",
+    "status": "fixed",
+    "changes": "All 10 sources opened and support the temperatures (Penn State 92 to 95 F, UNH and Minnesota 90 to 95 F), space, protein, heat plate limit (NC State, 125 F), yolk window (Valley) and pasty butt and splay leg care (Meyer). US spelling fix (color).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://valleyhatchery.com/how-valley-hatchery-ships-live-chicks/",
+      "https://blog.meyerhatchery.com/2018/02/how-to-treat-pasty-bottom-in-newly-hatched-chicks/",
+      "https://blog.meyerhatchery.com/2019/09/spraddle-leg-causes-and-treatment/",
+      "https://haywood.ces.ncsu.edu/brooding-chicks-in-the-classroom",
+      "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development"
+    ]
+  },
+  {
+    "record_id": "age-01-week-1",
+    "status": "approved",
+    "changes": "Sources opened; week 1 temperature, feeder and water space (Penn State) and chick guard removal after week 1 (UNH) confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+      "https://blog.meyerhatchery.com/2018/02/how-to-treat-pasty-bottom-in-newly-hatched-chicks/",
+      "https://blog.meyerhatchery.com/2019/09/spraddle-leg-causes-and-treatment/"
+    ]
+  },
+  {
+    "record_id": "age-02-week-2",
+    "status": "approved",
+    "changes": "Penn State's 85 to 90 F and 1/2 sq ft for weeks 2 to 3 confirmed; Minnesota's 2 inches of feeder space from 2 weeks confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "age-03-week-3",
+    "status": "approved",
+    "changes": "Penn State's 80 to 85 F and 3/4 sq ft confirmed; Meyer's broiler starter to 3 weeks, 12 hours on and off feeding and outdoor move at about 3 weeks confirmed; coccidiosis onset at 2 to 3 weeks confirmed by Meyer, with Merck on the disease.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://meyerhatchery.zendesk.com/hc/en-us/articles/360055407371-Brooding-Cornish-Cross-Broilers-101-How-to-raise-from-hatch-to-processing",
+      "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
+      "https://www.merckvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry"
+    ]
+  },
+  {
+    "record_id": "age-04-week-4",
+    "status": "approved",
+    "changes": "Conflict between the 5 F a week rule (UNH, Merck) and Penn State's table confirmed; Penn State's coccidiostat for 4 weeks and water vaccination at 4 and 8 weeks confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens"
+    ]
+  },
+  {
+    "record_id": "age-05-week-5",
+    "status": "approved",
+    "changes": "Penn State's 70 to 80 F and 1 sq ft for weeks 5 to 8, 2 inch feeder and 3/4 inch water space confirmed; sexing by secondary traits confirmed by Mississippi State and the Extension Foundation.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+      "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks",
+      "https://poultry.extension.org/articles/poultry-management/sexing-day-old-chicks/"
+    ]
+  },
+  {
+    "record_id": "age-06-week-6",
+    "status": "approved",
+    "changes": "UNH's 65 to 70 F brooder removal, Penn State's 62 to 65 F end point, Oregon State's switch to grower at about 6 weeks, Minnesota's 6 to 8 weeks of starter and roosts over 6 weeks, Alabama's pullet grit at 6 weeks and Mississippi State's sexing at 4 to 6 weeks all confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks"
+    ]
+  },
+  {
+    "record_id": "age-07-week-7",
+    "status": "approved",
+    "changes": "Grower protein conflict confirmed: Oregon State 15 to 16%, Extension Foundation 14 to 16%, Alabama 16 to 18%.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets"
+    ]
+  },
+  {
+    "record_id": "age-08-week-8",
+    "status": "fixed",
+    "changes": "Penn State's room temperature from 8 weeks, 1 1/2 to 3 sq ft and 1 to 2 inches of water space confirmed. Cornish Cross processing age changed from 6 to 8 weeks to Minnesota's 7 to 9 weeks (6 to 12 for meat chickens in general).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.psu.edu/space-should-increase-as-birds-grow",
+      "https://extension.psu.edu/brooding-of-domestic-fowl",
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+      "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/"
+    ]
+  },
+  {
+    "record_id": "age-09-weeks-8-to-16",
+    "status": "fixed",
+    "changes": "Merck's 55 to 75 F comfort zone, crowing at 4 to 5 months (My Pet Chicken), Oregon State's developer from 14 weeks confirmed. Minnesota space note corrected: 2 to 2 1/2 sq ft is for mature pullets, not heavier pullets.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://www.merckvetmanual.com/poultry/nutrition-and-management-poultry/management-of-growing-chickens",
+      "https://www.mypetchicken.com/blogs/faqs/at-what-age-does-a-rooster-begin-crowing",
+      "https://extension.msstate.edu/agriculture/livestock/poultry/sexing-day-old-chicks"
+    ]
+  },
+  {
+    "record_id": "age-10-weeks-16-to-20",
+    "status": "approved",
+    "changes": "Merck's 1.5 to 2 sq ft plus 8 to 10 sq ft of run, Oregon State's layer switch at 18 to 20 weeks or first egg, Meyer's comb reddening and Valley's 16 to 18 weeks for production breeds confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://blog.meyerhatchery.com/2020/06/signs-that-a-pullet-will-begin-laying-soon/",
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/"
+    ]
+  },
+  {
+    "record_id": "age-11-weeks-20-plus",
+    "status": "approved",
+    "changes": "Oregon State's peak lay near 35 weeks at over 90%, Valley's 18 to 24 week window and small early eggs, layer protein ranges and Merck's prolapse and egg binding guidance confirmed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+      "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+      "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
+      "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/common-management-related-problems-in-backyard-poultry"
+    ]
+  }
+]

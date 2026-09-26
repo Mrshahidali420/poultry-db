@@ -7634,7 +7634,7 @@
     ],
     "category": "fruit",
     "verdict": "moderation",
-    "verdict_reason": "Yes, a little fully ripe flesh. Unripe persimmons are high in tannins, and the seeds should be removed.",
+    "verdict_reason": "Yes, a little fully ripe flesh. Unripe astringent persimmons are high in tannins, and the seeds should be removed. Laying hens fed dried persimmon peel in feeding trials kept laying normally.",
     "parts": [
       {
         "part": "ripe flesh",
@@ -7669,23 +7669,18 @@
         "source_confidence": "page"
       },
       {
-        "url": "https://poultry.extension.org/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "domain"
+        "url": "https://www.animbiosci.org/journal/view.php?number=4644",
+        "publisher": "Asian-Australasian Journal of Animal Sciences (Oh et al., 2013)",
+        "source_confidence": "page"
       },
       {
-        "url": "https://extension.umn.edu/",
-        "publisher": "University of Minnesota Extension",
-        "source_confidence": "domain"
-      },
-      {
-        "url": "https://extension.umd.edu/",
-        "publisher": "University of Maryland Extension",
-        "source_confidence": "domain"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8630409/",
+        "publisher": "The Journal of Poultry Science (Sangkaew et al., 2021)",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "low",
-    "needs_review": true
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": "pickles",
@@ -9445,6 +9440,11 @@
     "chick_safe": "with-care",
     "sources": [
       {
+        "url": "https://entomology.ces.ncsu.edu/faqs-brown-marmorated-stink-bug/",
+        "publisher": "NC State Extension, Entomology",
+        "source_confidence": "page"
+      },
+      {
         "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-eggs",
         "publisher": "University of Minnesota Extension",
         "source_confidence": "page"
@@ -9455,8 +9455,8 @@
         "source_confidence": "page"
       }
     ],
-    "confidence": "low",
-    "needs_review": true
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": "strawberries",

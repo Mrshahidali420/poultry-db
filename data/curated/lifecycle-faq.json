@@ -18,6 +18,12 @@
         "source_confidence": "page"
       },
       {
+        "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
+        "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
+        "publisher": "Virginia Cooperative Extension (Virginia Tech)",
+        "source_confidence": "page"
+      },
+      {
         "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
         "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
         "publisher": "Meyer Hatchery",
@@ -25,7 +31,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "can-chicks-eat-layer-feed",
@@ -65,7 +71,7 @@
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "can-hens-crow",
@@ -98,15 +104,15 @@
     "id": "can-roosters-eat-layer-feed",
     "topic": "feed",
     "question": "Can roosters eat layer feed?",
-    "answer": "Sources differ. My Pet Chicken says mature roosters can stay on layer feed, while the extension warnings are aimed at growing birds. For a mixed flock, many keepers feed all-flock feed and put oyster shell on the side for the hens.",
+    "answer": "Yes, in most backyard flocks. Alabama Extension says to feed roosters the same layer feed the hens eat, and the extra calcium only rarely harms their kidneys. If you want to avoid that, feed an all-flock feed and put oyster shell in a separate dish for the hens.",
     "numbers": {},
-    "conflict": true,
-    "conflict_notes": "My Pet Chicken says roosters can eat layer feed; extension sources warn against high calcium for non-laying growing birds and do not address adult roosters directly.",
+    "conflict": false,
+    "conflict_notes": null,
     "sources": [
       {
-        "name": "What kind and how much feed should I give my flock at each stage of development?",
-        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
-        "publisher": "My Pet Chicken",
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen (ANR-2913)",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
         "source_confidence": "page"
       },
       {
@@ -114,16 +120,10 @@
         "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
         "publisher": "Oregon State University Extension Service",
         "source_confidence": "page"
-      },
-      {
-        "name": "Management of Backyard Poultry",
-        "url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/management-of-backyard-poultry",
-        "publisher": "Merck Veterinary Manual",
-        "source_confidence": "page"
       }
     ],
-    "confidence": "low",
-    "needs_review": true
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": "do-chickens-lay-during-molt",
@@ -148,7 +148,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "do-chickens-need-grit",
@@ -160,26 +160,26 @@
     "conflict_notes": null,
     "sources": [
       {
-        "name": "Feeding Grit and Oyster Shell to Chickens",
-        "url": "https://nutrenaworld.com/blog/poultry/feeding-grit-and-oyster-shell-to-chickens/",
-        "publisher": "Nutrena (Cargill)",
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen (ANR-2913)",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
         "source_confidence": "page"
       },
       {
         "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
         "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
-        "publisher": "Poultry Extension (Extension Foundation)",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       },
       {
-        "name": "What kind and how much feed should I give my flock at each stage of development?",
-        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
-        "publisher": "My Pet Chicken",
+        "name": "How to feed your laying hens (PNW 477)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens",
+        "publisher": "Oregon State University Extension Service",
         "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "do-hens-need-a-rooster-to-lay-eggs",
@@ -193,24 +193,24 @@
       {
         "name": "Backyard Chickens",
         "url": "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
-        "publisher": "Cornell Cooperative Extension (Washington County)",
+        "publisher": "Cornell Cooperative Extension, Washington County",
         "source_confidence": "page"
       },
       {
-        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
-        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
-        "publisher": "Valley Hatchery",
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
         "source_confidence": "page"
       },
       {
-        "name": "Raising layer chicks and pullets",
-        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
-        "publisher": "University of Minnesota Extension",
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen (ANR-2913)",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
         "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "do-hens-need-dark-at-night",
@@ -237,7 +237,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "do-laying-hens-need-oyster-shell",
@@ -255,9 +255,9 @@
         "source_confidence": "page"
       },
       {
-        "name": "Feeding Grit and Oyster Shell to Chickens",
-        "url": "https://nutrenaworld.com/blog/poultry/feeding-grit-and-oyster-shell-to-chickens/",
-        "publisher": "Nutrena (Cargill)",
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       },
       {
@@ -268,7 +268,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "does-extra-light-mean-more-eggs",
@@ -293,7 +293,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "heat-plate-or-heat-lamp",
@@ -310,7 +310,7 @@
       {
         "name": "Brooding Chicks in the Classroom",
         "url": "https://haywood.ces.ncsu.edu/brooding-chicks-in-the-classroom",
-        "publisher": "NC State Extension (Haywood County)",
+        "publisher": "N.C. Cooperative Extension, Haywood County Center",
         "source_confidence": "page"
       },
       {
@@ -320,77 +320,72 @@
         "source_confidence": "page"
       },
       {
-        "name": "Raising layer chicks and pullets",
-        "url": "https://extension.umn.edu/small-scale-poultry/raising-layer-chicks-and-pullets",
-        "publisher": "University of Minnesota Extension",
+        "name": "Brooding and Caring for Chicks",
+        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
+        "publisher": "University of New Hampshire Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-can-chicks-go-without-food-after-hatching",
     "topic": "chicks",
     "question": "How long can chicks go without food and water after hatching?",
-    "answer": "About 48 to 72 hours, living off the yolk they absorb just before hatching. That is why day-old chicks can be shipped, but give food and water as soon as they arrive.",
+    "answer": "Up to about 48 to 72 hours, living off the yolk they absorb just before hatching. That is why day-old chicks can be shipped. Still, get them food and water as soon as they arrive, ideally within 24 hours of hatching.",
     "numbers": {
       "hours_min": 48,
-      "hours_max": 72
+      "hours_max": 72,
+      "ideal_first_feed_hours_max": 24
     },
     "conflict": false,
     "conflict_notes": null,
     "sources": [
       {
-        "name": "How Valley Hatchery Ships Live Chicks: What To Expect",
-        "url": "https://valleyhatchery.com/how-valley-hatchery-ships-live-chicks/",
-        "publisher": "Valley Hatchery",
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       },
       {
-        "name": "When Can Baby Chicks Move from the Incubator to the Brooder?",
-        "url": "https://www.fresheggsdaily.blog/2017/07/when-can-i-move-my-chicks-to-brooder.html",
-        "publisher": "Fresh Eggs Daily (Lisa Steele)",
+        "name": "How Valley Hatchery Ships Live Chicks Safely: What to Expect",
+        "url": "https://valleyhatchery.com/how-valley-hatchery-ships-live-chicks/",
+        "publisher": "Valley Hatchery",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-do-chickens-live",
     "topic": "lifespan",
     "question": "How long do chickens live?",
-    "answer": "Most backyard hens live about 3 to 7 years, and some reach 10 or more with good care and protection from predators. High-output hybrids tend to have shorter lives than heritage breeds.",
+    "answer": "Estimates vary. Wisconsin Extension says backyard hens may live 6 to 8 years or more. Meyer Hatchery puts most at 3 to 7 years, with some reaching 10 or more with good care and protection from predators. High-output hybrids tend to have shorter lives than heritage breeds.",
     "numbers": {
       "years_min": 3,
-      "years_max": 7,
+      "years_max": 8,
       "years_upper": 10
     },
-    "conflict": false,
-    "conflict_notes": null,
+    "conflict": true,
+    "conflict_notes": "Wisconsin Extension says 6 to 8 years or more; Meyer Hatchery says most live 3 to 7 years, some 10 or more.",
     "sources": [
+      {
+        "name": "Life Cycle of a Laying Hen",
+        "url": "https://livestock.extension.wisc.edu/articles/life-cycle-of-a-laying-hen/",
+        "publisher": "University of Wisconsin-Madison Division of Extension",
+        "source_confidence": "page"
+      },
       {
         "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
         "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
         "publisher": "Meyer Hatchery",
         "source_confidence": "page"
-      },
-      {
-        "name": "Why did my chickens stop laying? (PNW 565)",
-        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
-        "publisher": "Oregon State University Extension Service",
-        "source_confidence": "page"
-      },
-      {
-        "name": "Backyard Chickens",
-        "url": "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
-        "publisher": "Cornell Cooperative Extension (Washington County)",
-        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-do-chicks-need-a-heat-lamp",
@@ -426,7 +421,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-do-hens-lay-eggs",
@@ -438,8 +433,8 @@
       "good_years_max": 3,
       "on_off_years_max": 4
     },
-    "conflict": true,
-    "conflict_notes": "Oregon State says production declines after 2 to 3 years; Poultry Extension says on and off for 3 to 4 years.",
+    "conflict": false,
+    "conflict_notes": null,
     "sources": [
       {
         "name": "Why did my chickens stop laying? (PNW 565)",
@@ -450,18 +445,18 @@
       {
         "name": "Raising Chickens for Egg Production",
         "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
-        "publisher": "Poultry Extension (Extension Foundation)",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       },
       {
-        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
-        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
-        "publisher": "Meyer Hatchery",
+        "name": "Life Cycle of a Laying Hen",
+        "url": "https://livestock.extension.wisc.edu/articles/life-cycle-of-a-laying-hen/",
+        "publisher": "University of Wisconsin-Madison Division of Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-does-a-hen-stay-broody",
@@ -491,7 +486,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-does-it-take-a-chicken-to-lay-an-egg",
@@ -507,26 +502,26 @@
     "conflict_notes": null,
     "sources": [
       {
-        "name": "How Many Eggs Can a Hen Lay in One Day?",
+        "name": "How many eggs can a hen lay in one day?",
         "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
-        "publisher": "Poultry Extension (Extension Foundation)",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       },
       {
-        "name": "Raising Chickens for Egg Production",
-        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
-        "publisher": "Poultry Extension (Extension Foundation)",
+        "name": "Avian Reproductive System: Female",
+        "url": "https://poultry.extension.org/articles/poultry-anatomy/avian-reproductive-female/",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       },
       {
-        "name": "How Long Does It Take A Hen To Lay An Egg?",
+        "name": "How Long Does It Take a Hen to Lay an Egg?",
         "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
         "publisher": "Meyer Hatchery",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-does-molting-last",
@@ -555,35 +550,34 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-long-leave-chicks-in-incubator",
     "topic": "chicks",
     "question": "How long should chicks stay in the incubator after hatching?",
-    "answer": "Usually 12 to 24 hours, until they are dry and fluffy. They do not need food or water yet, and moving them too soon can chill them.",
+    "answer": "Until they are dry and fluffy, which is usually within about 24 hours of hatching. They live on the yolk they absorbed, so they do not need food or water yet, but move them to a warm brooder with feed and water within about a day.",
     "numbers": {
-      "hours_min": 12,
       "hours_max": 24
     },
     "conflict": false,
     "conflict_notes": null,
     "sources": [
       {
-        "name": "When Can Baby Chicks Move from the Incubator to the Brooder?",
-        "url": "https://www.fresheggsdaily.blog/2017/07/when-can-i-move-my-chicks-to-brooder.html",
-        "publisher": "Fresh Eggs Daily (Lisa Steele)",
+        "name": "Brooding Chicks in the Classroom",
+        "url": "https://haywood.ces.ncsu.edu/brooding-chicks-in-the-classroom",
+        "publisher": "N.C. Cooperative Extension, Haywood County Center",
         "source_confidence": "page"
       },
       {
-        "name": "How Valley Hatchery Ships Live Chicks: What To Expect",
-        "url": "https://valleyhatchery.com/how-valley-hatchery-ships-live-chicks/",
-        "publisher": "Valley Hatchery",
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       }
     ],
-    "confidence": "low",
-    "needs_review": true
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": "how-long-until-meat-chickens-are-ready",
@@ -606,6 +600,12 @@
         "source_confidence": "page"
       },
       {
+        "name": "Nutrition for Backyard Chicken Flocks (ANR-1317)",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
+        "source_confidence": "page"
+      },
+      {
         "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
         "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
         "publisher": "Meyer Hatchery",
@@ -613,7 +613,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-many-eggs-does-a-chicken-lay-a-day",
@@ -627,38 +627,51 @@
     "conflict_notes": null,
     "sources": [
       {
-        "name": "How Many Eggs Can a Hen Lay in One Day?",
+        "name": "How many eggs can a hen lay in one day?",
         "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
-        "publisher": "Poultry Extension (Extension Foundation)",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       },
       {
-        "name": "How Long Does It Take A Hen To Lay An Egg?",
-        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
-        "publisher": "Meyer Hatchery",
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-many-eggs-does-a-chicken-lay-a-year",
     "topic": "laying",
     "question": "How many eggs does a hen lay in a year?",
-    "answer": "It depends on breed and age. A backyard hen lays roughly 180 eggs or more in her first year, and top production hybrids get close to 300. Bantams lay far fewer, about 2 to 4 small eggs a week.",
+    "answer": "It depends on breed and age. A backyard hen lays up to about 180 eggs (15 dozen) in her first year and fewer each year after, about 12 dozen in year two. Commercial White Leghorns average about 265 a year, and the best laying strains get close to 300.",
     "numbers": {
-      "first_year_min": 180,
-      "first_year_max": 300,
-      "leghorn_commercial_avg": 265
+      "first_year_max": 180,
+      "second_year_max": 144,
+      "leghorn_commercial_avg": 265,
+      "top_strains_max": 300
     },
-    "conflict": true,
-    "conflict_notes": "Cornell says up to 15 dozen (180) in year 1; Oregon State gives about 265 for commercial Leghorns; Meyer says almost 300 at peak.",
+    "conflict": false,
+    "conflict_notes": null,
     "sources": [
       {
         "name": "Backyard Chickens",
         "url": "https://washington.cce.cornell.edu/agriculture/livestock/backyard-chickens",
-        "publisher": "Cornell Cooperative Extension (Washington County)",
+        "publisher": "Cornell Cooperative Extension, Washington County",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
         "source_confidence": "page"
       },
       {
@@ -668,20 +681,14 @@
         "source_confidence": "page"
       },
       {
-        "name": "How Long Do Chickens Live? Factors That Impact Lifespan and Egg Production",
-        "url": "https://blog.meyerhatchery.com/2024/12/how-long-do-chickens-live/",
-        "publisher": "Meyer Hatchery",
-        "source_confidence": "page"
-      },
-      {
-        "name": "Standard vs Bantam Chicken Breeds",
-        "url": "https://blog.meyerhatchery.com/2026/06/standard-vs-bantam-chicken-breeds/",
-        "publisher": "Meyer Hatchery",
+        "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
+        "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-many-hours-of-light-do-hens-need",
@@ -693,15 +700,9 @@
       "hours_max": 16,
       "stops_below": 12
     },
-    "conflict": true,
-    "conflict_notes": "Most sources say 14 hours (Oregon State 14 to 16); Meyer says 12 to 14.",
+    "conflict": false,
+    "conflict_notes": null,
     "sources": [
-      {
-        "name": "How Many Eggs Can a Hen Lay in One Day?",
-        "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
-        "publisher": "Poultry Extension (Extension Foundation)",
-        "source_confidence": "page"
-      },
       {
         "name": "Why Have My Hens Stopped Laying? 5 Factors that Impact Egg Production",
         "url": "https://www.pubs.ext.vt.edu/2902/2902-1097/2902-1097.html",
@@ -709,55 +710,56 @@
         "source_confidence": "page"
       },
       {
+        "name": "How many eggs can a hen lay in one day?",
+        "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/how-many-eggs-can-a-chicken-lay-in-one-day/",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
+        "source_confidence": "page"
+      },
+      {
         "name": "Why did my chickens stop laying? (PNW 565)",
         "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
         "publisher": "Oregon State University Extension Service",
         "source_confidence": "page"
-      },
-      {
-        "name": "How Long Does It Take A Hen To Lay An Egg?",
-        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
-        "publisher": "Meyer Hatchery",
-        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-much-does-a-chicken-eat-a-day",
     "topic": "feed",
     "question": "How much feed does a chicken eat a day?",
-    "answer": "A laying hen eats about 100 to 150 g (about 1/4 lb) of feed a day. Ten hens go through a 50 lb bag in about 3 weeks.",
+    "answer": "A laying hen eats roughly 1/4 to 1/3 lb (about 110 to 150 g) of feed a day. Intake goes up in cold weather and down in hot weather. Ten hens go through a 50 lb bag in about 2 to 3 weeks.",
     "numbers": {
-      "grams_min": 100,
-      "grams_max": 150,
-      "lb": 0.25
+      "lb_min": 0.25,
+      "lb_max": 0.33,
+      "grams_min": 110,
+      "grams_max": 150
     },
     "conflict": true,
-    "conflict_notes": "My Pet Chicken's 1.5 to 1.75 lb a week (about 97 to 113 g a day) is lower than Poultry Extension's 18 to 24 lb per 10 hens a week (about 117 to 156 g).",
+    "conflict_notes": "NC State says about 1/3 lb a day while laying; the common rule of thumb, in line with Poultry Extension's point that intake follows feed energy and weather, is about 1/4 lb.",
     "sources": [
       {
-        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen",
-        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
-        "publisher": "Alabama Cooperative Extension System",
-        "source_confidence": "page"
-      },
-      {
-        "name": "What kind and how much feed should I give my flock at each stage of development?",
-        "url": "https://www.mypetchicken.com/blogs/faqs/what-kind-and-how-much-feed-should-i-give-my-flock-at-each-stage-of-development",
-        "publisher": "My Pet Chicken",
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
         "source_confidence": "page"
       },
       {
         "name": "Feeding Chickens for Egg Production in Small and Backyard Flocks",
         "url": "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feeding-chickens-for-egg-production/",
-        "publisher": "Poultry Extension (Extension Foundation)",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Backyard and Small Poultry Flock Management Series: Feeding the Laying Hen (ANR-2913)",
+        "url": "https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/",
+        "publisher": "Alabama Cooperative Extension System",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-much-scratch-to-feed",
@@ -792,7 +794,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-much-space-do-chicks-need",
@@ -823,7 +825,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "how-to-tell-if-chicks-are-cold",
@@ -847,30 +849,28 @@
         "source_confidence": "page"
       },
       {
-        "name": "Brooding Cornish Cross Broilers 101: How to raise from hatch to processing",
-        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360055407371-Brooding-Cornish-Cross-Broilers-101-How-to-raise-from-hatch-to-processing",
-        "publisher": "Meyer Hatchery",
+        "name": "Brooding of Domestic Fowl",
+        "url": "https://extension.psu.edu/brooding-of-domestic-fowl",
+        "publisher": "Penn State Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "high",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "medicated-or-unmedicated-chick-feed",
     "topic": "feed",
     "question": "Should I use medicated or non-medicated chick starter?",
-    "answer": "Medicated starter usually contains amprolium, which helps prevent coccidiosis and is not an antibiotic. Do not use it for chicks vaccinated against coccidiosis or for ducklings and goslings.",
-    "numbers": {
-      "vaccinated_skip_days": 28
-    },
+    "answer": "Medicated chick starter contains a coccidiostat, usually amprolium, that helps prevent coccidiosis. Chicks vaccinated against coccidiosis at the hatchery can go on non-medicated feed. Do not give medicated feed to ducklings or goslings.",
+    "numbers": {},
     "conflict": false,
     "conflict_notes": null,
     "sources": [
       {
-        "name": "Medicated Chick Starter Facts",
-        "url": "https://nutrenaworld.com/medicated-chick-starter-facts/",
-        "publisher": "Nutrena (Cargill)",
+        "name": "Nutrition for Backyard Chicken Flocks (ANR-1317)",
+        "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
+        "publisher": "Alabama Cooperative Extension System",
         "source_confidence": "page"
       },
       {
@@ -880,14 +880,14 @@
         "source_confidence": "page"
       },
       {
-        "name": "Coccidiosis in Chickens: Symptoms, Prevention and Treatment",
-        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
-        "publisher": "Meyer Hatchery",
+        "name": "Raising chickens for meat",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+        "publisher": "University of Minnesota Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "signs-a-hen-will-lay-soon",
@@ -907,14 +907,20 @@
         "source_confidence": "page"
       },
       {
-        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
-        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
-        "publisher": "Valley Hatchery",
+        "name": "Raising Chickens for Egg Production",
+        "url": "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+        "publisher": "Poultry Extension (Extension Foundation), University of Kentucky author",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "what-is-pasty-butt",
@@ -926,15 +932,15 @@
     "conflict_notes": null,
     "sources": [
       {
-        "name": "How To Treat Pasty Bottom For New Chicks",
+        "name": "How to Treat Pasty Bottom in Newly Hatched Chicks",
         "url": "https://blog.meyerhatchery.com/2018/02/how-to-treat-pasty-bottom-in-newly-hatched-chicks/",
         "publisher": "Meyer Hatchery",
         "source_confidence": "page"
       },
       {
-        "name": "Pasty vent",
-        "url": "https://poultrydvm.com/condition/pasty-vent",
-        "publisher": "PoultryDVM",
+        "name": "Pasty Butt: Sick Baby Chick Symptoms and Care",
+        "url": "https://www.purinamills.com/chicken-feed/education/detail/pasty-butt-sick-baby-chick-symptoms-and-care",
+        "publisher": "Purina Animal Nutrition",
         "source_confidence": "page"
       }
     ],
@@ -954,51 +960,51 @@
     "conflict_notes": null,
     "sources": [
       {
-        "name": "Signs That a Pullet Will Begin Laying Soon",
-        "url": "https://blog.meyerhatchery.com/2020/06/signs-that-a-pullet-will-begin-laying-soon/",
-        "publisher": "Meyer Hatchery",
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
         "source_confidence": "page"
       },
       {
-        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
-        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
-        "publisher": "Valley Hatchery",
+        "name": "Why did my chickens stop laying? (PNW 565)",
+        "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+        "publisher": "Oregon State University Extension Service",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "what-is-splay-leg",
     "topic": "chick-health",
     "question": "What is splay leg in chicks?",
-    "answer": "The chick's legs slide out to the sides so it cannot stand, usually from a slippery floor such as newspaper. Caught early, a soft hobble for a day or two plus a grippy floor usually fixes it.",
+    "answer": "The chick's legs slide out to the sides so it cannot stand, often from a slippery floor such as newspaper or from temperature swings in the incubator. Caught early, a soft hobble that holds the legs in place, checked and reset daily for a few days, plus a grippy floor usually fixes it.",
     "numbers": {},
     "conflict": false,
     "conflict_notes": null,
     "sources": [
       {
+        "name": "Splay Leg",
+        "url": "https://poultrydvm.com/condition/splayed-leg",
+        "publisher": "PoultryDVM",
+        "source_confidence": "page"
+      },
+      {
         "name": "Spraddle Leg: Causes and Treatment",
         "url": "https://blog.meyerhatchery.com/2019/09/spraddle-leg-causes-and-treatment/",
         "publisher": "Meyer Hatchery",
         "source_confidence": "page"
-      },
-      {
-        "name": "Splay leg in Chickens: Signs, Treatment and Prevention",
-        "url": "https://poultrydvm.com/condition/splayed-leg",
-        "publisher": "PoultryDVM",
-        "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "what-protein-should-chick-starter-have",
     "topic": "feed",
     "question": "How much protein should chick starter have?",
-    "answer": "About 18 to 22% protein. Look for a feed labelled chick starter or starter/grower.",
+    "answer": "About 18 to 22% protein. Look for a feed labeled chick starter or starter/grower.",
     "numbers": {
       "percent_min": 18,
       "percent_max": 22
@@ -1032,7 +1038,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "what-temperature-for-chicks-first-week",
@@ -1075,26 +1081,20 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-can-chicks-go-outside",
     "topic": "chicks",
     "question": "When can chicks go outside?",
-    "answer": "Layer chicks can usually move outside once they are fully feathered, around 6 weeks, and when night temperatures are close to the brooder temperature. Fast-growing Cornish Cross are often ready at about 3 weeks, weather allowing.",
+    "answer": "Once they are well feathered and the weather is mild. Layer chicks are usually ready at about 6 weeks, and fast-growing Cornish Cross at about 4 weeks. Younger birds can go out on warm days if they are safe from predators and can get back to heat.",
     "numbers": {
       "layer_weeks": 6,
-      "broiler_weeks": 3
+      "broiler_weeks": 4
     },
-    "conflict": true,
-    "conflict_notes": "Alabama Extension says birds may go on pasture at any age if the weather is good and they are protected from predators.",
+    "conflict": false,
+    "conflict_notes": null,
     "sources": [
-      {
-        "name": "Brooding and Caring for Chicks",
-        "url": "https://extension.unh.edu/resource/brooding-and-caring-chicks",
-        "publisher": "University of New Hampshire Extension",
-        "source_confidence": "page"
-      },
       {
         "name": "Space Should Increase as Birds Grow",
         "url": "https://extension.psu.edu/space-should-increase-as-birds-grow",
@@ -1102,26 +1102,32 @@
         "source_confidence": "page"
       },
       {
-        "name": "Brooding Cornish Cross Broilers 101: How to raise from hatch to processing",
-        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360055407371-Brooding-Cornish-Cross-Broilers-101-How-to-raise-from-hatch-to-processing",
-        "publisher": "Meyer Hatchery",
+        "name": "Raising chickens for meat",
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+        "publisher": "University of Minnesota Extension",
         "source_confidence": "page"
       },
       {
-        "name": "Nutrition for Backyard Chicken Flocks",
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
+        "source_confidence": "page"
+      },
+      {
+        "name": "Nutrition for Backyard Chicken Flocks (ANR-1317)",
         "url": "https://www.aces.edu/blog/topics/farming/nutrition-for-backyard-chicken-flocks/",
         "publisher": "Alabama Cooperative Extension System",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-can-you-tell-a-chicks-sex",
     "topic": "sexing",
     "question": "At what age can you tell if a chick is male or female?",
-    "answer": "Hatcheries can vent sex chicks at hatch, and some breeds and sex-links can be told apart by feathers or down colour. For most breeds, a backyard keeper can see the difference at about 4 to 6 weeks, when cockerels' combs and wattles grow bigger and redder.",
+    "answer": "Hatcheries can vent sex chicks at hatch, and some breeds and sex-links can be told apart by feathers or down color. For most breeds, a backyard keeper can see the difference at about 4 to 6 weeks, when cockerels' combs and wattles grow bigger and redder.",
     "numbers": {
       "backyard_weeks_min": 4,
       "backyard_weeks_max": 6
@@ -1143,7 +1149,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-do-chickens-molt",
@@ -1170,22 +1176,28 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-do-chickens-start-laying",
     "topic": "laying",
     "question": "When do chickens start laying eggs?",
-    "answer": "Most pullets lay their first egg between about 18 and 24 weeks. Production breeds can start at 16 weeks, while heavy breeds and bantams can take 6 months or more.",
+    "answer": "Most pullets lay their first egg between about 16 and 24 weeks, often around 18 to 22 weeks. Breed matters, and pullets that reach laying age as days shorten may wait until spring.",
     "numbers": {
       "weeks_typical_min": 18,
-      "weeks_typical_max": 24,
-      "weeks_earliest": 16,
-      "weeks_latest": 32
+      "weeks_typical_max": 22,
+      "weeks_range_min": 16,
+      "weeks_range_max": 24
     },
-    "conflict": true,
-    "conflict_notes": "Oregon State says 18 to 20 weeks; Valley Hatchery 18 to 24; Meyer 16 to 24, occasionally 28 to 32.",
+    "conflict": false,
+    "conflict_notes": null,
     "sources": [
+      {
+        "name": "Keeping Garden Chickens in North Carolina",
+        "url": "https://content.ces.ncsu.edu/keeping-garden-chickens-in-north-carolina",
+        "publisher": "NC State Extension",
+        "source_confidence": "page"
+      },
       {
         "name": "Why did my chickens stop laying? (PNW 565)",
         "url": "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
@@ -1193,40 +1205,29 @@
         "source_confidence": "page"
       },
       {
-        "name": "Point of Lay: When Your Spring Chicks Start Laying, and How to Tell",
-        "url": "https://valleyhatchery.com/when-do-chickens-start-laying-point-of-lay/",
-        "publisher": "Valley Hatchery",
-        "source_confidence": "page"
-      },
-      {
-        "name": "How Long Does It Take A Hen To Lay An Egg?",
-        "url": "https://blog.meyerhatchery.com/2020/11/how-long-does-it-take-a-hen-to-lay-an-egg/",
-        "publisher": "Meyer Hatchery",
+        "name": "Life Cycle of a Laying Hen",
+        "url": "https://livestock.extension.wisc.edu/articles/life-cycle-of-a-laying-hen/",
+        "publisher": "University of Wisconsin-Madison Division of Extension",
         "source_confidence": "page"
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-do-chicks-get-coccidiosis",
     "topic": "chick-health",
     "question": "At what age do chicks get coccidiosis?",
-    "answer": "Signs usually show from about 2 to 3 weeks old, since chicks must first eat the parasite from droppings. It is mostly a disease of young birds up to about 4 months, and wet, dirty litter makes it worse.",
+    "answer": "It is mostly a disease of young birds, usually between about 1 and 4 months old. Chicks under a week old do not get it, because the parasite takes 4 to 7 days after being swallowed to cause disease. Wet, dirty litter and crowding make it worse. If you suspect it, see a vet.",
     "numbers": {
-      "first_signs_weeks_min": 2,
-      "first_signs_weeks_max": 3,
-      "common_until_months": 4
+      "common_months_min": 1,
+      "common_months_max": 4,
+      "prepatent_days_min": 4,
+      "prepatent_days_max": 7
     },
     "conflict": false,
     "conflict_notes": null,
     "sources": [
-      {
-        "name": "Coccidiosis in Chickens: Symptoms, Prevention and Treatment",
-        "url": "https://meyerhatchery.zendesk.com/hc/en-us/articles/360022233391-Coccidiosis-in-Chickens-Symptoms-Prevention-and-Treatment",
-        "publisher": "Meyer Hatchery",
-        "source_confidence": "page"
-      },
       {
         "name": "Coccidiosis",
         "url": "https://poultrydvm.com/condition/coccidiosis",
@@ -1241,7 +1242,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-do-roosters-start-crowing",
@@ -1305,7 +1306,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "when-to-switch-to-layer-feed",
@@ -1339,7 +1340,7 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   },
   {
     "id": "why-did-my-chickens-stop-laying",
@@ -1364,6 +1365,6 @@
       }
     ],
     "confidence": "medium",
-    "needs_review": true
+    "needs_review": false
   }
 ]

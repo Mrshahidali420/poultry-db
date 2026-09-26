@@ -1,0 +1,167 @@
+[
+  {
+    "record_id": "anatomy",
+    "status": "approved",
+    "changes": "Parts checked against Illinois Extension egg structure page (air cell forms on cooling, colorless vitelline membrane, chalazae hold the yolk centered, two shell membranes, thousands of pores) and the Poultry Club's egg page (calcite shell). Domain roots replaced. US spelling applied (center, color).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.illinois.edu/eggs-structure",
+      "https://www.poultryclub.org/resources/schools/extraordinary-eggs/",
+      "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table"
+    ]
+  },
+  {
+    "record_id": "colour-blue",
+    "status": "approved",
+    "changes": "Confirmed by MSU Extension (blue pigment runs through the whole shell) and the Poultry Club (blue layers such as the Araucana are the only ones with pigment all the way through). Domain roots replaced. US spelling applied.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+      "https://www.poultryclub.org/resources/schools/extraordinary-eggs/",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/"
+    ]
+  },
+  {
+    "record_id": "colour-brown",
+    "status": "approved",
+    "changes": "Confirmed by MSU Extension (protoporphyrin added late, inside stays white), Poultry Extension (breed decides shell color, taste is the same) and UF IFAS VM047 (pigment goes on with the cuticle in the last hours). Domain roots replaced. US spelling applied.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/",
+      "https://ask.ifas.ufl.edu/publication/VM047"
+    ]
+  },
+  {
+    "record_id": "colour-cream-tinted",
+    "status": "needs-human",
+    "changes": "Tinted eggs as a light brown layer on white confirmed by Hendrix Genetics and Purina, but both are companies and neither names the listed breeds (Sussex, Faverolles, Silkie, Cochin). Needs an extension or breed-club page for the breed list.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://layinghens.hendrix-genetics.com/en/articles/eggshell-color-eggsplained/",
+      "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs"
+    ]
+  },
+  {
+    "record_id": "colour-dark-brown",
+    "status": "fixed",
+    "changes": "Marans and Welsummer confirmed by the Poultry Club, Marans by Hendrix. Barnevelder and Penedesenca removed (no source found). Fading rule corrected to UF IFAS VM047: shells get paler as the hen ages and under stress, not simply across a season.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.poultryclub.org/resources/schools/extraordinary-eggs/",
+      "https://ask.ifas.ufl.edu/publication/VM047",
+      "https://layinghens.hendrix-genetics.com/en/articles/eggshell-color-eggsplained/"
+    ]
+  },
+  {
+    "record_id": "colour-green",
+    "status": "fixed",
+    "changes": "Brown layer over a blue shell confirmed by MSU Extension; Ameraucana-line birds laying light green by Poultry Extension; Easter Eggers by Purina. Favaucana and Isbar removed from the breed list (no source found).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/",
+      "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs"
+    ]
+  },
+  {
+    "record_id": "colour-olive",
+    "status": "approved",
+    "changes": "Confirmed by MSU Extension (Olive Egger is a brown-egg by blue-egg cross; darker brown gives a more olive egg) and the Poultry Club (Araucana crossed with Marans or Welsummer). Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+      "https://www.poultryclub.org/resources/schools/extraordinary-eggs/"
+    ]
+  },
+  {
+    "record_id": "colour-pink",
+    "status": "needs-human",
+    "changes": "Only partial support: Purina says the bloom carries pigment and shade varies day to day; Poultry Extension says Ameraucana hens can lay light pink eggs. No reliable page ties pink eggs to the named breeds. Keep low confidence until a breed-club or extension page is found.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs",
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/"
+    ]
+  },
+  {
+    "record_id": "colour-white",
+    "status": "approved",
+    "changes": "Confirmed by Poultry Extension (white-earlobed birds lay white eggs), MSU Extension (Leghorns lay white) and Purina (earlobe rule has exceptions). Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/",
+      "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+      "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs"
+    ]
+  },
+  {
+    "record_id": "float-test",
+    "status": "fixed",
+    "changes": "Sources replaced with Nebraska Extension (citing USDA FSIS) and the UK Food Standards Agency fact checker. Floating-egg advice corrected: a floating egg is old but may be safe; crack it into a bowl and discard it if it smells or looks wrong. It was 'most guidance says throw it away'.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.unl.edu/statewide/lincolnmcpherson/egg-floats-still-fresh/",
+      "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker"
+    ]
+  },
+  {
+    "record_id": "laying-age",
+    "status": "fixed",
+    "changes": "Sources replaced with OSU PNW 565 (lay from 18 to 20 weeks; good production to 2 to 3 years), Poultry Extension (about 14 hours of light keeps hens laying) and Merck (natural molt lasts about 3 to 4 months). Molt pause corrected from 'several weeks' to weeks to a few months; light threshold set at about 14 hours.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://extension.oregonstate.edu/catalog/pnw-565-why-did-my-chickens-stop-laying",
+      "https://poultry.extension.org/articles/poultry-management/raising-chickens-for-egg-production/",
+      "https://www.merckvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/laying-and-reproduction-in-backyard-poultry"
+    ]
+  },
+  {
+    "record_id": "size-uk",
+    "status": "approved",
+    "changes": "Weight bands confirmed by egginfo.co.uk and Regulation 589/2008 Article 4 as kept in UK law (XL 73 g and over, L 63 to under 73, M 53 to under 63, S under 53). GOV.UK confirms Class A for retail and catering.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.egginfo.co.uk/egg-facts-and-figures/industry-information/egg-sizes",
+      "https://www.legislation.gov.uk/eur/2008/589/article/4",
+      "https://www.gov.uk/guidance/egg-marketing-standards"
+    ]
+  },
+  {
+    "record_id": "size-us",
+    "status": "approved",
+    "changes": "Weight classes confirmed (Jumbo 30, Extra Large 27, Large 24, Medium 21, Small 18, Peewee 15 oz per dozen) by the USDA AMS shell egg standard and Illinois Extension; grades AA, A and B by the AMS grades page. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.ams.usda.gov/sites/default/files/media/Shell_Egg_Standard%5B1%5D.pdf",
+      "https://extension.illinois.edu/sites/default/files/egg_size_and_grading_handout.pdf",
+      "https://www.ams.usda.gov/grades-standards/shell-egg-grades-and-standards"
+    ]
+  },
+  {
+    "record_id": "washed-vs-unwashed",
+    "status": "fixed",
+    "changes": "Sources replaced with USDA FSIS Shell Eggs from Farm to Table, Regulation 589/2008 Article 2 (Class A eggs must not be washed), the FSA salmonella fact check (British Lion flocks vaccinated; store ideally in the fridge; do not wash) and Penn State egg handling. Washing advice made specific: water at least 20 F warmer than the egg; collect eggs at least daily, twice in extreme weather.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/shell-eggs-farm-table",
+      "https://www.legislation.gov.uk/eur/2008/589/article/2",
+      "https://food.blog.gov.uk/2026/08/21/food-fact-check-can-you-get-salmonella-from-eggs-what-you-need-to-know/",
+      "https://extension.psu.edu/proper-handling-of-eggs-from-hen-to-consumption"
+    ]
+  }
+]

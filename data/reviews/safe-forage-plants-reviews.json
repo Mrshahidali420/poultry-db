@@ -1,0 +1,492 @@
+[
+  {
+    "record_id": "alfalfa",
+    "status": "fixed",
+    "changes": "Added the fiber and saponin cautions (Extension saponins page, Cornell lists saponins and chickens); yolk pigment wording made specific; domain roots replaced with five page-level sources.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feed-ingredients-for-poultry/alfalfa-in-poultry-diets/",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/anti-nutritional-factors-in-poultry-feed/saponins/",
+      "https://www.feedipedia.org/node/275",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=56",
+      "https://extension.umd.edu/resource/common-crop-issues-backyard-chickens-ebr-60"
+    ]
+  },
+  {
+    "record_id": "amaranth",
+    "status": "fixed",
+    "changes": "Seed heads removed from edible parts: Feedipedia reports raw amaranth grain depressed broiler growth and caused convulsions and deaths in chickens. Nitrate risk confirmed by Merck and Cornell. British spelling fixed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/573",
+      "https://www.feedipedia.org/node/187",
+      "https://www.merckvetmanual.com/toxicology/nitrate-and-nitrite-poisoning/nitrate-and-nitrite-poisoning-in-animals",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=12",
+      "https://plants.ces.ncsu.edu/plants/amaranthus-retroflexus/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11316716/"
+    ]
+  },
+  {
+    "record_id": "basil",
+    "status": "approved",
+    "changes": "Safety confirmed by two hen feeding trials (British Poultry Science 2012, Foods 2021); benefit made specific; domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://doi.org/10.1080/00071668.2012.681770",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066449/",
+      "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/"
+    ]
+  },
+  {
+    "record_id": "blackberry-bramble",
+    "status": "approved",
+    "changes": "Edible fruit and prickles confirmed (NC State, genus Rubus); WSU Extension recommends thorny shrubs as cover from predators; Rubus is among plants used for poultry in the British Columbia study. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/rubus-allegheniensis/",
+      "https://s3.wp.wsu.edu/uploads/sites/2080/2021/02/Planting-a-Chicken-Friendly-Garden.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3143080/"
+    ]
+  },
+  {
+    "record_id": "borage",
+    "status": "fixed",
+    "changes": "Pyrrolizidine alkaloid caution confirmed (NC State) and extended: Merck reports these alkaloids have caused disease in poultry. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/borago-officinalis/",
+      "https://www.merckvetmanual.com/toxicology/pyrrolizidine-alkaloidosis/pyrrolizidine-alkaloidosis-in-animals",
+      "https://doi.org/10.1080/10888705.2021.2021653"
+    ]
+  },
+  {
+    "record_id": "calendula",
+    "status": "fixed",
+    "changes": "Removed the unsupported claim that Tagetes marigolds are less palatable (Tagetes petals are a yolk pigment and colored yolks more strongly in the Foods 2021 trial); added the broiler growth note; British spelling fixed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066449/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6739258/",
+      "https://plants.ces.ncsu.edu/plants/calendula-officinalis/"
+    ]
+  },
+  {
+    "record_id": "chickweed",
+    "status": "approved",
+    "changes": "Safe status confirmed (NC State: edible, saponins poorly absorbed; Weed Technology review of chickweed as chicken feed). The scarlet pimpernel toxicity claim had no source and was softened to an identification note.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/stellaria-media/",
+      "https://www.cambridge.org/core/journals/weed-technology/article/abs/common-chickweed-stellaria-media-l-villmere-chicken-feed/29EFBFC5A48F159FC3ECA6B8C9AEB518",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "record_id": "chicory",
+    "status": "approved",
+    "changes": "Confirmed by a hen trial with chicory plots and a Poultry Science pasture review; drought note checked against NC State. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8228090/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+      "https://plants.ces.ncsu.edu/plants/cichorium-intybus/"
+    ]
+  },
+  {
+    "record_id": "cilantro",
+    "status": "approved",
+    "changes": "Leaves and seeds confirmed edible (NC State); coriander fed in two broiler trials. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7419069/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10906120/",
+      "https://plants.ces.ncsu.edu/plants/coriandrum-sativum/"
+    ]
+  },
+  {
+    "record_id": "cleavers",
+    "status": "approved",
+    "changes": "Traditional feeding to poultry confirmed by the British Columbia ethnoveterinary study; edible weed per NC State. Geese claim narrowed to poultry. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3143080/",
+      "https://plants.ces.ncsu.edu/plants/galium-aparine/"
+    ]
+  },
+  {
+    "record_id": "dandelion",
+    "status": "fixed",
+    "changes": "Vitamin A and K claim removed because no checked source gave it; yolk color claim tied to the Foods 2021 hen trial; British spelling fixed. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8066449/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10540353/",
+      "https://plants.ces.ncsu.edu/plants/taraxacum-officinale/"
+    ]
+  },
+  {
+    "record_id": "dead-nettle",
+    "status": "needs-human",
+    "changes": "Only NC State (edible young tops) supports this. No poultry-specific source found for purple dead-nettle. Needs a second publisher before publishing.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/lamium-purpureum/"
+    ]
+  },
+  {
+    "record_id": "dill",
+    "status": "approved",
+    "changes": "Dill seed fed in a broiler trial; poison hemlock lookalike caution confirmed by NC State and Cornell. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://doi.org/10.1111/jpn.13052",
+      "https://plants.ces.ncsu.edu/plants/anethum-graveolens/",
+      "https://plants.ces.ncsu.edu/plants/conium-maculatum/",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=28"
+    ]
+  },
+  {
+    "record_id": "duckweed",
+    "status": "fixed",
+    "changes": "Added Feedipedia's limit on feeding levels; pigment benefit added; tub claim reworded. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/15306",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9817926/",
+      "https://plants.ces.ncsu.edu/plants/lemna-minor/"
+    ]
+  },
+  {
+    "record_id": "fennel",
+    "status": "approved",
+    "changes": "Fennel seed fed in two broiler trials; edible parts per NC State; poison hemlock caution confirmed. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7070762/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7847707/",
+      "https://plants.ces.ncsu.edu/plants/foeniculum-vulgare/",
+      "https://plants.ces.ncsu.edu/plants/conium-maculatum/",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=28"
+    ]
+  },
+  {
+    "record_id": "grass-short",
+    "status": "approved",
+    "changes": "Yolk color benefit confirmed by the Poultry Science pasture review; crop impaction from grass confirmed by University of Maryland Extension. British spelling fixed. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+      "https://extension.umd.edu/resource/common-crop-issues-backyard-chickens-ebr-60",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/feed-ingredients-for-poultry/forage-and-poultry/",
+      "https://sam.extension.colostate.edu/wp-content/uploads/sites/2/2017/01/backyard-chickens.pdf"
+    ]
+  },
+  {
+    "record_id": "henbit",
+    "status": "needs-human",
+    "changes": "Only NC State supports this (name from chickens liking it). No second publisher found. Needs a second source before publishing.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/lamium-amplexicaule/"
+    ]
+  },
+  {
+    "record_id": "kale",
+    "status": "fixed",
+    "changes": "Unsourced vitamin and calcium claim replaced with the British Poultry Science 2012 kale result; glucosinolate caution tied to Cornell (poultry affected, seeds and roots). Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://doi.org/10.1080/00071668.2012.681770",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=20",
+      "https://plants.ces.ncsu.edu/plants/brassica-oleracea/"
+    ]
+  },
+  {
+    "record_id": "lambs-quarters",
+    "status": "fixed",
+    "changes": "NC State confirms young plants are used to feed chickens and lists saponins and oxalic acid; nitrate risk confirmed by Cornell and Merck. Added the young-plant advice; British spelling fixed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/chenopodium-album/",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=25",
+      "https://www.merckvetmanual.com/toxicology/nitrate-and-nitrite-poisoning/nitrate-and-nitrite-poisoning-in-animals"
+    ]
+  },
+  {
+    "record_id": "lemon-balm",
+    "status": "fixed",
+    "changes": "Nest box claim had no source and was replaced with the checked bedding and feeding trials. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7477259/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877630/",
+      "https://plants.ces.ncsu.edu/plants/melissa-officinalis/"
+    ]
+  },
+  {
+    "record_id": "mallow",
+    "status": "fixed",
+    "changes": "Seeds removed from edible parts: mallow seeds carry cyclopropenoid fatty acids that cause pink whites in stored eggs (Poultry Science; Extension page on these fatty acids). Nitrate claim had no source and was dropped.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11461295/",
+      "https://www.sciencedirect.com/science/article/pii/S0032579119482059",
+      "https://poultry.extension.org/articles/feeds-and-feeding-of-poultry/anti-nutritional-factors-in-poultry-feed/cyclopropenoid-fatty-acids/",
+      "https://plants.ces.ncsu.edu/plants/malva-neglecta/"
+    ]
+  },
+  {
+    "record_id": "mint",
+    "status": "approved",
+    "changes": "Safety confirmed by two broiler trials with mint powder; coop-hanging claim dropped (no source). Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12874420/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871272/",
+      "https://plants.ces.ncsu.edu/plants/mentha-spicata/"
+    ]
+  },
+  {
+    "record_id": "mulberry-leaves",
+    "status": "fixed",
+    "changes": "Sap and unripe fruit caution confirmed by NC State; added Feedipedia's note that the leaves are fibrous. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/123",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798068/",
+      "https://plants.ces.ncsu.edu/plants/morus-alba/",
+      "https://s3.wp.wsu.edu/uploads/sites/2080/2021/02/Planting-a-Chicken-Friendly-Garden.pdf"
+    ]
+  },
+  {
+    "record_id": "mustard-greens",
+    "status": "fixed",
+    "changes": "Seeds removed from edible parts: Cornell lists seeds and roots as the poisonous parts of Brassica, with poultry among affected species. Cover crop claim had no source and was dropped.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=20",
+      "https://plants.ces.ncsu.edu/plants/brassica-juncea/"
+    ]
+  },
+  {
+    "record_id": "nasturtium",
+    "status": "needs-human",
+    "changes": "Only NC State (edible, mustard oils, flagged as a problem plant for cats, dogs and horses) was found. No poultry source. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/tropaeolum-majus/"
+    ]
+  },
+  {
+    "record_id": "oregano",
+    "status": "approved",
+    "changes": "Safety confirmed by a dried-leaf feeding trial in turkeys and a broiler bedding trial. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://doi.org/10.1080/00071660500256057",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877630/",
+      "https://plants.ces.ncsu.edu/plants/origanum-vulgare/"
+    ]
+  },
+  {
+    "record_id": "parsley",
+    "status": "needs-human",
+    "changes": "Added the seed and furanocoumarin cautions from NC State and the hemlock lookalike note. Only one publisher found and no poultry feeding source. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/petroselinum-crispum/",
+      "https://plants.ces.ncsu.edu/plants/conium-maculatum/"
+    ]
+  },
+  {
+    "record_id": "plantain-broadleaf",
+    "status": "needs-human",
+    "changes": "Nutrition checked against NC State. The poultry sources found cover ribwort plantain, not broadleaf plantain. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/plantago-major/"
+    ]
+  },
+  {
+    "record_id": "plantain-ribwort",
+    "status": "approved",
+    "changes": "Use in laying hen pastures confirmed by the Poultry Science pasture review; Feedipedia forage page. British spelling fixed. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/114",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+      "https://plants.ces.ncsu.edu/plants/plantago-lanceolata/"
+    ]
+  },
+  {
+    "record_id": "purslane",
+    "status": "fixed",
+    "changes": "Oxalate level corrected from 'some' to high (671 to 869 mg per 100 g fresh leaf; NC State flags oxalates for livestock). Broiler feeding trial added. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3934766/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7902751/",
+      "https://plants.ces.ncsu.edu/plants/portulaca-oleracea/"
+    ]
+  },
+  {
+    "record_id": "red-clover",
+    "status": "fixed",
+    "changes": "Corrected the bleeding claim: moldy hay bleeding disease is caused by sweet clover (Merck), while the red clover mold risk is slaframine (Merck). Use in hen pastures confirmed. British spelling fixed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.merckvetmanual.com/toxicology/mycotoxicoses/slaframine-toxicosis-in-animals",
+      "https://www.merckvetmanual.com/toxicology/moldy-sweet-clover-poisoning/moldy-sweet-clover-poisoning-in-animals",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=88",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13315091/",
+      "https://doi.org/10.1080/00071668.2021.1929069"
+    ]
+  },
+  {
+    "record_id": "shepherds-purse",
+    "status": "needs-human",
+    "changes": "Only NC State (edible leaves and seeds) was found. No poultry source. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/capsella-bursa-pastoris/"
+    ]
+  },
+  {
+    "record_id": "sow-thistle",
+    "status": "needs-human",
+    "changes": "A Sonchus review reports sow thistle powder fed to chickens without problems, but the page could not be opened in full (seen in search only), and NC State covers a related species. Needs checking by a person.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.tandfonline.com/doi/full/10.1080/10942912.2017.1415931",
+      "https://plants.ces.ncsu.edu/plants/sonchus-asper/"
+    ]
+  },
+  {
+    "record_id": "stinging-nettle",
+    "status": "approved",
+    "changes": "Broiler feeding trial confirms dried nettle is used; sting and wilting advice confirmed by NC State and Cornell. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8959287/",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=90",
+      "https://plants.ces.ncsu.edu/plants/urtica-dioica/"
+    ]
+  },
+  {
+    "record_id": "sunflower",
+    "status": "fixed",
+    "changes": "Added the oil and nitrate cautions (Feedipedia, Merck lists sunflower as a nitrate accumulator). Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/40",
+      "https://www.merckvetmanual.com/toxicology/nitrate-and-nitrite-poisoning/nitrate-and-nitrite-poisoning-in-animals",
+      "https://plants.ces.ncsu.edu/plants/helianthus-annuus/"
+    ]
+  },
+  {
+    "record_id": "swiss-chard",
+    "status": "needs-human",
+    "changes": "Oxalate caution is sound but only one publisher was found (Beta vulgaris is a known oxalate plant). No poultry source found for chard itself. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://doi.org/10.1111/j.1439-0396.2012.01309.x"
+    ]
+  },
+  {
+    "record_id": "thyme",
+    "status": "approved",
+    "changes": "Thyme fed as forage to laying hens (British Poultry Science 2012) and in broiler trials. Domain roots replaced.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://doi.org/10.1080/00071668.2012.681770",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122464/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8877630/",
+      "https://plants.ces.ncsu.edu/plants/thymus-vulgaris/"
+    ]
+  },
+  {
+    "record_id": "violet",
+    "status": "needs-human",
+    "changes": "Only NC State was found (edible leaves and flowers; African violet is a different plant). No poultry source. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/viola-sororia/",
+      "https://plants.ces.ncsu.edu/plants/saintpaulia-ionantha/"
+    ]
+  },
+  {
+    "record_id": "white-clover",
+    "status": "fixed",
+    "changes": "Corrected 'survives scratching': Feedipedia reports white clover degrades fast under chicken grazing. Added hen preference data. British spelling fixed.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://www.feedipedia.org/node/245",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8228090/",
+      "https://ask.extension.org/kb/faq.php?id=902288",
+      "https://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=common&keynum=88"
+    ]
+  },
+  {
+    "record_id": "wild-strawberry",
+    "status": "needs-human",
+    "changes": "Only NC State was found, and for a related wild strawberry. No poultry source for Fragaria vesca. Needs a second publisher.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://plants.ces.ncsu.edu/plants/fragaria-virginiana/",
+      "https://plants.ces.ncsu.edu/plants/potentilla-indica/"
+    ]
+  },
+  {
+    "record_id": "yarrow",
+    "status": "fixed",
+    "changes": "Ask Extension recommends yarrow as a chicken-friendly plant; livestock toxicity claim made specific with ASPCA. Nest box claim had no source and was dropped.",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://ask.extension.org/kb/faq.php?id=902288",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow",
+      "https://plants.ces.ncsu.edu/plants/achillea-millefolium/",
+      "https://ijasr.um.ac.ir/article_41532.html?lang=en"
+    ]
+  }
+]
