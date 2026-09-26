@@ -37,13 +37,22 @@
   },
   {
     "record_id": "colour-cream-tinted",
-    "status": "needs-human",
-    "changes": "Tinted eggs as a light brown layer on white confirmed by Hendrix Genetics and Purina, but both are companies and neither names the listed breeds (Sussex, Faverolles, Silkie, Cochin). Needs an extension or breed-club page for the breed list.",
+    "status": "fixed",
+    "changes": "Breed list now rests on two independent publishers per breed. Faverolles: The Livestock Conservancy gives egg color tinted to light brown and Oklahoma State Breeds of Livestock gives light brown. Sussex: Omlet gives cream to light brown and The Livestock Conservancy gives tan to brown. Silkie and Cochin removed: no source found for Silkie, and The Livestock Conservancy lists Cochin eggs as brown. The pigment-on-the-surface explanation is confirmed by MSU Extension (protoporphyrin only tints the surface) and Hendrix Genetics (tinted eggs sit between white and brown). Confidence raised to high.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
       "https://layinghens.hendrix-genetics.com/en/articles/eggshell-color-eggsplained/",
-      "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs"
+      "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/faverolles-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/faverolles-chickens.html",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/sussex-chicken/",
+      "https://www.omlet.us/breeds/chickens/sussex/",
+      "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/sussex/",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/faverolles/",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/cochin-chicken/",
+      "https://www.omlet.us/breeds/chickens/silkie/"
     ]
   },
   {
@@ -83,13 +92,18 @@
   },
   {
     "record_id": "colour-pink",
-    "status": "needs-human",
-    "changes": "Only partial support: Purina says the bloom carries pigment and shade varies day to day; Poultry Extension says Ameraucana hens can lay light pink eggs. No reliable page ties pink eggs to the named breeds. Keep low confidence until a breed-club or extension page is found.",
+    "status": "fixed",
+    "changes": "Rewritten to what two or more publishers support. Pinkish eggs from Easter Eggers: Omlet (blue, green, brown or even pink) and Purina (sometimes even pink). Ameraucana light pink eggs: Poultry Extension. Faverolles: The Livestock Conservancy says light brown to pink tints are not unknown. Light Sussex, Mottled Java and Barred Rocks removed: no page ties them to pink eggs (Livestock Conservancy lists Java eggs as tinted to dark brown and Plymouth Rock eggs as brown; Omlet lists Sussex eggs as cream to light brown). The bloom explanation was dropped because only Purina gives it; the record now says the pink is a very light shade of shell pigment that varies from hen to hen. Confidence raised from low to medium.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
       "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs",
-      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/"
+      "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/",
+      "https://www.omlet.us/breeds/chickens/easter_egger/",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/faverolles-chicken/",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/java-chicken/",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/plymouth-rock-chicken/",
+      "https://www.omlet.us/breeds/chickens/sussex/"
     ]
   },
   {

@@ -1170,43 +1170,43 @@
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "Broilers Australia June 2018.jpg",
     "role": "main"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "\" Fot Andrew Skowron (49797923396).jpg",
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "\" fot. Andrew Skowron (40558129703).jpg",
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "\" fot. Andrew Skowron (46608750885).jpg",
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "\" fot. Konrad Łoziński (46608817655).jpg",
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "\" fot. Konrad Łoziński (46608834665).jpg",
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "\" fot. Konrad Łoziński (47471593842).jpg",
     "role": "gallery"
@@ -2197,31 +2197,31 @@
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "ISA Brown - poule - chicken.jpg",
     "role": "gallery"
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "ISA Browns, Pengo.jpg",
     "role": "gallery"
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "Isa cs layers brownJPG.jpg",
     "role": "gallery"
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "Isa cs layers brownwhitejpg.jpg",
     "role": "gallery"
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "Kahverengi tavuklar.jpg",
     "role": "gallery"
   },

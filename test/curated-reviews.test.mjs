@@ -5,6 +5,7 @@ import { readFileSync } from "node:fs";
 // Expert review (W1-04) of the non-food curated files. Each file has a review
 // file in data/reviews/<stem>-reviews.json with one entry per record.
 const STEMS = [
+  "breeds-by-state",
   "chick-care-by-week",
   "coop-specs",
   "egg-facts",
@@ -14,6 +15,7 @@ const STEMS = [
   "lifecycle-faq",
   "predators",
   "safe-forage-plants",
+  "state-climate",
   "toxic-plants",
 ];
 const STATUSES = ["approved", "fixed", "needs-human"];

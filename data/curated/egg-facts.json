@@ -143,30 +143,48 @@
     "id": "colour-cream-tinted",
     "type": "egg-colour",
     "name": "Cream or tinted eggs",
-    "summary": "Cream or lightly tinted eggs are laid by several breeds that sit between white and brown. Shell color does not change taste or nutrition. It comes from the hen's breed.",
+    "summary": "Cream or lightly tinted eggs sit between white and brown. Sussex and Faverolles hens are common examples. Shell color does not change taste or nutrition. It comes from the hen's breed.",
     "details": {
       "breed_examples": [
-        "Sussex",
-        "Faverolles",
-        "Silkie",
-        "Cochin (light brown to tinted)"
+        "Sussex (cream to light brown or tan)",
+        "Faverolles (tinted to light brown)"
       ],
-      "how_the_colour_forms": "A light layer of brown pigment on a white shell."
+      "how_the_colour_forms": "A light layer of brown pigment on the surface of a white shell."
     },
     "sources": [
+      {
+        "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/faverolles-chicken/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://breeds.okstate.edu/poultry/chickens/faverolles-chickens.html",
+        "publisher": "Oklahoma State University Breeds of Livestock",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/sussex-chicken/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.omlet.us/breeds/chickens/sussex/",
+        "publisher": "Omlet",
+        "source_confidence": "page"
+      },
+      {
+        "url": "https://www.canr.msu.edu/news/why_are_chicken_eggs_different_colors",
+        "publisher": "Michigan State University Extension",
+        "source_confidence": "page"
+      },
       {
         "url": "https://layinghens.hendrix-genetics.com/en/articles/eggshell-color-eggsplained/",
         "publisher": "Hendrix Genetics (layer breeder)",
         "source_confidence": "page"
-      },
-      {
-        "url": "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs",
-        "publisher": "Purina Animal Nutrition",
-        "source_confidence": "page"
       }
     ],
-    "confidence": "medium",
-    "needs_review": true
+    "confidence": "high",
+    "needs_review": false
   },
   {
     "id": "colour-dark-brown",
@@ -262,17 +280,21 @@
     "id": "colour-pink",
     "type": "egg-colour",
     "name": "Pinkish eggs",
-    "summary": "Some light brown and tinted eggs look pink, mainly because of the protective bloom on the shell. Shell color does not change taste or nutrition. It comes from the hen's breed.",
+    "summary": "Some hens lay eggs with a pinkish tint. It is a very light shade of shell pigment, it is uncommon, and the shade varies from hen to hen. Shell color does not change taste or nutrition. It comes from the hen's breed.",
     "details": {
       "breed_examples": [
-        "Light Sussex",
-        "Mottled Java",
-        "Faverolles",
-        "some Barred Rocks and Easter Eggers"
+        "Easter Eggers",
+        "Ameraucana (light pink among other shades)",
+        "Faverolles (now and then)"
       ],
-      "how_the_colour_forms": "A very light brown shell with a thick bloom (cuticle) can look pink. The effect can rub or wash off."
+      "how_the_colour_forms": "A very light tint of shell pigment. Hens that usually lay tinted, light brown, blue or green eggs can lay a pinkish one."
     },
     "sources": [
+      {
+        "url": "https://www.omlet.us/breeds/chickens/easter_egger/",
+        "publisher": "Omlet",
+        "source_confidence": "page"
+      },
       {
         "url": "https://www.purinamills.com/chicken-feed/education/detail/lay-the-rainbow-chickens-that-lay-colored-eggs",
         "publisher": "Purina Animal Nutrition",
@@ -282,10 +304,15 @@
         "url": "https://poultry.extension.org/articles/poultry-related-youth-programs/what-is-the-difference-between-brown-and-white-eggs/",
         "publisher": "Poultry Extension (Extension Foundation)",
         "source_confidence": "page"
+      },
+      {
+        "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/faverolles-chicken/",
+        "publisher": "The Livestock Conservancy",
+        "source_confidence": "page"
       }
     ],
-    "confidence": "low",
-    "needs_review": true
+    "confidence": "medium",
+    "needs_review": false
   },
   {
     "id": "colour-white",

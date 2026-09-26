@@ -79,14 +79,14 @@
   {
     "alias": "Cinnamon Queen",
     "alias_slug": "cinnamon-queen",
-    "breed_id": "golden-comet",
+    "breed_id": "red-sex-link",
     "kind": "alias",
     "source_url": "https://starmilling.com/poultry-chicken-breeds/"
   },
   {
     "alias": "Red Star",
     "alias_slug": "red-star",
-    "breed_id": "isa-brown",
+    "breed_id": "red-sex-link",
     "kind": "alias",
     "source_url": "https://en.wikipedia.org/wiki/Sex-link"
   },
@@ -124,5 +124,26 @@
     "breed_id": "easter-egger",
     "kind": "alias",
     "source_url": "https://en.wikipedia.org/wiki/Easter_egger"
+  },
+  {
+    "alias": "Golden Comet",
+    "alias_slug": "golden-comet",
+    "breed_id": "red-sex-link",
+    "kind": "alias",
+    "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star"
+  },
+  {
+    "alias": "ISA Brown",
+    "alias_slug": "isa-brown",
+    "breed_id": "red-sex-link",
+    "kind": "alias",
+    "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star"
+  },
+  {
+    "alias": "Isbar",
+    "alias_slug": "isbar",
+    "breed_id": "silverudd-blue",
+    "kind": "alias",
+    "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue"
   }
 ]

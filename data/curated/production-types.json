@@ -1,0 +1,69 @@
+[
+  {
+    "id": "broiler",
+    "name": "Broiler",
+    "type": "production-type",
+    "is_a_breed": false,
+    "former_breed_id": "broiler",
+    "summary": "A broiler is not a breed. It is any chicken bred and raised mainly for meat. Most are fast-growing commercial hybrids, usually Cornish cross birds, that reach slaughter weight in weeks rather than months.",
+    "purpose": "meat",
+    "slaughter_age": "Fast-growing commercial strains reach slaughter weight at about 4 to 6 weeks, and the US industry average market age is about 47 days, roughly 7 weeks. Backyard Cornish cross broilers need about 6 to 8 weeks. Slower-growing breeds take about 10 to 14 weeks.",
+    "market_weight": "The US industry average was about 6.6 pounds live weight at about 47 days in 2025. Backyard Cornish cross birds dress out at about 4 to 6 pounds.",
+    "appearance": "Most commercial broilers have white feathers and yellowish skin.",
+    "common_strains": [
+      "Cornish cross (Cornish x Plymouth Rock)"
+    ],
+    "welfare_notes": "Very fast growth brings leg, skeletal and heart problems, so space, ventilation and feeding need careful management.",
+    "history": "Before modern meat strains, broilers were mostly young cockerels culled from farm flocks. Organized pedigree breeding began around 1916. In the 1930s breeders crossed Cornish males with large white Plymouth Rock hens, and that cross dominated meat production by the 1960s.",
+    "dadis_note": "The FAO DAD-IS record gha-aribro-broiler (aribro broiler, Ghana) is one commercial strain, not the whole category. It was linked to the old breed record.",
+    "image": {
+      "file": "Broilers Australia June 2018.jpg",
+      "commons_url": "https://commons.wikimedia.org/wiki/File%3ABroilers%20Australia%20June%202018.jpg",
+      "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Broilers_Australia_June_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Broilers_Australia_June_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Animals Uncovered",
+      "attribution_required": true,
+      "license_note": "Text/facts from Wikipedia, CC BY-SA 4.0"
+    },
+    "sources": [
+      {
+        "url": "https://extension.umn.edu/small-scale-poultry/raising-chickens-meat",
+        "publisher": "University of Minnesota Extension",
+        "source_confidence": "page",
+        "supports": [
+          "slaughter_age",
+          "market_weight",
+          "common_strains"
+        ]
+      },
+      {
+        "url": "https://www.nationalchickencouncil.org/about-the-industry/statistics/u-s-broiler-performance/",
+        "publisher": "National Chicken Council",
+        "source_confidence": "page",
+        "supports": [
+          "slaughter_age",
+          "market_weight"
+        ]
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Broiler",
+        "publisher": "Wikipedia",
+        "source_confidence": "page",
+        "supports": [
+          "summary",
+          "slaughter_age",
+          "appearance",
+          "common_strains",
+          "welfare_notes",
+          "history"
+        ],
+        "note": "Text/facts partly from Wikipedia, CC BY-SA 4.0"
+      }
+    ],
+    "confidence": "medium",
+    "needs_review": true,
+    "notes": "Moved out of the breed list on 2026-09-26 because a broiler is a production type, not a breed. The 4 to 6 week and 14 week figures and the feather and skin color come from Wikipedia only; the extension and industry figures are in the other two sources."
+  }
+]

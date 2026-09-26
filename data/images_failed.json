@@ -119,7 +119,7 @@
     "error": "fetch failed"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "kind": "gallery",
     "file": "\" fot. Andrew Skowron (40558129703).jpg",

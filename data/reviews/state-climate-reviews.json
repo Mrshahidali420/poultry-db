@@ -1,0 +1,614 @@
+[
+  {
+    "record_id": "al",
+    "status": "fixed",
+    "changes": "Changed zones 7a-8b to 7b-9b; winter low 32 to 33 F. USDA 2023 map ZIP table gives 7b-9b across 804 ZIP codes. NOAA 1991-2020 normals for Huntsville International Airport (USW00003856) give a coldest-month average low of 33.1 F and a warmest-month average high of 91.5 F. June to August mean dew point is 68.2 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00003856&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00003856&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ak",
+    "status": "fixed",
+    "changes": "Changed zones 1a-7b to 1a-8b; winter low 10 to 11 F; summer high 65 to 66 F; humidity medium to low. USDA 2023 map ZIP table gives 1a-8b across 272 ZIP codes. NOAA 1991-2020 normals for Anchorage International Airport (USW00026451) give a coldest-month average low of 11 F and a warmest-month average high of 66.2 F. June to August mean dew point is 47.9 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00026451&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00026451&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "az",
+    "status": "fixed",
+    "changes": "Changed zones 5a-10b to 5b-10a; winter low 38 to 45 F; summer high 104 to 107 F. USDA 2023 map ZIP table gives 5b-10a across 522 ZIP codes. NOAA 1991-2020 normals for Phoenix Sky Harbor International Airport (USW00023183) give a coldest-month average low of 45.3 F and a warmest-month average high of 106.5 F. June to August mean dew point is 50.1 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00023183&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00023183&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ar",
+    "status": "fixed",
+    "changes": "Changed zones 6b-8a to 7a-8b; winter low 30 to 31 F; summer high 93 to 92 F. USDA 2023 map ZIP table gives 7a-8b across 694 ZIP codes. NOAA 1991-2020 normals for Little Rock Adams Field (USW00013963) give a coldest-month average low of 30.9 F and a warmest-month average high of 91.7 F. June to August mean dew point is 69.4 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013963&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013963&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ca",
+    "status": "fixed",
+    "changes": "Changed zones 5a-10b to 5b-11a; winter low 40 to 48 F; summer high 88 to 84 F; humidity low to medium. USDA 2023 map ZIP table gives 5b-11a across 2554 ZIP codes. NOAA 1991-2020 normals for Los Angeles Downtown (USC campus) (USW00093134) give a coldest-month average low of 48.2 F and a warmest-month average high of 84 F. June to August mean dew point is 59.9 F at Los Angeles International Airport (USW00023174), which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093134&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00023174&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "co",
+    "status": "fixed",
+    "changes": "Changed zones 3a-7a to 4a-7a; winter low 16 to 18 F. USDA 2023 map ZIP table gives 4a-7a across 625 ZIP codes. NOAA 1991-2020 normals for Denver International Airport (USW00003017) give a coldest-month average low of 18.4 F and a warmest-month average high of 89.9 F. June to August mean dew point is 46.7 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00003017&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00003017&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ct",
+    "status": "fixed",
+    "changes": "Changed zones 5b-7a to 6a-7b; winter low 20 to 24 F; summer high 84 to 83 F. USDA 2023 map ZIP table gives 6a-7b across 419 ZIP codes. NOAA 1991-2020 normals for Bridgeport Sikorsky Memorial Airport (USW00094702) give a coldest-month average low of 24.4 F and a warmest-month average high of 83.4 F. June to August mean dew point is 62 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00094702&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00094702&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "de",
+    "status": "fixed",
+    "changes": "Changed zones 7a-7b to 7a-8a; winter low 27 to 26 F. USDA 2023 map ZIP table gives 7a-8a across 93 ZIP codes. NOAA 1991-2020 normals for Wilmington New Castle County Airport (USW00013781) give a coldest-month average low of 25.6 F and a warmest-month average high of 86.8 F. June to August mean dew point is 65.8 F at Dover Air Force Base (USW00013707), which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013781&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013707&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "fl",
+    "status": "fixed",
+    "changes": "Changed zones 8a-11a to 8b-11b; winter low 50 to 43 F; summer high 91 to 92 F. USDA 2023 map ZIP table gives 8b-11b across 1454 ZIP codes. NOAA 1991-2020 normals for Jacksonville International Airport (USW00013889) give a coldest-month average low of 42.9 F and a warmest-month average high of 91.9 F. June to August mean dew point is 72.2 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013889&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013889&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ga",
+    "status": "fixed",
+    "changes": "Changed zones 6b-8b to 7a-9a; winter low 33 to 36 F. USDA 2023 map ZIP table gives 7a-9a across 937 ZIP codes. NOAA 1991-2020 normals for Atlanta Hartsfield-Jackson International Airport (USW00013874) give a coldest-month average low of 35.6 F and a warmest-month average high of 90.1 F. June to August mean dew point is 67.1 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013874&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013874&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "hi",
+    "status": "fixed",
+    "changes": "Changed zones 10a-12b to 10b-13a; winter low 65 to 67 F; summer high 85 to 89 F. USDA 2023 map ZIP table gives 10b-13a across 133 ZIP codes. NOAA 1991-2020 normals for Honolulu International Airport (USW00022521) give a coldest-month average low of 66.8 F and a warmest-month average high of 88.8 F. June to August mean dew point is 66.9 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00022521&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00022521&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "id",
+    "status": "fixed",
+    "changes": "Changed zones 3a-7b to 4a-7b; winter low 20 to 25 F; summer high 89 to 93 F. USDA 2023 map ZIP table gives 4a-7b across 313 ZIP codes. NOAA 1991-2020 normals for Boise Air Terminal (USW00024131) give a coldest-month average low of 25.4 F and a warmest-month average high of 92.7 F. June to August mean dew point is 41.9 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00024131&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00024131&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "il",
+    "status": "fixed",
+    "changes": "Changed winter low 18 to 19 F; summer high 87 to 85 F. USDA 2023 map ZIP table gives 5a-7a across 1545 ZIP codes. NOAA 1991-2020 normals for Chicago O'Hare International Airport (USW00094846) give a coldest-month average low of 18.8 F and a warmest-month average high of 84.5 F. June to August mean dew point is 60.3 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00094846&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00094846&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "in",
+    "status": "fixed",
+    "changes": "Changed zones 5b-6b to 5b-7a; winter low 20 to 21 F; summer high 86 to 85 F. USDA 2023 map ZIP table gives 5b-7a across 929 ZIP codes. NOAA 1991-2020 normals for Indianapolis International Airport (USW00093819) give a coldest-month average low of 20.9 F and a warmest-month average high of 85.2 F. June to August mean dew point is 63 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093819&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00093819&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ia",
+    "status": "fixed",
+    "changes": "Changed zones 4b-5b to 4b-6a; winter low 10 to 14 F; summer high 85 to 86 F. USDA 2023 map ZIP table gives 4b-6a across 1042 ZIP codes. NOAA 1991-2020 normals for Des Moines International Airport (USW00014933) give a coldest-month average low of 13.8 F and a warmest-month average high of 85.6 F. June to August mean dew point is 62.9 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014933&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014933&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ks",
+    "status": "fixed",
+    "changes": "Changed zones 5b-7a to 6a-7a; winter low 20 to 23 F; summer high 92 to 93 F; humidity medium to high. USDA 2023 map ZIP table gives 6a-7a across 741 ZIP codes. NOAA 1991-2020 normals for Wichita Eisenhower National Airport (USW00003928) give a coldest-month average low of 22.5 F and a warmest-month average high of 92.6 F. June to August mean dew point is 64.8 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00003928&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00003928&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ky",
+    "status": "fixed",
+    "changes": "Changed zones 6a-7a to 6b-7b; winter low 25 to 28 F; summer high 88 to 89 F. USDA 2023 map ZIP table gives 6b-7b across 933 ZIP codes. NOAA 1991-2020 normals for Louisville International Airport (USW00093821) give a coldest-month average low of 27.8 F and a warmest-month average high of 89 F. June to August mean dew point is 65.2 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093821&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00093821&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "la",
+    "status": "fixed",
+    "changes": "Changed zones 8a-9b to 8b-10a; winter low 40 to 46 F; summer high 92 to 91 F. USDA 2023 map ZIP table gives 8b-10a across 710 ZIP codes. NOAA 1991-2020 normals for New Orleans International Airport (USW00012916) give a coldest-month average low of 46.1 F and a warmest-month average high of 91.4 F. June to August mean dew point is 73.2 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00012916&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00012916&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "me",
+    "status": "fixed",
+    "changes": "Changed zones 3b-6a to 3b-7a; winter low 5 to 16 F; summer high 79 to 80 F. USDA 2023 map ZIP table gives 3b-7a across 478 ZIP codes. NOAA 1991-2020 normals for Portland International Jetport (USW00014764) give a coldest-month average low of 15.6 F and a warmest-month average high of 79.5 F. June to August mean dew point is 58 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014764&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014764&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "md",
+    "status": "fixed",
+    "changes": "Changed zones 6b-8a to 6a-8a; winter low 27 to 25 F; summer high 87 to 89 F. USDA 2023 map ZIP table gives 6a-8a across 598 ZIP codes. NOAA 1991-2020 normals for Baltimore Washington International Airport (USW00093721) give a coldest-month average low of 25.4 F and a warmest-month average high of 88.8 F. June to August mean dew point is 64.1 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093721&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00093721&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ma",
+    "status": "fixed",
+    "changes": "Changed zones 5b-7a to 5b-7b; winter low 21 to 23 F. USDA 2023 map ZIP table gives 5b-7b across 675 ZIP codes. NOAA 1991-2020 normals for Boston Logan International Airport (USW00014739) give a coldest-month average low of 23.1 F and a warmest-month average high of 82.1 F. June to August mean dew point is 59.6 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014739&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014739&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "mi",
+    "status": "fixed",
+    "changes": "Changed zones 4a-6b to 4a-7a; winter low 13 to 19 F; summer high 83 to 84 F. USDA 2023 map ZIP table gives 4a-7a across 1154 ZIP codes. NOAA 1991-2020 normals for Detroit Metro Airport (USW00094847) give a coldest-month average low of 19.2 F and a warmest-month average high of 83.7 F. June to August mean dew point is 59.9 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00094847&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00094847&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "mn",
+    "status": "fixed",
+    "changes": "Changed zones 3a-4b to 3a-5a; winter low 0 to 9 F. USDA 2023 map ZIP table gives 3a-5a across 943 ZIP codes. NOAA 1991-2020 normals for Minneapolis-St Paul International Airport (USW00014922) give a coldest-month average low of 8.8 F and a warmest-month average high of 83.4 F. June to August mean dew point is 58.8 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014922&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014922&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ms",
+    "status": "fixed",
+    "changes": "Changed zones 7b-8b to 7b-9a; winter low 35 to 37 F. USDA 2023 map ZIP table gives 7b-9a across 524 ZIP codes. NOAA 1991-2020 normals for Jackson International Airport (USW00003940) give a coldest-month average low of 36.6 F and a warmest-month average high of 92.2 F. June to August mean dew point is 70.2 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00003940&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00003940&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "mo",
+    "status": "fixed",
+    "changes": "Changed zones 5b-7a to 5b-8a; winter low 22 to 20 F; summer high 90 to 88 F. USDA 2023 map ZIP table gives 5b-8a across 1144 ZIP codes. NOAA 1991-2020 normals for Kansas City International Airport (USW00003947) give a coldest-month average low of 19.5 F and a warmest-month average high of 88.3 F. June to August mean dew point is 65.5 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00003947&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00003947&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "mt",
+    "status": "fixed",
+    "changes": "Changed zones 3a-5b to 3b-6b; winter low 10 to 18 F. USDA 2023 map ZIP table gives 3b-6b across 399 ZIP codes. NOAA 1991-2020 normals for Billings Logan International Airport (USW00024033) give a coldest-month average low of 17.9 F and a warmest-month average high of 87.3 F. June to August mean dew point is 45.9 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00024033&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00024033&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ne",
+    "status": "fixed",
+    "changes": "Changed zones 4b-5b to 5a-6a; winter low 14 to 15 F; summer high 89 to 88 F. USDA 2023 map ZIP table gives 5a-6a across 609 ZIP codes. NOAA 1991-2020 normals for Omaha Eppley Airfield (USW00014942) give a coldest-month average low of 15.2 F and a warmest-month average high of 88.1 F. June to August mean dew point is 63.7 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014942&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014942&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "nv",
+    "status": "fixed",
+    "changes": "Changed zones 4b-9b to 5a-10a; winter low 24 to 40 F; summer high 95 to 105 F. USDA 2023 map ZIP table gives 5a-10a across 250 ZIP codes. NOAA 1991-2020 normals for Las Vegas Harry Reid International Airport (USW00023169) give a coldest-month average low of 39.6 F and a warmest-month average high of 104.5 F. June to August mean dew point is 39.4 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00023169&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00023169&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "nh",
+    "status": "fixed",
+    "changes": "Changed zones 3b-6a to 4a-6b; winter low 6 to 17 F; summer high 82 to 84 F. USDA 2023 map ZIP table gives 4a-6b across 280 ZIP codes. NOAA 1991-2020 normals for Manchester Airport (USW00014710) give a coldest-month average low of 17.1 F and a warmest-month average high of 84.1 F. June to August mean dew point is 58.2 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014710&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014710&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "nj",
+    "status": "fixed",
+    "changes": "Changed zones 6b-7b to 6b-8a; summer high 85 to 87 F; humidity high to medium. USDA 2023 map ZIP table gives 6b-8a across 715 ZIP codes. NOAA 1991-2020 normals for Newark International Airport (USW00014734) give a coldest-month average low of 25.5 F and a warmest-month average high of 86.9 F. June to August mean dew point is 61.6 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014734&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014734&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "nm",
+    "status": "fixed",
+    "changes": "Changed zones 4b-9a to 5a-8b; winter low 21 to 26 F; summer high 90 to 91 F. USDA 2023 map ZIP table gives 5a-8b across 419 ZIP codes. NOAA 1991-2020 normals for Albuquerque International Airport (USW00023050) give a coldest-month average low of 26.4 F and a warmest-month average high of 91.2 F. June to August mean dew point is 44.7 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00023050&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00023050&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ny",
+    "status": "fixed",
+    "changes": "Changed winter low 16 to 28 F; summer high 83 to 85 F. USDA 2023 map ZIP table gives 4a-7b across 2125 ZIP codes. NOAA 1991-2020 normals for New York Central Park (USW00094728) give a coldest-month average low of 27.9 F and a warmest-month average high of 84.9 F. June to August mean dew point is 61.3 F at New York LaGuardia Airport (USW00014732), which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00094728&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014732&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "nc",
+    "status": "fixed",
+    "changes": "Changed zones 6a-8b to 6b-9a; summer high 88 to 90 F. USDA 2023 map ZIP table gives 6b-9a across 1072 ZIP codes. NOAA 1991-2020 normals for Charlotte Douglas International Airport (USW00013881) give a coldest-month average low of 31.8 F and a warmest-month average high of 90.3 F. June to August mean dew point is 66.4 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013881&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013881&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "nd",
+    "status": "fixed",
+    "changes": "Changed zones 3a-4b to 3b-4b; winter low -3 to 0 F; summer high 84 to 82 F. USDA 2023 map ZIP table gives 3b-4b across 405 ZIP codes. NOAA 1991-2020 normals for Fargo Hector International Airport (USW00014914) give a coldest-month average low of 0.2 F and a warmest-month average high of 82.1 F. June to August mean dew point is 57.2 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014914&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014914&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "oh",
+    "status": "fixed",
+    "changes": "Changed zones 5b-6b to 6a-7a; winter low 20 to 22 F. USDA 2023 map ZIP table gives 6a-7a across 1391 ZIP codes. NOAA 1991-2020 normals for Columbus John Glenn International Airport (USW00014821) give a coldest-month average low of 22 F and a warmest-month average high of 85.4 F. June to August mean dew point is 61.8 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014821&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014821&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ok",
+    "status": "fixed",
+    "changes": "Changed winter low 28 to 27 F; summer high 94 to 93 F; humidity medium to high. USDA 2023 map ZIP table gives 6b-8a across 761 ZIP codes. NOAA 1991-2020 normals for Oklahoma City Will Rogers Airport (USW00013967) give a coldest-month average low of 27 F and a warmest-month average high of 93.1 F. June to August mean dew point is 66.1 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013967&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013967&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "or",
+    "status": "fixed",
+    "changes": "Changed zones 4b-9a to 5b-9b; winter low 32 to 36 F. USDA 2023 map ZIP table gives 5b-9b across 473 ZIP codes. NOAA 1991-2020 normals for Portland International Airport (USW00024229) give a coldest-month average low of 36.2 F and a warmest-month average high of 82.3 F. June to August mean dew point is 52.9 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00024229&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00024229&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "pa",
+    "status": "fixed",
+    "changes": "Changed zones 5b-7b to 5b-8a; winter low 20 to 26 F; summer high 84 to 88 F. USDA 2023 map ZIP table gives 5b-8a across 2108 ZIP codes. NOAA 1991-2020 normals for Philadelphia International Airport (USW00013739) give a coldest-month average low of 26 F and a warmest-month average high of 87.8 F. June to August mean dew point is 63 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013739&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013739&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ri",
+    "status": "fixed",
+    "changes": "Changed zones 6b-7a to 6b-7b; winter low 24 to 22 F; summer high 82 to 84 F. USDA 2023 map ZIP table gives 6b-7b across 88 ZIP codes. NOAA 1991-2020 normals for Providence T F Green Airport (USW00014765) give a coldest-month average low of 22.1 F and a warmest-month average high of 83.6 F. June to August mean dew point is 60.8 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014765&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014765&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "sc",
+    "status": "fixed",
+    "changes": "Changed zones 7b-9a to 8a-9b; winter low 35 to 39 F. USDA 2023 map ZIP table gives 8a-9b across 526 ZIP codes. NOAA 1991-2020 normals for Charleston International Airport (USW00013880) give a coldest-month average low of 38.9 F and a warmest-month average high of 91.3 F. June to August mean dew point is 71.7 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013880&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013880&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "sd",
+    "status": "fixed",
+    "changes": "Changed zones 3b-5a to 4a-5b; winter low 5 to 9 F; summer high 87 to 85 F. USDA 2023 map ZIP table gives 4a-5b across 382 ZIP codes. NOAA 1991-2020 normals for Sioux Falls Airport (USW00014944) give a coldest-month average low of 8.5 F and a warmest-month average high of 85.3 F. June to August mean dew point is 60.5 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014944&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014944&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "tn",
+    "status": "fixed",
+    "changes": "Changed summer high 89 to 91 F. USDA 2023 map ZIP table gives 6b-8a across 774 ZIP codes. NOAA 1991-2020 normals for Nashville International Airport (USW00013897) give a coldest-month average low of 30.1 F and a warmest-month average high of 90.9 F. June to August mean dew point is 66.4 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013897&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013897&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "tx",
+    "status": "fixed",
+    "changes": "Changed zones 6b-9b to 6b-10b; winter low 35 to 44 F; humidity medium to high. USDA 2023 map ZIP table gives 6b-10b across 2571 ZIP codes. NOAA 1991-2020 normals for Houston Intercontinental Airport (USW00012960) give a coldest-month average low of 43.7 F and a warmest-month average high of 94.9 F. June to August mean dew point is 72.6 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00012960&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00012960&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "ut",
+    "status": "fixed",
+    "changes": "Changed zones 4b-8a to 4a-8b; winter low 20 to 24 F; summer high 93 to 94 F. USDA 2023 map ZIP table gives 4a-8b across 337 ZIP codes. NOAA 1991-2020 normals for Salt Lake City International Airport (USW00024127) give a coldest-month average low of 24.2 F and a warmest-month average high of 94 F. June to August mean dew point is 43.5 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00024127&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00024127&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "vt",
+    "status": "fixed",
+    "changes": "Changed zones 3b-5b to 4a-6a; winter low 3 to 13 F; summer high 80 to 82 F. USDA 2023 map ZIP table gives 4a-6a across 305 ZIP codes. NOAA 1991-2020 normals for Burlington International Airport (USW00014742) give a coldest-month average low of 12.9 F and a warmest-month average high of 82.4 F. June to August mean dew point is 57.6 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014742&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014742&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "va",
+    "status": "fixed",
+    "changes": "Changed zones 6a-8a to 6a-8b; winter low 28 to 34 F; summer high 87 to 89 F. USDA 2023 map ZIP table gives 6a-8b across 1196 ZIP codes. NOAA 1991-2020 normals for Norfolk International Airport (Virginia Beach area) (USW00013737) give a coldest-month average low of 33.6 F and a warmest-month average high of 89.4 F. June to August mean dew point is 68 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013737&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013737&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "wa",
+    "status": "fixed",
+    "changes": "Changed zones 4b-9a to 6a-9b; winter low 31 to 37 F; summer high 80 to 78 F. USDA 2023 map ZIP table gives 6a-9b across 708 ZIP codes. NOAA 1991-2020 normals for Seattle-Tacoma International Airport (USW00024233) give a coldest-month average low of 37.1 F and a warmest-month average high of 77.6 F. June to August mean dew point is 51.7 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00024233&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00024233&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "wv",
+    "status": "fixed",
+    "changes": "Changed winter low 22 to 26 F; summer high 83 to 86 F. USDA 2023 map ZIP table gives 5b-7a across 843 ZIP codes. NOAA 1991-2020 normals for Charleston Yeager Airport (USW00013866) give a coldest-month average low of 26.1 F and a warmest-month average high of 86 F. June to August mean dew point is 64.4 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013866&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013866&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "wi",
+    "status": "fixed",
+    "changes": "Changed zones 3b-5b to 3b-6a; winter low 8 to 17 F. USDA 2023 map ZIP table gives 3b-6a across 872 ZIP codes. NOAA 1991-2020 normals for Milwaukee Mitchell Airport (USW00014839) give a coldest-month average low of 17.2 F and a warmest-month average high of 81.9 F. June to August mean dew point is 59.4 F at the same station, which is medium on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00014839&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00014839&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "wy",
+    "status": "fixed",
+    "changes": "Changed zones 3a-6a to 4a-5b; winter low 10 to 18 F; summer high 85 to 84 F. USDA 2023 map ZIP table gives 4a-5b across 191 ZIP codes. NOAA 1991-2020 normals for Cheyenne Airport (USW00024018) give a coldest-month average low of 18.1 F and a warmest-month average high of 84.1 F. June to August mean dew point is 44.6 F at the same station, which is low on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00024018&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00024018&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  },
+  {
+    "record_id": "dc",
+    "status": "fixed",
+    "changes": "Changed summer high 88 to 90 F. USDA 2023 map ZIP table gives 7b-8a across 289 ZIP codes. NOAA 1991-2020 normals for Washington Reagan National Airport (USW00013743) give a coldest-month average low of 30.1 F and a warmest-month average high of 89.6 F. June to August mean dew point is 64.8 F at the same station, which is high on the rule used for every state (64 F or more high, 51 F or less low).",
+    "reviewed_by": "claude-opus",
+    "reviewed_on": "2026-09-26",
+    "sources_checked": [
+      "https://services1.arcgis.com/SyUSN23vOoYdfLC8/arcgis/rest/services/PHZM_2023_Zip_Code_Table/FeatureServer/296",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00013743&dataTypes=MLY-TMIN-NORMAL,MLY-TMAX-NORMAL&units=standard&format=json",
+      "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-hourly-1991-2020&stations=USW00013743&dataTypes=HLY-DEWP-NORMAL&startDate=2010-06-01&endDate=2010-08-31&units=standard&format=json"
+    ]
+  }
+]

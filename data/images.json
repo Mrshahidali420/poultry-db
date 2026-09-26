@@ -2884,7 +2884,7 @@
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "data/images/breeds/broiler/1.jpg",
     "width": 1200,
@@ -2898,7 +2898,7 @@
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "data/images/breeds/broiler/2.jpg",
     "width": 1200,
@@ -2912,7 +2912,7 @@
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "data/images/breeds/broiler/3.jpg",
     "width": 1200,
@@ -2926,7 +2926,7 @@
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "data/images/breeds/broiler/4.jpg",
     "width": 1200,
@@ -2940,7 +2940,7 @@
     "role": "gallery"
   },
   {
-    "entity_type": "breeds",
+    "entity_type": "production-types",
     "entity_id": "broiler",
     "file": "data/images/breeds/broiler/5.jpg",
     "width": 1200,
@@ -4285,7 +4285,7 @@
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "data/images/breeds/isa-brown/1.jpg",
     "width": 1200,
     "height": 1200,
@@ -4299,7 +4299,7 @@
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "data/images/breeds/isa-brown/2.jpg",
     "width": 1200,
     "height": 1600,
@@ -4313,7 +4313,7 @@
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "data/images/breeds/isa-brown/3.jpg",
     "width": 1200,
     "height": 800,
@@ -4327,7 +4327,7 @@
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "data/images/breeds/isa-brown/4.jpg",
     "width": 1200,
     "height": 377,
@@ -4341,7 +4341,7 @@
   },
   {
     "entity_type": "breeds",
-    "entity_id": "isa-brown",
+    "entity_id": "red-sex-link",
     "file": "data/images/breeds/isa-brown/5.jpg",
     "width": 1200,
     "height": 675,

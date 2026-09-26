@@ -105,6 +105,8 @@ test("breeds-by-state.json covers all 50 states plus DC with unique ids and vali
   const states = loadJson(new URL("breeds-by-state.json", curatedDir));
   const breeds = loadJson(new URL("breeds.json", dataDir));
   const breedIds = new Set(breeds.map((b) => b.id));
+  const reviewedBreed = new Map(loadJson(new URL("breeds_extra.json", dataDir)).map((b) => [b.id, b.needs_review === false]));
+  const climateById = new Map(loadJson(new URL("state-climate.json", curatedDir)).map((c) => [c.id, c]));
 
   assert.equal(states.length, 51, `expected 51 state records, got ${states.length}`);
 
@@ -114,8 +116,19 @@ test("breeds-by-state.json covers all 50 states plus DC with unique ids and vali
   assert.equal(new Set(ids).size, ids.length, "duplicate state id");
 
   for (const s of states) {
-    assert.equal(s.needs_review, true, `${s.id} needs_review`);
+    assert.equal(typeof s.needs_review, "boolean", `${s.id} needs_review`);
     assert.ok(Array.isArray(s.recommended_breed_ids), `${s.id} needs recommended_breed_ids`);
+    // Only reviewed breeds are ever recommended (build script filter).
+    for (const bid of s.recommended_breed_ids) {
+      assert.equal(reviewedBreed.get(bid), true, `${s.id} recommends ${bid}, which still needs review`);
+    }
+    // Cleared only when the climate row it was built from is cleared.
+    const climate = climateById.get(s.id);
+    assert.ok(climate, `${s.id} has no state-climate row`);
+    if (!s.needs_review) assert.equal(climate.needs_review, false, `${s.id} is cleared but its climate row is not`);
+    for (const k of ["usda_hardiness_zones", "avg_winter_low_f", "avg_summer_high_f", "humidity"]) {
+      assert.equal(s[k], climate[k], `${s.id} ${k} differs from state-climate.json; re-run the build script`);
+    }
     assert.ok(
       s.recommended_breed_ids.length >= 8 && s.recommended_breed_ids.length <= 12,
       `${s.id} has ${s.recommended_breed_ids.length} recommended breeds, expected 8-12`,
@@ -144,4 +157,24 @@ test("state-climate.json (source table) has no em dash and 51 unique states", ()
   const rows = JSON.parse(text);
   assert.equal(rows.length, 51);
   assert.equal(new Set(rows.map((r) => r.id)).size, 51);
+});
+
+test("production-types.json: sorted unique ids, sources, needs_review, no em dash, none shadow a breed", () => {
+  const text = loadText(new URL("production-types.json", curatedDir));
+  assert.ok(!text.includes("—"));
+  const rows = JSON.parse(text);
+  const ids = rows.map((r) => r.id);
+  assert.deepEqual(ids, [...ids].sort(), "production-types.json must be sorted by id");
+  assert.equal(new Set(ids).size, ids.length, "duplicate id");
+  const breedIds = new Set(loadJson(new URL("breeds.json", dataDir)).map((b) => b.id));
+  for (const r of rows) {
+    assert.match(r.id, /^[a-z0-9]+(-[a-z0-9]+)*$/, `bad id ${r.id}`);
+    assert.ok(!breedIds.has(r.id), `${r.id} is also a breed id`);
+    assert.equal(typeof r.needs_review, "boolean", `${r.id} needs_review`);
+    assert.ok(Array.isArray(r.sources) && r.sources.length >= 2, `${r.id} needs 2+ sources`);
+    for (const s of r.sources) {
+      assert.match(s.url, /^https:\/\//, `${r.id} bad source url`);
+      assert.ok(s.publisher, `${r.id} source missing publisher`);
+    }
+  }
 });

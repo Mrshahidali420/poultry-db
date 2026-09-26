@@ -35,9 +35,11 @@ function normTrait(value) {
   return null; // unknown, not stated by any source
 }
 
-// Only consider breeds where at least one relevant trait is known; otherwise
-// there is nothing in the data to justify a recommendation.
+// Only consider breeds whose facts passed review (needs_review false in
+// breeds_extra.json) and where at least one relevant trait is known; otherwise
+// there is nothing checked in the data to justify a recommendation.
 const candidates = breedsExtra
+  .filter((b) => b.needs_review === false)
   .map((b) => {
     const cold = normTrait(b.cold_hardy?.value);
     const heat = normTrait(b.heat_tolerant?.value);
@@ -46,6 +48,12 @@ const candidates = breedsExtra
     return { id: b.id, name: nameById.get(b.id) || b.id, cold, heat, beginner, purpose };
   })
   .filter((b) => b.cold !== null || b.heat !== null || b.beginner !== null);
+
+// Per-state sources from the climate table, in this file's {name, url} shape.
+function sourcesFor(state) {
+  if (!Array.isArray(state.sources) || state.sources.length === 0) return SOURCES;
+  return state.sources.map((s) => ({ name: s.publisher, url: s.url, publisher: s.publisher, source_confidence: s.source_confidence }));
+}
 
 function scoreBreed(breed, risks, humidity) {
   let score = 0;
@@ -94,11 +102,14 @@ const output = stateClimate.map((s) => {
     avg_winter_low_f: s.avg_winter_low_f,
     avg_summer_high_f: s.avg_summer_high_f,
     humidity: s.humidity,
+    reference_point: s.reference_point ?? null,
     main_risks: risks,
     recommended_breed_ids: picked.map((b) => b.id),
     why: picked.map((b) => ({ breed_id: b.id, note: describeWhy(b, risks, s.humidity, s.state) })),
-    sources: SOURCES,
-    needs_review: true,
+    sources: sourcesFor(s),
+    // Cleared only when the climate row passed review; every candidate breed
+    // is already a reviewed one (see the filter above).
+    needs_review: s.needs_review !== false,
   };
 });
 

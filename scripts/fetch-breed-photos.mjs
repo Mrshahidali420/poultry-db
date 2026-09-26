@@ -35,14 +35,15 @@ export const HARRIS_FILES = {
   brakel: "brakel.jpg", brussbar: "brussbar.jpg", "california-grey": "california-grey.jpg",
   crevecoeur: "crevecoeur.jpg", dampierre: "dampierre.jpg", deathlayer: "deathlayer.jpg",
   "easter-egger": "easter-egger.jpg", empordanesa: "empordanesa.jpg", "gallina-di-saluzzo": "gallina-di-saluzzo.jpg",
-  gournay: "gournay.jpg", holland: "holland.jpg", isbar: "isbar.jpg", lyonnaise: "lyonnaise.jpg",
+  gournay: "gournay.jpg", holland: "holland.jpg", "silverudd-blue": "isbar.jpg", lyonnaise: "lyonnaise.jpg",
   "norwegian-jaerhon": "norwegian-jaehorn.jpg", "olive-egger": "olive-egger.jpg", orust: "orust.jpg",
   pavlovskaya: "pavlovskaya.jpg", "red-shaver": "red-shaver.jpg", rhodebar: "rhodebar.jpg", shamo: "shamo.jpg",
   speckledy: "speckledy.jpg", "swedish-black": "swedish-black.jpg", thuringian: "thuringian.jpg",
   twentse: "twentse.jpg", "whiting-true-blue": "whiting-true-blue.jpg",
   // The "Black Star / Red Star" file shows a red sex-link hen, so it only
-  // serves the red sex-link. Cinnamon Queen is a different hybrid from the
-  // Golden Comet, so it is not reused there.
+  // serves the red sex-link (the umbrella record for Golden Comet and ISA
+  // Brown, which are aliases now). The Isbar file serves the Silverudd Blue,
+  // its current name.
   "red-sex-link": "black-red-star.jpg",
 };
 const HARRIS_RAW = "https://raw.githubusercontent.com/Harris730/Chicken_breed_dataset/HEAD/images/";
@@ -122,7 +123,7 @@ const stripHtml = (s) => (s || "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").
 // Extra Commons search names for breeds whose page title is not what photo
 // uploaders call them.
 const COMMONS_NAMES = {
-  "golden-comet": ["Gold Comet", "Golden Comet hen"], "red-sex-link": ["Red Star"], "black-sex-link": ["Black Star"],
+  "red-sex-link": ["Red Star", "Gold Comet", "Golden Comet hen", "ISA Brown"],"black-sex-link": ["Black Star"],
   // Belgian Bantam's German name is what the only Commons photos are filed under.
   "belgian-bantam": ["Antwerpener Bartzwerg"],
   // No photo is filed under "Croad Langshan" specifically; the breed is the

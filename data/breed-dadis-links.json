@@ -331,12 +331,6 @@
     ]
   },
   {
-    "breed_id": "broiler",
-    "dadis_ids": [
-      "gha-aribro-broiler"
-    ]
-  },
-  {
     "breed_id": "brugse-vechter",
     "dadis_ids": [
       "bel-brugse-vechter"
@@ -657,36 +651,6 @@
     "breed_id": "iowa-blue",
     "dadis_ids": [
       "usa-iowa-blue"
-    ]
-  },
-  {
-    "breed_id": "isa-brown",
-    "dadis_ids": [
-      "bfa-isa-brown",
-      "bgd-isa-brown",
-      "bol-isa-brown",
-      "bwa-isa-brown",
-      "chl-isa-brown",
-      "civ-souche-pondeuse",
-      "cod-isa-brown",
-      "est-isa-brown",
-      "gab-isa-brown",
-      "gha-isa-brown",
-      "gin-isa-brown",
-      "gtm-isa-brown",
-      "hti-isa-brown",
-      "idn-isa-brown",
-      "mli-isa-brown",
-      "nic-isa-brown",
-      "npl-isa-brown",
-      "omn-local-omani",
-      "per-isa-brown",
-      "rwa-isa-brown",
-      "sen-isa-brown",
-      "tgo-isa-brown",
-      "tto-isa-brown",
-      "ukr-isa-brown",
-      "ven-isa-brown"
     ]
   },
   {
@@ -1210,6 +1174,36 @@
     "breed_id": "ramelsloher",
     "dadis_ids": [
       "deu-ramelsloher"
+    ]
+  },
+  {
+    "breed_id": "red-sex-link",
+    "dadis_ids": [
+      "bfa-isa-brown",
+      "bgd-isa-brown",
+      "bol-isa-brown",
+      "bwa-isa-brown",
+      "chl-isa-brown",
+      "civ-souche-pondeuse",
+      "cod-isa-brown",
+      "est-isa-brown",
+      "gab-isa-brown",
+      "gha-isa-brown",
+      "gin-isa-brown",
+      "gtm-isa-brown",
+      "hti-isa-brown",
+      "idn-isa-brown",
+      "mli-isa-brown",
+      "nic-isa-brown",
+      "npl-isa-brown",
+      "omn-local-omani",
+      "per-isa-brown",
+      "rwa-isa-brown",
+      "sen-isa-brown",
+      "tgo-isa-brown",
+      "tto-isa-brown",
+      "ukr-isa-brown",
+      "ven-isa-brown"
     ]
   },
   {

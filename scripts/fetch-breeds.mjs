@@ -25,6 +25,11 @@ const BREEDS_FILE = path.join(DATA_DIR, "breeds.json");
 const BREEDS_EXTRA_FILE = path.join(DATA_DIR, "breeds_extra.json");
 const SOURCES_FILE = path.join(DATA_DIR, "sources.json");
 
+// Wikipedia pages that are not kept as breeds (owner decision, 2026-09-26).
+// Golden Comet, ISA Brown and Isbar live on as aliases in breed-aliases.json;
+// Broiler is a production type in data/curated/production-types.json.
+const RETIRED_BREED_IDS = new Set(["broiler", "golden-comet", "isa-brown", "isbar"]);
+
 const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
 const FORCE = process.argv.includes("--force");
 
@@ -173,6 +178,7 @@ async function main() {
   for (const title of candidateTitles) {
     // What checking this title produced last time (breed id, or null = not a breed).
     const known = FORCE ? null : recentTitle(titleCache, "breeds", title);
+    if (RETIRED_BREED_IDS.has(known?.id ?? slugify(title))) continue;
     if (known && known.id === null) {
       skippedKnownRejects += 1;
       continue;
@@ -191,6 +197,7 @@ async function main() {
         rejectedNonBreed += 1;
         continue;
       }
+      if (RETIRED_BREED_IDS.has(record.id)) continue;
       results.set(record.id, record);
       sources.add(record.url);
       fetchedCount += 1;

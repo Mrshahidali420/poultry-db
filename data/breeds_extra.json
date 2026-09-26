@@ -8308,119 +8308,6 @@
     }
   },
   {
-    "id": "broiler",
-    "eggs_per_year_min": {
-      "value": null,
-      "source_url": null
-    },
-    "eggs_per_year_max": {
-      "value": null,
-      "source_url": null
-    },
-    "egg_size": {
-      "value": null,
-      "source_url": null
-    },
-    "temperament": {
-      "value": null,
-      "source_url": null
-    },
-    "broodiness": {
-      "value": null,
-      "source_url": null
-    },
-    "cold_hardy": {
-      "value": null,
-      "source_url": null
-    },
-    "heat_tolerant": {
-      "value": null,
-      "source_url": null
-    },
-    "beginner_friendly": {
-      "value": null,
-      "source_url": null
-    },
-    "purpose": {
-      "value": "meat",
-      "source_url": "https://en.wikipedia.org/wiki/Broiler",
-      "origin": "extract"
-    },
-    "bantam_available": {
-      "value": null,
-      "source_url": null
-    },
-    "varieties": {
-      "value": [],
-      "source_url": null
-    },
-    "lifespan_years": {
-      "value": null,
-      "source_url": null
-    },
-    "notes": {
-      "value": null,
-      "source_url": null
-    },
-    "needs_review": true,
-    "egg_color": {
-      "value": null,
-      "source_url": null
-    },
-    "hen_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "rooster_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "autosexing": {
-      "value": null,
-      "source_url": null
-    },
-    "skin_color": {
-      "value": "yellowish",
-      "source_url": "https://en.wikipedia.org/wiki/Broiler",
-      "origin": "extract"
-    },
-    "notable_traits": {
-      "value": [
-        "typically white feathered",
-        "bred for very fast growth and high feed conversion",
-        "reaches slaughter weight around 2 kg in 5 to 7 weeks",
-        "prone to skeletal and heart-related welfare problems from rapid growth",
-        "slow-growing free-range/organic strains reach slaughter weight at 12-16 weeks"
-      ],
-      "source_url": "https://en.wikipedia.org/wiki/Broiler",
-      "origin": "extract"
-    },
-    "history_summary": {
-      "value": "The modern broiler emerged from pedigree breeding that began around 1916 and a Cornish x Plymouth Rock cross introduced in the 1930s, which became the dominant meat bird by the 1960s. Breeding programs since the 1950s, such as Donald Shaver's, further refined growth rate and traits like colour-sexing to produce today's fast-growing commercial broilers.",
-      "source_url": "https://en.wikipedia.org/wiki/Broiler",
-      "origin": "extract"
-    },
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Broiler",
-        "publisher": "Wikipedia",
-        "source_confidence": "page",
-        "supports": [
-          "purpose",
-          "skin_color",
-          "notable_traits",
-          "history_summary"
-        ]
-      }
-    ],
-    "summary": {
-      "value": "A broiler is not a single breed but any chicken raised mainly for meat. Before modern meat strains existed, broilers were mostly young cockerels culled from farm flocks. Organized pedigree breeding started around 1916, and in the 1930s breeders crossed Cornish males with large white Plymouth Rock hens, a cross that dominated meat production by the 1960s. Today's commercial strains come from company breeding programs and are usually white feathered with yellowish skin. They grow very fast, turn feed into meat efficiently and move little, reaching about 4.4 pounds in five to seven weeks. Slower growing strains used for free range and organic systems take closer to 12 to 16 weeks. That rapid growth brings real welfare problems, including leg and skeletal disorders and heart trouble, so housing, ventilation and stocking density need careful management. Most are raised in large mixed sex flocks in sheds.",
-      "sources": [
-        "https://en.wikipedia.org/wiki/Broiler"
-      ]
-    }
-  },
-  {
     "id": "brugse-vechter",
     "eggs_per_year_min": {
       "value": 150,
@@ -15265,169 +15152,6 @@
     }
   },
   {
-    "id": "golden-comet",
-    "eggs_per_year_min": {
-      "value": 260,
-      "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
-      "origin": "review:claude-opus"
-    },
-    "eggs_per_year_max": {
-      "value": 330,
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "egg_size": {
-      "value": null,
-      "source_url": null
-    },
-    "temperament": {
-      "value": "calm, friendly, docile",
-      "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
-      "origin": "review:claude-opus"
-    },
-    "broodiness": {
-      "value": "low",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "cold_hardy": {
-      "value": "yes",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "heat_tolerant": {
-      "value": "yes",
-      "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
-      "origin": "review:claude-opus"
-    },
-    "beginner_friendly": {
-      "value": null,
-      "source_url": null
-    },
-    "purpose": {
-      "value": "eggs",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "bantam_available": {
-      "value": null,
-      "source_url": null
-    },
-    "varieties": {
-      "value": [],
-      "source_url": null
-    },
-    "lifespan_years": {
-      "value": 4.5,
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "notes": {
-      "value": null,
-      "source_url": null
-    },
-    "needs_review": false,
-    "egg_color": {
-      "value": "brown",
-      "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
-      "origin": "review:claude-opus"
-    },
-    "hen_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "rooster_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "autosexing": {
-      "value": "yes",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "comb": {
-      "value": "single, upright, red",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "earlobe_color": {
-      "value": "red",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "skin_color": {
-      "value": "yellow",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "feathered_legs": {
-      "value": "no",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "origin_country": {
-      "value": "United States (developed by the Hubbard hatchery)",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "notable_traits": {
-      "value": [
-        "sex-linked, chick sex visible from hatch by color",
-        "short productive lifespan, egg-laying drops off by age two to three",
-        "prone to reproductive problems after age three",
-        "comb is prone to frostbite"
-      ],
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "history_summary": {
-      "value": "A commercial sex-linked hybrid created by crossing a White Rock or Rhode Island White hen with a New Hampshire Red rooster, originated by the Hubbard hatchery. It is not recognized as a true breed by the American Poultry Association because it is a crossbreed, and while prized for very high egg production, its productive lifespan is short, typically two to three years.",
-      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
-      "origin": "extract"
-    },
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Golden_Comet",
-        "publisher": "Wikipedia",
-        "source_confidence": "page",
-        "supports": [
-          "eggs_per_year_max",
-          "temperament",
-          "broodiness",
-          "cold_hardy",
-          "heat_tolerant",
-          "purpose",
-          "origin_country",
-          "autosexing",
-          "comb",
-          "skin_color",
-          "lifespan_years",
-          "history_summary"
-        ]
-      },
-      {
-        "url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
-        "publisher": "My Pet Chicken",
-        "source_confidence": "page",
-        "supports": [
-          "eggs_per_year_min",
-          "egg_color",
-          "temperament",
-          "cold_hardy",
-          "heat_tolerant",
-          "autosexing"
-        ]
-      }
-    ],
-    "summary": {
-      "value": "The Golden Comet is a sex-linked hybrid layer, not a true breed, first produced by the Hubbard hatchery in the United States. It comes from mating a New Hampshire Red rooster with a White Rock or Rhode Island White hen, and chicks can be sexed by color at hatch. It is sold under many names, including Red Star, Golden Buff and Cinnamon Queen. Hens are reddish brown to gold, with a single red comb and yellow, clean legs. They can start laying at about 16 weeks and give roughly 260 to 330 brown eggs a year, but output drops after about two years, and they rarely go broody. Golden Comets are calm, friendly and easy to handle. They manage both cold and hot weather if given shade and water, though the comb can frostbite. They suit beginners who mainly want eggs.",
-      "sources": [
-        "https://en.wikipedia.org/wiki/Golden_Comet",
-        "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star"
-      ]
-    }
-  },
-  {
     "id": "gournay",
     "tags": [],
     "needs_review": false,
@@ -17165,271 +16889,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Iowa_Blue",
         "https://starmilling.com/poultry-chicken-breeds/"
-      ]
-    }
-  },
-  {
-    "id": "isa-brown",
-    "eggs_per_year_min": {
-      "value": 300,
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "eggs_per_year_max": {
-      "value": 300,
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "egg_size": {
-      "value": "large",
-      "source_url": "https://www.isa-poultry.com/en/product/isa-brown/",
-      "origin": "review:claude-opus"
-    },
-    "temperament": {
-      "value": null,
-      "source_url": null
-    },
-    "broodiness": {
-      "value": null,
-      "source_url": null
-    },
-    "cold_hardy": {
-      "value": null,
-      "source_url": null
-    },
-    "heat_tolerant": {
-      "value": null,
-      "source_url": null
-    },
-    "beginner_friendly": {
-      "value": null,
-      "source_url": null
-    },
-    "purpose": {
-      "value": "eggs",
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "bantam_available": {
-      "value": null,
-      "source_url": null
-    },
-    "varieties": {
-      "value": [],
-      "source_url": null
-    },
-    "lifespan_years": {
-      "value": null,
-      "source_url": null
-    },
-    "notes": {
-      "value": null,
-      "source_url": null
-    },
-    "needs_review": true,
-    "egg_color": {
-      "value": "brown",
-      "source_url": "https://www.isa-poultry.com/en/product/isa-brown/",
-      "origin": "review:claude-opus"
-    },
-    "hen_weight_kg": {
-      "value": 2,
-      "source_url": "https://www.isa-poultry.com/en/product/isa-brown/",
-      "origin": "review:claude-opus"
-    },
-    "rooster_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "autosexing": {
-      "value": "yes",
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "origin_country": {
-      "value": "France (developed by Institut de Selection Animale)",
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "origin_year_or_period": {
-      "value": "developed 1978",
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "history_summary": {
-      "value": "A commercial sex-linked hybrid developed in 1978 by the French company Institut de Selection Animale for battery egg production, bred from a closely guarded mix of breeds including Rhode Island Red and Rhode Island White stock. It is prized for laying about 300 eggs in its first year, and the company behind it later merged into what became Hendrix Genetics.",
-      "source_url": "https://en.wikipedia.org/wiki/ISA_Brown",
-      "origin": "extract"
-    },
-    "sources": [
-      {
-        "url": "https://www.isa-poultry.com/en/product/isa-brown/",
-        "publisher": "ISA (Hendrix Genetics)",
-        "source_confidence": "page",
-        "supports": [
-          "hen_weight_kg",
-          "egg_color",
-          "egg_size",
-          "eggs_per_year_min",
-          "purpose"
-        ]
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/ISA_Brown",
-        "publisher": "Wikipedia",
-        "source_confidence": "page",
-        "supports": [
-          "eggs_per_year_min",
-          "eggs_per_year_max",
-          "purpose",
-          "autosexing",
-          "origin_country",
-          "origin_year_or_period",
-          "history_summary"
-        ]
-      }
-    ],
-    "summary": {
-      "value": "The ISA Brown is a commercial hybrid layer, not a breed. The French firm Institut de Selection Animale created it in 1978 for large egg farms, and the company is now part of Hendrix Genetics. The exact recipe is kept secret, but Rhode Island Red and Rhode Island White stock are thought to be in the mix. The cross is sex-linked, so chicks can be sorted by color at hatch. Hens are small, about 4.3 pounds, and a flock reaches half production at about 21 weeks. A hen lays roughly 300 brown eggs in her first year, and the breeder reports close to 480 over a full commercial cycle to 100 weeks. The eggs average about 62 grams, which is a US large. The breeder says the hens adapt to many climates and housing systems.",
-      "sources": [
-        "https://en.wikipedia.org/wiki/ISA_Brown",
-        "https://www.isa-poultry.com/en/product/isa-brown/"
-      ]
-    }
-  },
-  {
-    "id": "isbar",
-    "tags": [],
-    "needs_review": true,
-    "eggs_per_year_min": {
-      "value": 200,
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
-    },
-    "eggs_per_year_max": {
-      "value": null,
-      "source_url": null
-    },
-    "egg_size": {
-      "value": null,
-      "source_url": null
-    },
-    "egg_color": {
-      "value": "green",
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "review:claude-opus"
-    },
-    "temperament": {
-      "value": null,
-      "source_url": null
-    },
-    "broodiness": {
-      "value": null,
-      "source_url": null
-    },
-    "cold_hardy": {
-      "value": "yes",
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "review:claude-opus"
-    },
-    "heat_tolerant": {
-      "value": null,
-      "source_url": null
-    },
-    "beginner_friendly": {
-      "value": null,
-      "source_url": null
-    },
-    "purpose": {
-      "value": "eggs",
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
-    },
-    "bantam_available": {
-      "value": null,
-      "source_url": null
-    },
-    "varieties": {
-      "value": [],
-      "source_url": null
-    },
-    "lifespan_years": {
-      "value": null,
-      "source_url": null
-    },
-    "hen_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "rooster_weight_kg": {
-      "value": null,
-      "source_url": null
-    },
-    "autosexing": {
-      "value": null,
-      "source_url": null
-    },
-    "notes": {
-      "value": null,
-      "source_url": null
-    },
-    "origin_country": {
-      "value": "Sweden",
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
-    },
-    "origin_year_or_period": {
-      "value": "1950s",
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
-    },
-    "notable_traits": {
-      "value": [
-        "developed by Martin Silverudd",
-        "the only single-combed breed known to lay green eggs",
-        "roosters have deep blue body feathers and shimmering metallic hackles; splash patterns are also common"
-      ],
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
-    },
-    "history_summary": {
-      "value": "The Isbar was developed in 1950s Sweden by Martin Silverudd, who aimed to create autosexing breeds that lay unusually colored eggs in volume. It is the only single-combed breed known to lay green eggs.",
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
-    },
-    "sources": [
-      {
-        "url": "https://starmilling.com/poultry-chicken-breeds/",
-        "publisher": "Star Milling Co.",
-        "source_confidence": "page",
-        "supports": [
-          "eggs_per_year_min",
-          "egg_color",
-          "cold_hardy",
-          "origin_country",
-          "origin_year_or_period",
-          "purpose",
-          "notable_traits"
-        ]
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/Silverudd_Blue",
-        "publisher": "Wikipedia",
-        "source_confidence": "page",
-        "supports": [
-          "egg_color",
-          "origin_country",
-          "comb",
-          "purpose",
-          "history_summary"
-        ]
-      }
-    ],
-    "summary": {
-      "value": "Now more often called the Silverudd Blue, the Isbar (said like ice-bar) is a scarce chicken from Sweden. Martin Silverudd, a monk and poultry breeder in Smaland in southern Sweden, worked on it from the 1950s. He wanted hens that laid plenty of eggs in unusual colors. Its main roots are New Hampshire and Rhode Island Red, with Cream Legbar crosses bringing in the colored shell. Hens lay about 200 eggs a year in shades of green, sometimes with brown speckles, and each egg weighs about 50 to 65 grams. It is a single-combed bird. Most are blue, with black and splash birds also common, and cocks show bright metallic neck feathers. Because Silverudd died in 1986 before the work was finished, birds still vary in size and egg shade. They handle cold weather well and forage actively, which suits small farms in cool climates.",
-      "sources": [
-        "https://starmilling.com/poultry-chicken-breeds/",
-        "https://en.wikipedia.org/wiki/Silverudd_Blue"
       ]
     }
   },
@@ -28456,7 +27915,7 @@
   {
     "id": "red-sex-link",
     "tags": [],
-    "needs_review": true,
+    "needs_review": false,
     "eggs_per_year_min": {
       "value": 240,
       "source_url": "https://www.omlet.us/breeds/chickens/red_star/",
@@ -28465,7 +27924,14 @@
     "eggs_per_year_max": {
       "value": 300,
       "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
+      "origin": "extract",
+      "conflict": true,
+      "alternatives": [
+        {
+          "value": 330,
+          "source_url": "https://en.wikipedia.org/wiki/Golden_Comet"
+        }
+      ]
     },
     "egg_size": {
       "value": "large",
@@ -28478,8 +27944,8 @@
       "origin": "extract"
     },
     "temperament": {
-      "value": "friendly, docile",
-      "source_url": "https://www.omlet.us/breeds/chickens/red_star/",
+      "value": "calm, friendly, docile",
+      "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
       "origin": "review:claude-opus"
     },
     "broodiness": {
@@ -28516,13 +27982,21 @@
       "source_url": null
     },
     "lifespan_years": {
-      "value": null,
-      "source_url": null
+      "value": 4.5,
+      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
+      "origin": "extract"
     },
     "hen_weight_kg": {
       "value": 2.7,
       "source_url": "https://www.omlet.us/breeds/chickens/red_star/",
-      "origin": "review:claude-opus"
+      "origin": "review:claude-opus",
+      "conflict": true,
+      "alternatives": [
+        {
+          "value": 2,
+          "source_url": "https://www.isa-poultry.com/en/product/isa-brown/"
+        }
+      ]
     },
     "rooster_weight_kg": {
       "value": 3.6,
@@ -28535,8 +28009,9 @@
       "origin": "extract"
     },
     "notes": {
-      "value": null,
-      "source_url": null
+      "value": "Umbrella record for red sex-link hybrid layers. Golden Comet and ISA Brown were merged into it on 2026-09-26 and are kept as aliases. The hen weight alternative of 2 kg is the commercial ISA Brown strain.",
+      "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
+      "origin": "review:claude-opus"
     },
     "origin_country": {
       "value": "United States",
@@ -28547,15 +28022,19 @@
       "value": [
         "also called Red Star",
         "typically a cross of a Rhode Island Red or New Hampshire rooster onto a White Rock, Rhode Island White, Delaware or Silver Laced Wyandotte hen",
-        "the Golden Comet, Cinnamon Queen, ISA Brown and Red Shaver are commercial hatchery strains bred along the same red sex-link principle"
+        "the Golden Comet, Cinnamon Queen, ISA Brown and Red Shaver are commercial hatchery strains bred along the same red sex-link principle",
+        "short productive lifespan, egg-laying drops off by age two to three",
+        "prone to reproductive problems after age three",
+        "comb is prone to frostbite",
+        "the ISA Brown strain was developed in France in 1978 by Institut de Selection Animale, now part of Hendrix Genetics"
       ],
       "source_url": "https://en.wikipedia.org/wiki/Sex-link",
-      "origin": "extract"
+      "origin": "review:claude-opus"
     },
     "history_summary": {
-      "value": "Red sex-links are crossbred hybrids developed so that chick down color is linked to sex, making chick sexing easy. Different hatcheries sell their own strain of this cross under different trade names, all functioning as heavy brown-egg production layers.",
+      "value": "Red sex-links are crossbred hybrids in which chick down color is linked to sex, so chicks can be sorted at hatch. Hatcheries sell their own strains under trade names such as Golden Comet, first produced by the Hubbard hatchery, and Red Star. The ISA Brown is a closely related commercial strain developed in France in 1978 by Institut de Selection Animale. As crossbreeds they are not recognized as a breed by the American Poultry Association.",
       "source_url": "https://en.wikipedia.org/wiki/Sex-link",
-      "origin": "extract"
+      "origin": "review:claude-opus"
     },
     "sources": [
       {
@@ -28572,7 +28051,22 @@
           "cold_hardy",
           "heat_tolerant",
           "broodiness",
-          "autosexing"
+          "autosexing",
+          "origin_country"
+        ]
+      },
+      {
+        "url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
+        "publisher": "My Pet Chicken",
+        "source_confidence": "page",
+        "supports": [
+          "eggs_per_year_min",
+          "egg_color",
+          "temperament",
+          "cold_hardy",
+          "heat_tolerant",
+          "autosexing",
+          "notes"
         ]
       },
       {
@@ -28586,22 +28080,89 @@
         ]
       },
       {
+        "url": "https://www.isa-poultry.com/en/product/isa-brown/",
+        "publisher": "ISA (Hendrix Genetics)",
+        "source_confidence": "page",
+        "supports": [
+          "hen_weight_kg",
+          "egg_color",
+          "egg_size",
+          "eggs_per_year_max",
+          "purpose",
+          "notable_traits"
+        ]
+      },
+      {
         "url": "https://en.wikipedia.org/wiki/Sex-link",
         "publisher": "Wikipedia",
         "source_confidence": "page",
         "supports": [
           "autosexing",
-          "notable_traits"
+          "egg_color",
+          "purpose",
+          "bantam_available",
+          "origin_country",
+          "notable_traits",
+          "history_summary"
+        ]
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Golden_Comet",
+        "publisher": "Wikipedia",
+        "source_confidence": "page",
+        "supports": [
+          "eggs_per_year_max",
+          "broodiness",
+          "cold_hardy",
+          "lifespan_years",
+          "comb",
+          "earlobe_color",
+          "skin_color",
+          "feathered_legs",
+          "notable_traits",
+          "history_summary"
+        ]
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISA_Brown",
+        "publisher": "Wikipedia",
+        "source_confidence": "page",
+        "supports": [
+          "eggs_per_year_max",
+          "notable_traits",
+          "history_summary"
         ]
       }
     ],
     "summary": {
-      "value": "The Red Sex Link, often sold as the Red Star, is a hybrid rather than a true breed. It comes from putting a male of a red breed, usually the Rhode Island Red or the New Hampshire, over a light-colored hen such as a White Rock, Delaware, Rhode Island White or Silver Laced Wyandotte, a cross American hatcheries were using by the 1950s. Several hatchery strains, including the Golden Comet, follow the same idea. Chicks can be sexed by down color at hatch: pullets are red and cockerels pale. Grown hens are red with some white, and roosters are mostly white. Hens weigh about 6 pounds and roosters about 8. A hen lays roughly 240 to 300 large brown eggs a year and rarely goes broody. The birds are friendly and docile and cope with cold and heat. They suit beginners who want a steady supply of eggs.",
+      "value": "The Red Sex Link is a hybrid layer rather than a breed, and hatcheries sell it under several names, including Red Star, Golden Comet and Cinnamon Queen. The ISA Brown is a closely related commercial strain from France. A red rooster, usually a Rhode Island Red or New Hampshire, is mated to a light-colored hen such as a White Rock or Rhode Island White. Pullet chicks hatch red and cockerels hatch pale, so sexing them is easy. Hens weigh about 6 pounds, though the commercial ISA Brown is nearer 4.3 pounds. A hen lays roughly 240 to 300 large brown eggs a year, with the best output in her first two years, and seldom goes broody. The birds are calm, friendly and easy to handle, and they cope with cold and heat when given shelter, shade and water. The single comb can get frostbite in hard winters.",
       "sources": [
         "https://www.omlet.us/breeds/chickens/red_star/",
-        "https://starmilling.com/poultry-chicken-breeds/",
-        "https://en.wikipedia.org/wiki/Sex-link"
+        "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
+        "https://en.wikipedia.org/wiki/Sex-link",
+        "https://en.wikipedia.org/wiki/Golden_Comet",
+        "https://www.isa-poultry.com/en/product/isa-brown/"
       ]
+    },
+    "comb": {
+      "value": "single, upright, red",
+      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
+      "origin": "extract"
+    },
+    "earlobe_color": {
+      "value": "red",
+      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
+      "origin": "extract"
+    },
+    "skin_color": {
+      "value": "yellow",
+      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
+      "origin": "extract"
+    },
+    "feathered_legs": {
+      "value": "no",
+      "source_url": "https://en.wikipedia.org/wiki/Golden_Comet",
+      "origin": "extract"
     }
   },
   {
@@ -32444,8 +32005,9 @@
   {
     "id": "silverudd-blue",
     "eggs_per_year_min": {
-      "value": null,
-      "source_url": null
+      "value": 200,
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
     },
     "eggs_per_year_max": {
       "value": null,
@@ -32465,8 +32027,9 @@
       "source_url": null
     },
     "cold_hardy": {
-      "value": null,
-      "source_url": null
+      "value": "yes",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "review:claude-opus"
     },
     "heat_tolerant": {
       "value": null,
@@ -32477,8 +32040,16 @@
       "source_url": null
     },
     "purpose": {
-      "value": null,
-      "source_url": null
+      "value": "eggs",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract",
+      "conflict": true,
+      "alternatives": [
+        {
+          "value": "dual",
+          "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue"
+        }
+      ]
     },
     "bantam_available": {
       "value": null,
@@ -32535,10 +32106,13 @@
       "value": [
         "lays blue/green eggs weighing 50-65 grams",
         "four-toed with dark legs and dark beak",
-        "square body outline"
+        "square body outline",
+        "a single-combed breed that lays green eggs",
+        "roosters have deep blue body feathers and shimmering metallic hackles; splash patterns are also common",
+        "formerly known as the Isbar, Blue Isbar and Swedish green egg layer; renamed Silverudd Blue in 2016"
       ],
       "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue",
-      "origin": "extract"
+      "origin": "review:claude-opus"
     },
     "history_summary": {
       "value": "The Silverudd Blue was developed in Smaland, southern Sweden, by Martin Silverudd, crossing New Hampshire and Rhode Island Red stock with Cream Legbars from the UK to produce a blue-egg layer. Silverudd died in 1986 before the breed was fully fixed, so modern birds still vary in size and egg color, and the breed was renamed after him in 2016.",
@@ -32559,15 +32133,36 @@
           "comb",
           "origin_country",
           "notable_traits",
-          "history_summary"
+          "history_summary",
+          "purpose"
+        ]
+      },
+      {
+        "url": "https://starmilling.com/poultry-chicken-breeds/",
+        "publisher": "Star Milling Co.",
+        "source_confidence": "page",
+        "supports": [
+          "eggs_per_year_min",
+          "egg_color",
+          "cold_hardy",
+          "origin_country",
+          "origin_year_or_period",
+          "purpose",
+          "notable_traits"
         ]
       }
     ],
     "summary": {
-      "value": "The Silverudd Blue is a Swedish chicken created by Martin Silverudd in the Småland region of southern Sweden. He started mainly from New Hampshire and Rhode Island Red birds and crossed in Cream Legbars from Britain to get colored eggshells. Hens lay blue to green eggs of roughly 50 to 65 grams. Silverudd died in 1986 before the work was finished, so birds today still differ in size and in egg shade. The breed went by names such as Isbar and Swedish green egg layer before it took its creator's name in 2016. It is a medium-sized bird with a square outline, a single comb, four toes, dark legs and a dark beak. Hens weigh about 3.3 pounds and roosters about 5.5 pounds. Because it carries the blue gene, chicks hatch in black, blue or splash in a steady ratio, with blue the most common.",
+      "value": "The Silverudd Blue, once sold as the Isbar, is a scarce Swedish chicken. Martin Silverudd, a poultry breeder in the Smaland region, began work on it in the 1950s, aiming for hens that laid well and laid colored eggs. New Hampshire and Rhode Island Red stock form its base, and Cream Legbar crosses brought in the colored shell. Hens lay about 200 eggs a year in shades of green to blue-green, some with brown speckles, each weighing roughly 50 to 65 grams. The bird has a single comb, four toes, dark legs and a square outline. Most are blue, with black and splash birds common, and cocks carry bright metallic neck feathers. Hens weigh about 3.3 pounds and cocks about 5.5. Silverudd died in 1986 before the work was done, so size and egg shade still vary. The birds forage actively and handle cold weather well.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Silverudd_Blue"
+        "https://en.wikipedia.org/wiki/Silverudd_Blue",
+        "https://starmilling.com/poultry-chicken-breeds/"
       ]
+    },
+    "origin_year_or_period": {
+      "value": "1950s",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "origin": "extract"
     }
   },
   {

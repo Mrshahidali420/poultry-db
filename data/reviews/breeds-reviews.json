@@ -190,28 +190,6 @@
     ]
   },
   {
-    "breed_id": "golden-comet",
-    "status": "fixed",
-    "changes": "Temperament array rewritten as calm, friendly, docile (Wikipedia: laid-back, relaxed, amiable; My Pet Chicken: sweet, docile, friendly). Eggs per year min changed from 330 to 260, from My Pet Chicken's rating of about 5 eggs a week (5 x 52); Wikipedia's 330 (up to 6 a week) kept as the max. Heat tolerant changed from partly to yes: My Pet Chicken rates it tolerates heat well and Wikipedia says it thrives in hot and cold weather given shade and water. Added egg color brown (My Pet Chicken; breeds.json already had brown). Confirmed cold hardy, low broodiness, egg purpose, sex-linked hybrid of US hatchery origin. Note: My Pet Chicken sells this bird as Golden Buff or Red Star and lists Golden Comet, Red Sex Link and ISA Brown as other names, so these records overlap. No reviewed source gives weights or egg size.",
-    "reviewed_by": "claude-opus",
-    "reviewed_on": "2026-09-26",
-    "sources_checked": [
-      "https://en.wikipedia.org/wiki/Golden_Comet",
-      "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star"
-    ]
-  },
-  {
-    "breed_id": "isa-brown",
-    "status": "fixed",
-    "changes": "Added hen weight 2.0 kg (4.3 lb) from the breeder ISA (Hendrix Genetics), whose product page gives a body weight of 1950 g; this matches the 2 kg raw figure in breeds.json (the 3.2 kg female_weight_kg there looks wrong and is not used). Added egg color brown and egg size large from the same page: brown layer, average egg weight 62.5 g, which is in the US large grade. Confirmed about 300 eggs in the first laying year (Wikipedia); ISA gives 476 eggs per hen housed over 18 to 100 weeks. Confirmed egg purpose, sex-linked hybrid, French origin 1978. No reviewed source states temperament, cold or heat tolerance, or rooster weight, so they stay empty. My Pet Chicken lists ISA Brown as another name for its Red Star or Golden Comet, so this record overlaps golden-comet and red-sex-link.",
-    "reviewed_by": "claude-opus",
-    "reviewed_on": "2026-09-26",
-    "sources_checked": [
-      "https://en.wikipedia.org/wiki/ISA_Brown",
-      "https://www.isa-poultry.com/en/product/isa-brown/"
-    ]
-  },
-  {
     "breed_id": "olive-egger",
     "status": "fixed",
     "changes": "The only cached source is the Star Milling entry, which supports the 150 to 200 eggs a year, the olive green shell whose shade depends on the parents, laying from 5 to 6 months and the hybrid origin (a dark brown egg bird crossed with a blue egg bird). Temperament hardy, curious, active and origin country United States are not in that text, so both are cleared. Tried My Pet Chicken, Omlet and Cackle Hatchery for a second publisher; all returned 404 or 403, so this stays in review.",
@@ -224,13 +202,17 @@
   {
     "breed_id": "red-sex-link",
     "status": "fixed",
-    "changes": "Eggs per year minimum 280 was not in the cited Wikipedia text; set to 240 from Omlet (240 plus a year), with the maximum of 300 confirmed by Star Milling. Temperament calm, productive layer was not in Star Milling and mixes in laying; replaced with friendly, docile from Omlet. Added egg size large, hen weight 2.7 kg (6 lb), rooster weight 3.6 kg (8 lb), cold hardy yes, heat tolerant yes and broodiness low, all from Omlet. Brown eggs and US origin confirmed by Omlet. Most key facts rest on Omlet alone, so it stays in review.",
+    "changes": "Merged golden-comet and isa-brown into this record on the owner's decision: all three names describe the same overlapping commercial red sex-link hybrid (My Pet Chicken lists Golden Comet, Red Sex Link and ISA Brown as names for one bird). red-sex-link was kept as the umbrella id because it had the most complete reviewed facts (weights, egg size, temperament, cold and heat tolerance, broodiness). Folded in from golden-comet: temperament calm, friendly, docile (My Pet Chicken, agrees with Omlet), lifespan 4.5 years, single red comb, red earlobes, yellow skin, clean legs and the frostbite and short laying life notes (Wikipedia Golden Comet), and 330 eggs a year as an alternative maximum. Folded in from isa-brown: 2 kg hen weight from the breeder ISA as an alternative (commercial strain), and the French 1978 origin of the ISA Brown strain. Key facts now agree across 2+ publishers: brown large eggs (Omlet, ISA), 240 to 300 eggs (Omlet, Star Milling, ISA), cold and heat tolerant (Omlet, My Pet Chicken), low broodiness (Omlet, Wikipedia), friendly and docile (Omlet, My Pet Chicken), so needs_review is cleared. Rooster weight still rests on Omlet alone. Summary rewritten for the merged record.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
       "https://en.wikipedia.org/wiki/Sex-link",
       "https://starmilling.com/poultry-chicken-breeds/",
-      "https://www.omlet.us/breeds/chickens/red_star/"
+      "https://www.omlet.us/breeds/chickens/red_star/",
+      "https://en.wikipedia.org/wiki/Golden_Comet",
+      "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star",
+      "https://en.wikipedia.org/wiki/ISA_Brown",
+      "https://www.isa-poultry.com/en/product/isa-brown/"
     ]
   },
   {
@@ -1324,17 +1306,6 @@
     ]
   },
   {
-    "breed_id": "broiler",
-    "status": "needs-human",
-    "changes": "The filled fields (purpose meat, yellowish skin, white feathers, fast growth, history from 1916 and the Cornish x Plymouth Rock cross) all match Wikipedia. But a broiler is a production type, any chicken bred and raised for meat, not a breed, so it has no origin country, standard weights or egg figures. A human should decide whether it belongs in the breed list or should be moved to a guide or hybrid page. The linked FAO DAD-IS record (aribro broiler, Ghana) is one commercial strain, not the category. Note: breeds.json carries egg_color 'white/light brown' and comb 'red' from the Wikipedia infobox, which are generic and not breeds_extra fields.",
-    "reviewed_by": "claude-opus",
-    "reviewed_on": "2026-09-26",
-    "sources_checked": [
-      "https://en.wikipedia.org/wiki/Broiler",
-      "https://dadis-breed-datasheet-ws.web.app/?country=GHA&specie=Chicken&breed=aribro%20broiler&lang=en"
-    ]
-  },
-  {
     "breed_id": "brugse-vechter",
     "status": "fixed",
     "changes": "Temperament changed from a list (aggressive, powerful, hardy) to aggressive; powerful and hardy describe build and constitution, not temperament. Added hen 4.0 kg and rooster 5.25 kg (midpoint of 5.0 to 5.5 kg) from the Wikipedia infobox values already in breeds.json, and egg_size extra large from the 65 to 75 g egg weight. Confirmed about 150 cream eggs a year, poor sitters (broodiness low), fighting purpose, bantam version, triple comb, Belgium. FAO DAD-IS (Belgium) confirms Belgian origin and game fowl use. The conservation status alternatives cover large fowl and bantam separately, not a conflict. Egg and weight figures rest on Wikipedia alone, so needs_review stays true.",
@@ -1719,17 +1690,6 @@
       "https://www.poultryclub.org/breeds/chickens/hard-feather/indian-game/",
       "https://starmilling.com/poultry-chicken-breeds/",
       "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Indian%20Game&lang=en"
-    ]
-  },
-  {
-    "breed_id": "isbar",
-    "status": "needs-human",
-    "changes": "Possible duplicate of silverudd-blue: Wikipedia's Isbar page redirects to Silverudd Blue and says the breed was known as Isbar, Blue Isbar and Svensk Gronvarpare until it was renamed in 2016. Fixes made anyway: temperament list cleared, because 'friendly' and 'alert to predators' are not in the cited Star Milling text and 'cold-hardy' and 'good forager' are not temperament; cold hardiness moved to cold_hardy yes (Star Milling). Autosexing true cleared: Star Milling only says Silverudd aimed to create autosexing breeds, not that the Isbar is one. Egg color simplified to green (Star Milling green, Wikipedia blue or green). Sweden origin confirmed by both.",
-    "reviewed_by": "claude-opus",
-    "reviewed_on": "2026-09-26",
-    "sources_checked": [
-      "https://starmilling.com/poultry-chicken-breeds/",
-      "https://en.wikipedia.org/wiki/Silverudd_Blue"
     ]
   },
   {
@@ -2338,11 +2298,12 @@
   {
     "breed_id": "silverudd-blue",
     "status": "fixed",
-    "changes": "Added egg size medium to large from the stated egg weight of 50 to 65 g (Wikipedia). Confirmed blue/green eggs, hen about 1.5 kg and cock about 2.5 kg, black, blue and splash colors, single comb, Swedish origin and the history (Martin Silverudd, New Hampshire and Rhode Island Red base, Cream Legbar for the egg color, renamed in 2016). Hatchery pages could not be read and no other publisher was reached, so it stays flagged for review.",
+    "changes": "Merged isbar into this record: Wikipedia says the breed was known as Isbar, Blue Isbar and Swedish green egg layer until it was renamed Silverudd Blue in 2016, so silverudd-blue is the current name and isbar is now an alias. Folded in from isbar (Star Milling): about 200 eggs a year, cold hardy, egg purpose (Wikipedia's eggs and meat kept as a dual alternative), developed from the 1950s, green eggs, metallic hackles on cocks. Earlier checks kept: egg size medium to large from 50 to 65 g eggs, blue/green eggs, hen about 1.5 kg and cock about 2.5 kg, black, blue and splash, single comb, Swedish origin. Egg color and origin now agree across Wikipedia and Star Milling, but weights rest on Wikipedia alone and egg numbers and cold hardiness on Star Milling alone, so it stays flagged for review. Summary rewritten for the merged record.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
-      "https://en.wikipedia.org/wiki/Silverudd_Blue"
+      "https://en.wikipedia.org/wiki/Silverudd_Blue",
+      "https://starmilling.com/poultry-chicken-breeds/"
     ]
   },
   {
