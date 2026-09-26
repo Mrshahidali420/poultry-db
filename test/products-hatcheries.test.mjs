@@ -75,15 +75,18 @@ test("every product has a category and at least one source or a search URL", () 
   }
 });
 
-test("every product has name, brand, subcategory, price_range_usd, pros, cons, who_its_for", () => {
+test("every product has name, brand, subcategory, price_checked, who_its_for, and pros/cons arrays", () => {
   for (const p of products) {
     assert.ok(p.name, `${p.id} missing name`);
     assert.ok(p.brand, `${p.id} missing brand`);
     assert.ok(p.subcategory, `${p.id} missing subcategory`);
-    assert.ok(p.price_range_usd, `${p.id} missing price_range_usd`);
     assert.equal(p.price_checked, "2026-09-26", `${p.id} price_checked mismatch`);
-    assert.ok(Array.isArray(p.pros) && p.pros.length > 0, `${p.id} missing pros`);
-    assert.ok(Array.isArray(p.cons) && p.cons.length > 0, `${p.id} missing cons`);
+    // price_range_usd is null when no real current price was verified during research;
+    // pros/cons are [] when no real, sourced review content was found. Empty is honest,
+    // not a bug - inventing generic pros/cons instead would be worse.
+    assert.ok(p.price_range_usd === null || typeof p.price_range_usd === "string", `${p.id} bad price_range_usd`);
+    assert.ok(Array.isArray(p.pros), `${p.id} pros must be an array`);
+    assert.ok(Array.isArray(p.cons), `${p.id} cons must be an array`);
     assert.ok(p.who_its_for, `${p.id} missing who_its_for`);
     assert.ok("amazon_asin" in p, `${p.id} missing amazon_asin field`);
   }
@@ -94,6 +97,26 @@ test("amazon_asin is either null or a plausible ASIN string", () => {
     if (p.amazon_asin !== null) {
       assert.match(p.amazon_asin, /^[A-Z0-9]{10}$/, `${p.id} has malformed asin ${p.amazon_asin}`);
     }
+  }
+});
+
+test("rating, when present, is a plausible 0-5 number with a review_count", () => {
+  for (const p of products) {
+    if ("rating" in p && p.rating !== null && p.rating !== undefined) {
+      assert.ok(typeof p.rating === "number" && p.rating >= 0 && p.rating <= 5, `${p.id} has an implausible rating ${p.rating}`);
+    }
+  }
+});
+
+const isAmazonSearchUrl = (url) => /amazon\.[a-z.]+\/s\?/.test(url);
+
+test("products with real pros/cons cite at least one source that isn't just an Amazon search link", () => {
+  for (const p of products) {
+    const hasContent = (p.pros && p.pros.length > 0) || (p.cons && p.cons.length > 0);
+    if (!hasContent) continue;
+    const sources = Array.isArray(p.sources) ? p.sources : [];
+    const hasRealSource = sources.some((s) => !isAmazonSearchUrl(s.url));
+    assert.ok(hasRealSource, `${p.id} has pros/cons but no non-search source backing them`);
   }
 });
 

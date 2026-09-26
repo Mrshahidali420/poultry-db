@@ -1,13 +1,13 @@
 [
   {
     "id": "pre-fab-chicken-coop",
-    "name": "Pre-Fab Chicken Coop",
-    "brand": "Petmate",
+    "name": "Red Door Hen House II",
+    "brand": "Petmate / Precision Pet",
     "category": "coops",
     "subcategory": "small",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Petmate%20Pre-Fab%20Chicken%20Coop",
-    "price_range_usd": "$180-$260",
+    "amazon_asin": "B01MRSVGBO",
+    "amazon_url_search": "https://www.amazon.com/s?k=Petmate%20%2F%20Precision%20Pet%20Red%20Door%20Hen%20House%20II",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 2,
@@ -19,31 +19,27 @@
       "roost_bars": 1
     },
     "pros": [
-      "Resin never needs painting or sealing",
-      "Lightweight enough for one person to move",
-      "Easy-clean removable tray"
+      "Several access doors make collecting eggs and cleaning easier",
+      "Includes 2 internal nesting boxes, 2 roost bars and a pull-out cleaning tray"
     ],
-    "cons": [
-      "Small floor space limits it to a true starter flock",
-      "Not built for harsh winter climates without added insulation"
-    ],
+    "cons": [],
     "who_its_for": "A first-time keeper with 2-4 standard hens in a mild climate.",
     "sources": [
       {
-        "name": "Petmate",
-        "url": "https://www.petmate.com/"
+        "name": "Amazon - Petmate Precision Pet Red Door Hen House II",
+        "url": "https://www.amazon.com/Precision-Pet-Red-Door-House/dp/B01MRSVGBO"
       }
     ]
   },
   {
     "id": "home-sweet-home-chicken-coop",
-    "name": "Home Sweet Home Chicken Coop",
+    "name": "Premium+ Chicken Chateau Hutch",
     "brand": "Ware Manufacturing",
     "category": "coops",
     "subcategory": "small",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Ware%20Manufacturing%20Home%20Sweet%20Home%20Chicken%20Coop",
-    "price_range_usd": "$220-$320",
+    "amazon_asin": "B01MSFEHII",
+    "amazon_url_search": "https://www.amazon.com/s?k=Ware%20Manufacturing%20Premium%2B%20Chicken%20Chateau%20Hutch",
+    "price_range_usd": "$359-$686 (older reference price across retailers; current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 2,
@@ -55,30 +51,38 @@
       "roof": "asphalt shingle"
     },
     "pros": [
-      "Real wood look at a budget price",
-      "Elevated design keeps birds off cold, damp ground"
+      "Full-size pull-out pan and an interior nest box make cleaning and egg collection easier",
+      "Raised hutch with a ladder down to the pen"
     ],
     "cons": [
-      "Thin wood needs yearly weatherproofing",
-      "Ramp and door hardware are on the flimsy side"
+      "Some owners report no screen under the hutch floor",
+      "Screen door latch is flimsy and some owners reinforced it"
     ],
     "who_its_for": "Backyard keepers who want a traditional wood coop look on a budget.",
     "sources": [
       {
-        "name": "Ware Pet Products",
-        "url": "https://www.warepet.com/"
+        "name": "Amazon - Ware Premium+ Chicken Chateau Hutch",
+        "url": "https://www.amazon.com/Ware-Manufacturing-Premium-Chicken-Chateau/dp/B01MSFEHII"
+      },
+      {
+        "name": "BackYard Chickens - Ware Premium Backyard Hutch reviews",
+        "url": "https://www.backyardchickens.com/reviews/ware-premium-backyard-hutch.11553/"
+      },
+      {
+        "name": "Ware Pet Products - Chicken Chateau",
+        "url": "https://www.warepet.com/product/14055/chicken-chateau.html"
       }
     ]
   },
   {
     "id": "air26-wooden-chicken-coop",
-    "name": "AIR26 Wooden Chicken Coop",
+    "name": "AIR27 Wooden Chicken Coop",
     "brand": "Aivituvin",
     "category": "coops",
     "subcategory": "small",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Aivituvin%20AIR26%20Wooden%20Chicken%20Coop",
-    "price_range_usd": "$180-$250",
+    "amazon_asin": "B095H5SD81",
+    "amazon_url_search": "https://www.amazon.com/s?k=Aivituvin%20AIR27%20Wooden%20Chicken%20Coop",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 2,
@@ -90,30 +94,32 @@
       "run_included": true
     },
     "pros": [
-      "Attached small run included in the price",
-      "Pull-out tray makes cleaning quick"
+      "About 23 sq ft of roaming space, generous for a small coop",
+      "Waterproof PVC nesting box and wheels for moving it to fresh grass",
+      "Can be extended with the AIR29 run"
     ],
-    "cons": [
-      "Assembly instructions are often reported as unclear",
-      "Wood needs annual sealant to hold up outdoors"
-    ],
+    "cons": [],
     "who_its_for": "Small-yard keepers who want coop and run in one box.",
     "sources": [
       {
-        "name": "Aivituvin",
-        "url": "https://www.aivituvin.com/"
+        "name": "Amazon - Aivituvin AIR27 Chicken Coop",
+        "url": "https://www.amazon.com/Chicken-Chickens-Expandable-Outdoor-Resistant/dp/B095H5SD81"
+      },
+      {
+        "name": "Aivituvin - AIR27 product page",
+        "url": "https://aivituvin.com/products/chicken-coop-chicken-house-air27-inner-space-23-03ft"
       }
     ]
   },
   {
     "id": "sonoma-chicken-coop",
     "name": "Sonoma Chicken Coop",
-    "brand": "Producer's Pride",
+    "brand": "New Age Pet",
     "category": "coops",
     "subcategory": "medium",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Producer's%20Pride%20Sonoma%20Chicken%20Coop",
-    "price_range_usd": "$500-$650",
+    "amazon_asin": "B086LJMYQW",
+    "amazon_url_search": "https://www.amazon.com/s?k=New%20Age%20Pet%20Sonoma%20Chicken%20Coop",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 4,
@@ -125,30 +131,35 @@
       "run_included": true
     },
     "pros": [
-      "Sold and stocked at Tractor Supply stores nationwide",
-      "Roomy run plus enclosed coop in one structure"
+      "ECOFLEX composite (recycled plastic plus wood fiber) resists moisture and odor better than bare wood",
+      "Two levels, a hinged nesting-box lid and 2 roost bars",
+      "10-year limited warranty"
     ],
     "cons": [
-      "Heavy and time-consuming to assemble, often a two-person job",
-      "Roofing material is thin and benefits from an upgrade"
+      "Reviews of a sibling ECOFLEX model report poor ventilation and awkward interior access",
+      "The composite can be brittle and crack during assembly on similar models"
     ],
     "who_its_for": "A mid-size backyard flock owner shopping in-store rather than only online.",
     "sources": [
       {
-        "name": "Tractor Supply Co.",
-        "url": "https://www.tractorsupply.com/"
+        "name": "New Age Pet - Sonoma Chicken Coop with Pen",
+        "url": "https://newagepet.com/products/sonoma-chicken-coop-with-pen"
+      },
+      {
+        "name": "Home Depot - New Age Pet ECOFLEX Fontana reviews (sibling model)",
+        "url": "https://www.homedepot.com/p/reviews/New-Age-Pet-ECOFLEX-Fontana-Chicken-Barn-in-Tan-ECHK103-B/204167845/1"
       }
     ]
   },
   {
     "id": "air56-wooden-chicken-coop",
-    "name": "AIR56 Wooden Chicken Coop",
+    "name": "AIR45 Wooden Chicken Coop",
     "brand": "Aivituvin",
     "category": "coops",
     "subcategory": "medium",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Aivituvin%20AIR56%20Wooden%20Chicken%20Coop",
-    "price_range_usd": "$380-$470",
+    "amazon_asin": "B085KVN9N4",
+    "amazon_url_search": "https://www.amazon.com/s?k=Aivituvin%20AIR45%20Wooden%20Chicken%20Coop",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 4,
@@ -160,30 +171,40 @@
       "roost_bars": 2
     },
     "pros": [
-      "Good ventilation panels near the roofline",
-      "Larger run footprint than most boxed coops in this price range"
+      "Quick to assemble; some report two people done in under 30 minutes",
+      "Doors on both the run and the house; works with an automatic chicken door",
+      "Held up for months for at least one owner keeping 4 hens"
     ],
     "cons": [
-      "Roofing shingles are cosmetic, not a true waterproof layer, over time",
-      "Latch hardware benefits from an aftermarket predator-proof upgrade"
+      "Some units arrive with thin or broken wood panels",
+      "Reports of rain getting in, and one roof failing in a storm after about a month",
+      "Tight for the advertised 6 birds"
     ],
     "who_its_for": "Keepers scaling from a starter flock to 6-8 hens.",
     "sources": [
       {
-        "name": "Aivituvin",
-        "url": "https://www.aivituvin.com/"
+        "name": "Amazon - Aivituvin AIR45 Chicken Coop",
+        "url": "https://www.amazon.com/Aivituvin-Chicken-Nesting-Outdoor-Removable/dp/B085KVN9N4"
+      },
+      {
+        "name": "Aivituvin - AIR45 product page",
+        "url": "https://aivituvin.com/products/aivituvin-large-hen-house-with-run-air45"
+      },
+      {
+        "name": "YouTube - Aivituvin AIR45 Full Review",
+        "url": "https://www.youtube.com/watch?v=k5LQ-EeV_Xw"
       }
     ]
   },
   {
     "id": "big-setup-chicken-coop",
-    "name": "Big Setup Chicken Coop",
+    "name": "80in Multi-Level Wooden Chicken Coop",
     "brand": "Best Choice Products",
     "category": "coops",
     "subcategory": "medium",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Best%20Choice%20Products%20Big%20Setup%20Chicken%20Coop",
-    "price_range_usd": "$300-$420",
+    "amazon_asin": "B01DLE5HJU",
+    "amazon_url_search": "https://www.amazon.com/s?k=Best%20Choice%20Products%2080in%20Multi-Level%20Wooden%20Chicken%20Coop",
+    "price_range_usd": "$199.99-$449.99 (across retailers; current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 4,
@@ -195,30 +216,40 @@
       "run_included": true
     },
     "pros": [
-      "Competitive price for the combined coop-and-run footprint",
-      "Removable bottom tray for easier waste cleanup"
+      "Affordable, and generally takes 1-2 hours to assemble",
+      "Removable sliding tray and several access points",
+      "Ramp to a second level plus an attached run"
     ],
     "cons": [
-      "Wood thickness is on the thinner side compared with premium brands",
-      "Predator-proofing on stock latches is minimal out of the box"
+      "Softwood warps unless sealed; needs reinforcing against strong wind",
+      "Wire fencing keeps birds in but does not keep predators out",
+      "Vague instructions, flimsy hardware and pieces broken on arrival in some reports"
     ],
     "who_its_for": "Budget-focused buyers wanting a coop-and-run combo shipped to the door.",
     "sources": [
       {
-        "name": "Best Choice Products",
-        "url": "https://www.bestchoiceproducts.com/"
+        "name": "Amazon - Best Choice Products 80in Chicken Coop",
+        "url": "https://www.amazon.com/Best-Choice-Products-Chicken-Poultry/dp/B01DLE5HJU"
+      },
+      {
+        "name": "ChickenGearGuide - Best Choice 80in Coop Review",
+        "url": "https://chickengearguide.com/reviews/best-choice-chicken-coop-review"
+      },
+      {
+        "name": "Walmart - customer reviews (same coop)",
+        "url": "https://www.walmart.com/reviews/product/50883380"
       }
     ]
   },
   {
     "id": "large-chicken-coop",
-    "name": "Large Chicken Coop",
+    "name": "8x8 Value A-Frame Chicken Coop Kit",
     "brand": "Little Cottage Co.",
     "category": "coops",
     "subcategory": "large",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Little%20Cottage%20Co.%20Large%20Chicken%20Coop",
-    "price_range_usd": "$1,200-$2,000",
+    "amazon_asin": "B0D9R3S33J",
+    "amazon_url_search": "https://www.amazon.com/s?k=Little%20Cottage%20Co.%208x8%20Value%20A-Frame%20Chicken%20Coop%20Kit",
+    "price_range_usd": "$1,649-$2,082.50 (Home Depot; current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 8,
@@ -230,18 +261,23 @@
       "roost_bars": 3
     },
     "pros": [
-      "Amish-built solid wood construction holds up for years",
-      "Large windows and vents keep airflow strong in summer"
+      "Lumber comes precut and labeled with illustrated instructions",
+      "Framing rated for high winds and heavy snow; siding carries a 50-year warranty",
+      "Includes 4 nesting boxes, a roost bar and a ramp; made in the USA"
     ],
     "cons": [
-      "High price point compared with big-box coops",
-      "Heavy; typically needs delivery or a truck, not just home shipping"
+      "Expensive compared with prefab coops",
+      "Occasional alignment issues with a few precut pieces"
     ],
     "who_its_for": "Established keepers with 8+ birds wanting a coop built to last a decade or more.",
     "sources": [
       {
-        "name": "Little Cottage Co.",
-        "url": "https://www.littlecottage.com/"
+        "name": "Amazon - Little Cottage Co. 8x8 Value A-Frame Coop",
+        "url": "https://www.amazon.com/Little-Cottage-Co-8x8-Yourself/dp/B0D9R3S33J"
+      },
+      {
+        "name": "Home Depot - Value A-Frame Coop reviews",
+        "url": "https://www.homedepot.com/p/reviews/Little-Cottage-Co-Value-A-Frame-8-ft-x-8-ft-Wood-Chicken-Coop-Precut-Kit-with-Floor-64-sq-ft-8x8-VAFC-PC-FK/331708348/1"
       }
     ]
   },
@@ -251,9 +287,9 @@
     "brand": "OverEZ",
     "category": "coops",
     "subcategory": "large",
-    "amazon_asin": null,
+    "amazon_asin": "B0BZB6XHZD",
     "amazon_url_search": "https://www.amazon.com/s?k=OverEZ%20OverEZ%20Large%20Chicken%20Coop",
-    "price_range_usd": "$1,400-$1,700",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 8,
@@ -265,18 +301,28 @@
       "tool_free_assembly": true
     },
     "pros": [
-      "Panelized, mostly tool-free assembly is faster than stick-built coops",
-      "Elevated floor design keeps birds dry and reduces rodent burrowing"
+      "Solid US-made wood build with opening windows, raised off the ground",
+      "Every door and lid locks with a key",
+      "Arrives mostly pre-built and assembles in under an hour; owners report it holding up after 5 years"
     ],
     "cons": [
-      "Premium price relative to floor space",
-      "Panels can warp if not sealed promptly after assembly"
+      "Feels small for the advertised 15 chickens",
+      "Limited ventilation and roosts set too close together",
+      "Human door is small for cleaning; some reports of shipping damage"
     ],
     "who_its_for": "Keepers who want a large coop without hiring a carpenter.",
     "sources": [
       {
-        "name": "OverEZ",
-        "url": "https://overez.com/"
+        "name": "Amazon - OverEZ Large Chicken Coop",
+        "url": "https://www.amazon.com/OverEZ-Large-Chicken-Coop-Chickens/dp/B0BZB6XHZD"
+      },
+      {
+        "name": "BackYard Chickens - OverEZ Coop (Large) reviews",
+        "url": "https://www.backyardchickens.com/reviews/overez-chicken-coop-large.12106/reviews"
+      },
+      {
+        "name": "Backyard Dino - OverEZ Large Coop Review",
+        "url": "https://backyarddino.com/large-overez-chicken-coop-review/"
       }
     ]
   },
@@ -286,9 +332,9 @@
     "brand": "Formex",
     "category": "coops",
     "subcategory": "large",
-    "amazon_asin": null,
+    "amazon_asin": "B00BFO5KNW",
     "amazon_url_search": "https://www.amazon.com/s?k=Formex%20Snap%20Lock%20Chicken%20Coop",
-    "price_range_usd": "$1,300-$1,600",
+    "price_range_usd": "~$824.99 (8-bird Large model at Walmart; current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 8,
@@ -299,18 +345,28 @@
       "nest_boxes": 4
     },
     "pros": [
-      "Plastic panels never rot, need no repainting",
-      "Snap-together assembly with no power tools required"
+      "Double-walled plastic panels snap together without tools",
+      "UV-resistant, needs no painting and cleans with a power washer",
+      "Adjustable vents and a removable tray; owners describe it as sturdy and predator-resistant"
     ],
     "cons": [
-      "Higher upfront cost than an equivalent wood coop",
-      "Plastic can get warm inside in full sun without added ventilation"
+      "Pricey compared with wooden kits, and no run included",
+      "Perches and roosts can be short or too close together for large breeds",
+      "Latches are not very secure, and real capacity is lower than advertised"
     ],
     "who_its_for": "Keepers in humid or rainy climates who want a maintenance-free large coop.",
     "sources": [
       {
-        "name": "Formex",
-        "url": "https://formex.com/"
+        "name": "Amazon - Formex Snap Lock Large Chicken Coop",
+        "url": "https://www.amazon.com/SnapLock-Formex-Chicken-Backyard-Bantams/dp/B00BFO5KNW"
+      },
+      {
+        "name": "BackYard Chickens - Formex Snap Lock Coop reviews",
+        "url": "https://www.backyardchickens.com/reviews/formex-snap-lock-coop.11520/reviews"
+      },
+      {
+        "name": "Chicken Method - Snap Lock review",
+        "url": "https://chickenmethod.com/snap-lock-large-chicken-coop-by-formex-review/"
       }
     ]
   },
@@ -320,9 +376,9 @@
     "brand": "OverEZ",
     "category": "coops",
     "subcategory": "walk-in",
-    "amazon_asin": null,
+    "amazon_asin": "B0C825KKYK",
     "amazon_url_search": "https://www.amazon.com/s?k=OverEZ%20Walk-In%20Chicken%20Coop",
-    "price_range_usd": "$1,800-$2,400",
+    "price_range_usd": "~$3,464 (Tractor Supply, same coop; current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 10,
@@ -334,18 +390,20 @@
       "nest_boxes": 6
     },
     "pros": [
-      "Full standing-height interior makes daily chores far easier",
-      "Panelized build ships flat and assembles without a crew"
+      "True walk-in with 6 ft interior clearance, houses up to 18 chickens",
+      "5 nesting boxes, 3 roosts, 2 vents, screened windows and a Dutch door",
+      "Assembles in about an hour with a screw gun"
     ],
-    "cons": [
-      "Large footprint needs real yard space to install",
-      "One of the pricier coop options on this list"
-    ],
+    "cons": [],
     "who_its_for": "Keepers with larger flocks who are tired of stooping to clean a coop.",
     "sources": [
       {
-        "name": "OverEZ",
-        "url": "https://overez.com/"
+        "name": "Amazon - OverEZ Walk-in Chicken Coop",
+        "url": "https://www.amazon.com/OverEZ-Walk-Chicken-Coop-Chickens/dp/B0C825KKYK"
+      },
+      {
+        "name": "Tractor Supply - OverEZ Walk-In Coop",
+        "url": "https://search.tractorsupply.com/tsc/product/overez-walk-in-chicken-coop-for-18-chickens"
       }
     ]
   },
@@ -357,7 +415,7 @@
     "subcategory": "walk-in",
     "amazon_asin": null,
     "amazon_url_search": "https://www.amazon.com/s?k=Carolina%20Coops%20Carolina%20Coops%20Walk-In%20Coop",
-    "price_range_usd": "$3,000-$6,000+",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 10,
@@ -367,31 +425,25 @@
       "material": "cedar/pine, custom",
       "human_door_height": "6-7 ft"
     },
-    "pros": [
-      "Fully custom sizing and add-ons (windows, runs, cupolas)",
-      "High-end build quality intended to last decades"
-    ],
-    "cons": [
-      "Long lead times since each coop is built to order",
-      "Premium pricing puts it out of reach for casual keepers"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Serious hobbyists or small farms wanting a custom, permanent structure.",
     "sources": [
       {
-        "name": "Carolina Coops",
+        "name": "Carolina Coops - official site",
         "url": "https://carolinacoops.com/"
       }
     ]
   },
   {
     "id": "a-frame-chicken-tractor",
-    "name": "A-Frame Chicken Tractor",
+    "name": "Penthouse Tractor Coop",
     "brand": "Carolina Coops",
     "category": "coops",
     "subcategory": "chicken tractor",
     "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Carolina%20Coops%20A-Frame%20Chicken%20Tractor",
-    "price_range_usd": "$700-$1,400",
+    "amazon_url_search": "https://www.amazon.com/s?k=Carolina%20Coops%20Penthouse%20Tractor%20Coop",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 4,
@@ -401,19 +453,13 @@
       "material": "wood frame, wire",
       "wheels": true
     },
-    "pros": [
-      "Classic A-frame design is lightweight relative to its size",
-      "Wheel kit lets one person reposition it over fresh grass"
-    ],
-    "cons": [
-      "Interior headroom is limited compared with a stationary coop",
-      "Not ideal as a sole permanent home in cold climates"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Rotational graziers who want to move the flock across pasture regularly.",
     "sources": [
       {
-        "name": "Carolina Coops",
-        "url": "https://carolinacoops.com/"
+        "name": "Carolina Coops - Penthouse Tractor Coop",
+        "url": "https://carolinacoops.com/products/penthouse-tractor-coop"
       }
     ]
   },
@@ -423,9 +469,9 @@
     "brand": "PawHut",
     "category": "coops",
     "subcategory": "chicken tractor",
-    "amazon_asin": null,
+    "amazon_asin": "B008NC5NUE",
     "amazon_url_search": "https://www.amazon.com/s?k=PawHut%20Chicken%20Tractor%20Coop%20and%20Run",
-    "price_range_usd": "$180-$260",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 2,
@@ -436,18 +482,28 @@
       "wheels": true
     },
     "pros": [
-      "Budget entry point into mobile chicken tractors",
-      "Small enough for one person to drag short distances"
+      "Two wheels let you move it around the yard like a tractor",
+      "Treated fir with a water-based preservative",
+      "Hinged nest-box roof, a ramp and a screened window"
     ],
     "cons": [
-      "Thin materials wear faster than heavier-duty tractors",
-      "Limited interior space for larger breeds"
+      "Roof is hard to fit properly; some leaks",
+      "Roost bars breaking, poor ventilation and latches failing in some reports",
+      "Included screws are weak, especially on the ramp"
     ],
     "who_its_for": "Small suburban flocks that need to rotate across a modest lawn.",
     "sources": [
       {
-        "name": "PawHut",
-        "url": "https://www.aosom.com/pawhut"
+        "name": "Amazon - PawHut 83in Wooden Portable Chicken Coop",
+        "url": "https://www.amazon.com/PawHut-Wooden-Portable-Backyard-Chicken/dp/B008NC5NUE"
+      },
+      {
+        "name": "Aosom - PawHut 83in Chicken Coop Tractor reviews",
+        "url": "https://www.aosom.com/reviews/pawhut-83-wooden-portable-backyard-chicken-coop-with-fenced-run-and-wheels~D3-0004.html"
+      },
+      {
+        "name": "RaisingChickensInfo - PawHut coop review",
+        "url": "https://www.raisingchickensinfo.com/pawhut-wooden-backyard-chicken-coop-review/"
       }
     ]
   },
@@ -457,9 +513,9 @@
     "brand": "VEVOR",
     "category": "runs",
     "subcategory": "walk-in run",
-    "amazon_asin": null,
+    "amazon_asin": "B09MQ8WBH6",
     "amazon_url_search": "https://www.amazon.com/s?k=VEVOR%20Walk-In%20Chicken%20Run",
-    "price_range_usd": "$150-$300",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -467,18 +523,24 @@
       "coverage": "tarp roof panel"
     },
     "pros": [
-      "Large footprint options up to 20+ feet long",
-      "Steel frame is sturdier than PVC-frame competitors"
+      "Thick 1in galvanized steel pipe with clean welds; about 186 sq ft",
+      "Poles interlock without screws, and the door is tall enough to walk in upright",
+      "Good value; kit includes cover, netting, stakes and a lock"
     ],
     "cons": [
-      "Assembly with many wire panels takes real time",
-      "Ground-level wire alone won't stop a determined digger without an apron"
+      "Galvanizing can start to oxidize within about 6 months in humid or coastal areas",
+      "Attaching the mesh is slow and parts are sometimes missing",
+      "Cover needs extra anchoring in wind"
     ],
     "who_its_for": "Keepers who want a big, walk-in secure run without building one from scratch.",
     "sources": [
       {
-        "name": "VEVOR",
-        "url": "https://www.vevor.com/"
+        "name": "Amazon - VEVOR Walk-in Chicken Run 19.3x9.8x6.5ft",
+        "url": "https://www.amazon.com/VEVOR-Chicken-Coop-Waterproof-19-3x9-8x6-5ft/dp/B09MQ8WBH6"
+      },
+      {
+        "name": "VEVOR - walk-in chicken run reviews",
+        "url": "https://www.vevor.com/reviews/vevor-large-metal-chicken-coop-with-run-9-8x19-3x6-5-ft-walk-in-chicken-runs-for-yard-with-cover-doom-roof-hen-house-with-security-lock-for-outdoor-and-backyard-farm-duck-rabbit-cage-poultry-pen-p_010216502282.html"
       }
     ]
   },
@@ -490,7 +552,7 @@
     "subcategory": "walk-in run",
     "amazon_asin": null,
     "amazon_url_search": "https://www.amazon.com/s?k=Omlet%20Chicken%20Run%20Extension",
-    "price_range_usd": "$300-$900",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -498,18 +560,28 @@
       "modular": true
     },
     "pros": [
-      "Modular panels connect directly to Omlet coops for a sealed system",
-      "Anti-tunnel skirt is included standard, not an add-on"
+      "Small mesh and a deep anti-dig skirt keep foxes out",
+      "Modular, so it is easy to extend later",
+      "Owners report runs lasting 7-8+ years without wear"
     ],
     "cons": [
-      "Premium price point compared with generic run kits",
-      "Best value only if paired with a matching Omlet coop"
+      "Premium price compared with wood or basic metal runs",
+      "Plastic assembly clips are hard on the hands",
+      "Upper mesh gaps are wider than the lower mesh, may not stop snakes without a cover"
     ],
     "who_its_for": "Omlet coop owners wanting a matched, predator-resistant run.",
     "sources": [
       {
-        "name": "Omlet",
-        "url": "https://www.omlet.us/"
+        "name": "Omlet US - Walk In Chicken Run Extensions reviews",
+        "url": "https://www.omlet.us/reviews/walk-in-chicken-run-extensions/?page=2"
+      },
+      {
+        "name": "Omlet UK - Walk In Chicken Run reviews",
+        "url": "https://www.omlet.co.uk/reviews/walk-in-chicken-run/"
+      },
+      {
+        "name": "Omlet US - Walk In Chicken Run Extensions",
+        "url": "https://www.omlet.us/shop/chicken_keeping/walk_in_chicken_run_extensions/"
       }
     ]
   },
@@ -519,9 +591,9 @@
     "brand": "PawHut",
     "category": "runs",
     "subcategory": "portable run",
-    "amazon_asin": null,
+    "amazon_asin": "B01MZI6TAI",
     "amazon_url_search": "https://www.amazon.com/s?k=PawHut%20Portable%20Chicken%20Run",
-    "price_range_usd": "$70-$140",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -529,18 +601,22 @@
       "foldable": true
     },
     "pros": [
-      "Light enough to move daily for fresh grass",
-      "Low price makes it an easy add-on purchase"
+      "Strong metal frame, tall and long for its footprint",
+      "Works for chickens, rabbits, ducks and other small animals",
+      "Owners who assembled it with two people were very happy with it"
     ],
     "cons": [
-      "Blows over in wind without staking",
-      "Wire gauge is thin, more of a fence than a predator barrier"
+      "Bulky and hard to assemble alone"
     ],
     "who_its_for": "Small flocks needing daytime pasture access next to a fixed coop.",
     "sources": [
       {
-        "name": "PawHut",
-        "url": "https://www.aosom.com/pawhut"
+        "name": "Amazon - PawHut Metal Chicken Coop Portable Playpen",
+        "url": "https://www.amazon.com/PawHut-Chicken-Portable-Playpen-Water-Resistant/dp/B01MZI6TAI"
+      },
+      {
+        "name": "Walmart - PawHut 87in Playpen reviews",
+        "url": "https://www.walmart.com/reviews/product/815214134"
       }
     ]
   },
@@ -550,28 +626,22 @@
     "brand": "Premier1 Supplies",
     "category": "runs",
     "subcategory": "netting run",
-    "amazon_asin": null,
+    "amazon_asin": "B01EXNJ2VC",
     "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20PoultryNet%20Plus%20Electric%20Fence",
-    "price_range_usd": "$180-$260",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "length": "164 ft",
       "height": "42 in"
     },
-    "pros": [
-      "Tight horizontal spacing keeps chicks in and small predators out",
-      "Double-spiked posts stay upright on uneven ground"
-    ],
-    "cons": [
-      "Needs a dedicated energizer, sold separately",
-      "Grass must be trimmed regularly under the netting to hold charge"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Free-range keepers rotating flocks across open pasture.",
     "sources": [
       {
-        "name": "Premier1 Supplies",
-        "url": "https://www.premier1supplies.com/"
+        "name": "Amazon - PoultryNet Plus 48x100",
+        "url": "https://www.amazon.com/Premier-PoultryNet-Plus-White-Double/dp/B01EXNJ2VC"
       }
     ]
   },
@@ -581,9 +651,9 @@
     "brand": "Little Giant",
     "category": "feeders",
     "subcategory": "gravity",
-    "amazon_asin": null,
+    "amazon_asin": "B000HHLGP4",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Plastic%20Hanging%20Poultry%20Feeder",
-    "price_range_usd": "$10-$25",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -591,18 +661,19 @@
       "material": "plastic"
     },
     "pros": [
-      "Inexpensive and widely available",
-      "Hanging design keeps feed cleaner than a ground pan"
+      "Anti-scratch vanes on the feed tray cut down on birds flicking feed onto the ground",
+      "Adjustable feed-flow band lets owners control how much drops into the tray at once",
+      "Hanging design keeps feed off wet ground and is easy to raise as birds grow"
     ],
     "cons": [
-      "Feed is exposed to rain if not under cover",
-      "Easy for wild birds and rodents to access"
+      "Plastic is thin enough that it can crack in freezing weather or under rough handling",
+      "Smaller capacities need refilling every few days for a full-size flock"
     ],
     "who_its_for": "Anyone wanting the simplest, cheapest way to feed a small flock.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Little Giant Plastic Hanging Poultry Feeder 11lb",
+        "url": "https://www.amazon.com/LITTLE-GIANT-Plastic-Hanging-PHF11/dp/B000HHLGP4"
       }
     ]
   },
@@ -612,9 +683,9 @@
     "brand": "Harris Farms",
     "category": "feeders",
     "subcategory": "gravity",
-    "amazon_asin": null,
+    "amazon_asin": "B006ZUNIR6",
     "amazon_url_search": "https://www.amazon.com/s?k=Harris%20Farms%20Galvanized%20Hanging%20Poultry%20Feeder",
-    "price_range_usd": "$15-$35",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -622,18 +693,19 @@
       "material": "galvanized steel"
     },
     "pros": [
-      "Metal resists chewing and holds up longer outdoors than plastic",
-      "Wide range of sizes for small to large flocks"
+      "Galvanized steel resting cover keeps feed cleaner and dry versus open trays",
+      "3-position height adjustment with spring-loaded clips is simple to set up",
+      "Rolled edges add a safety feature for feeding birds"
     ],
     "cons": [
-      "Heavier to lift and refill than plastic equivalents",
-      "Still exposes feed to weather unless housed under a roof"
+      "Metal build is heavier than plastic equivalents, awkward for small coops",
+      "Capacity (15 lb) needs frequent refilling for larger flocks"
     ],
     "who_its_for": "Keepers who want a durable feeder that will survive years outdoors.",
     "sources": [
       {
-        "name": "Harris Farms",
-        "url": "https://www.harrisfarms.com/"
+        "name": "Amazon - Harris Farms 1000293 Galvanized Hanging Poultry Feeder",
+        "url": "https://www.amazon.com/Harris-Farms-1000293-Galvanized-Hanging/dp/B006ZUNIR6"
       }
     ]
   },
@@ -643,9 +715,9 @@
     "brand": "Grandpa's Feeders",
     "category": "feeders",
     "subcategory": "treadle",
-    "amazon_asin": null,
+    "amazon_asin": "B00TXW0UQK",
     "amazon_url_search": "https://www.amazon.com/s?k=Grandpa's%20Feeders%20Automatic%20Treadle%20Chicken%20Feeder",
-    "price_range_usd": "$180-$260",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -653,18 +725,28 @@
       "weatherproof": true
     },
     "pros": [
-      "Weatherproof lid keeps feed dry in rain and snow",
-      "Closing lid blocks rodents and wild birds almost entirely"
+      "Long-term owners (some citing 15 years of use) describe it as durable and reliable once birds are trained",
+      "Anti-flick grill and rodent-proof design cut feed waste and pest losses",
+      "Owners report only needing to refill weekly"
     ],
     "cons": [
-      "Higher upfront cost than a basic gravity feeder",
-      "Chicks and very light bantams may need training to trigger the pedal"
+      "Multiple reviewers report clogging as a recurring problem",
+      "Some report the galvanized steel rusting faster than competing brands, leading to leaks",
+      "A few reviewers note squirrels and rodents still finding ways onto the feeder"
     ],
     "who_its_for": "Keepers with a rodent problem who want to stop feeding pests along with chickens.",
     "sources": [
       {
-        "name": "Grandpa's Feeders",
-        "url": "https://grandpasfeeders.com/"
+        "name": "Amazon - Grandpa's Feeders 20lb Automatic Treadle Chicken Feeder",
+        "url": "https://www.amazon.com/Grandpas-Feeders-Automatic-Chicken-Feeder/dp/B00TXW0UQK"
+      },
+      {
+        "name": "Raising Happy Chickens - long-term Grandpa's Feeder review",
+        "url": "https://www.raising-happy-chickens.com/best-automatic-chicken-feeder.html"
+      },
+      {
+        "name": "PoultryPages - Grandpa's Treadle Chicken Feeders pros and cons",
+        "url": "https://www.poultrypages.com/grandpas-treadle-chicken-feeders/"
       }
     ]
   },
@@ -674,9 +756,9 @@
     "brand": "RentACoop",
     "category": "feeders",
     "subcategory": "treadle",
-    "amazon_asin": null,
+    "amazon_asin": "B07MQW8MQK",
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Treadle%20Chicken%20Feeder",
-    "price_range_usd": "$90-$150",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -684,18 +766,19 @@
       "material": "metal/plastic hybrid"
     },
     "pros": [
-      "More affordable entry point into treadle-style feeders",
-      "Adjustable pedal tension for different bird weights"
+      "Treadle step only opens while a bird is standing on it, blocking rats, mice and wild birds",
+      "Internal grate stops birds from billing feed onto the ground, cutting waste",
+      "Galvanized, weatherproof construction rated for outdoor use"
     ],
     "cons": [
-      "Smaller capacity than premium treadle feeders means more refills",
-      "Some assembly and pedal adjustment required out of the box"
+      "Birds need a week or two of training before reliably using the treadle",
+      "25 lb capacity suits only 6-8 hens; bigger flocks need the 40 lb version"
     ],
     "who_its_for": "Budget-conscious keepers who still want rodent-resistant feeding.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop Automatic Treadle Chicken Feeder 25 lb",
+        "url": "https://www.amazon.com/RentACoop-Metallic-Treadle-Feeder-Holds/dp/B07MQW8MQK"
       }
     ]
   },
@@ -705,9 +788,9 @@
     "brand": "RentACoop",
     "category": "feeders",
     "subcategory": "PVC",
-    "amazon_asin": null,
+    "amazon_asin": "B07N2Z348V",
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20PVC%20Pipe%20Poultry%20Feeder%20Kit",
-    "price_range_usd": "$25-$45",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -715,18 +798,18 @@
       "diy_assembly": true
     },
     "pros": [
-      "Very low cost per feeding station",
-      "Simple to clean and hard to tip over once mounted"
+      "Works with PVC pipe, buckets, or other containers a keeper already has, cutting cost",
+      "Includes hole saw, drill bit, gaskets and rain hoods, so no extra tools need to be bought"
     ],
     "cons": [
-      "Requires basic assembly and mounting on your own pipe/post",
-      "No weather cover; still needs to be placed under shelter"
+      "Requires drilling and assembly, more setup effort than a ready-made feeder",
+      "Feed capacity depends entirely on the container chosen"
     ],
     "who_its_for": "DIY-minded keepers building their own low-cost feed stations.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop DIY Chicken Feeder and Waterer Kit",
+        "url": "https://www.amazon.com/RentACoop-DIY-Port-Feeder-Hole/dp/B07N2Z348V"
       }
     ]
   },
@@ -736,9 +819,9 @@
     "brand": "Rite Farm Products",
     "category": "feeders",
     "subcategory": "gravity",
-    "amazon_asin": null,
+    "amazon_asin": "B01MZ0895Z",
     "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20No-Waste%20Poultry%20Feeder",
-    "price_range_usd": "$20-$40",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -746,18 +829,18 @@
       "material": "galvanized steel"
     },
     "pros": [
-      "Lip design reduces feed being scratched out and wasted",
-      "Sturdy galvanized build for the price"
+      "20 lb capacity with lid reduces refill frequency versus smaller gravity feeders",
+      "Handle and lid combination keeps feed drier than open-top designs"
     ],
     "cons": [
-      "Still open to the elements without a roof overhead",
-      "Not rodent-proof compared with a treadle design"
+      "Not a treadle or anti-waste mechanism, so scratching birds can still flick feed out",
+      "Plastic construction is less rugged than galvanized options"
     ],
     "who_its_for": "Keepers wanting less wasted feed without paying treadle-feeder prices.",
     "sources": [
       {
-        "name": "Rite Farm Products",
-        "url": "https://ritefarmproducts.com/"
+        "name": "Amazon - Rite Farm Products Extra Large HD 20 LB Chicken Feeder",
+        "url": "https://www.amazon.com/Rite-Farm-Products-Chicken-Poultry/dp/B01MZ0895Z"
       }
     ]
   },
@@ -767,9 +850,9 @@
     "brand": "RentACoop",
     "category": "waterers",
     "subcategory": "nipple",
-    "amazon_asin": null,
+    "amazon_asin": "B07DVM6RC9",
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Poultry%20Nipple%20Waterer%20Kit",
-    "price_range_usd": "$12-$25",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -777,18 +860,18 @@
       "mounts_to": "bucket or PVC"
     },
     "pros": [
-      "Keeps water far cleaner than an open fount",
-      "Cheap enough to add nipples to any bucket you already own"
+      "Horizontal nipples with dribble dishes reduce spill compared to vertical nipples",
+      "Kit includes the drill bit and installation tool needed, nothing extra to buy"
     ],
     "cons": [
-      "Chicks need a short training period to learn to peck the nipple",
-      "Can clog with sediment if the water source isn't filtered"
+      "Requires drilling into a container, more setup than a ready-made waterer",
+      "Birds may need a short training period to learn to peck the nipples"
     ],
     "who_its_for": "Keepers wanting the cleanest possible water setup on a small budget.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop DIY Waterer Kit, 12 horizontal nipples",
+        "url": "https://www.amazon.com/RentACoop-Pack-Make-Your-Waterer/dp/B07DVM6RC9"
       }
     ]
   },
@@ -798,9 +881,9 @@
     "brand": "Little Giant",
     "category": "waterers",
     "subcategory": "nipple",
-    "amazon_asin": null,
+    "amazon_asin": "B00IULFUVK",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Poultry%20Nipple%20Drinker",
-    "price_range_usd": "$8-$18",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -808,18 +891,18 @@
       "thread": "standard PVC/bucket"
     },
     "pros": [
-      "Widely available and inexpensive",
-      "Simple screw-in installation"
+      "Simple vertical-mount nipple to convert a bucket or PVC pipe into a waterer",
+      "Gravity-fed drip design keeps water cleaner than an open trough"
     ],
     "cons": [
-      "Individual nipples occasionally drip if not seated well",
-      "Needs a bucket or reservoir purchased separately"
+      "Each nipple is rated for only a few birds, larger flocks need several installed",
+      "Vertical nipples can leak or drip more than horizontal designs"
     ],
     "who_its_for": "Anyone retrofitting an existing bucket into a nipple waterer.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Little Giant 172035 Poultry Nipple",
+        "url": "https://www.amazon.com/LITTLE-GIANT-172035-Poultry-Natural/dp/B00IULFUVK"
       }
     ]
   },
@@ -829,9 +912,9 @@
     "brand": "RentACoop",
     "category": "waterers",
     "subcategory": "cup",
-    "amazon_asin": null,
+    "amazon_asin": "B07R74M14W",
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Automatic%20Cup%20Waterer%20Kit",
-    "price_range_usd": "$15-$30",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -839,18 +922,19 @@
       "mounts_to": "bucket or barrel"
     },
     "pros": [
-      "Easier for chicks to learn than nipple waterers",
-      "Cups refill automatically as birds drink"
+      "Auto-fill cups stay about 3/4 full, avoiding spills",
+      "Compatible with almost any container, giving flexible setup",
+      "Bonus cup included in the pack"
     ],
     "cons": [
-      "Cups need more frequent cleaning than sealed nipples",
-      "Droppings and bedding can end up in the cup if placed too low"
+      "Needs drilling and assembly rather than being ready to hang",
+      "Cups can freeze in winter unless paired with a heated base"
     ],
     "who_its_for": "Keepers with chicks or older birds who struggle with nipple-style drinking.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop DIY Waterer Kit, 4-pack auto-fill cups",
+        "url": "https://www.amazon.com/RentACoop-Automatic-Chicken-Waterer-Poultry/dp/B07R74M14W"
       }
     ]
   },
@@ -860,9 +944,9 @@
     "brand": "Little Giant",
     "category": "waterers",
     "subcategory": "cup",
-    "amazon_asin": null,
+    "amazon_asin": "B000HHFA92",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Plastic%20Poultry%20Fountain%20Waterer",
-    "price_range_usd": "$8-$20",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -870,18 +954,18 @@
       "material": "plastic"
     },
     "pros": [
-      "Classic, dependable gravity design",
-      "Very inexpensive and easy to find in stores"
+      "Gravity-fed jar design is easy to fill and snaps onto the base without tools",
+      "3-gallon size balances capacity with being light enough to carry when full"
     ],
     "cons": [
-      "Bedding and droppings easily contaminate the open tray",
-      "Needs daily cleaning to stay sanitary"
+      "Plastic base/jar seam is a common failure point for leaks over time",
+      "No freeze protection, needs a heated base or to be brought in during winter"
     ],
     "who_its_for": "New keepers wanting the simplest, cheapest waterer to start with.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Little Giant Plastic Poultry Waterer 3 Gallon",
+        "url": "https://www.amazon.com/LITTLE-GIANT-Manufacturing-Plastic-Fountain/dp/B000HHFA92"
       }
     ]
   },
@@ -891,9 +975,9 @@
     "brand": "Farm Innovators",
     "category": "waterers",
     "subcategory": "heated",
-    "amazon_asin": null,
+    "amazon_asin": "B005BV1WLE",
     "amazon_url_search": "https://www.amazon.com/s?k=Farm%20Innovators%20Heated%20Poultry%20Waterer",
-    "price_range_usd": "$45-$70",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -902,30 +986,35 @@
       "thermostat": true
     },
     "pros": [
-      "Built-in thermostat only runs power when needed",
-      "Keeps water ice-free through most winter nights"
+      "Side-mounted drip-free nipples keep bedding drier than open founts",
+      "One long-term user reported it kept water available through sub-zero days",
+      "Thermostatically controlled 60W element only draws power when needed"
     ],
     "cons": [
-      "Cord needs protection from chewing and weather",
-      "Heavier and pricier than a non-heated equivalent"
+      "Some reviewers report mixed reliability, including units coming apart or leaking",
+      "2-gallon capacity is small for larger winter flocks"
     ],
     "who_its_for": "Keepers in freezing climates who don't want to haul warm water twice a day.",
     "sources": [
       {
-        "name": "Farm Innovators",
-        "url": "https://farminnovators.com/"
+        "name": "Amazon - Farm Innovators HB-60P Heated Poultry Waterer 2-Gal",
+        "url": "https://www.amazon.com/Farm-Innovators-HB-60P-Poultry-Drinker/dp/B005BV1WLE"
+      },
+      {
+        "name": "BackYard Chickens forum - Farm Innovators Heated 2 Gal Poultry Drinker thread",
+        "url": "https://www.backyardchickens.com/threads/has-any-tried-the-farm-innovators-heated-2-gal-poultry-drinker.1204361/"
       }
     ]
   },
   {
     "id": "heated-poultry-fount",
-    "name": "Heated Poultry Fount",
-    "brand": "API / Harris Farms",
+    "name": "HPF-100 All-Seasons Heated Poultry Fountain",
+    "brand": "Farm Innovators",
     "category": "waterers",
     "subcategory": "heated",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=API%20%2F%20Harris%20Farms%20Heated%20Poultry%20Fount",
-    "price_range_usd": "$40-$65",
+    "amazon_asin": "B001CCSJCQ",
+    "amazon_url_search": "https://www.amazon.com/s?k=Farm%20Innovators%20HPF-100%20All-Seasons%20Heated%20Poultry%20Fountain",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -933,18 +1022,18 @@
       "wattage": "80-125"
     },
     "pros": [
-      "Reliable heating element rated for outdoor winter use",
-      "Available in several capacities for different flock sizes"
+      "Combines the heating element and the fountain into one hanging unit, no separate base needed",
+      "Thermostatically controlled 100W element keeps water ice-free through winter"
     ],
     "cons": [
-      "Metal base can get hot to bare hands during operation",
-      "Needs a nearby weatherproof outlet"
+      "Higher wattage than nipple-style heated drinkers, higher running cost",
+      "3-gallon plastic fount is heavier to move once full"
     ],
     "who_its_for": "Cold-climate keepers who already have outdoor power access.",
     "sources": [
       {
-        "name": "Harris Farms",
-        "url": "https://www.harrisfarms.com/"
+        "name": "Amazon - Farm Innovators HPF-100 All-Seasons Heated Poultry Fountain",
+        "url": "https://www.amazon.com/Farm-Innovators-HPF-100-All-Seasons-Fountain/dp/B001CCSJCQ"
       }
     ]
   },
@@ -954,9 +1043,9 @@
     "brand": "Farm Innovators",
     "category": "heated-base-deicer",
     "subcategory": "heated base",
-    "amazon_asin": null,
+    "amazon_asin": "B000HHQDPM",
     "amazon_url_search": "https://www.amazon.com/s?k=Farm%20Innovators%20Heated%20Poultry%20Waterer%20Base",
-    "price_range_usd": "$30-$50",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -964,30 +1053,29 @@
       "thermostat": true
     },
     "pros": [
-      "Turns any existing plastic fount into a heated one",
-      "Thermostatically controlled to save electricity"
+      "Works under existing double-wall metal founts, adds winter heat without replacing the fount",
+      "125W element is rated to prevent freezing down to 10 degrees F"
     ],
     "cons": [
-      "Only works with founts sized to match the base diameter",
-      "Cord placement still needs chew and weather protection"
+      "Only compatible with double-wall metal founts, not plastic ones"
     ],
     "who_its_for": "Keepers who already own a fount and don't want to replace the whole thing.",
     "sources": [
       {
-        "name": "Farm Innovators",
-        "url": "https://farminnovators.com/"
+        "name": "Amazon - Farm Innovators HP-125 Heated Base for Metal Poultry Founts",
+        "url": "https://www.amazon.com/clp/B000HHQDPM"
       }
     ]
   },
   {
     "id": "thermo-poultry-waterer-heater-base",
-    "name": "Thermo-Poultry Waterer Heater Base",
+    "name": "80-Watt Universal Deicer",
     "brand": "K&H Pet Products",
     "category": "heated-base-deicer",
     "subcategory": "heated base",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=K%26H%20Pet%20Products%20Thermo-Poultry%20Waterer%20Heater%20Base",
-    "price_range_usd": "$30-$45",
+    "amazon_asin": "B072MDWTTQ",
+    "amazon_url_search": "https://www.amazon.com/s?k=K%26H%20Pet%20Products%2080-Watt%20Universal%20Deicer",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -995,18 +1083,18 @@
       "thermostat": true
     },
     "pros": [
-      "Lower wattage than many competitors, easier on extension cords",
-      "Backed by a well-known heated pet-product brand"
+      "Works with a wide range of existing containers, not tied to one brand of fount",
+      "Comes with a 2-year manufacturer's warranty"
     ],
     "cons": [
-      "Smaller diameter fits a narrower range of founts",
-      "Not rated for standing water submersion, base only"
+      "80W draw is on the higher end for a small-flock setup",
+      "Fit and stability can vary depending on the container used"
     ],
     "who_its_for": "Small-flock keepers who want an efficient, low-draw heating base.",
     "sources": [
       {
-        "name": "K&H Pet Products",
-        "url": "https://khpet.com/"
+        "name": "Amazon - K&H Pet Products 80-Watt Universal Deicer",
+        "url": "https://www.amazon.com/PET-PRODUCTS-100213505-80-Watt-Universal/dp/B072MDWTTQ"
       }
     ]
   },
@@ -1016,9 +1104,9 @@
     "brand": "Farm Innovators",
     "category": "heated-base-deicer",
     "subcategory": "de-icer",
-    "amazon_asin": null,
+    "amazon_asin": "B0034LOYCW",
     "amazon_url_search": "https://www.amazon.com/s?k=Farm%20Innovators%20Bird%20Bath%20De-Icer",
-    "price_range_usd": "$18-$30",
+    "price_range_usd": "~$21-22",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1026,20 +1114,26 @@
       "thermostat": true
     },
     "pros": [
-      "Drop-in style works in open pans, tubs, or founts without a matching base",
-      "Automatically shuts off when water reaches a safe temperature"
+      "Foil construction molds to fit different bath and basin shapes",
+      "Runs continuously, which some owners prefer for guaranteed ice-free water in deep cold"
     ],
     "cons": [
-      "Not designed for large water volumes",
-      "Should not be used unsubmerged; needs standing water to function safely"
+      "No thermostat means it draws power even when not strictly needed",
+      "44W is on the lower end, may struggle in very deep or wide basins"
     ],
     "who_its_for": "Keepers using open pans or tubs who want a simple drop-in de-icer.",
     "sources": [
       {
-        "name": "Farm Innovators",
-        "url": "https://farminnovators.com/"
+        "name": "Amazon - Farm Innovators B-9 Bird Bath De-Icer 44W",
+        "url": "https://www.amazon.com/Farm-Innovators-Bird-Bath-Icer/dp/B0034LOYCW"
+      },
+      {
+        "name": "Walmart - Farm Innovators Model B-9 Economical Birdbath De-Icer (rating cross-reference)",
+        "url": "https://www.walmart.com/ip/Farm-Innovators-Model-B-9-Economical-Birdbath-De-Icer-44-Watt/17718101"
       }
-    ]
+    ],
+    "rating": 4,
+    "review_count": 50
   },
   {
     "id": "ecoglow-20-safety-brooder",
@@ -1047,9 +1141,9 @@
     "brand": "Brinsea",
     "category": "brooder-heat-plate",
     "subcategory": "radiant plate",
-    "amazon_asin": null,
+    "amazon_asin": "B07NJZM1F5",
     "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20EcoGlow%2020%20Safety%20Brooder",
-    "price_range_usd": "$70-$90",
+    "price_range_usd": "$90-$105",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 1,
@@ -1060,20 +1154,31 @@
       "wattage": 20
     },
     "pros": [
-      "Widely recommended as the safest brooder heat option, no exposed bulb",
-      "Adjustable legs raise as chicks grow"
+      "Chicks self-regulate warmth by moving under the plate, similar to a mother hen",
+      "Uses far less electricity than a heat lamp and can't start fires or scorch chicks",
+      "Owners say it's worth the extra upfront cost versus a hanging bulb for the safety alone"
     ],
     "cons": [
-      "Higher price than a basic heat lamp bulb",
-      "Smaller capacity models limit how many chicks fit underneath at once"
+      "Pricier than a basic heat lamp setup",
+      "Legs need to be raised manually as chicks grow"
     ],
     "who_its_for": "Keepers who want the lowest fire-risk brooder heat source available.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Brinsea Ecoglow Safety 600/20",
+        "url": "https://www.amazon.com/Brinsea-Ecoglow-Safety-Brooder-Ducklings/dp/B07NJZM1F5"
+      },
+      {
+        "name": "Chewy - Brinsea Ecoglow Safety 600 reviews",
+        "url": "https://www.chewy.com/brinsea-ecoglow-safety-600-chick/product-reviews/221002"
+      },
+      {
+        "name": "BackYard Chickens - EcoGlow 20 Chick Brooder reviews",
+        "url": "https://www.backyardchickens.com/reviews/ecoglow-20-chick-brooder.11364/reviews"
       }
-    ]
+    ],
+    "rating": 4.4,
+    "review_count": 113
   },
   {
     "id": "ecoglow-1200-safety-brooder",
@@ -1081,9 +1186,9 @@
     "brand": "Brinsea",
     "category": "brooder-heat-plate",
     "subcategory": "radiant plate",
-    "amazon_asin": null,
+    "amazon_asin": "B07PW2S49F",
     "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20EcoGlow%201200%20Safety%20Brooder",
-    "price_range_usd": "$90-$120",
+    "price_range_usd": "$130-$150",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 1,
@@ -1094,18 +1199,23 @@
       "wattage": 12
     },
     "pros": [
-      "Larger platform than the EcoGlow 20 for bigger hatches",
-      "Very low power draw compared with heat lamps"
+      "Covers up to 35 newly hatched chicks (20-25 older), more than the EcoGlow 20",
+      "Adjustable-height legs let it grow with the chicks",
+      "Comes with a free clear plastic cover for easier cleaning"
     ],
     "cons": [
-      "Premium price point for a brooder accessory",
-      "Legs need periodic readjustment as chicks grow quickly"
+      "Larger footprint takes up more brooder space",
+      "Indoor-use only; performance drops if room temp falls below 50 degrees F"
     ],
     "who_its_for": "Keepers brooding larger batches of chicks at once.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Brinsea EcoGlow Safety 1200",
+        "url": "https://www.amazon.com/dp/B07PW2S49F/"
+      },
+      {
+        "name": "Brinsea - EcoGlow Safety 1200 Chick Brooder",
+        "url": "https://www.brinsea.com/p-620-ecoglow-safety-1200-chick-brooder.aspx"
       }
     ]
   },
@@ -1115,9 +1225,9 @@
     "brand": "K&H Pet Products",
     "category": "brooder-heat-plate",
     "subcategory": "radiant plate",
-    "amazon_asin": null,
+    "amazon_asin": "B07PFYM4QG",
     "amazon_url_search": "https://www.amazon.com/s?k=K%26H%20Pet%20Products%20Thermo-Chicken%20Heated%20Pad",
-    "price_range_usd": "$35-$55",
+    "price_range_usd": "$35-$45",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1125,18 +1235,23 @@
       "chew_resistant_cord": true
     },
     "pros": [
-      "Budget-friendlier than the leading brooder-plate brand",
-      "Chew-resistant cord adds a layer of safety"
+      "Thermostatically controlled so it only draws power when needed, at just 40W",
+      "Can mount vertically or horizontally, works indoors or outdoors",
+      "Rigid ABS shell and steel-wrapped cord hold up to pecking and chewing"
     ],
     "cons": [
-      "Flat pad design rather than adjustable-leg canopy, less natural huddling shape",
-      "Best suited to smaller chick counts"
+      "Marketed more for grown or adolescent chickens than tiny day-old chicks",
+      "Fixed heat pad, not adjustable in height like a brooder plate"
     ],
     "who_its_for": "Small-batch chick keepers wanting a safer, cheaper alternative to a heat lamp.",
     "sources": [
       {
-        "name": "K&H Pet Products",
-        "url": "https://khpet.com/"
+        "name": "Amazon - K&H Thermo-Chicken Heated Pad",
+        "url": "https://www.amazon.com/Pet-Products-Thermo-Chicken-Heated-Black/dp/B07PFYM4QG"
+      },
+      {
+        "name": "K&H Pet Products - Thermo-Chicken Heated Pad",
+        "url": "https://khpet.com/products/thermo-chicken-heated-pad"
       }
     ]
   },
@@ -1146,7 +1261,7 @@
     "brand": "Fluker's",
     "category": "heat-lamp",
     "subcategory": "clamp lamp",
-    "amazon_asin": null,
+    "amazon_asin": "B003H1P1CG",
     "amazon_url_search": "https://www.amazon.com/s?k=Fluker's%20Clamp%20Lamp%20with%20Dome",
     "price_range_usd": "$15-$25",
     "price_checked": "2026-09-26",
@@ -1156,61 +1271,56 @@
       "dome_material": "aluminum"
     },
     "pros": [
-      "Inexpensive and widely available at pet and farm stores",
-      "Aluminum dome reflects heat downward efficiently"
+      "Heavy-duty clamp and swivel head make it easy to position over a brooder or coop",
+      "Ceramic socket rated for higher-wattage bulbs and UL/CUL approved",
+      "Dimmable switch lets you fine-tune heat output"
     ],
     "cons": [
-      "Heat lamps are a leading cause of coop and brooder fires; secure with a chain, not just the clamp",
-      "No thermostat, so bulb wattage must be chosen carefully for the space"
+      "5.5in dome is small; larger flocks may need a bigger dome version",
+      "Designed and labeled for reptile tanks, so clamp size may not fit every coop edge"
     ],
     "who_its_for": "Keepers who prefer a traditional heat lamp and will use a secondary safety mount.",
     "sources": [
       {
-        "name": "Fluker's",
-        "url": "https://flukerfarms.com/"
+        "name": "Amazon - Fluker's Repta-Clamp Lamp 5.5in",
+        "url": "https://www.amazon.com/Flukers-Repta-Clamp-5-5-Inch-Ceramic-Dimmable/dp/B003H1P1CG"
       }
     ]
   },
   {
     "id": "250w-infrared-heat-lamp-bulb",
-    "name": "250W Infrared Heat Lamp Bulb",
+    "name": "0165 Brooder Lamp with Bulb Guard (250W)",
     "brand": "Woods",
     "category": "heat-lamp",
     "subcategory": "bulb",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Woods%20250W%20Infrared%20Heat%20Lamp%20Bulb",
-    "price_range_usd": "$8-$15",
+    "amazon_asin": "B001BM5YZW",
+    "amazon_url_search": "https://www.amazon.com/s?k=Woods%200165%20Brooder%20Lamp%20with%20Bulb%20Guard%20(250W)",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "wattage": 250,
       "color": "red"
     },
-    "pros": [
-      "Red light is shown to reduce pecking among chicks",
-      "High output warms larger brooders or coop corners effectively"
-    ],
-    "cons": [
-      "250W is a real fire hazard if the fixture, cord, or mount is substandard",
-      "Overkill and wasteful for a small indoor brooder"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Larger brooder or unheated coop setups needing a strong heat source, used with a rated fixture.",
     "sources": [
       {
-        "name": "Woods",
-        "url": "https://www.woodsindustries.com/"
+        "name": "Amazon - Woods 0165 Brooder Lamp",
+        "url": "https://www.amazon.com/Woods-0165-Brooder-Guard-Reflector/dp/B001BM5YZW"
       }
     ]
   },
   {
     "id": "chick-brooder-starter-kit",
-    "name": "Chick Brooder Starter Kit",
+    "name": "Little Red Barn Chick Brooder Set",
     "brand": "RentACoop",
     "category": "brooders-starter-kits",
     "subcategory": "starter kit",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Chick%20Brooder%20Starter%20Kit",
-    "price_range_usd": "$60-$110",
+    "amazon_asin": "B0BYB79VPF",
+    "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Little%20Red%20Barn%20Chick%20Brooder%20Set",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 1,
@@ -1220,18 +1330,23 @@
       "includes": "brooder box, feeder, waterer"
     },
     "pros": [
-      "Bundled kit takes the guesswork out of a first brooder setup",
-      "Components are sized appropriately for each other"
+      "All-in-one bundle: brooder box, heating plate, feeder, waterer and liners in one purchase",
+      "Folds flat for storage and wipes clean since it's non-absorbent plastic",
+      "Tool-free setup in minutes"
     ],
     "cons": [
-      "Buying components separately can be slightly cheaper if you shop sales",
-      "Box size may need an upgrade quickly as chicks grow"
+      "Only rated for up to 8 chicks, small for larger hatches",
+      "Plastic construction is less durable long-term than wood or galvanized steel"
     ],
     "who_its_for": "First-time chick keepers who want a single, simple purchase.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop Little Red Barn Chick Brooder Set",
+        "url": "https://www.amazon.com/RentACoop-Lightweight-Easy-Clean-Multipurpose-Absorbent/dp/B0BYB79VPF"
+      },
+      {
+        "name": "RentACoop - Little Red Barn Chick Brooder",
+        "url": "https://rentacoop.com/products/rentacoop-little-red-barn-chick-brooder-2024-version-with-jute-brooder-liner"
       }
     ]
   },
@@ -1241,9 +1356,9 @@
     "brand": "Little Giant",
     "category": "brooders-starter-kits",
     "subcategory": "brooder box",
-    "amazon_asin": null,
+    "amazon_asin": "B083ZKHF7L",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Brooder%20Box",
-    "price_range_usd": "$25-$45",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 1,
@@ -1254,18 +1369,17 @@
       "height_in": 12
     },
     "pros": [
-      "Solid sides block drafts better than a cardboard box",
-      "Easy to hose out and disinfect between batches"
+      "Galvanized steel construction is more durable and chew/rust-resistant than plastic",
+      "5/16in wire mesh floor lets droppings and debris fall through for easier cleaning"
     ],
     "cons": [
-      "Fixed size means an upgrade is needed as chicks mature",
-      "No lid included, so a separate cover is needed for jumping chicks"
+      "No heat source, feeder, or waterer included, a bare enclosure"
     ],
     "who_its_for": "Keepers wanting a reusable, washable brooder rather than a cardboard box.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Little Giant Chick Brooder Box",
+        "url": "https://www.amazon.com/Little-Giant-Galvanized-Enclosure-Brooding/dp/B083ZKHF7L"
       }
     ]
   },
@@ -1275,9 +1389,9 @@
     "brand": "Little Giant",
     "category": "incubators",
     "subcategory": "still air",
-    "amazon_asin": null,
+    "amazon_asin": "B07BP9M6PT",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Still%20Air%20Incubator%209300",
-    "price_range_usd": "$45-$65",
+    "price_range_usd": "$45-$60",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1286,18 +1400,18 @@
       "humidity_control": "manual channels"
     },
     "pros": [
-      "Lowest-cost way to try incubating at home",
-      "Simple design with few parts to fail"
+      "Styrofoam housing retains heat well and is inexpensive to buy",
+      "Holds 41 large eggs or up to 120 bantam/quail eggs"
     ],
     "cons": [
-      "Manual turning 3-5 times a day required for good hatch rates",
-      "Temperature swings more than fan-circulated models, needs closer monitoring"
+      "Still-air design means temperature varies by shelf position, needs more monitoring",
+      "No auto turner included on the base model"
     ],
     "who_its_for": "First-time or classroom incubators on a tight budget.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Little Giant 9300 Still-Air Incubator",
+        "url": "https://www.amazon.com/Little-Giant-9300-Basic-Incubator/dp/B07BP9M6PT"
       }
     ]
   },
@@ -1307,9 +1421,9 @@
     "brand": "GQF Manufacturing",
     "category": "incubators",
     "subcategory": "still air",
-    "amazon_asin": null,
+    "amazon_asin": "B0145O6C0S",
     "amazon_url_search": "https://www.amazon.com/s?k=GQF%20Manufacturing%20Hova-Bator%201602N",
-    "price_range_usd": "$55-$80",
+    "price_range_usd": "$49-$75",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1318,18 +1432,24 @@
       "humidity_control": "manual"
     },
     "pros": [
-      "Decades-old design with a long track record among hobbyists",
-      "Optional automatic turner and fan kits can be added later"
+      "Thick polystyrene walls insulate better than plastic-shell competitors",
+      "Simple to use and considered exceptional value for the price",
+      "Holds a large number of eggs for a table-top still-air unit"
     ],
     "cons": [
-      "Base unit still requires hands-on temperature and humidity management",
-      "Styrofoam body is less durable than hard-shell competitors"
+      "Basic thermostat doesn't self-regulate well, temperature swings between hot and cold spots",
+      "Humidity often won't rise above 40-50% according to multiple user reports",
+      "Requires several days of trial adjustment to dial in temperature"
     ],
     "who_its_for": "Hobbyists who want to start basic and upgrade the same unit over time.",
     "sources": [
       {
-        "name": "GQF Manufacturing",
-        "url": "https://www.gqfmfg.com/"
+        "name": "Amazon - Hova-Bator 1602N",
+        "url": "https://www.amazon.com/G-Q-F-Manufacturing-1602N-Hova-Bator-Incubator/dp/B0145O6C0S"
+      },
+      {
+        "name": "BackYard Chickens - 1602N Thermal Air Hova-Bator review",
+        "url": "https://www.backyardchickens.com/reviews/1602n-thermal-air-hova-bator-by-gqf.12014/"
       }
     ]
   },
@@ -1339,9 +1459,9 @@
     "brand": "Brinsea",
     "category": "incubators",
     "subcategory": "forced air",
-    "amazon_asin": null,
+    "amazon_asin": "B01N56NGS8",
     "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20Mini%20II%20Advance%20Incubator",
-    "price_range_usd": "$180-$220",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1350,18 +1470,22 @@
       "humidity_control": "digital readout"
     },
     "pros": [
-      "Fan-circulated air holds a far more even temperature than still-air units",
-      "Compact footprint fits on a kitchen counter or shelf"
+      "Fully automatic turning that stops itself 2 days before hatch",
+      "Digital countdown display shows exactly how many days remain until hatch",
+      "3-year warranty and hygienic plastics"
     ],
     "cons": [
-      "Small capacity limits it to hobby-scale hatching",
-      "Premium price relative to egg capacity"
+      "Small 7-egg capacity limits it to hobbyist or classroom-scale hatching"
     ],
     "who_its_for": "Hobbyists who want a reliable small hatch with minimal manual fuss.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Brinsea Mini II Advance",
+        "url": "https://www.amazon.com/dp/B01N56NGS8"
+      },
+      {
+        "name": "Brinsea - Mini II Advance 7 egg incubator",
+        "url": "https://www.brinsea.com/p-571-mini-ii-advance-fully-digital-7-egg-incubator.aspx"
       }
     ]
   },
@@ -1371,9 +1495,9 @@
     "brand": "Brinsea",
     "category": "incubators",
     "subcategory": "forced air",
-    "amazon_asin": null,
+    "amazon_asin": "B01NAV1JMW",
     "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20Ovation%2028%20Advance%20Incubator",
-    "price_range_usd": "$400-$500",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1382,18 +1506,18 @@
       "humidity_control": "digital"
     },
     "pros": [
-      "Handles a much larger hatch than entry-level models",
-      "Digital controls make dialing in temperature and humidity easier"
+      "Induced Dual Airflow system gives more even temperature than basic still-air units",
+      "Digital display for temperature and humidity plus high/low alarms",
+      "Programmable automatic egg turning"
     ],
     "cons": [
-      "Significant step up in price from hobby-tier incubators",
-      "Larger footprint needs dedicated counter or shelf space"
+      "Notably more expensive than basic still-air incubators"
     ],
     "who_its_for": "Serious hobbyists hatching multiple breeds or larger batches regularly.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Brinsea Ovation 28 Advance",
+        "url": "https://www.amazon.com/Brinsea-Products-USAF36C-Automatic-Incubator/dp/B01NAV1JMW"
       }
     ]
   },
@@ -1403,9 +1527,9 @@
     "brand": "GQF Manufacturing",
     "category": "incubators",
     "subcategory": "forced air",
-    "amazon_asin": null,
+    "amazon_asin": "B01GWF7HGG",
     "amazon_url_search": "https://www.amazon.com/s?k=GQF%20Manufacturing%20Genesis%20Hova-Bator%201588%20Incubator",
-    "price_range_usd": "$100-$140",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1414,30 +1538,31 @@
       "humidity_control": "digital"
     },
     "pros": [
-      "Automatic turner and digital controls included at a mid-range price",
-      "Circulated air fan improves hatch consistency over still-air models"
+      "Forced-air design gives more even temperatures than the still-air 1602N model",
+      "Digital microprocessor thermostat self-regulates well",
+      "Built-in sensors help prevent overheating eggs"
     ],
     "cons": [
-      "Plastic housing feels less premium than metal-bodied competitors",
-      "Digital display and buttons can be fiddly for first-time users"
+      "Egg turner sold separately on the base unit",
+      "Still considered entry or mid-level, less precise than Brinsea's Advance/EX line"
     ],
     "who_its_for": "Keepers ready to move up from a basic still-air incubator.",
     "sources": [
       {
-        "name": "GQF Manufacturing",
-        "url": "https://www.gqfmfg.com/"
+        "name": "Amazon - GQF Genesis Hova-Bator 1588",
+        "url": "https://www.amazon.com/1588-Genesis-Hova-Bator-Incubator-Hovabator/dp/B01GWF7HGG"
       }
     ]
   },
   {
     "id": "nurture-right-360-incubator",
     "name": "Nurture Right 360 Incubator",
-    "brand": "Brinsea",
+    "brand": "Harris Farms (Manna Pro)",
     "category": "incubators",
     "subcategory": "auto turner",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20Nurture%20Right%20360%20Incubator",
-    "price_range_usd": "$180-$220",
+    "amazon_asin": "B0793HHZ1L",
+    "amazon_url_search": "https://www.amazon.com/s?k=Harris%20Farms%20(Manna%20Pro)%20Nurture%20Right%20360%20Incubator",
+    "price_range_usd": "$120-$150",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1446,20 +1571,31 @@
       "humidity_control": "digital"
     },
     "pros": [
-      "Clear dome gives a full view of every egg during incubation",
-      "Automatic turning cradle removes daily hand-turning"
+      "360-degree clear view lets you watch eggs at every angle without opening the lid",
+      "Automatic turner and digital temp/humidity display simplify hands-off incubation",
+      "Users report high hatch rates, some reporting 100%"
     ],
     "cons": [
-      "Higher price than manual-turn models of similar capacity",
-      "Dome removal for cleaning takes some care not to disturb eggs"
+      "Humidity needs manual water top-ups roughly every 24 hours",
+      "Round 22-egg tray layout limits capacity compared to rectangular cabinet incubators"
     ],
     "who_its_for": "Families and classrooms wanting a highly visible, low-maintenance hatch.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Harris Farms Nurture Right 360",
+        "url": "https://www.amazon.com/Harris-Farms-Nurture-Right-Incubator/dp/B0793HHZ1L"
+      },
+      {
+        "name": "Walmart reviews - Manna Pro Harris Farms Nurture Right Incubator",
+        "url": "https://www.walmart.com/reviews/product/527258077"
+      },
+      {
+        "name": "BackYard Chickens - Harris Farms Nurture Right 360 review",
+        "url": "https://www.backyardchickens.com/articles/harris-farms-nurture-right-360-incubator-updated.75040/"
       }
-    ]
+    ],
+    "rating": 4.3,
+    "review_count": 12
   },
   {
     "id": "digital-egg-incubator",
@@ -1467,9 +1603,9 @@
     "brand": "Magicfly",
     "category": "incubators",
     "subcategory": "auto turner",
-    "amazon_asin": null,
+    "amazon_asin": "B06XX5P6VX",
     "amazon_url_search": "https://www.amazon.com/s?k=Magicfly%20Digital%20Egg%20Incubator",
-    "price_range_usd": "$60-$90",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1478,18 +1614,19 @@
       "humidity_control": "digital"
     },
     "pros": [
-      "Automatic turning and digital display at a budget-friendly price",
-      "Clear lid lets you watch progress without opening the unit"
+      "Fully automatic temperature control and egg turning reduce hands-on work",
+      "Works with a wide variety of eggs (chicken, duck, goose, guinea fowl)",
+      "Low power draw, users report high hatch success rates"
     ],
     "cons": [
-      "Build quality and calibration accuracy is less consistent than premium brands",
-      "Customer support and parts availability vary by seller"
+      "No built-in humidity gauge on this model",
+      "Some buyers feel it's pricier than expected for the feature set"
     ],
     "who_its_for": "Budget-conscious buyers wanting automatic features without Brinsea pricing.",
     "sources": [
       {
-        "name": "Magicfly",
-        "url": "https://www.magicflyhome.com/"
+        "name": "Amazon - Magicfly Digital 24-Egg Incubator",
+        "url": "https://www.amazon.com/Magicfly-Digital-Automatic-Incubator-Chickens/dp/B06XX5P6VX"
       }
     ]
   },
@@ -1499,9 +1636,9 @@
     "brand": "Farm Innovators",
     "category": "incubators",
     "subcategory": "by egg count",
-    "amazon_asin": null,
+    "amazon_asin": "B007571DFM",
     "amazon_url_search": "https://www.amazon.com/s?k=Farm%20Innovators%204200%20Incubator",
-    "price_range_usd": "$140-$180",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1510,18 +1647,19 @@
       "humidity_control": "manual channels"
     },
     "pros": [
-      "Mid-size 41-egg capacity fits a serious hobby flock",
-      "Automatic turning included at a reasonable price point"
+      "Integrated fan plus automatic egg turner every 4 hours reduces manual handling",
+      "Built-in hygrometer tracks both temperature and humidity",
+      "Two large viewing windows for observing eggs without opening the unit"
     ],
     "cons": [
-      "Humidity is manually managed rather than digitally controlled",
-      "Larger size needs a dedicated, stable indoor spot"
+      "Plastic shell is less rugged long-term than metal cabinet incubators",
+      "Knob-based controls versus newer models' digital display"
     ],
     "who_its_for": "Keepers hatching regularly who've outgrown a 6-12 egg unit.",
     "sources": [
       {
-        "name": "Farm Innovators",
-        "url": "https://farminnovators.com/"
+        "name": "Farm Innovators 4200 Pro Series - BackYard Chickens review",
+        "url": "https://www.backyardchickens.com/reviews/farm-innovators-model-4200-pro-series-circulated-air-incubator-with-automatic-egg-turner.11502/"
       }
     ]
   },
@@ -1531,9 +1669,9 @@
     "brand": "Brinsea",
     "category": "incubators",
     "subcategory": "by egg count",
-    "amazon_asin": null,
+    "amazon_asin": "B01N4R6DM0",
     "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20Ovation%2056%20Advance%20Incubator",
-    "price_range_usd": "$550-$650",
+    "price_range_usd": "~$470",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1542,30 +1680,35 @@
       "humidity_control": "digital"
     },
     "pros": [
-      "Large capacity suits small farms or serious breeders",
-      "Consistent digital climate control across a big batch"
+      "56-egg capacity suits serious hobbyists or small breeders needing higher throughput",
+      "Induced Dual Airflow system maintains consistent temperature across all eggs",
+      "Water-tray humidity system has an easy top-up with a level indicator"
     ],
     "cons": [
-      "Among the most expensive units on this list",
-      "Needs a dedicated table or cabinet given its footprint"
+      "High price point compared to entry-level incubators",
+      "Large size requires more dedicated space"
     ],
     "who_its_for": "Small-scale breeders hatching dozens of eggs per cycle.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Brinsea Ovation 56 Advance",
+        "url": "https://us.amazon.com/Brinsea-Products-USAG46C-Automatic-Incubator/dp/B01N4R6DM0"
+      },
+      {
+        "name": "The Frugal Chicken - Brinsea Ovation 56 Advance review",
+        "url": "https://thefrugalchicken.com/brinsea-ovation-56-advance-incubator-product-review/"
       }
     ]
   },
   {
     "id": "px-30-cabinet-incubator",
-    "name": "PX-30 Cabinet Incubator",
+    "name": "MX-20 Automatic Egg Incubator",
     "brand": "R-Com",
     "category": "incubators",
     "subcategory": "by egg count",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=R-Com%20PX-30%20Cabinet%20Incubator",
-    "price_range_usd": "$400-$550",
+    "amazon_asin": "B012MFGNPQ",
+    "amazon_url_search": "https://www.amazon.com/s?k=R-Com%20MX-20%20Automatic%20Egg%20Incubator",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1573,14 +1716,8 @@
       "turner": "automatic",
       "humidity_control": "digital sensor"
     },
-    "pros": [
-      "Cabinet-style build with strong insulation for stable temperatures",
-      "Digital sensors give precise readouts rather than estimates"
-    ],
-    "cons": [
-      "Higher price bracket for the given capacity",
-      "Bulkier than tray-style incubators of similar egg count"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Buyers prioritizing incubation precision over price.",
     "sources": [
       {
@@ -1595,9 +1732,9 @@
     "brand": "Brinsea",
     "category": "candlers",
     "subcategory": "LED candler",
-    "amazon_asin": null,
+    "amazon_asin": "B00ION2XYG",
     "amazon_url_search": "https://www.amazon.com/s?k=Brinsea%20OvaView%20LED%20Candler",
-    "price_range_usd": "$30-$45",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1605,18 +1742,19 @@
       "cone": "adjustable seal"
     },
     "pros": [
-      "Strong enough beam to see through dark or brown shells",
-      "Cone seals out ambient light for a clear view"
+      "Battery-powered high-intensity LED gives a bright, clear view for candling small or thick-shelled eggs",
+      "No bulbs to replace and the LED runs cool",
+      "Compact and portable enough to use handheld or set on a flat surface"
     ],
     "cons": [
-      "Pricier than basic flashlight-style candlers",
-      "Battery-powered, so batteries need to be on hand"
+      "Runs on 4 rechargeable AA batteries that are not included",
+      "Aimed mainly at darker or thicker-shelled eggs"
     ],
     "who_its_for": "Keepers regularly candling brown or dark-shelled eggs.",
     "sources": [
       {
-        "name": "Brinsea",
-        "url": "https://brinsea.com/"
+        "name": "Amazon - Brinsea OvaView LED Candler",
+        "url": "https://www.amazon.com/Brinsea-Products-High-Intensity-Egg/dp/B00ION2XYG"
       }
     ]
   },
@@ -1626,9 +1764,9 @@
     "brand": "Magicfly",
     "category": "candlers",
     "subcategory": "LED candler",
-    "amazon_asin": null,
+    "amazon_asin": "B00KCKNYCY",
     "amazon_url_search": "https://www.amazon.com/s?k=Magicfly%20LED%20Egg%20Candler",
-    "price_range_usd": "$12-$20",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1636,30 +1774,29 @@
       "power": "USB or battery"
     },
     "pros": [
-      "Very affordable way to start candling eggs at home",
-      "Compact and easy to store near the incubator"
+      "Bright, cool LED light reveals fertilized eggs' dark spots and vein development",
+      "Safe, low-heat LED avoids the risk of cooking or damaging eggs"
     ],
     "cons": [
-      "Less effective on very dark or thick-shelled eggs",
-      "Build quality is basic compared with dedicated brooding brands"
+      "Plug-in power-supply version isn't cordless, limiting where it can be used"
     ],
     "who_its_for": "Casual or first-time hatchers on a small budget.",
     "sources": [
       {
-        "name": "Magicfly",
-        "url": "https://www.magicflyhome.com/"
+        "name": "Amazon - Magicfly LED Egg Candler",
+        "url": "https://www.amazon.com/Magicfly-Candler-Incubator-Warehouse-Exclusive/dp/B00KCKNYCY"
       }
     ]
   },
   {
     "id": "pulp-egg-cartons-blank",
-    "name": "Pulp Egg Cartons, Blank",
-    "brand": "Pinnacle Mercantile",
+    "name": "Blank Natural Pulp Egg Cartons (25-Pack)",
+    "brand": "MT Products",
     "category": "egg-cartons",
     "subcategory": "pulp blank",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Pinnacle%20Mercantile%20Pulp%20Egg%20Cartons%2C%20Blank",
-    "price_range_usd": "$15-$30 per 100",
+    "amazon_asin": "B08DL54ZZ5",
+    "amazon_url_search": "https://www.amazon.com/s?k=MT%20Products%20Blank%20Natural%20Pulp%20Egg%20Cartons%20(25-Pack)",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1667,30 +1804,27 @@
       "material": "molded pulp"
     },
     "pros": [
-      "Compostable and biodegradable, good for farm-stand branding",
-      "Blank surface is easy to stamp or label with a farm name"
+      "Sustainable recycled pulp construction absorbs humidity to help keep eggs dry and fresh",
+      "Blank surface leaves room to stamp a logo or write in the type of egg being sold"
     ],
-    "cons": [
-      "Less rigid than plastic cartons, can crush if stacked carelessly",
-      "Sold in bulk, so storage space is needed"
-    ],
+    "cons": [],
     "who_its_for": "Farm-stand and market sellers wanting eco-friendly, brandable cartons.",
     "sources": [
       {
-        "name": "Pinnacle Mercantile",
-        "url": "https://pinnaclemercantile.com/"
+        "name": "Amazon - MT Products Blank Natural Pulp Egg Cartons",
+        "url": "https://www.amazon.com/Blank-Natural-Cartons-Holds-Twelve/dp/B08DL54ZZ5"
       }
     ]
   },
   {
     "id": "clear-plastic-egg-cartons",
     "name": "Clear Plastic Egg Cartons",
-    "brand": "Egg Cartons.com",
+    "brand": "Cornucopia Brands",
     "category": "egg-cartons",
     "subcategory": "clear PET",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Egg%20Cartons.com%20Clear%20Plastic%20Egg%20Cartons",
-    "price_range_usd": "$20-$40 per 100",
+    "amazon_asin": "B07R3C6R23",
+    "amazon_url_search": "https://www.amazon.com/s?k=Cornucopia%20Brands%20Clear%20Plastic%20Egg%20Cartons",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1698,30 +1832,28 @@
       "material": "PET plastic"
     },
     "pros": [
-      "Shows off egg color and size, popular at farmers markets",
-      "More reusable and durable than pulp cartons"
+      "Made of stackable, washable, reusable #1 PET food-safe BPA-free plastic",
+      "Tri-fold clear design with snap closure nests flat when empty to save storage space",
+      "Fits small to XL chicken eggs, one dozen per carton"
     ],
-    "cons": [
-      "Not biodegradable, a downside for eco-focused branding",
-      "Costs more per unit than basic pulp cartons"
-    ],
+    "cons": [],
     "who_its_for": "Sellers who want their egg color and size on display.",
     "sources": [
       {
-        "name": "EggCartons.com",
-        "url": "https://www.eggcartons.com/"
+        "name": "Amazon - Cornucopia Clear Plastic Egg Cartons",
+        "url": "https://www.amazon.com/Plastic-Cartons-20-Pack-Tri-Fold-Containers/dp/B07R3C6R23"
       }
     ]
   },
   {
     "id": "jumbo-pulp-egg-cartons",
-    "name": "Jumbo Pulp Egg Cartons",
-    "brand": "Papertise",
+    "name": "12-Egg Grade A Jumbo Paper Pulp Egg Carton (50-Pack)",
+    "brand": "TECS",
     "category": "egg-cartons",
     "subcategory": "pulp jumbo",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Papertise%20Jumbo%20Pulp%20Egg%20Cartons",
-    "price_range_usd": "$18-$32 per 100",
+    "amazon_asin": "B081DBDKSK",
+    "amazon_url_search": "https://www.amazon.com/s?k=TECS%2012-Egg%20Grade%20A%20Jumbo%20Paper%20Pulp%20Egg%20Carton%20(50-Pack)",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1729,18 +1861,14 @@
       "material": "molded pulp"
     },
     "pros": [
-      "Fits larger duck or jumbo chicken eggs that standard cartons crush",
-      "Compostable material matches standard pulp cartons"
+      "Grade-A jumbo sizing and sturdy pulp construction sized for extra-large eggs"
     ],
-    "cons": [
-      "Harder to find in small quantities than standard-size cartons",
-      "Not suited for standard or smaller egg sizes"
-    ],
+    "cons": [],
     "who_its_for": "Duck-egg sellers or flocks that consistently lay oversized eggs.",
     "sources": [
       {
-        "name": "Papertise",
-        "url": "https://papertise.com/"
+        "name": "Amazon - TECS Jumbo Paper Pulp Egg Carton",
+        "url": "https://www.amazon.com/12-Egg-Grade-Jumbo-Egg-Carton/dp/B081DBDKSK"
       }
     ]
   },
@@ -1750,9 +1878,9 @@
     "brand": "Egg Skelter",
     "category": "egg-skelter",
     "subcategory": "spiral skelter",
-    "amazon_asin": null,
+    "amazon_asin": "B07SHRJXQG",
     "amazon_url_search": "https://www.amazon.com/s?k=Egg%20Skelter%20Original%20Egg%20Skelter",
-    "price_range_usd": "$25-$40",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1760,30 +1888,34 @@
       "material": "powder-coated steel"
     },
     "pros": [
-      "First-in-first-out spiral rotates stock automatically",
-      "Attractive countertop design that also displays the eggs"
+      "Downward spiral design keeps oldest eggs at the bottom for first-in, first-out rotation",
+      "Freestanding wire construction is space-saving and doubles as a display piece"
     ],
     "cons": [
-      "Premium price for what is essentially a countertop organizer",
-      "Not a substitute for tracking lay dates on very old eggs"
+      "Holds roughly 20 eggs, which some households may find too small",
+      "The true original Skelter is discontinued; buyers may get a newer redesigned version"
     ],
     "who_its_for": "Kitchen counters that need an attractive, self-rotating egg store.",
     "sources": [
       {
-        "name": "Egg Skelter",
-        "url": "https://eggskelter.com/"
+        "name": "Amazon - Egg Skelter Deluxe",
+        "url": "https://www.amazon.com/Skelter-Deluxe-Modern-Spiraling-Dispenser/dp/B07SHRJXQG"
+      },
+      {
+        "name": "Raising Happy Chickens - Egg Skelter review",
+        "url": "https://www.raising-happy-chickens.com/egg-skelter.html"
       }
     ]
   },
   {
     "id": "countertop-egg-holder",
     "name": "Countertop Egg Holder",
-    "brand": "Cooler Kitchen",
+    "brand": "Flexzion",
     "category": "egg-skelter",
     "subcategory": "spiral skelter",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Cooler%20Kitchen%20Countertop%20Egg%20Holder",
-    "price_range_usd": "$18-$28",
+    "amazon_asin": "B0793MZJGC",
+    "amazon_url_search": "https://www.amazon.com/s?k=Flexzion%20Countertop%20Egg%20Holder",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1791,18 +1923,15 @@
       "material": "metal wire"
     },
     "pros": [
-      "More affordable than the original branded skelter",
-      "Compact size fits smaller kitchens"
+      "Modern spiral design with a durable steel build and stable round base",
+      "Holds around 20 eggs and works as a countertop display piece"
     ],
-    "cons": [
-      "Smaller capacity than premium spiral skelters",
-      "Wire construction is less sturdy long-term than solid steel"
-    ],
+    "cons": [],
     "who_its_for": "Small households wanting a budget egg-rotation holder.",
     "sources": [
       {
-        "name": "Cooler Kitchen",
-        "url": "https://coolerkitchen.com/"
+        "name": "Amazon - Flexzion Egg Skelter Spiral Egg Holder",
+        "url": "https://www.amazon.com/Flexzion-Skelter-Deluxe-Spiraling-Dispenser/dp/B0793MZJGC"
       }
     ]
   },
@@ -1812,9 +1941,9 @@
     "brand": "Little Giant",
     "category": "nesting-boxes",
     "subcategory": "single box",
-    "amazon_asin": null,
+    "amazon_asin": "B005CEQYJK",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Plastic%20Poultry%20Nest%20Box",
-    "price_range_usd": "$15-$25",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1822,18 +1951,20 @@
       "material": "plastic"
     },
     "pros": [
-      "Easy to clean and disinfect compared with wood boxes",
-      "Inexpensive way to add extra nesting spots"
+      "High-density, impact-resistant polyethylene won't rust, rot or corrode and stays cleaner than metal boxes",
+      "Entrance perch gives hens a landing spot before entering, and ventilation holes add airflow",
+      "Recessed floor relative to the entrance helps prevent bedding from spilling out"
     ],
-    "cons": [
-      "Single-box units need multiples for a larger flock",
-      "Basic design lacks a lipped front to hold in bedding"
-    ],
+    "cons": [],
     "who_its_for": "Keepers adding a spare nest box or two to an existing coop.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Miller Manufacturing Plastic Nesting Box",
+        "url": "https://www.amazon.com/Miller-Manufacturing-163620-Chicken-Nesting/dp/B005CEQYJK"
+      },
+      {
+        "name": "Miller Manufacturing product page",
+        "url": "https://miller-mfg.com/products/plastic-nesting-box"
       }
     ]
   },
@@ -1843,9 +1974,9 @@
     "brand": "Miller Manufacturing",
     "category": "nesting-boxes",
     "subcategory": "multi-box",
-    "amazon_asin": null,
+    "amazon_asin": "B06XGN8SVF",
     "amazon_url_search": "https://www.amazon.com/s?k=Miller%20Manufacturing%204-Hole%20Nest%20Box",
-    "price_range_usd": "$60-$100",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1853,18 +1984,15 @@
       "material": "galvanized steel/plastic"
     },
     "pros": [
-      "Covers a whole small-to-medium flock's nesting needs in one unit",
-      "Durable metal frame holds up to years of use"
+      "High-density impact-resistant polyethylene resists rust, rot and corrosion",
+      "Wall-mountable with entrance perch and ventilation holes on each of the 4 boxes"
     ],
-    "cons": [
-      "Bulkier footprint needs enough interior coop space",
-      "Heavier to mount and move than single plastic boxes"
-    ],
+    "cons": [],
     "who_its_for": "Flocks of roughly 12-16 hens needing several nest sites in one fixture.",
     "sources": [
       {
-        "name": "Miller Manufacturing",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Miller Large Nesting Box 4-Pack",
+        "url": "https://www.amazon.com/Miller-Large-Nesting-Chicken-Poultry/dp/B06XGN8SVF"
       }
     ]
   },
@@ -1874,9 +2002,9 @@
     "brand": "RentACoop",
     "category": "roll-away-nest-boxes",
     "subcategory": "single roll-away",
-    "amazon_asin": null,
+    "amazon_asin": "B0DM2NJSL1",
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Roll%20Out%20Nesting%20Box",
-    "price_range_usd": "$45-$70",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1884,18 +2012,19 @@
       "tray": "padded collection tray"
     },
     "pros": [
-      "Sloped floor reduces egg breakage and egg-eating habits",
-      "External access panel lets you collect without entering the coop"
+      "Roll-out egg collection tray keeps eggs clean, undamaged and separated from droppings and bedding",
+      "Reversible design suits up to about 4 hens, ducks or other poultry"
     ],
-    "cons": [
-      "Hens need to already be nest-trained for the roll-away design to work well",
-      "Costs more per box than a basic static nest box"
-    ],
+    "cons": [],
     "who_its_for": "Keepers dealing with egg-eating hens or wanting outside-access collection.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop Roll-Out Nesting Box",
+        "url": "https://www.amazon.com/RentACoop-Roll-Out-Reversible-Efficiency-Compartment/dp/B0DM2NJSL1"
+      },
+      {
+        "name": "RentACoop product page",
+        "url": "https://rentacoop.com/products/rentacoop-nesting-box-efficiency"
       }
     ]
   },
@@ -1907,21 +2036,15 @@
     "subcategory": "multi roll-away",
     "amazon_asin": null,
     "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20Roll%20Out%20Nest%20Box",
-    "price_range_usd": "$120-$200",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "holes": "2-4",
       "slope_design": true
     },
-    "pros": [
-      "Multi-hole version covers a bigger flock in one install",
-      "Sturdy build intended for repeated daily use"
-    ],
-    "cons": [
-      "Larger unit needs more coop wall space to mount",
-      "Higher price than single-hole roll-away boxes"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Medium flocks wanting roll-away benefits across several hens at once.",
     "sources": [
       {
@@ -1936,9 +2059,9 @@
     "brand": "Kaytee",
     "category": "bedding",
     "subcategory": "pine shavings",
-    "amazon_asin": null,
+    "amazon_asin": "B01BD4OAG6",
     "amazon_url_search": "https://www.amazon.com/s?k=Kaytee%20Premium%20Pine%20Shavings",
-    "price_range_usd": "$8-$15 per bag",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1946,18 +2069,19 @@
       "kiln_dried": true
     },
     "pros": [
-      "Affordable, absorbent, and widely available",
-      "Kiln-dried processing reduces dust compared with raw shavings"
+      "100% natural pine, kiln-dried and processed to eliminate dust and wood debris",
+      "Good absorption for all-purpose small-animal and coop bedding use"
     ],
-    "cons": [
-      "Needs full replacement more often than hemp bedding",
-      "Never use cedar shavings from any brand, which are toxic to poultry"
-    ],
+    "cons": [],
     "who_its_for": "Most backyard keepers looking for a reliable, low-cost default bedding.",
     "sources": [
       {
-        "name": "Kaytee",
-        "url": "https://www.kaytee.com/"
+        "name": "Amazon - Kaytee Pine Bedding",
+        "url": "https://www.amazon.com/Kaytee-Pine-Bedding-3200-Cubic/dp/B01BD4OAG6"
+      },
+      {
+        "name": "Kaytee pine bedding product page",
+        "url": "https://www.kaytee.com/all-products/small-animal/pine-bedding"
       }
     ]
   },
@@ -1967,9 +2091,9 @@
     "brand": "Small Pet Select",
     "category": "bedding",
     "subcategory": "hemp",
-    "amazon_asin": null,
+    "amazon_asin": "B0FPTV33XZ",
     "amazon_url_search": "https://www.amazon.com/s?k=Small%20Pet%20Select%20Hemp%20Bedding",
-    "price_range_usd": "$20-$35 per bag",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -1977,18 +2101,20 @@
       "dust_level": "low"
     },
     "pros": [
-      "Absorbs more moisture and odor than pine shavings",
-      "Composts faster, a plus for garden-focused keepers"
+      "Soaks up roughly 4-5x more moisture than pine shavings, per the product description",
+      "Triple-dedusted to about 99% dust-free, reducing respiratory irritation in the coop",
+      "Fully compostable and biodegradable hemp hurd for softer bedding"
     ],
-    "cons": [
-      "Costs noticeably more per bag than pine shavings",
-      "Less widely stocked in brick-and-mortar farm stores"
-    ],
+    "cons": [],
     "who_its_for": "Keepers prioritizing odor and moisture control over upfront cost.",
     "sources": [
       {
-        "name": "Small Pet Select",
-        "url": "https://www.smallpetselect.com/"
+        "name": "Amazon - Small Pet Select Hemp Bedding",
+        "url": "https://www.amazon.com/Small-Pet-Select-Ultra-Premium-Biodegradable/dp/B0FPTV33XZ"
+      },
+      {
+        "name": "Small Pet Select hemp bedding page",
+        "url": "https://shop.smallpetselect.com/products/chicken-hemp-hurd"
       }
     ]
   },
@@ -1998,9 +2124,9 @@
     "brand": "Standlee",
     "category": "bedding",
     "subcategory": "straw",
-    "amazon_asin": null,
+    "amazon_asin": "B00H1OEKWW",
     "amazon_url_search": "https://www.amazon.com/s?k=Standlee%20Premium%20Western%20Forage%20Straw",
-    "price_range_usd": "$12-$20 per bale",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2008,18 +2134,17 @@
       "use": "bedding/insulation"
     },
     "pros": [
-      "Good insulating value in cold-weather coops",
-      "Widely available at farm and feed stores"
+      "Straw chopped into roughly 4-inch pieces makes it easier to muck out only soiled bedding",
+      "Suitable for chickens, goats, sheep, rabbits, guinea pigs and other small animals"
     ],
     "cons": [
-      "Holds moisture and mats down faster than shavings",
-      "Can harbor mites or mold if it gets wet and isn't changed promptly"
+      "Not recommended for horse bedding since equines may eat it and risk digestive upset"
     ],
     "who_its_for": "Cold-climate keepers wanting extra winter insulation in nest boxes or coop floors.",
     "sources": [
       {
-        "name": "Standlee Forage",
-        "url": "https://standleeforage.com/"
+        "name": "Amazon - Standlee Chopped Straw for Animal Bedding",
+        "url": "https://www.amazon.com/Standlee-Hay-Company-Chopped-Bedding/dp/B00H1OEKWW"
       }
     ]
   },
@@ -2029,27 +2154,28 @@
     "brand": "Sakrete",
     "category": "bedding",
     "subcategory": "sand",
-    "amazon_asin": null,
+    "amazon_asin": "B00BGSIVGU",
     "amazon_url_search": "https://www.amazon.com/s?k=Sakrete%20All-Purpose%20Play%20Sand",
-    "price_range_usd": "$5-$10 per bag",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "grain": "washed, fine"
     },
     "pros": [
-      "Easy to sift like a litter box, cutting daily cleaning time",
-      "Doubles as dust-bath material"
+      "Screened, washed, dried and sanitized natural sand suitable for dust bath and litter use",
+      "All-natural sand in a manageable 50 lb bag"
     ],
-    "cons": [
-      "Heavy to haul and spread compared with shavings or straw",
-      "Holds cold in winter, a downside in freezing climates"
-    ],
+    "cons": [],
     "who_its_for": "Keepers in warm-to-mild climates who like the deep-litter sand method.",
     "sources": [
       {
-        "name": "Sakrete",
-        "url": "https://www.sakrete.com/"
+        "name": "Amazon - Sakrete Natural Play Sand",
+        "url": "https://www.amazon.com/SAKRETE-NORTH-AMERICA-40100301-Natural/dp/B00BGSIVGU"
+      },
+      {
+        "name": "Sakrete product page",
+        "url": "https://www.sakrete.com/product/natural-play-sand/"
       }
     ]
   },
@@ -2059,9 +2185,9 @@
     "brand": "Manna Pro",
     "category": "grit",
     "subcategory": "adult grit",
-    "amazon_asin": null,
+    "amazon_asin": "B0793JTSNK",
     "amazon_url_search": "https://www.amazon.com/s?k=Manna%20Pro%20Poultry%20Grit",
-    "price_range_usd": "$8-$15",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2069,18 +2195,15 @@
       "particle": "insoluble granite"
     },
     "pros": [
-      "Widely stocked at feed stores nationwide",
-      "Reasonably priced for the bag size"
+      "Crushed granite grit supports gizzard function and digestion",
+      "Works for chickens, ducks and game birds, not just chickens"
     ],
-    "cons": [
-      "Unnecessary for birds that already free-range on gravelly ground",
-      "Must be offered separately, not mixed into feed"
-    ],
+    "cons": [],
     "who_its_for": "Keepers whose birds eat scratch, forage, or whole grains and need digestive grit.",
     "sources": [
       {
-        "name": "Manna Pro",
-        "url": "https://www.mannapro.com/"
+        "name": "Amazon - Manna Pro Poultry Grit 25 lb",
+        "url": "https://www.amazon.com/Manna-Pro-Poultry-Grit-25/dp/B0793JTSNK"
       }
     ]
   },
@@ -2090,9 +2213,9 @@
     "brand": "Small Pet Select",
     "category": "grit",
     "subcategory": "starter grit",
-    "amazon_asin": null,
+    "amazon_asin": "B07R3ST9DY",
     "amazon_url_search": "https://www.amazon.com/s?k=Small%20Pet%20Select%20Chick%20Grit",
-    "price_range_usd": "$8-$14",
+    "price_range_usd": "$19.99 (10 lb bag)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2100,20 +2223,22 @@
       "particle": "fine granite"
     },
     "pros": [
-      "Sized appropriately for young chicks eating scratch or treats",
-      "Prevents crop impaction issues in smaller birds"
+      "Granite grit sized small enough for chicks' little beaks, unlike adult grit that's too big",
+      "Chicks are attracted to it when sprinkled on chick mash"
     ],
     "cons": [
-      "Not usable interchangeably with coarser adult grit",
-      "Only needed once chicks start eating anything besides starter crumble"
+      "Some buyers received it in a loose box rather than the resealable bag shown, causing spills",
+      "A few reviewers said pieces looked larger or chunkier than pictured"
     ],
     "who_its_for": "Keepers introducing treats or scratch to chicks for the first time.",
     "sources": [
       {
-        "name": "Small Pet Select",
-        "url": "https://www.smallpetselect.com/"
+        "name": "Amazon - Small Pet Select Chick Grit",
+        "url": "https://www.amazon.com/Small-Pet-Select-Chick-Babies/dp/B07R3ST9DY"
       }
-    ]
+    ],
+    "rating": 4.5,
+    "review_count": 206
   },
   {
     "id": "crushed-oyster-shell",
@@ -2121,9 +2246,9 @@
     "brand": "Manna Pro",
     "category": "oyster-shell",
     "subcategory": "layer supplement",
-    "amazon_asin": null,
+    "amazon_asin": "B000MD59TC",
     "amazon_url_search": "https://www.amazon.com/s?k=Manna%20Pro%20Crushed%20Oyster%20Shell",
-    "price_range_usd": "$10-$18",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2131,48 +2256,14 @@
       "calcium_source": "oyster shell"
     },
     "pros": [
-      "Widely available and inexpensive calcium boost for layers",
-      "Coarse particle size suited to standard-breed hens"
+      "Calcium supplement marketed to support stronger eggshells in laying hens"
     ],
-    "cons": [
-      "Should not be given to non-laying pullets or roosters regularly",
-      "Needs a separate dish, not mixed into complete feed"
-    ],
+    "cons": [],
     "who_its_for": "Keepers whose hens show thin or soft-shelled eggs.",
     "sources": [
       {
-        "name": "Manna Pro",
-        "url": "https://www.mannapro.com/"
-      }
-    ]
-  },
-  {
-    "id": "oyster-shell",
-    "name": "Oyster Shell",
-    "brand": "Producer's Pride",
-    "category": "oyster-shell",
-    "subcategory": "layer supplement",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Producer's%20Pride%20Oyster%20Shell",
-    "price_range_usd": "$9-$16",
-    "price_checked": "2026-09-26",
-    "flock_size": null,
-    "key_specs": {
-      "bag_size_lb": 5
-    },
-    "pros": [
-      "Budget-friendly option sold widely at Tractor Supply",
-      "Simple, single-ingredient calcium supplement"
-    ],
-    "cons": [
-      "No fine-particle version for smaller breeds in this line",
-      "Same general caution: free-choice only, not for young birds"
-    ],
-    "who_its_for": "Tractor Supply shoppers wanting a straightforward calcium supplement.",
-    "sources": [
-      {
-        "name": "Tractor Supply Co.",
-        "url": "https://www.tractorsupply.com/"
+        "name": "Amazon - Manna Pro Crushed Oyster Shell",
+        "url": "https://www.amazon.com/Manna-Pro-Crushed-Oyster-Chickens/dp/B000MD59TC"
       }
     ]
   },
@@ -2182,9 +2273,9 @@
     "brand": "Purina",
     "category": "feed",
     "subcategory": "starter",
-    "amazon_asin": null,
+    "amazon_asin": "B077VZDLRT",
     "amazon_url_search": "https://www.amazon.com/s?k=Purina%20Start%20%26%20Grow%20Chick%20Starter-Grower",
-    "price_range_usd": "$18-$28 per 25 lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2192,18 +2283,18 @@
       "medicated": "available medicated or non-medicated"
     },
     "pros": [
-      "One of the most recognized and widely available starter feeds in the US",
-      "Medicated version helps guard against coccidiosis in unvaccinated chicks"
+      "18% protein crumble supports a strong start and early hen development to laying age",
+      "Brand has 100K+ highly rated customer orders per Amazon brand data"
     ],
     "cons": [
-      "Not certified organic",
-      "Medicated version isn't needed if chicks are already vaccinated"
+      "Several buyers reported a high amount of powdery fines that chicks won't eat and can clog feeders",
+      "Some found it pricier than buying from a local feed store"
     ],
     "who_its_for": "Most first-time chick owners looking for a trusted, easy-to-find starter feed.",
     "sources": [
       {
-        "name": "Purina Mills",
-        "url": "https://www.purinamills.com/"
+        "name": "Amazon - Purina Start & Grow Crumbles",
+        "url": "https://www.amazon.com/Purina-Animal-Nutrition-Start-Crumbles/dp/B077VZDLRT"
       }
     ]
   },
@@ -2213,9 +2304,9 @@
     "brand": "Nutrena",
     "category": "feed",
     "subcategory": "starter",
-    "amazon_asin": null,
+    "amazon_asin": "B0FQ1K9P9P",
     "amazon_url_search": "https://www.amazon.com/s?k=Nutrena%20NatureWise%20Starter%20Feed",
-    "price_range_usd": "$17-$26 per 25 lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2223,18 +2314,15 @@
       "prebiotics_probiotics": true
     },
     "pros": [
-      "Added prebiotics and probiotics for gut health",
-      "Comparable pricing to the leading starter feed brand"
+      "18% protein crumble formulated with prebiotics, probiotics, yeast cultures and essential oils",
+      "Supports growth from hatch through 16 weeks"
     ],
-    "cons": [
-      "Slightly less widely stocked than Purina in some regions",
-      "Non-organic formula, like most mainstream starter feeds"
-    ],
+    "cons": [],
     "who_its_for": "Keepers who want a probiotic-fortified starter without an organic price tag.",
     "sources": [
       {
-        "name": "Nutrena",
-        "url": "https://www.nutrenaworld.com/"
+        "name": "Amazon - Nutrena NatureWise Chick Starter Grower",
+        "url": "https://www.amazon.com/Nutrena%C2%AE-NatureWise%C2%AE-Chick-Starter-Grower/dp/B0FQ1K9P9P"
       }
     ]
   },
@@ -2244,9 +2332,9 @@
     "brand": "Purina",
     "category": "feed",
     "subcategory": "layer",
-    "amazon_asin": null,
+    "amazon_asin": "B01M3WDKAZ",
     "amazon_url_search": "https://www.amazon.com/s?k=Purina%20Layena%20Layer%20Feed",
-    "price_range_usd": "$18-$27 per 25 lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2255,18 +2343,15 @@
       "form": "pellet or crumble"
     },
     "pros": [
-      "Reliable, consistent formula backed by decades of use",
-      "Available in both pellet and crumble forms"
+      "Provides all 38 nutrients laying hens need once at 18 weeks and laying",
+      "Ranks as a top seller in the Amazon Bird Food category"
     ],
-    "cons": [
-      "Not certified organic or non-GMO",
-      "Layer calcium levels make it unsuitable for pre-laying pullets"
-    ],
+    "cons": [],
     "who_its_for": "Most keepers with an actively laying flock wanting a trusted mainstream feed.",
     "sources": [
       {
-        "name": "Purina Mills",
-        "url": "https://www.purinamills.com/"
+        "name": "Amazon - Purina Layena Crumbles",
+        "url": "https://www.amazon.com/Purina-Layena-Nutritionally-Complete-Crumbles/dp/B01M3WDKAZ"
       }
     ]
   },
@@ -2276,9 +2361,9 @@
     "brand": "Nutrena",
     "category": "feed",
     "subcategory": "layer",
-    "amazon_asin": null,
+    "amazon_asin": "B073J89RNJ",
     "amazon_url_search": "https://www.amazon.com/s?k=Nutrena%20NatureWise%20Layer%20Pellet",
-    "price_range_usd": "$17-$26 per 25 lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2286,18 +2371,17 @@
       "added": "marigold extract for yolk color"
     },
     "pros": [
-      "Marigold extract is marketed to deepen yolk color",
-      "Competitive pricing against the market-leading layer brand"
+      "Enriched with vitamin D3 and essential oils; pellet form reduces waste versus mash",
+      "Related NatureWise Layer feed rated 4.9/5 by 570 reviews on the manufacturer's own site"
     ],
     "cons": [
-      "Still a conventional, non-organic formula",
-      "Yolk color effect is modest and not dramatic for all flocks"
+      "A few buyers on other retail sites raised freshness or shipping-condition concerns"
     ],
     "who_its_for": "Keepers wanting a mainstream layer feed with a slight yolk-color boost.",
     "sources": [
       {
-        "name": "Nutrena",
-        "url": "https://www.nutrenaworld.com/"
+        "name": "Amazon - Nutrena NatureWise Layer 16 Feed",
+        "url": "https://www.amazon.com/Nutrena-Naturewise-Layer-16-Feed/dp/B073J89RNJ"
       }
     ]
   },
@@ -2307,9 +2391,9 @@
     "brand": "Scratch and Peck Feeds",
     "category": "feed",
     "subcategory": "organic",
-    "amazon_asin": null,
+    "amazon_asin": "B08Q6KQMYZ",
     "amazon_url_search": "https://www.amazon.com/s?k=Scratch%20and%20Peck%20Feeds%20Organic%20Layer%20Feed",
-    "price_range_usd": "$35-$50 per 25 lb",
+    "price_range_usd": "$44-$85 depending on bag size/multipack (as reported by buyers)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2317,20 +2401,21 @@
       "certification": "USDA Organic, whole grain"
     },
     "pros": [
-      "Whole-grain, minimally processed formula appeals to organic-focused keepers",
-      "USDA Organic certification for those selling eggs as organic"
+      "Certified organic, Non-GMO Project Verified, corn- and soy-free",
+      "Uses black soldier fly larvae as part of its protein source, appreciated by buyers"
     ],
     "cons": [
-      "Substantially more expensive per pound than conventional layer feed",
-      "Whole-grain form means less uniform bite size than pelleted feed"
+      "Frequently cited as expensive; one buyer estimated about $300/month feeding 15 chickens over winter"
     ],
     "who_its_for": "Keepers committed to an organic feed program, often selling eggs as organic.",
     "sources": [
       {
-        "name": "Scratch and Peck Feeds",
-        "url": "https://scratchandpeck.com/"
+        "name": "Amazon - Scratch and Peck Organic Layer Pellets",
+        "url": "https://www.amazon.com/Scratch-Naturally-Organic-Pellets-Chicken/dp/B08Q6KQMYZ"
       }
-    ]
+    ],
+    "rating": 4.4,
+    "review_count": 252
   },
   {
     "id": "organic-layer-feed-kalmbach",
@@ -2338,9 +2423,9 @@
     "brand": "Kalmbach Feeds",
     "category": "feed",
     "subcategory": "organic",
-    "amazon_asin": null,
+    "amazon_asin": "B01N3LME35",
     "amazon_url_search": "https://www.amazon.com/s?k=Kalmbach%20Feeds%20Organic%20Layer%20Feed",
-    "price_range_usd": "$28-$40 per 25 lb",
+    "price_range_usd": "~$1/lb; one buyer reported $28.99 for a 40 lb bag (non-Amazon retailer)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2348,49 +2433,16 @@
       "certification": "USDA Organic, pellet"
     },
     "pros": [
-      "Pelleted organic option, less picky-eater waste than whole-grain organic feed",
-      "Priced somewhat below the leading whole-grain organic brand"
+      "USDA Certified Organic, formulated for higher Omega-3 and Vitamin D-3 in eggs",
+      "Buyers report noticeably little powder or dust in the bag compared to competitors",
+      "Reviewers note improved egg production and more vibrant yolks"
     ],
-    "cons": [
-      "Still a premium price versus conventional layer feed",
-      "Regional availability is more limited than national mainstream brands"
-    ],
+    "cons": [],
     "who_its_for": "Organic-feed keepers who prefer a pellet over a whole-grain mix.",
     "sources": [
       {
-        "name": "Kalmbach Feeds",
-        "url": "https://www.kalmbachfeeds.com/"
-      }
-    ]
-  },
-  {
-    "id": "dried-mealworms",
-    "name": "Dried Mealworms",
-    "brand": "Small Pet Select",
-    "category": "treats",
-    "subcategory": "mealworms",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Small%20Pet%20Select%20Dried%20Mealworms",
-    "price_range_usd": "$15-$30 per lb",
-    "price_checked": "2026-09-26",
-    "flock_size": null,
-    "key_specs": {
-      "protein_pct": "high (~50%)",
-      "form": "dried, whole"
-    },
-    "pros": [
-      "High-protein treat chickens reliably love",
-      "Long shelf life since they're fully dried"
-    ],
-    "cons": [
-      "Should stay under about 10% of total daily diet",
-      "More expensive per pound than most other treats"
-    ],
-    "who_its_for": "Keepers wanting a reliable high-protein treat for hand-feeding or boredom-busting.",
-    "sources": [
-      {
-        "name": "Small Pet Select",
-        "url": "https://www.smallpetselect.com/"
+        "name": "Amazon - Kalmbach Feeds Organic Layer Pellet",
+        "url": "https://www.amazon.com/Kalmbach-Feeds-Piece-Organic-Pellet/dp/B01N3LME35"
       }
     ]
   },
@@ -2400,9 +2452,9 @@
     "brand": "Chubby Mealworms",
     "category": "treats",
     "subcategory": "mealworms",
-    "amazon_asin": null,
+    "amazon_asin": "B00GFZLXSM",
     "amazon_url_search": "https://www.amazon.com/s?k=Chubby%20Mealworms%20Non-GMO%20Dried%20Mealworms",
-    "price_range_usd": "$12-$25 per lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2410,18 +2462,15 @@
       "non_gmo": true
     },
     "pros": [
-      "Non-GMO sourcing appeals to feed-conscious keepers",
-      "Competitive pricing against other mealworm brands"
+      "55% protein, 28% essential fat content per manufacturer, good for molting and feather growth",
+      "Free of GMOs, antibiotics, hormones and chemicals per listing"
     ],
-    "cons": [
-      "Same overfeeding caution applies as with any mealworm treat",
-      "Sourcing and farm origin vary between suppliers"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting a non-GMO mealworm option at a similar price point.",
     "sources": [
       {
-        "name": "Chubby Mealworms",
-        "url": "https://chubbymealworms.com/"
+        "name": "Amazon - Chubby Mealworms 5lb Dried",
+        "url": "https://www.amazon.com/Chubby-Mealworms-5lbs-Dried/dp/B00GFZLXSM"
       }
     ]
   },
@@ -2431,9 +2480,9 @@
     "brand": "Grubblies",
     "category": "treats",
     "subcategory": "black soldier fly larvae",
-    "amazon_asin": null,
+    "amazon_asin": "B06WW6R3RD",
     "amazon_url_search": "https://www.amazon.com/s?k=Grubblies%20Original%20Black%20Soldier%20Fly%20Larvae",
-    "price_range_usd": "$18-$32 per lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2441,44 +2490,42 @@
       "form": "dried"
     },
     "pros": [
-      "Better calcium-to-phosphorus balance than mealworms, gentler for layers",
-      "High protein content chickens actively seek out"
+      "Contains about 50x more calcium than mealworms per manufacturer, supports eggshells and feathers",
+      "Reviewers say chickens get excited and come running for it",
+      "Grown in the US and Canada, which some buyers say makes them feel safer about sourcing"
     ],
     "cons": [
-      "Costs more per pound than mealworms in most cases",
-      "Still needs to stay a minority share of total diet"
+      "Multiple reviewers describe it as expensive relative to mealworms"
     ],
     "who_its_for": "Keepers wanting a treat that's a bit more nutritionally balanced than mealworms.",
     "sources": [
       {
-        "name": "Grubblies",
-        "url": "https://grubblies.com/"
+        "name": "Amazon - Grubblies Original Black Soldier Fly Larvae",
+        "url": "https://www.amazon.com/Grubblies-Natural-Grubs-Chickens-Supplement/dp/B06WW6R3RD"
+      },
+      {
+        "name": "Amazon customer reviews",
+        "url": "https://www.amazon.com/product-reviews/B06WW6R3RD"
       }
     ]
   },
   {
     "id": "dried-black-soldier-fly-larvae",
     "name": "Dried Black Soldier Fly Larvae",
-    "brand": "Tuck's Grubs",
+    "brand": "FLYGRUBS",
     "category": "treats",
     "subcategory": "black soldier fly larvae",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Tuck's%20Grubs%20Dried%20Black%20Soldier%20Fly%20Larvae",
-    "price_range_usd": "$15-$28 per lb",
+    "amazon_asin": "B07FMDXGB2",
+    "amazon_url_search": "https://www.amazon.com/s?k=FLYGRUBS%20Dried%20Black%20Soldier%20Fly%20Larvae",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "form": "dried, whole",
       "protein_pct": "high"
     },
-    "pros": [
-      "Comparable nutrition profile to leading BSFL brands at a lower price",
-      "Sold in a range of bag sizes for small or larger flocks"
-    ],
-    "cons": [
-      "Smaller brand with less widespread retail presence",
-      "Same moderation rules apply as any protein treat"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Budget-conscious keepers wanting BSFL treats without the premium brand price.",
     "sources": [
       {
@@ -2489,26 +2536,20 @@
   },
   {
     "id": "poultry-dust-bath",
-    "name": "Poultry Dust Bath",
-    "brand": "Manna Pro",
+    "name": "Chicken Dust Bath (Volcanic Ash)",
+    "brand": "Chickie-Whiz / Billy Buckskin",
     "category": "dust-bath",
     "subcategory": "dust bath mix",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Manna%20Pro%20Poultry%20Dust%20Bath",
-    "price_range_usd": "$12-$20",
+    "amazon_asin": "B0BH9DL8FY",
+    "amazon_url_search": "https://www.amazon.com/s?k=Chickie-Whiz%20%2F%20Billy%20Buckskin%20Chicken%20Dust%20Bath%20(Volcanic%20Ash)",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "ingredients": "sand, herbs, diatomaceous earth blend"
     },
-    "pros": [
-      "Ready-to-use blend saves mixing your own from scratch",
-      "Herbal additives are marketed to help with mite and lice control"
-    ],
-    "cons": [
-      "More expensive than mixing plain sand and dry dirt yourself",
-      "Needs to stay dry and covered to remain effective"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers who want a convenient, pre-mixed dust bath product.",
     "sources": [
       {
@@ -2523,9 +2564,9 @@
     "brand": "Harris",
     "category": "dust-bath",
     "subcategory": "diatomaceous earth",
-    "amazon_asin": null,
+    "amazon_asin": "B01N39V5SU",
     "amazon_url_search": "https://www.amazon.com/s?k=Harris%20Food%20Grade%20Diatomaceous%20Earth",
-    "price_range_usd": "$10-$20 per 4-5 lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2533,18 +2574,18 @@
       "use": "dust bath additive"
     },
     "pros": [
-      "Inexpensive additive to mix into a homemade dust bath",
-      "Widely available and multi-purpose around the homestead"
+      "100% food-grade freshwater DE with no additives or fillers, OMRI listed for organic use",
+      "Includes a powder duster in the bag for easy application",
+      "Reviewers report effective results against ants, spiders and other exoskeleton pests"
     ],
     "cons": [
-      "Should be used dry and with care to avoid inhaling the fine dust",
-      "Not a stand-alone treatment for a heavy mite or lice infestation"
+      "A few buyers reported issues with the bag's sealing or packaging"
     ],
     "who_its_for": "Keepers building their own dust bath mix rather than buying a pre-made blend.",
     "sources": [
       {
-        "name": "Harris",
-        "url": "https://www.harrisproducts.com/"
+        "name": "Amazon - Harris Diatomaceous Earth with Duster",
+        "url": "https://www.amazon.com/Harris-Diatomaceous-Powder-Duster-Included/dp/B01N39V5SU"
       }
     ]
   },
@@ -2554,9 +2595,9 @@
     "brand": "Premier1 Supplies",
     "category": "poultry-netting-electric-fence",
     "subcategory": "permanent netting",
-    "amazon_asin": null,
+    "amazon_asin": "B07L9J5XN1",
     "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20PermaNet%20Electric%20Poultry%20Fence",
-    "price_range_usd": "$220-$320",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2564,19 +2605,13 @@
       "height": "42 in",
       "posts": "rigid, fixed"
     },
-    "pros": [
-      "Rigid post design is more permanent and stable than standard flexible netting",
-      "Good option for a fixed daily range area rather than frequent moves"
-    ],
-    "cons": [
-      "Heavier and less portable than standard PoultryNet",
-      "Higher price than basic flexible netting"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers who want one semi-permanent, sturdy fenced range area.",
     "sources": [
       {
-        "name": "Premier1 Supplies",
-        "url": "https://www.premier1supplies.com/"
+        "name": "Amazon - Premier 1 PermaNet Plus 48x100",
+        "url": "https://www.amazon.com/Premier-PermaNet-Electric-Netting-Fence/dp/B07L9J5XN1"
       }
     ]
   },
@@ -2588,7 +2623,7 @@
     "subcategory": "predator netting",
     "amazon_asin": null,
     "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20ElectroStop%20Predator%20Netting",
-    "price_range_usd": "$260-$380",
+    "price_range_usd": "$132-$238 (direct from premier1supplies.com, varies by post type/length/Plus version)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2596,45 +2631,33 @@
       "height": "48 in",
       "spacing": "tight for predator deterrence"
     },
-    "pros": [
-      "Taller height and tighter mesh aimed specifically at deterring climbing and jumping predators",
-      "Works alongside standard PoultryNet for extra protection"
-    ],
-    "cons": [
-      "More expensive than standard poultry netting",
-      "Still needs a properly sized energizer to be effective"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers in areas with heavy predator pressure from dogs, coyotes, or bobcats.",
     "sources": [
       {
-        "name": "Premier1 Supplies",
-        "url": "https://www.premier1supplies.com/"
+        "name": "Premier1Supplies - ElectroStop 10/42/12 Electric Netting",
+        "url": "https://www.premier1supplies.com/p/electrostop-10-42-12-electric-netting"
       }
     ]
   },
   {
     "id": "raccoon-proof-coop-latch",
-    "name": "Raccoon-Proof Coop Latch",
-    "brand": "RentACoop",
+    "name": "Self-Locking Predator-Proof Chicken Coop Door",
+    "brand": "ChickenGuard",
     "category": "predator-proof-latch",
     "subcategory": "two-motion latch",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Raccoon-Proof%20Coop%20Latch",
-    "price_range_usd": "$8-$18",
+    "amazon_asin": "B07G9MPCKT",
+    "amazon_url_search": "https://www.amazon.com/s?k=ChickenGuard%20Self-Locking%20Predator-Proof%20Chicken%20Coop%20Door",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "motion": "two-step",
       "material": "steel"
     },
-    "pros": [
-      "Two-motion design defeats typical raccoon paw dexterity",
-      "Cheap, simple upgrade to an existing door"
-    ],
-    "cons": [
-      "Requires basic hardware installation onto your existing coop",
-      "Not a substitute for hardware-cloth-covered gaps elsewhere"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Anyone upgrading a stock coop's weak factory latch.",
     "sources": [
       {
@@ -2644,45 +2667,14 @@
     ]
   },
   {
-    "id": "predator-proof-latch",
-    "name": "Predator Proof Latch",
-    "brand": "OverEZ",
-    "category": "predator-proof-latch",
-    "subcategory": "two-motion latch",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=OverEZ%20Predator%20Proof%20Latch",
-    "price_range_usd": "$10-$20",
-    "price_checked": "2026-09-26",
-    "flock_size": null,
-    "key_specs": {
-      "motion": "two-step",
-      "material": "galvanized steel"
-    },
-    "pros": [
-      "Purpose-built to match OverEZ coop doors but works on many others",
-      "Rust-resistant coating for outdoor longevity"
-    ],
-    "cons": [
-      "Slightly pricier than generic hardware-store latch upgrades",
-      "Installation hardware may need adapting on non-OverEZ coops"
-    ],
-    "who_its_for": "OverEZ coop owners, or anyone wanting a purpose-built predator latch.",
-    "sources": [
-      {
-        "name": "OverEZ",
-        "url": "https://overez.com/"
-      }
-    ]
-  },
-  {
     "id": "automatic-chicken-coop-door-chickenguard",
     "name": "Automatic Chicken Coop Door",
     "brand": "ChickenGuard",
     "category": "automatic-coop-door",
     "subcategory": "timer + light sensor",
-    "amazon_asin": null,
+    "amazon_asin": "B0BZ8PHPPR",
     "amazon_url_search": "https://www.amazon.com/s?k=ChickenGuard%20Automatic%20Chicken%20Coop%20Door",
-    "price_range_usd": "$140-$220",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2690,20 +2682,26 @@
       "safety_stop": true
     },
     "pros": [
-      "Combines timer and light-sensor modes for flexible scheduling",
-      "Anti-crush safety stop reverses if a bird is in the doorway"
+      "Built-in anti-pinch safety senses obstructions and reverses the door instead of closing on a bird",
+      "Works immediately in light-sensing mode out of the box, with timer and dual-safety modes configurable",
+      "Comes with a 3-year manufacturer warranty and dedicated customer support"
     ],
     "cons": [
-      "Higher price point than basic timer-only doors",
-      "Battery models need regular battery checks in cold weather"
+      "Amazon Canada listing for the same product shows a middling 4.0-star average across 248 reviews"
     ],
     "who_its_for": "Keepers wanting a well-reviewed, safety-featured automatic door.",
     "sources": [
       {
-        "name": "ChickenGuard",
-        "url": "https://chickenguard.com/"
+        "name": "Amazon.ca - ChickenGuard AIO listing",
+        "url": "https://www.amazon.ca/ChickenGuard-Automatic-Chicken-Auto-Stop-Batteries/dp/B0BZ8PHPPR"
+      },
+      {
+        "name": "ChickenFans - ChickenGuard All-in-One Review",
+        "url": "https://www.chickenfans.com/chickenguard-all-in-one-chicken-coop-door-review/"
       }
-    ]
+    ],
+    "rating": 4,
+    "review_count": 248
   },
   {
     "id": "automatic-chicken-coop-door-run-chicken",
@@ -2711,9 +2709,9 @@
     "brand": "Run-Chicken",
     "category": "automatic-coop-door",
     "subcategory": "timer + light sensor",
-    "amazon_asin": null,
+    "amazon_asin": "B08WCKVGR1",
     "amazon_url_search": "https://www.amazon.com/s?k=Run-Chicken%20Automatic%20Chicken%20Coop%20Door",
-    "price_range_usd": "$100-$160",
+    "price_range_usd": "~$130 (per third-party review coverage; exact current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2721,20 +2719,27 @@
       "remote_control": true
     },
     "pros": [
-      "Included remote control makes manual override easy from a distance",
-      "Competitive pricing against premium automatic-door brands"
+      "Smart app plus timer and light-sensor control for automatic open/close at dawn/dusk",
+      "Weatherproof aluminum construction; rechargeable battery rated up to 1-2 years depending on climate",
+      "Installs in under 10 minutes with no wiring"
     ],
     "cons": [
-      "Plastic housing is less rugged than metal-bodied competitors",
-      "Firmware/sensor quirks are reported more often than top-tier brands"
+      "Some users report the door can pinch or fail to detect an obstruction properly",
+      "Battery function is cited as the most common complaint",
+      "Some buyers report parts malfunctioning over time with a difficult return process"
     ],
     "who_its_for": "Budget-conscious keepers still wanting light-sensor automation.",
     "sources": [
       {
-        "name": "Run-Chicken",
-        "url": "https://www.run-chicken.com/"
+        "name": "BackyardChickens - Run-Chicken T50 issues thread",
+        "url": "https://www.backyardchickens.com/threads/run-chicken-t50-issues.1622143/"
+      },
+      {
+        "name": "FreshExchange - Best Automatic Chicken Coop Door Review",
+        "url": "https://freshexchange.com/best-automatic-chicken-coop-door/"
       }
-    ]
+    ],
+    "rating": 3
   },
   {
     "id": "add-a-motor-automatic-chicken-door",
@@ -2742,9 +2747,9 @@
     "brand": "Add-A-Motor",
     "category": "automatic-coop-door",
     "subcategory": "add-on motor kit",
-    "amazon_asin": null,
+    "amazon_asin": "B007IZJWNQ",
     "amazon_url_search": "https://www.amazon.com/s?k=Add-A-Motor%20Add-A-Motor%20Automatic%20Chicken%20Door",
-    "price_range_usd": "$180-$250",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2752,18 +2757,19 @@
       "power": "battery"
     },
     "pros": [
-      "Designed to retrofit an existing manual pop door rather than replacing it",
-      "Strong reputation for reliability among longtime keepers"
+      "Converts almost any existing wood, metal or plastic coop door to automatic in about 15 minutes",
+      "Some long-term users report it running multiple coop doors for years",
+      "Compatible with any external timer for flexible scheduling"
     ],
     "cons": [
-      "Among the pricier automatic door options",
-      "Retrofitting still requires some hands-on adjustment to fit your exact door"
+      "Other users report the internal plastic gears strip out over time if the door binds in its track",
+      "Only rated for a light door despite a higher advertised max-lift spec"
     ],
     "who_its_for": "Keepers who like their current pop door and just want to automate it.",
     "sources": [
       {
-        "name": "Add-A-Motor",
-        "url": "https://www.add-a-motor.com/"
+        "name": "permies.com - Add-A-Motor Chicken Coop Door discussion",
+        "url": "https://permies.com/wiki/88826/Add-Motor-Chicken-Coop-Door"
       }
     ]
   },
@@ -2773,9 +2779,9 @@
     "brand": "Omlet",
     "category": "automatic-coop-door",
     "subcategory": "smart/app-connected",
-    "amazon_asin": null,
+    "amazon_asin": "B07KLXD5NG",
     "amazon_url_search": "https://www.amazon.com/s?k=Omlet%20Autodoor",
-    "price_range_usd": "$220-$280",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2783,20 +2789,27 @@
       "app_control": true
     },
     "pros": [
-      "App control adds remote scheduling and manual override from a phone",
-      "Clean, weatherproof housing built to match Omlet coops"
+      "Strong review score on the same product: 4.6 stars from 324 reviews",
+      "Built-in safety sensors work like elevator doors to avoid closing on a bird",
+      "Battery life around 6 months on 4xAA batteries; weatherproof and tested down to -4 degrees F",
+      "Optional WiFi smart panel upgrade adds phone notifications and remote control"
     ],
     "cons": [
-      "One of the more expensive automatic doors on the market",
-      "App dependency is a downside if you prefer a fully manual fallback"
+      "Premium price point relative to basic timer-only doors"
     ],
     "who_its_for": "Tech-comfortable keepers wanting phone-based control and monitoring.",
     "sources": [
       {
-        "name": "Omlet",
-        "url": "https://www.omlet.us/"
+        "name": "Amazon.ca - Omlet Automatic Chicken Coop Door Opener",
+        "url": "https://www.amazon.ca/Omlet-Automatic-Chicken-Opener-Operated/dp/B07KLXD5NG"
+      },
+      {
+        "name": "Omlet.us - reviews for Automatic Chicken Coop Door",
+        "url": "https://www.omlet.us/reviews/automatic-chicken-coop-door/"
       }
-    ]
+    ],
+    "rating": 4.6,
+    "review_count": 324
   },
   {
     "id": "plus-antimicrobial-poultry-care-spray",
@@ -2804,9 +2817,9 @@
     "brand": "Vetericyn",
     "category": "first-aid",
     "subcategory": "wound spray",
-    "amazon_asin": null,
+    "amazon_asin": "B00UTDXBX6",
     "amazon_url_search": "https://www.amazon.com/s?k=Vetericyn%20Plus%20Antimicrobial%20Poultry%20Care%20Spray",
-    "price_range_usd": "$12-$20",
+    "price_range_usd": "~$27 (comparable listing price seen; exact current Amazon price not confirmed)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2814,20 +2827,19 @@
       "prescription": "not required"
     },
     "pros": [
-      "Non-stinging formula is easier to apply to a stressed, injured bird",
-      "No prescription needed, widely available at farm stores"
+      "Non-drying, non-stinging formula that's antibiotic-free with no egg withdrawal period",
+      "Safe around the face and eyes and offered in both spray and stream application options"
     ],
-    "cons": [
-      "Only for minor wounds; deeper injuries still need a vet",
-      "Bottle size is small relative to price for larger flocks"
-    ],
+    "cons": [],
     "who_its_for": "Every flock owner as a baseline first-aid item for pecking wounds and minor cuts.",
     "sources": [
       {
-        "name": "Vetericyn",
-        "url": "https://vetericyn.com/"
+        "name": "PBS Animal Health - Vetericyn Plus Poultry Care Spray",
+        "url": "https://www.pbsanimalhealth.com/vetericyn-plus-antimicrobial-poultry-care-spray/p/15665/"
       }
-    ]
+    ],
+    "rating": 5,
+    "review_count": 23
   },
   {
     "id": "sav-a-chick-electrolyte-vitamin-supplement",
@@ -2835,27 +2847,24 @@
     "brand": "Sav-A-Chick",
     "category": "first-aid",
     "subcategory": "electrolytes",
-    "amazon_asin": null,
+    "amazon_asin": "B00GRTA6AC",
     "amazon_url_search": "https://www.amazon.com/s?k=Sav-A-Chick%20Sav-A-Chick%20Electrolyte%20%26%20Vitamin%20Supplement",
-    "price_range_usd": "$6-$12",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "form": "powder, water-soluble"
     },
     "pros": [
-      "Helps chicks and adult birds recover from shipping or heat stress",
-      "Inexpensive and simple to dose into drinking water"
+      "Pre-measured packets mix into one gallon of water, simple to dose for small backyard flocks",
+      "Contains vitamins D3, E and B-vitamins to support energy and appetite during heat or stress"
     ],
-    "cons": [
-      "Not a treatment for underlying illness, just supportive care",
-      "Needs fresh mixing; leftover solution shouldn't sit too long"
-    ],
+    "cons": [],
     "who_its_for": "Anyone receiving shipped chicks or dealing with a heat wave.",
     "sources": [
       {
-        "name": "Sav-A-Chick / Manna Pro",
-        "url": "https://www.mannapro.com/"
+        "name": "Amazon - Sav-A-Chick Electrolyte & Vitamin Supplement",
+        "url": "https://www.amazon.com/Sav-A-Chick-Electrolyte-Vitamin-Supplement/dp/B00GRTA6AC"
       }
     ]
   },
@@ -2865,53 +2874,48 @@
     "brand": "Rooster Booster",
     "category": "first-aid",
     "subcategory": "electrolytes",
-    "amazon_asin": null,
+    "amazon_asin": "B007NS0DWW",
     "amazon_url_search": "https://www.amazon.com/s?k=Rooster%20Booster%20Poultry%20Cell%20Vitamins%20%26%20Electrolytes",
-    "price_range_usd": "$8-$15",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "form": "liquid concentrate"
     },
     "pros": [
-      "Liquid concentrate format is easy to measure into a waterer",
-      "Long-standing, trusted brand among poultry keepers"
+      "Strong rating: 4.7 stars from roughly 2,084 reviews",
+      "Users report more energetic birds and improved egg production"
     ],
     "cons": [
-      "Liquid formula has a shorter shelf life once opened than powder",
-      "Same supportive-care caveat: doesn't replace veterinary treatment for illness"
+      "Can cause diarrhea in chicks if dosed too strongly or given multiple days in a row"
     ],
     "who_its_for": "Keepers who prefer a liquid vitamin supplement over powder packets.",
     "sources": [
       {
-        "name": "Rooster Booster / Durvet",
-        "url": "https://durvet.com/"
+        "name": "Amazon - Rooster Booster Poultry Cell 16oz customer reviews",
+        "url": "https://www.amazon.com/gp/aw/cr/B007NS0DWW/ref=mw_dp_cr"
       }
-    ]
+    ],
+    "rating": 4.7,
+    "review_count": 2084
   },
   {
     "id": "hanging-sling-scale",
-    "name": "Hanging Sling Scale",
-    "brand": "Rite Farm Products",
+    "name": "Chicken Holder Sling with Weight Scale",
+    "brand": "YUYUSO",
     "category": "poultry-scale",
     "subcategory": "hanging sling scale",
     "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20Hanging%20Sling%20Scale",
-    "price_range_usd": "$20-$35",
+    "amazon_url_search": "https://www.amazon.com/s?k=YUYUSO%20Chicken%20Holder%20Sling%20with%20Weight%20Scale",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "capacity_lb": 44,
       "harness": "sling included"
     },
-    "pros": [
-      "Purpose-built sling makes weighing a live bird far easier than a flat scale",
-      "Reasonable capacity covers most standard breeds"
-    ],
-    "cons": [
-      "Bulkier to store than a small digital kitchen scale",
-      "Mechanical dial is less precise than a digital readout"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers who want a dedicated tool for regular flock weight tracking.",
     "sources": [
       {
@@ -2926,9 +2930,9 @@
     "brand": "Etekcity",
     "category": "poultry-scale",
     "subcategory": "digital hanging scale",
-    "amazon_asin": null,
+    "amazon_asin": "B00NW62PCA",
     "amazon_url_search": "https://www.amazon.com/s?k=Etekcity%20Digital%20Hanging%20Luggage%20Scale",
-    "price_range_usd": "$10-$18",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -2936,44 +2940,44 @@
       "hold_function": true
     },
     "pros": [
-      "Hold function locks in the weight even while a bird wriggles",
-      "Much cheaper than a dedicated poultry-branded scale"
+      "Very high satisfaction: reported around 4.7 stars across tens of thousands of reviews",
+      "Amazon's #2 bestseller in Luggage Scales category",
+      "110 lb capacity with hook, useful for weighing full-grown birds in a sling or bag"
     ],
     "cons": [
-      "No harness included, so you'll need a bag or sling of your own",
-      "Not marketed for livestock, though widely used that way by keepers"
+      "No backlight on the display, making it harder to read in low light"
     ],
     "who_its_for": "Budget keepers happy to repurpose a general digital hanging scale with their own sling or bag.",
     "sources": [
       {
-        "name": "Etekcity",
-        "url": "https://www.etekcity.com/"
+        "name": "TODAY - Etekcity Digital Luggage Scale review",
+        "url": "https://www.today.com/shop/etekcity-digital-luggage-scale-review-t253406"
+      },
+      {
+        "name": "Reviewed.com - Best Luggage Scales",
+        "url": "https://www.reviewed.com/home-outdoors/best-right-now/the-best-luggage-scales"
       }
-    ]
+    ],
+    "rating": 4.7,
+    "review_count": 68000
   },
   {
     "id": "egg-bathe-egg-washer",
-    "name": "Egg Bathe Egg Washer",
-    "brand": "Egg Bathe",
+    "name": "Electric Egg Washing Machine",
+    "brand": "ZIJINGM",
     "category": "egg-washer",
     "subcategory": "brush drum washer",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Egg%20Bathe%20Egg%20Bathe%20Egg%20Washer",
-    "price_range_usd": "$180-$260",
+    "amazon_asin": "B0D3WSSWMT",
+    "amazon_url_search": "https://www.amazon.com/s?k=ZIJINGM%20Electric%20Egg%20Washing%20Machine",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "capacity": "small batch, brush drum",
       "power": "electric"
     },
-    "pros": [
-      "Speeds up cleaning for flocks producing multiple dozen eggs a day",
-      "Brush drum design is gentler than hand-scrubbing individual eggs"
-    ],
-    "cons": [
-      "Overkill for a small backyard flock washing a few eggs a week",
-      "Needs regular sanitizing since it's in contact with many eggs"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Small farms or market sellers washing a meaningful daily egg volume.",
     "sources": [
       {
@@ -2983,45 +2987,14 @@
     ]
   },
   {
-    "id": "egg-washer-machine",
-    "name": "Egg Washer Machine",
-    "brand": "Rite Farm Products",
-    "category": "egg-washer",
-    "subcategory": "brush drum washer",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20Egg%20Washer%20Machine",
-    "price_range_usd": "$200-$320",
-    "price_checked": "2026-09-26",
-    "flock_size": null,
-    "key_specs": {
-      "capacity": "small batch, brush drum",
-      "power": "electric"
-    },
-    "pros": [
-      "Comparable capacity to other small-batch washers at a similar price",
-      "Sold by a brand already familiar to many poultry keepers"
-    ],
-    "cons": [
-      "Same overkill caveat for very small flocks",
-      "Larger footprint needs dedicated wash-station space"
-    ],
-    "who_its_for": "Sellers who've outgrown hand-washing eggs one at a time.",
-    "sources": [
-      {
-        "name": "Rite Farm Products",
-        "url": "https://ritefarmproducts.com/"
-      }
-    ]
-  },
-  {
     "id": "precision-chicken-coop",
-    "name": "Precision Chicken Coop",
+    "name": "Large Wooden Chicken Coop for 8-12 Hens",
     "brand": "PawHut",
     "category": "coops",
     "subcategory": "medium",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=PawHut%20Precision%20Chicken%20Coop",
-    "price_range_usd": "$260-$360",
+    "amazon_asin": "B0CSYW946B",
+    "amazon_url_search": "https://www.amazon.com/s?k=PawHut%20Large%20Wooden%20Chicken%20Coop%20for%208-12%20Hens",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 4,
@@ -3033,18 +3006,17 @@
       "run_included": true
     },
     "pros": [
-      "Compact footprint fits smaller suburban yards",
-      "Removable tray simplifies cleaning"
+      "Walk-in size with waterproof cover, nesting boxes and a perch, suited for 8-12 hens"
     ],
     "cons": [
-      "Thinner wood than premium mid-size coops",
-      "Run height is low, requires stooping to enter"
+      "General PawHut coop feedback mentions roosting bars that break, roof leaks, improper latching and poor ventilation on some units",
+      "Community sentiment positions PawHut as a budget option, below a from-scratch quality build"
     ],
     "who_its_for": "Suburban keepers with limited yard space wanting a mid-size flock coop.",
     "sources": [
       {
-        "name": "PawHut",
-        "url": "https://www.aosom.com/pawhut"
+        "name": "BackyardChickens - PawHut coop feedback thread",
+        "url": "https://www.backyardchickens.com/threads/any-reviews-here-for-this-pawhut-coop.732463/"
       }
     ]
   },
@@ -3054,9 +3026,9 @@
     "brand": "Tangkula",
     "category": "coops",
     "subcategory": "small",
-    "amazon_asin": null,
+    "amazon_asin": "B073RCZ478",
     "amazon_url_search": "https://www.amazon.com/s?k=Tangkula%20Wooden%20Chicken%20Coop%20with%20Run",
-    "price_range_usd": "$160-$230",
+    "price_range_usd": "$180-$260",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 2,
@@ -3068,30 +3040,32 @@
       "run_included": true
     },
     "pros": [
-      "Low entry price for coop-and-run combo",
-      "Lightweight enough to reposition occasionally"
+      "Weatherproof fir wood construction holds up over multiple seasons",
+      "Includes resting area, run, and ramp in one unit with a removable cleaning tray",
+      "Raised housing keeps hens dry in wet weather"
     ],
     "cons": [
-      "Build quality is basic at this price point",
-      "Limited weatherproofing out of the box"
+      "Run and housing are undersized for a full flock of 6 chickens; comfortable for only 1-2 birds",
+      "Needs periodic wood treatment and maintenance",
+      "Build quality reported as inconsistent between units"
     ],
     "who_its_for": "First-time keepers testing the hobby with a small starter flock.",
     "sources": [
       {
-        "name": "Tangkula",
-        "url": "https://www.tangkula.com/"
+        "name": "Amazon - Tangkula Deluxe Wooden Chicken Coop",
+        "url": "https://www.amazon.com/Tangkula-Deluxe-Wooden-Chicken-Outdoor/dp/B073RCZ478"
       }
     ]
   },
   {
     "id": "xxl-walk-in-chicken-coop",
-    "name": "XXL Walk-In Chicken Coop",
-    "brand": "TSISQ",
+    "name": "XXL 10' x 20' Metal Chicken Coop with Walk-in Run",
+    "brand": "Unbranded",
     "category": "coops",
     "subcategory": "walk-in",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=TSISQ%20XXL%20Walk-In%20Chicken%20Coop",
-    "price_range_usd": "$600-$900",
+    "amazon_asin": "B0FFGYTC3Q",
+    "amazon_url_search": "https://www.amazon.com/s?k=Unbranded%20XXL%2010'%20x%2020'%20Metal%20Chicken%20Coop%20with%20Walk-in%20Run",
+    "price_range_usd": "$220-$400",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 8,
@@ -3101,14 +3075,8 @@
       "material": "galvanized steel frame, wire",
       "human_door_height": "6 ft"
     },
-    "pros": [
-      "Large walk-in footprint at a lower price than premium wood walk-ins",
-      "Steel frame resists rot compared with all-wood builds"
-    ],
-    "cons": [
-      "Wire-and-tarp construction offers less insulation than a solid-wall coop",
-      "Tarp roof needs periodic replacement from UV exposure"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Budget keepers wanting walk-in convenience without premium wood pricing.",
     "sources": [
       {
@@ -3119,13 +3087,13 @@
   },
   {
     "id": "salt-box-style-chicken-tractor",
-    "name": "Salt Box Style Chicken Tractor",
-    "brand": "Kricket's Coops",
+    "name": "Large Wooden Chicken Coop with Run and Wheels",
+    "brand": "Ketive",
     "category": "coops",
     "subcategory": "chicken tractor",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Kricket's%20Coops%20Salt%20Box%20Style%20Chicken%20Tractor",
-    "price_range_usd": "$900-$1,500",
+    "amazon_asin": "B0BVVQQ8XC",
+    "amazon_url_search": "https://www.amazon.com/s?k=Ketive%20Large%20Wooden%20Chicken%20Coop%20with%20Run%20and%20Wheels",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 6,
@@ -3135,14 +3103,8 @@
       "material": "wood frame",
       "wheels": true
     },
-    "pros": [
-      "Salt-box roofline sheds rain and snow well for a mobile structure",
-      "Roomier interior than typical A-frame tractors"
-    ],
-    "cons": [
-      "Heavier to tow than lighter A-frame designs",
-      "Custom/small-shop builds mean longer lead times"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Rotational graziers wanting more headroom than an A-frame tractor offers.",
     "sources": [
       {
@@ -3159,21 +3121,15 @@
     "subcategory": "portable run",
     "amazon_asin": null,
     "amazon_url_search": "https://www.amazon.com/s?k=Yaheetech%20Pop%20Door%20Coop%20Run%20Combo",
-    "price_range_usd": "$90-$160",
+    "price_range_usd": "$150-$220",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "material": "wire mesh, wood frame",
       "foldable": true
     },
-    "pros": [
-      "Attaches easily to most small and medium coops",
-      "Reasonably priced for the covered floor space"
-    ],
-    "cons": [
-      "Wire gauge is on the light side for serious predator pressure",
-      "Ground stakes are minimal; needs additional anchoring in wind"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers wanting an affordable add-on run for an existing coop.",
     "sources": [
       {
@@ -3184,13 +3140,13 @@
   },
   {
     "id": "heavy-duty-chicken-run",
-    "name": "Heavy Duty Chicken Run",
+    "name": "Garden Walk-In Chicken Coop",
     "brand": "Precision Pet Products",
     "category": "runs",
     "subcategory": "walk-in run",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Precision%20Pet%20Products%20Heavy%20Duty%20Chicken%20Run",
-    "price_range_usd": "$200-$350",
+    "amazon_asin": "B06W9FS8ST",
+    "amazon_url_search": "https://www.amazon.com/s?k=Precision%20Pet%20Products%20Garden%20Walk-In%20Chicken%20Coop",
+    "price_range_usd": "$300-$450",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3198,18 +3154,16 @@
       "coverage": "partial roof panel"
     },
     "pros": [
-      "Sturdier steel gauge than most budget wire-panel runs",
-      "Modular panels allow some size customization"
+      "6-foot walk-in height with access doors on every side",
+      "2 pull-out cleaning trays and 4 internal nesting boxes plus 3 roosting bars",
+      "Adjustable rear ventilation"
     ],
-    "cons": [
-      "Assembly involves many panels and connectors",
-      "No full roof coverage on base model, aerial predators still a risk"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting a step up in build quality from basic wire-panel runs.",
     "sources": [
       {
-        "name": "Precision Pet Products",
-        "url": "https://www.precisionpet.com/"
+        "name": "Amazon - Precision Pet Garden Walk-In Chicken Coop",
+        "url": "https://www.amazon.com/Precision-Pet-Garden-Walk-Chicken/dp/B06W9FS8ST"
       }
     ]
   },
@@ -3219,9 +3173,9 @@
     "brand": "Miller Manufacturing",
     "category": "feeders",
     "subcategory": "gravity",
-    "amazon_asin": null,
+    "amazon_asin": "B01707SQ1A",
     "amazon_url_search": "https://www.amazon.com/s?k=Miller%20Manufacturing%20Galvanized%20Steel%20Poultry%20Feeder",
-    "price_range_usd": "$18-$40",
+    "price_range_usd": "$25-$45",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3229,18 +3183,15 @@
       "material": "galvanized steel"
     },
     "pros": [
-      "Rust-resistant coating extends outdoor lifespan",
-      "Available across a wide range of capacities"
+      "Heavy-gauge galvanized steel resists rust and corrosion",
+      "Anti-roosting spinning reel top keeps chickens from perching or fouling feed"
     ],
-    "cons": [
-      "No rodent-proofing compared with treadle feeders",
-      "Heavier than plastic, awkward for smaller keepers to lift full"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting a long-lasting metal gravity feeder at a moderate price.",
     "sources": [
       {
-        "name": "Miller Manufacturing",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Miller Manufacturing Galvanized Feeder",
+        "url": "https://www.amazon.com/Manufacturing-Roosting-Spinning-Chickens-Galvanized/dp/B01707SQ1A"
       }
     ]
   },
@@ -3250,9 +3201,9 @@
     "brand": "OverEZ",
     "category": "feeders",
     "subcategory": "treadle",
-    "amazon_asin": null,
+    "amazon_asin": "B083L6SW22",
     "amazon_url_search": "https://www.amazon.com/s?k=OverEZ%20Automatic%20Chicken%20Feeder",
-    "price_range_usd": "$150-$220",
+    "price_range_usd": "$70-$100",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3260,20 +3211,28 @@
       "weatherproof": true
     },
     "pros": [
-      "Matches OverEZ coop aesthetics but works with any coop",
-      "Solid housing keeps feed dry through most weather"
+      "Large 50 lb capacity means refills every 1-6 weeks depending on flock size",
+      "Three feeding ports let multiple birds feed at once",
+      "Recessed channel and port overhang blocks rain from ruining feed",
+      "Reported 4.6-star rating with over 2,000 Amazon reviews"
     ],
     "cons": [
-      "Premium pricing similar to other name-brand treadle feeders",
-      "Pedal tension needs occasional readjustment for very light bantams"
+      "Very heavy once filled, and has no carry handles",
+      "Bulky size may not suit small coops"
     ],
     "who_its_for": "OverEZ coop owners or anyone wanting a matched-brand treadle feeder.",
     "sources": [
       {
-        "name": "OverEZ",
-        "url": "https://overez.com/"
+        "name": "Amazon - OverEZ Chicken Feeder",
+        "url": "https://www.amazon.com/OverEZ-Chicken-Feeder-Outside-Automatic/dp/B083L6SW22"
+      },
+      {
+        "name": "Chicken Fans - OverEZ Chicken Feeder review",
+        "url": "https://www.chickenfans.com/overez-chicken-feeder-review/"
       }
-    ]
+    ],
+    "rating": 4.6,
+    "review_count": 2000
   },
   {
     "id": "poultry-fount-waterer",
@@ -3281,9 +3240,9 @@
     "brand": "Miller Manufacturing",
     "category": "waterers",
     "subcategory": "cup",
-    "amazon_asin": null,
+    "amazon_asin": "B01N6ZTGSU",
     "amazon_url_search": "https://www.amazon.com/s?k=Miller%20Manufacturing%20Poultry%20Fount%20Waterer",
-    "price_range_usd": "$10-$22",
+    "price_range_usd": "$25-$40",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3291,18 +3250,14 @@
       "material": "galvanized steel"
     },
     "pros": [
-      "Metal build outlasts plastic founts in direct sun",
-      "Wide capacity range fits small to larger flocks"
+      "Large 7-gallon capacity suited to bigger flocks, reduces refill frequency"
     ],
-    "cons": [
-      "Still an open gravity design prone to bedding contamination",
-      "Heavier to carry and refill than plastic"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting a durable metal alternative to plastic gravity founts.",
     "sources": [
       {
-        "name": "Miller Manufacturing",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon - Miller 7-Gallon Poultry Waterer",
+        "url": "https://www.amazon.com/MIller-Little-Gallon-Poultry-Waterer/dp/B01N6ZTGSU"
       }
     ]
   },
@@ -3312,9 +3267,9 @@
     "brand": "RentACoop",
     "category": "waterers",
     "subcategory": "nipple",
-    "amazon_asin": null,
+    "amazon_asin": "B07RB7GLJH",
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Automatic%20Nipple%20Waterer%20System",
-    "price_range_usd": "$30-$60",
+    "price_range_usd": "$25-$35",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3322,18 +3277,15 @@
       "mounts_to": "bucket, gravity-fed"
     },
     "pros": [
-      "Full kit scales up more easily than buying individual nipples",
-      "Gravity-fed design needs no electricity"
+      "Includes auto-fill cups, horizontal nipples, an anti-roost cone, and a mounting kit in one kit",
+      "Works across species (chickens, quail, ducks, geese, turkey)"
     ],
-    "cons": [
-      "Larger kit costs more upfront than a basic nipple pack",
-      "Still needs training time for chicks new to nipple drinking"
-    ],
+    "cons": [],
     "who_its_for": "Keepers scaling up a nipple-waterer setup for a bigger flock.",
     "sources": [
       {
-        "name": "RentACoop",
-        "url": "https://www.rentacoop.com/"
+        "name": "Amazon - RentACoop 2 Gallon High Rise Chicken Waterer",
+        "url": "https://www.amazon.com/RentACoop-Gallon-Chicken-Waterer-Nipples/dp/B07RB7GLJH"
       }
     ]
   },
@@ -3343,9 +3295,9 @@
     "brand": "Miller Manufacturing",
     "category": "heated-base-deicer",
     "subcategory": "heated base",
-    "amazon_asin": null,
+    "amazon_asin": "B0068MSO70",
     "amazon_url_search": "https://www.amazon.com/s?k=Miller%20Manufacturing%20Heated%20Base%20for%203%20Gallon%20Waterer",
-    "price_range_usd": "$28-$45",
+    "price_range_usd": "$55-$75",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3353,29 +3305,34 @@
       "thermostat": true
     },
     "pros": [
-      "Sized specifically for standard 3-gallon plastic founts",
-      "Thermostatic control limits unnecessary power draw"
+      "Keeps water ice-free down to about -5 degrees F with thermostat-controlled on/off cycling",
+      "Rounded top discourages roosting and keeps water cleaner",
+      "Feels durable and commercial-grade compared to consumer-only heated waterers"
     ],
     "cons": [
-      "Only fits founts matching its base diameter",
-      "Higher wattage than some competitors, worth checking circuit load"
+      "Can spill or leak if not placed on a perfectly level surface",
+      "A few users reported it failing to prevent freezing in only-20s degree F weather"
     ],
     "who_its_for": "Keepers with a standard 3-gallon fount wanting to winterize it cheaply.",
     "sources": [
       {
-        "name": "Miller Manufacturing",
-        "url": "https://www.millermfgco.com/"
+        "name": "Amazon customer reviews",
+        "url": "https://www.amazon.com/Allied-Precision-33-3-3-Gallon-Chicken/product-reviews/B0068MSO70"
+      },
+      {
+        "name": "Amazon - Allied Precision 3-Gallon Heated Poultry Waterer",
+        "url": "https://www.amazon.com/Allied-Precision-33-3-3-Gallon-Chicken/dp/B0068MSO70"
       }
     ]
   },
   {
     "id": "safety-chick-brooder",
-    "name": "Safety Chick Brooder",
+    "name": "Chick Brooder Heating Plate with Adjustable Legs",
     "brand": "Premier1 Supplies",
     "category": "brooder-heat-plate",
     "subcategory": "radiant plate",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20Safety%20Chick%20Brooder",
+    "amazon_asin": "B00W43PHTA",
+    "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20Chick%20Brooder%20Heating%20Plate%20with%20Adjustable%20Legs",
     "price_range_usd": "$70-$100",
     "price_checked": "2026-09-26",
     "flock_size": {
@@ -3386,18 +3343,21 @@
       "adjustable_height": true
     },
     "pros": [
-      "No exposed heating element, reducing brooder fire risk",
-      "Sold by a trusted poultry-equipment retailer"
+      "Radiant plate design avoids the fire and bulb-burnout risk of heat lamps",
+      "Adjustable legs raise the plate as chicks grow, extending usable life",
+      "About 1.5x more heating area than comparable plates, usable for up to 25-30 chicks per some reviewers",
+      "Praised as one of the highest-rated brooder heat sources, cheaper than the leading brand alternative"
     ],
-    "cons": [
-      "More expensive than a basic heat lamp bulb",
-      "Needs a flat, dry surface to sit properly"
-    ],
+    "cons": [],
     "who_its_for": "Keepers who want a safer heat source without ordering directly from the manufacturer.",
     "sources": [
       {
-        "name": "Premier1 Supplies",
-        "url": "https://www.premier1supplies.com/"
+        "name": "BackYard Chickens review thread",
+        "url": "https://www.backyardchickens.com/reviews/premier-brooder-heating-plate.11631/reviews"
+      },
+      {
+        "name": "RaisingChickensInfo review",
+        "url": "https://www.raisingchickensinfo.com/premier-chick-brooder-heating-plate-review/"
       }
     ]
   },
@@ -3407,23 +3367,17 @@
     "brand": "Woods",
     "category": "heat-lamp",
     "subcategory": "clamp lamp",
-    "amazon_asin": null,
+    "amazon_asin": "B003XV8QOU",
     "amazon_url_search": "https://www.amazon.com/s?k=Woods%20Clamp%20Lamp%20Fixture",
-    "price_range_usd": "$18-$28",
+    "price_range_usd": "$15-$30",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "max_wattage": 250,
       "dome_material": "steel"
     },
-    "pros": [
-      "Heavier-gauge housing than many budget clamp lamps",
-      "Rated for higher wattage bulbs when more heat is needed"
-    ],
-    "cons": [
-      "Same fire-risk cautions apply: secure with a chain, never the clamp alone",
-      "Bulkier and heavier than lightweight aluminum-dome lamps"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers needing a higher-wattage-rated fixture for larger brooders or coop corners.",
     "sources": [
       {
@@ -3434,13 +3388,13 @@
   },
   {
     "id": "chick-starter-kit-with-brooder-box",
-    "name": "Chick Starter Kit with Brooder Box",
+    "name": "Beginner Poultry Kit",
     "brand": "Little Giant",
     "category": "brooders-starter-kits",
     "subcategory": "starter kit",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Chick%20Starter%20Kit%20with%20Brooder%20Box",
-    "price_range_usd": "$50-$90",
+    "amazon_asin": "B0DYFDV3ND",
+    "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Beginner%20Poultry%20Kit",
+    "price_range_usd": "$40-$70",
     "price_checked": "2026-09-26",
     "flock_size": {
       "min": 1,
@@ -3449,14 +3403,8 @@
     "key_specs": {
       "includes": "brooder box, feeder, waterer, thermometer"
     },
-    "pros": [
-      "Includes a thermometer, a detail some bundled kits skip",
-      "Recognizable, widely stocked brand"
-    ],
-    "cons": [
-      "Heat source often sold separately from this kit",
-      "Box size is best for smaller chick counts"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "First-time keepers wanting a slightly more complete starter bundle.",
     "sources": [
       {
@@ -3467,27 +3415,21 @@
   },
   {
     "id": "digital-egg-candler-flashlight",
-    "name": "Digital Egg Candler Flashlight",
-    "brand": "Kebonnixs",
+    "name": "Egg Candler Flashlight Torch",
+    "brand": "CAXUSD",
     "category": "candlers",
     "subcategory": "LED candler",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Kebonnixs%20Digital%20Egg%20Candler%20Flashlight",
-    "price_range_usd": "$10-$18",
+    "amazon_asin": "B0DQLQ4JGN",
+    "amazon_url_search": "https://www.amazon.com/s?k=CAXUSD%20Egg%20Candler%20Flashlight%20Torch",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "light_type": "LED",
       "power": "battery"
     },
-    "pros": [
-      "Pocket-sized and easy to store near the incubator",
-      "One of the cheapest ways to start candling eggs"
-    ],
-    "cons": [
-      "Weaker beam struggles on very dark shells",
-      "Plastic housing feels less durable than premium candlers"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Casual hatchers wanting the lowest-cost candling tool.",
     "sources": [
       {
@@ -3498,27 +3440,21 @@
   },
   {
     "id": "paper-pulp-nest-box-liners",
-    "name": "Paper Pulp Nest Box Liners",
+    "name": "Washable Nesting Pads (24-Pack)",
     "brand": "Rite Farm Products",
     "category": "nesting-boxes",
     "subcategory": "accessory",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20Paper%20Pulp%20Nest%20Box%20Liners",
-    "price_range_usd": "$12-$20 per pack",
+    "amazon_asin": "B0BJW6YYT3",
+    "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20Washable%20Nesting%20Pads%20(24-Pack)",
+    "price_range_usd": "$20-$30",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "material": "molded pulp",
       "disposable": true
     },
-    "pros": [
-      "Disposable liners cut down on nest box cleaning time",
-      "Compostable material fits an eco-conscious setup"
-    ],
-    "cons": [
-      "Ongoing cost compared with reusable bedding alone",
-      "Not a substitute for the nest box itself"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers wanting a faster nest-box cleaning routine.",
     "sources": [
       {
@@ -3533,9 +3469,9 @@
     "brand": "Little Giant",
     "category": "nesting-boxes",
     "subcategory": "single box",
-    "amazon_asin": null,
+    "amazon_asin": "B005CEQYJK",
     "amazon_url_search": "https://www.amazon.com/s?k=Little%20Giant%20Wall-Mount%20Nest%20Box",
-    "price_range_usd": "$18-$28",
+    "price_range_usd": "$15-$25",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3544,49 +3480,16 @@
       "mount": "wall bracket"
     },
     "pros": [
-      "Wall-mount bracket frees up floor space inside the coop",
-      "Same easy-clean plastic as other Little Giant nest boxes"
+      "High-density polyethylene construction won't rust, rot, or corrode",
+      "Slide-type screw holes allow secure wall mounting",
+      "Easy to clean plastic surface stays warmer than metal in cold weather"
     ],
-    "cons": [
-      "Needs a sturdy wall or stud to mount securely",
-      "Single-hole unit, multiples needed for bigger flocks"
-    ],
+    "cons": [],
     "who_its_for": "Keepers with limited coop floor space wanting a wall-mounted option.",
     "sources": [
       {
-        "name": "Miller Manufacturing / Little Giant",
-        "url": "https://www.millermfgco.com/"
-      }
-    ]
-  },
-  {
-    "id": "coarse-poultry-grit",
-    "name": "Coarse Poultry Grit",
-    "brand": "Producer's Pride",
-    "category": "grit",
-    "subcategory": "adult grit",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Producer's%20Pride%20Coarse%20Poultry%20Grit",
-    "price_range_usd": "$7-$13",
-    "price_checked": "2026-09-26",
-    "flock_size": null,
-    "key_specs": {
-      "bag_size_lb": 5,
-      "particle": "coarse granite"
-    },
-    "pros": [
-      "Budget option widely available at Tractor Supply",
-      "Coarse size suits standard and larger breeds well"
-    ],
-    "cons": [
-      "No fine-grit version in this line for bantams or chicks",
-      "Still needs a separate dish, not mixed into feed"
-    ],
-    "who_its_for": "Tractor Supply shoppers with standard-size free-ranging flocks.",
-    "sources": [
-      {
-        "name": "Tractor Supply Co.",
-        "url": "https://www.tractorsupply.com/"
+        "name": "Amazon - Miller Manufacturing Nesting Box",
+        "url": "https://www.amazon.com/Miller-Manufacturing-163620-Chicken-Nesting/dp/B005CEQYJK"
       }
     ]
   },
@@ -3596,9 +3499,9 @@
     "brand": "Small Pet Select",
     "category": "oyster-shell",
     "subcategory": "layer supplement",
-    "amazon_asin": null,
+    "amazon_asin": "B0BN39CRR1",
     "amazon_url_search": "https://www.amazon.com/s?k=Small%20Pet%20Select%20Oyster%20Shell%20Fine%20Ground",
-    "price_range_usd": "$12-$20",
+    "price_range_usd": "$13-$15 (5 lb bag)",
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3606,30 +3509,28 @@
       "particle": "finer grind"
     },
     "pros": [
-      "Finer grind suits bantams and smaller-beaked breeds better",
-      "Same calcium benefit as coarse oyster shell for active layers"
+      "Sold as 100% flaked oyster shell with no filler shells mixed in",
+      "Reviewers note it supports strong eggshells in laying hens",
+      "Subscribe and Save option makes repeat ordering cheaper"
     ],
-    "cons": [
-      "Costs slightly more than standard coarse oyster shell",
-      "Same caution: not for non-laying birds"
-    ],
+    "cons": [],
     "who_its_for": "Keepers with bantam or mixed-size flocks needing a finer calcium source.",
     "sources": [
       {
-        "name": "Small Pet Select",
-        "url": "https://www.smallpetselect.com/"
+        "name": "Amazon - Small Pet Select Flaked Oyster Shell",
+        "url": "https://www.amazon.com/Small-Pet-Select-Supplement-Chickens/dp/B0BN39CRR1"
       }
     ]
   },
   {
     "id": "meatbird-broiler-feed",
-    "name": "Meatbird Broiler Feed",
+    "name": "Meat Bird Crumbles",
     "brand": "Purina",
     "category": "feed",
     "subcategory": "starter",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Purina%20Meatbird%20Broiler%20Feed",
-    "price_range_usd": "$20-$30 per 25 lb",
+    "amazon_asin": "B0CX5B58SD",
+    "amazon_url_search": "https://www.amazon.com/s?k=Purina%20Meat%20Bird%20Crumbles",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3637,18 +3538,20 @@
       "use": "meat bird grower"
     },
     "pros": [
-      "Higher protein formula suited to fast-growing meat breeds",
-      "Widely available alongside standard starter feed"
+      "22% protein formula targeted at helping broilers reach market weight efficiently",
+      "Contains added probiotics and prebiotics for immune and digestive support",
+      "Fortified with all nutrients needed with no extra supplementing required, per manufacturer copy"
     ],
-    "cons": [
-      "Not ideal as a long-term feed for laying breeds",
-      "Pricier than standard starter due to higher protein content"
-    ],
+    "cons": [],
     "who_its_for": "Keepers raising broilers or other meat-purpose chicks.",
     "sources": [
       {
-        "name": "Purina Mills",
-        "url": "https://www.purinamills.com/"
+        "name": "Amazon - Purina Meat Bird Crumbles",
+        "url": "https://www.amazon.com/Purina-Purina%C2%AE-Meat-Bird-Crumbles/dp/B0CX5B58SD"
+      },
+      {
+        "name": "Purina Mills - Meat Bird Feed product page",
+        "url": "https://www.purinamills.com/chicken-feed/products/detail/purina-meat-bird-crumbles"
       }
     ]
   },
@@ -3658,9 +3561,9 @@
     "brand": "Purina",
     "category": "feed",
     "subcategory": "layer",
-    "amazon_asin": null,
+    "amazon_asin": "B00JN9GRZQ",
     "amazon_url_search": "https://www.amazon.com/s?k=Purina%20Flock%20Raiser%20Feed",
-    "price_range_usd": "$18-$27 per 25 lb",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3668,43 +3571,39 @@
       "use": "mixed-age flock feed"
     },
     "pros": [
-      "Good option for mixed flocks with chicks, layers, and roosters together",
-      "Higher protein supports birds not solely fed a layer ration"
+      "Feeds a whole mixed flock (chickens, ducks, geese) from growing age through lay",
+      "Can be used from hatch until laying age, reducing the need to switch feeds",
+      "Widely stocked, well-known Purina formula for backyard mixed flocks"
     ],
-    "cons": [
-      "Needs separate oyster shell offered on the side since it isn't a dedicated layer formula",
-      "Slightly pricier than a straightforward layer feed"
-    ],
+    "cons": [],
     "who_its_for": "Keepers with mixed-age or mixed-purpose flocks who can't easily separate feed by age.",
     "sources": [
       {
-        "name": "Purina Mills",
-        "url": "https://www.purinamills.com/"
+        "name": "Amazon - Purina Flock Raiser Crumbles 50 lb",
+        "url": "https://www.amazon.com/Purina-Animal-Nutrition-Raiser-Sunfresh/dp/B00JN9GRZQ"
+      },
+      {
+        "name": "Purina Mills - Flock Raiser Crumbles",
+        "url": "https://www.purinamills.com/chicken-feed/products/detail/purina-flock-raiser-crumbles"
       }
     ]
   },
   {
     "id": "freeze-dried-mealworm-and-grub-blend",
-    "name": "Freeze-Dried Mealworm and Grub Blend",
-    "brand": "Small Pet Select",
+    "name": "Freeze Dried Mealworms",
+    "brand": "Fluker's",
     "category": "treats",
     "subcategory": "mealworms",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Small%20Pet%20Select%20Freeze-Dried%20Mealworm%20and%20Grub%20Blend",
-    "price_range_usd": "$18-$32 per lb",
+    "amazon_asin": "B01N0KRITH",
+    "amazon_url_search": "https://www.amazon.com/s?k=Fluker's%20Freeze%20Dried%20Mealworms",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "blend": "mealworms + black soldier fly larvae"
     },
-    "pros": [
-      "Combines two popular protein treats in one bag",
-      "Convenient if you don't want to buy two separate treat products"
-    ],
-    "cons": [
-      "Costs more than a single-ingredient treat bag",
-      "Same 10%-of-diet moderation rule still applies"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers wanting variety without buying multiple treat bags.",
     "sources": [
       {
@@ -3715,57 +3614,49 @@
   },
   {
     "id": "scratch-grain-treat-mix",
-    "name": "Scratch Grain Treat Mix",
+    "name": "Ultimate Chicken Scratch Feed",
     "brand": "Manna Pro",
     "category": "treats",
     "subcategory": "mealworms",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Manna%20Pro%20Scratch%20Grain%20Treat%20Mix",
-    "price_range_usd": "$10-$18 per bag",
+    "amazon_asin": "B00AQ4BULI",
+    "amazon_url_search": "https://www.amazon.com/s?k=Manna%20Pro%20Ultimate%20Chicken%20Scratch%20Feed",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "ingredients": "cracked corn, wheat, oats"
     },
     "pros": [
-      "Inexpensive way to encourage natural scratching behavior",
-      "Widely available at most farm and feed stores"
+      "Made without artificial colors or flavors, Non-GMO grain blend",
+      "Multigrain (corn, milo, wheat) mix marketed for encouraging natural foraging behavior",
+      "Made in USA, widely available with Prime shipping"
     ],
-    "cons": [
-      "Lower protein than mealworm or BSFL treats",
-      "Best used sparingly since it's mostly carbohydrate, not protein"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting a classic, low-cost scratch treat for cold-weather energy or enrichment.",
     "sources": [
       {
-        "name": "Manna Pro",
-        "url": "https://www.mannapro.com/"
+        "name": "Amazon - Manna Pro Ultimate Chicken Scratch Feed",
+        "url": "https://www.amazon.com/Manna-Pro-Mixed-Grains-Scratch/dp/B00AQ4BULI"
       }
     ]
   },
   {
     "id": "poultry-dust-bath-additive",
-    "name": "Poultry Dust Bath Additive",
-    "brand": "Dr. Killigan's",
+    "name": "Chicken Dust Bath, Natural Volcanic Ash",
+    "brand": "Chicken's Choice",
     "category": "dust-bath",
     "subcategory": "diatomaceous earth",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Dr.%20Killigan's%20Poultry%20Dust%20Bath%20Additive",
-    "price_range_usd": "$15-$25",
+    "amazon_asin": "B0CZSBKDXX",
+    "amazon_url_search": "https://www.amazon.com/s?k=Chicken's%20Choice%20Chicken%20Dust%20Bath%2C%20Natural%20Volcanic%20Ash",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "grade": "food grade",
       "additive": "herbal blend"
     },
-    "pros": [
-      "Herbal additive blend beyond plain diatomaceous earth",
-      "Marketed specifically for poultry dust bath use"
-    ],
-    "cons": [
-      "Pricier than plain food-grade diatomaceous earth alone",
-      "Effectiveness of herbal additives is more anecdotal than proven"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers wanting an all-in-one dust bath additive rather than mixing their own.",
     "sources": [
       {
@@ -3780,9 +3671,9 @@
     "brand": "Premier1 Supplies",
     "category": "poultry-netting-electric-fence",
     "subcategory": "portable netting",
-    "amazon_asin": null,
+    "amazon_asin": "B01FMWLWM0",
     "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20PoultryNet%20Standard%20Electric%20Fence",
-    "price_range_usd": "$150-$220",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3791,18 +3682,18 @@
       "posts": "flexible, single-spiked"
     },
     "pros": [
-      "The standard, most affordable Premier1 netting option",
-      "Lightweight enough for one person to move between rotations"
+      "Arrives pre-fabricated with posts woven in, quick to set up per listing copy",
+      "Marketed as effective against coyotes, foxes and dogs for chickens, ducks and geese",
+      "Multiple rolls can be connected for larger enclosures"
     ],
     "cons": [
-      "Single-spiked posts are less stable on rocky or uneven ground than double-spiked versions",
-      "Needs an energizer purchased separately"
+      "Energizer sold separately, adding to total cost"
     ],
     "who_its_for": "Keepers wanting the classic, budget-friendly poultry netting to start with.",
     "sources": [
       {
-        "name": "Premier1 Supplies",
-        "url": "https://www.premier1supplies.com/"
+        "name": "Amazon - Premier 1 PoultryNet Electric Fence 42in",
+        "url": "https://www.amazon.com/Premier-PoultryNet-Electric-Single-Spiked/dp/B01FMWLWM0"
       }
     ]
   },
@@ -3812,9 +3703,9 @@
     "brand": "Premier1 Supplies",
     "category": "poultry-netting-electric-fence",
     "subcategory": "energizer",
-    "amazon_asin": null,
+    "amazon_asin": "B071416Z23",
     "amazon_url_search": "https://www.amazon.com/s?k=Premier1%20Supplies%20IntelliShock%2060%20Fence%20Energizer",
-    "price_range_usd": "$150-$220",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3822,30 +3713,34 @@
       "output_joules": 0.5
     },
     "pros": [
-      "Sized appropriately for a single strand of poultry netting",
-      "Battery or mains operation gives flexibility away from outlets"
+      "Includes a digital fence tester bundled in the kit",
+      "Large-capacity battery designed for extended life in low-sunlight periods",
+      "Durable UV-treated polycarbonate housing, described as rust-proof"
     ],
     "cons": [
-      "Underpowered for combining with much longer perimeter fencing",
-      "Battery models need regular charging or fresh batteries to stay effective"
+      "Battery and solar performance depends on sun exposure, may need supplemental charging"
     ],
     "who_its_for": "Anyone buying poultry netting who doesn't already own a compatible energizer.",
     "sources": [
       {
-        "name": "Premier1 Supplies",
-        "url": "https://www.premier1supplies.com/"
+        "name": "Amazon - Premier Solar IntelliShock 60 Fence Energizer",
+        "url": "https://www.amazon.com/Premier-Solar-IntelliShock-Fence-Energizer/dp/B071416Z23"
+      },
+      {
+        "name": "Premier1Supplies - IntelliShock 60 product page",
+        "url": "https://www.premier1supplies.com/p/intellishock-60-solar-fence-energizer"
       }
     ]
   },
   {
     "id": "spring-loaded-gate-latch",
-    "name": "Spring-Loaded Gate Latch",
+    "name": "N109-070 Gate Latch Cable Pull",
     "brand": "National Hardware",
     "category": "predator-proof-latch",
     "subcategory": "spring latch",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=National%20Hardware%20Spring-Loaded%20Gate%20Latch",
-    "price_range_usd": "$6-$14",
+    "amazon_asin": "B07PR26ZLQ",
+    "amazon_url_search": "https://www.amazon.com/s?k=National%20Hardware%20N109-070%20Gate%20Latch%20Cable%20Pull",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3853,18 +3748,16 @@
       "self_closing": true
     },
     "pros": [
-      "Self-closing action means the door can't be left ajar by accident",
-      "Inexpensive hardware-store upgrade for coop or run gates"
+      "Allows one-handed operation from the opposite side of the gate",
+      "WeatherGuard rust-resistant finish for outdoor use",
+      "Listed as easy installation on standard fence gate posts"
     ],
-    "cons": [
-      "Not specifically marketed for predator-proofing, more of a general gate latch",
-      "Best combined with a second predator-specific latch for full security"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting a cheap self-closing upgrade for run gates.",
     "sources": [
       {
-        "name": "National Hardware",
-        "url": "https://nationalhardware.com/"
+        "name": "Amazon - National Hardware N109-070 Gate Latch Cable Pull",
+        "url": "https://www.amazon.com/Latch-Cable-N109-070-National-Hardware/dp/B07PR26ZLQ"
       }
     ]
   },
@@ -3876,21 +3769,15 @@
     "subcategory": "carabiner add-on",
     "amazon_asin": null,
     "amazon_url_search": "https://www.amazon.com/s?k=RentACoop%20Carabiner%20Latch%20Pack",
-    "price_range_usd": "$8-$15",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "pack_size": "4-6",
       "material": "aluminum"
     },
-    "pros": [
-      "Cheapest possible predator-proofing add-on for existing latches",
-      "No tools or drilling required to install"
-    ],
-    "cons": [
-      "Adds an extra step to daily coop opening and closing",
-      "Not a full latch replacement, just a supplementary lock"
-    ],
+    "pros": [],
+    "cons": [],
     "who_its_for": "Keepers wanting the fastest, cheapest predator-proofing fix available.",
     "sources": [
       {
@@ -3905,39 +3792,37 @@
     "brand": "Durvet",
     "category": "first-aid",
     "subcategory": "electrolytes",
-    "amazon_asin": null,
+    "amazon_asin": "B08HB9TPZP",
     "amazon_url_search": "https://www.amazon.com/s?k=Durvet%20Poultry%20Multivitamin%20Supplement",
-    "price_range_usd": "$8-$16",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "form": "powder or liquid"
     },
     "pros": [
-      "General-purpose vitamin support beyond just electrolytes",
-      "Affordable addition to a basic flock first-aid kit"
+      "Each packet mixes to make one gallon of supplement, simple dosing",
+      "Marketed to aid hydration and nutrition for a fast start or recovery when birds are off feed",
+      "Multi-species formula usable across poultry and other livestock"
     ],
-    "cons": [
-      "Not a treatment for active illness, supportive use only",
-      "Overlaps in function with dedicated electrolyte products"
-    ],
+    "cons": [],
     "who_its_for": "Keepers wanting general vitamin support during molting or stress periods.",
     "sources": [
       {
-        "name": "Durvet",
-        "url": "https://durvet.com/"
+        "name": "Amazon - Durvet Vitamins & Electrolytes for Poultry",
+        "url": "https://www.amazon.com/Durvet-Vitamins-Electrolytes-Poultry-Gallons/dp/B08HB9TPZP"
       }
     ]
   },
   {
     "id": "blu-kote-antiseptic-wound-spray",
     "name": "Blu-Kote Antiseptic Wound Spray",
-    "brand": "Blu-Kote",
+    "brand": "Dr. Naylor",
     "category": "first-aid",
     "subcategory": "wound spray",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=Blu-Kote%20Blu-Kote%20Antiseptic%20Wound%20Spray",
-    "price_range_usd": "$10-$18",
+    "amazon_asin": "B01CUH9T34",
+    "amazon_url_search": "https://www.amazon.com/s?k=Dr.%20Naylor%20Blu-Kote%20Antiseptic%20Wound%20Spray",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3945,30 +3830,30 @@
       "color": "blue-tinted"
     },
     "pros": [
-      "Blue tint helps disguise a wound from pecking flock mates",
-      "Long-standing product trusted by many poultry keepers"
+      "Fast-drying formula that doesn't restrict animal movement after application",
+      "Germ-killing, fungicidal formula intended to protect open wounds from infection",
+      "Long-standing, widely trusted product across multiple livestock and poultry species"
     ],
     "cons": [
-      "Stains skin, clothing, and coop surfaces it touches",
-      "Should not be used near eyes or on very deep wounds without vet input"
+      "Contains gentian violet dye which stains skin, feathers, and surfaces blue"
     ],
     "who_its_for": "Keepers dealing with pecking-order injuries in a mixed flock.",
     "sources": [
       {
-        "name": "Blu-Kote / Durvet",
-        "url": "https://durvet.com/"
+        "name": "Amazon - Dr. Naylor Blu-Kote Aerosol",
+        "url": "https://www.amazon.com/Dr-Naylor-Blu-Kote-Aerosol-4-5/dp/B01CUH9T34"
       }
     ]
   },
   {
     "id": "digital-pocket-scale-with-hook",
-    "name": "Digital Pocket Scale with Hook",
+    "name": "LS-110 Digital Hanging Luggage Scale",
     "brand": "American Weigh Scales",
     "category": "poultry-scale",
     "subcategory": "digital hanging scale",
-    "amazon_asin": null,
-    "amazon_url_search": "https://www.amazon.com/s?k=American%20Weigh%20Scales%20Digital%20Pocket%20Scale%20with%20Hook",
-    "price_range_usd": "$12-$20",
+    "amazon_asin": "B003STEIJ4",
+    "amazon_url_search": "https://www.amazon.com/s?k=American%20Weigh%20Scales%20LS-110%20Digital%20Hanging%20Luggage%20Scale",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
@@ -3976,18 +3861,18 @@
       "hold_function": true
     },
     "pros": [
-      "Compact and easy to store compared with a full sling scale",
-      "Digital hold function gives a stable, precise reading"
+      "Backlit LCD screen readable in low light",
+      "Includes hook and adjustable fabric loop for securing items while weighing",
+      "Heavy-duty plastic construction described as resistant to bending or breaking"
     ],
     "cons": [
-      "Small hook needs a bag or sling added for a live bird",
-      "Not marketed specifically for poultry use"
+      "Not marketed specifically for poultry, a generic travel or luggage scale"
     ],
     "who_its_for": "Keepers wanting a small, precise digital scale rather than a bulky sling scale.",
     "sources": [
       {
-        "name": "American Weigh Scales",
-        "url": "https://www.americanweigh.com/"
+        "name": "Amazon - American Weigh Scales LS-110 Digital Hanging Luggage Scale",
+        "url": "https://www.amazon.com/Digital-Hanging-Traveling-Weighing-Suitcases/dp/B003STEIJ4"
       }
     ]
   },
@@ -3997,27 +3882,25 @@
     "brand": "Rite Farm Products",
     "category": "egg-washer",
     "subcategory": "hand brush",
-    "amazon_asin": null,
+    "amazon_asin": "B06XYVH693",
     "amazon_url_search": "https://www.amazon.com/s?k=Rite%20Farm%20Products%20Manual%20Egg%20Washer%20Brush",
-    "price_range_usd": "$10-$18",
+    "price_range_usd": null,
     "price_checked": "2026-09-26",
     "flock_size": null,
     "key_specs": {
       "power": "manual, no electricity"
     },
     "pros": [
-      "Cheapest possible option for washing dirty eggs by hand",
-      "No electricity or plumbing setup required"
+      "Palm-sized brush designed to be gentle enough to avoid egg breakage while removing stuck-on debris",
+      "Marketed specifically for hobby-farm-scale egg cleaning before sale",
+      "Companion 10-pack of scrubbing pads available from the same brand for refills"
     ],
-    "cons": [
-      "Slower than any motorized washer for larger volumes",
-      "More physical effort per dozen eggs washed"
-    ],
+    "cons": [],
     "who_its_for": "Small backyard flocks washing only a few dirty eggs at a time.",
     "sources": [
       {
-        "name": "Rite Farm Products",
-        "url": "https://ritefarmproducts.com/"
+        "name": "Amazon - Rite Farm Products Egg Scrubbing Brush",
+        "url": "https://www.amazon.com/PRODUCTS-SCRUBBING-SCRUBBER-WASHING-CHICKEN/dp/B06XYVH693"
       }
     ]
   }
