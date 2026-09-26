@@ -1,0 +1,27 @@
+{
+  "breed_id": "augsburger",
+  "status": "fixed",
+  "changes": "eggs_per_year_min was 120, which Wikipedia gives for bantam hens; set to 180, the large fowl figure that Wikipedia and the FAO DAD-IS record for Germany both give (max stays 180). Weights were stored as text ranges; set to the DAD-IS figures, hen 2.3 kg (2.25) and cock 2.7 kg (2.65), which sit inside the Wikipedia ranges of 2.0 to 2.5 and 2.3 to 2.7 kg. Added egg size large (both sources give an average of 58 g). White eggs, dual purpose, cup or rose comb, white earlobes, black and blue-laced colors, bantam, Bavarian origin and endangered status confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Augsburger",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 180, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en" },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en" },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en" },
+    "egg_size": { "value": "large", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en" }
+  },
+  "sources": [
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Augsburger", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "bantam_available", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Augsburger is a rare German dual-purpose chicken and the only breed that comes from Bavaria. Julius Meyer of Haunstetten, now part of Augsburg, made it around 1870 to 1880 by crossing the French La Fleche, known for its meat, with a laying type from Italy called the Lamotta, which no longer exists. Its most unusual feature is a cup-shaped rose comb, quite different from the horn-like comb of the La Fleche. Birds are black with a green sheen, and a blue-laced form was added in 1990. Earlobes are white, and a bantam exists. Hens weigh about 5 pounds and cocks about 6. Hens lay around 180 large white eggs a year. Numbers fell from the 1960s as high output commercial breeds took over, and it is now listed as extremely endangered in Germany, so it mostly interests conservation breeders.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Augsburger",
+      "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Augsburger&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "breed_id": "chantecler-chicken",
+  "status": "fixed",
+  "changes": "Temperament list replaced with gentle, calm, personable (Livestock Conservancy); hardy is not a temperament. Egg color light brown / pinkish-brown simplified to light brown, which Wikipedia and the Livestock Conservancy both give. Rooster weight kept at 3.9 kg (top of the Wikipedia 3.4 to 3.9 kg range; the Livestock Conservancy text gives 8 to 9 lb) with 3.4 kg kept as a flagged alternative because the Livestock Conservancy fact box says 7.5 lb. Hen 2.5 kg, 200 to 220 eggs, large eggs, cold hardy yes, heat tolerant no, broodiness medium and Canadian origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Chantecler_chicken",
+    "https://livestockconservancy.org/chantecler-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": { "value": "gentle, calm, personable", "source_url": "https://livestockconservancy.org/chantecler-chicken/" },
+    "egg_color": { "value": "light brown", "source_url": "https://livestockconservancy.org/chantecler-chicken/" },
+    "rooster_weight_kg": { "value": 3.9, "source_url": "https://en.wikipedia.org/wiki/Chantecler_chicken", "conflict": true, "alternatives": [ { "value": 3.4, "source_url": "https://livestockconservancy.org/chantecler-chicken/" } ] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/chantecler-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "comb", "varieties", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Chantecler_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "origin_country", "purpose", "comb", "skin_color", "bantam_available", "varieties", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "cold_hardy", "origin_country", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Chantecler is the only chicken breed that comes from Canada. Brother Wilfrid Chatelain, a monk at the abbey in Oka, Quebec, started work on it in 1908 and showed it to the public in 1918. He wanted a sturdy farm bird that could handle Canadian winters, so the breed has tight, dense feathers, a tiny cushion comb and almost no wattles, which keeps frostbite away. White is the original color, and a partridge version came later from Alberta. Roosters weigh about 7.5 to 8.5 pounds and hens about 5.5 pounds. Hens lay around 200 to 220 large light brown eggs a year and keep laying in winter. They are gentle, calm birds that grow friendly when handled young, and some hens go broody. The breed is rare today. It is a strong pick for cold northern climates but does poorly in hot weather.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chantecler_chicken",
+      "https://livestockconservancy.org/chantecler-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "breed_id": "broiler",
+  "status": "needs-human",
+  "changes": "The filled fields (purpose meat, yellowish skin, white feathers, fast growth, history from 1916 and the Cornish x Plymouth Rock cross) all match Wikipedia. But a broiler is a production type, any chicken bred and raised for meat, not a breed, so it has no origin country, standard weights or egg figures. A human should decide whether it belongs in the breed list or should be moved to a guide or hybrid page. The linked FAO DAD-IS record (aribro broiler, Ghana) is one commercial strain, not the category. Note: breeds.json carries egg_color 'white/light brown' and comb 'red' from the Wikipedia infobox, which are generic and not breeds_extra fields.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Broiler",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GHA&specie=Chicken&breed=aribro%20broiler&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Broiler", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "skin_color", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "A broiler is not a single breed but any chicken raised mainly for meat. Before modern meat strains existed, broilers were mostly young cockerels culled from farm flocks. Organized pedigree breeding started around 1916, and in the 1930s breeders crossed Cornish males with large white Plymouth Rock hens, a cross that dominated meat production by the 1960s. Today's commercial strains come from company breeding programs and are usually white feathered with yellowish skin. They grow very fast, turn feed into meat efficiently and move little, reaching about 4.4 pounds in five to seven weeks. Slower growing strains used for free range and organic systems take closer to 12 to 16 weeks. That rapid growth brings real welfare problems, including leg and skeletal disorders and heart trouble, so housing, ventilation and stocking density need careful management. Most are raised in large mixed sex flocks in sheds.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Broiler"
+    ]
+  }
+}

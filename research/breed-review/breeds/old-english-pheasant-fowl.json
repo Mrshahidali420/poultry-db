@@ -1,0 +1,29 @@
+{
+  "breed_id": "old-english-pheasant-fowl",
+  "status": "fixed",
+  "changes": "Temperament cleared: the value hardy describes toughness, not temperament, and no source describes temperament. Added weights from the Wikipedia infobox, cock 2.7 to 3.2 kg and hen 2.25 to 2.7 kg; FAO DAD-IS (UK) gives 2.9 kg and 2.3 kg, inside those ranges. Confirmed origin in Yorkshire, the 1914 naming, the older names and dual utility use with the Poultry Club of Great Britain and DAD-IS. White eggs rest on Wikipedia alone; DAD-IS gives about 160 eggs a year as an average only, so no range was added.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/old-english-pheasant-fowl/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Old%20English%20Pheasant%20Fowl&lang=en"
+  ],
+  "fixes": {
+    "temperament": null,
+    "hen_weight_kg": { "value": { "min": 2.25, "max": 2.7 }, "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" },
+    "rooster_weight_kg": { "value": { "min": 2.7, "max": 3.2 }, "source_url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/old-english-pheasant-fowl/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Old%20English%20Pheasant%20Fowl&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Old English Pheasant Fowl is a light utility chicken from the farms of northern England, chiefly Yorkshire and Lancashire, with roots in Cumberland and Westmorland too. It is a very old breed, known earlier as the Yorkshire Pheasant, Golden Pheasant or Old-fashioned Pheasant, and it got its present name and a breed club around 1914. Some think it helped give rise to the Hamburg. Its mahogany feathers edged with darker lacing recall a wild pheasant. It has a rose comb and white earlobes. Roosters weigh about 6 to 7 pounds and hens about 5 to 6 pounds. Hens lay white eggs, around 160 a year, and the birds carry a meaty breast for a light breed. They are hardy and thrive on free range, which made them a farm favorite. Today the breed is rare.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Old_English_Pheasant_Fowl",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/old-english-pheasant-fowl/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Old%20English%20Pheasant%20Fowl&lang=en"
+    ]
+  }
+}

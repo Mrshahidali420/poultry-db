@@ -1,0 +1,20 @@
+{
+  "breed_id": "j-rh-ns",
+  "status": "approved",
+  "changes": "All filled fields match the Wikipedia text: about 215 white eggs a year (minimum 55 g), egg purpose, autosexing, single comb, two color varieties, bantam approved 1994, Norway origin and the Bryne breeding station history. The breeds.json infobox weight of about 1.7 kg for both sexes was not copied in, because the cached text does not state it and a cock the same weight as a hen needs checking. Norwegian Wikipedia was read but is tagged as fully unsourced, so it was not used. No second publisher found, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+    "https://no.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "purpose", "autosexing", "comb", "varieties", "bantam_available", "origin_country", "origin_year_or_period", "conservation_status", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Jaerhons is Norway's only native chicken breed. It takes its name from Jaeren, a farming district on the southwest coast in Rogaland. It was the main chicken on Norwegian farms until foreign breeds arrived in the 1800s. From 1916 to 1973 a state breeding station at Bryne worked to improve it, and that work made the breed autosexing, so chicks can be sorted by sex at hatching. Two color types are accepted, both mixing brown with yellow, one dark and one light. Birds have a single comb and bright yellow beaks and legs, and a bantam version was approved in 1994. Hens lay about 215 white eggs a year, each at least 55 grams, which is only about a fifth fewer than modern commercial layers. Norway lists it as a national breed worth conserving.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns"
+    ]
+  }
+}

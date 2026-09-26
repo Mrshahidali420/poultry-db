@@ -1,0 +1,32 @@
+{
+  "breed_id": "sussex-chicken",
+  "status": "fixed",
+  "changes": "Eggs per year changed from 180 to 200 to 200 to 250 from the Livestock Conservancy; Star Milling (about 250) and Wikipedia (up to 250 in layer strains) support the top, and Wikipedia's 180 is kept as a conflicting alternative for the low end. Egg color changed from tinted to tan to brown (Livestock Conservancy; Star Milling says light brown). Temperament array rewritten as calm, curious (Livestock Conservancy). Confirmed 9 lb male and 7 lb female (4.1 and 3.2 kg in Wikipedia and the Livestock Conservancy), large eggs, medium broodiness, cold hardy, not heat tolerant, beginner friendly, dual purpose, English origin.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sussex_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://livestockconservancy.org/sussex-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/sussex/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 200, "source_url": "https://livestockconservancy.org/sussex-chicken/", "conflict": true, "alternatives": [{ "value": 180, "source_url": "https://en.wikipedia.org/wiki/Sussex_chicken" }] },
+    "eggs_per_year_max": { "value": 250, "source_url": "https://livestockconservancy.org/sussex-chicken/" },
+    "egg_color": { "value": "tan to brown", "source_url": "https://livestockconservancy.org/sussex-chicken/" },
+    "temperament": { "value": "calm, curious", "source_url": "https://livestockconservancy.org/sussex-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/sussex-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "beginner_friendly", "origin_country", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Sussex_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "origin_country", "comb", "earlobe_color", "skin_color", "varieties", "bantam_available", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "purpose", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/sussex/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Sussex is one of England's oldest chicken breeds, from the counties of Sussex, Kent and Surrey, long known for fine table birds. It was shown at London's first poultry show in 1845 and nearly died out around 1900 before a breed club, formed in 1903, brought it back. It is a big, rectangular dual-purpose bird with a broad flat back, white skin and legs and a single comb. The Speckled, a dark mahogany bird dotted with black and white, is the oldest color; Light and Red are also recognized in the US, and Britain has several more. Roosters weigh about 9 pounds and hens about 7. Hens lay roughly 200 to 250 large tan to brown eggs a year and may go broody. Sussex are calm, curious and people friendly, good with children and beginners. They handle winter well but dislike heat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sussex_chicken",
+      "https://livestockconservancy.org/sussex-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

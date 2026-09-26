@@ -1,0 +1,24 @@
+{
+  "breed_id": "vanaraja",
+  "status": "fixed",
+  "changes": "Hen weight 1.1 kg cleared: Wikipedia gives 1.0 to 1.2 kg as the weight of birds at 6 to 6.5 months, not the adult hen weight, and does not split it by sex. Up to 110 eggs a year, dual purpose, India and the traits and history match Wikipedia. FAO DAD-IS confirms India and describes Vanaraja as a crossbreed developed for rural poultry production, so it is a developed variety rather than a traditional breed. Only one publisher gives eggs and weights, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Vanaraja",
+    "https://dadis-breed-datasheet-ws.web.app/?country=IND&specie=Chicken&breed=Vanaraja&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Vanaraja", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "purpose", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=IND&specie=Chicken&breed=Vanaraja&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "Vanaraja is a crossbred dual purpose chicken made in India by the ICAR Directorate of Poultry Research in Hyderabad. It was designed for village families who let their birds roam the yard and feed mostly on what they find, with only a little extra grain. The birds have multicolored feathers, resist disease well, grow quickly and need less feed than many breeds. They do best on free range. A hen lays up to about 110 eggs a year, and young birds reach roughly 2.2 to 2.6 pounds by six months of age. Keepers are advised to vaccinate them together with any native birds, and to avoid letting them get too heavy, since excess weight can cut egg output. Most flocks are in Telangana and Andhra Pradesh, and the Hyderabad center supplies chicks to 26 Indian states.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vanaraja",
+      "https://dadis-breed-datasheet-ws.web.app/?country=IND&specie=Chicken&breed=Vanaraja&lang=en"
+    ]
+  }
+}

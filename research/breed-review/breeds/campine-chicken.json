@@ -1,0 +1,35 @@
+{
+  "breed_id": "campine-chicken",
+  "status": "fixed",
+  "changes": "Temperament changed from a list of words to the phrase active, flighty, inquisitive (Livestock Conservancy, Wikipedia, Star Milling). Egg size kept at medium and the medium to large alternative dropped: Livestock Conservancy and Oklahoma State both say medium. Hen weight kept at 1.8 kg (4 lb, US standard in Livestock Conservancy and Oklahoma State) with the 2.3 kg British standard weight from Wikipedia shown as a conflict. Rooster weight 2.7 kg confirmed by all three. Added heat_tolerant yes because Livestock Conservancy says the breed prefers warmer climates. Confirmed 140 to 200 white eggs, low broodiness, cold_hardy no (does poorly in extreme cold; Oklahoma State notes it failed to adapt to harsh US conditions) and Belgian origin.",
+  "sources_checked": [
+    "https://livestockconservancy.org/campine-chicken/",
+    "https://breeds.okstate.edu/poultry/chickens/campine-chickens",
+    "https://en.wikipedia.org/wiki/Campine_chicken",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/campine/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, flighty, inquisitive", "source_url": "https://livestockconservancy.org/campine-chicken/" },
+    "egg_size": { "value": "medium", "source_url": "https://livestockconservancy.org/campine-chicken/" },
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://livestockconservancy.org/campine-chicken/", "conflict": true, "alternatives": [{ "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Campine_chicken" }] },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/campine-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/campine-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "beginner_friendly", "purpose", "comb", "earlobe_color", "skin_color", "conservation_status", "varieties", "notable_traits"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/campine-chickens", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "purpose", "varieties", "earlobe_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Campine_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "temperament", "origin_country", "rooster_weight_kg", "varieties", "autosexing", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "temperament", "origin_country", "varieties"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/campine/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Campine comes from the Kempen district of northern Belgium, near Antwerp, and is a smaller, slimmer cousin of the Braekel. English breeders took it up around 1900 and made hen feathering in males the standard, so cocks look much like hens, without long sickle or hackle feathers. It comes in Silver and Golden, each with a plain colored head and neck over a body barred with black. Roosters weigh about 6 pounds and hens about 4 pounds in the US standard. Hens rarely go broody and lay 140 to 200 medium white eggs a year, big for such a small bird. Campines are active, flighty and curious, love to forage, and do not like being held. They prefer warm weather and struggle in hard cold. They can work for beginners with room to free range.",
+    "sources": [
+      "https://livestockconservancy.org/campine-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/campine-chickens",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/campine/",
+      "https://en.wikipedia.org/wiki/Campine_chicken"
+    ]
+  }
+}

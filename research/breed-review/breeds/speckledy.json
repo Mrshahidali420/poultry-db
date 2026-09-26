@@ -1,0 +1,26 @@
+{
+  "breed_id": "speckledy",
+  "status": "fixed",
+  "changes": "Temperament was a list and the Star Milling text it cites says nothing about temperament; replaced with docile, easy to handle from the Omlet breed page, which also says they forage well and like free range. History summary trimmed to what the sources say: the UK origin and the hardy claim are not stated in either source, so they were taken out of the text. Empty varieties field cleared. Egg count 250 to 270 (Star Milling only), dark chestnut brown often speckled eggs, strong shells, deep yellow yolks, egg purpose and the Rhode Island Red x Marans parentage confirmed against Star Milling and Omlet. Origin country United Kingdom left as it was but not confirmed by any source read, and no source gives weights, egg size or climate tolerance, so the record stays in review.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.omlet.co.uk/breeds/chickens/speckledy/"
+  ],
+  "fixes": {
+    "temperament": { "value": "docile, easy to handle", "source_url": "https://www.omlet.co.uk/breeds/chickens/speckledy/" },
+    "history_summary": { "value": "The Speckledy is a modern hybrid from a Rhode Island Red and Marans cross, with feathering like a Cuckoo Marans, bred as a prolific layer of speckled chestnut-brown eggs.", "source_url": "https://www.omlet.co.uk/breeds/chickens/speckledy/" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "purpose", "notable_traits"] },
+    { "url": "https://www.omlet.co.uk/breeds/chickens/speckledy/", "publisher": "Omlet", "source_confidence": "page", "supports": ["egg_color", "temperament", "purpose", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Speckledy, also sold as the Speckled Ranger, is a modern hybrid laying hen made by crossing a Rhode Island Red rooster with a Marans hen. It takes after the Marans side in looks, with barred, cuckoo style feathers that are soft and plentiful. The birds are large but neat, with a deep breast, an upturned tail, pale legs, pale bay eyes and a medium red single comb. Hens are strong layers, putting out around 250 to 270 dark chestnut brown eggs a year, often with speckles. The shells are notably tough and the yolks a deep yellow. Speckledys are docile and easy to handle, and they enjoy foraging, so they do best with room to range on grass. Their calm nature and steady laying make them a common choice for first time keepers who mainly want brown eggs.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.omlet.co.uk/breeds/chickens/speckledy/"
+    ]
+  }
+}

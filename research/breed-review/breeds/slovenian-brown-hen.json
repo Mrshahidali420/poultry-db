@@ -1,0 +1,26 @@
+{
+  "breed_id": "slovenian-brown-hen",
+  "status": "fixed",
+  "changes": "Added the missing weights from Wikipedia: rooster 2.5 to 3.0 kg, hen 1.8 to 2.2 kg. Added egg size large (average egg about 61 g). Cleared the empty varieties list. Confirmed 295 to 305 brown eggs a year, egg-laying purpose, single comb, earlobe colors, 1970s development from Rhode Island Red stock and Slovenian origin against Wikipedia; FAO DAD-IS lists the breed in Slovenia with eggs and crossbreeding as its uses. No second publisher found for weights or egg numbers, so it stays flagged for review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen",
+    "https://dadis-breed-datasheet-ws.web.app/?country=SVN&specie=Chicken&breed=slovenska%20rjava%20koko%C5%A1&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": { "min": 1.8, "max": 2.2 }, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen" },
+    "rooster_weight_kg": { "value": { "min": 2.5, "max": 3.0 }, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "purpose", "comb", "earlobe_color", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=SVN&specie=Chicken&breed=slovenska%20rjava%20koko%C5%A1&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Slovenian Brown Hen is a laying breed created in the 1970s by animal scientists at the University of Ljubljana, working from Rhode Island Red stock that had long been a favorite on Slovenian farms. The birds are a solid dark brown with no pattern. Roosters have a metallic gloss and a tail of dark green and black feathers, and strong sun can fade the plumage. It has a medium single comb, orange eyes and yellow legs. Roosters weigh about 5.5 to 6.6 pounds and hens about 4 to 4.9 pounds, making it the lightest of the Slovenian layer breeds. Hens start laying at about 19 to 20 weeks and give roughly 295 to 305 brown eggs a year, averaging about 61 grams each, while eating less feed per egg than their cousins. The breed is also a parent of the Prelux commercial layers, and in 2020 Slovenia counted about 2,900 birds.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Slovenian_Brown_Hen"
+    ]
+  }
+}

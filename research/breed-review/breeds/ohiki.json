@@ -1,0 +1,25 @@
+{
+  "breed_id": "ohiki",
+  "status": "approved",
+  "changes": "Confirmed origin in Kochi Prefecture on Shikoku, descent from long-tailed breeds crossed with Chabo type bantams, the dragging tail of old cocks, true bantam status and UK breeding from the 1990s against the Poultry Club of Great Britain. The Poultry Club dates it to the mid nineteenth century, which falls inside Wikipedia's Edo period, so no change. FAO DAD-IS lists the breed in Germany and the UK; the Japanese DAD-IS record that names Ohiki as an alias describes the Minohiki-chabo (natural monument 1967), so its weights were not used. No egg, weight or temperament data found from any source, so those fields stay empty and the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ohiki",
+    "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/ohiki/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Ohiki&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ohiki&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ohiki", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "varieties", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/ohiki/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "varieties", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Ohiki&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Ohiki is a small Japanese show chicken from Kochi Prefecture on the island of Shikoku. Its name means roughly tail dragging, and that is its signature: older roosters grow tail feathers so long they trail along the ground. It is a true bantam with no large version. Breeders probably made it in the 1800s by crossing long-tailed birds such as the Onagadori with little bantams like the Chabo. The bird has short legs and a round body. Japan named it a Natural Monument in 1923. Japan recognizes white plus two black-breasted colors, red and silver, while the British standard lists white, black-red and the gold and silver duckwings. It reached British breeders only in the 1990s and remains rare in Europe, kept mainly by exhibitors who can give a long-tailed rooster the care it needs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ohiki",
+      "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/ohiki/"
+    ]
+  }
+}

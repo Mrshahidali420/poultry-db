@@ -1,0 +1,38 @@
+{
+  "breed_id": "marans",
+  "status": "fixed",
+  "changes": "Temperament Quiet, Robust, Calm, Alert, Handsome (a mix of looks and traits) replaced with calm, quiet, friendly (Meyer Hatchery, My Pet Chicken, Star Milling). Egg size large to medium to large (Meyer Hatchery and My Pet Chicken agree). Egg color set to dark chocolate brown and the Wikipedia alternative dropped, since both say the same thing. Added hen weight 2.9 kg (6.5 lb) and rooster 3.9 kg (8.5 lb) from the low end of the My Pet Chicken ranges, cold hardy yes (was boolean) and heat tolerant no (My Pet Chicken says they struggle in hot climates). Egg count 150 to 200 and French origin confirmed by Star Milling, My Pet Chicken and Wikipedia.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Marans",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/marans/",
+    "https://blog.meyerhatchery.com/2021/11/breed-spotlight-the-marans/",
+    "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, quiet, friendly", "source_url": "https://blog.meyerhatchery.com/2021/11/breed-spotlight-the-marans/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://blog.meyerhatchery.com/2021/11/breed-spotlight-the-marans/" },
+    "egg_color": { "value": "dark chocolate brown", "source_url": "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide" },
+    "rooster_weight_kg": { "value": 3.9, "source_url": "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide" },
+    "heat_tolerant": { "value": "no", "source_url": "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide" }
+  },
+  "sources": [
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "comb"] },
+    { "url": "https://blog.meyerhatchery.com/2021/11/breed-spotlight-the-marans/", "publisher": "Meyer Hatchery", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "origin_country", "purpose"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "origin_country", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Marans", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "bantam_available", "origin_year_or_period", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/marans/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Marans is a French chicken named after the town of Marans on the Atlantic coast, where local hens were crossed with birds from passing ships and with Croad Langshans. It was first shown in 1914 and reached Britain around 1929. Its fame rests on its eggs: hens lay about 150 to 200 a year, medium to large, with deep chocolate brown shells, and the Black Copper line is known for the darkest. Other common colors include cuckoo, wheaten and white, and some lines carry light feathering on the legs. Hens weigh roughly 6.5 to 8 pounds and roosters 8.5 to 9.5. Marans are calm, quiet and easy to handle, and many hens will sit on eggs. They cope well with cold winters but can suffer in hot weather. They suit beginners and suburban keepers who want a gentle bird and an unusual egg basket.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marans",
+      "https://blog.meyerhatchery.com/2021/11/breed-spotlight-the-marans/",
+      "https://www.mypetchicken.com/blogs/our-blog/marans-chicken-breed-the-ultimate-guide",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

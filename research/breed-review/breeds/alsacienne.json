@@ -1,0 +1,26 @@
+{
+  "breed_id": "alsacienne",
+  "status": "fixed",
+  "changes": "Hen and rooster weights were stored as text ranges (2.0-2.5 and 2.0-3.0); set to numbers at the midpoints of the Wikipedia large fowl ranges, hen 2.3 kg and cock 2.5 kg. The FAO DAD-IS record for France gives 22.5 and 23 kg, plainly a decimal slip for about 2.3 kg, which fits. Earlobe color kept white (Wikipedia, citing the French standard) with blue kept as a flagged alternative, because the DAD-IS description says blue ear lobes. Large white eggs of at least 60 g, dual purpose, rose comb with a spike, the four colors, bantam, France, 1890s and at risk status confirmed. DAD-IS lists meat as the main use, which fits the dual-purpose value. Eggs and weights rest on Wikipedia alone, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Alsacienne",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Poule%20d'Alsace&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Alsacienne" },
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Alsacienne" },
+    "earlobe_color": { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Alsacienne", "conflict": true, "alternatives": [{ "value": "blue", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Poule%20d'Alsace&lang=en" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Alsacienne", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "bantam_available", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Poule%20d'Alsace&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Alsacienne, or Poule d'Alsace, is an old French chicken from Alsace in the east of the country. Its modern form was fixed in the 1890s, when Alsace belonged to the German Empire, and it may be related to the German Rheinlander, which has a different comb. Unlike most French breeds it carries no Asian blood. Birds have a red rose comb that ends in a spike, and the French standard allows black, blue-laced, golden salmon and white, in both large and bantam size. Hens weigh roughly 4.5 to 5.5 pounds and cocks 4.5 to 6.5. It is a dual-purpose bird: hens lay large white eggs of at least 60 grams, and chefs in a French tasting ranked its meat second only to Bresse chicken. The breed nearly vanished in the last century and is still counted as at risk.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alsacienne",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Poule%20d'Alsace&lang=en"
+    ]
+  }
+}

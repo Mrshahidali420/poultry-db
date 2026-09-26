@@ -1,0 +1,19 @@
+{
+  "breed_id": "umavanka",
+  "status": "fixed",
+  "changes": "Added egg color brown and weights from the Wikipedia infobox: rooster 3.3 kg and hen 2.8 kg, the midpoints of the 2.9 to 3.6 kg and 2.4 to 3.1 kg ranges. Confirmed 180 eggs a year, Czech Republic origin, the 58 g egg weight, the restoration crosses and the history against Wikipedia. No second publisher was available (no FAO DAD-IS record is linked), so needs_review stays true.",
+  "sources_checked": ["https://en.wikipedia.org/wiki/%C5%A0umavanka"],
+  "fixes": {
+    "egg_color": { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka" },
+    "rooster_weight_kg": { "value": 3.3, "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka" },
+    "hen_weight_kg": { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/%C5%A0umavanka" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/%C5%A0umavanka", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "rooster_weight_kg", "hen_weight_kg", "origin_country", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Sumavanka, or Sumava chicken, is an old Czech breed named after the Sumava, the Bohemian Forest along the country's southwestern border. The original birds died out, so the breed seen today is a rebuilt one. In the second half of the 20th century, breeders took the few birds left from the old stock and crossed them with Czech gold brindle hens, yellow Plymouth Rocks, Rhode Island Reds, New Hampshires and Wyandottes. Roosters weigh about 6.4 to 7.9 pounds and hens about 5.3 to 6.8 pounds. A hen lays around 180 brown eggs a year, each close to 2 ounces. The breed is still rare, which makes it a bird for keepers interested in preserving Czech farm poultry.",
+    "sources": ["https://en.wikipedia.org/wiki/%C5%A0umavanka"]
+  }
+}

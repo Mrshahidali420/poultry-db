@@ -1,0 +1,32 @@
+{
+  "breed_id": "barbezieux",
+  "status": "fixed",
+  "changes": "Hen weight 3.6 to 3.5 kg, the FAO DAD-IS figure for France; cock 4.5 kg confirmed by DAD-IS and within Star Milling's 9 to 12 lb for adults. Egg color white and the appearance traits (beetle black plumage, big comb and wattles, white skin, blue legs) were cited to Wikipedia, whose text says none of that; re-cited to Star Milling, where they come from. Added white earlobes and bantam_available no from DAD-IS, which says no dwarf form exists. Empty varieties field cleared. Meat purpose, France origin (Charente, Barbezieux region), recreation in 1980 to 1985 and the gamey meat reputation confirmed by Wikipedia, Star Milling and DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Barbezieux&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Barbezieux&lang=en" },
+    "egg_color": { "value": "white", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "notable_traits": { "value": ["one of the tallest chicken breeds native to Europe", "iridescent beetle-black plumage, oversized comb and wattles, white skin and blue legs", "meat has a reputation for a gamey flavor and is protected under a regional quality label"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "earlobe_color": { "value": "white", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Barbezieux&lang=en" },
+    "bantam_available": { "value": "no", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Barbezieux&lang=en" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Barbezieux&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "earlobe_color", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/Barbezieux_(chicken)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "purpose", "origin_year_or_period", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Barbezieux is a rare French meat chicken from the area around Barbezieux in the Charente, where it has been kept since at least the 1800s and possibly far longer. It ranks among the tallest chickens native to Europe, with roosters standing up to about 2 feet. Plumage is a glossy beetle black, set off by a very large comb and wattles, white earlobes, white skin and blue legs. Roosters weigh about 10 pounds and hens close to 8. The breed nearly died out, and four breeders rebuilt it between 1980 and 1985. Today birds that meet the standard are raised in their home region under a quality label, with around 10,000 to 12,000 sold each year after at least 110 days of growth. The meat is firm with a gamey taste. Hens lay a fair number of white eggs, and no bantam form exists.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbezieux_(chicken)",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Barbezieux&lang=en"
+    ]
+  }
+}

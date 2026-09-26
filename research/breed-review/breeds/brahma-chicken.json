@@ -1,0 +1,39 @@
+{
+  "breed_id": "brahma-chicken",
+  "status": "fixed",
+  "changes": "Purpose meat to dual (Livestock Conservancy lists eggs and meat). Egg size large to medium to large (Livestock Conservancy, Meyer Hatchery). Temperament replaced with calm, docile (Livestock Conservancy); the old value mixed in looks (fuzzy toes). Rooster weight conflict resolved at 5.5 kg: Livestock Conservancy gives 12 lb (5.4 kg) male and 10 lb (4.5 kg) female, matching the Wikipedia standard weights; the 6 and 8 kg alternatives dropped. Heat tolerant set false and broodiness set high from Star Milling and Meyer Hatchery.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Brahma_chicken",
+    "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/",
+    "https://blog.meyerhatchery.com/2021/12/breed-spotlight-the-brahma/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/brahma/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/" },
+    "temperament": { "value": "calm, docile", "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/" },
+    "hen_weight_kg": { "value": 4.5, "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/" },
+    "rooster_weight_kg": { "value": 5.5, "source_url": "https://en.wikipedia.org/wiki/Brahma_chicken" },
+    "heat_tolerant": { "value": "no", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "broodiness": { "value": "high", "source_url": "https://blog.meyerhatchery.com/2021/12/breed-spotlight-the-brahma/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "purpose"] },
+    { "url": "https://en.wikipedia.org/wiki/Brahma_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "comb", "varieties", "history_summary"] },
+    { "url": "https://blog.meyerhatchery.com/2021/12/breed-spotlight-the-brahma/", "publisher": "Meyer Hatchery", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "cold_hardy", "broodiness", "comb"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["cold_hardy", "heat_tolerant", "temperament"] },
+    { "url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts", "publisher": "chicken-dictionary (GitHub)", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Brahma is a giant, heavily feathered chicken that American breeders developed in the mid 1800s from big birds shipped out of Shanghai, with a little Chittagong blood from India that gave it a pea comb and a heavy brow. Roosters reach about 12 pounds and hens about 10, so it ranks among the largest breeds you can keep. Feathers run down the legs and over the toes, and the usual colors are light, dark and buff. Hens lay around 150 to 200 medium to large brown eggs a year and keep laying through winter better than most. Brahmas are calm, docile birds that rarely fly and stay put behind a low fence. They cope well with cold but suffer in hot summers, and they need a dry run to keep their foot feathers clean. They suit families and beginners who have room for a big, gentle bird.",
+    "sources": [
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/brahma-chicken/",
+      "https://en.wikipedia.org/wiki/Brahma_chicken",
+      "https://blog.meyerhatchery.com/2021/12/breed-spotlight-the-brahma/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

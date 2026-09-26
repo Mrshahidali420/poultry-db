@@ -1,0 +1,33 @@
+{
+  "breed_id": "easter-egger",
+  "status": "fixed",
+  "changes": "Several values were credited to Star Milling, whose text only gives about 280 eggs a year. Eggs per year min changed from 250 to 200 (High Plains Journal gives 200 to 280; Star Milling confirms 280 as the top). Temperament changed from friendly, hardy, active forager to friendly, docile, curious (High Plains Journal); hardy and forager are not temperament. Broodiness changed from occasional, not an allowed value, to low (High Plains Journal: not usually broody). Cold hardy, heat tolerant and beginner friendly changed from boolean true to yes and re-sourced to High Plains Journal, which states each plainly. Egg size medium to large re-sourced to High Plains Journal. Confirmed egg color, egg purpose and US hatchery origin from Wikipedia. Weights left empty: no reviewed source gives a large fowl figure.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Easter_egger",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 200, "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" },
+    "temperament": { "value": "friendly, docile, curious", "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" },
+    "broodiness": { "value": "low", "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" },
+    "beginner_friendly": { "value": "yes", "source_url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/" }
+  },
+  "sources": [
+    { "url": "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/", "publisher": "High Plains Journal", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "beginner_friendly"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Easter_egger", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "purpose", "origin_country", "varieties", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Easter Egger is not a true breed but an American hatchery mix. It comes from crossing a bird that carries the blue egg gene with a brown egg layer, so no poultry standard covers it, and it is sometimes sold as \"Americana\", which is a different thing from the Ameraucana breed. Birds come in any color, and many have muffs, beards and a small pea comb. Their legs may be gray, yellow or greenish. The big draw is the eggs: shells may be blue, green, olive, brown or even pinkish, and each hen keeps the same shade for life. Hens lay about 200 to 280 medium to large eggs a year and seldom go broody. They are friendly, docile and curious, cope with both hot and cold weather, and make an easy choice for beginners and families.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Easter_egger",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://hpj.com/2026/04/20/breaking-down-the-breed-easter-egger/"
+    ]
+  }
+}

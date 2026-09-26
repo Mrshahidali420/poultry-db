@@ -1,0 +1,31 @@
+{
+  "breed_id": "dominique-chicken",
+  "status": "fixed",
+  "changes": "Egg count minimum changed from 200 (Wikipedia) to 230: Livestock Conservancy and Star Milling both give 230 to 275 a year. Weights switched from the bottom of the Wikipedia range (1.75 and 2.0 kg) to the US figures from Livestock Conservancy, hen 5 lb (2.3 kg) and cock 7 lb (3.2 kg), with the lighter Wikipedia figures (hen 1.8 kg, cock 2.0 kg, lower end of the ranges) kept as flagged alternatives. Temperament list turned into the phrase calm, friendly, docile (Livestock Conservancy, Star Milling). Conservation status set to the current Watch listing; the pre-2003 Critical listing was history. Medium light to dark brown eggs, broodiness varying by line, cold and heat tolerance, beginner suitability, dual purpose and US origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/dominique-chicken/",
+    "https://en.wikipedia.org/wiki/Dominique_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 230, "source_url": "https://livestockconservancy.org/dominique-chicken/" },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://livestockconservancy.org/dominique-chicken/", "conflict": true, "alternatives": [{ "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" }] },
+    "rooster_weight_kg": { "value": 3.2, "source_url": "https://livestockconservancy.org/dominique-chicken/", "conflict": true, "alternatives": [{ "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Dominique_chicken" }] },
+    "temperament": { "value": "calm, friendly, docile", "source_url": "https://livestockconservancy.org/dominique-chicken/" },
+    "conservation_status": { "value": "Watch (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/dominique-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/dominique-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "beginner_friendly", "purpose", "origin_country", "comb", "skin_color", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "broodiness", "origin_country", "comb"] },
+    { "url": "https://en.wikipedia.org/wiki/Dominique_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "purpose", "origin_country", "comb", "earlobe_color", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Dominique is counted as the oldest American chicken breed. Its roots are unclear: it may come from fowl that colonists brought from southern England, and barred birds of this kind were common on American farms by the 1750s. In the 1860s Dominiques were crossed with Black Javas to create the Plymouth Rock, and later rules reserved the Dominique name for rose combed birds. The feathers are barred in light and dark gray, a pattern called cuckoo or hawk colored, and the low rose comb ends in a short spike. Roosters weigh about 7 pounds and hens about 5. Hens lay roughly 230 to 275 medium brown eggs a year; some lines go broody and make good mothers. Dominiques are calm, friendly birds and forage well. Their tight feathers and small comb resist frostbite, and they also cope with hot, humid summers. They are a solid pick for families and first time keepers.",
+    "sources": [
+      "https://livestockconservancy.org/dominique-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Dominique_chicken"
+    ]
+  }
+}

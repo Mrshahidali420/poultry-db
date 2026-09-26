@@ -1,0 +1,30 @@
+{
+  "breed_id": "phoenix-chicken",
+  "status": "fixed",
+  "changes": "Eggs per year were a mix: the maximum of 120 was Wikipedia's figure for bantam hens, not large fowl. Set to 52 to 126 from the Livestock Conservancy (Wikipedia gives about 45 for standard hens, which sits just under that). Egg color yellowish-white set to cream to tinted, which matches the Livestock Conservancy text and is close to Wikipedia. Temperament list cut to docile, independent (the Livestock Conservancy fact box). Weights 2.5 kg and 1.8 kg (5.5 lb and 4 lb), small to medium eggs, broody hens, heat tolerance, exhibition purpose, five-point single comb and German origin confirmed by the Livestock Conservancy, Wikipedia and Star Milling.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Phoenix_chicken",
+    "https://livestockconservancy.org/phoenix-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 52, "source_url": "https://livestockconservancy.org/phoenix-chicken/" },
+    "eggs_per_year_max": { "value": 126, "source_url": "https://livestockconservancy.org/phoenix-chicken/" },
+    "egg_color": { "value": "cream to tinted", "source_url": "https://livestockconservancy.org/phoenix-chicken/" },
+    "temperament": { "value": "docile, independent", "source_url": "https://livestockconservancy.org/phoenix-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/phoenix-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "heat_tolerant", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Phoenix_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "purpose", "bantam_available", "varieties", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["broodiness", "origin_country", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Phoenix is a long-tailed show chicken made in Germany in the late 1800s by Hugo du Roi, the first head of the German national poultry club. Japanese long-tailed birds related to the Onagadori did poorly in the European cold, so he crossed them with hardier breeds such as the Leghorn, Malay and Old English Game. The Phoenix lost the gene that stops yearly molting, yet a rooster's sickle feathers can still reach 2 to 5 feet with good care. Only males grow the long tail. Common colors include silver, gold and black-breasted red. Roosters weigh about 5.5 pounds and hens about 4 pounds. Hens are fair layers of roughly 52 to 126 small to medium cream or tinted eggs a year, and they go broody and raise chicks well. The birds are docile but aloof and need high perches to keep tails clean. They do best in warm climates with room to roam.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phoenix_chicken",
+      "https://livestockconservancy.org/phoenix-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breed_id": "pyncheon",
+  "status": "fixed",
+  "changes": "Temperament was a list that mixed in a flight trait (friendly, strong flyer); replaced with friendly, docile (Wikipedia says friendly, The Featherbrain says docile). High broodiness confirmed by both. Small white eggs, crest, single comb with tassel, Mille Fleur pattern and northeastern US origin checked against Wikipedia. The Featherbrain lists origin as Europe, which matches the Dutch or Belgian ancestry Wikipedia gives, so the US origin stays. Egg color and size have only one publisher; the only other pages found were forums, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Pyncheon",
+    "https://www.thefeatherbrain.com/blog/pyncheon-bantam-chicken-hatcheries"
+  ],
+  "fixes": {
+    "temperament": { "value": "friendly, docile", "source_url": "https://en.wikipedia.org/wiki/Pyncheon" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Pyncheon", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "broodiness", "varieties", "crest", "comb", "origin_country", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://www.thefeatherbrain.com/blog/pyncheon-bantam-chicken-hatcheries", "publisher": "The Featherbrain", "source_confidence": "page", "supports": ["temperament", "broodiness"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Pyncheon is a rare true bantam, meaning it has no large fowl version. It was bred in the northeastern United States from birds thought to have come over from the Netherlands or Belgium, and it is one of the older American bantams. Nathaniel Hawthorne kept the breed and wrote its birds into The House of the Seven Gables. The Pyncheon wears a small crest behind a single comb that often bends into an S shape, and most birds show a Mille Fleur type of spotted pattern. Hens are fair layers of small white eggs and go broody often, so they make willing mothers. The birds are friendly and docile, but like most bantams they fly well, so a covered run helps. The American Bantam Association recognizes the breed, while the American Poultry Association does not.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pyncheon",
+      "https://www.thefeatherbrain.com/blog/pyncheon-bantam-chicken-hatcheries"
+    ]
+  }
+}

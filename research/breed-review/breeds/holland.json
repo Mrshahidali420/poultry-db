@@ -1,0 +1,34 @@
+{
+  "breed_id": "holland",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose to dual (house style). Egg size medium to medium to large (Livestock Conservancy says medium to large and large; Wikipedia says medium). Added 200 to 240 eggs a year, temperament calm and cold hardy yes from the Livestock Conservancy (winter hardy, fairly cold tolerant, calm); Star Milling also says calm. Weights kept at the APA standard from Wikipedia (8.5 lb cock, 6.5 lb hen) but flagged as conflicts, because the Livestock Conservancy breed facts give 6 lb male and 4 lb female. White eggs, US origin (Rutgers, APA 1949) confirmed by both.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Holland_chicken",
+    "https://livestockconservancy.org/holland-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://livestockconservancy.org/holland-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/holland-chicken/" },
+    "eggs_per_year_min": { "value": 200, "source_url": "https://livestockconservancy.org/holland-chicken/" },
+    "eggs_per_year_max": { "value": 240, "source_url": "https://livestockconservancy.org/holland-chicken/" },
+    "temperament": { "value": "calm", "source_url": "https://livestockconservancy.org/holland-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/holland-chicken/" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://en.wikipedia.org/wiki/Holland_chicken", "conflict": true, "alternatives": [{ "value": 1.8, "source_url": "https://livestockconservancy.org/holland-chicken/" }] },
+    "rooster_weight_kg": { "value": 3.9, "source_url": "https://en.wikipedia.org/wiki/Holland_chicken", "conflict": true, "alternatives": [{ "value": 2.7, "source_url": "https://livestockconservancy.org/holland-chicken/" }] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/holland-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "origin_year_or_period", "purpose", "comb", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Holland_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "purpose", "varieties", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Holland is an American chicken created at Rutgers Breeding Farms in New Jersey in the 1930s. At the time, buyers paid more for white eggs, but most farm breeds laid brown ones, so the goal was a meaty farm bird that laid white eggs. Breeders crossed stock from Holland with Leghorns, Rhode Island Reds and other breeds, and the APA accepted it in 1949. It comes in barred and white, and the white may now be gone. The skin and legs are yellow and the single comb is bright red. Hens lay about 200 to 240 white, medium to large eggs a year. The APA standard calls for an 8.5 pound cock and a 6.5 pound hen. Hollands are calm, quiet and friendly, forage well and handle cold, though cocks can get frostbitten combs. They suit homesteads and families but dislike tight confinement. It is one of the rarest American breeds.",
+    "sources": [
+      "https://livestockconservancy.org/holland-chicken/",
+      "https://en.wikipedia.org/wiki/Holland_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

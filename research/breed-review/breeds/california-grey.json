@@ -1,0 +1,29 @@
+{
+  "breed_id": "california-grey",
+  "status": "fixed",
+  "changes": "Possible duplicate of california-gray (same breed, US spelling). Purpose dual-purpose to dual (value style). Autosexing true to yes (value style). Hen weight 2 kg to 1.8 kg: Star Milling gives birds as 4 to 6 pounds without splitting by sex, so the low end (4 lb) is used for hens and the high end (6 lb, 2.7 kg) kept for roosters. Temperament calm cleared: the cited Star Milling text says nothing about temperament. Removed the first name James from notable_traits and history_summary because Star Milling says James Dryden and Wikipedia says Horace Dryden; the family name is kept. Confirmed large white eggs and United States origin in the 1930s against both sources.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/California_Gray"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/California_Gray" },
+    "autosexing": { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/California_Gray" },
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "temperament": null,
+    "notable_traits": { "value": ["developed in the 1930s by crossing a Barred Plymouth Rock rooster with a White Leghorn hen", "naturally autosexing, grey barred plumage", "never recognized by the American Poultry Association"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "history_summary": { "value": "The California Grey was developed in California in the 1930s by the Dryden poultry breeding program to be a dual-purpose hen laying large white eggs that stayed productive for more than two years. Its Barred Rock x White Leghorn cross gave naturally autosexing grey barred plumage, but it was never recognized by the American Poultry Association and is now rare.", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "hen_weight_kg", "rooster_weight_kg", "autosexing", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/California_Gray", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "autosexing", "origin_country", "origin_year_or_period", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The California Grey is an uncommon American breed first produced in California during the 1930s. Breeder Dryden mated a Barred Plymouth Rock rooster to White Leghorn hens, aiming for a hen that laid large white eggs and kept up production past her second year while still giving some meat. The result has gray barred plumage and is autosexing, which lets keepers tell cockerels from pullets soon after hatch. Grown birds weigh about 4 to 6 pounds, lighter than most dual purpose breeds. Cocks of the breed are also used with White Leghorn hens to make the California White laying hybrid. It never won a place in the American Poultry Association standard and remains rare today. It fits a small flock owner who values white eggs and easy chick sexing over show points.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/California_Gray"
+    ]
+  }
+}

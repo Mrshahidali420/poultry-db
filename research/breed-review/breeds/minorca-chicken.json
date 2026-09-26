@@ -1,0 +1,34 @@
+{
+  "breed_id": "minorca-chicken",
+  "status": "fixed",
+  "changes": "Weights were taken from the small Spanish Menorquina type (2.2 kg hen, 2.8 kg cock); switched to the US standard from Livestock Conservancy, 7.5 lb hen (3.4 kg) and 9 lb cock (4.1 kg), with the Spanish figures kept as flagged alternatives. The British standard range in Wikipedia (hens 2.7 to 3.6 kg, cocks 3.2 to 3.6 kg) sits between the two. Egg count minimum set to 140 (Livestock Conservancy gives 140 to 220 depending on strain) with Wikipedia's 120 for the Spanish type as a flagged alternative. Egg size written as extra large (Livestock Conservancy: very large). Temperament list turned into the phrase active, flighty, not aggressive. Purpose kept eggs; the ornamental alternative dropped since both sources name egg laying as the farm use. White eggs, low broodiness, heat tolerance, poor cold tolerance and Spanish origin confirmed by Livestock Conservancy, Star Milling and Wikipedia.",
+  "sources_checked": [
+    "https://livestockconservancy.org/minorca-chicken/",
+    "https://en.wikipedia.org/wiki/Minorca_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/minorca/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.4, "source_url": "https://livestockconservancy.org/minorca-chicken/", "conflict": true, "alternatives": [{ "value": 2.2, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }] },
+    "rooster_weight_kg": { "value": 4.1, "source_url": "https://livestockconservancy.org/minorca-chicken/", "conflict": true, "alternatives": [{ "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }] },
+    "eggs_per_year_min": { "value": 140, "source_url": "https://livestockconservancy.org/minorca-chicken/", "conflict": true, "alternatives": [{ "value": 120, "source_url": "https://en.wikipedia.org/wiki/Minorca_chicken" }] },
+    "egg_size": { "value": "extra large", "source_url": "https://livestockconservancy.org/minorca-chicken/" },
+    "temperament": { "value": "active, flighty, not aggressive", "source_url": "https://livestockconservancy.org/minorca-chicken/" },
+    "purpose": { "value": "eggs", "source_url": "https://livestockconservancy.org/minorca-chicken/" },
+    "egg_color": { "value": "white", "source_url": "https://livestockconservancy.org/minorca-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/minorca-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "beginner_friendly", "purpose", "origin_country", "comb"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "broodiness", "heat_tolerant", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Minorca_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "bantam_available", "comb", "skin_color", "earlobe_color", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Minorca takes its name from Menorca, a Spanish island in the Mediterranean, but British breeders shaped the modern show and farm bird, especially in Devon and Cornwall. It reached the United States in 1884. It is the largest of the Mediterranean breeds, with glossy greenish black feathers in the best known variety, a big red comb and large white earlobes. White, buff and rose comb forms also exist. Under the US standard, roosters weigh about 9 pounds and hens about 7.5, though the native Spanish birds are much smaller. Hens lay about 140 to 220 very large white eggs a year, depending on the strain, and do not go broody. Minorcas are active, flighty and hardy foragers that dislike close confinement. They cope well with heat, but their big combs are prone to frostbite. They are not cuddly and are a poor fit for children.",
+    "sources": [
+      "https://livestockconservancy.org/minorca-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Minorca_chicken"
+    ]
+  }
+}

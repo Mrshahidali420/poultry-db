@@ -1,0 +1,22 @@
+{
+  "breed_id": "dong-tao-chicken",
+  "status": "approved",
+  "changes": "Confirmed meat purpose, Vietnamese origin, the enlarged legs and feet, the incubation problem and the slaughter weight of 3 to 5 kg against Wikipedia; the FAO DAD-IS record for Viet Nam agrees on meat and fancy use, origin in Hung Yen Province (where Khoai Chau District lies) and very big shanks. Rooster weight 6 kg is kept but it is the upper figure Wikipedia says males can reach, not a standard weight. No egg or temperament facts are published, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Dong_Tao_chicken",
+    "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Dong%20Tao&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Dong_Tao_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "rooster_weight_kg", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Dong%20Tao&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Dong Tao, sometimes called the Dragon Chicken, is a rare meat breed from Dong Tao village in Khoai Chau District, Hung Yen Province, near Hanoi in northern Vietnam. Its trademark is a pair of hugely thick, scaly legs and feet on a heavy frame. The meat is a costly delicacy in Vietnam, and in the past these birds were raised only for the royal court and high officials. They are hard to breed. Hens tend to crush their own eggs under those bulky feet, so keepers usually hatch the eggs in an incubator, and the birds cope poorly with sudden shifts in temperature. Growth is slow, taking eight months to a year to reach a table weight of about 6.5 to 11 pounds, and males can top 13 pounds. It suits specialist breeders more than casual backyard keepers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dong_Tao_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Dong%20Tao&lang=en"
+    ]
+  }
+}

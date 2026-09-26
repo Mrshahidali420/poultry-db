@@ -1,0 +1,37 @@
+{
+  "breed_id": "la-fl-che-chicken",
+  "status": "fixed",
+  "changes": "Weights were stored as min/max objects; set to numbers. Rooster 3.6 kg from the Livestock Conservancy's 8 lb, inside Wikipedia's 3.5 to 4 kg. Hen 2.9 kg from the Livestock Conservancy's 6.5 lb, with Wikipedia's European 3.0 kg (low end of 3 to 3.5 kg) kept as a flagged alternative. Eggs per year minimum 180 changed to 140: the Livestock Conservancy and Star Milling both give 140 to 220, and Wikipedia's 180 sits inside that. Egg size set to large to extra large (Livestock Conservancy and Star Milling agree). Temperament set to active, flighty (the Livestock Conservancy fact box and text). Heat tolerant yes added (Livestock Conservancy: prefers warm climates). White eggs, low broodiness, not cold hardy, dual purpose, v-shaped comb and French origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken",
+    "https://livestockconservancy.org/la-fleche-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/la-fleche/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/la-fleche-chicken/", "conflict": true, "alternatives": [ { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" } ] },
+    "eggs_per_year_min": { "value": 140, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" },
+    "eggs_per_year_max": { "value": 220, "source_url": "https://livestockconservancy.org/la-fleche-chicken/" },
+    "egg_size": { "value": "large to extra large", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" },
+    "egg_color": { "value": "white", "source_url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken" },
+    "temperament": { "value": "active, flighty", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/la-fleche-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/la-fleche-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "beginner_friendly", "origin_country", "purpose", "comb", "skin_color", "conservation_status", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "bantam_available", "varieties", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "broodiness", "origin_country", "purpose", "comb"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/la-fleche/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The La Fleche is a rare French chicken named after the town of La Fleche in the Sarthe, near Le Mans. Its roots are often traced back to the 1400s, and it was long famous for fattened capons and pullets sold in Paris markets. The bird is mostly black, with tight feathers, large red wattles, white earlobes and a comb made of two upright spikes that look like horns. France also recognizes blue-laced, cuckoo, pearl-grey and white. It is heavier than it looks, with roosters near 8 pounds and hens around 6.5 to 7 pounds. Hens lay about 140 to 220 large to extra large white eggs a year, mostly from spring to fall, and they do not go broody. These are active, flighty birds that avoid people and fly well, so they need a high fence. They like warm weather and struggle in the cold, and they are a poor choice as pets.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken",
+      "https://livestockconservancy.org/la-fleche-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/la-fleche/"
+    ]
+  }
+}

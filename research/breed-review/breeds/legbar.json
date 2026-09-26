@@ -1,0 +1,35 @@
+{
+  "breed_id": "legbar",
+  "status": "fixed",
+  "changes": "Egg count changed from 200 to 250 (a GitHub list) to 160 to 200 (Star Milling), which Meyer Hatchery's 3 to 4 eggs a week and Wikipedia's 180 or more also fit. Egg size changed from large to medium (Meyer Hatchery). Egg color changed from Sky Blue to sky blue or pale green (Star Milling, Meyer Hatchery, Wikipedia); the blue shell belongs to the cream Legbar, the variety sold in the US. Temperament replaced with active, curious, chatty (Meyer Hatchery, Star Milling); the old value mixed in noise and running speed. Cold hardy changed from true to partly because Meyer Hatchery warns the large single comb is prone to frostbite in hard winters. Heat tolerant cleared: only the GitHub list claimed it. Added weights from the Wikipedia infobox (British standard ranges 2.0 to 2.7 kg hen, 2.7 to 3.4 kg cock), using the midpoints. Origin and autosexing confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Legbar",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://blog.meyerhatchery.com/2022/04/breed-spotlight-the-legbar/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 160, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_size": { "value": "medium", "source_url": "https://blog.meyerhatchery.com/2022/04/breed-spotlight-the-legbar/" },
+    "egg_color": { "value": "sky blue or pale green", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "temperament": { "value": "active, curious, chatty", "source_url": "https://blog.meyerhatchery.com/2022/04/breed-spotlight-the-legbar/" },
+    "cold_hardy": { "value": "partly", "source_url": "https://blog.meyerhatchery.com/2022/04/breed-spotlight-the-legbar/" },
+    "heat_tolerant": null,
+    "hen_weight_kg": { "value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Legbar" },
+    "rooster_weight_kg": { "value": 3.1, "source_url": "https://en.wikipedia.org/wiki/Legbar" }
+  },
+  "sources": [
+    { "url": "https://blog.meyerhatchery.com/2022/04/breed-spotlight-the-legbar/", "publisher": "Meyer Hatchery", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "cold_hardy", "origin_country", "autosexing", "crest"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "temperament", "broodiness", "origin_country", "autosexing", "crest"] },
+    { "url": "https://en.wikipedia.org/wiki/Legbar", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "autosexing", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Legbar is a British egg breed made at Cambridge University by the geneticists Reginald Punnett and Michael Pease, who crossed barred Plymouth Rocks with Brown Leghorns. Its big selling point is autosexing: female chicks hatch with a dark brown stripe down the back, males with a paler, less distinct one, so keepers can tell them apart on day one. There are gold, silver and cream varieties. The cream Legbar, the one most US hatcheries sell, carries Araucana blood, wears a small swept back crest and lays sky blue or pale green eggs. Hens lay roughly 160 to 200 medium eggs a year and seldom go broody. Adults are light birds, about 4.5 to 7.5 pounds under the British standard. Legbars are active, curious and talkative, forage well and do best with room to roam. Their large single comb can get frostbite, so very cold areas need extra care.",
+    "sources": [
+      "https://blog.meyerhatchery.com/2022/04/breed-spotlight-the-legbar/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Legbar"
+    ]
+  }
+}

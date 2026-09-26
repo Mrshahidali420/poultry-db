@@ -1,0 +1,28 @@
+{
+  "breed_id": "red-shaver",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose (not a valid value and not right for a commercial laying hybrid) set to eggs: the Shaver line owner describes its brown hen as bred for high egg output, although Star Milling calls it dual purpose. Temperament list turned into quiet, calm. cold_hardy true turned into yes. Kept 305 to 315 large brown eggs, hen 1.8 kg (middle of Star Milling's 3 to 5 lb), sex-linked chicks and Canadian origin, all from Star Milling. The Shaver company pages confirm Canadian roots, brown eggs of 62 g and a hen weight near 1.9 kg, but they sell the bird as Shaver Brown and never use the name Red Shaver, so they are marked domain level and the record stays flagged.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.shaver-poultry.com/",
+    "https://www.shaver-poultry.com/en/product/shaver-brown/"
+  ],
+  "fixes": {
+    "purpose": { "value": "eggs", "source_url": "https://www.shaver-poultry.com/en/product/shaver-brown/" },
+    "temperament": { "value": "quiet, calm", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "temperament", "cold_hardy", "autosexing", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://www.shaver-poultry.com/en/product/shaver-brown/", "publisher": "Shaver (Hendrix Genetics)", "source_confidence": "domain", "supports": ["egg_color", "egg_size", "purpose", "hen_weight_kg"] },
+    { "url": "https://www.shaver-poultry.com/", "publisher": "Shaver (Hendrix Genetics)", "source_confidence": "domain", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Red Shaver is a sex-linked laying hybrid that comes from Canada, where the Shaver line has its roots. Because of the cross, chicks can be sorted by color the day they hatch. Pullets are reddish brown with white underfeathers, while cockerels are white with a few red marks. Grown birds are light, at roughly 3 to 5 pounds. Hens are known for heavy laying, with reports of about 305 to 315 large brown eggs a year. They have a name for being quiet and calm, which makes them easy to keep in a backyard flock. Their Canadian background means they handle cold weather well. This bird suits keepers who care most about a steady supply of eggs rather than showing or breeding their own chicks.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.shaver-poultry.com/"
+    ]
+  }
+}

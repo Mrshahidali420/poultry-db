@@ -1,0 +1,30 @@
+{
+  "breed_id": "niederrheiner",
+  "status": "fixed",
+  "changes": "Temperament list replaced with docile (the flying note is behavior, not temperament). Added large fowl weights from TierWelt's breed profile: cock 3.5 to 4 kg, hen 2.5 to 3 kg. Added egg size medium (55 g eggs per Wikipedia and TierWelt). Purpose set to dual with meat kept as a conflicting alternative: Wikipedia says it was bred as a meat chicken, TierWelt calls it a dual purpose bird laying about 200 eggs a year. Confirmed 200 eggs a year and cream to light brown shells with both sources, and German origin with FAO DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Niederrheiner",
+    "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Niederrheiner&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "docile", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" },
+    "hen_weight_kg": { "value": { "min": 2.5, "max": 3 }, "source_url": "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025" },
+    "rooster_weight_kg": { "value": { "min": 3.5, "max": 4 }, "source_url": "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025" },
+    "egg_size": { "value": "medium", "source_url": "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025" },
+    "purpose": { "value": "dual", "source_url": "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025", "conflict": true, "alternatives": [{ "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Niederrheiner" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Niederrheiner", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "temperament", "broodiness", "origin_country", "purpose", "varieties", "feathered_legs", "skin_color", "bantam_available", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025", "publisher": "TierWelt", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "skin_color", "bantam_available"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Niederrheiner&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Niederrheiner is a German chicken from the Lower Rhine region near the Dutch border. Breeders created it in the years before World War Two by crossing the North Holland Blue with several heavy and light breeds, and Germany recognized it in 1943. It looks much like the North Holland Blue but has bare legs. Recognized colors include birchen, crele, silver and two cuckoo patterns, lemon and blue, and a bantam version exists. Roosters weigh about 7.5 to 9 pounds and hens about 5.5 to 6.5 pounds. The bird grows fast and has white skin and fine white meat, and hens lay around 200 cream to light brown eggs a year of about 55 grams. Niederrheiners are docile and seldom fly, but hens rarely go broody. The breed is endangered, with about 1,660 breeding birds counted in 2021.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Niederrheiner",
+      "https://www.tierwelt.ch/artikel/geflugel/produktives-zwiehuhn-404025"
+    ]
+  }
+}

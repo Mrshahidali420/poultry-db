@@ -1,0 +1,25 @@
+{
+  "breed_id": "coucou-des-flandres",
+  "status": "fixed",
+  "changes": "Confirmed about 150 cream eggs a year, good sitters (broodiness high), cuckoo as the only variety, single comb, clean pinkish-white legs, Belgian origin and critically endangered status against Wikipedia; FAO DAD-IS lists the breed in Belgium (Vlaanderse Koekoek) and France with egg use. Added egg_size large because Wikipedia gives an egg weight of about 60 g, which is large on the US scale. Added hen weight 2.5 kg and rooster weight 3.0 kg, the low ends of the Wikipedia infobox ranges (2.5 to 3.0 kg and 3.0 to 3.5 kg). No second publisher with breed facts could be reached, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Coucou_des_Flandres",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Coucou%20des%20Flandres&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" },
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" },
+    "rooster_weight_kg": { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Coucou_des_Flandres", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "varieties", "comb", "feathered_legs", "origin_country", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Coucou%20des%20Flandres&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Coucou des Flandres, known in Dutch as the Vlaamse Koekoek, is an old farm chicken from Flanders in Belgium, tied to the Dender river area. It is probably close kin to the Malines and may show what that breed looked like before Asian birds were crossed in during the 1800s. The breed died out around the First World War and was rebuilt in the years before the Second. A 2005 count found only 53 birds in Belgium, though it is more common across the border in northern France. Every bird is cuckoo patterned, with a single comb and bare, pinkish white legs. Hens weigh about 5.5 to 6.5 pounds and roosters about 6.5 to 7.5 pounds. Hens lay around 150 cream eggs a year, each near 60 grams, and they sit well and raise chicks as good mothers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Coucou_des_Flandres"
+    ]
+  }
+}

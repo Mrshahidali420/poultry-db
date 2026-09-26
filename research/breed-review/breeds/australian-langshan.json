@@ -1,0 +1,26 @@
+{
+  "breed_id": "australian-langshan",
+  "status": "fixed",
+  "changes": "History summary: corrected the misspelled Wakefer to Wakfer, as Wikipedia has it. Everything else checked out: brown eggs, egg and show purpose, hen 2.7 kg and cock 3.2 kg (Wikipedia infobox), black, blue and white varieties, bantam, single comb, white skin, feathered outer toe and Australian origin. The Livestock Conservancy's Langshan page confirms the Australian type was developed in Australia from Chinese birds imported in 1905 plus Croad and Modern Langshans, and is now leggier and bred mostly for show; the FAO DAD-IS record for Australia lists it as a heavy soft feathered breed at risk. Eggs and weights rest on Wikipedia alone, and no source gives egg counts, temperament or climate for this type, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Australian_Langshan",
+    "https://livestockconservancy.org/langshan-chicken/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Langshan&lang=en"
+  ],
+  "fixes": {
+    "history_summary": { "value": "The breed was developed in Australia in the early 20th century by crossing Croad Langshans, Orpingtons, Wakfer Chinese Langshans and Modern Langshans. It gained wide popularity in Australia by the 1950s and was formally admitted to the Australian Poultry Standard in 1998.", "source_url": "https://en.wikipedia.org/wiki/Australian_Langshan" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Australian_Langshan", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "bantam_available", "varieties", "origin_year_or_period", "feathered_legs", "comb", "skin_color", "notable_traits", "history_summary"] },
+    { "url": "https://livestockconservancy.org/langshan-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "domain", "supports": ["origin_country", "origin_year_or_period"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Langshan&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Australian Langshan is a show and utility chicken bred in Australia in the early 1900s. Breeders built it from Croad Langshans, Orpingtons, Chinese Langshans imported in 1905 and Modern Langshans. It was widely kept across Australia by the 1950s and entered the first Australian Poultry Standard in 1998, but it is little known elsewhere. The bird stands tall and upright on long legs, with a medium red single comb and, ideally, a feathered outer toe on each foot. It comes in glossy black with a green sheen, an even blue grey, and pure white, and there is a bantam version. Hens weigh about 6 pounds and cocks about 7. Hens lay brown eggs. Early birds were valued as utility layers, while modern lines are leggier and kept mainly for exhibition, so the breed now suits show keepers most.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Australian_Langshan",
+      "https://livestockconservancy.org/langshan-chicken/"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "breed_id": "robusta-lionata",
+  "status": "fixed",
+  "changes": "Egg count 160 to 170, pinkish (salmon) shells, dual purpose, yellow skin and legs, red earlobes, single comb and creation at the Rovigo poultry station from Buff Orpington and White America confirmed by Agraria.org, which reproduces the Veneto Agricoltura breed sheet. Rooster weight 3.8 to 4.0 kg: 3.8 was the bottom of the old ANSAV range (3.8 to 4.2 kg) while Veneto Agricoltura gives 4.0 to 4.5 kg; 4.0 sits inside both. Hen weight 2.8 kg fits both ranges and was kept. Added broodiness high (Agraria.org: strong urge to sit and rear chicks). Cleared the empty varieties field that had no source. Kept in review: some key facts have fewer than two publishers (strict rule).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Robusta_Lionata",
+    "https://www.agraria.org/polli/robustalionata.htm"
+  ],
+  "fixes": {
+    "rooster_weight_kg": {
+      "value": 4,
+      "source_url": "https://www.agraria.org/polli/robustalionata.htm"
+    },
+    "broodiness": {
+      "value": "high",
+      "source_url": "https://www.agraria.org/polli/robustalionata.htm"
+    },
+    "varieties": null
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Robusta_Lionata",
+      "publisher": "Wikipedia",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "eggs_per_year_max",
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "purpose",
+        "comb",
+        "earlobe_color",
+        "skin_color",
+        "origin_country",
+        "origin_year_or_period",
+        "notable_traits",
+        "history_summary"
+      ]
+    },
+    {
+      "url": "https://www.agraria.org/polli/robustalionata.htm",
+      "publisher": "Agraria.org (Veneto Agricoltura breed sheet)",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "eggs_per_year_max",
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "broodiness",
+        "purpose",
+        "comb",
+        "earlobe_color",
+        "skin_color",
+        "origin_country",
+        "origin_year_or_period"
+      ]
+    }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Robusta Lionata is a modern Italian dual-purpose chicken from Rovigo in the Veneto. Staff at the local poultry research station made it in the early 1960s by crossing Buff Orpingtons with a white commercial strain known as White America. It looks much like a Buff Orpington, warm buff all over with a black tail that shines green, but it has yellow skin and yellow legs, which Italian meat buyers prefer. It has a single comb and red earlobes. Roosters weigh about 8.8 to 9.9 pounds and hens about 6.2 to 7.3. Hens lay some 160 to 170 pinkish eggs a year, and they go broody readily and raise their own chicks. Young birds reach about 4 pounds in four months. The breed is rare, with only a few hundred breeding birds counted in 2007, and it is part of a regional conservation program.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robusta_Lionata",
+      "https://www.agraria.org/polli/robustalionata.htm"
+    ]
+  }
+}

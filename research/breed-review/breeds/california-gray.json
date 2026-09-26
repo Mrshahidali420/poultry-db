@@ -1,0 +1,24 @@
+{
+  "breed_id": "california-gray",
+  "status": "fixed",
+  "changes": "Possible duplicate of california-grey (same breed, UK spelling). Added egg_size large from Wikipedia, which says the breed was made to lay large white eggs; Star Milling says the same. Confirmed white eggs, dual purpose, autosexing, United States origin and 1930s date against Wikipedia and Star Milling. No reliable page gives egg counts, weights or temperament (hatchery and breed guide pages returned errors, the rest were content farms), so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/California_Gray",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/California_Gray" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/California_Gray", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "autosexing", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "autosexing", "origin_country", "origin_year_or_period"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The California Gray is a rare American chicken bred in Modesto, California, during the 1930s. The Dryden poultry breeding work crossed Barred Plymouth Rocks with White Leghorns to get a bird that could give both meat and a steady supply of large white eggs. Adults wear barred gray feathers. The breed is autosexing, so chicks can be sorted into males and females at about one day old by their down. Birds weigh roughly 4 to 6 pounds. Cocks are also mated to White Leghorn hens to make the California White, a commercial laying hybrid. The American Poultry Association never accepted the breed into its standard, and it is not on the Livestock Conservancy priority list. It suits keepers who want white eggs from a bird with some table value and who like sexing chicks at hatch.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/California_Gray",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

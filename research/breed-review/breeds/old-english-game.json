@@ -1,0 +1,38 @@
+{
+  "breed_id": "old-english-game",
+  "status": "fixed",
+  "changes": "Temperament was a list of five traits; replaced with the short phrase active, flighty, aggressive (Livestock Conservancy, Oklahoma State). Egg color tinted replaced with white or tinted, which Livestock Conservancy and Oklahoma State both give; the old alternatives were the same fact twice. Egg size set to small to medium per Livestock Conservancy. Purpose conflict dropped: exhibition is confirmed by Livestock Conservancy and Oklahoma State (ornamental only); fighting is history, not current use. Weights kept at the Livestock Conservancy typical 4 lb male and 3.5 lb female, with the Oklahoma State standard weights (5 lb cock, 4 lb hen) added as flagged alternatives. Egg count range kept as 40 (Wikipedia) to 160 (Livestock Conservancy), with the conflict on the low end kept because the sources really differ and output depends on strain.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Old_English_Game",
+    "https://livestockconservancy.org/old-english-game-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/hard-feather/carlisle-old-english-game/",
+    "https://www.poultryclub.org/breeds/chickens/hard-feather/oxford-old-english-game/",
+    "https://breeds.okstate.edu/poultry/chickens/old-english-game-chickens.html"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, flighty, aggressive", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" },
+    "egg_color": { "value": "white or tinted", "source_url": "https://breeds.okstate.edu/poultry/chickens/old-english-game-chickens.html" },
+    "egg_size": { "value": "small to medium", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" },
+    "purpose": { "value": "exhibition", "source_url": "https://livestockconservancy.org/old-english-game-chicken/" },
+    "eggs_per_year_min": { "value": 40, "source_url": "https://en.wikipedia.org/wiki/Old_English_Game", "conflict": true, "alternatives": [{ "value": 100, "source_url": "https://livestockconservancy.org/old-english-game-chicken/" }] },
+    "hen_weight_kg": { "value": 1.6, "source_url": "https://livestockconservancy.org/old-english-game-chicken/", "conflict": true, "alternatives": [{ "value": 1.8, "source_url": "https://breeds.okstate.edu/poultry/chickens/old-english-game-chickens.html" }] },
+    "rooster_weight_kg": { "value": 1.8, "source_url": "https://livestockconservancy.org/old-english-game-chicken/", "conflict": true, "alternatives": [{ "value": 2.3, "source_url": "https://breeds.okstate.edu/poultry/chickens/old-english-game-chickens.html" }] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/old-english-game-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "beginner_friendly", "purpose", "origin_country", "skin_color"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/old-english-game-chickens.html", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "origin_country", "skin_color", "broodiness"] },
+    { "url": "https://en.wikipedia.org/wiki/Old_English_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "origin_country", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["broodiness", "lifespan_years", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Old English Game is an ancient British fowl whose ancestors were fighting cocks brought over in Roman times. After cockfighting was outlawed in 1849, breeders turned to showing it, and the British clubs later split it into the Carlisle and Oxford types. It is a small, upright bird with a broad chest, tight glossy feathers and a large tail, and it comes in many colors. American birds weigh about 4 pounds for males and 3.5 for females. Hens lay small white or lightly tinted eggs, anywhere from about 40 to 160 a year depending on strain, and they go broody and guard chicks fiercely. The birds are active, noisy and flighty, fly well, and fight other roosters. They handle cold but not heat and can live 15 years. They suit experienced keepers and exhibitors rather than beginners or children.",
+    "sources": [
+      "https://livestockconservancy.org/old-english-game-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/old-english-game-chickens.html",
+      "https://en.wikipedia.org/wiki/Old_English_Game",
+      "https://www.poultryclub.org/breeds/chickens/hard-feather/carlisle-old-english-game/"
+    ]
+  }
+}

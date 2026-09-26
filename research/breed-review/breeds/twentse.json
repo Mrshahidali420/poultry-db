@@ -1,0 +1,32 @@
+{
+  "breed_id": "twentse",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose to eggs: Wikipedia and Star Milling say it is kept as a layer or show bird, and Omlet says it was developed as a layer. Broodiness yes to high (Wikipedia: hens go broody; Omlet: very good mothers that do all the work). Temperament list replaced with active, independent, good natured (Omlet). Rooster weight 2.75 to 2.8 kg (one decimal); Wikipedia 2.75 and 1.8 kg agree with Omlet's 6 and 4 lb. Added eggs_per_year_max 200 (Star Milling about 200, Omlet up to 200) and cold hardy yes (Omlet: well adapted to cold). Off-white eggs, origin and history confirmed by Wikipedia and Star Milling.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Kraienkopp",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.omlet.us/breeds/chickens/fraienkoeppe_twentse/"
+  ],
+  "fixes": {
+    "purpose": { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" },
+    "broodiness": { "value": "high", "source_url": "https://www.omlet.us/breeds/chickens/fraienkoeppe_twentse/" },
+    "temperament": { "value": "active, independent, good natured", "source_url": "https://www.omlet.us/breeds/chickens/fraienkoeppe_twentse/" },
+    "rooster_weight_kg": { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/fraienkoeppe_twentse/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Kraienkopp", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "broodiness", "purpose", "origin_country", "origin_year_or_period", "varieties", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "origin_country", "purpose", "notable_traits"] },
+    { "url": "https://www.omlet.us/breeds/chickens/fraienkoeppe_twentse/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Twentse, known in German as the Kraienkopp, comes from the border country between the Netherlands and Germany. Breeders made it in the late 1800s by crossing local hens with Malay fowl, then adding silver duckwing Leghorn blood. Dutch shows first saw it in 1920, and German shows in 1925. The bird has yellow skin and a small walnut comb, with bright red wattles and earlobes, and comes in silver, gold and several other colors. Roosters weigh about 6 pounds and hens about 4 pounds. Hens lay up to around 200 off-white eggs a year, go broody and raise chicks well. The Twentse is active, alert and independent, with a hint of Malay fire, though it tames if raised by hand. It forages very well and stands up to cold, so it suits free range keepers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kraienkopp",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.omlet.us/breeds/chickens/fraienkoeppe_twentse/"
+    ]
+  }
+}

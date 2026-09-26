@@ -1,0 +1,19 @@
+{
+  "breed_id": "valdarnese",
+  "status": "fixed",
+  "changes": "Hen weight 2.25 to 2.3 kg (one decimal; Wikipedia range 2.0 to 2.5 kg). Comb value changed from a description (large, blood-red, five or six points) to the comb type single, as in the Wikipedia infobox. Varieties changed to white only: the Valdarnese is the white breed, and the four colors Pochini described belong to the old Valdarno type as a whole. Other fields (135 eggs, high broodiness, meat purpose, ivory-white eggs, 3.1 kg rooster, Italy, 1899, yellow skin, earlobes, traits, history) match Wikipedia. Note: the FAO DAD-IS Valdarno record calls the Valdarnese a local white strain, not a breed; it is not linked here and its facts were not used. Only one publisher, so needs_review stays true.",
+  "sources_checked": ["https://en.wikipedia.org/wiki/Valdarnese"],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Valdarnese" },
+    "comb": { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Valdarnese" },
+    "varieties": { "value": ["white"], "source_url": "https://en.wikipedia.org/wiki/Valdarnese" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Valdarnese", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "broodiness", "purpose", "varieties", "origin_country", "origin_year_or_period", "conservation_status", "skin_color", "comb", "earlobe_color", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Valdarnese is a big white meat chicken from the upper valley of the Arno river in Tuscany, between Florence and Arezzo. White chickens from this valley were first written about in 1899. The breed had a club by 1955, but it faded fast in the 1960s as old sharecropping farms broke up and cheap White Leghorn chicks took over, and by the end of the century it had nearly vanished. A rescue program began in the 1990s, and Tuscany now keeps a breed register and standard. Around 1,200 breeding birds were counted in 2007. The plumage is white, the skin yellow and the legs orange yellow, with a large red single comb. Roosters weigh about 6.4 to 7.3 pounds and hens about 4.4 to 5.5 pounds. Hens go broody often, so they lay only about 135 ivory eggs a year. Its firm meat is the main reason it is raised.",
+    "sources": ["https://en.wikipedia.org/wiki/Valdarnese"]
+  }
+}

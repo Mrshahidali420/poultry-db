@@ -1,0 +1,24 @@
+{
+  "breed_id": "onagadori",
+  "status": "approved",
+  "changes": "All filled fields check out. Ornamental purpose, the three Japanese color varieties, non-molting tail and special hutches are confirmed by both Wikipedia and Star Milling; Japanese origin in Kochi Prefecture (Shikoku) in the 17th century and fancy use are also confirmed by the FAO DAD-IS Japan record. Single comb and white earlobes rest on Wikipedia only. No reliable source gives egg output, egg color or weights, so those stay empty.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Onagadori",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Onagadori", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "varieties", "comb", "earlobe_color", "conservation_status", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["purpose", "varieties", "origin_country", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Japanese%20Long-Tailed%20Fowl&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Onagadori, whose Japanese name means long-tailed chicken, comes from the old Tosa Province, now Kochi Prefecture on the island of Shikoku. Breeders there created it in the 1600s from other long-tailed Japanese fowl, and it is still raised mainly around Nankoku. Its fame rests on a tail of 16 to 18 feathers that, in the right conditions, never molt and keep growing by roughly 2 to 4 feet a year. Tails pass 5 feet as a matter of course, and a few have been reported at close to 40 feet. Japan recognizes three colors, the oldest being white with a black breast, and British clubs recognize five. The bird has a single comb and white earlobes. It is kept only for ornament, in tall hutches that hold the tail off the ground. Japan named it a Special Natural Treasure in 1952, and only a few hundred birds remain.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Onagadori",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Japanese%20Long-Tailed%20Fowl&lang=en"
+    ]
+  }
+}

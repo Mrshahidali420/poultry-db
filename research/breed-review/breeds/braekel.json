@@ -1,0 +1,32 @@
+{
+  "breed_id": "braekel",
+  "status": "fixed",
+  "changes": "Possible duplicate of brakel (same Belgian breed; Braekel and Brakel are two spellings). Confirmed white eggs, Belgium, 2.0 kg hen and 2.25 kg cock (midpoints of 1.8 to 2.2 and 2 to 2.5 kg), gold and silver varieties, bantam version. Egg count widened to 180 to 200 (Wikipedia about 180, Star Milling 180 to 200). Added egg_size large (60 to 65 g), purpose eggs (Wikipedia and FAO DAD-IS Belgium, with Star Milling's dual purpose as a conflict alternative) and temperament active (Star Milling). Origin confirmed by the Poultry Club of Great Britain and DAD-IS. The conservation status alternatives are different countries, not a conflict.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Braekel",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brakel&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_max": { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Braekel" },
+    "purpose": { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Braekel", "conflict": true, "alternatives": [{ "value": "dual", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "temperament": { "value": "active", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Braekel", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "bantam_available", "varieties", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "temperament", "origin_country", "varieties", "notable_traits"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brakel&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Braekel, also spelled Brakel, is an old laying breed from East Flanders in Belgium, named after the Brakel area near the villages of Opbrakel and Nederbrakel. It was once kept on nearly every farm in the district. It shares its roots with the German East Frisian Gull and the Westphalian Totleger, and it gave rise to the British Campine. Unlike Campine roosters, Braekel males have normal cock feathering. The feathers show straight bars of color with a plain, solid neck, in gold or silver. It is a light breed: cocks weigh about 4.5 to 5.5 pounds and hens about 4 to 5 pounds. Hens start laying at six or seven months and give about 180 to 200 large white eggs a year. The birds are active, fly well and forage hard, so they suit free range keepers. Numbers fell sharply after the Second World War, and the breed is now rare.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Braekel",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/"
+    ]
+  }
+}

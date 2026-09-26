@@ -1,0 +1,29 @@
+{
+  "breed_id": "japanese-bantam",
+  "status": "fixed",
+  "changes": "Temperament list (which included use notes) turned into the phrase alert, calm when handled (Livestock Conservancy, Star Milling). Weights rounded to one decimal, 0.6 kg hen and 0.7 kg cock, from Livestock Conservancy's 22 oz and 26 oz; Star Milling's just under and just over a pound agree. Small cream eggs, high broodiness, poor cold tolerance, ornamental purpose and Japanese origin confirmed; Livestock Conservancy traces the ancestors to South China and Southeast Asia, but the breed itself was developed in Japan.",
+  "sources_checked": [
+    "https://livestockconservancy.org/japanese-bantam-chicken/",
+    "https://en.wikipedia.org/wiki/Japanese_Bantam",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": { "value": "alert, calm when handled", "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" },
+    "hen_weight_kg": { "value": 0.6, "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" },
+    "rooster_weight_kg": { "value": 0.7, "source_url": "https://livestockconservancy.org/japanese-bantam-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/japanese-bantam-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "purpose", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Japanese_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Japanese Bantam, or Chabo, is a tiny ornamental chicken from Japan, where it has appeared in art since the early 1600s and was kept as a living garden ornament. It is a true bantam with no large form. Its look is extreme: very short legs, a big comb and a tall upright tail that rises well above the head. The short legs come from a lethal gene, so a quarter of eggs from two short-legged parents never hatch and another quarter grow normal legs. Hens weigh about 22 ounces and cocks about 26. Hens lay small cream eggs and make excellent broody mothers. Young birds can be jumpy, but they settle with handling and make good pets and 4H show birds. They need solid floors, dry housing and extra warmth in northern winters to protect their combs. Their short legs do little harm to lawns and gardens.",
+    "sources": [
+      "https://livestockconservancy.org/japanese-bantam-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Japanese_Bantam"
+    ]
+  }
+}

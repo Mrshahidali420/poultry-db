@@ -1,0 +1,25 @@
+{
+  "breed_id": "rumpless-game",
+  "status": "fixed",
+  "changes": "Cleared egg_color brown: Wikipedia gives brown eggs only for the American Manx Rumpy (Persian Rumpless), a separate line made in 1958 from tail-less birds of supposed Iranian origin, not for the British Rumpless Game. Cleared the empty varieties field that had no source. Tail-less (no uropygium), hard feather, bantam and large fowl, and British origin confirmed by the Poultry Club of Great Britain, which says the breed probably arose as a genetic accident in Old English Game and is far more common as a bantam. Weights (cocks 2.3 to 2.7 kg, hens 1.8 to 2.3 kg) have only Wikipedia, and no source gives egg color, egg count or temperament, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Rumpless_Game",
+    "https://www.poultryclub.org/breeds/chickens/rare-hard-feather/rumpless-game/"
+  ],
+  "fixes": {
+    "egg_color": null,
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Rumpless_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "bantam_available", "comb", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-hard-feather/rumpless-game/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["bantam_available", "origin_country", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Rumpless Game is a British hard-feathered game fowl with no tail. Like other rumpless breeds it lacks the small bone and gland at the base of the spine that a tail grows from. It most likely began as a chance mutation in Old English Game, and it may have come from the Isle of Man, which is why it is sometimes called the Manx Rumpy. The comb is single, the wattles and lobes are small, and any color is allowed in the British standard. Males weigh about 5 to 6 pounds and hens about 4 to 5. The bantam is far more popular than the large fowl, which is seldom seen. The British breed has never been brought to the United States; the American birds sold as Manx Rumpy or Persian Rumpless come from a different 1958 cross and are not the same breed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rumpless_Game",
+      "https://www.poultryclub.org/breeds/chickens/rare-hard-feather/rumpless-game/"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "breed_id": "ameraucana",
+  "status": "fixed",
+  "changes": "The record had no production or size facts; added them. Eggs per year 150 to 200 from My Pet Chicken (Backyard Poultry gives about 150; Star Milling's 250 is the outlier and was not used). Egg size medium (Backyard Poultry, My Pet Chicken). Weights from the APA large fowl standard as printed by Backyard Poultry: rooster 6.5 lb (2.9 kg), hen 5.5 lb (2.5 kg); My Pet Chicken's heavier 7 to 8 lb and 6 to 7 lb kept as conflicting alternatives. Temperament friendly, docile (My Pet Chicken; Backyard Poultry says it varies by strain). Cold hardy and heat tolerant yes (My Pet Chicken). Broodiness medium from Star Milling (hens can be fairly broody). Confirmed blue eggs, pea comb and US origin in the 1970s.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ameraucana",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://backyardpoultry.iamcountryside.com/chickens-101/ameraucana-chicken-august-breed-of-the-month/",
+    "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 150, "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" },
+    "egg_size": { "value": "medium", "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/ameraucana-chicken-august-breed-of-the-month/" },
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/ameraucana-chicken-august-breed-of-the-month/", "conflict": true, "alternatives": [{ "value": 2.9, "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" }] },
+    "rooster_weight_kg": { "value": 2.9, "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/ameraucana-chicken-august-breed-of-the-month/", "conflict": true, "alternatives": [{ "value": 3.4, "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" }] },
+    "temperament": { "value": "friendly, docile", "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide" },
+    "broodiness": { "value": "medium", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://backyardpoultry.iamcountryside.com/chickens-101/ameraucana-chicken-august-breed-of-the-month/", "publisher": "Backyard Poultry (Countryside)", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties"] },
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant"] },
+    { "url": "https://en.wikipedia.org/wiki/Ameraucana", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "origin_year_or_period", "comb", "earlobe_color", "varieties", "bantam_available", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "broodiness", "origin_country", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ameraucana is an American breed made in the 1970s from Araucana stock that came from Chile. Breeders kept the blue egg gene but bred away the rumpless and ear tuft traits that carry lethal genes in the parent breed. The APA accepted it in 1984. Birds have a tail, a beard and muffs, a small pea comb and slate legs, in colors such as black, blue, wheaten, buff, silver and white. Large fowl roosters weigh about 6.5 pounds and hens about 5.5, and there is a bantam version too. Hens lay roughly 150 to 200 medium blue eggs a year and can be fairly broody. Many keepers find them friendly and docile, though temper varies between lines. They handle heat and cold well. Real Ameraucanas come from breeders; feed store \"Americanas\" are usually Easter Egger mixes.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ameraucana",
+      "https://backyardpoultry.iamcountryside.com/chickens-101/ameraucana-chicken-august-breed-of-the-month/",
+      "https://www.mypetchicken.com/blogs/our-blog/ameraucana-chicken-breed-the-ultimate-guide",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

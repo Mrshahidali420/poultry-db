@@ -1,0 +1,30 @@
+{
+  "breed_id": "german-langshan",
+  "status": "fixed",
+  "changes": "Added hen weight 3.0 kg (Poultrykeeper gives hens 2.5 to 3.5 kg and cocks 3 to 4.5 kg, matching the Wikipedia infobox range); rooster 4 kg confirmed. Added 150 to 200 eggs a year from Poultrykeeper. Egg color left as cream (Wikipedia) but flagged as a conflict with brown (Poultrykeeper). Origin Germany confirmed by the Poultry Club of Great Britain (imports of Croad stock in 1879, breed club 1895). Temperament has only the Wikipedia line that the birds tame easily.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/German_Langshan",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/german-langshan/",
+    "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.0, "source_url": "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/" },
+    "eggs_per_year_min": { "value": 150, "source_url": "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/" },
+    "egg_color": { "value": "cream", "source_url": "https://en.wikipedia.org/wiki/German_Langshan", "conflict": true, "alternatives": [{ "value": "brown", "source_url": "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/German_Langshan", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "rooster_weight_kg", "temperament", "comb", "feathered_legs", "varieties", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/german-langshan/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "feathered_legs", "notable_traits"] },
+    { "url": "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/", "publisher": "Poultrykeeper", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The German Langshan is a tall, heavy chicken that German breeders built from Croad Langshans brought over from England in 1879, with Plymouth Rock and other blood added along the way. A breed club formed in 1895. Seen from the side, the bird has a high head, a curved back and a raised tail, a shape often compared to a wine glass. Unlike the Croad, its legs carry no feathers. Black, blue and white are the usual colors. Cocks weigh about 6.5 to 10 pounds and hens about 5.5 to 7.5 pounds, and the weight keeps them from flying much. Hens lay roughly 150 to 200 fairly large, tinted eggs a year. Chicks grow fast, and the adults tame without much trouble. Today the breed is kept mostly for shows, and in Britain the bantam is far more common than the large fowl.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/German_Langshan",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/german-langshan/",
+      "https://poultrykeeper.com/chicken-breeds/german-langshan-chickens/"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breed_id": "estaires-chicken",
+  "status": "fixed",
+  "changes": "Added purpose meat from the FAO DAD-IS record for France, which lists meat as the breed's use. Confirmed French origin (Estaires, Nord-Pas-de-Calais), the small serrated comb, slightly feathered dark legs and the black, gold-necked and silver-necked plumage against Wikipedia; DAD-IS also records slightly feathered shanks. DAD-IS adds that the breed died out after the Second World War, was re-created by northern breeders, and descends from local fowl, the Combattant du Nord and the Langshan, while Wikipedia calls it a Langshan variety; both are kept out of the key facts. The Wikipedia infobox gives 2.2 kg for both sexes, which looks unreliable, so no weights were added. No egg or temperament facts are published, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Estaires_chicken",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Estaires&lang=en"
+  ],
+  "fixes": {
+    "purpose": { "value": "meat", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Estaires&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Estaires_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["varieties", "comb", "feathered_legs", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Estaires&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country", "feathered_legs"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Estaires, or Poule d'Estaires, is a French farm chicken from the far north of the country, named after the town of Estaires near Lille. Its roots lie in the Langshan, a Chinese breed that reached England in 1872 and spread to mainland Europe soon after. Farmers around Estaires, La Gorgue, Laventie and Merville raised these birds and sold them to the Lille market, and local fowl and the northern French game bird may also have played a part. The breed faded after the Second World War and has since been rebuilt by breeders in the region, with a club founded in 1999 and regional genetic protection since 2004. It looks much like a Croad Langshan: glossy black with a green sheen, a small evenly toothed comb and dark slate legs with light feathering. Gold and silver necked forms also exist. It is raised mainly for meat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Estaires_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Estaires&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "breed_id": "kosovo-longcrower",
+  "status": "fixed",
+  "changes": "Weight conflicts removed: the alternatives were only the two ends of Wikipedia's ranges, not a disagreement. Hen weight set to 1.8 kg (range 1.5 to 2 kg) and rooster to 2.6 kg (range 2 to 3.25 kg), midpoints of the stated ranges. Added egg size medium to large from the stated 55 to 60 g egg weight. Confirmed 160 white eggs a year, non-sitting hens (broodiness low), black plumage, crest, V comb, Kosovo origin and the 20 to 60 second crow. A guessed German Wikipedia URL returned 404 and no second publisher was found, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Kosovo_Longcrower"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" },
+    "rooster_weight_kg": { "value": 2.6, "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" },
+    "egg_size": { "value": "medium to large", "source_url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Kosovo_Longcrower", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "comb", "crest", "varieties", "origin_country", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Kosovo Longcrower is a landrace chicken from the Drenica area of Kosovo, where Albanian speakers call it the Rooster of Drenica. Few people kept it before 2011, but its unusual voice has since made it popular with breeders across the Balkans and in countries such as Austria, Germany, Poland and Sweden. Cocks start crowing at six or seven months, and a typical crow lasts 20 to 40 seconds, with the best birds holding it for a full minute. The birds are black, with a forward-leaning black crest, a V comb and mostly olive-green or gray legs; cocks may show a few red or gold wing feathers. Cocks weigh about 4.5 to 7 pounds and hens about 3.5 to 4.5 pounds. Hens start laying at eight months, produce around 160 white eggs a year and rarely go broody.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kosovo_Longcrower"
+    ]
+  }
+}

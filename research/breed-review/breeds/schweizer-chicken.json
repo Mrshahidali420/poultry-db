@@ -1,0 +1,26 @@
+{
+  "breed_id": "schweizer-chicken",
+  "status": "fixed",
+  "changes": "Weights (hens 2.4 to 2.8 kg, cocks 2.8 to 3.5 kg), dual purpose, white plumage with a frost-resistant red rose comb, cold hardiness, the 1905 origin and the near loss before the 1991 rescue confirmed by ProSpecieRara, the Swiss rare breeds foundation. Egg color tinted to cream: ProSpecieRara calls the eggs cream colored, sometimes with a faint lilac sheen, which is what Wikipedia's tinted means. ProSpecieRara gives about 120 eggs a year, the low end of the existing 120 to 200 range, which was kept. Added temperament calm, friendly (ProSpecieRara: calm and trusting birds that neither fly well nor like to). Cleared the empty varieties field that had no source.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Schweizer_chicken",
+    "https://www.prospecierara.ch/tiere/rassenportraets/gefluegelportraets/schweizerhuhn.html"
+  ],
+  "fixes": {
+    "egg_color": { "value": "cream", "source_url": "https://www.prospecierara.ch/tiere/rassenportraets/gefluegelportraets/schweizerhuhn.html" },
+    "temperament": { "value": "calm, friendly", "source_url": "https://www.prospecierara.ch/tiere/rassenportraets/gefluegelportraets/schweizerhuhn.html" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Schweizer_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "purpose", "comb", "conservation_status", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.prospecierara.ch/tiere/rassenportraets/gefluegelportraets/schweizerhuhn.html", "publisher": "ProSpecieRara", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "purpose", "comb", "origin_country", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Schweizer, or Swiss hen, is a dual-purpose chicken that Alfred Weiss of Amriswil, in north-east Switzerland, created in 1905 mainly from white Orpingtons and Wyandottes. It is pure white with a deep red rose comb, so it carries the Swiss national colors. The body is compact and heavy with a straight back. Roosters weigh about 6.2 to 7.7 pounds and hens about 5.3 to 6.2. Hens lay roughly 120 cream eggs a year, and some lines lay more. The small rose comb resists frostbite, and the birds are long lived and cope well with cold nights, which suits cold climates. They are calm and trusting, and they are poor fliers that seldom try, so a low fence usually holds them. Numbers fell to about fifty birds by 1991, when a rescue program began, and the breed has been slowly recovering since.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Schweizer_chicken",
+      "https://www.prospecierara.ch/tiere/rassenportraets/gefluegelportraets/schweizerhuhn.html"
+    ]
+  }
+}

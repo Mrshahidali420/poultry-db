@@ -1,0 +1,30 @@
+{
+  "breed_id": "sapphire-gem",
+  "status": "fixed",
+  "changes": "Record held only color, purpose and origin. Added from Hoover's Hatchery, which holds the Sapphire Gem trademark: 290 extra large brown eggs a year, docile temperament, cold and heat hardy, occasional broodiness (set low). Egg color brown, egg-layer purpose and Czech origin confirmed by Hoover's. Hoover's gives a mature weight of 6 to 7 lb without splitting hens from roosters, so hen and rooster weights are left empty rather than guessed. Only one hatchery-level publisher found beyond the short Ideal Poultry note; it is a commercial hybrid, not a standard breed, so the claims are marketing figures and the record stays flagged for review.",
+  "sources_checked": [
+    "https://www.ideal-poultry.com/sapphire-gem",
+    "https://www.hoovershatchery.com/sapphire-gem"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 290, "source_url": "https://www.hoovershatchery.com/sapphire-gem" },
+    "eggs_per_year_max": { "value": 290, "source_url": "https://www.hoovershatchery.com/sapphire-gem" },
+    "egg_size": { "value": "extra large", "source_url": "https://www.hoovershatchery.com/sapphire-gem" },
+    "temperament": { "value": "docile", "source_url": "https://www.hoovershatchery.com/sapphire-gem" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.hoovershatchery.com/sapphire-gem" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.hoovershatchery.com/sapphire-gem" },
+    "broodiness": { "value": "low", "source_url": "https://www.hoovershatchery.com/sapphire-gem" }
+  },
+  "sources": [
+    { "url": "https://www.hoovershatchery.com/sapphire-gem", "publisher": "Hoover's Hatchery", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "origin_country", "purpose"] },
+    { "url": "https://www.ideal-poultry.com/sapphire-gem", "publisher": "Ideal Poultry", "source_confidence": "page", "supports": ["egg_color", "origin_country", "purpose", "varieties"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Sapphire Gem is a hatchery hybrid, not a recognized standard breed. It comes from the Czech Republic and is sold in the US under a trademarked name. Its feathers are slate gray to light gray, a shade the poultry trade calls blue or lavender, and some chicks in a hatch come out splash. The bird is built for egg production. Hoover's rates hens at about 290 extra large brown eggs a year, and adults weigh roughly 6 to 7 pounds. They are described as docile and easy to care for, good foragers, and able to cope with both cold winters and hot summers. Hens only go broody now and then, so they are a poor pick for hatching chicks but a sensible one for a steady supply of eggs in a backyard flock.",
+    "sources": [
+      "https://www.hoovershatchery.com/sapphire-gem",
+      "https://www.ideal-poultry.com/sapphire-gem"
+    ]
+  }
+}

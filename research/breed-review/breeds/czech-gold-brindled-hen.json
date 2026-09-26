@@ -1,0 +1,23 @@
+{
+  "breed_id": "czech-gold-brindled-hen",
+  "status": "fixed",
+  "changes": "Confirmed 160 eggs a year, single red comb, Bohemian origin with a first record in 1205, endangered status and the plumage traits against Wikipedia. Added egg_size medium to large because Wikipedia gives eggs of 55 to 60 g, which spans medium and large on the US scale. Added hen weight 2.0 kg and rooster weight 2.3 kg, the low ends of the Wikipedia infobox ranges (hens 2.0 to 2.5 kg, cocks 2.3 to 2.8 kg). No DAD-IS record is linked and no second publisher could be reached, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium to large", "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" },
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" },
+    "rooster_weight_kg": { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "hen_weight_kg", "rooster_weight_kg", "comb", "origin_country", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Czech Gold Brindled Hen is a very old farm breed from Bohemia, in what is now the Czech Republic. It appears in records from 1205, when a flock went to the Danish king Valdemar II as a wedding present on his marriage to the Bohemian princess Dagmar. Today it is rare and counted as endangered. Hens are light brown flecked all over with gold. Roosters have gold neck feathers, a brown to red gold back, dark wings with a green bar, a black tail and a breast speckled with gold. Both sexes carry a red single comb and slate blue legs, and chicks hatch light brown. Hens weigh about 4.5 to 5.5 pounds and roosters about 5 to 6 pounds. A hen lays around 160 eggs a year, each 55 to 60 grams. Little is recorded about its temperament.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Czech_Gold_Brindled_Hen"
+    ]
+  }
+}

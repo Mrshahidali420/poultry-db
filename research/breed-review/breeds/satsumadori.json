@@ -1,0 +1,71 @@
+{
+  "breed_id": "satsumadori",
+  "status": "fixed",
+  "changes": "Purpose fighting/ornamental conflict settled as ornamental: Wikipedia says steel-spur fighting is no longer legal in Japan and the breed is now kept for fancy, and Aviculture-Europe describes it as a show breed today. Weights 3.4 kg cock and 2.6 kg hen confirmed within rounding by Aviculture-Europe (about 3.5 and 2.5 kg). Added broodiness high (Aviculture-Europe: hens are good broodies). Japanese origin in Kagoshima (old Satsuma province) and the 1943 protected designation confirmed. No source gives egg color, egg count or temperament. Kept in review: some key facts have fewer than two publishers (strict rule).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Satsumadori",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/satsumadori/",
+    "https://www.aviculture-europe.nl/nummers/09e04a03.pdf"
+  ],
+  "fixes": {
+    "purpose": {
+      "value": "ornamental",
+      "source_url": "https://en.wikipedia.org/wiki/Satsumadori"
+    },
+    "broodiness": {
+      "value": "high",
+      "source_url": "https://www.aviculture-europe.nl/nummers/09e04a03.pdf"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Satsumadori",
+      "publisher": "Wikipedia",
+      "source_confidence": "page",
+      "supports": [
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "purpose",
+        "varieties",
+        "comb",
+        "earlobe_color",
+        "conservation_status",
+        "origin_country",
+        "notable_traits",
+        "history_summary"
+      ]
+    },
+    {
+      "url": "https://www.aviculture-europe.nl/nummers/09e04a03.pdf",
+      "publisher": "Aviculture-Europe",
+      "source_confidence": "page",
+      "supports": [
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "broodiness",
+        "origin_country",
+        "varieties",
+        "notable_traits",
+        "history_summary"
+      ]
+    },
+    {
+      "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/satsumadori/",
+      "publisher": "Poultry Club of Great Britain",
+      "source_confidence": "page",
+      "supports": [
+        "origin_country",
+        "history_summary"
+      ]
+    }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Satsumadori is a Japanese game fowl from Kagoshima Prefecture on the southern tip of Kyushu, an area once called Satsuma. It was bred for fighting with steel blades fixed to the legs, a sport now banned in Japan, and today it is kept for show. Japan named it a Natural Monument in 1943. Roosters stand tall and carry a wide, fanned tail held above level, giving the bird a bold, flashy look. The comb is small and triple in cocks and tiny or missing in hens, with bright red face and yellow legs. Traditional Japanese colors include red, golden and white hackled types plus solid black and white. Cocks weigh about 7.5 pounds and hens about 5.5 to 5.8. Hens make good broody mothers. The breed is rare outside Japan and best suited to experienced keepers who show game birds.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Satsumadori",
+      "https://www.aviculture-europe.nl/nummers/09e04a03.pdf",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/satsumadori/"
+    ]
+  }
+}

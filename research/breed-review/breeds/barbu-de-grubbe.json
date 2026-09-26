@@ -1,0 +1,25 @@
+{
+  "breed_id": "barbu-de-grubbe",
+  "status": "approved",
+  "changes": "All filled fields match Wikipedia: 0.7 kg male and 0.6 kg female, small creamy white eggs of about 35 g, ornamental, Belgium, about 1904, in danger. Poultrykeeper says the Grubbe follows the Barbu d'Anvers standard (cock 680 to 790 g, hen 570 to 680 g), which agrees with the weights, and the Poultry Club of Great Britain lists it as a standardised Belgian true bantam (rumpless d'Anvers). Egg color and size rest on Wikipedia alone, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Barbu_de_Grubbe",
+    "https://poultrykeeper.com/chicken-breeds/belgian-bantams/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Barbu%20De%20Grubbe&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Barbu_de_Grubbe", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "origin_year_or_period", "conservation_status", "history_summary"] },
+    { "url": "https://poultrykeeper.com/chicken-breeds/belgian-bantams/", "publisher": "Poultrykeeper", "source_confidence": "domain", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/", "publisher": "Poultry Club of Great Britain", "source_confidence": "domain", "supports": ["origin_country", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Barbu de Grubbe is a Belgian true bantam, meaning it has no full sized version. It is simply a Barbu d'Anvers without a tail. Around 1904 a tailless chick hatched on the farm of breeder Robert Pauwels near Kortenberg, between Brussels and Leuven, and he bred more birds from it. They appeared at shows until the First World War, then vanished for decades. Today the breed is rare; Belgium counted only 170 breeding birds in 2012. Apart from the missing tail and tail bone, it looks like the d'Anvers: a full beard, a rose comb, clean legs and the same wide range of colors. Cocks weigh about 1.5 pounds and hens about 1.3 pounds. Hens lay small cream colored eggs. It is kept mostly for shows, and it suits fanciers in Britain, the Netherlands and Germany who want an unusual bantam.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbu_de_Grubbe",
+      "https://poultrykeeper.com/chicken-breeds/belgian-bantams/"
+    ]
+  }
+}

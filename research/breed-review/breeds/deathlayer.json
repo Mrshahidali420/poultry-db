@@ -1,0 +1,33 @@
+{
+  "breed_id": "deathlayer",
+  "status": "fixed",
+  "changes": "The Deathlayer is the German Westfaelischer Totleger; its English Wikipedia page was used as a second source. Temperament cleared: the old value was a habit (roosting in trees), and no source describes temperament. Notable traits rewritten: Star Milling's black plumage with a cushion comb does not match Wikipedia, which gives gold-pencilled and silver-pencilled colours and a rose comb, and Wikipedia says the lay-until-death story is not where the name comes from (it grew out of Alltagsleger, daily layer, through Low German). History summary corrected to match. Added eggs about 180 a year, broodiness low (non-sitters), comb rose, varieties gold-pencilled and silver-pencilled, hen 1.5 kg and rooster 2.0 kg (low ends of the 1.5 to 2 and 2 to 2.5 kg ranges), all from Wikipedia. Confirmed white eggs, medium size (eggs 50 to 65 g) and German origin in both sources.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"
+  ],
+  "fixes": {
+    "temperament": null,
+    "eggs_per_year_min": { "value": 180, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "eggs_per_year_max": { "value": 180, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "broodiness": { "value": "low", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "comb": { "value": "rose", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "varieties": { "value": ["gold-pencilled", "silver-pencilled"], "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "rooster_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "notable_traits": { "value": ["German name Westfaelischer Totleger, which grew out of Alltagsleger, meaning daily layer", "gold-pencilled or silver-pencilled plumage with a rose comb", "hens do not go broody", "closely related to the Ostfriesische Moewe and the Braekel"], "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "history_summary": { "value": "The Deathlayer, or Totleger, comes from the old farm chickens of Westphalia in Germany, mainly around Bielefeld and Herford. It was widespread until more productive foreign breeds arrived and is now seriously endangered, with fewer than 1,000 registered birds in 2016.", "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "comb", "varieties", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "origin_country", "origin_year_or_period"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Deathlayer, known in Germany as the Westfaelischer Totleger, is an old laying breed from the farms of Westphalia, mainly around Bielefeld and Herford. The grim English name is a mistranslation. It grew out of older words meaning a daily or long lasting layer. Birds come in gold pencilled or silver pencilled plumage and carry a rose comb. They are small and light, with hens around 3.5 to 4.5 pounds and roosters around 4.5 to 5.5 pounds. Hens rarely go broody and lay about 180 medium white eggs a year. The breed is closely related to the East Frisian Gull and the Braekel. Once common, it faded when more productive foreign breeds arrived, and in 2016 fewer than a thousand registered birds remained, so it is counted as seriously endangered. Birds like to roost up in trees when allowed.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

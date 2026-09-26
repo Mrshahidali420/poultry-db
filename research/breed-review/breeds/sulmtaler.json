@@ -1,0 +1,32 @@
+{
+  "breed_id": "sulmtaler",
+  "status": "fixed",
+  "changes": "Confirmed the filled fields: 130 to 180 eggs a year and low broodiness (non-sitters) from Wikipedia, with Omlet giving about 160 a year; dual purpose, Austria, about 1900, varieties and history match Wikipedia, the Poultry Club of Great Britain and FAO DAD-IS. Added egg color cream to light brown (Wikipedia infobox, Omlet says cream), cold hardy yes (Omlet: copes with all weather; Poultry Club: hardy), temperament friendly, docile when handled (Omlet, which notes they can be flighty at first) and crest yes (Omlet: both sexes crested; DAD-IS: small tuft).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sulmtaler",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/sulmtaler/",
+    "https://www.omlet.us/breeds/chickens/sulmtaler/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=AUT&specie=Chicken&breed=Sulmtaler&lang=en"
+  ],
+  "fixes": {
+    "egg_color": { "value": "cream to light brown", "source_url": "https://en.wikipedia.org/wiki/Sulmtaler" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/sulmtaler/" },
+    "temperament": { "value": "friendly, docile when handled", "source_url": "https://www.omlet.us/breeds/chickens/sulmtaler/" },
+    "crest": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/sulmtaler/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Sulmtaler", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "broodiness", "purpose", "varieties", "origin_country", "origin_year_or_period", "history_summary"] },
+    { "url": "https://www.omlet.us/breeds/chickens/sulmtaler/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "temperament", "cold_hardy", "crest", "origin_country", "purpose"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/sulmtaler/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "notable_traits", "history_summary", "cold_hardy"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=AUT&specie=Chicken&breed=Sulmtaler&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "crest"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Sulmtaler is a heavy farm chicken from the Sulm valley and nearby valleys of Styria, south of Graz in Austria. Local birds there were fattened on maize for the table. In the late 1800s they were crossed with Cochin, Houdan and Dorking, then bred back to the old type, and by 1900 the breed stood on its own before spreading to Germany, the Netherlands and Britain. Roosters weigh about 6.6 to 8.8 pounds and hens about 5.5 to 7.7 pounds. Gold wheaten is the classic color, and both sexes carry a small crest. Hens rarely go broody and lay some 130 to 180 cream to light brown eggs a year. Birds grow fast, forage well and handle cold and wet weather. They can be flighty at first but calm down with handling, so they suit keepers who have room for them to range.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sulmtaler",
+      "https://www.omlet.us/breeds/chickens/sulmtaler/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/sulmtaler/"
+    ]
+  }
+}

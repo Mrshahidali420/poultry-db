@@ -1,0 +1,26 @@
+{
+  "breed_id": "slovenian-barred-hen",
+  "status": "fixed",
+  "changes": "Added the missing weights from Wikipedia: rooster 3.0 to 3.5 kg, hen 2.3 to 2.7 kg. Added egg size large (average egg about 59 g). Cleared the empty varieties list. Confirmed 240 to 250 light brown eggs a year, egg-laying purpose, single comb, red earlobes, 1970 start from Barred and White Plymouth Rock stock and Slovenian origin against Wikipedia; FAO DAD-IS lists the breed in Slovenia with eggs and crossbreeding as its uses. No second publisher found for weights or egg numbers, so it stays flagged for review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen",
+    "https://dadis-breed-datasheet-ws.web.app/?country=SVN&specie=Chicken&breed=slovenska%20grahasta%20koko%C5%A1&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": { "min": 2.3, "max": 2.7 }, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen" },
+    "rooster_weight_kg": { "value": { "min": 3.0, "max": 3.5 }, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "purpose", "comb", "earlobe_color", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=SVN&specie=Chicken&breed=slovenska%20grahasta%20koko%C5%A1&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Slovenian Barred Hen is a laying breed begun in 1970 by animal scientists at the University of Ljubljana, who built it from Barred and White Plymouth Rocks. They selected for body size, good laying and a clean barred pattern. The feathers show crisp alternating bands of black and white, and roosters look paler than hens. Birds have a medium single comb, small red earlobes, orange eyes and light yellow legs with darker toes. It is the heaviest of the Slovenian layer breeds: roosters weigh about 6.6 to 7.7 pounds and hens about 5 to 6 pounds. Hens begin laying at around 20 weeks and produce some 240 to 250 light brown eggs a year, averaging about 59 grams. The breed is also a parent of the Prelux Black and Prelux Barred commercial layers. Slovenia counted about 1,270 birds in 2020, most of them at the university's poultry center.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Slovenian_Barred_Hen"
+    ]
+  }
+}

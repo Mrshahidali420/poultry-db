@@ -1,0 +1,34 @@
+{
+  "breed_id": "jersey-giant",
+  "status": "fixed",
+  "changes": "Temperament replaced with calm, docile, friendly; the old value mixed in size words (Enormously, Heavy) from a GitHub list. Cold hardy changed from boolean true to yes (Livestock Conservancy, Star Milling). Weights confirmed at 10 lb hen (4.5 kg) and 13 lb cock (5.9 kg): Livestock Conservancy gives 10 to 11 and 13 to 15 lb and Star Milling gives 10 and 13 lb, so the 5.0 and 6.8 kg alternatives were only the tops of the same range and are dropped. Egg count 150 to 200, extra large eggs in light cream to dark brown, dual purpose, heat intolerance and New Jersey origin all confirmed by Livestock Conservancy and Star Milling, replacing the GitHub citation.",
+  "sources_checked": [
+    "https://livestockconservancy.org/jersey-giant-chicken/",
+    "https://en.wikipedia.org/wiki/Jersey_Giant",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/jersey-giant/"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, docile, friendly", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" },
+    "hen_weight_kg": { "value": 4.5, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" },
+    "rooster_weight_kg": { "value": 5.9, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" },
+    "eggs_per_year_min": { "value": 150, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" },
+    "egg_size": { "value": "extra large", "source_url": "https://livestockconservancy.org/jersey-giant-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/jersey-giant-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "broodiness", "comb", "skin_color", "varieties", "feathered_legs", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "heat_tolerant", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Jersey_Giant", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "temperament", "cold_hardy", "origin_country", "varieties", "broodiness"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Jersey Giant is an American chicken bred in Burlington County, New Jersey, between about 1870 and 1890. John and Thomas Black crossed Black Javas, Black Langshans and Dark Brahmas, hoping to make a chicken big enough to stand in for the turkey at the table. It is one of the heaviest breeds alive: mature roosters weigh 13 to 15 pounds and hens 10 to 11. The APA accepts black, white and blue, and the black has a green sheen. Hens lay about 150 to 200 extra large eggs a year, ranging from light cream to dark brown, and keep laying in winter. These are calm, friendly birds that rarely fight. They handle cold well but need shade and cooling in hot weather. Owners need larger nest boxes and low roosts, and meat birds take 8 to 9 months to fill out.",
+    "sources": [
+      "https://livestockconservancy.org/jersey-giant-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Jersey_Giant"
+    ]
+  }
+}

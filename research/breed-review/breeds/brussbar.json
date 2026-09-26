@@ -1,0 +1,29 @@
+{
+  "breed_id": "brussbar",
+  "status": "fixed",
+  "changes": "Egg color brown cleared: the Star Milling text never mentions eggs, and no other source gives an egg color. Purpose dual-purpose to dual (allowed value), now backed by Star Milling and the Poultry Club of Great Britain. Autosexing true to yes (the value style used elsewhere). United Kingdom origin confirmed by Star Milling (bred at Cambridge), the Poultry Club of Great Britain and FAO DAD-IS (UK, indigenous breed); standardised 1952 confirmed by both Star Milling and the Poultry Club. No source gives weights or egg figures, so needs_review stays true.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-brussbar/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Brussbar&lang=en"
+  ],
+  "fixes": {
+    "egg_color": null,
+    "purpose": { "value": "dual", "source_url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-brussbar/" },
+    "autosexing": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["origin_country", "purpose", "autosexing", "varieties", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-brussbar/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose", "autosexing", "origin_year_or_period", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Brussbar&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Brussbar is a rare British chicken developed at Cambridge before 1950 by Professor Punnett and his colleague Mr. Pease, pioneers of autosexing breeds. Their goal was a bird with the useful qualities of the Light Sussex whose chicks could be sorted into males and females by color at hatch. They began by crossing Brown Sussex with Barred Rocks, then added productive Light Sussex lines. The breed was standardized in Britain in 1952. Adults have crele plumage, a barred mix of copper and gold. A silver form once existed, but only the gold survives. Autosexing breeders rated the Brussbar among their best dual purpose birds for eggs and meat, yet it never gained a real following and barely made it through the 1960s. Interest is growing again, though only one known pure flock remains, so it suits dedicated rare breed keepers.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-brussbar/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Brussbar&lang=en"
+    ]
+  }
+}

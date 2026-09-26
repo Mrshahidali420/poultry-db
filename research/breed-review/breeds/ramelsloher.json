@@ -1,0 +1,83 @@
+{
+  "breed_id": "ramelsloher",
+  "status": "fixed",
+  "changes": "Weights (hens 2.0 to 2.5 kg, cocks 2.5 to 3.0 kg), white or light cream eggs, dual purpose, white and buff colors, 1874 Hamburg debut and German origin all confirmed by the GEH (German rare breeds society) breed page. Egg count: Wikipedia gives about 170 a year and GEH about 150, so added eggs_per_year_min 150 alongside the existing max of 170. Added temperament lively, tame (GEH: spirited birds that become very tame with their keeper) and cold_hardy yes (GEH: good weather hardiness, known as a winter layer). Kept in review: some key facts have fewer than two publishers (strict rule).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ramelsloher",
+    "https://www.g-e-h.de/geh-gefl/ramelslo.htm",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ramelsloher&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_min": {
+      "value": 150,
+      "source_url": "https://www.g-e-h.de/geh-gefl/ramelslo.htm"
+    },
+    "temperament": {
+      "value": "lively, tame",
+      "source_url": "https://www.g-e-h.de/geh-gefl/ramelslo.htm"
+    },
+    "cold_hardy": {
+      "value": "yes",
+      "source_url": "https://www.g-e-h.de/geh-gefl/ramelslo.htm"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramelsloher",
+      "publisher": "Wikipedia",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_max",
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "origin_country",
+        "origin_year_or_period",
+        "purpose",
+        "varieties",
+        "bantam_available",
+        "comb",
+        "earlobe_color",
+        "conservation_status",
+        "notable_traits",
+        "history_summary"
+      ]
+    },
+    {
+      "url": "https://www.g-e-h.de/geh-gefl/ramelslo.htm",
+      "publisher": "GEH (Gesellschaft zur Erhaltung alter und gefaehrdeter Haustierrassen)",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "temperament",
+        "cold_hardy",
+        "origin_country",
+        "purpose",
+        "varieties",
+        "conservation_status"
+      ]
+    },
+    {
+      "url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ramelsloher&lang=en",
+      "publisher": "FAO DAD-IS",
+      "source_confidence": "page",
+      "supports": [
+        "origin_country",
+        "origin_year_or_period",
+        "conservation_status",
+        "purpose"
+      ]
+    }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Ramelsloher is a German dual-purpose chicken from the village of Ramelsloh, just south of Hamburg. A Hamburg shipowner, A.D. Wichmann, shaped it from plain white farm hens in the 1870s and showed it in 1874. Around 1900 it was one of the main utility birds in Germany, but it faded after the Second World War and is now listed as extremely endangered. It comes only in white and buff, with no bantam form. Its legs are slate blue, the earlobes bluish, and the eyes so dark they look black, a trait no other breed shares. Roosters weigh about 5.5 to 6.6 pounds and hens about 4.4 to 5.5. Hens lay roughly 150 to 170 white or pale cream eggs a year and keep laying in winter. The birds are lively but grow very tame, forage well and stand up to rough weather.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ramelsloher",
+      "https://www.g-e-h.de/geh-gefl/ramelslo.htm"
+    ]
+  }
+}

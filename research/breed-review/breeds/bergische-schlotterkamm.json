@@ -1,0 +1,23 @@
+{
+  "breed_id": "bergische-schlotterkamm",
+  "status": "fixed",
+  "changes": "All filled fields match Wikipedia: about 150 white eggs a year, low broodiness, dual purpose, bantam exists, four colors, floppy single comb, Germany, known since the 18th century, extremely endangered. Added egg_size medium from the 55 g egg weight. Added hen 2.0 kg and rooster 2.4 kg, the midpoints of the Wikipedia infobox weights (1.75 to 2.25 kg and 2.0 to 2.75 kg) already stored in breeds.json. No linked DAD-IS record and no second publisher found, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm" },
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm" },
+    "rooster_weight_kg": { "value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "bantam_available", "comb", "varieties", "conservation_status", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bergische Schlotterkamm is a rare German chicken from the Bergisches Land in North Rhine-Westphalia, the same district that produced the Bergische Kräher and the German Creeper. Its name comes from its large single comb, which flops loosely from one side of the head to the other. The breed has been known since the 1700s and probably came from crossing Spanish imports with the local Kräher. Imported breeds nearly wiped it out, and a breeders' club was formed in 1916 to save it. The body is long and fairly rectangular, and four colors are recognized: plain black, cuckoo, and black laced with either silver or gold. Cocks weigh about 4.5 to 6 pounds and hens about 4 to 5 pounds. Hens lay around 150 medium white eggs a year and rarely go broody. A rare bantam form also exists. With only about 250 birds counted in 2013, it is a breed for conservation keepers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm"
+    ]
+  }
+}

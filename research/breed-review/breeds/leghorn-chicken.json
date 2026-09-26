@@ -1,0 +1,39 @@
+{
+  "breed_id": "leghorn-chicken",
+  "status": "fixed",
+  "changes": "Weights were min/max objects; set to single numbers from the Livestock Conservancy (male 6 lb, 2.7 kg; female 4.5 lb, 2.0 kg), which match the top and bottom of the Italian standard in Wikipedia. The heavier British standard (3.4 kg cock, 2.5 kg hen) kept as a conflicting alternative. Eggs per year changed from 250 to 300 (chicken-dictionary list) to 280 to 300, where Star Milling and Wikipedia agree. Egg size changed from large to large to extra large (Livestock Conservancy). Egg color Bright White changed to white. Temperament replaced with active, flighty (Livestock Conservancy: very active, some strains flighty; Star Milling: very active); the old value mixed in noise and foraging. Heat tolerant true rewritten as yes, and cold hardy yes added (Livestock Conservancy: both cold and heat tolerant; single combs can frostbite). Broodiness low and beginner friendly no added from the Livestock Conservancy.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Leghorn_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/leghorn/",
+    "https://livestockconservancy.org/leghorn-chicken/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://livestockconservancy.org/leghorn-chicken/", "conflict": true, "alternatives": [{ "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }] },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://livestockconservancy.org/leghorn-chicken/", "conflict": true, "alternatives": [{ "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Leghorn_chicken" }] },
+    "eggs_per_year_min": { "value": 280, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "eggs_per_year_max": { "value": 300, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_size": { "value": "large to extra large", "source_url": "https://livestockconservancy.org/leghorn-chicken/" },
+    "egg_color": { "value": "white", "source_url": "https://livestockconservancy.org/leghorn-chicken/" },
+    "temperament": { "value": "active, flighty", "source_url": "https://livestockconservancy.org/leghorn-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/leghorn-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/leghorn-chicken/" },
+    "broodiness": { "value": "low", "source_url": "https://livestockconservancy.org/leghorn-chicken/" },
+    "beginner_friendly": { "value": "no", "source_url": "https://livestockconservancy.org/leghorn-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/leghorn-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "beginner_friendly", "origin_country", "purpose"] },
+    { "url": "https://en.wikipedia.org/wiki/Leghorn_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "bantam_available", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "temperament", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/leghorn/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "notable_traits"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Leghorn is an Italian laying breed from the Tuscan countryside, named after Leghorn, the old English name for the port of Livorno that shipped the first birds to America around 1828. It is a light, upright bird with a large red comb, white earlobes and yellow legs, and the white variety is the most common, though many other colors exist. Roosters weigh about 6 pounds and hens about 4.5 in the US standard; British birds run heavier. Hens lay roughly 280 to 300 large white eggs a year, and White Leghorns are the base of most commercial white egg layers. They seldom go broody. Leghorns are busy foragers that fly well and can be flighty and noisy, so they are not ideal as pets for children or for tight suburban lots. They handle both heat and cold.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leghorn_chicken",
+      "https://livestockconservancy.org/leghorn-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

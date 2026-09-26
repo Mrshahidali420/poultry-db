@@ -1,0 +1,30 @@
+{
+  "breed_id": "hamburg-chicken",
+  "status": "fixed",
+  "changes": "Weights set to the US figures from Livestock Conservancy, 4 lb hen (1.8 kg) and 5 lb cock (2.3 kg); they fall inside the Wikipedia ranges (hens 1.6 to 1.8 kg, cocks 2 to 2.5 kg), so the alternatives, which were only range ends, are dropped. Temperament list (which included a note on predators) turned into the phrase active, alert, flighty. Purpose kept eggs and the ornamental alternative dropped; Livestock Conservancy lists both uses and the summary covers exhibition. Egg count 120 to 225, small to medium white eggs, low broodiness, cold and heat tolerance and Dutch origin confirmed by Livestock Conservancy, Star Milling and Wikipedia.",
+  "sources_checked": [
+    "https://livestockconservancy.org/hamburg-chicken/",
+    "https://en.wikipedia.org/wiki/Hamburg_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://livestockconservancy.org/hamburg-chicken/" },
+    "rooster_weight_kg": { "value": 2.3, "source_url": "https://livestockconservancy.org/hamburg-chicken/" },
+    "temperament": { "value": "active, alert, flighty", "source_url": "https://livestockconservancy.org/hamburg-chicken/" },
+    "purpose": { "value": "eggs", "source_url": "https://livestockconservancy.org/hamburg-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/hamburg-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "purpose", "origin_country", "comb", "earlobe_color", "skin_color", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "temperament", "purpose", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Hamburg_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "Despite its German name, the Hamburg is an old Dutch breed, known in Holland by the 1300s and further developed in northern England, where it was once called the Pheasant Fowl. It is small and trim, with a red rose comb ending in a long spike, white earlobes and slate gray legs. Colors include silver spangled, the most popular, plus gold spangled, silver and gold penciled, black and white. Roosters weigh about 5 pounds and hens about 4. Hens lay 120 to 225 small to medium white eggs a year, start at four to five months and keep laying well for several years, but they do not go broody. Hamburgs are very active, alert and flighty, fly well and like to roost high in trees. They handle both hot and cold weather, dislike confinement, and are show and egg birds rather than pets for children.",
+    "sources": [
+      "https://livestockconservancy.org/hamburg-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Hamburg_chicken"
+    ]
+  }
+}

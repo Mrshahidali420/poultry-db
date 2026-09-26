@@ -1,0 +1,33 @@
+{
+  "breed_id": "houdan-chicken",
+  "status": "fixed",
+  "changes": "Weights split into US and European standards instead of a pile of extraction values: rooster 3.6 kg and hen 2.9 kg from the Livestock Conservancy's 8 lb and 6.5 lb, with Wikipedia's European 3.0 kg and 2.5 kg (top of its 2.5 to 3 and 2 to 2.5 kg ranges) kept as flagged alternatives. Egg size kept large (Livestock Conservancy) with medium flagged, since Wikipedia gives an average egg of 53 g. Temperament list cut to calm, gentle, docile. Cold hardy no changed to partly: the Livestock Conservancy calls the breed of medium hardiness and Star Milling moderately hardy, with crests at risk of freezing when wet. White eggs, 140 to 230 eggs, dual purpose, crest, five toes and French origin confirmed by both Wikipedia and the Livestock Conservancy.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Houdan_chicken",
+    "https://livestockconservancy.org/houdan-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/houdan/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/houdan-chicken/", "conflict": true, "alternatives": [ { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ] },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/houdan-chicken/", "conflict": true, "alternatives": [ { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ] },
+    "egg_size": { "value": "large", "source_url": "https://livestockconservancy.org/houdan-chicken/", "conflict": true, "alternatives": [ { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Houdan_chicken" } ] },
+    "temperament": { "value": "calm, gentle, docile", "source_url": "https://livestockconservancy.org/houdan-chicken/" },
+    "cold_hardy": { "value": "partly", "source_url": "https://livestockconservancy.org/houdan-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/houdan-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "crest", "comb", "earlobe_color", "skin_color", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/Houdan_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "crest", "comb", "bantam_available", "varieties"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["cold_hardy", "heat_tolerant", "origin_country", "purpose", "crest"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Houdan&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Houdan is an old French chicken named after the town of Houdan, west of Paris. It stands out for its full crest, beard and muffs, a small comb shaped like a leaf or a V, and five toes on each foot instead of four. Most birds are mottled, black spotted with white, and American breeders later added a white form. In the 1800s it ranked among the leading meat breeds of France, and today it is rare and kept mostly for shows. Under the American standard, cocks weigh about 8 pounds and hens about 6.5 pounds, while European birds run lighter. Hens lay around 140 to 230 white eggs a year. Houdans are calm, gentle birds that children can handle easily. They like warm, dry weather, but wet crests can freeze in winter, and a large crest can block a bird's view of predators.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Houdan_chicken",
+      "https://livestockconservancy.org/houdan-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

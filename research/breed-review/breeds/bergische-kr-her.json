@@ -1,0 +1,24 @@
+{
+  "breed_id": "bergische-kr-her",
+  "status": "fixed",
+  "changes": "All filled fields match Wikipedia: about 130 white eggs a year, low broodiness, dual purpose, 3.25 kg cock and 2.25 kg hen (midpoints of 3 to 3.5 and 2 to 2.5 kg), single comb, white earlobes, Germany, standard of 1885, extremely endangered. Added egg_size medium from the 56 g average egg weight. FAO DAD-IS (Germany) confirms German origin, at-risk status and egg, meat and hobby use. The Poultry Club of Great Britain page could not be found (404) and search turned up only content farms, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Bergische%20Kr%C3%A4her&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "comb", "earlobe_color", "varieties", "conservation_status", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Bergische%20Kr%C3%A4her&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bergische Kräher is an old German chicken from the Bergisches Land, a hilly region east of Düsseldorf and Cologne. Its name means Bergish crower, and it belongs to the long crowing group of breeds: a cock's crow can last up to five times longer than an ordinary rooster's. Local clubs have held crowing contests for centuries, judging each crow for length and beauty, and a breed society has existed since 1884. The accepted color is gold laced black, with slate blue legs, a single comb and white earlobes. Cocks weigh roughly 6.5 to 7.5 pounds and hens 4.5 to 5.5 pounds. It is a dual purpose bird with good meat, and hens lay about 130 medium white eggs a year and seldom go broody. Only a few hundred birds remain, so it suits conservation minded keepers who do not mind a loud rooster.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bergische_Kr%C3%A4her",
+      "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Bergische%20Kr%C3%A4her&lang=en"
+    ]
+  }
+}

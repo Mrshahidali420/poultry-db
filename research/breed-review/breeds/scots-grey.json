@@ -1,0 +1,29 @@
+{
+  "breed_id": "scots-grey",
+  "status": "fixed",
+  "changes": "Low broodiness confirmed by the Rare Breeds Survival Trust (only very occasionally broody) and the Poultry Club of Great Britain (a non-sitting breed). Cold hardiness kept: RBST says the breed is known for hardiness and thrives in any climate. Added eggs_per_year_min 150 and eggs_per_year_max 180 (RBST). Added temperament alert, active (RBST, which also notes birds can be excitable and males feisty in the breeding season). Varieties set to barred, the only color (RBST), replacing an empty list with no source. Dual purpose, single comb, red earlobes, bantam form and Scottish origin confirmed. White eggs and the weights (7 lb cock, 5 lb hen) have only Wikipedia, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Scots_Grey",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-grey/",
+    "https://www.rbst.org.uk/watchlist-breed/scots-grey/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 150, "source_url": "https://www.rbst.org.uk/watchlist-breed/scots-grey/" },
+    "eggs_per_year_max": { "value": 180, "source_url": "https://www.rbst.org.uk/watchlist-breed/scots-grey/" },
+    "temperament": { "value": "alert, active", "source_url": "https://www.rbst.org.uk/watchlist-breed/scots-grey/" },
+    "varieties": { "value": ["barred"], "source_url": "https://www.rbst.org.uk/watchlist-breed/scots-grey/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Scots_Grey", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "broodiness", "cold_hardy", "purpose", "bantam_available", "origin_country", "comb", "earlobe_color", "notable_traits", "history_summary", "conservation_status"] },
+    { "url": "https://www.rbst.org.uk/watchlist-breed/scots-grey/", "publisher": "Rare Breeds Survival Trust", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "temperament", "broodiness", "cold_hardy", "purpose", "bantam_available", "varieties", "comb", "earlobe_color", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-grey/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["broodiness", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Scots Grey is the traditional farmyard chicken of Scotland, bred there for well over two hundred years and at its most popular from the 1880s until about 1940. It is a tall, upright bird on long, pale legs, with a single red comb, red earlobes and a full tail. It comes in one pattern only: steel grey with black barring that has a metallic shine. Roosters weigh about 7 pounds and hens about 5, and a bantam exists. Hens lay around 150 to 180 white eggs a year and rarely go broody. The birds are hardy, handle rough weather and do best free ranging, since they are alert, active foragers. They can be flighty when disturbed, and roosters may turn feisty in the breeding season, so they are not the first pick for homes with small children. The breed is now on the British rare breeds list.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scots_Grey",
+      "https://www.rbst.org.uk/watchlist-breed/scots-grey/"
+    ]
+  }
+}

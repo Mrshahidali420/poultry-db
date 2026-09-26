@@ -1,0 +1,33 @@
+{
+  "breed_id": "swedish-black",
+  "status": "fixed",
+  "changes": "Weights fixed: Star Milling says birds weigh 5 to 8 pounds with no split by sex, but Wikipedia (Svarthona: roosters up to 2 kg, hens no more than 1.5 kg) and Greenfire Farms (roosters about 4 lb) agree the breed is small, so hen 2.3 kg to 1.5 kg and rooster 3.6 kg to 2.0 kg. Egg size set small (Wikipedia: 38 to 48 g). Temperament list replaced with friendly, relaxed (Greenfire Farms, Star Milling). Cold hardy set yes (Greenfire Farms). Origin Sweden/Norway to Sweden, since Wikipedia calls it a Swedish landrace. Purpose ornamental cleared: no source gives it; Star Milling lists it as an unusual breed and calls the hens good layers. Egg color cream confirmed (Star Milling; Greenfire says white or cream). Note: the breeds.json row has no wikipedia_title, but the article exists as Svarthona.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/Svarth%C3%B6na",
+    "https://greenfirefarms.com/swedish_black_hen.html"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://en.wikipedia.org/wiki/Svarth%C3%B6na" },
+    "rooster_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Svarth%C3%B6na" },
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Svarth%C3%B6na" },
+    "temperament": { "value": "friendly, relaxed", "source_url": "https://greenfirefarms.com/swedish_black_hen.html" },
+    "cold_hardy": { "value": "yes", "source_url": "https://greenfirefarms.com/swedish_black_hen.html" },
+    "origin_country": { "value": "Sweden", "source_url": "https://en.wikipedia.org/wiki/Svarth%C3%B6na" },
+    "purpose": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Svarth%C3%B6na", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "egg_size", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://greenfirefarms.com/swedish_black_hen.html", "publisher": "Greenfire Farms", "source_confidence": "page", "supports": ["rooster_weight_kg", "egg_color", "temperament", "cold_hardy", "origin_country", "notable_traits"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "temperament", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Swedish Black, or Svarthona, is a rare landrace chicken from Sweden, raised for centuries near the border with Norway. Like the Ayam Cemani and the Silkie, it carries the fibromelanosis gene, so its feathers, skin, comb, legs and even inner tissue are black, and the plumage can shine green and purple in the light. Its ancestors are thought to have reached Scandinavia from the tropics on ships hundreds of years ago. It is a small, sleek bird: roosters weigh up to about 4.4 pounds and hens around 3.3 pounds. Hens lay small cream or white eggs. The birds are friendly and relaxed, forage well on free range, fly better than most breeds and like to roost high. Having lived so long in the Nordic north, they handle cold weather well. Fewer than 500 were counted in a Swedish census.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Svarth%C3%B6na",
+      "https://greenfirefarms.com/swedish_black_hen.html",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

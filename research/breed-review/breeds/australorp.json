@@ -1,0 +1,41 @@
+{
+  "breed_id": "australorp",
+  "status": "fixed",
+  "changes": "Added missing weights from the Livestock Conservancy: male 8.5 lb (3.9 kg), female 6.5 lb (2.9 kg); My Pet Chicken's 8 to 10 lb and 6 to 8 lb agree. Eggs per year max conflict dropped: Livestock Conservancy (250 plus), Star Milling (about 250) and My Pet Chicken (250 to 300) support 250 to 300; Wikipedia's 190 is noted but not used. Egg color changed from Brown to light brown (Livestock Conservancy, Star Milling, Wikipedia). Egg size changed from large to medium to large (Livestock Conservancy). Temperament replaced with friendly, gentle (Livestock Conservancy, My Pet Chicken); the old value included heavy and dutiful. Broodiness changed from high to medium: My Pet Chicken says some hens go broody, and the Livestock Conservancy says broodiness was bred down. Cold hardy true rewritten as yes (My Pet Chicken). Heat tolerant changed from true to partly: the Livestock Conservancy says the black birds need ample shade to avoid overheating.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Australorp",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/australorp/",
+    "https://livestockconservancy.org/australorp-chicken/",
+    "https://www.mypetchicken.com/blogs/our-blog/australorp-chicken-the-ultimate-guide"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/australorp-chicken/" },
+    "rooster_weight_kg": { "value": 3.9, "source_url": "https://livestockconservancy.org/australorp-chicken/" },
+    "eggs_per_year_min": { "value": 250, "source_url": "https://livestockconservancy.org/australorp-chicken/" },
+    "eggs_per_year_max": { "value": 300, "source_url": "https://www.mypetchicken.com/blogs/our-blog/australorp-chicken-the-ultimate-guide" },
+    "egg_color": { "value": "light brown", "source_url": "https://livestockconservancy.org/australorp-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/australorp-chicken/" },
+    "temperament": { "value": "friendly, gentle", "source_url": "https://livestockconservancy.org/australorp-chicken/" },
+    "broodiness": { "value": "medium", "source_url": "https://www.mypetchicken.com/blogs/our-blog/australorp-chicken-the-ultimate-guide" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/australorp-chicken-the-ultimate-guide" },
+    "heat_tolerant": { "value": "partly", "source_url": "https://livestockconservancy.org/australorp-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/australorp-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "heat_tolerant", "broodiness", "purpose", "origin_country", "comb"] },
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/australorp-chicken-the-ultimate-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Australorp", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "purpose", "origin_country", "origin_year_or_period", "comb", "varieties", "bantam_available", "conservation_status", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/australorp/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Australorp is an Australian utility breed made from Black Orpingtons imported from England between about 1890 and the early 1900s. Local breeders added a little Minorca, Leghorn, Langshan and Rhode Island Red blood and selected hard for laying, and the name, short for Australian Orpington, was in use by the early 1920s. A team of six hens then set a world record of 1,857 eggs in a year, and one hen later laid 364 eggs in 365 days. Today a backyard hen lays about 250 to 300 tinted to light brown eggs a year, medium to large in size. Birds are glossy black in the US, with blue and white in other countries. Roosters weigh about 8.5 pounds and hens about 6.5. Australorps are friendly and gentle, even the roosters, and good with children. They handle cold well but need shade in hot weather.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Australorp",
+      "https://livestockconservancy.org/australorp-chicken/",
+      "https://www.mypetchicken.com/blogs/our-blog/australorp-chicken-the-ultimate-guide",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "breed_id": "croad-langshan",
+  "status": "fixed",
+  "changes": "Weights reconverted from the 9.5 lb cock and 7.5 lb hen that Wikipedia and the Livestock Conservancy both give (the Livestock Conservancy says American Langshans are the Croad type): rooster 3.75 to 4.3 kg, hen 3 to 3.4 kg; the range-end alternatives dropped. Egg color shortened to dark brown. Egg size large added (Livestock Conservancy). Temperament list (which mixed in housing) replaced with calm, friendly, easily tamed. Heat tolerant yes added from the Livestock Conservancy (the only Asiatic breed suited to the Southern States). Broodiness kept high (Wikipedia: excellent sitters) with medium as a flagged alternative because the Livestock Conservancy says hens are not determined sitters. Eggs 140 to 150 and China origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Croad_Langshan",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/croad-langshan/",
+    "https://livestockconservancy.org/langshan-chicken/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 4.3, "source_url": "https://livestockconservancy.org/langshan-chicken/" },
+    "hen_weight_kg": { "value": 3.4, "source_url": "https://livestockconservancy.org/langshan-chicken/" },
+    "egg_color": { "value": "dark brown", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan" },
+    "egg_size": { "value": "large", "source_url": "https://livestockconservancy.org/langshan-chicken/" },
+    "temperament": { "value": "calm, friendly, easily tamed", "source_url": "https://livestockconservancy.org/langshan-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/langshan-chicken/" },
+    "broodiness": { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Croad_Langshan", "conflict": true, "alternatives": [ { "value": "medium", "source_url": "https://livestockconservancy.org/langshan-chicken/" } ] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Croad_Langshan", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "origin_country", "purpose", "comb", "feathered_legs", "varieties", "origin_year_or_period", "history_summary"] },
+    { "url": "https://livestockconservancy.org/langshan-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "heat_tolerant", "origin_country", "purpose", "comb", "varieties"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/croad-langshan/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Croad Langshan is a large, soft feathered chicken from the Langshan, or Wolf Hill, district near Nantong in eastern China. Major Croad brought the first birds to Britain in 1872, and his name now separates this original utility type from the taller Modern Langshan bred for shows. American Langshans descend from the same Croad birds. The usual color is black with a green sheen, and white and blue are also recognized. The back and rising tail form a deep U shape, and the shanks carry light feathering. Cocks weigh about 9.5 pounds and hens about 7.5 pounds. Hens lay around 140 to 150 large, dark brown eggs a year and keep laying through winter. The birds are calm, friendly and easy to tame, and they take confinement well. They like dry, well drained ground and cope with warm climates better than most Asian breeds.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Croad_Langshan",
+      "https://livestockconservancy.org/langshan-chicken/",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/croad-langshan/"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "breed_id": "yakido",
+  "status": "fixed",
+  "changes": "Added weights: rooster 2.4 kg and hen 1.9 kg, the midpoints of the Wikipedia infobox ranges (2.1 to 2.6 kg and 1.7 to 2.1 kg), with Omlet's heavier 6 lb (2.7 kg) and 5 lb (2.3 kg) kept as conflicting alternatives. Egg color cream or brown to cream, the color Wikipedia and Omlet share (Wikipedia also says brown, Omlet also says white). Added cold hardy yes (Omlet: hardy, tolerates colder climates) and temperament self-assured, males fight each other (Omlet). About 80 eggs a year, fighting purpose, Japan, about 1850, triple comb, black only and the sparring-partner history confirmed by Wikipedia, Omlet and the Poultry Club of Great Britain. Omlet calls the comb a small pea comb; triple kept from Wikipedia.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Yakido",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/yakido/",
+    "https://www.omlet.us/breeds/chickens/yakido/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Yakido", "conflict": true, "alternatives": [{ "value": 2.7, "source_url": "https://www.omlet.us/breeds/chickens/yakido/" }] },
+    "hen_weight_kg": { "value": 1.9, "source_url": "https://en.wikipedia.org/wiki/Yakido", "conflict": true, "alternatives": [{ "value": 2.3, "source_url": "https://www.omlet.us/breeds/chickens/yakido/" }] },
+    "egg_color": { "value": "cream", "source_url": "https://en.wikipedia.org/wiki/Yakido" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/yakido/" },
+    "temperament": { "value": "self-assured, males fight each other", "source_url": "https://www.omlet.us/breeds/chickens/yakido/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Yakido", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "rooster_weight_kg", "hen_weight_kg", "purpose", "varieties", "origin_country", "origin_year_or_period", "comb", "notable_traits", "history_summary"] },
+    { "url": "https://www.omlet.us/breeds/chickens/yakido/", "publisher": "Omlet", "source_confidence": "page", "supports": ["egg_color", "rooster_weight_kg", "hen_weight_kg", "cold_hardy", "temperament", "origin_country", "origin_year_or_period", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/yakido/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "bantam_available", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Yakido is a small Japanese gamecock of the Shamo family, bred around 1850 in Mie Prefecture on the main island of Honshu. It was made as a sparring partner for bigger fighting cocks, a bird that would lose but build the larger bird's confidence. Japan named it a Natural Monument in 1950. The Yakido is compact, muscular and very upright, with hard, tight black feathers, yellow legs and beak, and a small triple comb. Its size falls between a bantam and a standard bird, and British shows class it as a bantam. Roosters weigh about 4.6 to 5.7 pounds and hens 3.7 to 4.6 pounds. Hens lay only about 80 cream eggs a year. The birds are confident and fairly hardy, and they handle cold well. Males will fight, so most keepers house just one rooster.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yakido",
+      "https://www.omlet.us/breeds/chickens/yakido/",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/yakido/"
+    ]
+  }
+}

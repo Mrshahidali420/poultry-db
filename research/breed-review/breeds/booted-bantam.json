@@ -1,0 +1,32 @@
+{
+  "breed_id": "booted-bantam",
+  "status": "fixed",
+  "changes": "Added weights from Livestock Conservancy, 22 oz hen (0.6 kg) and 26 oz cock (0.7 kg); Star Milling gives 22 and 27 oz. Added egg size small (Livestock Conservancy), temperament calm, friendly, alert (Star Milling calls them friendly and calm; Livestock Conservancy calls them alert), cold_hardy no (Livestock Conservancy: not cold tolerant, needs protection from cold) and broodiness high (Star Milling: hens readily go broody). Egg color tinted to white, about 120 eggs a year and ornamental purpose confirmed. Origin left empty on purpose: Livestock Conservancy lists Southeast Asia while Wikipedia calls it a European breed developed in the Netherlands, Germany and Britain from bantams brought from Asia.",
+  "sources_checked": [
+    "https://livestockconservancy.org/booted-bantam-chicken/",
+    "https://en.wikipedia.org/wiki/Booted_Bantam",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 0.6, "source_url": "https://livestockconservancy.org/booted-bantam-chicken/" },
+    "rooster_weight_kg": { "value": 0.7, "source_url": "https://livestockconservancy.org/booted-bantam-chicken/" },
+    "egg_size": { "value": "small", "source_url": "https://livestockconservancy.org/booted-bantam-chicken/" },
+    "temperament": { "value": "calm, friendly, alert", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": { "value": "no", "source_url": "https://livestockconservancy.org/booted-bantam-chicken/" },
+    "broodiness": { "value": "high", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/booted-bantam-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "purpose", "comb", "feathered_legs", "varieties"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "feathered_legs"] },
+    { "url": "https://en.wikipedia.org/wiki/Booted_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "purpose", "comb", "feathered_legs", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Booted Bantam, called Sabelpoot in Dutch, is a true bantam known for its heavily feathered legs and feet and its vulture hocks, stiff feathers that sweep down and back from the thighs. Feather-footed bantams like it appear in European paintings from the 1600s, and birds were being bred in Massachusetts by 1836. It is closely related to the Barbu d'Uccle but has no beard and runs a little larger. Hens weigh about 22 ounces and cocks about 26. It has a single upright comb, a short back and a tail held high. The APA accepts white, mille fleur, porcelain, black and self blue. Hens lay around 120 small white to tinted eggs a year and often go broody. Booted Bantams are calm, friendly and alert, and they scratch very little, so they spare gardens. They dislike cold and damp and need dry, soft ground to keep foot feathers clean.",
+    "sources": [
+      "https://livestockconservancy.org/booted-bantam-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Booted_Bantam"
+    ]
+  }
+}

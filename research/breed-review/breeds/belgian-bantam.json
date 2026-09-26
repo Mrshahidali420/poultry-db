@@ -1,0 +1,23 @@
+{
+  "breed_id": "belgian-bantam",
+  "status": "fixed",
+  "changes": "All filled fields match Wikipedia: small white eggs, 0.65 kg cock and 0.55 kg hen, single comb, slate-blue legs, good sitters, Belgium, bred from about 1900 and standardised 1934. Added egg_size small from the 30 to 35 g egg weight. Caution: this record is the specific Belgian Bantam breed (Belgisch kriel, Naine belge), a relative of the Dutch Bantam. The Poultry Club of Great Britain Belgian page and similar hobby pages describe the bearded Belgian bantams (Barbu d'Anvers, d'Uccle and others), a different group, so they were not used as support. No second publisher found; needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Belgian_Bantam",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/",
+    "https://poultrykeeper.com/chicken-breeds/belgian-bantams/"
+  ],
+  "fixes": {
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Belgian_Bantam" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Belgian_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "comb", "varieties", "origin_year_or_period", "conservation_status", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Belgian Bantam, known in Belgium as the Belgisch kriel or Naine belge, is a tiny chicken with no large form. The name can confuse people, since it is also used loosely for every bantam from Belgium, but here it means one particular breed. It comes from the old European stock of small partridge colored bantams, the same roots as the Dutch Bantam, and breeders around Liège shaped it from about 1900. Its standard dates from 1934. It looks much like the Dutch Bantam but is a little bigger, with cocks near 1.4 pounds and hens near 1.2 pounds. It has a single comb and slate blue legs, and partridge is by far the usual color. Hens lay small white eggs and are good sitters and mothers. Only 168 birds were counted in Belgium in 2010, so it is a breed for dedicated conservation breeders.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Belgian_Bantam"
+    ]
+  }
+}

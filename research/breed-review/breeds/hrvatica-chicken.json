@@ -1,0 +1,28 @@
+{
+  "breed_id": "hrvatica-chicken",
+  "status": "fixed",
+  "changes": "Origin Croatia and 1917 development confirmed by Wikipedia and the FAO DAD-IS Croatia record. Added from FAO DAD-IS: cocks 3.5 to 4 kg (set 3.8), hens 2.5 to 3 kg (set 2.8), more than 200 eggs a year with good care (eggs_per_year_min 200), purpose dual (uses eggs and meat), broodiness high (the record says the hens kept the instinct to sit and care well for chicks). No source read gives egg color, egg size or temperament. Guessed Croatian Wikipedia URLs returned 404. Key facts rest on FAO alone, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Hrvatica_chicken",
+    "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 3.8, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en" },
+    "hen_weight_kg": { "value": 2.8, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en" },
+    "eggs_per_year_min": { "value": 200, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en" },
+    "purpose": { "value": "dual", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en" },
+    "broodiness": { "value": "high", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Hrvatica_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "eggs_per_year_min", "purpose", "broodiness", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Hrvatica is a Croatian farm chicken. It was bred in 1917 by Ivan Lakus at Torcec, a Podravina village, starting from local hens and crossing them with Leghorn cocks. White birds were culled, leaving black, red, brown and speckled birds, and Welsummer blood later set the final type. Today it is kept across Croatia and much of the Balkans. It is a solid dual purpose bird: cocks weigh about 7.5 to 9 pounds and hens about 5.5 to 6.5 pounds. With good feed and care, hens can lay more than 200 eggs a year. The meat is well regarded, especially from birds with access to green feed. Hens still go broody readily and are careful mothers, which is now rare in chickens. The breed resists disease and breeds well, making it a practical choice for small farms that want to hatch their own chicks.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hrvatica_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Hen%20Hrvatica&lang=en"
+    ]
+  }
+}

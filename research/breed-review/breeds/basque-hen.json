@@ -1,0 +1,28 @@
+{
+  "breed_id": "basque-hen",
+  "status": "fixed",
+  "changes": "This is the Euskal Oiloa (Gallina Vasca). Purpose dual-purpose to dual (allowed value). Temperament changed from a list (friendly, hardy, good forager) to friendly; hardy and good forager are not temperament. Origin France/Spain to Spain: Wikipedia gives Spain as the country of origin and the breed standard is Spanish; Star Milling's France/Spain kept as a conflict alternative. Added hen 2.5 kg and rooster 3.6 kg from Wikipedia, with Star Milling's 9 lb (4.1 kg) rooster as an alternative. Confirmed 200 to 220 brown eggs a year (Wikipedia 209 to 220) and large size (Wikipedia about 60 g).",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/Euskal_Oiloa"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" },
+    "temperament": { "value": "friendly", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "origin_country": { "value": "Spain", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa", "conflict": true, "alternatives": [{ "value": "France/Spain", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa", "conflict": true, "alternatives": [{ "value": 4.1, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "egg_color", "temperament", "origin_country", "rooster_weight_kg", "varieties", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/Euskal_Oiloa", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "notable_traits"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Basque hen, called Euskal Oiloa in the Basque language, is the old farmyard chicken of the Basque Country, the region that straddles northern Spain and southwestern France. It is a sturdy dual purpose bird that gave rural families both meat and eggs, and Spain began a formal breeding program for it in 1975. It has yellow legs and skin, red earlobes and a bright red single comb. Five color forms exist: black, red, a red brown naked neck, golden cuckoo and a white bird with a black tail. Cocks weigh about 8 to 9 pounds and hens about 5.5 pounds. Hens lay roughly 200 to 220 large brown eggs a year. The birds are friendly, like being around people and handle well. They are tough and forage well, which suits homesteads and free range flocks.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Euskal_Oiloa",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "breed_id": "giriraja",
+  "status": "approved",
+  "changes": "All filled fields match the Wikipedia text: 180 to 190 brown eggs a year, hens about 3 kg and cocks about 4 kg at six months, dual purpose, India. The FAO DAD-IS India record confirms it is a crossbreed developed for rural poultry. No second publisher with egg or weight figures could be read (indiafarm.org returned 403, the Assam government PDF did not parse), so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Giriraja",
+    "https://dadis-breed-datasheet-ws.web.app/?country=IND&specie=Chicken&breed=Giriraja&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Giriraja", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=IND&specie=Chicken&breed=Giriraja&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "Giriraja is a modern Indian chicken bred at the Karnataka veterinary university in Bengaluru. Scientists crossed pure exotic lines to get a bird that looks and lives like a village desi chicken but grows and lays better. It is a dual purpose bird. By six months, hens reach about 6.5 pounds and cocks about 9 pounds. Hens lay around 180 to 190 brown eggs a year, each about 52 to 55 grams. The shells are thicker than those of shop eggs, so they crack less, and most eggs hatch, which lets farmers breed their own replacements. The birds forage well on insects, greens and kitchen scraps, need little special care and can range freely. They resist most common diseases, though not Newcastle disease. The breed is aimed at backyard and small mixed farms, where a flock of five hens and one cock is typical.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Giriraja"
+    ]
+  }
+}

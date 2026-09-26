@@ -1,0 +1,29 @@
+{
+  "breed_id": "malines-chicken",
+  "status": "fixed",
+  "changes": "All existing fields match English Wikipedia (140 to 160 tinted eggs of about 65 g, excellent sitters, meat purpose, usually single comb, lightly feathered legs, Mechelen origin from about 1852). Meat purpose, Belgian origin and feathered legs also confirmed by FAO DAD-IS. Added weights: English Wikipedia infobox gives cock 5 kg and hen 4 to 4.5 kg, French Wikipedia's standard gives cock 4 to 5 kg and hen 3 to 4 kg; set rooster 5.0 kg and hen 4.0 kg, the value both ranges share. Egg color kept as tinted but flagged, because the French standard gives brown shells. Guessed Poultrykeeper and Poultry Club URLs returned 404, so weights and eggs rest on Wikipedia only and needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Malines_chicken",
+    "https://fr.wikipedia.org/wiki/Coucou_de_Malines",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Mechelse%20hoen&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 5.0, "source_url": "https://en.wikipedia.org/wiki/Malines_chicken" },
+    "hen_weight_kg": { "value": 4.0, "source_url": "https://fr.wikipedia.org/wiki/Coucou_de_Malines" },
+    "egg_color": { "value": "tinted", "source_url": "https://en.wikipedia.org/wiki/Malines_chicken", "conflict": true, "alternatives": [{ "value": "brown", "source_url": "https://fr.wikipedia.org/wiki/Coucou_de_Malines" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Malines_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "rooster_weight_kg", "hen_weight_kg", "broodiness", "purpose", "comb", "feathered_legs", "bantam_available", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://fr.wikipedia.org/wiki/Coucou_de_Malines", "publisher": "Wikipedia (French)", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "egg_color", "egg_size", "comb", "varieties"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Mechelse%20hoen&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["purpose", "origin_country", "feathered_legs"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Malines, known in Dutch as the Mechelse Koekoek, is a big Belgian meat chicken from the country around Mechelen, between Antwerp and Brussels. From the 1850s, local cuckoo-barred farm hens were crossed with Shanghai birds from the Antwerp zoo, and later with Brahma, Langshan and Cochin. The result kept the fine local meat on a much larger frame, and the breed was officially recognized in 1898. Along with the Jersey Giant it ranks among the heaviest chickens: cocks reach about 11 pounds and hens about 9. It usually has a single comb and pale, lightly feathered legs, and comes in several colors, cuckoo being the classic. Hens lay about 140 to 160 large tinted eggs a year and are devoted sitters and mothers. Sold as the Poulet de Bruxelles, its white, fine-grained meat was once in high demand. It is rare today.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Malines_chicken",
+      "https://fr.wikipedia.org/wiki/Coucou_de_Malines",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Mechelse%20hoen&lang=en"
+    ]
+  }
+}

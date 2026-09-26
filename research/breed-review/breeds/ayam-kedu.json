@@ -1,0 +1,31 @@
+{
+  "breed_id": "ayam-kedu",
+  "status": "fixed",
+  "changes": "Weights rounded and checked: Wikipedia gives cocks 2.27 to 3.63 kg and hens 1.18 to 2.72 kg, so the midpoints 3.0 kg and 2.0 kg are used (were 2.95 and 1.95); the FAO DAD-IS record for Indonesia (Kedu) gives heavier birds, 3.6 and 3.0 kg, kept as flagged alternatives. Egg count changed from 160 into 100 to 200 (DAD-IS range, which contains Wikipedia's figure of about 160). Egg color kept brown (Wikipedia text) with white or tinted, the Wikipedia infobox value, kept as a flagged alternative. Comb set to single, red or black (DAD-IS: thick, large, upright single comb, black or red). Purpose ornamental to dual, since DAD-IS lists eggs and meat as main uses along with fancy and ceremonial use; Wikipedia's ritual-bird description kept as the ornamental alternative. Varieties, black or white skin, Indonesian origin and history confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ayam_Kedu",
+    "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/ayam-cemani/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu", "conflict": true, "alternatives": [{ "value": 3.6, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en" }] },
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu", "conflict": true, "alternatives": [{ "value": 3.0, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en" }] },
+    "eggs_per_year_min": { "value": 100, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en" },
+    "egg_color": { "value": "brown", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu", "conflict": true, "alternatives": [{ "value": "white or tinted", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu" }] },
+    "comb": { "value": "single, red or black", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en" },
+    "purpose": { "value": "dual", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en", "conflict": true, "alternatives": [{ "value": "ornamental", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kedu" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ayam_Kedu", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "skin_color", "comb", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "skin_color"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ayam Kedu is a native chicken of Indonesia, named after the village of Kedu on the Kedu Plain in Central Java, where local families have kept it for generations. It is counted among the ancestors of the all black Ayam Cemani. It is a medium sized, hard feathered bird with a large upright single comb. Three main types are known: the Kedu Kedu, a big white skinned bird; the Kedu Cemani, black skinned with a black comb; and the Kedu Hsian, a white skinned partridge type. Plumage may be black, white or partridge. Roosters weigh about 5 to 8 pounds and hens about 2.6 to 6. Estimates put laying at roughly 100 to 200 eggs a year, usually described as brown. The bird is valued in Indonesia for rituals and ceremonies, is used in Chinese medicine, and is also kept for eggs and meat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ayam_Kedu",
+      "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kedu&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "breed_id": "euskal-oiloa",
+  "status": "fixed",
+  "changes": "origin_country shortened from \"Spain (Basque Country) and south-western France\" to \"Spain\": the breed standard is Spanish and the whole 2013 population was in the Spanish Basque Country. Added egg_size large (eggs about 60 g). Weights 3.6 kg cock and 2.5 kg hen, brown eggs, five varieties, yellow skin and legs confirmed by Agraria.org, but its breed page is largely a translation of the Wikipedia article, so it is not a fully independent check; egg numbers (209 to 220) rest on Wikipedia alone. Left in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Euskal_Oiloa",
+    "https://www.agraria.org/polli/euskal-oiloa.htm"
+  ],
+  "fixes": {
+    "origin_country": { "value": "Spain", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Euskal_Oiloa" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Euskal_Oiloa", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "skin_color", "varieties", "conservation_status", "origin_year_or_period", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/euskal-oiloa.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "skin_color", "varieties"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Euskal Oiloa, or Basque hen, is the old farmyard chicken of the Basque Country in northern Spain. It is a hardy dual purpose bird of the Atlantic type, so unlike the Mediterranean breeds of Spain it has yellow legs, red earlobes and brown eggs. Roosters weigh about 8 pounds and hens about 5.5 pounds. Its single comb carries five to seven sharp points, and its skin is yellow. Five colors are recognized: black, red, golden cuckoo, black tailed white, and a red brown naked neck type. Hens lay roughly 209 to 220 brown eggs a year, each around 60 grams. Many males are raised as capons for the table. The breed lost ground to commercial brown egg hybrids, and a conservation program began in 1975. Spain approved its official standard in 2001 and lists it as a breed at risk.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Euskal_Oiloa",
+      "https://www.agraria.org/polli/euskal-oiloa.htm"
+    ]
+  }
+}

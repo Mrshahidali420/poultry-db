@@ -1,0 +1,31 @@
+{
+  "breed_id": "black-sex-link",
+  "status": "fixed",
+  "changes": "Eggs per year minimum 280 was not in the cited Wikipedia text (it says sex-links often lay 300 or more); set to 250 from Omlet, which says over 250 a year. Temperament calm, productive layer (not in the source, and half of it is about laying) replaced with docile, quiet, easygoing from Omlet. Added egg size large to extra large, hen weight 2.3 kg (5 lb), rooster weight 3.6 kg (8 lb), cold hardy yes, heat tolerant yes and broodiness low, all from Omlet. Brown eggs and US origin confirmed by Omlet. Most key facts rest on Omlet alone, so it stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sex-link",
+    "https://www.omlet.us/breeds/chickens/black_star/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 250, "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "temperament": { "value": "docile, quiet, easygoing", "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "egg_size": { "value": "large to extra large", "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/black_star/" },
+    "broodiness": { "value": "low", "source_url": "https://www.omlet.us/breeds/chickens/black_star/" }
+  },
+  "sources": [
+    { "url": "https://www.omlet.us/breeds/chickens/black_star/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "origin_country", "autosexing"] },
+    { "url": "https://en.wikipedia.org/wiki/Sex-link", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "autosexing", "purpose", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Black Sex Link, often sold as the Black Star, is not a breed that breeds true but a first-generation cross. A Rhode Island Red or New Hampshire rooster is mated to a Barred Plymouth Rock hen, a pairing American breeders pushed after World War II to get a stronger layer. Chick color depends on sex, and males hatch with a white spot on the head, so buyers can tell pullets from cockerels on day one. Adults are mostly black, and hens may show gold on the neck. Hens weigh about 5 pounds and roosters about 8. A good hen lays more than 250 large to extra large brown eggs a year and seldom goes broody. The birds are quiet, docile and easy to handle, and they stand up to both cold and hot weather. They suit beginners and families who want plenty of eggs from a hardy, easygoing bird.",
+    "sources": [
+      "https://www.omlet.us/breeds/chickens/black_star/",
+      "https://en.wikipedia.org/wiki/Sex-link"
+    ]
+  }
+}

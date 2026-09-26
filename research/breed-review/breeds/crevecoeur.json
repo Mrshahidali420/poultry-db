@@ -1,0 +1,40 @@
+{
+  "breed_id": "crevecoeur",
+  "status": "fixed",
+  "changes": "Possible duplicate of cr-vec-ur-chicken. Purpose dual-purpose to dual and crest true to yes (value styles). The record had only white eggs and origin, so key facts were added from the Livestock Conservancy page and confirmed by Oklahoma State: hen 6.5 lb (2.9 kg), rooster 8 lb (3.6 kg), 120 to 150 white to tinted eggs a year, medium to large, moderately broody, gentle and docile. Added a v-shaped comb, white skin and the black, blue and white varieties (Oklahoma State). Confirmed French origin (Normandy) against Wikipedia, Livestock Conservancy, Oklahoma State and the Poultry Club of Great Britain.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken",
+    "https://livestockconservancy.org/crevecoeur-chicken/",
+    "https://breeds.okstate.edu/poultry/chickens/crevecoeur-chickens",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/crevecoeur/"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "crest": { "value": "yes", "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "eggs_per_year_min": { "value": 120, "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "eggs_per_year_max": { "value": 150, "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "temperament": { "value": "gentle, docile", "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "broodiness": { "value": "medium", "source_url": "https://livestockconservancy.org/crevecoeur-chicken/" },
+    "comb": { "value": "v-shaped", "source_url": "https://breeds.okstate.edu/poultry/chickens/crevecoeur-chickens" },
+    "skin_color": { "value": "white", "source_url": "https://breeds.okstate.edu/poultry/chickens/crevecoeur-chickens" },
+    "varieties": { "value": ["black", "blue", "white"], "source_url": "https://breeds.okstate.edu/poultry/chickens/crevecoeur-chickens" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/crevecoeur-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "crest", "comb", "skin_color", "origin_country"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/crevecoeur-chickens", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "crest", "comb", "skin_color", "varieties", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "crest", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/crevecoeur/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Crevecoeur is one of the oldest French chickens, raised for centuries in Normandy and named for a small town there. It was prized for its table meat, with fine bones and white breast meat, and it won early prizes in Paris before joining the American standard in 1874. Wartime losses in France left it close to extinction, and it is still rare. The usual bird is solid black, with a full crest, a beard and a small red comb shaped like a V or pair of horns; blue and white also exist. Roosters weigh about 8 pounds and hens about 6.5. Hens lay 120 to 150 white to tinted eggs a year, medium to large, and go broody at times. Crevecoeurs are quiet and gentle, take confinement well and make good pets, but their crests need covered pens and protection from winter wet.",
+    "sources": [
+      "https://livestockconservancy.org/crevecoeur-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/crevecoeur-chickens",
+      "https://en.wikipedia.org/wiki/Cr%C3%A8ve%C5%93ur_chicken"
+    ]
+  }
+}

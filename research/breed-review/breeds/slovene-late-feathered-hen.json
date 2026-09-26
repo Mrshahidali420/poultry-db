@@ -1,0 +1,24 @@
+{
+  "breed_id": "slovene-late-feathered-hen",
+  "status": "fixed",
+  "changes": "Purpose dual to meat: Wikipedia classes it as a heavy meat breed used mainly for broilers, with laying only a secondary use. Autosexing yes cleared: the breed itself is not autosexing; only chicks from a cross with an early-feathering rooster can be sexed by feather speed, which the notable traits already say. Added egg size large (eggs about 60 g). Cleared the empty varieties list. Confirmed about 200 brown eggs a year, rooster 4.5 kg and hen 3.0 kg averages, white plumage, single comb, red earlobes, yellow skin, White Plymouth Rock origin around 1960 and the 2020 count of 340 birds. Only Wikipedia covers this breed, so it stays flagged for review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen"
+  ],
+  "fixes": {
+    "purpose": { "value": "meat", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" },
+    "autosexing": null,
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "purpose", "skin_color", "comb", "earlobe_color", "origin_country", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Slovene Late-feathered Hen is a heavy white chicken from Slovenia and the only meat-type breed left on the country's list of traditional farm animals. It grew out of White Plymouth Rocks imported to a farm near Pivka around 1960, and breeders at a research station picked out birds that grow their feathers slowly. Today the University of Ljubljana keeps most of the flock, which numbered 340 birds in 2020. Birds are plain white with a broad back, a red single comb, yellow eyes, small red earlobes and yellow skin and legs. Roosters average about 10 pounds and hens about 6.6 pounds. Hens give around 200 brown eggs a year of roughly 60 grams. The breed is mainly used as a grandparent line for the Prelux-BRO broiler, and a slow-feathering hen crossed with a fast-feathering rooster gives chicks that can be sexed by how fast their feathers come in.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Slovene_Late-feathered_Hen"
+    ]
+  }
+}

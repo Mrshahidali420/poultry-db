@@ -1,0 +1,39 @@
+{
+  "breed_id": "araucana",
+  "status": "fixed",
+  "changes": "Egg count: Livestock Conservancy gives 150 to 200 a year while Wikipedia and Star Milling give about 250; set 150 to 200 as the main range and kept 250 as a flagged alternative for the maximum. Added US standard weights from Livestock Conservancy, hen 4 lb (1.8 kg) and rooster 5 lb (2.3 kg), with the heavier British standard (hen 2.2 kg, cock 2.7 kg, lower end of the Wikipedia range) as flagged alternatives. Egg color set to blue (Livestock Conservancy, Star Milling) with blue or green kept as an alternative (Wikipedia, Poultry Club of Great Britain). Added egg size medium to large, temperament calm, docile, friendly, purpose eggs, and cold and heat tolerance (breeder statement on the Livestock Conservancy page). Conservation status set to Critical (Livestock Conservancy) for US readers, with the world-wide not at risk kept as an alternative. Origin Chile and pea comb confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/araucana-chicken/",
+    "https://en.wikipedia.org/wiki/Araucana",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/araucana/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 150, "source_url": "https://livestockconservancy.org/araucana-chicken/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://livestockconservancy.org/araucana-chicken/", "conflict": true, "alternatives": [{ "value": 250, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "egg_color": { "value": "blue", "source_url": "https://livestockconservancy.org/araucana-chicken/", "conflict": true, "alternatives": [{ "value": "blue or green", "source_url": "https://en.wikipedia.org/wiki/Araucana" }] },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/araucana-chicken/" },
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://livestockconservancy.org/araucana-chicken/", "conflict": true, "alternatives": [{ "value": 2.2, "source_url": "https://en.wikipedia.org/wiki/Araucana" }] },
+    "rooster_weight_kg": { "value": 2.3, "source_url": "https://livestockconservancy.org/araucana-chicken/", "conflict": true, "alternatives": [{ "value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Araucana" }] },
+    "temperament": { "value": "calm, docile, friendly", "source_url": "https://livestockconservancy.org/araucana-chicken/" },
+    "purpose": { "value": "eggs", "source_url": "https://livestockconservancy.org/araucana-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/araucana-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/araucana-chicken/" },
+    "conservation_status": { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/araucana-chicken/", "alternatives": [{ "value": "not at risk (world-wide)", "source_url": "https://en.wikipedia.org/wiki/Araucana" }] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/araucana-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "cold_hardy", "heat_tolerant", "conservation_status", "varieties"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "eggs_per_year_max", "origin_country", "comb"] },
+    { "url": "https://en.wikipedia.org/wiki/Araucana", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "comb", "varieties", "bantam_available", "conservation_status"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/araucana/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["egg_color", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Araucana is a blue egg chicken from Chile, named for the Araucania region where Mapuche farmers kept it. A Spanish poultry scientist described the birds in 1914, and the first ones reached North America in 1924. The American type is rumpless, with no tail, and carries odd tufts of feathers sticking out beside the ears. Both traits come from lethal genes, so many chicks die before hatching and breeding them is hard work. British birds differ: they can have tails and wear a beard and muffs. Under the US standard, roosters weigh about 5 pounds and hens about 4. Hens lay around 150 to 200 medium to large blue eggs a year, and some flocks do better. They are calm, curious and friendly, and a longtime breeder says they cope with both summer heat and winter cold. The breed is rare in the US and suits dedicated keepers more than casual ones.",
+    "sources": [
+      "https://livestockconservancy.org/araucana-chicken/",
+      "https://en.wikipedia.org/wiki/Araucana",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

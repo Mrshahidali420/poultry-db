@@ -1,0 +1,36 @@
+{
+  "breed_id": "appenzeller-barthuhn",
+  "status": "fixed",
+  "changes": "Weights were stored as text ranges; set to hen 1.7 kg and cock 2.2 kg, where the Wikipedia ranges (1.6 to 1.8 and 2.0 to 2.3 kg) and the FAO DAD-IS record for Switzerland (1.7 and 2.2 kg) agree; Omlet gives a little less (3.5 and 4.5 lb). Added eggs_per_year_min 100 (DAD-IS average) to go with the existing maximum of 150 (Wikipedia, first year). Added egg size medium to large (Wikipedia 55 g, Omlet large), temperament calm, docile, friendly, cold hardy yes and broodiness low, all from the Omlet breed page, which says the beard, rose comb and small wattles guard against frostbite. White eggs, rose comb, bantam, colors, Switzerland and the 1860s origin confirmed by Wikipedia, DAD-IS and the Poultry Club of Great Britain.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/appenzeller-barthuner/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Barthuhn&lang=en",
+    "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.7, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Barthuhn&lang=en" },
+    "rooster_weight_kg": { "value": 2.2, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Barthuhn&lang=en" },
+    "eggs_per_year_min": { "value": 100, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Barthuhn&lang=en" },
+    "egg_size": { "value": "medium to large", "source_url": "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/" },
+    "temperament": { "value": "calm, docile, friendly", "source_url": "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/" },
+    "broodiness": { "value": "low", "source_url": "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "comb", "bantam_available", "varieties", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/", "publisher": "Omlet", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "origin_country", "comb"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Barthuhn&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "varieties"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/appenzeller-barthuner/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Appenzeller Barthuhn is a bearded chicken from the Appenzell area of north-eastern Switzerland. A breeder named Zust developed it from the 1860s, drawing on Leghorn, Russian Bearded and Polverara stock, with the aim of a bird that could stand Alpine winters. The beard, rose comb and small wattles help protect it from frostbite. It was recognized in 1898, nearly died out during the Second World War, and is still rare. Colors include partridge, black and blue-laced, and a bantam exists. It is a light breed: hens weigh about 3.5 to 4 pounds and cocks 4.5 to 5. Hens lay roughly 100 to 150 white eggs a year, medium to large, and seldom go broody. The birds are calm, docile and friendly, forage eagerly, and cope very well with cold, so they suit keepers in cold regions with room to range.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn",
+      "https://www.omlet.co.uk/breeds/chickens/appenzeller_barthuhner/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Barthuhn&lang=en",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/appenzeller-barthuner/"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "breed_id": "orpington-chicken",
+  "status": "fixed",
+  "changes": "Weights were min/max objects; set to single numbers from the Livestock Conservancy: male 10 lb (4.5 kg), female 8 lb (3.6 kg), in line with Wikipedia's 4 to 4.5 kg cocks and 3 to 3.5 kg hens. Eggs per year changed from 200 to 250 (chicken-dictionary list) to 180 to 200, where Wikipedia (about 180) and Star Milling (about 200) agree; the 250 and the historic 340 dropped. Egg color Light Brown lowercased to light brown (Wikipedia; Livestock Conservancy says brown). Egg size kept large, with Livestock Conservancy's large to extra large as a conflict. Temperament replaced with calm, friendly (Livestock Conservancy, Star Milling); the old value included heavy feathered. Purpose changed from exhibition to dual, with exhibition kept as a conflict: British sources say the breed became a show bird, while the Livestock Conservancy lists eggs and meat for US birds. Cold hardy true rewritten as yes.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Orpington_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orpington/",
+    "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/" },
+    "rooster_weight_kg": { "value": 4.5, "source_url": "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/" },
+    "eggs_per_year_min": { "value": 180, "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_color": { "value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Orpington_chicken" },
+    "egg_size": { "value": "large", "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts", "conflict": true, "alternatives": [{ "value": "large to extra large", "source_url": "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/" }] },
+    "temperament": { "value": "calm, friendly", "source_url": "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/" },
+    "purpose": { "value": "dual", "source_url": "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/", "conflict": true, "alternatives": [{ "value": "exhibition", "source_url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orpington/" }] },
+    "cold_hardy": { "value": "yes", "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Orpington_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "varieties", "bantam_available", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "temperament", "skin_color", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orpington/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose"] },
+    { "url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts", "publisher": "chicken-dictionary (GitHub)", "source_confidence": "page", "supports": ["egg_size", "cold_hardy"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Orpington is a big, soft-feathered English breed. William Cook developed it on his farm at Orpington, Kent, during the 1880s. Using Minorca, Langshan and Plymouth Rock blood, he set out to make a useful farm bird that laid well and dressed out with the white skin British buyers liked. The first birds were black, and buff, white, blue, jubilee and other colors followed. Other breeders soon made larger, fluffier show strains, and in Britain the breed is now mostly exhibited. Roosters weigh about 10 pounds and hens about 8. Hens lay around 180 to 200 light brown eggs a year. Orpingtons are calm and friendly, and the Buff in particular is known as a gentle family pet. There is also a bantam form. The Australorp of Australia was bred from the original black line.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Orpington_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://livestockconservancy.org/about-us/conservation-successes/orpington-chicken/",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orpington/"
+    ]
+  }
+}

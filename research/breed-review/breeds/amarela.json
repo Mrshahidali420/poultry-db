@@ -1,0 +1,25 @@
+{
+  "breed_id": "amarela",
+  "status": "fixed",
+  "changes": "Weights were stored as text ranges; set to numbers at the midpoints of the Wikipedia ranges, hen 2.1 kg (1.7 to 2.5) and cock 2.7 kg (2.3 to 3.1). Dual purpose, single buff color, single comb with five or six points, clean yellowish legs, hardiness, Portugal and not at risk status confirmed; the FAO DAD-IS record for Portugal also lists eggs and meat among its uses and gives not at risk. No source gives egg counts, egg color or size, or temperament, and weights rest on Wikipedia alone, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Amarela",
+    "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Amarela&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.1, "source_url": "https://en.wikipedia.org/wiki/Amarela" },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Amarela" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Amarela", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "feathered_legs", "varieties", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Amarela&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Amarela, also called the Minhota, is a traditional farm chicken from Portugal and one of the country's four native breeds. It comes from the north-west, mainly the old province of Minho. The breed was once kept across most of Portugal, but numbers fell badly during the last century as farming and eating habits changed. A conservation effort has since brought it back, and it is no longer rated at risk. There is only one color, a buff or golden shade that gives the breed its name, meaning yellow. Birds have a single comb and bare yellowish legs. Hens weigh about 3.7 to 5.5 pounds and cocks 5 to 6.8. It is kept for both meat and eggs. The birds are hardy, resist disease and do well on free range, which suits small family farms.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amarela",
+      "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Amarela&lang=en"
+    ]
+  }
+}

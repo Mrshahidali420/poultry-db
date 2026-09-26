@@ -1,0 +1,29 @@
+{
+  "breed_id": "serama",
+  "status": "fixed",
+  "changes": "Temperament list turned into the phrase confident, calm, easily handled (Wikipedia). Hen weight changed from 0.5 to 0.4 kg: the Wikipedia infobox gives 300 to 450 g for hens and 450 to 500 g for cocks, so 0.5 kg stays for roosters; Star Milling's half a pound to a pound for both sexes is consistent. Origin period cleaned from a note about article dates to early 1970s (Poultry Club of Great Britain). Cold hardy no kept: Wikipedia says their small size makes chicks more sensitive to cold. Malaysian origin, exhibition purpose and single comb confirmed by Wikipedia, Star Milling and the Poultry Club of Great Britain. No reliable egg count found beyond Wikipedia's up to 4 eggs a week, so egg fields stay empty.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Serama",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/"
+  ],
+  "fixes": {
+    "temperament": { "value": "confident, calm, easily handled", "source_url": "https://en.wikipedia.org/wiki/Serama" },
+    "hen_weight_kg": { "value": 0.4, "source_url": "https://en.wikipedia.org/wiki/Serama" },
+    "origin_year_or_period": { "value": "early 1970s", "source_url": "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Serama", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "comb", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Serama is the smallest chicken breed in the world, a true bantam from Kelantan state in Malaysia. Breeders there created it in the early 1970s from tiny local pet bantams, small game-type birds and early Japanese bantam stock, and named it after Sri Rama, a hero of shadow puppet plays. It stands about 10 inches tall or less and usually weighs under about a pound, with some Malaysian birds far lighter. The bird has a full, high chest, an upright tail held tight to the body and wings pointing almost straight down, giving a V shape. Seramas carry themselves boldly but are calm, easy to handle and not aggressive. In Malaysia they compete in tabletop shows where judges score their pose and bearing. They reached the UK in 2004, and the APA accepted the white variety in 2011. Chicks are sensitive to cold because of their small size.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Serama",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/true-bantam/serama/"
+    ]
+  }
+}

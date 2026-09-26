@@ -1,0 +1,33 @@
+{
+  "breed_id": "modern-game",
+  "status": "fixed",
+  "changes": "Weights: main values changed from the British standard ranges to the US standard of 6 lb cock and 4.5 lb hen (2.7 and 2.0 kg), which Livestock Conservancy and Oklahoma State both give; the Wikipedia British ranges (3.2 to 4.1 kg cock, 2.25 to 3.2 kg hen) kept as flagged alternatives because the two standards really differ. Temperament was a list mixing growth and flock notes; replaced with calm, active, noisy (Livestock Conservancy, Oklahoma State says calm). Purpose conflict dropped: exhibition and ornamental mean the same here and Oklahoma State agrees it is a show bird. Heat tolerant added as yes: Livestock Conservancy says the breed prefers warm climates and does poorly in cold. Confirmed 50 to 80 small white eggs, cold hardy no, medium broodiness, England origin.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Modern_Game",
+    "https://livestockconservancy.org/modern-game-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/hard-feather/modern-game/",
+    "https://breeds.okstate.edu/poultry/chickens/modern-game-chickens.html"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://breeds.okstate.edu/poultry/chickens/modern-game-chickens.html", "conflict": true, "alternatives": [{ "value": { "min": 2.25, "max": 3.2 }, "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }] },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://breeds.okstate.edu/poultry/chickens/modern-game-chickens.html", "conflict": true, "alternatives": [{ "value": { "min": 3.2, "max": 4.1 }, "source_url": "https://en.wikipedia.org/wiki/Modern_Game" }] },
+    "temperament": { "value": "calm, active, noisy", "source_url": "https://livestockconservancy.org/modern-game-chicken/" },
+    "purpose": { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Modern_Game" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/modern-game-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/modern-game-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "purpose", "origin_country", "skin_color"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/modern-game-chickens.html", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "purpose", "origin_country", "skin_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Modern_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "comb", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/modern-game/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Modern Game is a tall, slender show chicken created in England in the second half of the 1800s. When cockfighting was banned in 1849, fanciers crossed Old English Game with Malay birds and chose for height and hard, close feathering. The result stands very upright on long legs with a long neck and a short flat back, and it can look as if it is on tiptoe. Britain recognizes 13 colors. Under the US standard, cocks weigh about 6 pounds and hens about 4.5, though British large fowl run heavier. Hens lay only 50 to 80 small white eggs a year, and some go broody and mother well. The birds are calm, easy to tame and active, but noisy, and they dislike being shut in. Their tight feathers give little protection from cold, so they do best in warm climates. Most are kept for exhibition, often as bantams.",
+    "sources": [
+      "https://livestockconservancy.org/modern-game-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/modern-game-chickens.html",
+      "https://en.wikipedia.org/wiki/Modern_Game"
+    ]
+  }
+}

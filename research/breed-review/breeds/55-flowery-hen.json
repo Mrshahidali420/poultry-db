@@ -1,0 +1,21 @@
+{
+  "breed_id": "55-flowery-hen",
+  "status": "fixed",
+  "changes": "Every filled field (large cream eggs, egg purpose, autosexing, Sweden, 1955, Martin Silverudd, the blonde head down on day-old males, the white males and spotted females) checks out against the Star Milling text. The only change is clearing the empty varieties field. Star Milling is the only publisher found; no second source could be checked (the session web search budget ran out), and no source gives egg counts, weights, temperament or climate tolerance, so the record stays in review.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "origin_country", "purpose", "autosexing", "origin_year_or_period", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The 55 Flowery Hen is a Swedish laying breed created in 1955 by Martin Silverudd, a priest and poultry breeder who made several new breeds. It was his first design and the one that worked best. He wanted a bird that sexes itself at hatch and still lays eggs in commercial numbers, and this breed does both. Newly hatched cockerels can be picked out by a patch of blonde down at the back of the head. Grown roosters are mostly white, while hens carry a speckled pattern that looks like small flowers, which is where the name comes from. Hens lay large, round, cream colored eggs. Because chicks can be sorted by sex on day one, the breed appeals to keepers who want only laying hens and no surprise roosters.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

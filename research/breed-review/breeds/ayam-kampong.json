@@ -1,0 +1,29 @@
+{
+  "breed_id": "ayam-kampong",
+  "status": "fixed",
+  "changes": "Egg color brown to light brown, the shell color in the FAO DAD-IS record for Malaysia (Wikipedia says brown; breeds.json says white and light brown). Added egg size small (Wikipedia average 39 g, DAD-IS 42 g). Added weights from the Wikipedia infobox ranges, hen 1.8 kg (1.5 to 2) and cock 2.3 kg (2 to 2.5), with the lighter DAD-IS figures (1.3 and 1.5 kg) kept as flagged alternatives; village birds vary a lot. Added skin color yellow and comb rose, pea, walnut or buttercup from DAD-IS. Egg count 55 to 100 (DAD-IS average 100), high broodiness, dual purpose, the black-red, red and naked-neck varieties and Indonesia and Malaysia origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ayam_Kampong",
+    "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en"
+  ],
+  "fixes": {
+    "egg_color": { "value": "light brown", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en" },
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong" },
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong", "conflict": true, "alternatives": [{ "value": 1.3, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en" }] },
+    "rooster_weight_kg": { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Ayam_Kampong", "conflict": true, "alternatives": [{ "value": 1.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en" }] },
+    "skin_color": { "value": "yellow", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en" },
+    "comb": { "value": "rose, pea, walnut or buttercup", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ayam_Kampong", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "varieties", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "skin_color", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "Ayam Kampong, or Ayam Kampung, means village chicken, and the name covers the free ranging native chickens kept by almost every rural household in Indonesia and Malaysia. The population is very mixed, the result of red junglefowl, local Southeast Asian birds and imported European stock crossing freely since the late 1800s. Looks vary widely, but three main types are recognized: black-red, red and naked neck. Birds are small and grow slowly. Hens weigh roughly 3 to 4 pounds and cocks 3.5 to 5, depending on the flock. Hens lay only about 55 to 100 small light brown eggs a year, largely because they go broody so often. Meat birds reach market weight of 2 to 3 pounds in three or four months, and the meat sells for more than commercial chicken. Families prize these birds for meals at celebrations and special occasions.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ayam_Kampong",
+      "https://dadis-breed-datasheet-ws.web.app/?country=MYS&specie=Chicken&breed=Ayam%20Kampong&lang=en"
+    ]
+  }
+}

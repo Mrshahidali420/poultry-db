@@ -1,0 +1,25 @@
+{
+  "breed_id": "pedr-s-portuguesa",
+  "status": "fixed",
+  "changes": "Temperament active, hardy cut to active: hardy describes toughness, not temperament. cold_hardy cleared: Wikipedia says the birds resist disease and adverse environmental conditions, which does not state cold hardiness, and no other source covers it. Confirmed Portuguese origin, dual meat and egg use, fly-tying feather use and not at risk status with FAO DAD-IS (about 11,300 to 19,400 birds in 2026). Weights (cock 2.6 to 3.2 kg, hen 2.2 to 2.7 kg) rest on Wikipedia alone, and no source gives egg count, color or size, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa",
+    "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Pedr%C3%AAs%20Portuguesa&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "active", "source_url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa" },
+    "cold_hardy": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "varieties", "comb", "earlobe_color", "feathered_legs", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Pedr%C3%AAs%20Portuguesa&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "conservation_status", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Pedres Portuguesa is a traditional farm chicken from Portugal and one of the country's four native breeds. It is found across mainland Portugal but is most common in the northwest, and its home area is the old province of Minho and nearby parts of Douro Litoral and Tras-os-Montes. It comes in just one pattern: fine dark gray bars on a white or pale gray background, which gives the breed its name. The single comb has five or six points, the face and earlobes are bright red, and the bare shanks are pale yellow marked with slate. Roosters weigh about 5.7 to 7 pounds and hens about 4.9 to 6 pounds. Birds are active, resist disease and do well on free range, and they are raised for both meat and eggs. Anglers also use the barred feathers to tie trout flies.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pedr%C3%AAs_Portuguesa",
+      "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Pedr%C3%AAs%20Portuguesa&lang=en"
+    ]
+  }
+}

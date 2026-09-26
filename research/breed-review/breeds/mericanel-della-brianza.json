@@ -1,0 +1,26 @@
+{
+  "breed_id": "mericanel-della-brianza",
+  "status": "fixed",
+  "changes": "Confirmed weights (cock 0.7 to 0.8 kg, hen 0.6 to 0.7 kg), egg color and origin against FAO DAD-IS (male 0.75 kg, female 0.7 kg, light brown shell). Added eggs per year 120 to 170 and egg size small (35 g eggs) from DAD-IS; Wikipedia also gives 35 g. Skin color left as yellow per Wikipedia; DAD-IS lists white skin, so that field is not confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Mericanel_della_Brianza",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=gallina%20mericanel&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 120, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=gallina%20mericanel&lang=en" },
+    "eggs_per_year_max": { "value": 170, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=gallina%20mericanel&lang=en" },
+    "egg_size": { "value": "small", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=gallina%20mericanel&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Mericanel_della_Brianza", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "comb", "varieties", "skin_color", "earlobe_color", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=gallina%20mericanel&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Mericanel della Brianza is a true bantam from Lombardy in northern Italy, named for the hilly Brianza district north of Milan. Local farmers seem to have shaped it from small native birds in the early 1900s, and Italy's poultry federation approved a standard in 1996. It is a tiny bird: cocks weigh about 1.5 to 1.8 pounds and hens about 1.3 to 1.5 pounds. It has a single comb with five points, red earlobes and yellow legs, and it comes in several colors, including white, black, silver, gold and pyle. Hens lay roughly 120 to 170 small eggs a year, cream to light brown and about 35 grams each. The breed is still rare, with only a few hundred breeding birds counted, so it mostly suits keepers who want to help preserve an old Italian bantam.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mericanel_della_Brianza",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=gallina%20mericanel&lang=en"
+    ]
+  }
+}

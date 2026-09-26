@@ -1,0 +1,37 @@
+{
+  "breed_id": "white-faced-black-spanish",
+  "status": "fixed",
+  "changes": "Temperament list replaced with active, noisy, curious (Livestock Conservancy breed facts; Star Milling adds aloof and vocal). Comb description cut to the type single; the upright male and floppy female comb is kept in the text. Weights kept at rooster 3.6 kg (8 lb) and hen 2.9 kg (6.5 lb), which the Livestock Conservancy, Star Milling and Omlet all give; the lighter Wikipedia figures (2.5 to 3 kg and 2 to 2.5 kg, midpoints 2.8 and 2.3 kg) added as conflicting alternatives. Added cold hardy no (Omlet: not winter hardy; Livestock Conservancy: combs risk frostbite and birds need care in heat and cold) and bantam available yes (Poultry Club of Great Britain). Eggs 160 to 180, white, large, low broodiness, egg purpose and critical status confirmed across Wikipedia, the Livestock Conservancy, Omlet and the Poultry Club.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/White-faced_Black_Spanish",
+    "https://livestockconservancy.org/spanish-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/spanish/",
+    "https://www.omlet.us/breeds/chickens/spanish/"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, noisy, curious", "source_url": "https://livestockconservancy.org/spanish-chicken/" },
+    "comb": { "value": "single", "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/spanish-chicken/", "conflict": true, "alternatives": [{ "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish" }] },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/spanish-chicken/", "conflict": true, "alternatives": [{ "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish" }] },
+    "cold_hardy": { "value": "no", "source_url": "https://www.omlet.us/breeds/chickens/spanish/" },
+    "bantam_available": { "value": "yes", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/spanish/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/spanish-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "purpose", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "origin_year_or_period", "comb", "earlobe_color", "notable_traits"] },
+    { "url": "https://www.omlet.us/breeds/chickens/spanish/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "temperament"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/spanish/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["egg_color", "egg_size", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The White-faced Black Spanish is one of the oldest laying breeds in the West. It traces back to old Spanish stock but took its modern form in Britain and Holland in the 1700s, and the American Poultry Association accepted it in 1874. For most of the 1800s it was a leading egg bird in England and the eastern US. The plumage is a glossy green black, and a huge white face and earlobes hang down below the wattles. Roosters weigh about 8 pounds and hens about 6.5 pounds, and a bantam form exists. Hens seldom go broody and lay some 160 to 180 large chalk white eggs a year. The birds are active, noisy and curious, and a little aloof with other breeds. Years of breeding for bigger faces left them delicate, so they need shelter in both hot and cold weather and suit experienced keepers.",
+    "sources": [
+      "https://livestockconservancy.org/spanish-chicken/",
+      "https://en.wikipedia.org/wiki/White-faced_Black_Spanish",
+      "https://www.omlet.us/breeds/chickens/spanish/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/spanish/"
+    ]
+  }
+}

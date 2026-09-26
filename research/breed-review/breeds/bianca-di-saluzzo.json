@@ -1,0 +1,24 @@
+{
+  "breed_id": "bianca-di-saluzzo",
+  "status": "fixed",
+  "changes": "All filled fields match Wikipedia: about 180 white eggs a year, dual purpose, 2.6 kg cock and 2.05 kg hen (midpoints of 2.5 to 2.7 and 2.0 to 2.1 kg), yellow skin and earlobes, large single comb, Italy, recovery since 1999. Added egg_size medium from the roughly 50 g egg weight. FAO DAD-IS (Italy) confirms Italian origin, at-risk status and egg, meat and hobby use. No second publisher with egg or weight figures, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Bianca%20di%20Saluzzo&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "skin_color", "comb", "earlobe_color", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Bianca%20di%20Saluzzo&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bianca di Saluzzo is a traditional white chicken from Piedmont in northwest Italy. It is named after the town of Saluzzo, or the old marquisate around it, and is also called the Bianca di Cavour after a nearby town. It was once common on local farms, but intensive poultry farming in the 1960s pushed it aside, because it only does well when it can range outdoors. An agricultural school in Verzuolo started rebuilding the breed in 1999, and numbers are still small. The bird is pure white with yellow skin, legs and earlobes and a big single comb. Cocks weigh about 5.5 to 6 pounds and hens about 4.5 pounds. It is a dual purpose breed: hens start laying at six to seven months and give about 180 medium white eggs a year. It suits free range keepers interested in rare Italian poultry.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bianca_di_Saluzzo",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Bianca%20di%20Saluzzo&lang=en"
+    ]
+  }
+}

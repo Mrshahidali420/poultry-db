@@ -1,0 +1,27 @@
+{
+  "breed_id": "ayam-cemani",
+  "status": "fixed",
+  "changes": "Temperament stored as a list (friendly, skittish) rewritten as the short phrase friendly, somewhat skittish; Wikipedia says friendly but still skittish and Star Milling says friendly and easy to handle. Confirmed: tinted or cream eggs (Wikipedia, Star Milling), Indonesian origin on Java (Wikipedia, Star Milling, Poultry Club of Great Britain), single black comb (Wikipedia, Poultry Club), hen 1.8 kg and rooster 2.3 kg as the midpoints of the Wikipedia ranges (1.5 to 2 kg and 2 to 2.5 kg), low broodiness (Wikipedia says poor setters). Purpose fighting kept: Wikipedia names it a popular gamecock in Bali. No source gives egg numbers or climate tolerance. Omlet and Greenfire Farms pages returned 404.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ayam_Cemani",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/ayam-cemani/"
+  ],
+  "fixes": {
+    "temperament": { "value": "friendly, somewhat skittish", "source_url": "https://en.wikipedia.org/wiki/Ayam_Cemani" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ayam_Cemani", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "broodiness", "purpose", "lifespan_years", "skin_color", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "temperament", "origin_country", "skin_color"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/ayam-cemani/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "comb", "skin_color"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ayam Cemani is a rare chicken from the island of Java in Indonesia, where it has likely been kept for religious and ceremonial use for centuries. Its name means a chicken that is black right through. A gene that causes heavy pigment makes the feathers, beak, comb, face and skin black, and even the meat, organs and bones are black or dark gray. The birds have a gamey, upright build and a single comb. Roosters weigh about 4.4 to 5.5 pounds and hens about 3.3 to 4.4. Hens lay cream or tinted eggs, fairly big for their size, but seldom sit on them. In Bali the fast, muscular cocks are used for fighting. The first birds reached the Netherlands in 1998 and Britain in 2008. They are usually friendly, though a little skittish, and they are hard to find and costly. They suit keepers who want a striking, unusual bird.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ayam_Cemani",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/ayam-cemani/"
+    ]
+  }
+}

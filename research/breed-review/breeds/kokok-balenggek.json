@@ -1,0 +1,25 @@
+{
+  "breed_id": "kokok-balenggek",
+  "status": "fixed",
+  "changes": "Removed 'hens can crow like roosters' from notable traits and history summary: it rests on one garbled Wikipedia sentence that confuses the breed's long, stepped cock crow with hen crowing, and the FAO DAD-IS record says nothing of it. Kept the long crow of up to 60 seconds, golden sickles, yellow shanks and single comb (FAO adds that some birds have rose combs and that shanks range from white through yellow to black). West Sumatra origin confirmed by FAO (Solok). Purpose ornamental kept: FAO lists fancy and hobby uses alongside eggs, meat and research. No source read gives eggs, weights or egg color, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Kokok_Balenggek",
+    "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kokok-Balenggek&lang=en"
+  ],
+  "fixes": {
+    "notable_traits": { "value": ["cocks have unusually long crows lasting up to 60 seconds", "yellow shanks", "golden sickle feathers"], "source_url": "https://en.wikipedia.org/wiki/Kokok_Balenggek" },
+    "history_summary": { "value": "A little-known Indonesian breed from the Solok area of West Sumatra, thought to descend from the red junglefowl and kept above all for the unusually long crow of the cocks, which can last up to 60 seconds.", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kokok-Balenggek&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Kokok_Balenggek", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "comb", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kokok-Balenggek&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "purpose", "comb", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Kokok Balenggek is a native Indonesian chicken from the Solok area of West Sumatra. It is thought to descend from the red junglefowl and is well adapted to its home hills. Its fame comes from its voice: cocks give a long, drawn-out crow that can last as long as 60 seconds. The birds are sturdy, with fairly long legs, wild-type colored feathers, golden sickle feathers in the tail and large red wattles. Most have a single comb, though some carry a rose comb, and leg color runs from white through yellow to black, with yellow common. Local keepers value it mainly as a hobby and show bird for its crow, but it is also used for eggs and meat and has been studied by researchers. It remains little known outside Indonesia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kokok_Balenggek",
+      "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Kokok-Balenggek&lang=en"
+    ]
+  }
+}

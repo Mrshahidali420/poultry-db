@@ -1,0 +1,27 @@
+{
+  "breed_id": "bielefelder-kennhuhn",
+  "status": "fixed",
+  "changes": "Egg count conflict resolved at 230: the 160 alternative is Wikipedia's figure for bantam hens, not the large fowl; Star Milling also gives upwards of 230. Added egg_size large (Wikipedia about 60 g, Star Milling large) and temperament friendly (Star Milling). Brown eggs, Germany, 1970s, autosexing and dual purpose confirmed by both sources. Weights left empty: Star Milling's 10 to 12 lb rooster is a single hatchery-style figure with no hen weight and could not be checked against a standard (web search budget ran out).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 230, "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn" },
+    "eggs_per_year_max": { "value": 230, "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn" },
+    "temperament": { "value": "friendly", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "origin_country", "purpose", "autosexing", "bantam_available", "varieties", "origin_year_or_period", "conservation_status", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "origin_country", "purpose", "autosexing"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Bielefelder is a modern German chicken created in the 1970s near Bielefeld by breeder Gerd Roth. He blended Malines, Welsumer and Barred Rock lines, among others, and the breed gained German recognition in 1980. Its main selling point is that it is autosexing: at hatch, female chicks show a dark chipmunk stripe down the back, while males are paler with a light spot on the head. Adults wear a crele pattern, a barred red and black mix, and a silver form without red also exists. The birds are large, grow fast and carry a good amount of meat, so they work as a dual purpose breed. Hens lay about 230 large brown eggs a year. Bielefelders are friendly and like human company, and their camouflage coloring helps them on free range. A bantam version is available too.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

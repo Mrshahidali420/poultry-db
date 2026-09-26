@@ -1,0 +1,36 @@
+{
+  "breed_id": "marsh-daisy-chicken",
+  "status": "fixed",
+  "changes": "Temperament was a list (calm, active, can fly, flighty); replaced with \"active, generally calm\" (Wikipedia says generally calm but active and able to fly; Omlet calls them upright, active birds). Egg color conflict dropped: tinted (Wikipedia, Omlet) and cream (Star Milling) describe the same pale shell, so the value stays tinted. Rooster weight rounded from 2.95 to 3.0 kg; Omlet's 6 to 7 lb males and 5 to 6 lb hens agree with Wikipedia's 6.5 lb and 5.5 lb. Added broodiness high (Omlet: excellent broodies) and eggs_per_year_min 200 alongside the existing max, since Star Milling gives about 200 eggs. Rose comb, white lobes, willow legs, no bantam and English origin confirmed by the Poultry Club and Agraria.org.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/",
+    "https://www.agraria.org/polli/marshdaisy.htm"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, generally calm", "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" },
+    "egg_color": { "value": "tinted", "source_url": "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/" },
+    "rooster_weight_kg": { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken" },
+    "broodiness": { "value": "high", "source_url": "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/" },
+    "eggs_per_year_min": { "value": 200, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "bantam_available", "conservation_status", "origin_year_or_period", "history_summary"] },
+    { "url": "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/", "publisher": "Omlet", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "varieties", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "origin_country", "cold_hardy"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "bantam_available", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/marshdaisy.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["origin_country", "comb", "earlobe_color", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Marsh Daisy is a rare English chicken from Southport in Lancashire. Breeders built it between the 1880s and 1913 from Old English Game, Malay, Hamburgh, Leghorn and Sicilian Buttercup stock. It is a light breed: roosters weigh around 6.5 pounds and hens around 5.5 pounds, and no bantam form exists. Its big comb is a rose type, its lobes are white and its legs have a green willow tint. Wheaten and brown are the most common colors, with buff, black and white much harder to find. Hens lay about 200 tinted eggs a year and often make good broody mothers. The birds are active and fly well, though most are fairly calm. They grow slowly but become tough, hardy adults that forage well and do best on free range. The breed never spread much beyond Britain and is listed as endangered there, so it appeals mostly to keepers who want to help save a rare line.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
+      "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/"
+    ]
+  }
+}

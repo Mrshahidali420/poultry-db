@@ -1,0 +1,31 @@
+{
+  "breed_id": "delaware-chicken",
+  "status": "fixed",
+  "changes": "Temperament was a list; set to calm, friendly, assertive (Livestock Conservancy: calm and friendly with people, assertive but not bullies; Star Milling: calm and friendly). Weights kept at 2.8 kg hen and 3.5 kg cock (Wikipedia); Livestock Conservancy's body text gives 6 lb and 8 lb (2.7 and 3.6 kg), which agree, while its 5.5 and 7.5 lb figures are market weights, so the alternatives are dropped. Broodiness kept low (Livestock Conservancy says not generally broody) and the Wikipedia medium alternative dropped. Conservation status set to the current Recovering (2024) listing; the older 2010 to 2021 listings were history, not alternatives. Egg count up to 200, large to jumbo brown eggs, dual purpose and US origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/delaware-chicken/",
+    "https://en.wikipedia.org/wiki/Delaware_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, friendly, assertive", "source_url": "https://livestockconservancy.org/delaware-chicken/" },
+    "hen_weight_kg": { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+    "rooster_weight_kg": { "value": 3.5, "source_url": "https://en.wikipedia.org/wiki/Delaware_chicken" },
+    "broodiness": { "value": "low", "source_url": "https://livestockconservancy.org/delaware-chicken/" },
+    "conservation_status": { "value": "Recovering (2024, Livestock Conservancy)", "source_url": "https://livestockconservancy.org/delaware-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/delaware-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "origin_country", "autosexing", "comb", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Delaware_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "varieties", "comb", "earlobe_color", "skin_color", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "purpose", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Delaware is an American chicken created in 1940 by George Ellis of Delaware. He noticed pale sports among his Barred Plymouth Rock and New Hampshire crosses and bred them into a new line, first called the Indian River. For about twenty years it was the leading broiler on the Delmarva Peninsula, until Cornish crosses took over in the late 1950s, and it later became rare. The bird is mostly white with black barring on the neck, wings and tail. Roosters weigh about 8 pounds and hens about 6. Hens lay about four large to jumbo brown eggs a week, up to 200 a year, and rarely go broody. Delawares are calm and friendly with people and firm but not bullying with other hens. They can be noisy, cannot fly well, and suit small farms that want both meat and eggs.",
+    "sources": [
+      "https://livestockconservancy.org/delaware-chicken/",
+      "https://en.wikipedia.org/wiki/Delaware_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

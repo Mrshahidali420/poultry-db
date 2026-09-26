@@ -1,0 +1,40 @@
+{
+  "breed_id": "appenzeller-spitzhauben",
+  "status": "fixed",
+  "changes": "Added the missing key facts from the Livestock Conservancy page: 150 to 180 eggs a year (Wikipedia also gives about 150 in the first year), egg size medium to large (Wikipedia 55 g), temperament active, flighty, cold hardy yes, heat tolerant yes, broodiness medium (can go broody, excellent mothers) and purpose eggs. Weights added from the Livestock Conservancy US figures, hen 3.5 lb (1.6 kg) and cock 4.5 lb (2.0 kg), with the lighter European figures from FAO DAD-IS for Switzerland (1.3 and 1.7 kg, close to Wikipedia's just over 1 and 1.5 kg) kept as a flagged alternative. White eggs, V-comb, crest, colors, Switzerland, near extinction after the Second World War and revival confirmed by Wikipedia, the Livestock Conservancy, DAD-IS, Star Milling and the Poultry Club of Great Britain.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben",
+    "https://livestockconservancy.org/spitzhauben-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/appenzeller-spitzhauben/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Spitzhauben&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 150, "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "eggs_per_year_max": { "value": 180, "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "temperament": { "value": "active, flighty", "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "broodiness": { "value": "medium", "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "purpose": { "value": "eggs", "source_url": "https://livestockconservancy.org/spitzhauben-chicken/" },
+    "hen_weight_kg": { "value": 1.6, "source_url": "https://livestockconservancy.org/spitzhauben-chicken/", "conflict": true, "alternatives": [{ "value": 1.3, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Spitzhauben&lang=en" }] },
+    "rooster_weight_kg": { "value": 2.0, "source_url": "https://livestockconservancy.org/spitzhauben-chicken/", "conflict": true, "alternatives": [{ "value": 1.7, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Spitzhauben&lang=en" }] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/spitzhauben-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "broodiness", "purpose", "comb", "crest", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "comb", "crest", "varieties", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Spitzhauben&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "crest"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "origin_country", "comb", "crest", "notable_traits"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/appenzeller-spitzhauben/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Appenzeller Spitzhauben is a small crested chicken from the Appenzell district of north-eastern Switzerland, where it has been kept for centuries and is seen as the national chicken. Its name comes from a pointed lace hat once worn by local women, which the forward sweeping crest resembles. It also has a red V-shaped comb, blue legs and white skin. Silver spangled birds are the most common, with gold spangled, black, blue and other colors also bred. The breed almost vanished after the Second World War and was saved by a German breeder. Hens weigh about 3.5 pounds and roosters about 4.5 in US flocks, and European birds run lighter. Hens lay some 150 to 180 white eggs a year, medium to large, including through winter. The birds are active, flighty and fly well, so they need a covered run or free range. They cope with both cold and heat.",
+    "sources": [
+      "https://livestockconservancy.org/spitzhauben-chicken/",
+      "https://en.wikipedia.org/wiki/Appenzeller_Spitzhauben",
+      "https://dadis-breed-datasheet-ws.web.app/?country=CHE&specie=Chicken&breed=Appenzeller%20Spitzhauben&lang=en"
+    ]
+  }
+}

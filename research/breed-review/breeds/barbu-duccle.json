@@ -1,0 +1,28 @@
+{
+  "breed_id": "barbu-duccle",
+  "status": "fixed",
+  "changes": "Weights set to the American standard given in Wikipedia, 22 oz hen and 26 oz cock, rounded to 0.6 and 0.7 kg; the Dutch and French figures listed as alternatives round to the same or nearly the same values, so they are dropped. Added egg color cream, egg size small and temperament sweet, friendly from Star Milling. Origin Belgium, ornamental purpose, feathered legs and single comb confirmed by Wikipedia and Star Milling. Egg count, climate tolerance and broodiness have no reliable source yet (web search budget ran out and a guessed Oklahoma State URL returned 404), and egg and temperament facts rest on one publisher, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Barbu_d'Uccle",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle" },
+    "rooster_weight_kg": { "value": 0.7, "source_url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle" },
+    "egg_color": { "value": "cream", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_size": { "value": "small", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "temperament": { "value": "sweet, friendly", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Barbu_d'Uccle", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "bantam_available", "feathered_legs", "comb", "varieties", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["hen_weight_kg", "egg_color", "egg_size", "temperament", "origin_country", "purpose", "varieties"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Barbu d'Uccle, often sold in the US as the Belgian d'Uccle, is a bearded bantam from Uccle, a town on the edge of Brussels. Michael Van Gelder bred it in the early 1900s, probably from two older Belgian bantams, and it was first shown in 1905. It is a true bantam with no large version. The bird sits low, with a full beard and muffs around the face and thick feathers down the legs and feet. The Mille Fleur, meaning a thousand flowers, is the best known of the seven US colors; porcelain, white and self blue are others. Under the American standard, hens weigh about 22 ounces and cocks about 26. Hens lay tiny cream eggs. They have sweet, friendly natures and odd, quizzical faces, which makes them good pets for people with little space and a favorite of bantam fanciers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbu_d'Uccle",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "breed_id": "penedesenca",
+  "status": "fixed",
+  "changes": "Egg color trimmed to dark brown (the darkest-egg note belongs in the text, not the field); Wikipedia and Star Milling both say very dark brown, and FAO DAD-IS says reddish. Added weights from the Wikipedia infobox, cock 2.3 to 3 kg and hen 1.7 to 2.3 kg; DAD-IS gives 2.5 and 2.0 kg, inside those ranges. Added egg size large (60 g eggs in Wikipedia and DAD-IS). Removed the notable trait claiming it is one of only two dark-egg breeds with the Marans, which no checked source states. Confirmed about 150 to 160 eggs a year and Catalan origin with DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Penedesenca",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Penedesenca&lang=en"
+  ],
+  "fixes": {
+    "egg_color": { "value": "dark brown", "source_url": "https://en.wikipedia.org/wiki/Penedesenca" },
+    "hen_weight_kg": { "value": { "min": 1.7, "max": 2.3 }, "source_url": "https://en.wikipedia.org/wiki/Penedesenca" },
+    "rooster_weight_kg": { "value": { "min": 2.3, "max": 3 }, "source_url": "https://en.wikipedia.org/wiki/Penedesenca" },
+    "egg_size": { "value": "large", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Penedesenca&lang=en" },
+    "notable_traits": { "value": ["known for very dark brown eggs, said to be among the darkest of any breed", "black type was originally standardised as \"Villafranquina Negra\""], "source_url": "https://en.wikipedia.org/wiki/Penedesenca" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Penedesenca", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "origin_country", "varieties", "earlobe_color", "comb", "conservation_status", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Penedesenca&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Penedesenca is a rare Spanish chicken from Catalonia, named for the area around Vilafranca del Penedes. Farm families there kept hens that laid very dark eggs for a long time before anyone wrote about them. The first records date from 1928, when people tried to stop the type from dying out, and a standard for a black strain was approved in 1946. The breed nearly vanished again before breeders revived it in the 1980s. Colors include black, crele, partridge and wheaten, and the birds have white earlobes and an unusual carnation comb. Roosters weigh about 5 to 6.5 pounds and hens about 3.7 to 5 pounds. Hens lay around 150 to 160 large eggs a year, about 60 grams each, in a deep brown that ranks among the darkest of any breed. It suits keepers who prize egg color.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Penedesenca",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Penedesenca&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breed_id": "dampierre",
+  "status": "fixed",
+  "changes": "Broodiness 'yes, willing to go broody' to medium (value style; Star Milling says only that hens are willing to go broody). Purpose dual-purpose to dual and crest true to yes (value styles). Added egg_size large from Star Milling, which says hens lay large white eggs. Confirmed white eggs, French origin, 1996 creation from Gournay and Crevecoeur stock and the mottled crested look against Star Milling. Star Milling is the only source; no Wikipedia page is cached and a French Wikipedia lookup failed, so weights, egg counts and temperament are unknown and the record stays flagged.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "broodiness": { "value": "medium", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "purpose": { "value": "dual", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "crest": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_size": { "value": "large", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "broodiness", "purpose", "crest", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Dampierre is a young French breed made in 1996 by fanciers who wanted to bring back the Normande, an old Normandy chicken that had died out more than a hundred years before. They could not revive the exact bird, so they built a close likeness from Gournay and Crevecoeur stock. The result is mottled black and white like the Gournay and wears a feather crest on its head. It is a dual purpose bird, with fine white meat on light bones. Hens lay a good number of large white eggs and will go broody and sit on a clutch. The breed is still very rare, especially outside France, and published details on its weight, laying totals and temperament are hard to find. It suits keepers who enjoy uncommon heritage style birds.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "breed_id": "rhode-island-white",
+  "status": "fixed",
+  "changes": "Hen weight set to 2.9 kg from the Livestock Conservancy's 6.5 lb, with Wikipedia's 3.0 kg (7 lb) kept as a flagged alternative. Temperament written as calm, friendly (Livestock Conservancy). Confirmed with both Wikipedia and the Livestock Conservancy: 200 to 250 large light to dark brown eggs, low broodiness, rooster 3.9 kg (8.5 lb), rose comb, dual purpose, United States origin, cold and heat tolerance (Livestock Conservancy).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Rhode_Island_White",
+    "https://livestockconservancy.org/rhode-island-white-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/rhode-island-red/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/", "conflict": true, "alternatives": [ { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/Rhode_Island_White" } ] },
+    "temperament": { "value": "calm, friendly", "source_url": "https://livestockconservancy.org/rhode-island-white-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/rhode-island-white-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "comb", "earlobe_color", "conservation_status", "origin_year_or_period"] },
+    { "url": "https://en.wikipedia.org/wiki/Rhode_Island_White", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "purpose", "comb", "earlobe_color", "bantam_available", "conservation_status", "origin_year_or_period", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Rhode Island White is an American dual purpose chicken from Peacedale, Rhode Island. John Alonzo Jocoy began breeding it around 1888 from Partridge Cochins, White Wyandottes and rose comb White Leghorns, and sold his first birds in 1903. In the United States it counts as its own breed, separate from the Rhode Island Red, though it shares that bird's long, brick shaped body. It comes only in white, with a bright red rose comb and yellow legs. Cocks weigh about 8.5 pounds and hens about 6.5 to 7 pounds. Hens lay some 200 to 250 large eggs a year in shades from light to dark brown, lay well in winter and seldom go broody. The birds are calm and friendly with people but can push around gentler breeds, so they need a roomy coop. They handle both hot and cold weather and suit family farms.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rhode_Island_White",
+      "https://livestockconservancy.org/rhode-island-white-chicken/"
+    ]
+  }
+}

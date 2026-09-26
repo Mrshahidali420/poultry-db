@@ -1,0 +1,21 @@
+{
+  "breed_id": "kadaknath",
+  "status": "fixed",
+  "changes": "Added egg size small from the Wikipedia egg weight of 30 to 35 g. All other fields match Wikipedia: rooster 1.8 to 2 kg and hen 1.2 to 1.5 kg (lower ends kept as the main values), brown eggs with a pink tint, poor sitters, meat purpose, grey-black skin, Madhya Pradesh origin. No second publisher could be read: the World's Poultry Science Journal and Poultry Science pages refused the fetch and the ICAR journal server was unreachable, so the record stays flagged for review. No eggs-per-year figure is filled because sources found in search disagree (80 to 140).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Kadaknath"
+  ],
+  "fixes": {
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Kadaknath" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Kadaknath", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "purpose", "skin_color", "varieties", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Kadaknath is an Indian chicken from the Dhar and Jhabua districts of Madhya Pradesh, where rural and tribal families have long kept it. Its local name, Kali Masi, means the bird with black flesh. Melanin colors almost everything about it grey-black, from the beak, legs, comb and tongue to the meat, bones and blood. Three varieties exist: jet black, golden and pencilled. It is a small bird, with roosters at about 4 to 4.4 pounds and hens at about 2.6 to 3.3 pounds. It is kept mainly for its dark meat, which carries an Indian geographical indication tag granted in 2018. Hens lay small brown eggs with a faint pink tint and seldom sit on them long enough to hatch a brood. Heavy demand has shrunk its numbers, and the state now runs a breeding program to protect it.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kadaknath"
+    ]
+  }
+}

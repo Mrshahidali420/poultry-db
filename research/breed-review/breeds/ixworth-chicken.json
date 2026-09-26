@@ -1,0 +1,34 @@
+{
+  "breed_id": "ixworth-chicken",
+  "status": "fixed",
+  "changes": "Eggs per year 270 to 160 to 200: the 270 was extrapolated from a Roslin study laying rate of 0.74 eggs a day, not an annual figure; Poultrykeeper gives 160 to 200 tinted eggs. Hen weight 4.03 to 3.2 kg: 4.03 was one study group's live weight at 55 weeks, not the breed standard; Poultrykeeper gives cock 4.1 kg and hen 3.2 kg, so rooster weight 4.1 kg was added. Temperament alert, active added (Poultrykeeper). Tinted eggs, pea comb, white skin and Suffolk, England origin (Appleyard, 1932) confirmed by Wikipedia, Star Milling, the Poultry Club of Great Britain and Poultrykeeper; cold hardy confirmed by Star Milling.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ixworth_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/ixworth/",
+    "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 160, "source_url": "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/" },
+    "hen_weight_kg": { "value": 3.2, "source_url": "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/" },
+    "rooster_weight_kg": { "value": 4.1, "source_url": "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/" },
+    "temperament": { "value": "alert, active", "source_url": "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/" }
+  },
+  "sources": [
+    { "url": "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/", "publisher": "Poultrykeeper", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Ixworth_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "origin_year_or_period", "purpose", "comb", "earlobe_color", "skin_color", "conservation_status", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "cold_hardy", "origin_country", "purpose", "comb", "skin_color"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/ixworth/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ixworth is an all-white English chicken made in 1932 by Reginald Appleyard, the breeder behind the Silver Appleyard duck, at his farm in Ixworth, Suffolk. He crossed white Sussex, white Orpington, white Minorca and several kinds of Indian Game to get a quick-growing table bird that still laid well. The bird is stocky, with white feathers, white legs and skin, a bright red pea comb and tiny wattles, so frostbite is rarely a problem and it copes well with cold. Cocks weigh about 9 pounds and hens about 7 pounds. Hens lay around 160 to 200 tinted eggs a year. Birds are alert and active and forage well. The breed nearly died out in the 1970s and is still rare, kept by a small band of fans. It suits smallholders who want both good meat and a fair supply of eggs.",
+    "sources": [
+      "https://poultrykeeper.com/chicken-breeds/ixworth-chickens/",
+      "https://en.wikipedia.org/wiki/Ixworth_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/ixworth/"
+    ]
+  }
+}

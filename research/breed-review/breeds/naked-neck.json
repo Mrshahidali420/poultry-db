@@ -1,0 +1,34 @@
+{
+  "breed_id": "naked-neck",
+  "status": "fixed",
+  "changes": "Temperament held traits, not temperament (good forager, hardy, disease-resistant); replaced with calm, friendly, docile from My Pet Chicken. Added APA weights from Oklahoma State, hen 6.5 lb (2.9 kg) and cock 8.5 lb (3.9 kg), which match the Wikipedia infobox. Added egg size medium (My Pet Chicken). Added origin Romania (Transylvania): Wikipedia and Oklahoma State both place the breed's documented history there, though Wikipedia notes a possible earlier Asian origin. Heat tolerance kept at yes (Wikipedia says half the feathers make it resistant to hot weather) with My Pet Chicken's not especially heat hardy kept as a flagged alternative. Cold hardy yes confirmed by Wikipedia and My Pet Chicken; Oklahoma State advises shelter in extreme cold. Light brown eggs and dual purpose confirmed by all three. Egg count left empty: My Pet Chicken says only fair, about 2 a week.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Naked_Neck",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.mypetchicken.com/pages/naked-neck-turken",
+    "https://breeds.okstate.edu/poultry/chickens/naked-neck-turkens"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, friendly, docile", "source_url": "https://www.mypetchicken.com/pages/naked-neck-turken" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://breeds.okstate.edu/poultry/chickens/naked-neck-turkens" },
+    "rooster_weight_kg": { "value": 3.9, "source_url": "https://breeds.okstate.edu/poultry/chickens/naked-neck-turkens" },
+    "egg_size": { "value": "medium", "source_url": "https://www.mypetchicken.com/pages/naked-neck-turken" },
+    "origin_country": { "value": "Romania (Transylvania)", "source_url": "https://breeds.okstate.edu/poultry/chickens/naked-neck-turkens" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Naked_Neck", "conflict": true, "alternatives": [{ "value": "no", "source_url": "https://www.mypetchicken.com/pages/naked-neck-turken" }] }
+  },
+  "sources": [
+    { "url": "https://breeds.okstate.edu/poultry/chickens/naked-neck-turkens", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "varieties"] },
+    { "url": "https://www.mypetchicken.com/pages/naked-neck-turken", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "cold_hardy", "heat_tolerant", "purpose", "comb", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Naked_Neck", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "heat_tolerant", "purpose", "origin_country", "comb", "varieties"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Naked Neck, often called the Turken or Transylvanian Naked Neck, is a chicken with a bare band of red skin from the shoulders to the head. It is all chicken; the old idea that it is a turkey cross is a myth. One dominant gene causes the bare neck, and the bird has only about half the usual number of feathers. Its recorded history centers on Transylvania in Romania, and Germany later refined it. The APA accepts black, white, buff and red. Cocks weigh about 8.5 pounds and hens about 6.5. Hens lay light brown eggs of medium size at a fair rate. The breed is kept for both eggs and meat, since the carcass is meaty and quick to pluck. Turkens are calm, friendly and easy to tame, forage well and handle cold better than their looks suggest.",
+    "sources": [
+      "https://breeds.okstate.edu/poultry/chickens/naked-neck-turkens",
+      "https://www.mypetchicken.com/pages/naked-neck-turken",
+      "https://en.wikipedia.org/wiki/Naked_Neck"
+    ]
+  }
+}

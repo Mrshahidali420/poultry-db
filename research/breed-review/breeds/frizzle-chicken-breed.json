@@ -1,0 +1,33 @@
+{
+  "breed_id": "frizzle-chicken-breed",
+  "status": "fixed",
+  "changes": "Purpose ornamental changed to exhibition: Wikipedia says it is kept only for showing and the Poultry Club of Great Britain calls it a purely exhibition breed. Origin country shortened from a long sentence to Asia (exact origin unknown), which Wikipedia, the Poultry Club and Omlet all point to. Added temperament gentle from Omlet. Broodiness kept high (Wikipedia says hens often go broody) but Omlet says they do not sit well, so low is added as a conflicting alternative. White or tinted eggs and poor cold tolerance (Star Milling) confirmed; no source gives egg numbers or weights, so those stay empty and the breed stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/frizzle/",
+    "https://www.omlet.us/breeds/chickens/frizzle/"
+  ],
+  "fixes": {
+    "purpose": { "value": "exhibition", "source_url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/frizzle/" },
+    "origin_country": { "value": "Asia (exact origin unknown)", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)" },
+    "temperament": { "value": "gentle", "source_url": "https://www.omlet.us/breeds/chickens/frizzle/" },
+    "broodiness": { "value": "high", "source_url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)", "conflict": true, "alternatives": [{ "value": "low", "source_url": "https://www.omlet.us/breeds/chickens/frizzle/" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "purpose", "broodiness", "comb", "feathered_legs", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/frizzle/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose"] },
+    { "url": "https://www.omlet.us/breeds/chickens/frizzle/", "publisher": "Omlet", "source_confidence": "page", "supports": ["temperament", "origin_country", "broodiness", "comb", "feathered_legs"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["cold_hardy", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Frizzle is a chicken whose feathers curl outward and forward toward the head instead of lying flat, giving it a ruffled, windswept look. The curl comes from a single gene that most likely arose in Asia, and curled birds were noted in Europe by the late 1600s. Several European countries and Australia treat the Frizzle as its own breed, while in the United States frizzling counts as a feather type found in breeds such as Cochins, Polish and Silkies. Birds have a single comb, clean legs and come in many colors, and bantams are more common than large fowl. Hens lay white or tinted eggs. They are gentle birds, mostly kept for showing. The curled feathers hold little warmth and the birds cannot fly, so they need shelter in cold weather and low perches. They suit exhibitors and keepers who want an unusual, friendly bird.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/frizzle/",
+      "https://www.omlet.us/breeds/chickens/frizzle/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

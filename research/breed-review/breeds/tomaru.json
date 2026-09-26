@@ -1,0 +1,29 @@
+{
+  "breed_id": "tomaru",
+  "status": "fixed",
+  "changes": "Added rooster 3.3 kg and hen 2.1 kg (Wikipedia infobox) and purpose ornamental (FAO DAD-IS Japan lists its use as fancy). Notable trait on crow length changed from about 25 seconds to 18 to 25 seconds, since DAD-IS gives about 18 and Wikipedia about 25. History summary rewritten to give both origin accounts: Wikipedia ties the name to the Tang dynasty, while DAD-IS says it came from crosses of Shokoku and Daitomaru birds brought from China in the 16th or 17th century; the 1939 natural monument listing is in both. Color, comb, earlobes and Japan origin match Wikipedia. Only Wikipedia gives weights, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Tomaru",
+    "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Tomaru&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Tomaru&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 3.3, "source_url": "https://en.wikipedia.org/wiki/Tomaru" },
+    "hen_weight_kg": { "value": 2.1, "source_url": "https://en.wikipedia.org/wiki/Tomaru" },
+    "purpose": { "value": "ornamental", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Tomaru&lang=en" },
+    "notable_traits": { "value": ["long-crowing breed, crow sustained for about 18 to 25 seconds", "broad, compact body with full breast", "dark slate-grey feet and shanks", "designated a Japanese natural monument in 1939"], "source_url": "https://en.wikipedia.org/wiki/Tomaru" },
+    "history_summary": { "value": "The Tomaru is one of four Japanese long-crowing breeds. Its name points to China's Tang dynasty, and the Japanese breed record says it came from crosses of Shokoku and Daitomaru birds imported from China in the 16th or 17th century. It was designated a natural monument in 1939.", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Tomaru&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Tomaru", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "origin_country", "varieties", "comb", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Tomaru&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Tomaru is a Japanese long-crowing chicken, one of four such breeds in Japan along with the Koeyoshi, Kurokashiwa and Totenko. Roosters are prized for a deep, drawn out crow that can last from about 18 to 25 seconds. The name refers to China's Tang dynasty, and Japanese breed records trace the bird to crosses of Chinese imports made several hundred years ago. It was made a natural monument in 1939. The Tomaru comes in one color only, black with a green sheen. It has a broad, compact body, a full breast, a single comb, a low carried tail and dark slate gray legs. The face and ears are red, though hens may have a fully black face. Roosters weigh about 7.3 pounds and hens about 4.6 pounds. It is kept as a fancy breed for its voice.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tomaru",
+      "https://dadis-breed-datasheet-ws.web.app/?country=JPN&specie=Chicken&breed=Tomaru&lang=en"
+    ]
+  }
+}

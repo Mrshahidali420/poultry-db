@@ -1,0 +1,33 @@
+{
+  "breed_id": "yokohama-chicken",
+  "status": "fixed",
+  "changes": "Heat tolerant was no, the reverse of the sources: Livestock Conservancy and Star Milling both say the birds prefer to be warm, so heat_tolerant set to yes and cold_hardy set to no. Rooster weight changed from 2.2 to 2.0 kg (Livestock Conservancy: males 4.5 lb, females 3.5 lb); hen 1.6 kg confirmed. Egg color set to cream to tinted and the alternatives dropped (Livestock Conservancy cream/tinted, Wikipedia tinted: the same shell). Temperament list turned into active, alert, easily tamed (Livestock Conservancy, Star Milling). Egg count 60 to 80, small eggs, high broodiness (broody after 12 to 14 eggs), ornamental purpose and German origin from Japanese stock confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/yokohama-chicken/",
+    "https://en.wikipedia.org/wiki/Yokohama_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/yokohama/"
+  ],
+  "fixes": {
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/yokohama-chicken/" },
+    "cold_hardy": { "value": "no", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "rooster_weight_kg": { "value": 2.0, "source_url": "https://livestockconservancy.org/yokohama-chicken/" },
+    "egg_color": { "value": "cream to tinted", "source_url": "https://livestockconservancy.org/yokohama-chicken/" },
+    "temperament": { "value": "active, alert, easily tamed", "source_url": "https://livestockconservancy.org/yokohama-chicken/" },
+    "eggs_per_year_max": { "value": 80, "source_url": "https://livestockconservancy.org/yokohama-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/yokohama-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "heat_tolerant", "purpose", "origin_country", "comb", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "broodiness", "heat_tolerant", "cold_hardy", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Yokohama_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "origin_country", "purpose", "comb", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Yokohama is a long-tailed show chicken bred in Germany in the late 1800s from Japanese birds shipped out of the port of Yokohama. Hugo du Roi, first head of the German poultry association, developed it, and later breeders mixed in Malay, Phoenix, game and Sumatra blood because so few imported hens survived. The US recognizes two colors: white, and red shouldered, which is white with red across the back and breast. Tails and saddle feathers can trail three to four feet. It is a small bird, with males around 4.5 pounds and females around 3.5. Hens are poor layers, giving only 60 to 80 small cream or tinted eggs a year and going broody after a dozen or so. Yokohamas are alert and active but easy to tame, and they tolerate confinement. They like warm weather and suit fanciers who keep birds for looks rather than eggs or meat.",
+    "sources": [
+      "https://livestockconservancy.org/yokohama-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Yokohama_chicken"
+    ]
+  }
+}

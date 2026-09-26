@@ -1,0 +1,26 @@
+{
+  "breed_id": "pavlovskaya",
+  "status": "fixed",
+  "changes": "Temperament curious, lively, trustful replaced with pleasant: Star Milling, the only source, says only that the birds have a pleasant personality. feathered_legs and crest changed from true to yes to match the value style used elsewhere. Star Milling gives 3 to 4 lb for the breed without splitting by sex, so hen 1.4 kg and rooster 1.8 kg are a reading of that range, not a stated figure. FAO DAD-IS (Pavlov, Russia) confirms Russian origin and a native at risk population of about 160 to 450 birds in 2025. White eggs, 70 to 90 a year, rest on Star Milling alone, so the record stays flagged.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=RUS&specie=Chicken&breed=Pavlov&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "pleasant", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "feathered_legs": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "crest": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "feathered_legs", "crest", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=RUS&specie=Chicken&breed=Pavlov&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Pavlovskaya is thought to be the oldest chicken breed in Russia, and it is said to have helped shape later crested breeds such as the Polish and the Brabanter. It is a small bird of only 3 to 4 pounds. Its looks are busy for its size: a V-shaped comb, a crest, a beard and muffs, and feathers that cover the legs right down to the toes. The breed came very close to dying out. In the 1990s the whole known population was down to two roosters, and one of them could not breed. Numbers have recovered a little, and Russia now reports a few hundred birds. Hens are poor layers, giving only about 70 to 90 white eggs a year, so the breed suits people who want an unusual, pleasant bird and a hand in saving it.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=RUS&specie=Chicken&breed=Pavlov&lang=en"
+    ]
+  }
+}

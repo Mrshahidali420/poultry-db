@@ -1,0 +1,30 @@
+{
+  "breed_id": "lakenvelder",
+  "status": "fixed",
+  "changes": "Temperament was a list; set to active, wary, flighty (Livestock Conservancy, Star Milling). Egg count kept at 150 to 200 (Livestock Conservancy), which Star Milling's 175 supports; Wikipedia's up to 160 dropped as an alternative since two publishers agree. Egg color kept white and the alternatives dropped: white to tinted and porcelain white are the same shell. Weights 4 lb hen (1.8 kg) and 5 lb cock (2.3 kg), small to medium eggs, low broodiness, partial cold hardiness, egg purpose and German-Dutch origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/lakenvelder-chicken/",
+    "https://en.wikipedia.org/wiki/Lakenvelder",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/lakenvelder/"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, wary, flighty", "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://livestockconservancy.org/lakenvelder-chicken/" },
+    "egg_color": { "value": "white", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/lakenvelder-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "beginner_friendly", "purpose", "origin_country", "skin_color", "comb", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "temperament", "comb"] },
+    { "url": "https://en.wikipedia.org/wiki/Lakenvelder", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "origin_year_or_period", "earlobe_color", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Lakenvelder is an old breed from the border country between Germany and the Netherlands, recorded as early as 1727. Its Dutch name suggests a white sheet laid over a dark field, and English speakers call it Shadow on a Sheet. The body is pure white while the head, neck hackle and tail are solid black, set off by slate blue legs and a red single comb. Full markings often appear only after the third molt. It is a small, light bird: roosters weigh about 5 pounds and hens about 4. Hens lay roughly 150 to 200 small to medium white eggs a year and do not go broody. Lakenvelders are active, wary and quick to take flight, much like Leghorns. They forage well, hate close confinement and dislike cold. They are poor pets for children and better for experienced keepers with room to free range.",
+    "sources": [
+      "https://livestockconservancy.org/lakenvelder-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Lakenvelder"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "breed_id": "sentul-chicken",
+  "status": "fixed",
+  "changes": "Dual purpose and Indonesian origin (Ciamis, West Java) confirmed by the FAO DAD-IS record, which lists eggs, meat and hobby keeping and says the breed descends from red junglefowl long adapted to the Ciamis area. Added comb pea (some single) from DAD-IS, which says most birds have a pea comb and a share have single combs. Cleared the empty varieties field that had no source. No source found gives egg color, egg count, weights or temperament; the one Indonesian survey paper cited by Wikipedia returned 403, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sentul_chicken",
+    "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Sentul&lang=en"
+  ],
+  "fixes": {
+    "comb": { "value": "pea (some single)", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Sentul&lang=en" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Sentul_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Sentul&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country", "comb", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Sentul is a native chicken of Indonesia. It comes from Ciamis Regency in West Java, where local birds descended from the red junglefowl were kept and shaped over a long period. Farmers raise it for both meat and eggs, and some people also keep it as a hobby or show bird. Most Sentuls carry a pea comb, though a share of the flock has single combs. Compared with other Indonesian village chickens, it is said to grow faster and to resist disease better, and young birds are reported to reach eating size in about twelve weeks. Reliable figures on egg numbers, egg color and adult weight are hard to find outside local studies, so it remains a breed known mainly within its home region.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sentul_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Sentul&lang=en"
+    ]
+  }
+}

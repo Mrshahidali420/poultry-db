@@ -1,0 +1,40 @@
+{
+  "breed_id": "asil-chicken",
+  "status": "fixed",
+  "changes": "Rooster weight: the old 3.8 kg is a mean from one Indian study flock; main value changed to the US standard 6 lb (2.7 kg) from Oklahoma State, with 3.8 kg (Wikipedia) and 5.5 lb or 2.5 kg (Livestock Conservancy) kept as flagged alternatives. Hen weight 2.3 kg kept, now backed by Oklahoma State's 5 lb standard, with the Livestock Conservancy 4 lb (1.8 kg) as an alternative. Egg count: added a minimum of 6 and flagged the max, since Livestock Conservancy gives 6 to 40 eggs while Wikipedia gives about 70. Egg color cream to brownish changed to cream to light brown to match both Livestock Conservancy and Wikipedia. Added egg size small, temperament, heat tolerant yes and beginner friendly no from Livestock Conservancy. Skin color note removed; Oklahoma State gives white or yellow. Empty varieties filled from the four APA varieties Livestock Conservancy names.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Asil_chicken",
+    "https://livestockconservancy.org/aseel-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/asil/",
+    "https://breeds.okstate.edu/poultry/chickens/aseel-chickens.html"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://breeds.okstate.edu/poultry/chickens/aseel-chickens.html", "conflict": true, "alternatives": [{ "value": 3.8, "source_url": "https://en.wikipedia.org/wiki/Asil_chicken" }, { "value": 2.5, "source_url": "https://livestockconservancy.org/aseel-chicken/" }] },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://breeds.okstate.edu/poultry/chickens/aseel-chickens.html", "conflict": true, "alternatives": [{ "value": 1.8, "source_url": "https://livestockconservancy.org/aseel-chicken/" }] },
+    "eggs_per_year_min": { "value": 6, "source_url": "https://livestockconservancy.org/aseel-chicken/" },
+    "eggs_per_year_max": { "value": 70, "source_url": "https://en.wikipedia.org/wiki/Asil_chicken", "conflict": true, "alternatives": [{ "value": 40, "source_url": "https://livestockconservancy.org/aseel-chicken/" }] },
+    "egg_color": { "value": "cream to light brown", "source_url": "https://livestockconservancy.org/aseel-chicken/" },
+    "egg_size": { "value": "small", "source_url": "https://livestockconservancy.org/aseel-chicken/" },
+    "temperament": { "value": "aggressive to other chickens, good with people", "source_url": "https://livestockconservancy.org/aseel-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/aseel-chicken/" },
+    "beginner_friendly": { "value": "no", "source_url": "https://livestockconservancy.org/aseel-chicken/" },
+    "skin_color": { "value": "white or yellow", "source_url": "https://breeds.okstate.edu/poultry/chickens/aseel-chickens.html" },
+    "varieties": { "value": ["black breasted red (wheaten)", "dark", "spangled", "white"], "source_url": "https://livestockconservancy.org/aseel-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/aseel-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "heat_tolerant", "broodiness", "beginner_friendly", "purpose", "origin_country", "varieties"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/aseel-chickens.html", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "origin_country", "skin_color", "comb"] },
+    { "url": "https://en.wikipedia.org/wiki/Asil_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "purpose", "origin_country", "comb", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/asil/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "temperament", "broodiness"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Asil, also spelled Aseel, is an old game fowl from the Indian subcontinent, bred there for fighting for well over 2,000 years. Its name comes from an Arabic word for purebred. The bird is compact and very muscular, with short hard feathers held tight to the body, an upright stance, yellow legs, a small pea comb and a hooked beak. It looks lighter than it is. US standards put cocks at about 6 pounds and hens near 5, while Indian village birds can run heavier. Hens lay very few eggs, often under 70 a year and sometimes far fewer, small and cream to light brown. They are superb broody hens and fierce mothers. Asils fight other chickens, even as chicks, but many bond well with their keepers. They handle heat and range well. This is a bird for experienced keepers, not beginners.",
+    "sources": [
+      "https://livestockconservancy.org/aseel-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/aseel-chickens.html",
+      "https://en.wikipedia.org/wiki/Asil_chicken",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/asil/"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "breed_id": "rosecomb",
+  "status": "fixed",
+  "changes": "Temperament was a list (friendly, alert) and the sources disagree on friendliness (Wikipedia says usually friendly with some aggressive cocks, Star Milling says docile but not friendly), so it is now the shared ground: alert, active. Purpose ornamental/exhibition conflict settled as exhibition; both sources say the breed is kept almost only for showing. Origin Britain/England conflict dropped, England sits inside Britain. Weights kept at 0.6 kg cock and 0.5 kg hen (Wikipedia, UK figures) with the Star Milling US figures of 26 oz (0.7 kg) and 22 oz (0.6 kg) as conflicting alternatives. Added egg size small (Star Milling: one tiny egg a week). Cream eggs, low broodiness, rose comb, white earlobes and black, blue and white as main colors confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Rosecomb",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/rosecomb/"
+  ],
+  "fixes": {
+    "temperament": { "value": "alert, active", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "purpose": { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Rosecomb" },
+    "origin_country": { "value": "England", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "rooster_weight_kg": { "value": 0.6, "source_url": "https://en.wikipedia.org/wiki/Rosecomb", "conflict": true, "alternatives": [{ "value": 0.7, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "hen_weight_kg": { "value": 0.5, "source_url": "https://en.wikipedia.org/wiki/Rosecomb", "conflict": true, "alternatives": [{ "value": 0.6, "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "egg_size": { "value": "small", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Rosecomb", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "purpose", "broodiness", "comb", "earlobe_color", "varieties", "origin_country", "origin_year_or_period", "notable_traits", "history_summary", "temperament"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "varieties", "origin_country", "origin_year_or_period", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/rosecomb/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["bantam_available", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Rosecomb is a true bantam, a naturally tiny chicken with no large version, and one of the oldest bantam breeds. Records place it in England as far back as the 1300s. Its name comes from the broad rose comb, which is big for such a small bird, and it also has large white earlobes, a full sweeping tail and a compact body. Black, white and blue are the standard colors, though many others exist. Cocks weigh roughly 1.3 to 1.6 pounds and hens about 1 to 1.4 pounds. Hens lay very few eggs, often about one small cream egg a week, and seldom go broody. The birds are alert, active and fly well. Because the breed has been shaped almost entirely for the show pen, fertility is low and chicks are delicate, so it suits serious exhibitors more than people who want eggs or an easy backyard pet.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rosecomb",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

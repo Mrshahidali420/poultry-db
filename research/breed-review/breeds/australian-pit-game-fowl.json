@@ -1,0 +1,24 @@
+{
+  "breed_id": "australian-pit-game-fowl",
+  "status": "fixed",
+  "changes": "Temperament cleared: the stored list (proud, aggressive-looking, alert, quick) is the standard's description of carriage and movement, not temperament, and no source describes temperament. Empty varieties field cleared; the standard allows any color. Weights 2.0 kg hen and 2.7 kg cock kept, but note the Australian standard gives these as the dividing line between heavy (over) and light (under) birds, not as a typical weight. Tinted egg color (Wikipedia infobox), fighting purpose, bantam, single or pea comb, Australian origin in the early 1900s and the 1936 and 1981 standards confirmed; the FAO DAD-IS record for Australia lists it as at risk. Everything rests on Wikipedia alone, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl",
+    "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Pit%20Game&lang=en"
+  ],
+  "fixes": {
+    "temperament": null,
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "bantam_available", "origin_year_or_period", "comb", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Pit%20Game&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Australian Pit Game is a fighting chicken that British soldiers based in New South Wales developed in the early 1900s. The Australian standard traces it to English Pit Game or Old English Game, Malay and Asil, and the breed club adds that Sumatra blood may be in the mix. A standard was first written in 1936, a bantam version followed in 1981, and the breed joined the national standard in 1998. It is one of the most loosely defined breeds in Australia: birds may be large or small, carry a single or pea comb, show any color, and have muffs or tassels. Judges look instead for health, vigor, a heart-shaped muscular body and quick, upright bearing. Heavy cocks weigh over about 6 pounds and heavy hens over about 4.4. Hens lay tinted eggs. Numbers are small, and it is kept by game fowl breeders.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Australian_Pit_Game_fowl"
+    ]
+  }
+}

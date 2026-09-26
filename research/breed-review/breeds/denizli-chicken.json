@@ -1,0 +1,24 @@
+{
+  "breed_id": "denizli-chicken",
+  "status": "fixed",
+  "changes": "Purpose ornamental to dual: Wikipedia never calls the breed ornamental, and the FAO DAD-IS record for Turkey lists eggs, meat and fancy as its uses (the breeds.json row also says multipurpose). Confirmed Turkish origin, the long crow of 20 to 25 seconds, the plumage and leg colours and the conservation programme against Wikipedia; DAD-IS confirms Turkish indigenous origin and at-risk status. Wikipedia gives a weight of 3 to 3.5 kg without saying which sex, so no hen or rooster weight was added. No egg or temperament facts are published, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Denizli_chicken",
+    "https://dadis-breed-datasheet-ws.web.app/?country=TUR&specie=Chicken&breed=Denizli&lang=en"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=TUR&specie=Chicken&breed=Denizli&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Denizli_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=TUR&specie=Chicken&breed=Denizli&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Denizli is a long crowing chicken from Turkey, named after Denizli, a city in the southwest of the country. The rooster has been the emblem of the city and province for at least 900 years, backed by an old relief found at the ruins of Laodicea, and a large glass statue of one went up in the city square in 2013. Young cocks can hold a single crow for 20 to 25 seconds. Birds have black eyes, dark gray or purple legs and silver or red neck feathers, sometimes with red on the wings, and breeders sort them into three groups by color, build and comb. Adults weigh roughly 6.5 to 7.5 pounds. The birds are kept for eggs and meat as well as for their crowing. Numbers are falling, and a Turkish state research institute runs a conservation flock.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Denizli_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=TUR&specie=Chicken&breed=Denizli&lang=en"
+    ]
+  }
+}

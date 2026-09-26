@@ -1,0 +1,24 @@
+{
+  "breed_id": "branca-chicken",
+  "status": "fixed",
+  "changes": "Cleared cold_hardy yes: Wikipedia says the birds resist disease and adverse environmental conditions, which does not state cold hardiness. Confirmed dual purpose, good sitters (broodiness high), 2.75 kg cock and 1.9 kg hen (midpoints of 2.3 to 3.2 and 1.5 to 2.3 kg), single comb, red earlobes, white plumage, naked neck, Portugal, not at risk in 2024. FAO DAD-IS (Portugal) confirms Portuguese origin, not-at-risk status and egg and meat use. No egg color, size or count is given by either source, and weights rest on Wikipedia alone, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Branca_(chicken)",
+    "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Branca&lang=en"
+  ],
+  "fixes": {
+    "cold_hardy": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Branca_(chicken)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "varieties", "comb", "earlobe_color", "skin_color", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Branca&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Branca is a white naked neck chicken from northwest Portugal, and its name simply means white. It is one of four native Portuguese breeds, along with the Amarela, Pedrês Portuguesa and Preta Lusitânica. Families in the Entre Douro e Minho region have long kept it on small farms for their own eggs and meat. The top of the neck has no feathers and shows bright red skin, matching the red face, earlobes and single comb. Legs are bare and pale yellow. Cocks weigh roughly 5 to 7 pounds and hens about 3.3 to 5 pounds. The birds are active and tough, resist disease well and cope with poor conditions. Hens sit well and make caring mothers. The breed does best on free range or in a roomy run. Numbers were very low in 2016 but grew strongly, and it was rated not at risk by 2024.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Branca_(chicken)",
+      "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Branca&lang=en"
+    ]
+  }
+}

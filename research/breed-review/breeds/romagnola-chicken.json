@@ -1,0 +1,24 @@
+{
+  "breed_id": "romagnola-chicken",
+  "status": "fixed",
+  "changes": "Cleared cold_hardy yes: Wikipedia only says the young birds are hardy and fast growing, and Agraria.org speaks of general rusticity; neither says anything about cold. White eggs, single comb, cream earlobes sometimes tinged blue, mostly white skin, silver and golden black-flecked varieties and Emilia-Romagna origin confirmed by Agraria.org (breed sheet with the ARVAR draft standard). Egg count (about 150) and weights (cocks 2.0 to 2.5 kg, hens 1.9 to 2.0 kg) have only Wikipedia, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Romagnola_chicken",
+    "https://www.agraria.org/polli/romagnola.htm"
+  ],
+  "fixes": {
+    "cold_hardy": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Romagnola_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "varieties", "comb", "earlobe_color", "skin_color", "conservation_status", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/romagnola.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["egg_color", "varieties", "comb", "earlobe_color", "skin_color", "origin_country", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Romagnola is an old farmyard chicken from Emilia-Romagna in Italy, once common around Ravenna, Forli-Cesena and Bologna. In the mid 1900s breeders at Rovigo and Ravenna fixed two color types, a silver and a golden, both flecked with black, though the breed still varies a lot in color. Skin is mostly creamy white, the legs run from yellow to almost black, the earlobes are cream with a hint of blue and the comb is single. It is a light, fine-boned bird: roosters weigh about 4.4 to 5.5 pounds and hens a little over 4. Hens lay around 150 white eggs a year, each fairly large at about 60 grams. It is kept for both eggs and meat, and the young grow fast and have good flavor. The breed nearly vanished before a recovery project led from Parma began, and numbers are still very small.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romagnola_chicken",
+      "https://www.agraria.org/polli/romagnola.htm"
+    ]
+  }
+}

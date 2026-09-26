@@ -1,0 +1,34 @@
+{
+  "breed_id": "altsteirer",
+  "status": "fixed",
+  "changes": "Weights were stored as text ranges; set to numbers at the midpoints of the Wikipedia ranges, hen 2.0 kg (1.8 to 2.2) and cock 2.8 kg (2.5 to 3.0). The FAO DAD-IS record for Croatia (Stajerka) gives 1.7 and 2.5 kg, close enough to confirm. Egg count changed from 130 to 160 into 160 to 200: DAD-IS gives 160 to 200 and Star Milling 180 to 200, while Wikipedia gives 130 to 160 for the partridge type; the Wikipedia range is kept as a flagged alternative. Egg size small changed to medium, since Wikipedia gives a typical weight of 55 g, which is a US medium egg even though it calls them small; Star Milling's large kept as a flagged alternative. Egg color ivory changed to white to ivory (Wikipedia ivory, Star Milling white). Added broodiness low (Star Milling: rarely go broody). Dual purpose, single comb, white earlobes, varieties and origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Altsteirer",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Stajerka&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Altsteirer&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Altsteirer" },
+    "rooster_weight_kg": { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Altsteirer" },
+    "eggs_per_year_min": { "value": 160, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Stajerka&lang=en", "conflict": true, "alternatives": [{ "value": 130, "source_url": "https://en.wikipedia.org/wiki/Altsteirer" }] },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Stajerka&lang=en", "conflict": true, "alternatives": [{ "value": 160, "source_url": "https://en.wikipedia.org/wiki/Altsteirer" }] },
+    "egg_size": { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Altsteirer", "conflict": true, "alternatives": [{ "value": "large", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "egg_color": { "value": "white to ivory", "source_url": "https://en.wikipedia.org/wiki/Altsteirer" },
+    "broodiness": { "value": "low", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Altsteirer", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "varieties", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "origin_country", "purpose", "broodiness"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Stajerka&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "hen_weight_kg", "rooster_weight_kg"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Altsteirer, or Styrian hen, is an old dual-purpose chicken from Styria, the region shared by northern Slovenia and southern Austria. Records of Styrian capons go back to 1352, breeders in Graz described the breed in 1894, and a standard followed in 1902. Numbers fell hard after the Second World War, and Slovenian experts rebuilt the breed from farm flocks after 1991. Most birds today are partridge colored, though white and barred types also exist. They have a single upright comb, white earlobes and white legs. Hens weigh about 4 to 4.8 pounds and cocks 5.5 to 6.6. Estimates of laying vary from about 130 to 200 white to ivory eggs a year, of medium size, and hens seldom go broody. Styrian capons were long prized for their meat. The breed does best free ranging on a farm rather than in commercial housing.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Altsteirer",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=HRV&specie=Chicken&breed=Stajerka&lang=en"
+    ]
+  }
+}

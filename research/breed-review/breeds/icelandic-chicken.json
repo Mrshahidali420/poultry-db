@@ -1,0 +1,28 @@
+{
+  "breed_id": "icelandic-chicken",
+  "status": "fixed",
+  "changes": "Temperament was a list; replaced with lively, curious, friendly if handled young (Livestock Conservancy; Wikipedia agrees they are alert and trusting when raised calmly). Weights were the two ends of the Livestock Conservancy ranges shown as a conflict; hens are 3 to 3.5 lb and cocks 4.5 to 5.25 lb, so the midpoints 1.5 kg and 2.2 kg are used and the false conflict dropped. Purpose kept dual (Livestock Conservancy lists eggs and meat) with eggs kept as a flagged alternative, because Wikipedia says it is not a dual-purpose breed and the carcass is small. Empty varieties field cleared: it is a landrace with no fixed varieties. Egg color, egg size, egg count, broodiness, cold hardiness, beginner suitability and origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/icelandic-chicken/",
+    "https://en.wikipedia.org/wiki/Icelandic_chicken"
+  ],
+  "fixes": {
+    "temperament": { "value": "lively, curious, friendly if handled young", "source_url": "https://livestockconservancy.org/icelandic-chicken/" },
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://livestockconservancy.org/icelandic-chicken/" },
+    "rooster_weight_kg": { "value": 2.2, "source_url": "https://livestockconservancy.org/icelandic-chicken/" },
+    "purpose": { "value": "dual", "source_url": "https://livestockconservancy.org/icelandic-chicken/", "conflict": true, "alternatives": [{ "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Icelandic_chicken" }] },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/icelandic-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "purpose", "broodiness", "beginner_friendly", "feathered_legs", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/Icelandic_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "cold_hardy", "broodiness", "origin_country", "origin_year_or_period"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Icelandic chicken is a landrace that Norse settlers carried to Iceland around a thousand years ago. For centuries it was the only chicken on the island, chosen for thrift and good mothering rather than for looks, so there is no fixed standard. A flock shows almost every color and pattern, several comb types, and some birds wear a small crest, but true Icelandics never have feathered legs. They are small birds: cocks weigh about 4.5 to 5.25 pounds and hens 3 to 3.5. Hens lay around 180 white to cream eggs a year, small to medium in size, and keep laying through winter. Many hens go broody and raise their own chicks. The birds are lively and curious, turn friendly when handled young, fly well and forage hard. They are very hardy in cold, harsh weather and suit free range homesteads and beginners, though not a closed pen.",
+    "sources": [
+      "https://livestockconservancy.org/icelandic-chicken/",
+      "https://en.wikipedia.org/wiki/Icelandic_chicken"
+    ]
+  }
+}

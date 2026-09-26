@@ -1,0 +1,22 @@
+{
+  "breed_id": "utrerana",
+  "status": "approved",
+  "changes": "Confirmed every filled field against Wikipedia: 180 eggs a year, dual purpose, four varieties, 2.3 kg hen and 3 kg rooster, Spain, from about 1926, white earlobes, traits and history. FAO DAD-IS confirms the Spanish origin, selection by Joaquin del Castillo from Andalusian rustic hens, and use for both eggs and meat. Weights and eggs have only one publisher, so needs_review stays true. No source gives egg color.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Utrerana",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Utrerana&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Utrerana", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "purpose", "varieties", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Utrerana&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Utrerana is a Spanish chicken named after the town of Utrera, near Seville in Andalusia. Joaquin del Castillo created it on his farm there, starting around 1926 with the hardy local farm hens of the area. At first he selected only for better laying. From about 1930 he also bred for looks and fixed black, barred and white strains, and a partridge strain came later. The barred bird is known locally as the franciscana. It is a medium sized fowl: hens average about 5 pounds and roosters about 6.6 pounds. Earlobes are always white, and the legs are slate or black in the dark varieties and pale in the barred and white ones. Hens lay about 180 fairly large eggs a year, and the meat has a good flavor. The breed is listed as at risk.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Utrerana",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Utrerana&lang=en"
+    ]
+  }
+}

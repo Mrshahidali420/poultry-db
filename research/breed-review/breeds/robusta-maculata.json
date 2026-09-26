@@ -1,0 +1,65 @@
+{
+  "breed_id": "robusta-maculata",
+  "status": "fixed",
+  "changes": "Egg count 140 to 160, pinkish to brown shells, dual purpose, yellow skin and legs, red earlobes, single comb, silver-white plumage with dark spotting and creation at the Rovigo poultry station from Buff Orpington and White America confirmed by Agraria.org, which reproduces the Veneto Agricoltura breed sheet. Rooster weight 3.8 to 4.0 kg: 3.8 was the bottom of the old ANSAV range (3.8 to 4.2 kg) while Veneto Agricoltura gives 4.0 to 4.5 kg; 4.0 sits inside both. Hen weight 2.8 kg fits both ranges and was kept. Cleared the empty varieties field that had no source. Kept in review: some key facts have fewer than two publishers (strict rule).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Robusta_Maculata",
+    "https://www.agraria.org/polli/robustamaculata.htm"
+  ],
+  "fixes": {
+    "rooster_weight_kg": {
+      "value": 4,
+      "source_url": "https://www.agraria.org/polli/robustamaculata.htm"
+    },
+    "varieties": null
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Robusta_Maculata",
+      "publisher": "Wikipedia",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "eggs_per_year_max",
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "purpose",
+        "comb",
+        "earlobe_color",
+        "skin_color",
+        "origin_country",
+        "origin_year_or_period",
+        "notable_traits",
+        "history_summary"
+      ]
+    },
+    {
+      "url": "https://www.agraria.org/polli/robustamaculata.htm",
+      "publisher": "Agraria.org (Veneto Agricoltura breed sheet)",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "eggs_per_year_max",
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "purpose",
+        "comb",
+        "earlobe_color",
+        "skin_color",
+        "origin_country",
+        "origin_year_or_period",
+        "notable_traits"
+      ]
+    }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Robusta Maculata is a modern Italian chicken kept for both meat and eggs. It was bred in the early 1960s at the poultry research station in Rovigo, in the Veneto, from Buff Orpingtons and a white commercial strain called White America. The name means spotted: birds are silvery white with scattered black or dark grey patches, a silver and black neck, and a black tail with a green shine. Skin and legs are yellow, the comb is a large single one and the earlobes are red. Roosters weigh about 8.8 to 9.9 pounds and hens about 6.2 to 7.3. Hens lay around 140 to 160 pinkish brown eggs a year. The birds are hardy and suit free-range and organic farms, and young stock reach about 4 pounds by four months. Numbers are small, and the breed is in a regional conservation program.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robusta_Maculata",
+      "https://www.agraria.org/polli/robustamaculata.htm"
+    ]
+  }
+}

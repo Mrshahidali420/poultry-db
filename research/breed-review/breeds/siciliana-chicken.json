@@ -1,0 +1,29 @@
+{
+  "breed_id": "siciliana-chicken",
+  "status": "fixed",
+  "changes": "Weight conflicts were only the two ends of one range, so they are now ranges: rooster 2.0 to 2.4 kg and hen 1.6 to 1.8 kg, matching the official Italian (FIAV) standard on Agraria.org. Added temperament lively, likes to roam and cold hardy partly from Agraria.org (a lively bird of roaming habit that copes fairly well with cold). Confirmed white to light brown elongated eggs of at least 45 g, egg-laying purpose, cup comb, red earlobes with some white allowed, yellow skin, willow-green legs, the four colors and North African ancestry against Agraria.org and FAO DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Siciliana_chicken",
+    "https://www.agraria.org/polli/siciliana.htm",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Siciliana&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": { "min": 1.6, "max": 1.8 }, "source_url": "https://www.agraria.org/polli/siciliana.htm" },
+    "rooster_weight_kg": { "value": { "min": 2.0, "max": 2.4 }, "source_url": "https://www.agraria.org/polli/siciliana.htm" },
+    "temperament": { "value": "lively, likes to roam", "source_url": "https://www.agraria.org/polli/siciliana.htm" },
+    "cold_hardy": { "value": "partly", "source_url": "https://www.agraria.org/polli/siciliana.htm" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Siciliana_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "varieties", "skin_color", "comb", "earlobe_color", "origin_country", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/siciliana.htm", "publisher": "Agraria.org (FIAV Italian standard)", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "temperament", "cold_hardy", "skin_color", "comb", "earlobe_color", "origin_country", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Siciliana&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Siciliana is an old laying breed from Sicily, most likely formed long ago by crossing island chickens with birds from North Africa. Birds much like it appear in paintings from the 1500s. It had nearly vanished by the 1980s, was revived after that, and entered the Italian breed standard in 2004. It is the parent stock of the Sicilian Buttercup, which has since drifted away from it. Its trademark is a cup-shaped comb, open like a crown with points around the rim. Other traits are willow-green legs, yellow skin and red earlobes. Colors are golden duckwing, black, white and blue. Roosters weigh about 4.4 to 5.3 pounds and hens about 3.5 to 4 pounds. The breed matures very early, and pullets begin laying at four to five months. Eggs are white to light brown, long and pointed, and weigh at least 45 grams. The birds are lively, roam widely, forage well and handle cold fairly well.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siciliana_chicken",
+      "https://www.agraria.org/polli/siciliana.htm"
+    ]
+  }
+}

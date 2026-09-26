@@ -1,0 +1,22 @@
+{
+  "breed_id": "tiense-vechter",
+  "status": "fixed",
+  "changes": "Added rooster 5 kg and hen 4 kg, the full-sized weights in the Wikipedia infobox. The breeds.json row carries broken weights (302.5 and 352 kg) made by averaging the bantam gram figures; these fixes give the page the right large fowl values, and the orchestrator may want to correct that row too. All other filled fields (fighting purpose, bantam, varieties, Belgium, late 19th century, critically endangered, pale skin, triple comb, traits, history) match Wikipedia; FAO DAD-IS confirms the Tienen origin. No second publisher gives weights or eggs, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Tiense_Vechter",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Tiense%20vechter&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 5, "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter" },
+    "hen_weight_kg": { "value": 4, "source_url": "https://en.wikipedia.org/wiki/Tiense_Vechter" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Tiense_Vechter", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "purpose", "bantam_available", "varieties", "origin_country", "origin_year_or_period", "conservation_status", "skin_color", "comb", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Tiense%20vechter&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Tiense Vechter is a Belgian gamecock named after the town of Tienen in Flemish Brabant. Breeders made it in the late 1800s by crossing the older Brugse Vechter with fighting birds of Oriental origin, much as the Luikse Vechter was made near Liege. It is one of three Belgian fighting breeds and today the rarest of them, with only 33 birds counted in Flanders in 2010. It is a big, strong bird with a steeply sloping back. Unlike its two cousins, it has pale skin, face and legs with no dark pigment. It has a triple comb and tiny or missing wattles. Cuckoo is the most common of its many colors. Roosters weigh about 11 pounds and hens about 9 pounds, and a bantam version exists. Cockfighting is illegal in Belgium, and some strains are now kept only for shows.",
+    "sources": ["https://en.wikipedia.org/wiki/Tiense_Vechter"]
+  }
+}

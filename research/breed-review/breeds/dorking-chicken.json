@@ -1,0 +1,30 @@
+{
+  "breed_id": "dorking-chicken",
+  "status": "fixed",
+  "changes": "Weights were the bottom of the British range; switched to the US standard from Livestock Conservancy, 7 lb hen (3.2 kg) and 9 lb cock (4.1 kg), with the British lower bounds (hen 3.6 kg, cock 4.6 kg, from Wikipedia) kept as flagged alternatives. The old alternatives also listed the top of the British range as if it were a separate claim. Temperament list turned into the phrase calm, gentle, friendly (Livestock Conservancy, Star Milling). Added heat_tolerant yes: Livestock Conservancy says they do well in any climate. Egg count 170 to 190, white to cream medium to large eggs, high broodiness, partial cold hardiness (single combs need frostbite protection), dual purpose and English origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/dorking-chicken/",
+    "https://en.wikipedia.org/wiki/Dorking_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.2, "source_url": "https://livestockconservancy.org/dorking-chicken/", "conflict": true, "alternatives": [{ "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" }] },
+    "rooster_weight_kg": { "value": 4.1, "source_url": "https://livestockconservancy.org/dorking-chicken/", "conflict": true, "alternatives": [{ "value": 4.6, "source_url": "https://en.wikipedia.org/wiki/Dorking_chicken" }] },
+    "temperament": { "value": "calm, gentle, friendly", "source_url": "https://livestockconservancy.org/dorking-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/dorking-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/dorking-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "purpose", "origin_country", "comb", "conservation_status"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "broodiness", "purpose"] },
+    { "url": "https://en.wikipedia.org/wiki/Dorking_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "purpose", "origin_country", "varieties", "bantam_available", "skin_color", "earlobe_color"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Dorking is one of the oldest British chickens, named for the market town of Dorking in Surrey, which once sent its birds to London. Some writers link it to five-toed fowl praised in Roman times, and a fifth toe is still its trademark. For centuries it was England's top table bird, known for tender meat, before the Sussex and later the Plymouth Rock took its place. The body is long, deep and set on short legs. Colors include white, silver-gray, colored, red and cuckoo. Under the US standard, roosters weigh about 9 pounds and hens about 7. Hens lay 170 to 190 white or cream eggs, medium to large, and keep laying in winter, but they go broody often and make devoted mothers. Dorkings are calm, gentle and friendly, and may be picked on by pushier breeds. Single combs need frostbite protection in cold areas.",
+    "sources": [
+      "https://livestockconservancy.org/dorking-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Dorking_chicken"
+    ]
+  }
+}

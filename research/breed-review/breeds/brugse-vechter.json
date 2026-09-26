@@ -1,0 +1,27 @@
+{
+  "breed_id": "brugse-vechter",
+  "status": "fixed",
+  "changes": "Temperament changed from a list (aggressive, powerful, hardy) to aggressive; powerful and hardy describe build and constitution, not temperament. Added hen 4.0 kg and rooster 5.25 kg (midpoint of 5.0 to 5.5 kg) from the Wikipedia infobox values already in breeds.json, and egg_size extra large from the 65 to 75 g egg weight. Confirmed about 150 cream eggs a year, poor sitters (broodiness low), fighting purpose, bantam version, triple comb, Belgium. FAO DAD-IS (Belgium) confirms Belgian origin and game fowl use. The conservation status alternatives cover large fowl and bantam separately, not a conflict. Egg and weight figures rest on Wikipedia alone, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Brugse_Vechter",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brugse%20vechter&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "aggressive", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter" },
+    "hen_weight_kg": { "value": 4.0, "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter" },
+    "rooster_weight_kg": { "value": 5.25, "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter" },
+    "egg_size": { "value": "extra large", "source_url": "https://en.wikipedia.org/wiki/Brugse_Vechter" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Brugse_Vechter", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "broodiness", "purpose", "bantam_available", "comb", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brugse%20vechter&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Brugse Vechter, or Bruges Fighter, is a Belgian game chicken from the area around Bruges in West Flanders. It appeared in the early 1800s, was bred for cockfighting, and is the oldest of Belgium's three fighting breeds; the Luikse and Tiense Vechter both come from it. Cockfighting is now illegal in Belgium, and many birds are kept only for shows. It is a big, strong bird, with cocks around 11 to 12 pounds and hens near 9 pounds. The back is broad, flat and nearly level, the face is dark, anywhere between purplish red and near black, the small comb is triple, and the thick legs are slate blue. Hens lay about 150 extra large cream eggs a year but are poor sitters. The birds are hardy yet often aggressive, so cocks and hens may need separate pens. It is endangered and best left to experienced keepers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brugse_Vechter",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brugse%20vechter&lang=en"
+    ]
+  }
+}

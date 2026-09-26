@@ -1,0 +1,32 @@
+{
+  "breed_id": "lyonnaise",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose to ornamental: nothing in the cited Star Milling text supports dual purpose, and FAO DAD-IS lists the only use as fancy. Temperament trimmed to docile, quiet, friendly ('good forager' is not temperament). Notable traits: removed 'produces excellent white meat' and 'flat-feathered and frizzled forms both exist', which are not in the cited text; added frizzled plumage from FAO DAD-IS. Added egg size medium (Star Milling; French standard asks for hatching eggs of at least 55 g). Added weights from the French standard: cock 2.5 kg, hen 1.5 kg. White eggs (French standard: white to cream), Lyon, France origin and Tamburini as creator confirmed by Star Milling, FAO and French Wikipedia; FAO gives approval in 1969. Crest kept from Star Milling but the French standard lists no crest, so it needs a check. Weights rest on one publisher, so needs_review stays true.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://fr.wikipedia.org/wiki/Lyonnaise_(poule)",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Lyonnaise&lang=en"
+  ],
+  "fixes": {
+    "purpose": { "value": "ornamental", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Lyonnaise&lang=en" },
+    "temperament": { "value": "docile, quiet, friendly", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "notable_traits": { "value": ["beetle-black feathers, grey legs, backswept crest", "frizzled plumage"], "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Lyonnaise&lang=en" },
+    "egg_size": { "value": "medium", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://fr.wikipedia.org/wiki/Lyonnaise_(poule)" },
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://fr.wikipedia.org/wiki/Lyonnaise_(poule)" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "origin_country", "origin_year_or_period", "crest", "notable_traits", "history_summary"] },
+    { "url": "https://fr.wikipedia.org/wiki/Lyonnaise_(poule)", "publisher": "Wikipedia (French)", "source_confidence": "page", "supports": ["egg_color", "egg_size", "rooster_weight_kg", "hen_weight_kg", "origin_country", "bantam_available", "varieties"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Lyonnaise&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Lyonnaise is a French chicken created in the Lyon area in the 1950s by Etienne Tamburini. Recognition was slow, and the breed was approved around 1969. It is a light bird with frizzled, glossy black feathers, gray legs, white earlobes and white skin, and the comb is rough and ends in three points. The French standard asks for cocks of about 5.5 pounds and hens of about 3.3 pounds, and there is also a bantam. Hens lay about three medium-sized white to cream eggs a week. The birds are friendly with people, calm and quiet, and they do well on free range. Today it is kept mainly as a fancy breed, and it has become very rare, close to extinction in its home country.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://fr.wikipedia.org/wiki/Lyonnaise_(poule)",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Lyonnaise&lang=en"
+    ]
+  }
+}

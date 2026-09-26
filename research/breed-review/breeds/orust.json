@@ -1,0 +1,27 @@
+{
+  "breed_id": "orust",
+  "status": "fixed",
+  "changes": "Added weights from FAO DAD-IS (Orusthona): cock 2 kg, hen 1.4 kg. The first notable trait and the history summary said the breed came from an island and was extremely rare; Star Milling only says the west coast of Sweden and gives no rarity claim, so both were rewritten to match the source. DAD-IS confirms Swedish origin as a native local population, egg use, about 150 eggs a year on average and an at risk status with 520 birds in 2023. White, small to medium eggs rest on Star Milling alone, so the record stays flagged.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=SWE&specie=Chicken&breed=Orusth%C3%B6na&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.4, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=SWE&specie=Chicken&breed=Orusth%C3%B6na&lang=en" },
+    "rooster_weight_kg": { "value": 2, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=SWE&specie=Chicken&breed=Orusth%C3%B6na&lang=en" },
+    "notable_traits": { "value": ["landrace from the rocky west coast of Sweden", "historically free-ranged and ate whatever was available, including fish", "black-and-white mottled feathers; roosters' wattles turn from red to violet when agitated"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "history_summary": { "value": "The Orust is a Swedish landrace from the rocky west coast, where birds ranged freely and fed themselves on whatever they found, fish included. That hard life produced a hardy survivor. It is recorded as at risk, with about 520 birds counted in 2023.", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "origin_country", "purpose", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=SWE&specie=Chicken&breed=Orusth%C3%B6na&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Orust is a landrace chicken from the rocky west coast of Sweden. For generations the birds roamed free along the shore and fed themselves on whatever they could find, fish included, which made them tough survivors. Feathers are mottled black and white. When a rooster is roused to guard his hens, his wattles change from red to bright violet, a trait few breeds share. It is a small, light bird: roosters weigh about 4.4 pounds and hens about 3 pounds. Hens are good layers of small to medium white eggs, averaging around 150 a year. Sweden counts it as a native breed at risk, with about 520 birds recorded in 2023, so it mainly suits keepers who want to help conserve a rare Nordic landrace.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=SWE&specie=Chicken&breed=Orusth%C3%B6na&lang=en"
+    ]
+  }
+}

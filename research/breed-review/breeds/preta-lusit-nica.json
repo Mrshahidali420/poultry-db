@@ -1,0 +1,24 @@
+{
+  "breed_id": "preta-lusit-nica",
+  "status": "approved",
+  "changes": "Every filled field matches Wikipedia: dual purpose, black only with a blue-green sheen, single comb with five or six points, bright red earlobes, clean slate legs, cocks 2.5 to 3.0 kg and hens 1.7 to 2.5 kg, north-west Portugal, not at risk in 2024. The FAO DAD-IS record confirms Portugal as origin, not-at-risk status and meat plus egg use; the DGAV (Portuguese veterinary authority) page confirms it is an official native breed with a herdbook kept by AMIBA. No source found gives egg color, egg count, temperament or climate tolerance, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica",
+    "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Preta%20Lusit%C3%A2nica&lang=en",
+    "https://www.dgav.pt/animais/conteudo/recursos-geneticos-animais/racas-autoctones/galinaceos/preta-lusitanica/"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "varieties", "hen_weight_kg", "rooster_weight_kg", "comb", "earlobe_color", "feathered_legs", "conservation_status", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Preta%20Lusit%C3%A2nica&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "conservation_status", "purpose"] },
+    { "url": "https://www.dgav.pt/animais/conteudo/recursos-geneticos-animais/racas-autoctones/galinaceos/preta-lusitanica/", "publisher": "DGAV (Portugal)", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Preta Lusitanica is an old farm chicken from north-western Portugal and one of the country's four native breeds, alongside the Branca, Amarela and Pedres Portuguesa. Its name means black, and black is its only color, often with a green or blue shine on the neck, back and tail of the roosters. It has a red single comb with five or six points, red face and earlobes, and dark slate legs with no feathers. Roosters weigh about 5.5 to 6.6 pounds and hens about 3.7 to 5.5 pounds. It is kept for both meat and eggs. Numbers crashed once factory strains arrived in the mid 1900s, but breeders rebuilt the flock, and by 2024 it was no longer rated at risk. It sits on the Slow Food Ark of Taste list and is mostly raised outdoors on small farms.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Preta_Lusit%C3%A2nica",
+      "https://dadis-breed-datasheet-ws.web.app/?country=PRT&specie=Chicken&breed=Preta%20Lusit%C3%A2nica&lang=en"
+    ]
+  }
+}

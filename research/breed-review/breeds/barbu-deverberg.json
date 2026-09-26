@@ -1,0 +1,25 @@
+{
+  "breed_id": "barbu-deverberg",
+  "status": "approved",
+  "changes": "All filled fields match Wikipedia: 0.75 kg cock and 0.6 kg hen are the midpoints of 700 to 800 g and 550 to 650 g, Belgium, about 1906, critical in 2010. Poultrykeeper confirms it is the rumpless Barbu d'Uccle and follows the d'Uccle standard (cock 680 to 790 g, hen 570 to 680 g), which roughly agrees. The Poultry Club of Great Britain lists it as a Belgian true bantam. No egg data exists in the record or sources, and no second page-level publisher was found, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Barbu_d'Everberg",
+    "https://poultrykeeper.com/chicken-breeds/belgian-bantams/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Barbu%20D'Everberg&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Barbu_d'Everberg", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://poultrykeeper.com/chicken-breeds/belgian-bantams/", "publisher": "Poultrykeeper", "source_confidence": "domain", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "notable_traits"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/", "publisher": "Poultry Club of Great Britain", "source_confidence": "domain", "supports": ["origin_country", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Barbu d'Everberg is a Belgian true bantam, so it comes only in a small size. It is the tailless form of the Barbu d'Uccle, the bearded, feather footed bantam with a single comb. The line was developed around 1906 at the Chateau d'Everberg in Kortenberg, a town between Brussels and Leuven. Apart from lacking a tail, it follows the d'Uccle closely, and in Britain and the Netherlands it is treated as a d'Uccle variety rather than a breed of its own. European poultry bodies do list it as a separate breed. Cocks weigh about 1.5 to 1.8 pounds and hens about 1.2 to 1.4 pounds. Because the feet are feathered, the birds need a dry, clean run. It is among the rarest chickens in Belgium and was rated critical in 2010, so it appeals mainly to show breeders working to save rare lines.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbu_d'Everberg",
+      "https://poultrykeeper.com/chicken-breeds/belgian-bantams/"
+    ]
+  }
+}

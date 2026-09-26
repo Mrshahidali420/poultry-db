@@ -1,0 +1,28 @@
+{
+  "breed_id": "polbar",
+  "status": "fixed",
+  "changes": "Added from FAO DAD-IS (Polbar, Poland): cock 2.5 kg, hen 2 kg, cream egg shells, single comb and egg use. Confirmed the 1946 origin, Laura Kaufman's Green-legged Partridge by Plymouth Rock cross and the single conservation flock (about 1,000 to 1,100 birds) with both Wikipedia and DAD-IS. DAD-IS gives about 160 eggs a year as an average only, so no range was added. The new egg and weight facts rest on DAD-IS alone, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Polbar",
+    "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en" },
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en" },
+    "egg_color": { "value": "cream", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en" },
+    "comb": { "value": "single", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en" },
+    "purpose": { "value": "eggs", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Polbar", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "autosexing", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "conservation_status", "origin_year_or_period", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Polbar is a Polish chicken bred between 1946 and 1954 by Laura Kaufman. She crossed the native Green-legged Partridge with Plymouth Rock roosters to bring in the barring gene, which makes the breed autosexing. At one day old, female chicks show a longer black stripe by the eye than males, so they can be sorted at hatch. Adult males are creamy white and hens grayish brown, with a single comb and gray to yellow legs. Roosters weigh about 5.5 pounds and hens about 4.4 pounds. Hens lay cream-colored eggs, around 160 a year on average. Today the whole breed lives in a single conservation flock of roughly 1,000 birds at the University of Life Sciences research station in Lublin, eastern Poland, so it is not something backyard keepers can easily find.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polbar",
+      "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Polbar&lang=en"
+    ]
+  }
+}

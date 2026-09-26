@@ -1,0 +1,37 @@
+{
+  "breed_id": "welsummer",
+  "status": "fixed",
+  "changes": "Temperament replaced with friendly, intelligent (Star Milling, My Pet Chicken); the old value included vocal and alert. Egg color changed from Dark Reddish Brown (Speckled) to dark brown, often speckled (Wikipedia, Star Milling, My Pet Chicken). Cold hardy and heat tolerant rewritten from boolean true to yes, now sourced to Star Milling and My Pet Chicken. Added weights: hen 2.5 kg (5.5 lb) and rooster 3.2 kg (about 7 lb), the top of the standard ranges in Wikipedia (2.0 to 2.5 kg and 2.75 to 3.25 kg), which fall inside My Pet Chicken's 5 to 6 lb and 7 to 8 lb. Eggs per year max conflict dropped: My Pet Chicken gives 150 to 200, and the 160 in Wikipedia and Star Milling sits in that range. Confirmed large eggs (Star Milling, My Pet Chicken, Poultry Club of Great Britain), autosexing chicks, dual purpose and Dutch origin.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Welsummer",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/welsummer/",
+    "https://www.mypetchicken.com/blogs/our-blog/welsummer-chicken-breed-the-complete-guide"
+  ],
+  "fixes": {
+    "temperament": { "value": "friendly, intelligent", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_color": { "value": "dark brown, often speckled", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Welsummer" },
+    "rooster_weight_kg": { "value": 3.2, "source_url": "https://en.wikipedia.org/wiki/Welsummer" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://www.mypetchicken.com/blogs/our-blog/welsummer-chicken-breed-the-complete-guide" },
+    "eggs_per_year_min": { "value": 150, "source_url": "https://www.mypetchicken.com/blogs/our-blog/welsummer-chicken-breed-the-complete-guide" }
+  },
+  "sources": [
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/welsummer-chicken-breed-the-complete-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "temperament", "cold_hardy", "heat_tolerant", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Welsummer", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "origin_country", "origin_year_or_period", "autosexing", "varieties", "bantam_available", "lifespan_years", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/welsummer/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["egg_size", "egg_color", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Welsummer is a Dutch breed named for the village of Welsum in the eastern Netherlands. Farmers there made it in the early 1900s from Partridge Leghorn, Cochin, Wyandotte, Barnevelder and Rhode Island Red stock, and a standard was fixed in the early 1920s. Britain imported it in the late 1920s for its eggs. Roosters have the bright red and orange look of a storybook cockerel, while hens are a soft brown with gold in the neck feathers. Hens weigh about 5 to 6 pounds and roosters about 7. They lay around 150 to 200 large, deep terracotta brown eggs a year, often freckled with darker spots. Chicks can be sexed at hatch by their head markings. Welsummers are friendly, clever birds that like to forage but accept a run, and they cope with both cold and heat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Welsummer",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.mypetchicken.com/blogs/our-blog/welsummer-chicken-breed-the-complete-guide",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-light/welsummer/"
+    ]
+  }
+}

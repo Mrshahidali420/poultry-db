@@ -1,0 +1,28 @@
+{
+  "breed_id": "dutch-bantam",
+  "status": "fixed",
+  "changes": "Temperament changed from a list to the phrase friendly, somewhat flighty (Wikipedia; Star Milling also says friendly). Added egg_size small: Wikipedia and Star Milling both say the eggs are small. Confirmed about 160 cream or white eggs a year (Wikipedia, Star Milling), true bantam weights of up to 550 g for cocks and 450 g for hens (Star Milling gives about 15 oz), easy broodiness, not especially cold hardy, Dutch origin and the 13 UK colours (Poultry Club of Great Britain). Weights left at two decimals because this is a true bantam and rounding would distort them.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Dutch_Bantam",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/dutch/"
+  ],
+  "fixes": {
+    "temperament": { "value": "friendly, somewhat flighty", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" },
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Dutch_Bantam" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Dutch_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "beginner_friendly", "purpose", "bantam_available", "varieties", "comb", "earlobe_color", "skin_color", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "temperament", "origin_country", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/dutch/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "varieties", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Dutch Bantam, or Hollandse Kriel, is a true bantam from the Netherlands, meaning there is no full sized version. Its forebears were probably small Southeast Asian birds carried home by Dutch sailors, and it was first written up as a breed in 1882. It reached the United States in the 1950s and Britain in the late 1960s. It is one of the tiniest breeds, with cocks no more than about 1.2 pounds and hens about 1 pound. The original color was partridge, and many others now exist; Britain standardizes thirteen. Birds have a five point single comb, white earlobes and slate blue legs, and they fly well. Hens lay around 160 small cream or white eggs a year, a lot for a bantam, and go broody readily. They are friendly but a bit flighty and do not like hard cold, and they suit hobby keepers and families.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dutch_Bantam",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/true-bantam/dutch/"
+    ]
+  }
+}

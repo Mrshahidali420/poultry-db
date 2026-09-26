@@ -1,0 +1,39 @@
+{
+  "breed_id": "blue-andalusian",
+  "status": "fixed",
+  "changes": "Egg count set to 160 to 200 (Livestock Conservancy); the old 165 minimum from Wikipedia and Star Milling falls inside that range. Added egg_size medium to large, hen 2.5 kg (5.5 lb), rooster 3.2 kg (7 lb), temperament active and broodiness low from the Livestock Conservancy. Wikipedia's 70 to 80 g eggs describe the Spanish Andaluza Azul population and were not used for size. Added heat_tolerant yes (Star Milling: light body and large comb suit warm climates; Livestock Conservancy: better suited to warm places) and cold_hardy partly (Livestock Conservancy: hardy even in cold, but better in warm climates). White eggs, Spain origin and egg purpose confirmed by three publishers. The conservation status alternatives are different countries, not a conflict, and were left as they are.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Blue_Andalusian",
+    "https://livestockconservancy.org/andalusian-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/andalusian/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Andaluza%20Azul&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 160, "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "rooster_weight_kg": { "value": 3.2, "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "temperament": { "value": "active", "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "broodiness": { "value": "low", "source_url": "https://livestockconservancy.org/andalusian-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": { "value": "partly", "source_url": "https://livestockconservancy.org/andalusian-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/andalusian-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "broodiness", "comb", "earlobe_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Blue_Andalusian", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "origin_country", "purpose", "bantam_available", "skin_color", "comb", "earlobe_color", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "heat_tolerant", "origin_country", "earlobe_color"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/andalusian/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "bantam_available", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Blue Andalusian is a Mediterranean chicken from Andalusia in southern Spain. Birds from there reached England in the 1840s, and English fanciers spent decades refining the sharp blue lacing seen on show birds today. The breed reached America in the 1850s and entered the American standard in 1874. Its slate blue color comes from a dilution gene, so blue parents also produce black and splash or off-white chicks. It has white earlobes, a single comb and dark legs. Roosters weigh about 7 pounds and hens about 5.5 pounds. Hens lay roughly 160 to 200 medium to large chalk white eggs a year, keep laying in winter and seldom go broody. These are active, lively birds that forage hard and dislike confinement, so they suit free range setups more than small runs. They handle heat well and can live in colder areas, though warm regions suit them best.",
+    "sources": [
+      "https://livestockconservancy.org/andalusian-chicken/",
+      "https://en.wikipedia.org/wiki/Blue_Andalusian",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/andalusian/"
+    ]
+  }
+}

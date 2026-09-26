@@ -1,0 +1,19 @@
+{
+  "breed_id": "lamona",
+  "status": "approved",
+  "changes": "All filled fields match the Wikipedia text: developed from 1912 by Harry S. Lamon at the USDA Beltsville station from white Plymouth Rock, silver-gray Dorking and white Leghorn; APA 1933, bantam 1960; white plumage, yellow skin, single comb, red earlobes; white eggs; dual purpose (layer that still gives a tender carcass); the Livestock Conservancy could find no original stock in 2013. The guessed Livestock Conservancy breed page returned 404, and no source gives egg numbers or weights. Single publisher, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Lamona"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Lamona", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "purpose", "origin_country", "origin_year_or_period", "skin_color", "comb", "earlobe_color", "bantam_available", "conservation_status", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Lamona is an American chicken bred at the USDA research station in Beltsville, Maryland. Starting in 1912, government poultry scientist Harry Lamon blended three breeds: the white Plymouth Rock, the white Leghorn and the silver-gray Dorking. He wanted a hen that laid well and could still go to the table as a reasonably tender bird once her laying days were over, which most laying breeds cannot do. The APA accepted the Lamona in 1933 and the bantam in 1960. It is a mid-sized bird, heavier than a Leghorn but lighter than a Plymouth Rock or Dorking, with white feathers, yellow skin and a single comb. It lays white eggs yet has red earlobes, an unusual mix. Numbers fell sharply by the 1980s, and by 2013 no flock descended from the original birds could be traced, so the breed may be extinct.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lamona"
+    ]
+  }
+}

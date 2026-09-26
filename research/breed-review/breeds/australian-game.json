@@ -1,0 +1,27 @@
+{
+  "breed_id": "australian-game",
+  "status": "fixed",
+  "changes": "Weights rounded to one decimal as the brief asks: hen 4.55 to 4.6 kg and cock 5.45 to 5.5 kg, the Australian Poultry Standard figures quoted by Wikipedia (breeds.json has a stray 4.75 kg for hens; Wikipedia's text says 4.55). Purpose kept as exhibition and the duplicate exhibition and fighting alternatives dropped; Wikipedia says it is now mainly an exhibition bird, formerly bred for fighting and meat. Empty varieties field cleared. Origin, history and notable traits confirmed; the FAO DAD-IS record for Australia confirms it as a heavy, hard feathered breed at risk. No source gives eggs, temperament beyond tameness with its owner, or climate, and weights rest on Wikipedia alone, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Australian_Game",
+    "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Game&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 4.6, "source_url": "https://en.wikipedia.org/wiki/Australian_Game" },
+    "rooster_weight_kg": { "value": 5.5, "source_url": "https://en.wikipedia.org/wiki/Australian_Game" },
+    "purpose": { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Australian_Game" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Australian_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Game&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Australian Game, also called the Colonial or simply the Aussie, is a large hard feathered game fowl from New South Wales. Breeders put it together during the 1800s from several fighting types: Australian Pit Game, Malay, Old English Game, Modern Game and Asil. The Malay blood gave it long legs, a trait that was prized at the time. It was first raised for cockfighting, where it had a name for courage and stamina, and also for the table. Despite that past, it was said to be gentle and tame with its keeper. The Australian standard sets cocks at about 12 pounds and hens at about 10, which makes it a heavy bird. Today it is kept mainly for exhibition, and national records list it as at risk, with only a few hundred birds counted.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Australian_Game",
+      "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=Australian%20Game&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "breed_id": "olive-egger",
+  "status": "fixed",
+  "changes": "The only cached source is the Star Milling entry, which supports the 150 to 200 eggs a year, the olive green shell whose shade depends on the parents, laying from 5 to 6 months and the hybrid origin (a dark brown egg bird crossed with a blue egg bird). Temperament hardy, curious, active and origin country United States are not in that text, so both are cleared. Tried My Pet Chicken, Omlet and Cackle Hatchery for a second publisher; all returned 404 or 403, so this stays in review.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": null,
+    "origin_country": null
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Olive Egger is a crossbred chicken, not a standard breed. Breeders make it by pairing a bird from a line that lays dark brown eggs with a bird from a line that lays blue eggs. The brown pigment coats the blue shell, and the result is an egg in some shade of olive green. Because the parents can be many different breeds, no two flocks look quite the same, and both the feather colors and the exact egg shade vary from bird to bird. Hens usually start laying at about five to six months old and give around 150 to 200 eggs a year. The main reason people keep Olive Eggers is to add green eggs to a mixed basket. They suit backyard keepers who enjoy variety and do not need birds that match a show standard.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

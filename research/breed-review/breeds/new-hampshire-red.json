@@ -1,0 +1,29 @@
+{
+  "breed_id": "new-hampshire-red",
+  "status": "fixed",
+  "changes": "Temperament was a one-item list; set to the phrase docile to assertive, varies by strain (Livestock Conservancy says stocks range from gentle to aggressive; Star Milling calls them competitive). Added heat_tolerant partly: Livestock Conservancy says they are known for cold tolerance but do well in warm climates if housed properly. Weights 6.5 lb hen (3.0 kg) and 8.5 lb cock (3.9 kg), 200 to 220 large brown eggs, dual purpose, cold hardiness, beginner suitability and US origin all confirmed by Livestock Conservancy and Wikipedia.",
+  "sources_checked": [
+    "https://livestockconservancy.org/new-hampshire-chicken/",
+    "https://en.wikipedia.org/wiki/New_Hampshire_Red",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/new-hampshire-red/"
+  ],
+  "fixes": {
+    "temperament": { "value": "docile to assertive, varies by strain", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" },
+    "heat_tolerant": { "value": "partly", "source_url": "https://livestockconservancy.org/new-hampshire-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/new-hampshire-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "broodiness", "beginner_friendly", "skin_color", "comb"] },
+    { "url": "https://en.wikipedia.org/wiki/New_Hampshire_Red", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "broodiness", "comb", "earlobe_color", "varieties", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "purpose", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The New Hampshire, often called the New Hampshire Red, is an American chicken bred from Rhode Island Reds in the early 1900s. Farmers and researchers in New Hampshire picked birds that grew, feathered and matured faster, and the APA accepted the breed in 1935. It is lighter red than its parent stock, with black in the tail and wings, and the sun can fade it further. Roosters weigh about 8.5 pounds and hens about 6.5. Hens lay around 200 to 220 large brown eggs a year, and many go broody and raise chicks well. The breed serves for both meat and eggs and suits pasture flocks. Temperament depends on the line: some birds are gentle, others pushy toward calmer breeds. It handles cold winters well and copes with warm areas given good housing. It is the official state poultry of New Hampshire.",
+    "sources": [
+      "https://livestockconservancy.org/new-hampshire-chicken/",
+      "https://en.wikipedia.org/wiki/New_Hampshire_Red",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

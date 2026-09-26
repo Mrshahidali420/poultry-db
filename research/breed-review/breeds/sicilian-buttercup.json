@@ -1,0 +1,39 @@
+{
+  "breed_id": "sicilian-buttercup",
+  "status": "fixed",
+  "changes": "Egg count 180 to 180 widened to 140 to 180 (Livestock Conservancy; Star Milling says about 180). Egg size small to small to medium (Livestock Conservancy). Added egg_color white, hen 2.3 kg and rooster 2.9 kg (Livestock Conservancy: 5 lb and 6.5 lb). Temperament was a list (active, friendly, tame); set to active, can be flighty from the Livestock Conservancy, which says strains range from almost wild to docile, with Star Milling's friendly as a flagged alternative. Added broodiness low (non-broody), heat_tolerant yes and cold_hardy no (Livestock Conservancy: good for hot climates, dislikes cold). Cleared the empty varieties field. Egg purpose, cup comb, bantam form, Sicilian origin and the red (British) versus white (American) earlobe split confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sicilian_Buttercup",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://livestockconservancy.org/buttercup-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 140, "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "egg_size": { "value": "small to medium", "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "egg_color": { "value": "white", "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "rooster_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "temperament": { "value": "active, can be flighty", "source_url": "https://livestockconservancy.org/buttercup-chicken/", "conflict": true, "alternatives": [{ "value": "friendly", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "broodiness": { "value": "low", "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "cold_hardy": { "value": "no", "source_url": "https://livestockconservancy.org/buttercup-chicken/" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/buttercup-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "heat_tolerant", "cold_hardy", "purpose", "comb", "earlobe_color", "origin_country", "conservation_status", "notable_traits"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_size", "temperament", "comb", "origin_country", "notable_traits"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["bantam_available", "comb", "earlobe_color", "origin_country", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/Sicilian_Buttercup", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "conservation_status", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Sicilian Buttercup comes from Sicily and reached the United States in the 1800s, where a Massachusetts breeder named C. Carroll Loring promoted it for decades. It went into the American Standard in 1918 and later spread to Britain. Its trademark is a cup-shaped comb, really two single combs joined front and back into a crown of points. Hens are golden buff with rows of black spangles, roosters are reddish orange with a black tail, and both have willow-green legs. Roosters weigh about 6.5 pounds and hens about 5. Hens lay some 140 to 180 small to medium white eggs a year and seldom go broody. The birds are busy foragers that hate confinement, do well in hot weather and dislike cold. Temperament varies by strain, from friendly and tame to nervous and flighty, and they are chatty. The breed is listed as threatened.",
+    "sources": [
+      "https://livestockconservancy.org/buttercup-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sicilian-buttercup/",
+      "https://en.wikipedia.org/wiki/Sicilian_Buttercup"
+    ]
+  }
+}

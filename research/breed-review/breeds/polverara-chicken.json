@@ -1,0 +1,22 @@
+{
+  "breed_id": "polverara-chicken",
+  "status": "approved",
+  "changes": "Confirmed against the official Italian (FIAV) standard reproduced by Agraria.org: rooster 2.5 to 2.8 kg, hen 1.8 to 2.1 kg, whitish eggs of at least 50 g, black and white varieties, small V-shaped comb, pure white earlobes, white skin, and a bird kept for tasty meat plus fair laying (dual purpose). The 150 eggs a year minimum comes from Wikipedia only; Agraria.org describes laying as fair without a number. No changes.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Polverara_chicken",
+    "https://www.agraria.org/polli/polverara.htm"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Polverara_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "varieties", "skin_color", "comb", "earlobe_color", "crest", "conservation_status", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/polverara.htm", "publisher": "Agraria.org (FIAV Italian standard)", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "varieties", "skin_color", "comb", "earlobe_color", "crest", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Polverara is an old crested chicken named after a small town in the countryside near Padua, in the Veneto region of northern Italy. Writers praised the large chickens of this village as early as the 1500s. The breed nearly died out in the 1900s, falling to only seven birds, and was rebuilt from the 1980s before Italy recognized it in 1996. It comes in glossy black with a green sheen or pure white. It wears a small upright crest, a beard, a tiny V-shaped comb and white earlobes. Roosters weigh about 5.5 to 6.2 pounds and hens about 4 to 4.6 pounds. Hens lay at least 150 whitish eggs a year, and the dark meat is prized for its flavor. This is a hardy, free-ranging bird that does poorly when shut in and will roost in trees, so it suits keepers with open space rather than a small pen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Polverara_chicken",
+      "https://www.agraria.org/polli/polverara.htm"
+    ]
+  }
+}

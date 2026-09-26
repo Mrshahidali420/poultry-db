@@ -1,0 +1,31 @@
+{
+  "breed_id": "buckeye-chicken",
+  "status": "fixed",
+  "changes": "Weights reconverted from the 9 lb male and 6.5 lb female standard given by both Wikipedia and the Livestock Conservancy: rooster 4 to 4.1 kg, hen 3 to 2.9 kg. Temperament list (which mixed in foraging) replaced with active, gentle (Livestock Conservancy). Added egg size medium to large and heat tolerant partly (Livestock Conservancy: does well in cold, can adapt to heat over time). Eggs 150 to 200, brown eggs, cold hardy, dual purpose and United States origin confirmed by both publishers.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Buckeye_chicken",
+    "https://livestockconservancy.org/buckeye-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 4.1, "source_url": "https://livestockconservancy.org/buckeye-chicken/" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/buckeye-chicken/" },
+    "temperament": { "value": "active, gentle", "source_url": "https://livestockconservancy.org/buckeye-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/buckeye-chicken/" },
+    "heat_tolerant": { "value": "partly", "source_url": "https://livestockconservancy.org/buckeye-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/buckeye-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "comb", "skin_color", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Buckeye_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "cold_hardy", "origin_country", "purpose", "comb", "skin_color", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["cold_hardy", "temperament", "comb", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Buckeye is an American dual purpose chicken bred in Warren, Ohio, in the 1890s by Nettie Metcalf, the only woman credited with creating a breed in the American class. She named it for the Buckeye State, and its deep mahogany red feathers and black tail match the color of the buckeye nut. It carries a small pea comb and a broad, compact body with meaty thighs. Roosters weigh about 9 pounds and hens about 6.5 pounds. Hens lay roughly 150 to 200 medium to large brown eggs a year, and some modern lines lay more. They can go broody and make protective mothers. Buckeyes are active, friendly birds that forage hard and are known for catching mice. The pea comb makes them very tough in cold winters, and they can get used to heat over time. They do best with room to roam and suit homesteads and backyard flocks.",
+    "sources": [
+      "https://livestockconservancy.org/buckeye-chicken/",
+      "https://en.wikipedia.org/wiki/Buckeye_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

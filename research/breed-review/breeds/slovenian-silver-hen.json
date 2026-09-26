@@ -1,0 +1,27 @@
+{
+  "breed_id": "slovenian-silver-hen",
+  "status": "fixed",
+  "changes": "Added the missing weights from Wikipedia: rooster 2.7 to 3.2 kg, hen 2.2 to 2.4 kg. Added egg size large (average egg about 64 g) and yellow skin from the same article. Cleared the empty varieties list. Confirmed 260 to 270 brown eggs a year, egg-laying purpose, single comb, light red earlobes with white blotches and Slovenian origin against Wikipedia; FAO DAD-IS lists the breed in Slovenia with eggs and dam-line crossing as its uses. No second publisher found for the weights or egg figures, so it stays flagged for review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen",
+    "https://dadis-breed-datasheet-ws.web.app/?country=SVN&specie=Chicken&breed=slovenska%20srebrna%20koko%C5%A1&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": { "min": 2.2, "max": 2.4 }, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen" },
+    "rooster_weight_kg": { "value": { "min": 2.7, "max": 3.2 }, "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen" },
+    "skin_color": { "value": "yellow", "source_url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "purpose", "comb", "earlobe_color", "skin_color", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=SVN&specie=Chicken&breed=slovenska%20srebrna%20koko%C5%A1&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Slovenian Silver Hen is a white-feathered laying chicken bred by poultry scientists at the University of Ljubljana in Slovenia, where the line was settled and tested around 1968. Breeders favored a sex-linked gene for silver-white plumage, which makes the hens useful as a parent line. Crossed with Slovenian Brown roosters, they produce the commercial Prelux Brown layer. The hens are plain white with yellow legs, yellow-orange eyes, a medium single comb and small pale red earlobes. Roosters weigh about 6 to 7 pounds and hens about 4.9 to 5.3 pounds. A hen starts laying at around five months and gives some 260 to 270 brown eggs a year, each weighing about 64 grams, larger than the eggs of the other Slovenian breeds. Most of the flock, a little over 900 birds in 2020, is kept at the university's poultry center.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Slovenian_Silver_Hen"
+    ]
+  }
+}

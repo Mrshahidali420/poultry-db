@@ -1,0 +1,22 @@
+{
+  "breed_id": "jangmigye",
+  "status": "approved",
+  "changes": "All filled fields match the Wikipedia text: Korea, origin estimated in the mid third century, tails up to 1.5 m, annual tail molt unlike the Onagadori, near loss in the early 1900s, about 250 birds in conservation in 2021. Purpose ornamental is not stated in English Wikipedia but Korean Wikipedia describes long-tailed chickens as pet (ornamental) breeds, so it was kept. No source read gives eggs, weights, egg color or temperament. Korean Wikipedia is a short unsourced stub, and no second publisher was found, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Jangmigye",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B4%EA%BC%AC%EB%A6%AC%EB%8B%AD"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Jangmigye", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://ko.wikipedia.org/wiki/%EA%B8%B4%EA%BC%AC%EB%A6%AC%EB%8B%AD", "publisher": "Wikipedia (Korean)", "source_confidence": "page", "supports": ["purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Jangmigye, also called Ginkkori-dak or long-tail chicken, is an old Korean heritage breed kept for its extraordinary tail. A cock's tail can reach about 4.9 feet, longer than many people are tall. The breed is thought to date back to around the middle of the third century. Early in the 1900s, commercial farms stocked with imported breeds pushed it almost to extinction, and it is said that a single stubborn farmer kept a flock going. By 2021 only about 250 birds were held in conservation, and the breed appears on the FAO list of livestock breeds. Unlike the Japanese Onagadori, whose tail keeps growing, the Jangmigye cock sheds and regrows its tail feathers every year after the rainy season. It is kept today as an ornamental and heritage bird rather than for eggs or meat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jangmigye",
+      "https://ko.wikipedia.org/wiki/%EA%B8%B4%EA%BC%AC%EB%A6%AC%EB%8B%AD"
+    ]
+  }
+}

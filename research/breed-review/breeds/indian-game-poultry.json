@@ -1,0 +1,37 @@
+{
+  "breed_id": "indian-game-poultry",
+  "status": "fixed",
+  "changes": "Eggs per year max 80 kept and the 160 alternative dropped: the Livestock Conservancy says fewer than 160, which does not contradict Wikipedia's about 80. Temperament list (mixed in flock notes) replaced with calm, docile (Livestock Conservancy). Purpose set to plain meat (Livestock Conservancy, FAO DAD-IS UK record, Wikipedia). Egg color light brown / tinted to light brown (Wikipedia light brown, Livestock Conservancy cream or light brown). Added egg size small to medium (Wikipedia small, Livestock Conservancy small to medium). Added cold hardy no and heat tolerant no: Wikipedia says the thin, downless feathers leave it open to cold, and the Livestock Conservancy says it does poorly in very cold or hot weather. Weights 4.8 kg and 3.6 kg (10.5 lb and 8 lb) confirmed from the Livestock Conservancy. Origin Cornwall, England confirmed by the Poultry Club of Great Britain and FAO.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Indian_Game_(poultry)",
+    "https://livestockconservancy.org/cornish-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/hard-feather/indian-game/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Indian%20Game&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_max": { "value": 80, "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" },
+    "temperament": { "value": "calm, docile", "source_url": "https://livestockconservancy.org/cornish-chicken/" },
+    "purpose": { "value": "meat", "source_url": "https://livestockconservancy.org/cornish-chicken/" },
+    "egg_color": { "value": "light brown", "source_url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)" },
+    "egg_size": { "value": "small to medium", "source_url": "https://livestockconservancy.org/cornish-chicken/" },
+    "cold_hardy": { "value": "no", "source_url": "https://livestockconservancy.org/cornish-chicken/" },
+    "heat_tolerant": { "value": "no", "source_url": "https://livestockconservancy.org/cornish-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/cornish-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "origin_year_or_period", "purpose", "broodiness", "comb", "earlobe_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "cold_hardy", "origin_country", "origin_year_or_period", "purpose", "varieties", "conservation_status"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/hard-feather/indian-game/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["origin_country", "purpose"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Indian%20Game&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Indian Game, known in the United States as the Cornish, was bred in Cornwall in southwest England around 1820. Sir Walter Gilbert crossed Asil and English game birds hoping for a fighting cock, but the result had no taste for fighting. Instead it proved to be a superb meat bird. It is short legged, wide set and packed with breast muscle, with tight, hard feathers that carry almost no down. Cocks weigh about 10.5 pounds and hens about 8 pounds, though the close feathering makes them look smaller. Hens are poor layers, giving perhaps 80 small, light brown eggs a year. Most birds are calm, but hens push to the top of the pecking order and some cocks turn aggressive. The thin feathering leaves them poorly suited to harsh cold or heat. The white strain became a parent of the modern broiler and of the small game hen sold in stores.",
+    "sources": [
+      "https://livestockconservancy.org/cornish-chicken/",
+      "https://en.wikipedia.org/wiki/Indian_Game_(poultry)",
+      "https://www.poultryclub.org/breeds/chickens/hard-feather/indian-game/"
+    ]
+  }
+}

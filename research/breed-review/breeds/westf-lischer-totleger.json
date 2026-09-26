@@ -1,0 +1,18 @@
+{
+  "breed_id": "westf-lischer-totleger",
+  "status": "fixed",
+  "changes": "Weights rounded to one decimal from the Wikipedia ranges: rooster 2.25 to 2.3 kg (2 to 2.5 kg) and hen 1.75 to 1.8 kg (1.5 to 2 kg). Everything else (about 180 eggs a year, non-sitting hens, gold and silver pencilled varieties, Germany, over 400 years old, gravely endangered 2016, relatives, name history) matches Wikipedia. No second publisher and no linked FAO DAD-IS record, so needs_review stays true.",
+  "sources_checked": ["https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" },
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "broodiness", "varieties", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Westfalischer Totleger is an old German laying breed from Westphalia, mostly kept around Bielefeld and Herford, with a history of more than four centuries. The name sounds like dead layer in modern German, but it really grew out of older Low German words for a hen that lays every day. It is a close relative of the Ostfriesische Mowe and the Braekel. Once common on farms, it lost out to more productive imported breeds from the 1880s, and by 1904 it was mainly a show bird. It comes in gold pencilled and silver pencilled. Roosters weigh about 4.4 to 5.5 pounds and hens 3.3 to 4.4 pounds. Hens rarely sit and lay around 180 eggs a year, each about 2 ounces. Fewer than 1,000 birds were recorded in 2016, and the breed is rated gravely endangered in Germany.",
+    "sources": ["https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger"]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "breed_id": "thuringian",
+  "status": "fixed",
+  "changes": "Egg color brown cleared: neither Star Milling (the cited page) nor the Poultry Club of Great Britain gives an egg color. Cold hardy true to yes and purpose dual-purpose to dual, to match the field styles. Temperament list replaced with friendly, tame (Star Milling). Added eggs_per_year_max 160 to match the min (Star Milling: about 160 a year) and broodiness low (Star Milling: rarely broody). Origin period 19th century to first recorded 1793, standardised 1907, from the Poultry Club of Great Britain, and the history summary updated to match. Egg figures rest on Star Milling alone, so needs_review stays true.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/thuringian/"
+  ],
+  "fixes": {
+    "egg_color": null,
+    "cold_hardy": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "purpose": { "value": "dual", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "temperament": { "value": "friendly, tame", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "eggs_per_year_max": { "value": 160, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "broodiness": { "value": "low", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "origin_year_or_period": { "value": "first recorded 1793, standardised 1907", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/thuringian/" },
+    "history_summary": { "value": "The Thuringian comes from the Thuringia region of Germany, where it was first recorded in 1793 and known as the Thuringer Pausbackchen before it was standardised as the Thuringer Barthuhn in 1907. Bred as a dual-purpose farm bird, it is now kept mainly for shows and has been exhibited in Britain since about 2000.", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/thuringian/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "temperament", "cold_hardy", "purpose", "broodiness", "origin_country", "notable_traits"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/thuringian/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Thuringian is a rare bearded chicken from the Thuringian Forest area of central Germany. Records of it go back to 1793, and it was standardised under the German name Thuringer Barthuhn in 1907. It was meant as a dual purpose farm bird, but today it is mostly seen at poultry shows, and British exhibitors have shown it since about 2000, first in chamois and silver spangled colors. A full beard and muffs give it a round, chubby cheeked face, and the comb is very small, which helps in cold weather. Hens lay about 160 eggs a year. They seldom go broody, but a sitting hen guards her chicks fiercely. The birds are friendly and tame and like to explore, so they do best with room to free range and can make good pets.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/thuringian/"
+    ]
+  }
+}

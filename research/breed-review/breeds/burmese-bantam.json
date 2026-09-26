@@ -1,0 +1,22 @@
+{
+  "breed_id": "burmese-bantam",
+  "status": "approved",
+  "changes": "Confirmed origin (birds imported from Burma about 1880), single comb, small crest, white as the only recognised colour and true bantam status against the Poultry Club of Great Britain page, which agrees with Wikipedia. No egg, weight or temperament facts are published by either source, so none were added; the record stays flagged for review because the key facts are missing rather than wrong.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Burmese_Bantam",
+    "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/burmese/"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Burmese_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "comb", "crest", "feathered_legs", "varieties", "purpose", "bantam_available", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/burmese/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "comb", "crest", "varieties", "bantam_available", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Burmese is a tiny ornamental chicken with no large fowl version. A British army officer brought the first white birds home from Burma around 1880. The breed was thought lost before 1914, but a small group turned up with an old keeper in Wiltshire in 1970. Andrew Sheppy, founder of the Rare Poultry Society, crossed them with white Booted Bantams and brought the line back. The bird looks like a small Booted Bantam that sits lower, with a longer shape and a low tail. It has a single comb topped by a small crest, short legs covered in feathers, small earlobes and long wattles. White is the only color the British standard accepts, and a black copy has been made in the Netherlands. It is a rare show bird, and little is published about its eggs or nature.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Burmese_Bantam",
+      "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/burmese/"
+    ]
+  }
+}

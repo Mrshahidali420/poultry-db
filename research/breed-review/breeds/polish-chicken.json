@@ -1,0 +1,35 @@
+{
+  "breed_id": "polish-chicken",
+  "status": "fixed",
+  "changes": "Temperament replaced with calm, friendly, flighty when startled (Livestock Conservancy, Meyer Hatchery); the old value was a list of loose adjectives. Country changed from Poland (or Netherlands) to origin uncertain, refined in the Netherlands, because Wikipedia, Livestock Conservancy and Meyer Hatchery all say the true origin is unknown and credit Dutch breeders with the crest. Egg size kept at medium (Meyer Hatchery) with Livestock Conservancy's medium to large marked as a conflict. Eggs per year max conflict dropped: Livestock Conservancy's about 150 sits inside the 150 to 200 range. Confirmed white eggs, 6 lb male and 4.5 lb female (2.7 and 2.0 kg), low broodiness, not cold hardy, heat tolerant with shade, ornamental use.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Polish_chicken",
+    "https://livestockconservancy.org/polish-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/poland/",
+    "https://blog.meyerhatchery.com/2022/06/breed-spotlight-the-polish-chicken/"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, friendly, flighty when startled", "source_url": "https://livestockconservancy.org/polish-chicken/" },
+    "country": { "value": "uncertain; crest refined in the Netherlands", "source_url": "https://livestockconservancy.org/polish-chicken/" },
+    "egg_size": { "value": "medium", "source_url": "https://blog.meyerhatchery.com/2022/06/breed-spotlight-the-polish-chicken/", "conflict": true, "alternatives": [{ "value": "medium to large", "source_url": "https://livestockconservancy.org/polish-chicken/" }] },
+    "eggs_per_year_max": { "value": 200, "source_url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/polish-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "skin_color", "country", "conservation_status"] },
+    { "url": "https://blog.meyerhatchery.com/2022/06/breed-spotlight-the-polish-chicken/", "publisher": "Meyer Hatchery", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "broodiness", "purpose", "country"] },
+    { "url": "https://en.wikipedia.org/wiki/Polish_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "purpose", "comb", "crest", "earlobe_color", "country", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "broodiness", "purpose"] },
+    { "url": "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts", "publisher": "chicken-dictionary (GitHub)", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Polish is an old European crested breed. Nobody knows for sure where it began, but Dutch breeders shaped the big feathered crest that sits on a bony dome on top of the skull. Hens wear a neat round pom-pom, while roosters carry a looser, shaggier mop. Some strains are bearded and some are frizzled. Roosters weigh about 6 pounds and hens about 4.5. Hens lay roughly 150 to 200 white eggs a year, start a little late, and almost never go broody. The birds are calm and friendly but spook easily, because the crest blocks much of their view, so hawks are a real risk. Speaking softly when walking up helps. They handle heat well when given shade but do poorly in cold, wet weather, when the crest can soak or freeze. They suit families who want a showy, gentle bird in a dry, covered run.",
+    "sources": [
+      "https://livestockconservancy.org/polish-chicken/",
+      "https://blog.meyerhatchery.com/2022/06/breed-spotlight-the-polish-chicken/",
+      "https://en.wikipedia.org/wiki/Polish_chicken",
+      "https://github.com/iamthechickenlady-netizen/chicken-dictionary/blob/HEAD/src/breeds.ts"
+    ]
+  }
+}

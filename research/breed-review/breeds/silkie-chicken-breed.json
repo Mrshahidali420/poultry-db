@@ -1,0 +1,36 @@
+{
+  "breed_id": "silkie-chicken-breed",
+  "status": "fixed",
+  "changes": "Temperament replaced with docile, friendly (Meyer Hatchery, My Pet Chicken, Star Milling); the old value mixed in broodiness and mothering. Eggs per year set to 100 to 120 from My Pet Chicken (min was missing, max 100 from the chicken-dictionary list); Wikipedia's 100 in an ideal year and Meyer's 2 to 3 a week agree. Added cold_hardy partly and heat_tolerant yes from My Pet Chicken: they take heat fairly well but need cover in cold, wet weather because the feathers are not waterproof (Meyer, Star Milling agree). Confirmed small cream eggs, high broodiness, China origin, and large fowl weights of 4 lb male and 3 lb female (Wikipedia; My Pet Chicken gives up to 4 and 3 lb). Note that US Silkies are almost all bantam sized.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/silkie/",
+    "https://blog.meyerhatchery.com/2025/03/breed-spotlight-silkies/",
+    "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide"
+  ],
+  "fixes": {
+    "temperament": { "value": "docile, friendly", "source_url": "https://blog.meyerhatchery.com/2025/03/breed-spotlight-silkies/" },
+    "eggs_per_year_min": { "value": 100, "source_url": "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide" },
+    "eggs_per_year_max": { "value": 120, "source_url": "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide" },
+    "cold_hardy": { "value": "partly", "source_url": "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide" }
+  },
+  "sources": [
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness"] },
+    { "url": "https://blog.meyerhatchery.com/2025/03/breed-spotlight-silkies/", "publisher": "Meyer Hatchery", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "broodiness", "cold_hardy"] },
+    { "url": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "skin_color", "comb", "earlobe_color", "varieties", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "broodiness", "origin_country", "skin_color", "comb"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/silkie/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["broodiness"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Silkie is an ancient breed from China, or possibly elsewhere in Asia, named for its soft, hair-like feathers that feel more like fur than plumage. It has black skin and bones, a small walnut comb, turquoise earlobes and five toes on each foot. Standard birds are small, with roosters near 4 pounds and hens near 3, and nearly all Silkies in North America are bantams. Hens lay about 100 to 120 small cream eggs a year, but they go broody so often that laying stops and starts. That same habit makes them famous mothers that will hatch almost any egg. Silkies are docile and friendly, easy to handle, and good with children, though gentle enough to get picked on by bolder breeds. They cannot fly and their fluff is not waterproof, so they need a covered, dry run in wet or snowy weather.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)",
+      "https://www.mypetchicken.com/blogs/our-blog/silkie-chicken-the-ultimate-guide",
+      "https://blog.meyerhatchery.com/2025/03/breed-spotlight-silkies/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

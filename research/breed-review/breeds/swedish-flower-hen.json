@@ -1,0 +1,39 @@
+{
+  "breed_id": "swedish-flower-hen",
+  "status": "fixed",
+  "changes": "Egg size extra-large to large: Backyard Poultry gives an average of 2 oz (55 to 60 g), with only some hens laying extra-large eggs, and Skansen gives 45 to 70 g; the Star Milling value was the exception, not the rule. Temperament was a list; replaced with calm, friendly, independent (Skansen, Backyard Poultry, Star Milling). Added egg counts 150 to 175 a year (Skansen about 150, Backyard Poultry average 175), hen weight 2.3 kg and rooster 3.0 kg (both sources give hens 2 to 2.5 kg and cocks 2.5 to 3.5 kg; midpoints used), heat tolerant yes (Backyard Poultry: adapts well to hotter climates), broodiness medium (Skansen: tendency varies) and single comb (Backyard Poultry). Notable traits re-cited to Star Milling, which is where the largest Swedish breed, up to 8 lb, claim comes from. Egg color, cold hardiness, varieties, origin and status confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Swedish_Flower_Hen",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/",
+    "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/"
+  ],
+  "fixes": {
+    "egg_size": { "value": "large", "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/" },
+    "temperament": { "value": "calm, friendly, independent", "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/" },
+    "eggs_per_year_min": { "value": 150, "source_url": "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/" },
+    "eggs_per_year_max": { "value": 175, "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/" },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/" },
+    "rooster_weight_kg": { "value": 3.0, "source_url": "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/" },
+    "broodiness": { "value": "medium", "source_url": "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/" },
+    "comb": { "value": "single comb", "source_url": "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/" },
+    "notable_traits": { "value": ["millefleur plumage pattern", "largest of the Swedish breeds, up to 8 lb"], "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/", "publisher": "Skansen", "source_confidence": "page", "supports": ["eggs_per_year_min", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "broodiness"] },
+    { "url": "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/", "publisher": "Backyard Poultry (Countryside)", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "origin_country", "comb", "varieties"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "temperament", "cold_hardy", "origin_country", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/Swedish_Flower_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "varieties", "conservation_status", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Swedish Flower Hen is a farmyard landrace from Skane, the far south of Sweden, and the largest of the country's native chicken breeds. It almost vanished in the 1970s, and today's birds descend from three village flocks found at that time. The name comes from the white tip on each feather, which gives a speckled, flowery look over a base of black, blue, buff, red or brown. Some birds carry a crest. Hens weigh about 4.5 to 5.5 pounds and roosters up to about 7.5. Hens lay around 150 to 175 tinted or cream eggs a year, usually large, and keep laying for several seasons. Only some hens go broody. The birds are calm and friendly with people yet independent, and they range and forage well. They handle cold winters and also adapt to warmer weather, so they suit free range keepers and small homesteads in most climates.",
+    "sources": [
+      "https://www.skansen.se/en/see-and-do/the-zoo/animals-at-skansen/swedish-flower-hen/",
+      "https://backyardpoultry.iamcountryside.com/chickens-101/swedish-flower-hen-breed-profile/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Swedish_Flower_Hen"
+    ]
+  }
+}

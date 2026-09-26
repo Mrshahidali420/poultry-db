@@ -1,0 +1,26 @@
+{
+  "breed_id": "castellana-negra",
+  "status": "fixed",
+  "changes": "Rooster weight kept at 2.8 kg and the 3 kg alternative dropped: both come from the one Wikipedia range of 2.8 to 3 kg, so it is not a real conflict. Added egg_size large (Wikipedia gives an average egg of about 60 g; the Spanish Ministry of Agriculture breed catalogue says the eggs are large). Added broodiness low from the Ministry catalogue, which says hens almost never go broody except when old. Confirmed white eggs, egg purpose and Spanish origin against the Ministry catalogue. Egg count (200 to 225) and weights rest on Wikipedia alone, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Castellana_Negra",
+    "https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/razas-ganaderas/razas/catalogo-razas/aviar/gallina-castellana-negra/usos_sistema"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Castellana_Negra" },
+    "egg_size": { "value": "large", "source_url": "https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/razas-ganaderas/razas/catalogo-razas/aviar/gallina-castellana-negra/usos_sistema" },
+    "broodiness": { "value": "low", "source_url": "https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/razas-ganaderas/razas/catalogo-razas/aviar/gallina-castellana-negra/usos_sistema" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Castellana_Negra", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "purpose", "comb", "earlobe_color", "origin_country", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/razas-ganaderas/razas/catalogo-razas/aviar/gallina-castellana-negra/usos_sistema", "publisher": "Spanish Ministry of Agriculture (MAPA)", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "broodiness", "origin_country", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Castellana Negra is an old Spanish laying breed, often linked to the Moorish period, when it was called the moruna. It was once the common farm hen of central and southern Spain, then nearly vanished when caged hybrid layers took over. Conservation flocks built from a handful of birds in the 1980s brought it back, and about 2,200 were counted in 2024, still a vulnerable number. It is a light, Mediterranean type bird dressed in solid black with a green sheen, a red single comb with five or six points, white earlobes and dark slate legs. Roosters weigh about 6 to 6.5 pounds and hens about 5 pounds. Hens start laying at four to five months and give around 200 to 225 large white eggs a year. They are hardy, resist disease well and seldom go broody.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Castellana_Negra",
+      "https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/razas-ganaderas/razas/catalogo-razas/aviar/gallina-castellana-negra/usos_sistema"
+    ]
+  }
+}

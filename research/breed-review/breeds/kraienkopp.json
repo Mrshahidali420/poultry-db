@@ -1,0 +1,30 @@
+{
+  "breed_id": "kraienkopp",
+  "status": "fixed",
+  "changes": "Purpose set to plain eggs; the exhibition alternative dropped (Wikipedia says kept as a layer or show bird, Poultrykeeper lists eggs). Rooster weight 2.75 rounded to 2.8 kg (Wikipedia 2.75 kg, inside Poultrykeeper's 2.5 to 2.95 kg); hen 1.8 kg confirmed (Poultrykeeper 1.8 to 2.5 kg). Added 150 to 180 eggs a year, temperament active, good-natured and cold hardy yes from Poultrykeeper (hardy, lays even in cold weather). Broodiness high cleared: both sources only say hens will go broody, with no level given. Off-white eggs and German-Dutch border origin confirmed by both.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Kraienkopp",
+    "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/"
+  ],
+  "fixes": {
+    "purpose": { "value": "eggs", "source_url": "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/" },
+    "rooster_weight_kg": { "value": 2.8, "source_url": "https://en.wikipedia.org/wiki/Kraienkopp" },
+    "eggs_per_year_min": { "value": 150, "source_url": "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/" },
+    "eggs_per_year_max": { "value": 180, "source_url": "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/" },
+    "temperament": { "value": "active, good-natured", "source_url": "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/" },
+    "broodiness": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Kraienkopp", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "comb", "skin_color", "varieties", "history_summary"] },
+    { "url": "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/", "publisher": "Poultrykeeper", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "purpose", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Kraienkopp, called Twents Hoen in Dutch, is a rare chicken from the border country between Germany and the Netherlands. Farmers there crossed local hens with Malay and later with silver duckwing Leghorn blood, and the breed made its show debut in 1920 on the Dutch side and in 1925 on the German side. It has yellow skin, a small walnut comb and a slightly fierce Malay look, and comes mostly in silver or gold. Cocks weigh about 5.5 to 6.5 pounds and hens about 4 to 5.5 pounds, and the cocks crow loudly. Hens lay around 150 to 180 off-white eggs a year, keep laying in cold weather and will go broody. Though it looks stern, the bird is generally good-natured. It is active and hardy and forages well, so it does best on free range rather than in a small pen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kraienkopp",
+      "https://poultrykeeper.com/chicken-breeds/kraienkoppe-chickens/"
+    ]
+  }
+}

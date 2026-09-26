@@ -1,0 +1,31 @@
+{
+  "breed_id": "rhodebar",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose to dual and autosexing true to yes, to match the field value styles. Egg color brown-tinted to light brown (Rare Breeds Survival Trust says light brown; Star Milling's brown tinted means the same). Egg count 180 to 200 confirmed by RBST. Weights (6 to 9 lb, stored as 2.7 and 4.1 kg) come only from Star Milling and were kept. Empty varieties with no source cleared. Added bantam_available yes (RBST: a very rare bantam exists). Origin at the University of British Columbia in the 1940s plus a later UK strain confirmed by RBST and the Poultry Club of Great Britain. No source covers temperament or climate tolerance and weights have one publisher, so needs_review stays true.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-rhodebar/",
+    "https://www.rbst.org.uk/watchlist-breed/rhodebar/"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "autosexing": { "value": "yes", "source_url": "https://www.rbst.org.uk/watchlist-breed/rhodebar/" },
+    "egg_color": { "value": "light brown", "source_url": "https://www.rbst.org.uk/watchlist-breed/rhodebar/" },
+    "varieties": null,
+    "bantam_available": { "value": "yes", "source_url": "https://www.rbst.org.uk/watchlist-breed/rhodebar/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "autosexing", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.rbst.org.uk/watchlist-breed/rhodebar/", "publisher": "Rare Breeds Survival Trust", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "autosexing", "bantam_available", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-rhodebar/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Rhodebar is an autosexing chicken built to have the laying power of the Rhode Island Red. The first birds were bred in Canada during the 1940s at a university in British Columbia, crossed from Rhode Island Reds and Barred Plymouth Rocks. British breeders made their own strains in the late 1940s and early 1950s, and it was standardized in Britain in the early 1950s. Chicks can be sexed on the day they hatch: males are yellow, while females show dark stripes down the back. Adults are medium sized and shaped like a utility Rhode Island Red, with red, barred plumage and a barred black and silver tail. Hens lay about 180 to 200 light brown eggs a year, and birds weigh roughly 6 to 9 pounds. It caught on just before commercial hybrids took over and is now very rare, with an even rarer bantam.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.rbst.org.uk/watchlist-breed/rhodebar/",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/autosexing-rhodebar/"
+    ]
+  }
+}

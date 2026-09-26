@@ -1,0 +1,32 @@
+{
+  "breed_id": "ardennaise",
+  "status": "fixed",
+  "changes": "Added weights, which were missing from the extra record: cock 2.1 kg from the Wikipedia range of 1.75 to 2.5 kg, which the FAO DAD-IS record for France (2.2 kg) confirms; hen 1.6 kg from the Wikipedia range of 1.5 to 1.75 kg, with DAD-IS France's 1.85 kg (rounded 1.9) kept as a flagged alternative. Added eggs_per_year_min 140 (DAD-IS Belgium average) to go with Wikipedia's approximately 180, and egg size medium (Wikipedia average egg weight 52 g). Added purpose dual (Wikipedia infobox; DAD-IS lists meat as the main use). Varieties cleared: the stored value was a sentence saying twelve colors exist without naming any. White eggs, bantam, France and Belgium origin, 1882 description and history confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ardennaise",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Ardennaise&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Ardennaise&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.1, "source_url": "https://en.wikipedia.org/wiki/Ardennaise" },
+    "hen_weight_kg": { "value": 1.6, "source_url": "https://en.wikipedia.org/wiki/Ardennaise", "conflict": true, "alternatives": [{ "value": 1.9, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Ardennaise&lang=en" }] },
+    "eggs_per_year_min": { "value": 140, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Ardennaise&lang=en" },
+    "egg_size": { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Ardennaise" },
+    "purpose": { "value": "dual", "source_url": "https://en.wikipedia.org/wiki/Ardennaise" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ardennaise", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "bantam_available", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Ardennaise&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "bantam_available"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Ardennaise&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "origin_country", "notable_traits"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ardennaise is an old farm chicken of the Ardennes uplands, a region shared by southern Belgium and north-eastern France. It was first written up in 1882, did well under a Liege breeders' club from 1893, then declined as Italian laying hens flooded in and local birds were crossed with Leghorns. By 1940 the pure breed had gone, and breeders spent about thirty years after the war rebuilding it. It is related to the Bresse Gauloise and is bred in twelve colors, often with a dark face. A bantam form dates from the early 1900s, and a rumpless strain lacks a tail entirely. Hens weigh about 3.5 pounds and cocks about 4.5. Hens lay around 140 to 180 white eggs a year, medium in size. The birds are slender, lively and hardy, and are kept for both eggs and meat by conservation minded keepers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ardennaise",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Ardennaise&lang=en",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Ardennaise&lang=en"
+    ]
+  }
+}

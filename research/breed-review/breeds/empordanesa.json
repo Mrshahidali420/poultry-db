@@ -1,0 +1,103 @@
+{
+  "breed_id": "empordanesa",
+  "status": "fixed",
+  "changes": "heat_tolerant changed from boolean true to \"yes\" to match the value style (Star Milling). Added eggs_per_year_min 160 and eggs_per_year_max 220 and egg_size large: Catalan Wikipedia gives about 160 eggs a year (220 in improved lines) at about 60 g, and Agraria.org gives 180 eggs of 60 g with reddish shells. Egg color, origin Spain and egg purpose confirmed. Weights conflict: Agraria.org (Spanish standard) gives 3.45 kg cock and 2.5 kg hen, and Catalan Wikipedia calls it a semi-heavy type, while Star Milling gives about 5 to 6 lb and 4 lb; main values set to 3.5 and 2.5 kg with the Star Milling figures kept as alternatives.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://ca.wikipedia.org/wiki/Gallina_empordanesa",
+    "https://www.agraria.org/polli/empordanesa.htm"
+  ],
+  "fixes": {
+    "heat_tolerant": {
+      "value": "yes",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+    },
+    "eggs_per_year_min": {
+      "value": 160,
+      "source_url": "https://ca.wikipedia.org/wiki/Gallina_empordanesa"
+    },
+    "eggs_per_year_max": {
+      "value": 220,
+      "source_url": "https://ca.wikipedia.org/wiki/Gallina_empordanesa"
+    },
+    "egg_size": {
+      "value": "large",
+      "source_url": "https://ca.wikipedia.org/wiki/Gallina_empordanesa"
+    },
+    "hen_weight_kg": {
+      "value": 2.5,
+      "source_url": "https://www.agraria.org/polli/empordanesa.htm",
+      "conflict": true,
+      "alternatives": [
+        {
+          "value": 1.8,
+          "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+        }
+      ]
+    },
+    "rooster_weight_kg": {
+      "value": 3.5,
+      "source_url": "https://www.agraria.org/polli/empordanesa.htm",
+      "conflict": true,
+      "alternatives": [
+        {
+          "value": 2.5,
+          "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "url": "https://starmilling.com/poultry-chicken-breeds/",
+      "publisher": "Star Milling Co.",
+      "source_confidence": "page",
+      "supports": [
+        "egg_color",
+        "heat_tolerant",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "origin_country",
+        "purpose",
+        "notable_traits"
+      ]
+    },
+    {
+      "url": "https://ca.wikipedia.org/wiki/Gallina_empordanesa",
+      "publisher": "Wikipedia (Catalan)",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "eggs_per_year_max",
+        "egg_color",
+        "egg_size",
+        "origin_country",
+        "varieties"
+      ]
+    },
+    {
+      "url": "https://www.agraria.org/polli/empordanesa.htm",
+      "publisher": "Agraria.org",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_min",
+        "eggs_per_year_max",
+        "egg_color",
+        "egg_size",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "origin_country",
+        "varieties"
+      ]
+    }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Empordanesa is a Spanish chicken from the Emporda area of Catalonia, in the far northeast of the country. It is a Mediterranean laying breed that copes well with hot weather. Its best known feature is the egg, which ranges from a warm reddish terracotta to a deep chocolate brown, far darker than most brown eggs. Hens lay roughly 160 to 180 eggs a year, and improved lines can reach about 220, with each egg weighing around 60 grams. Reported sizes vary: roosters weigh from about 5.5 to 7.5 pounds and hens from about 4 to 5.5 pounds. The comb is unusual. It starts as a normal single comb in front but splits into several points at the back, so it looks like a small crown. Red, white, buff and partridge colors are kept. The breed nearly vanished in the twentieth century and was rebuilt from farm flocks starting in 1982.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://ca.wikipedia.org/wiki/Gallina_empordanesa",
+      "https://www.agraria.org/polli/empordanesa.htm"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "breed_id": "tuzo-chicken",
+  "status": "fixed",
+  "changes": "Eggs per year max 80 to 100: Wikipedia gives about 80, Omlet about 100, so the range now covers both. Egg size set small (Omlet: small eggs; Wikipedia: about 35 g). Added true bantam weights: rooster 1.4 kg and hen 1.1 kg (midpoints of the Wikipedia infobox ranges), with Omlet's lighter 2.5 lb (1.1 kg) and 2 lb (0.9 kg) kept as conflicting alternatives. Added temperament friendly, easy to handle and cold hardy no (Omlet: not the hardiest, needs care in colder climates). Egg color white or light brown, fighting purpose, Germany (standardised 1983) and the Asian origin confirmed by Wikipedia, Omlet and the Poultry Club of Great Britain.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Tuzo_(chicken)",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/tuzo/",
+    "https://www.omlet.us/breeds/chickens/tuzo/"
+  ],
+  "fixes": {
+    "eggs_per_year_max": { "value": 100, "source_url": "https://www.omlet.us/breeds/chickens/tuzo/" },
+    "egg_size": { "value": "small", "source_url": "https://www.omlet.us/breeds/chickens/tuzo/" },
+    "rooster_weight_kg": { "value": 1.4, "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)", "conflict": true, "alternatives": [{ "value": 1.1, "source_url": "https://www.omlet.us/breeds/chickens/tuzo/" }] },
+    "hen_weight_kg": { "value": 1.1, "source_url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)", "conflict": true, "alternatives": [{ "value": 0.9, "source_url": "https://www.omlet.us/breeds/chickens/tuzo/" }] },
+    "temperament": { "value": "friendly, easy to handle", "source_url": "https://www.omlet.us/breeds/chickens/tuzo/" },
+    "cold_hardy": { "value": "no", "source_url": "https://www.omlet.us/breeds/chickens/tuzo/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Tuzo_(chicken)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "rooster_weight_kg", "hen_weight_kg", "origin_country", "origin_year_or_period", "purpose", "varieties", "notable_traits", "history_summary"] },
+    { "url": "https://www.omlet.us/breeds/chickens/tuzo/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "rooster_weight_kg", "hen_weight_kg", "temperament", "cold_hardy", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/tuzo/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_year_or_period", "bantam_available", "notable_traits", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Tuzo is a true bantam gamecock, meaning there is no large version of the breed. It comes from Asian fighting stock, probably Japanese, and was developed further in Europe and the United States before Germany standardised it in 1983. Britain has had it since the 1970s, and it is shown there as an Asian hard feather breed. It is a small, muscular, upright bird. Roosters weigh roughly 2.5 to 3.3 pounds and hens around 2 to 2.6 pounds. Black, blue and white are the colors most widely accepted. Hens lay only about 80 to 100 small white or tinted eggs a year, and their hard keel makes them clumsy sitters. Tuzos are friendly and easy to handle, though males may fight each other. They do not cope well with cold, and today they are kept mainly for shows.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tuzo_(chicken)",
+      "https://www.omlet.us/breeds/chickens/tuzo/",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/tuzo/"
+    ]
+  }
+}

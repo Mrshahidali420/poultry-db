@@ -1,0 +1,31 @@
+{
+  "breed_id": "green-legged-partridge",
+  "status": "fixed",
+  "changes": "Existing fields (dual purpose, Poland, 1879 description, 1923 recognition, conservation flocks) confirmed against English Wikipedia and the FAO DAD-IS Polish records. Added weights and egg numbers from Polish Wikipedia: cocks 2.2 to 2.7 kg (set 2.5), hens 1.8 to 2.3 kg (set 2.1), 140 to 180 eggs a year. Polish Wikipedia notes the 1879 date may really be 1899. Egg color not filled: no source read states it. Only Wikipedia gives the weights and egg counts (agrofakty.pl read but it looks like generated content and was not relied on), so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Green-legged_Partridge",
+    "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana",
+    "https://www.agrofakty.pl/kury-zielononozki-odmiany-i-cechy-charakterystyczne/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Zielonon%C3%B3%C5%BCka%20Kuropatwiana%20%20ZK&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana" },
+    "hen_weight_kg": { "value": 2.1, "source_url": "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana" },
+    "eggs_per_year_min": { "value": 140, "source_url": "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana" },
+    "eggs_per_year_max": { "value": 180, "source_url": "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Green-legged_Partridge", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana", "publisher": "Wikipedia (Polish)", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "eggs_per_year_min", "eggs_per_year_max", "comb", "origin_country"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Zielonon%C3%B3%C5%BCka%20Kuropatwiana%20%20ZK&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "comb", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "Named for its pale green shanks, the Green-legged Partridge is a traditional farm chicken from Poland. It was first written up in the late 1800s and got a Polish standard in the early 1920s. Hens wear brown partridge feathering, while cocks show a gold head and hackle, an orange saddle and a black breast and tail with a green sheen. It is a light bird: cocks weigh about 5 to 6 pounds and hens about 4 to 5 pounds. Hens mature at six months and lay roughly 140 to 180 eggs a year, a modest total, and the yolks are low in cholesterol. Meat and eggs both taste good. The breed thrives on free range, forages well and resists disease, but it stresses when crowded and may pull feathers. It was once common across Poland and is now held mainly in conservation flocks.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Green-legged_Partridge",
+      "https://pl.wikipedia.org/wiki/Zielonon%C3%B3%C5%BCka_kuropatwiana",
+      "https://dadis-breed-datasheet-ws.web.app/?country=POL&specie=Chicken&breed=Zielonon%C3%B3%C5%BCka%20Kuropatwiana%20%20ZK&lang=en"
+    ]
+  }
+}

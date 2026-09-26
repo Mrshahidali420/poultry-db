@@ -1,0 +1,39 @@
+{
+  "breed_id": "rhode-island-red",
+  "status": "fixed",
+  "changes": "Added missing weights from the Livestock Conservancy: male 8 lb (3.6 kg), female 6 lb (2.7 kg); My Pet Chicken gives a little more (8.5 to 9.5 lb and 6.5 to 7.5 lb). Eggs per year min changed from 250 to 200; Livestock Conservancy, My Pet Chicken, Wikipedia and Star Milling all give 200 to 300. Egg size changed from extra large to large (Livestock Conservancy), with My Pet Chicken's large to extra large as a conflict. Temperament replaced with calm (Livestock Conservancy: most hens are peaceful); the old value was a list that included hardy. Cold hardy true rewritten as yes (My Pet Chicken, Star Milling). Heat tolerant cleared: only the chicken-dictionary list claimed it. Confirmed brown eggs, low broodiness in modern strains (Star Milling, Livestock Conservancy), beginner friendly, dual purpose, US origin. The cached Livestock Conservancy text is for the Rhode Island White, a separate breed, and was not used.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Rhode_Island_Red",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/rhode-island-red/",
+    "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/",
+    "https://www.mypetchicken.com/blogs/our-blog/rhode-island-red-chicken-the-ultimate-guide"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.7, "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/" },
+    "eggs_per_year_min": { "value": 200, "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/" },
+    "eggs_per_year_max": { "value": 300, "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/" },
+    "egg_size": { "value": "large", "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/", "conflict": true, "alternatives": [{ "value": "large to extra large", "source_url": "https://www.mypetchicken.com/blogs/our-blog/rhode-island-red-chicken-the-ultimate-guide" }] },
+    "temperament": { "value": "calm", "source_url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/rhode-island-red-chicken-the-ultimate-guide" },
+    "heat_tolerant": null
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "origin_country"] },
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/rhode-island-red-chicken-the-ultimate-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "cold_hardy"] },
+    { "url": "https://en.wikipedia.org/wiki/Rhode_Island_Red", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "purpose", "origin_country", "comb", "earlobe_color", "conservation_status", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "broodiness", "beginner_friendly", "cold_hardy"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/rhode-island-red/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "Rhode Island Reds were shaped on farms in Rhode Island and southern Massachusetts in the late 1800s, using Asian fowl such as the Malay, Java and Shanghai together with brown Leghorns. The Malay gave it the deep red feathers, which run from rich red to nearly black, with a mostly black tail. Combs can be single or rose. Roosters weigh about 8 pounds and hens about 6. Hens lay 200 to 300 large brown eggs a year and may start at six months old. Since the 1940s, production strains have become smaller, paler and less likely to go broody, while the old type stays larger and darker. Most hens are calm and peaceful. The breed is hardy, handles cold well and asks for little care, which makes it a common first choice for beginners. Rhode Island has made it the official state bird.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rhode_Island_Red",
+      "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/rhode-island-red-chicken/",
+      "https://www.mypetchicken.com/blogs/our-blog/rhode-island-red-chicken-the-ultimate-guide",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

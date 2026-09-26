@@ -1,0 +1,36 @@
+{
+  "breed_id": "faverolles-chicken",
+  "status": "fixed",
+  "changes": "Temperament was a list of six words; replaced with the phrase gentle, docile, active (Livestock Conservancy says active yet gentle; Wikipedia and My Pet Chicken stress docility). Weights switched to the US (APA) standard given by Livestock Conservancy, 6.5 lb hen (2.9 kg) and 8 lb cock (3.6 kg), with the heavier Poultry Club of Great Britain figures (hen 3.4 kg, cock 4.1 kg, lower end of the range) kept as flagged alternatives; the old list also held the top of the UK range as if it were a separate claim. Skin color cleared: the source's pinkish-white refers to the shanks, not the skin. Added cold_hardy yes and heat_tolerant no from My Pet Chicken, backed by Livestock Conservancy calling them good winter layers. Egg count, egg color, egg size, purpose and origin confirmed. Livestock Conservancy page shows both Watch and Threatened boxes; conservation_status left for the orchestrator.",
+  "sources_checked": [
+    "https://livestockconservancy.org/faverolles-chicken/",
+    "https://en.wikipedia.org/wiki/Faverolles_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/faverolles/",
+    "https://www.mypetchicken.com/products/baby-chicks-salmon-faverolles"
+  ],
+  "fixes": {
+    "temperament": { "value": "gentle, docile, active", "source_url": "https://livestockconservancy.org/faverolles-chicken/" },
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/faverolles-chicken/", "conflict": true, "alternatives": [{ "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" }] },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://livestockconservancy.org/faverolles-chicken/", "conflict": true, "alternatives": [{ "value": 4.1, "source_url": "https://en.wikipedia.org/wiki/Faverolles_chicken" }] },
+    "skin_color": null,
+    "cold_hardy": { "value": "yes", "source_url": "https://www.mypetchicken.com/products/baby-chicks-salmon-faverolles" },
+    "heat_tolerant": { "value": "no", "source_url": "https://www.mypetchicken.com/products/baby-chicks-salmon-faverolles" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/faverolles-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "beginner_friendly", "comb", "cold_hardy"] },
+    { "url": "https://en.wikipedia.org/wiki/Faverolles_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "varieties", "feathered_legs", "bantam_available"] },
+    { "url": "https://www.mypetchicken.com/products/baby-chicks-salmon-faverolles", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["egg_color", "temperament", "cold_hardy", "heat_tolerant"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "temperament", "broodiness"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/faverolles/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Faverolles is a French chicken named after a village southwest of Paris. Breeders built it in the 1800s by crossing the Houdan, Dorking, Brahma and other birds, aiming for a fowl that gave both meat and winter eggs for the Paris market. It has a beard, muffs, feathered legs and an unusual fifth toe on each foot. Salmon is the best known color, and white is also accepted in the US. Under the American standard, cocks weigh about 8 pounds and hens about 6.5. A hen lays roughly 150 to 200 tinted or light brown eggs a year, medium to large, and keeps going in winter. The birds are gentle and so docile that pushier breeds may pick on them. They handle cold well but not heat, and they make good pets for families and first time keepers.",
+    "sources": [
+      "https://livestockconservancy.org/faverolles-chicken/",
+      "https://en.wikipedia.org/wiki/Faverolles_chicken",
+      "https://www.mypetchicken.com/products/baby-chicks-salmon-faverolles"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "breed_id": "north-holland-blue",
+  "status": "fixed",
+  "changes": "Temperament list turned into the phrase quiet, docile (Wikipedia). Added egg color tinted from the Rare Poultry Society breed page. Added large fowl weights from the Wikipedia infobox (cock 3.5 to 4 kg, hen 2.75 to 3.25 kg); no second publisher found for them, and the 180 to 240 eggs a year also rest on Wikipedia alone, so the record stays flagged. Confirmed Dutch origin about 1900 and meat use with FAO DAD-IS, and lightly feathered shanks in the British standard with the Poultry Club of Great Britain and the Rare Poultry Society.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/North_Holland_Blue",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/north-holland-blue/",
+    "https://www.rarepoultrysociety.com/north-holland-blue.html",
+    "https://dadis-breed-datasheet-ws.web.app/?country=NLD&specie=Chicken&breed=Noord-Hollandse%20Blauwe%20groot&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "quiet, docile", "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" },
+    "egg_color": { "value": "tinted", "source_url": "https://www.rarepoultrysociety.com/north-holland-blue.html" },
+    "hen_weight_kg": { "value": { "min": 2.75, "max": 3.25 }, "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" },
+    "rooster_weight_kg": { "value": { "min": 3.5, "max": 4 }, "source_url": "https://en.wikipedia.org/wiki/North_Holland_Blue" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/North_Holland_Blue", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "varieties", "feathered_legs", "bantam_available", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://www.rarepoultrysociety.com/north-holland-blue.html", "publisher": "The Rare Poultry Society", "source_confidence": "page", "supports": ["egg_color", "origin_country", "feathered_legs", "bantam_available"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/north-holland-blue/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["feathered_legs", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=NLD&specie=Chicken&breed=Noord-Hollandse%20Blauwe%20groot&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The North Holland Blue is a heavy Dutch meat chicken bred around Purmerend, north of Amsterdam, in about 1900. Farmers crossed Belgian Malines birds with hardier local hens to feed the city's demand for white chicken meat. After World War Two faster American meat breeds pushed it aside, and the last big farm closed in 1977. It comes in one color, cuckoo, and males are paler than females. Dutch birds have clean legs, while the British standard asks for lightly feathered shanks. Roosters weigh about 7.5 to 9 pounds and hens about 6 to 7 pounds. Hens lay roughly 180 to 240 tinted eggs a year. The breed is quiet and docile, grows quickly, and is valued for firm, high quality meat. Hens crossed with suitable males give sex-linked chicks, and a bantam form exists.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/North_Holland_Blue",
+      "https://www.rarepoultrysociety.com/north-holland-blue.html",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/north-holland-blue/"
+    ]
+  }
+}

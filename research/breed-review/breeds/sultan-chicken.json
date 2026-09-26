@@ -1,0 +1,33 @@
+{
+  "breed_id": "sultan-chicken",
+  "status": "fixed",
+  "changes": "Hen weight set to 1.8 kg from the Livestock Conservancy's 4 lb (US standard), with the Poultry Club of Great Britain figure of 2.0 kg quoted by Wikipedia kept as a flagged alternative. Rooster 2.7 kg agreed by both (6 lb). Eggs per year set to 50 to 70 (Livestock Conservancy 50+, Wikipedia about 70) instead of a lone minimum of 70. Temperament list (which included a noise note) replaced with active, tame, friendly. White small eggs, non-sitters (low broodiness), ornamental purpose, poor cold tolerance, crest, v-shaped comb, feathered legs and Turkish origin confirmed by Wikipedia and the Livestock Conservancy; Star Milling's claim of large eggs and a dual-purpose role was not followed because both main sources disagree.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sultan_chicken",
+    "https://livestockconservancy.org/sultan-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sultan/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://livestockconservancy.org/sultan-chicken/", "conflict": true, "alternatives": [ { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken" } ] },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://livestockconservancy.org/sultan-chicken/" },
+    "eggs_per_year_min": { "value": 50, "source_url": "https://livestockconservancy.org/sultan-chicken/" },
+    "eggs_per_year_max": { "value": 70, "source_url": "https://en.wikipedia.org/wiki/Sultan_chicken" },
+    "temperament": { "value": "active, tame, friendly", "source_url": "https://livestockconservancy.org/sultan-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/sultan-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "crest", "comb", "feathered_legs", "varieties", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Sultan_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "purpose", "crest", "comb", "earlobe_color", "feathered_legs", "bantam_available", "varieties", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sultan/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["purpose", "origin_country", "crest", "feathered_legs"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "origin_country", "comb", "crest"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Sultan is a rare ornamental chicken from Turkey, where its old name meant fowl of the sultan. Legend says these birds decorated the palace gardens of the Ottoman sultans, and every Sultan in the West descends from a few birds sent from Constantinople to London in 1854. Few breeds pack in so many odd features: a crest, beard and muffs, a small V comb, feathered legs and feet, vulture hocks and five toes. The plumage is pure white with slate blue legs. Under the American standard, cocks weigh about 6 pounds and hens about 4 pounds. Hens lay only 50 to 70 small white eggs a year and rarely sit. Sultans are tame and friendly, like being held and chatter softly. They need shelter from wet and cold, since crests and combs can freeze, and they should live with other gentle breeds. They make good pets for urban yards.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sultan_chicken",
+      "https://livestockconservancy.org/sultan-chicken/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sultan/"
+    ]
+  }
+}

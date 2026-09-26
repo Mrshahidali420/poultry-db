@@ -1,0 +1,29 @@
+{
+  "breed_id": "luikse-vechter",
+  "status": "fixed",
+  "changes": "Comb value was inverted: English Wikipedia says single combs have NOT been allowed since 2000, and the French standard (French Wikipedia) gives a triple (pea-type) comb, so comb changed to triple. Added weights from the French standard: cock minimum 4 kg with 5 kg desired (set 5.0), hen minimum 3.5 kg (set 3.5). Added egg color tinted (standard: lightly tinted shell, hatching eggs 60 to 65 g). Belgium origin, late 1800s, fighting purpose, bantam form and slate-blue legs confirmed. Weights and egg color rest on Wikipedia only, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Luikse_Vechter",
+    "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Luikse%20vechter&lang=en"
+  ],
+  "fixes": {
+    "comb": { "value": "triple", "source_url": "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge" },
+    "rooster_weight_kg": { "value": 5.0, "source_url": "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge" },
+    "hen_weight_kg": { "value": 3.5, "source_url": "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge" },
+    "egg_color": { "value": "tinted", "source_url": "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Luikse_Vechter", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["comb", "origin_country", "origin_year_or_period", "purpose", "bantam_available", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge", "publisher": "Wikipedia (French)", "source_confidence": "page", "supports": ["comb", "rooster_weight_kg", "hen_weight_kg", "egg_color", "origin_country", "varieties"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Luikse%20vechter&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Luikse Vechter, or Combattant de Liege in French, is a Belgian gamecock from the Liege area of Wallonia. Breeders there developed it in the late 1800s by crossing the older Brugse Vechter with fighting birds of Asian origin. It is a big, powerful bird: the standard asks for cocks of at least 9 pounds, ideally about 11, and hens of at least 7.5 pounds. The face is dark, from purplish red to nearly black, the triple comb is small, wattles are tiny or missing, and the thick legs are slate blue. Its back slopes steeply, unlike the flatter line of the Brugse Vechter. Hens lay tinted eggs. Cockfighting is banned in Belgium, and many birds are now bred only for shows. The breed is endangered, with fewer than 300 birds counted in 2010, and a bantam form also exists.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Luikse_Vechter",
+      "https://fr.wikipedia.org/wiki/Combattant_de_Li%C3%A8ge"
+    ]
+  }
+}

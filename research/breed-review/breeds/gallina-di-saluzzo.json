@@ -1,0 +1,25 @@
+{
+  "breed_id": "gallina-di-saluzzo",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose to dual (house style). Hen weight 1.8 to 2.0 kg: Agraria.org gives 2.0 to 2.1 kg hens and 2.5 to 2.7 kg cocks, which also sits inside Star Milling's 4 to 6 lb range; rooster 2.7 kg confirmed. Confirmed about 180 white eggs a year, Piedmont (Italy) origin and the 1999 recovery from both publishers.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.agraria.org/polli/biancadisaluzzo.htm"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://www.agraria.org/polli/biancadisaluzzo.htm" },
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://www.agraria.org/polli/biancadisaluzzo.htm" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "notable_traits"] },
+    { "url": "https://www.agraria.org/polli/biancadisaluzzo.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "purpose", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Gallina di Saluzzo, also called the Bianca di Saluzzo, is an old farm chicken from Piedmont in northern Italy. Its name means the white hen of Saluzzo. It was once kept on many small farms in the region, then almost vanished as factory poultry took over. A farm school near Cuneo began bringing it back in 1999. The bird is fully white with a red single comb and wattles, and a yellow beak, legs and skin. It is a small to medium bird: cocks weigh about 5.5 to 6 pounds and hens about 4.5 pounds. Hens start laying at six or seven months and give around 180 white eggs a year, mostly in spring and summer. Locally the breed is valued above all for its meat, sold as young birds and as Christmas capons. It is a hardy bird that forages well on open ground.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.agraria.org/polli/biancadisaluzzo.htm"
+    ]
+  }
+}

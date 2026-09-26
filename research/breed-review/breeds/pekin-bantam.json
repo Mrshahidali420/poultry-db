@@ -1,0 +1,26 @@
+{
+  "breed_id": "pekin-bantam",
+  "status": "fixed",
+  "changes": "Weights rounded to one decimal, hen 0.6 kg and cock 0.7 kg: Star Milling gives about 20 oz and 23 oz, and the Wikipedia infobox gives 570 g and 680 g, which agree. Temperament list turned into the phrase docile, easily tamed (Star Milling). High broodiness, ornamental purpose, feathered legs and Chinese origin with British development confirmed. No reliable source gives an egg count, color or size (Star Milling only says hens lay few eggs; the web search budget ran out), and temperament rests on one publisher, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Pekin_Bantam",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 0.6, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "rooster_weight_kg": { "value": 0.7, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "temperament": { "value": "docile, easily tamed", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "origin_country", "feathered_legs"] },
+    { "url": "https://en.wikipedia.org/wiki/Pekin_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "origin_year_or_period", "purpose", "varieties", "feathered_legs"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Pekin is a small, round bantam recognized as a breed in Britain, though its ancestors came from China in the 1800s. One story says British soldiers took the first birds from the Emperor's collection in Peking around 1860; another credits birds sent to Queen Victoria about 1835. It is a true bantam with no large version, and in the US and Canada birds of this type are sold as Cochin Bantams. Pekins are so heavily feathered that their legs and feet almost disappear under a ball of fluff. The British standard lists twelve colors, including buff, black, cuckoo, lavender and white. Hens weigh about 20 ounces and cocks about 23. Hens lay few eggs but go broody readily and make good mothers. Pekins are docile and tame quickly with handling, which makes them good pets and a common choice for small gardens.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Pekin_Bantam"
+    ]
+  }
+}

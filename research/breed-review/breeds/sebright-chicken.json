@@ -1,0 +1,34 @@
+{
+  "breed_id": "sebright-chicken",
+  "status": "fixed",
+  "changes": "Egg count maximum changed from 100 (a GitHub list) to 80, matching Livestock Conservancy's 60 to 80 a year. Temperament replaced with active, spunky, easily tamed (Livestock Conservancy, Star Milling); the old value mixed in flying. Egg color changed from Cream / White to creamy white (Livestock Conservancy; Wikipedia says white). Bantam available changed from boolean true to yes; it is a true bantam with no large form. Added heat_tolerant yes: Livestock Conservancy says they do better in warm climates and handle cold and damp poorly. Weights of about 20 oz hen and 22 oz cock (0.6 kg each) confirmed by Livestock Conservancy, Wikipedia and Star Milling. Low broodiness, not beginner friendly, ornamental purpose and English origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/sebright-chicken/",
+    "https://en.wikipedia.org/wiki/Sebright_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/sebright/"
+  ],
+  "fixes": {
+    "eggs_per_year_max": { "value": 80, "source_url": "https://livestockconservancy.org/sebright-chicken/" },
+    "egg_size": { "value": "small", "source_url": "https://livestockconservancy.org/sebright-chicken/" },
+    "temperament": { "value": "active, spunky, easily tamed", "source_url": "https://livestockconservancy.org/sebright-chicken/" },
+    "egg_color": { "value": "creamy white", "source_url": "https://livestockconservancy.org/sebright-chicken/" },
+    "bantam_available": { "value": "yes", "source_url": "https://en.wikipedia.org/wiki/Sebright_chicken" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://livestockconservancy.org/sebright-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/sebright-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "beginner_friendly", "purpose", "origin_country", "varieties", "comb", "skin_color", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Sebright_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "bantam_available", "comb", "skin_color", "feathered_legs", "earlobe_color"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["rooster_weight_kg", "temperament", "origin_country", "purpose"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/sebright/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "bantam_available", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Sebright is a tiny English bantam created by Sir John Saunders Sebright, who spent years crossing small local birds before presenting it around 1810. It is a true bantam, so there is no large version, and it ranks among the oldest British bantam breeds. Every feather is gold or silver with a crisp black edge, and cocks are hen feathered, lacking the long curved tail plumes of most roosters. Males weigh about 22 ounces and females about 20. Hens lay only 60 to 80 small creamy white eggs a year and seldom go broody. Sebrights are active and spunky and tame easily when handled young, though they fly well and can be hard to catch. They prefer warm climates and dislike cold, damp weather. The breed is kept for shows and ornament, suits 4H projects, and is a poor choice for anyone wanting eggs.",
+    "sources": [
+      "https://livestockconservancy.org/sebright-chicken/",
+      "https://en.wikipedia.org/wiki/Sebright_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

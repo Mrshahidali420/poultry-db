@@ -1,0 +1,21 @@
+{
+  "breed_id": "silverudd-blue",
+  "status": "fixed",
+  "changes": "Added egg size medium to large from the stated egg weight of 50 to 65 g (Wikipedia). Confirmed blue/green eggs, hen about 1.5 kg and cock about 2.5 kg, black, blue and splash colors, single comb, Swedish origin and the history (Martin Silverudd, New Hampshire and Rhode Island Red base, Cream Legbar for the egg color, renamed in 2016). Hatchery pages could not be read and no other publisher was reached, so it stays flagged for review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Silverudd_Blue"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium to large", "source_url": "https://en.wikipedia.org/wiki/Silverudd_Blue" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Silverudd_Blue", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "varieties", "comb", "origin_country", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Silverudd Blue is a Swedish chicken created by Martin Silverudd in the Småland region of southern Sweden. He started mainly from New Hampshire and Rhode Island Red birds and crossed in Cream Legbars from Britain to get colored eggshells. Hens lay blue to green eggs of roughly 50 to 65 grams. Silverudd died in 1986 before the work was finished, so birds today still differ in size and in egg shade. The breed went by names such as Isbar and Swedish green egg layer before it took its creator's name in 2016. It is a medium-sized bird with a square outline, a single comb, four toes, dark legs and a dark beak. Hens weigh about 3.3 pounds and roosters about 5.5 pounds. Because it carries the blue gene, chicks hatch in black, blue or splash in a steady ratio, with blue the most common.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Silverudd_Blue"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "breed_id": "padovana-chicken",
+  "status": "fixed",
+  "changes": "Egg color changed from cream to light brown to white, the shell color in the official Italian (FIAV) standard printed by Agraria.org, which also describes good output of large 50 to 60 g white eggs; Wikipedia's cream to light brown kept as a conflicting alternative. Added egg size medium to large (50 to 60 g in both sources) and temperament lively, trusting (the standard: lively, ornamental, trusting character). Confirmed weights (cock 1.8 to 2.3 kg, hen 1.5 to 2.0 kg) with FAO DAD-IS (2.0 and 1.8 kg), and Italian origin with DAD-IS and Agraria.org.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Padovana_chicken",
+    "https://www.agraria.org/polli/padovana.htm",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Padovana&lang=en"
+  ],
+  "fixes": {
+    "egg_color": { "value": "white", "source_url": "https://www.agraria.org/polli/padovana.htm", "conflict": true, "alternatives": [{ "value": "cream to light brown", "source_url": "https://en.wikipedia.org/wiki/Padovana_chicken" }] },
+    "egg_size": { "value": "medium to large", "source_url": "https://www.agraria.org/polli/padovana.htm" },
+    "temperament": { "value": "lively, trusting", "source_url": "https://www.agraria.org/polli/padovana.htm" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Padovana_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties", "skin_color", "comb", "earlobe_color", "crest", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/padovana.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "origin_country", "crest", "comb", "earlobe_color", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Padovana&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "crest", "varieties"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Padovana is an old crested and bearded chicken named for the city of Padua in northeast Italy. Where it first came from is still argued over, and links to Polish and Dutch crested breeds are unclear, but a 1397 fresco in Padua already shows a crested hen, and the naturalist Aldrovandi pictured the bird in 1600. It has a huge round crest, a full beard, no comb, and tiny hidden earlobes. Recognized colors include white, black, sparrowhawk and laced silver, gold and buff. Roosters weigh about 4 to 5 pounds and hens about 3 to 4 pounds. Hens lay good numbers of eggs weighing 50 to 60 grams; the Italian standard calls for white shells. The birds are lively and trusting, and today they are kept mostly for show, though they also give fine meat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Padovana_chicken",
+      "https://www.agraria.org/polli/padovana.htm",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Padovana&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "breed_id": "java-chicken",
+  "status": "fixed",
+  "changes": "Hen weight conflict settled at 3.4 kg: the Livestock Conservancy gives 7.5 lb (3.4 kg) and Wikipedia's 2.9 to 3.4 kg range includes it; the 2.9 alternative dropped. Egg color brown (tinted to dark brown) simplified to brown, the value both the Livestock Conservancy fact box and Wikipedia give. Temperament list replaced with calm, friendly, docile. Rooster 4.3 kg (9.5 lb), 150 to 180 large eggs, broody, cold and heat hardy, dual purpose and United States origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Java_chicken",
+    "https://livestockconservancy.org/java-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.4, "source_url": "https://livestockconservancy.org/java-chicken/" },
+    "egg_color": { "value": "brown", "source_url": "https://livestockconservancy.org/java-chicken/" },
+    "temperament": { "value": "calm, friendly, docile", "source_url": "https://livestockconservancy.org/java-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/java-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "origin_country", "purpose", "varieties", "lifespan_years", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Java_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "origin_country", "purpose", "comb", "earlobe_color", "skin_color", "varieties", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "broodiness", "varieties", "lifespan_years"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Java is one of the oldest American chicken breeds, second only to the Dominique. Its name points to the island of Java, but the breed was developed in the United States from Asian stock and was known here by 1835. It helped create the Plymouth Rock, Rhode Island Red and Jersey Giant. Javas have a long back and deep breast that give them a solid, boxy shape. Black birds show a green sheen, and mottled and white birds also exist. Roosters weigh about 9.5 pounds and hens about 7.5 pounds. Hens lay 150 to 180 large brown eggs a year, keep laying into winter and often go broody. The birds are calm and friendly, which makes them a good choice for families with children. They forage well, handle both cold and heat with basic shelter, and suit homesteads and small farms. The breed is critically rare.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Java_chicken",
+      "https://livestockconservancy.org/java-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

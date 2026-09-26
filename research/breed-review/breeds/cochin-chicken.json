@@ -1,0 +1,36 @@
+{
+  "breed_id": "cochin-chicken",
+  "status": "fixed",
+  "changes": "Eggs per year max was 100, below the min of 150 (a chicken-dictionary value); set to 200 from the Livestock Conservancy (150 to 200), with My Pet Chicken's 150 to 180 in the same range. Egg size changed from medium to medium to large (Livestock Conservancy; My Pet Chicken says medium). Egg color changed from Light Brown to brown (Livestock Conservancy, My Pet Chicken; Wikipedia says tinted). Temperament replaced with friendly, docile, gentle (Livestock Conservancy, My Pet Chicken); the old value mixed in foraging, mothering and looks. Cold hardy true rewritten as yes. Confirmed 11 lb male and 8.5 lb female (5.0 and 3.9 kg; My Pet Chicken's ranges top out at the same figures), high broodiness, poor heat tolerance, ornamental use and Chinese origin.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Cochin_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://livestockconservancy.org/cochin-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/cochin/",
+    "https://www.mypetchicken.com/blogs/our-blog/cochin-chicken-breed-the-complete-guide"
+  ],
+  "fixes": {
+    "eggs_per_year_max": { "value": 200, "source_url": "https://livestockconservancy.org/cochin-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/cochin-chicken/" },
+    "egg_color": { "value": "brown", "source_url": "https://livestockconservancy.org/cochin-chicken/" },
+    "temperament": { "value": "friendly, docile, gentle", "source_url": "https://livestockconservancy.org/cochin-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/cochin-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/cochin-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "comb", "earlobe_color", "conservation_status"] },
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/cochin-chicken-breed-the-complete-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness"] },
+    { "url": "https://en.wikipedia.org/wiki/Cochin_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "origin_country", "feathered_legs", "skin_color", "varieties", "bantam_available", "broodiness"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "cold_hardy", "broodiness", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/cochin/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Cochin comes from big, feather-legged chickens shipped out of China in the 1840s and 1850s, first called Shanghai fowl. Their size set off the \"hen fever\" craze in England and America. Today it is kept mainly for show and as a pet. Soft, loose feathers give it a round, heart-shaped outline, and the feathering runs down the legs onto the toes. Roosters weigh about 11 pounds and hens about 8.5, and bantams are common in the US. Hens start slowly, often around eight months, then lay roughly 150 to 200 medium to large brown eggs a year. They are among the most broody of all breeds and will happily hatch duck or turkey eggs. Cochins are gentle, docile and easy to tame, and a two-foot fence holds them. They do well in cold but need shade in summer heat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cochin_chicken",
+      "https://livestockconservancy.org/cochin-chicken/",
+      "https://www.mypetchicken.com/blogs/our-blog/cochin-chicken-breed-the-complete-guide",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

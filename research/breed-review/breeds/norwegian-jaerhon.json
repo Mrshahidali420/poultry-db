@@ -1,0 +1,28 @@
+{
+  "breed_id": "norwegian-jaerhon",
+  "status": "fixed",
+  "changes": "Egg color white to light tinted changed to white: the live Wikipedia article says the eggs are white, with a minimum weight of 55 g. Temperament cleared: hardy, active, good flier appears in no source, and the value mixed hardiness and flying with temperament. Added weights from FAO DAD-IS (Norsk jaerhona): cock 2.5 kg, hen 1.5 kg. Wikipedia's infobox gives about 1.7 kg for both sexes, kept as a conflicting alternative for the cock; the identical hen figure looks like a copy error and was not used. Added eggs_per_year_max 215 so the range matches the 215 eggs a year both sources give. Confirmed Norwegian origin, egg use and autosexing with DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+    "https://dadis-breed-datasheet-ws.web.app/?country=NOR&specie=Chicken&breed=Norsk%20jaerhona&lang=en"
+  ],
+  "fixes": {
+    "egg_color": { "value": "white", "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" },
+    "temperament": null,
+    "eggs_per_year_max": { "value": 215, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=NOR&specie=Chicken&breed=Norsk%20jaerhona&lang=en" },
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=NOR&specie=Chicken&breed=Norsk%20jaerhona&lang=en" },
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=NOR&specie=Chicken&breed=Norsk%20jaerhona&lang=en", "conflict": true, "alternatives": [{ "value": 1.7, "source_url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns" }] }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "origin_country", "purpose", "varieties", "autosexing", "bantam_available", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=NOR&specie=Chicken&breed=Norsk%20jaerhona&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "autosexing"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Jaerhon is Norway's only native chicken breed, named for the Jaeren district in Rogaland on the southwest coast. It was the country's main farm chicken until foreign breeds arrived in the 1800s. From 1916 to 1973 a state breeding station at Bryne kept and selected the breed, and that work made it autosexing, so chicks can be sorted by sex from their down color at hatch. Two color varieties are recognized, dark brown with yellow and light brown with yellow. Birds have a single comb and bright yellow beak and legs. It is a light layer type: roosters weigh about 5.5 pounds and hens about 3.3 pounds. Hens lay around 215 white eggs a year, each at least 55 grams. A bantam version was approved in 1994, and Norway treats the breed as a national conservation priority.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/J%C3%A6rh%C3%B8ns",
+      "https://dadis-breed-datasheet-ws.web.app/?country=NOR&specie=Chicken&breed=Norsk%20jaerhona&lang=en"
+    ]
+  }
+}

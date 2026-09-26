@@ -1,0 +1,30 @@
+{
+  "breed_id": "kr-per",
+  "status": "fixed",
+  "changes": "Weights were stored as min/max objects, not numbers. Hen weight set to 1.8 kg (English and German Wikipedia: 1.5 to 2.0 kg) and rooster weight to 2.0 kg (German Wikipedia infobox 1.75 to 2.25 kg; English Wikipedia gives a 2.25 kg maximum). Added about 180 eggs a year from German Wikipedia. Added purpose dual from FAO DAD-IS (uses eggs, meat, hobby). White eggs, single comb, white earlobes, Germany (Bergisches Land and Westphalia) confirmed by English and German Wikipedia and FAO. Egg numbers and weights rest on Wikipedia only, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Kr%C3%BCper",
+    "https://de.wikipedia.org/wiki/Kr%C3%BCper",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Kr%C3%BCper&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://en.wikipedia.org/wiki/Kr%C3%BCper" },
+    "rooster_weight_kg": { "value": 2.0, "source_url": "https://de.wikipedia.org/wiki/Kr%C3%BCper" },
+    "eggs_per_year_min": { "value": 180, "source_url": "https://de.wikipedia.org/wiki/Kr%C3%BCper" },
+    "purpose": { "value": "dual", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Kr%C3%BCper&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Kr%C3%BCper", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "comb", "earlobe_color", "varieties", "bantam_available", "origin_country", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://de.wikipedia.org/wiki/Kr%C3%BCper", "publisher": "Wikipedia (German)", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Kr%C3%BCper&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Kruper is an old German creeper chicken from the Bergisches Land and Westphalia in western Germany. Creepers are chickens with very short legs, a type written about since the 1500s, and the Kruper's shanks measure only about 3 to 4 inches. The body is long and rounded like a roller, with a single comb, round white earlobes and slate gray legs. Colors include black, white, cuckoo, partridge and two laced patterns found only in the local Berg breeds. Cocks weigh up to about 5 pounds and hens about 3.5 to 4.5 pounds, and a bantam form exists. Hens lay around 180 white eggs a year. The birds are kept for eggs, meat and as a hobby. The breed is gravely endangered in Germany: a 2013 count found fewer than 400 birds, and semen has been frozen as a genetic reserve.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kr%C3%BCper",
+      "https://de.wikipedia.org/wiki/Kr%C3%BCper",
+      "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Kr%C3%BCper&lang=en"
+    ]
+  }
+}

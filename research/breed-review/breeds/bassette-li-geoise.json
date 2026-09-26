@@ -1,0 +1,24 @@
+{
+  "breed_id": "bassette-li-geoise",
+  "status": "fixed",
+  "changes": "All filled fields match Wikipedia: 125 to 180 eggs a year, good sitters, 1.0 kg cock and 0.9 kg hen, single comb, white earlobes, Belgium, standard of 1930. Added egg_size small from Wikipedia's 42 to 48 g egg weight (US small grade). FAO DAD-IS (Belgium) confirms Belgian origin and egg use and describes it as a dwarf fowl related to the Brabanter, smaller and without crest. No second publisher gives weights or egg figures, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Bassette%20Li%C3%A9geoise&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "broodiness", "purpose", "comb", "earlobe_color", "varieties", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Bassette%20Li%C3%A9geoise&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bassette Liégeoise, often just called the Bassette, is a small Belgian chicken from the Liège area of Wallonia. It counts as a true bantam because no large version exists, yet it is bigger than most bantams: cocks weigh about 2.2 pounds and hens about 2 pounds. Local people once kept these little birds to hatch partridge and pheasant eggs. From around 1917 a Brussels breeder, William Collier, selected them for a fixed type and better laying, and a standard followed in 1930. The bird has a single comb, white earlobes and slate blue beak and legs. Quail and silver quail are the usual colors. Hens lay about 125 to 180 small eggs a year and make reliable sitters and mothers. Very few birds remain, so the breed mainly interests keepers who want to preserve a rare Belgian line.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bassette_Li%C3%A9geoise",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Bassette%20Li%C3%A9geoise&lang=en"
+    ]
+  }
+}

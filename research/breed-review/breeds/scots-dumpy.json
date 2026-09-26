@@ -1,0 +1,105 @@
+{
+  "breed_id": "scots-dumpy",
+  "status": "fixed",
+  "changes": "Temperament was a one-item list; set to the plain string docile (Star Milling). Egg count: the old value was stored as a minimum of 180, but the Rare Breeds Survival Trust says up to 180 depending on strain and Wikipedia says about 180, so 180 moved to eggs_per_year_max and the minimum cleared. Added hen 2.7 kg and rooster 3.2 kg from the Scots Dumpy Club's copy of the British Poultry Standards (6 lb and 7 lb). White or cream eggs confirmed by RBST (white to tinted) and the club standard (white). High broodiness confirmed by the Poultry Club of Great Britain and Star Milling. Scottish origin, short legs from a dwarfing gene, bantam form and cuckoo, black and white colors confirmed. Kept in review: some key facts have fewer than two publishers (strict rule).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Scots_Dumpy",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-dumpy/",
+    "https://www.rbst.org.uk/watchlist-breed/scots-dumpy/",
+    "https://web.archive.org/web/20191213133030/http://www.scotsdumpyclub.org.uk/standard/"
+  ],
+  "fixes": {
+    "temperament": {
+      "value": "docile",
+      "source_url": "https://starmilling.com/poultry-chicken-breeds/"
+    },
+    "eggs_per_year_min": null,
+    "eggs_per_year_max": {
+      "value": 180,
+      "source_url": "https://www.rbst.org.uk/watchlist-breed/scots-dumpy/"
+    },
+    "hen_weight_kg": {
+      "value": 2.7,
+      "source_url": "https://web.archive.org/web/20191213133030/http://www.scotsdumpyclub.org.uk/standard/"
+    },
+    "rooster_weight_kg": {
+      "value": 3.2,
+      "source_url": "https://web.archive.org/web/20191213133030/http://www.scotsdumpyclub.org.uk/standard/"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Scots_Dumpy",
+      "publisher": "Wikipedia",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_max",
+        "egg_color",
+        "broodiness",
+        "bantam_available",
+        "varieties",
+        "comb",
+        "conservation_status",
+        "origin_country",
+        "notable_traits",
+        "history_summary"
+      ]
+    },
+    {
+      "url": "https://www.rbst.org.uk/watchlist-breed/scots-dumpy/",
+      "publisher": "Rare Breeds Survival Trust",
+      "source_confidence": "page",
+      "supports": [
+        "eggs_per_year_max",
+        "egg_color",
+        "varieties",
+        "bantam_available",
+        "origin_country"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20191213133030/http://www.scotsdumpyclub.org.uk/standard/",
+      "publisher": "The Scots Dumpy Club",
+      "source_confidence": "page",
+      "supports": [
+        "egg_color",
+        "hen_weight_kg",
+        "rooster_weight_kg",
+        "bantam_available",
+        "origin_country"
+      ]
+    },
+    {
+      "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/scots-dumpy/",
+      "publisher": "Poultry Club of Great Britain",
+      "source_confidence": "page",
+      "supports": [
+        "broodiness",
+        "origin_country",
+        "notable_traits"
+      ]
+    },
+    {
+      "url": "https://starmilling.com/poultry-chicken-breeds/",
+      "publisher": "Star Milling Co.",
+      "source_confidence": "page",
+      "supports": [
+        "temperament",
+        "broodiness",
+        "origin_country",
+        "notable_traits"
+      ]
+    }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Scots Dumpy is an old Scottish farm chicken known for its very short legs, which leave the body only a few inches off the ground and give it a waddling walk. The trait comes from a dwarfing gene, so some chicks from two short-legged parents hatch long legged and some never hatch. Over the years it has also been called the Bakie, Crawler and Creeper. Birds are usually cuckoo, black or white, with a bright red single comb, and there is a bantam version. Roosters weigh about 7 pounds and hens about 6. Hens lay up to about 180 white or lightly tinted eggs a year. They are docile, and they are famous as broodies and careful mothers, often used to hatch game bird eggs. Short legs also mean they do little damage to gardens. The breed nearly died out and was rebuilt in 1977 from birds kept in Kenya.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scots_Dumpy",
+      "https://www.rbst.org.uk/watchlist-breed/scots-dumpy/",
+      "https://web.archive.org/web/20191213133030/http://www.scotsdumpyclub.org.uk/standard/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

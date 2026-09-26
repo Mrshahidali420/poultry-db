@@ -1,0 +1,37 @@
+{
+  "breed_id": "shamo",
+  "status": "fixed",
+  "changes": "Weights were wrong: 1.8 kg hen and 5.9 kg rooster came from the ends of Star Milling's 4 to 13 lb span across all Shamo sizes. Changed to the APA standard of 11 lb male and 7 lb female (5.0 and 3.2 kg), which Livestock Conservancy and Oklahoma State both give. Egg color brown narrowed to light brown and egg size medium to large added (Livestock Conservancy). Temperament added: friendly with people, aggressive to other chickens (Livestock Conservancy, Oklahoma State). Empty varieties filled with the three APA varieties both sources list. Origin Japan confirmed by all sources. Egg count left blank: sources give only a rough average of about 90.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Shamo_chickens",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://livestockconservancy.org/shamo-chicken/",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/shamo/",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/ko-shamo/",
+    "https://breeds.okstate.edu/poultry/chickens/shamo-chickens.html"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.2, "source_url": "https://livestockconservancy.org/shamo-chicken/" },
+    "rooster_weight_kg": { "value": 5.0, "source_url": "https://livestockconservancy.org/shamo-chicken/" },
+    "egg_color": { "value": "light brown", "source_url": "https://livestockconservancy.org/shamo-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/shamo-chicken/" },
+    "temperament": { "value": "friendly with people, aggressive to other chickens", "source_url": "https://breeds.okstate.edu/poultry/chickens/shamo-chickens.html" },
+    "varieties": { "value": ["black", "dark", "black breasted red (wheaten)"], "source_url": "https://breeds.okstate.edu/poultry/chickens/shamo-chickens.html" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/shamo-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "origin_country", "varieties"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/shamo-chickens.html", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Shamo_chickens", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["purpose", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/shamo/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "Shamo is the Japanese name for a family of large game fowl. Their ancestors came to Japan from Siam, now Thailand, in the early 1600s, and the name comes from that old country name. Japan protected the breed by law in 1941, and regional types range from the big O-Shamo to the medium Chu-Shamo and smaller birds. The Shamo stands very upright, often near 30 inches tall, with a wide muscular body, yellow legs, a pea comb, pearl eyes and hard, sparse feathers that leave skin showing. The US standard calls for 11 pound males and 7 pound females. Hens are fair to poor layers of light brown eggs but devoted mothers. Shamos are friendly with people yet fight other birds of the same sex, so roosters must be kept apart. They rarely fly and need room to forage. Most are kept for show or as curiosities.",
+    "sources": [
+      "https://livestockconservancy.org/shamo-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/shamo-chickens.html",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/shamo/"
+    ]
+  }
+}

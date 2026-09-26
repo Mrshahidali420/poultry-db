@@ -1,0 +1,38 @@
+{
+  "breed_id": "wyandotte-chicken",
+  "status": "fixed",
+  "changes": "Weights fixed: the old 2.7 kg hen and 4 kg rooster were the two ends of Wikipedia's 6 to 9 lb range for all adults, not per sex. Set to hen 6.5 lb (2.9 kg) and cock 8.5 lb (3.9 kg) from the Livestock Conservancy; My Pet Chicken's 6 to 7 lb and 8 to 9 lb agree. Temperament array rewritten as calm, friendly (Livestock Conservancy, My Pet Chicken, Star Milling). Added eggs per year min 150 (My Pet Chicken gives 150 to 200; Star Milling about 200 confirms the max), egg size large (Livestock Conservancy, My Pet Chicken, Wikipedia) and heat tolerant yes (My Pet Chicken). Broodiness kept high from Star Milling (excellent setters) but marked as a conflict, since My Pet Chicken says they do not often go broody. Confirmed brown eggs, cold hardiness and US origin. Livestock Conservancy Sebright text in the cache is a different breed and was not used.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Wyandotte_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/wyandotte/",
+    "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/",
+    "https://www.mypetchicken.com/blogs/our-blog/wyandotte-chicken-breed-the-ultimate-guide"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.9, "source_url": "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/" },
+    "rooster_weight_kg": { "value": 3.9, "source_url": "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/" },
+    "temperament": { "value": "calm, friendly", "source_url": "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/" },
+    "eggs_per_year_min": { "value": 150, "source_url": "https://www.mypetchicken.com/blogs/our-blog/wyandotte-chicken-breed-the-ultimate-guide" },
+    "egg_size": { "value": "large", "source_url": "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.mypetchicken.com/blogs/our-blog/wyandotte-chicken-breed-the-ultimate-guide" },
+    "broodiness": { "value": "high", "source_url": "https://starmilling.com/poultry-chicken-breeds/", "conflict": true, "alternatives": [{ "value": "low", "source_url": "https://www.mypetchicken.com/blogs/our-blog/wyandotte-chicken-breed-the-ultimate-guide" }] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "purpose", "origin_country"] },
+    { "url": "https://www.mypetchicken.com/blogs/our-blog/wyandotte-chicken-breed-the-ultimate-guide", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "temperament", "cold_hardy", "broodiness"] },
+    { "url": "https://en.wikipedia.org/wiki/Wyandotte_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "purpose", "origin_country", "origin_year_or_period", "comb", "skin_color", "earlobe_color", "varieties", "bantam_available", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/wyandotte/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Wyandotte is an American dual-purpose breed from the 1870s, named for the Wyandot people. The first birds were silver laced, each white feather edged in black, and golden laced, buff, white, Columbian, partridge and other colors came later. Wyandottes are broad, full-breasted birds with yellow skin and legs and a low rose comb that stands up well to frostbite. Hens weigh about 6.5 pounds and roosters about 8.5. A hen lays around 150 to 200 large brown eggs a year. Some hens sit well and make good mothers, though others rarely go broody. The breed is calm and friendly, but it often ends up near the top of the pecking order in a mixed flock. It copes well with cold and also handles heat, which makes it an easy family bird in most of the US. Bantams are available too.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wyandotte_chicken",
+      "https://livestockconservancy.org/about-us/conservation-successes/wyandotte-chicken/",
+      "https://www.mypetchicken.com/blogs/our-blog/wyandotte-chicken-breed-the-ultimate-guide",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

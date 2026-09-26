@@ -1,0 +1,30 @@
+{
+  "breed_id": "black-shumen",
+  "status": "fixed",
+  "changes": "Wikipedia gives two sets of figures for eggs and weights; the FAO DAD-IS record for Bulgaria (Cherna shumenska kokoshka) matches the first set, so those are used and the conflicts dropped: 150 to 155 eggs a year, hen 1.5 kg (was 1.45), cock 1.9 kg (was 1.85). Egg color greyish-white to white, the DAD-IS shell color; Wikipedia's greyish-white is a shade of the same. Added egg size small (DAD-IS egg weight 46 g, Wikipedia 45 to 47 g in the same set). Empty varieties field cleared. Purpose eggs, single comb, white skin, origin, history and at risk status confirmed. No source describes temperament or climate tolerance.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Black_Shumen",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 150, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en" },
+    "eggs_per_year_max": { "value": 155, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en" },
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en" },
+    "rooster_weight_kg": { "value": 1.9, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en" },
+    "egg_color": { "value": "white", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en" },
+    "egg_size": { "value": "small", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "skin_color", "conservation_status"] },
+    { "url": "https://en.wikipedia.org/wiki/Black_Shumen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "skin_color", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Black Shumen is a light, egg laying chicken from Shumen Province in north-eastern Bulgaria. Local black farm hens of a Mediterranean type were improved at the Agricultural Institute of Stara Zagora from 1951, first by crossing with Black Minorca cocks, and the result was recognized as a breed. It spread widely across Bulgarian farms and schools, but numbers crashed after 1989, and today a single flock of about 200 birds is kept at that institute. The plumage is black with a green sheen, the legs slate grey and the skin white. The large red single comb flops to one side in hens. Hens weigh about 3.3 pounds and cocks about 4.2. They mature early and lay around 150 to 155 small white eggs a year. The breed is rare and endangered, so it matters mostly to conservation breeders.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Shumen",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Cherna%20shumenska%20kokoshka&lang=en"
+    ]
+  }
+}

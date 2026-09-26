@@ -1,0 +1,27 @@
+{
+  "breed_id": "isbar",
+  "status": "needs-human",
+  "changes": "Possible duplicate of silverudd-blue: Wikipedia's Isbar page redirects to Silverudd Blue and says the breed was known as Isbar, Blue Isbar and Svensk Gronvarpare until it was renamed in 2016. Fixes made anyway: temperament list cleared, because 'friendly' and 'alert to predators' are not in the cited Star Milling text and 'cold-hardy' and 'good forager' are not temperament; cold hardiness moved to cold_hardy yes (Star Milling). Autosexing true cleared: Star Milling only says Silverudd aimed to create autosexing breeds, not that the Isbar is one. Egg color simplified to green (Star Milling green, Wikipedia blue or green). Sweden origin confirmed by both.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/Silverudd_Blue"
+  ],
+  "fixes": {
+    "temperament": null,
+    "autosexing": null,
+    "cold_hardy": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_color": { "value": "green", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "cold_hardy", "origin_country", "origin_year_or_period", "purpose", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/Silverudd_Blue", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "comb", "purpose", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "Now more often called the Silverudd Blue, the Isbar (said like ice-bar) is a scarce chicken from Sweden. Martin Silverudd, a monk and poultry breeder in Smaland in southern Sweden, worked on it from the 1950s. He wanted hens that laid plenty of eggs in unusual colors. Its main roots are New Hampshire and Rhode Island Red, with Cream Legbar crosses bringing in the colored shell. Hens lay about 200 eggs a year in shades of green, sometimes with brown speckles, and each egg weighs about 50 to 65 grams. It is a single-combed bird. Most are blue, with black and splash birds also common, and cocks show bright metallic neck feathers. Because Silverudd died in 1986 before the work was finished, birds still vary in size and egg shade. They handle cold weather well and forage actively, which suits small farms in cool climates.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Silverudd_Blue"
+    ]
+  }
+}

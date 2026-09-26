@@ -1,0 +1,32 @@
+{
+  "breed_id": "nankin-bantam",
+  "status": "fixed",
+  "changes": "Temperament list replaced with the phrase calm, friendly (Livestock Conservancy, Star Milling). Purpose conflict settled at exhibition: Wikipedia says it is kept mainly for fancy and exhibition, and the Livestock Conservancy's eggs and broody use is covered by the egg and broodiness fields; the eggs alternative dropped. Added cold_hardy partly, because the Livestock Conservancy says the single comb is prone to frostbite and the breed is not the best choice for northern climates. Confirmed weights 24 oz male (0.68 kg) and 22 oz female (0.62 kg) with the Livestock Conservancy and Star Milling, and 80 to 100 small creamy white eggs a year.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Nankin_Bantam",
+    "https://livestockconservancy.org/nankin-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/nankin/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Nankin&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, friendly", "source_url": "https://livestockconservancy.org/nankin-chicken/" },
+    "purpose": { "value": "exhibition", "source_url": "https://en.wikipedia.org/wiki/Nankin_Bantam" },
+    "cold_hardy": { "value": "partly", "source_url": "https://livestockconservancy.org/nankin-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/nankin-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "broodiness", "beginner_friendly", "comb", "earlobe_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Nankin_Bantam", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "origin_country", "purpose", "broodiness", "comb", "varieties", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-true-bantam/nankin/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["temperament", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Nankin is one of the oldest true bantams, a naturally tiny chicken with no large version. It most likely came from Southeast Asia and was in England by the 1500s, and it helped create later bantams such as the Sebright. Birds are a warm buff or chestnut with black tails, and males are darker with black flight feathers. Combs are either single or rose, and the legs are slate blue. Roosters weigh about 24 ounces and hens about 22. Hens lay some 80 to 100 small creamy white eggs a year and are famous sitters, long used to hatch pheasant, quail and partridge eggs. Nankins are calm and friendly, stay close together as a flock, and make good pets for responsible children. The single comb can get frostbite, so they are a weaker pick for cold northern winters.",
+    "sources": [
+      "https://livestockconservancy.org/nankin-chicken/",
+      "https://en.wikipedia.org/wiki/Nankin_Bantam",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

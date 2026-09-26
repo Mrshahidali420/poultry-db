@@ -1,0 +1,30 @@
+{
+  "breed_id": "norfolk-grey",
+  "status": "fixed",
+  "changes": "Temperament cleared: the value was good forager, which is a habit, and no source describes the bird's temperament. cold_hardy cleared: Wikipedia only says hens keep laying through winter, which is not a statement about cold hardiness, and no other source covers it. Confirmed 150 to 220 pale brown (tinted) eggs a year, cock 7 to 8 lb (3.2 to 3.6 kg) and hen 5 to 6 lb (2.25 to 2.7 kg) with Star Milling, and origin near Norwich with the Poultry Club of Great Britain and FAO DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Norfolk_Grey",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/norfolk-grey/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Norfolk%20Grey&lang=en"
+  ],
+  "fixes": {
+    "temperament": null,
+    "cold_hardy": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Norfolk_Grey", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/norfolk-grey/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Norfolk%20Grey&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Norfolk Grey is a rare English utility chicken bred by Frederick Myhill near Norwich around 1910. He first called it the Black Maria, and it most likely came from Birchen Game and Duckwing Leghorn crosses. His flock mixed with other birds while he served in World War One, so he had to rebuild the strain, and he renamed it Norfolk Grey in 1925. The breed almost vanished in the 1970s until a flock of four birds turned up in 1974. It is black with a silver hackle striped in black, a single comb and slate legs. Roosters weigh 7 to 8 pounds and hens 5 to 6 pounds, lighter than most heavy breeds. Hens lay about 150 to 220 medium, pale brown eggs a year and keep laying through winter. The birds forage well on free range, and slow grown cockerels give a gamey roast.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Norfolk_Grey",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-heavy/norfolk-grey/"
+    ]
+  }
+}

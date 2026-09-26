@@ -1,0 +1,26 @@
+{
+  "breed_id": "isa-brown",
+  "status": "fixed",
+  "changes": "Added hen weight 2.0 kg (4.3 lb) from the breeder ISA (Hendrix Genetics), whose product page gives a body weight of 1950 g; this matches the 2 kg raw figure in breeds.json (the 3.2 kg female_weight_kg there looks wrong and is not used). Added egg color brown and egg size large from the same page: brown layer, average egg weight 62.5 g, which is in the US large grade. Confirmed about 300 eggs in the first laying year (Wikipedia); ISA gives 476 eggs per hen housed over 18 to 100 weeks. Confirmed egg purpose, sex-linked hybrid, French origin 1978. No reviewed source states temperament, cold or heat tolerance, or rooster weight, so they stay empty. My Pet Chicken lists ISA Brown as another name for its Red Star or Golden Comet, so this record overlaps golden-comet and red-sex-link.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/ISA_Brown",
+    "https://www.isa-poultry.com/en/product/isa-brown/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://www.isa-poultry.com/en/product/isa-brown/" },
+    "egg_color": { "value": "brown", "source_url": "https://www.isa-poultry.com/en/product/isa-brown/" },
+    "egg_size": { "value": "large", "source_url": "https://www.isa-poultry.com/en/product/isa-brown/" }
+  },
+  "sources": [
+    { "url": "https://www.isa-poultry.com/en/product/isa-brown/", "publisher": "ISA (Hendrix Genetics)", "source_confidence": "page", "supports": ["hen_weight_kg", "egg_color", "egg_size", "eggs_per_year_min", "purpose"] },
+    { "url": "https://en.wikipedia.org/wiki/ISA_Brown", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "purpose", "autosexing", "origin_country", "origin_year_or_period", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The ISA Brown is a commercial hybrid layer, not a breed. The French firm Institut de Selection Animale created it in 1978 for large egg farms, and the company is now part of Hendrix Genetics. The exact recipe is kept secret, but Rhode Island Red and Rhode Island White stock are thought to be in the mix. The cross is sex-linked, so chicks can be sorted by color at hatch. Hens are small, about 4.3 pounds, and a flock reaches half production at about 21 weeks. A hen lays roughly 300 brown eggs in her first year, and the breeder reports close to 480 over a full commercial cycle to 100 weeks. The eggs average about 62 grams, which is a US large. The breeder says the hens adapt to many climates and housing systems.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/ISA_Brown",
+      "https://www.isa-poultry.com/en/product/isa-brown/"
+    ]
+  }
+}

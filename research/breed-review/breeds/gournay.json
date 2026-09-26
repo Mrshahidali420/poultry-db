@@ -1,0 +1,28 @@
+{
+  "breed_id": "gournay",
+  "status": "fixed",
+  "changes": "Purpose dual-purpose to dual (house style). Broodiness 'yes' cleared: Star Milling only says hens will go broody, which gives no low, medium or high level. Added egg size extra large: Star Milling says extra large white eggs and the French standard (French Wikipedia) asks for hatching eggs of at least 65 g with white shells. Weights confirmed: the standard minimums are 2.5 kg cock and 2 kg hen, consistent with 2.3 kg hen and Star Milling's 4 to 7 lb range. Normandy origin confirmed by FAO DAD-IS and French Wikipedia.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://fr.wikipedia.org/wiki/Poule_de_Gournay",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Gournay&lang=en"
+  ],
+  "fixes": {
+    "purpose": { "value": "dual", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "broodiness": null,
+    "egg_size": { "value": "extra large", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "notable_traits", "history_summary"] },
+    { "url": "https://fr.wikipedia.org/wiki/Poule_de_Gournay", "publisher": "Wikipedia (French)", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "comb", "varieties"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Gournay&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Gournay is an old farm chicken from upper Normandy in northern France, named after the market town of Gournay-en-Bray. Its roots may go back a very long way, possibly to Viking times. The two World Wars left it close to extinction, and local breeders rebuilt the flocks from the early 2000s. The plumage is black with even white flecks, the only color allowed, set off by a red single comb, white earlobes, orange eyes and a stout beak. Cocks weigh about 5.5 to 7 pounds and hens about 4.5 to 5 pounds, and a bantam form exists. Hens lay about three white eggs a week, and the eggs are big. They are gentle birds that do go broody. The French value the breed for both its tasty meat and its eggs, which makes it a good all round farmyard bird.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://fr.wikipedia.org/wiki/Poule_de_Gournay"
+    ]
+  }
+}

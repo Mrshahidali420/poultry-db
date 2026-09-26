@@ -1,0 +1,24 @@
+{
+  "breed_id": "bionda-piemontese",
+  "status": "fixed",
+  "changes": "All filled fields match Wikipedia: 180 to 200 pinkish brown eggs a year, dual purpose, 2.65 kg cock and 2.15 kg hen (midpoints of 2.5 to 2.8 and 2.0 to 2.3 kg), yellow skin, large single comb, Italy, standard of 2007. Added egg_size medium to large from the 55 to 60 g egg weight. FAO DAD-IS (Italy) confirms Italian origin, at-risk status and egg, meat and hobby use. No second publisher gives egg or weight figures, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bionda_Piemontese",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Bionda%20piemontese&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium to large", "source_url": "https://en.wikipedia.org/wiki/Bionda_Piemontese" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bionda_Piemontese", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "skin_color", "comb", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Bionda%20piemontese&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bionda Piemontese is an old farm chicken from Piedmont in northwest Italy. Bionda means blonde, a nod to its buff feathers, which are set off by a black or blue tail. Local names include Bionda di Cuneo and Bionda di Villanova. The breed faded in the 1960s when poultry farming moved indoors, since it needs outdoor range to thrive. A school in Verzuolo began restoring it in 1999, and Italy's poultry federation approved a standard in 2007. It has yellow skin and legs and a large single comb. Cocks weigh about 5.5 to 6 pounds and hens about 4.5 to 5 pounds. As a dual purpose bird it grows quickly for meat and is the base of the traditional Morozzo capon. Hens lay about 180 to 200 pinkish brown eggs a year of medium to large size. It suits free range keepers who value rare heritage stock.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bionda_Piemontese",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Bionda%20piemontese&lang=en"
+    ]
+  }
+}

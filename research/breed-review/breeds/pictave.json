@@ -1,0 +1,25 @@
+{
+  "breed_id": "pictave",
+  "status": "fixed",
+  "changes": "Comb value red (type not specified) cleared: it is a color note, and no source names the comb type. Added egg size small (eggs of at least 40 g, Wikipedia). Confirmed weights (cock 0.8 kg, hen 0.6 kg), French origin around 1900, creation by Raymond Lecointre to brood pheasant eggs, the 1928 standard and true bantam status with FAO DAD-IS. The 130 creamy white eggs a year rest on Wikipedia alone, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Pictave",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Pictave&lang=en"
+  ],
+  "fixes": {
+    "comb": null,
+    "egg_size": { "value": "small", "source_url": "https://en.wikipedia.org/wiki/Pictave" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Pictave", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "purpose", "varieties", "earlobe_color", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Pictave&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "origin_year_or_period", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Pictave is France's only true bantam, a naturally tiny chicken with no large version. It takes its name from the Pictavi, the ancient tribe behind the name Poitou. Around 1900 Raymond Lecointre began shaping it south of Poitiers from the small partridge-colored bantams common across Europe, and he used the hens to hatch and rear his pheasants. A standard followed in 1928. The breed nearly died out after World War Two, and rescue crosses pulled it away from the old type until breeders set out in 1998 to restore it. Birds are partridge colored with long tails, low wings and pinkish-white legs. Roosters weigh about 1.8 pounds and hens about 1.3 pounds. Hens lay around 130 small creamy white eggs a year and are superb sitters and mothers. It remains endangered.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pictave",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Pictave&lang=en"
+    ]
+  }
+}

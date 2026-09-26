@@ -1,0 +1,31 @@
+{
+  "breed_id": "catalana",
+  "status": "fixed",
+  "changes": "Temperament changed from a list to the phrase active, alert (Livestock Conservancy, Star Milling); Oklahoma State adds that the birds are wary of people and fly well. Egg size kept at medium to large and the medium alternative dropped: it came from an older sidebar on the same Livestock Conservancy page, and Star Milling also says medium/large. Conservation status kept at Critical, the current Livestock Conservancy status, and the old Watch sidebar value dropped. Confirmed 200 to 240 white to tinted eggs, hen 6 lb (2.7 kg) and rooster 8 lb (3.6 kg), low broodiness, heat tolerance and Spanish origin against Livestock Conservancy, Oklahoma State and Star Milling.",
+  "sources_checked": [
+    "https://livestockconservancy.org/catalana-chicken/",
+    "https://breeds.okstate.edu/poultry/chickens/catalana-chickens",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/Catalana"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, alert", "source_url": "https://livestockconservancy.org/catalana-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/catalana-chicken/" },
+    "conservation_status": { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/catalana-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/catalana-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "heat_tolerant", "broodiness", "purpose", "varieties", "comb", "earlobe_color", "skin_color", "conservation_status", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/catalana-chickens", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "heat_tolerant", "broodiness", "purpose", "varieties", "earlobe_color", "origin_country"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "heat_tolerant", "broodiness", "purpose", "origin_country"] },
+    { "url": "https://en.wikipedia.org/wiki/Catalana", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Catalana, also called the Catalana del Prat, was bred near Barcelona in Catalonia, Spain, during the late 1800s from local farm hens crossed with Asian birds. It was shown to the world at the 1902 fair in Madrid and joined the American standard in 1949. Birds are a rich buff to reddish gold with black tails that shine green, white earlobes and slate blue legs. Roosters weigh about 8 pounds and hens about 6. Hens lay roughly 200 to 240 white to pale pink eggs a year, medium to large in size, and seldom go broody. The meat is also well regarded, so it serves as a dual purpose bird. Catalanas are alert, active and wary of people, fly readily and dislike being penned. They handle extreme heat very well, which makes them a strong pick for hot climates.",
+    "sources": [
+      "https://livestockconservancy.org/catalana-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/catalana-chickens",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

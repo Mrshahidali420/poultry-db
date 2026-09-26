@@ -1,0 +1,27 @@
+{
+  "breed_id": "bourbonnaise-chicken",
+  "status": "fixed",
+  "changes": "Cleared cold_hardy yes: Wikipedia only says the breed adapts to most conditions, which does not state cold hardiness. Added hen 2.5 kg, rooster 3.5 kg and egg_color creamy white from the Wikipedia infobox values already stored in breeds.json (3.5 kg, 2.5 kg, white cream). Confirmed up to 200 eggs a year, dual purpose and French origin. FAO DAD-IS (France) confirms French origin from a local breed crossed with Columbian Brahma at the end of the 19th century, lists meat as the main use and describes a semi-heavy, long-legged bird. No second publisher for egg or weight figures, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)",
+    "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Bourbonnaise&lang=en"
+  ],
+  "fixes": {
+    "cold_hardy": null,
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)" },
+    "rooster_weight_kg": { "value": 3.5, "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)" },
+    "egg_color": { "value": "creamy white", "source_url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Bourbonnaise&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bourbonnaise is a French farm chicken from the old province of Bourbonnais in central France. White poultry had been kept there for a long time, and crossing those local birds with Columbian Brahmas near the end of the 1800s produced the Bourbonnaise, a white bird with dark markings like the Brahma. It is a semi heavy breed with fairly long legs. Cocks weigh about 7.7 pounds and hens about 5.5 pounds. It is a practical dual purpose bird: hens lay up to 200 cream colored eggs a year, and the young grow fast, reaching adult size by about six months. The birds are vigorous, forage well and look after themselves, yet they also cope with life in a coop. That mix of hardiness and productivity makes the breed a good choice for small farms and backyard keepers, and it is listed on the Slow Food Ark of Taste.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bourbonnaise_(chicken)",
+      "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Bourbonnaise&lang=en"
+    ]
+  }
+}

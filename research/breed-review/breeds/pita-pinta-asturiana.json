@@ -1,0 +1,30 @@
+{
+  "breed_id": "pita-pinta-asturiana",
+  "status": "fixed",
+  "changes": "Temperament cleared: tough and responsive to the environment describe hardiness, not temperament, and no source describes temperament. Egg color burnt-cream colour changed to light brown: FAO DAD-IS says light brown and Wikipedia and Star Milling describe the burnt-cream shade of the same tint. Added egg size large (60 to 65 g in Wikipedia, 65 g in DAD-IS). Purpose eggs changed to dual: DAD-IS lists eggs and meat, and the birds are heavy (cock 4 to 4.5 kg). Confirmed weights with DAD-IS (4 and 2.5 kg) and Asturian origin with all three sources.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Pita%20Pinta&lang=en"
+  ],
+  "fixes": {
+    "temperament": null,
+    "egg_color": { "value": "light brown", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Pita%20Pinta&lang=en" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana" },
+    "purpose": { "value": "dual", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Pita%20Pinta&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties", "skin_color", "comb", "earlobe_color", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Pita%20Pinta&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "skin_color", "comb"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "origin_country", "varieties", "skin_color", "earlobe_color", "notable_traits"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Pita Pinta Asturiana is the only native chicken of Asturias, a region on the north coast of Spain. Its name means painted or mottled hen in the local language. It belongs to the Atlantic group of chickens and shares roots with other northern Spanish breeds such as the Basque Euskal Oiloa. Factory egg farming in the 1950s and 1960s nearly wiped it out, but breeders began rebuilding it in the 1980s, and a breed society followed in 2003. The bird is compact, with yellow skin, red earlobes, orange eyes and a single comb. Colors are mottled black, mottled red-brown, white and solid black. Roosters weigh about 9 to 10 pounds and hens about 5.5 to 6.5 pounds. Hens are steady layers of large light brown eggs, and the birds are tough and adapt well to their surroundings.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pita_Pinta_Asturiana",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ESP&specie=Chicken&breed=Pita%20Pinta&lang=en"
+    ]
+  }
+}

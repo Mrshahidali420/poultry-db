@@ -1,0 +1,37 @@
+{
+  "breed_id": "brakel",
+  "status": "fixed",
+  "changes": "Possible duplicate of braekel (same Belgian breed, two spellings). Temperament changed from a list (hardy, active, alert, good flier) to active: hardy and good flier are not temperament, and alert is not in the Star Milling text. Broodiness low cleared: Star Milling does not mention broodiness. Egg color white re-sourced to Wikipedia (Braekel article); Star Milling's 'silver or gold in color' describes the birds, not the eggs. Purpose dual-purpose to eggs (Wikipedia and FAO DAD-IS Belgium), with Star Milling's dual as a conflict alternative. Added hen 2.0 kg, rooster 2.25 kg and egg_size large from the Wikipedia Braekel article. 180 to 200 eggs a year and Belgian origin confirmed.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://en.wikipedia.org/wiki/Braekel",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brakel&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Brakel&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "active", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "broodiness": null,
+    "egg_color": { "value": "white", "source_url": "https://en.wikipedia.org/wiki/Braekel" },
+    "purpose": { "value": "eggs", "source_url": "https://en.wikipedia.org/wiki/Braekel", "conflict": true, "alternatives": [{ "value": "dual", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://en.wikipedia.org/wiki/Braekel" },
+    "rooster_weight_kg": { "value": 2.25, "source_url": "https://en.wikipedia.org/wiki/Braekel" },
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Braekel" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "temperament", "origin_country", "varieties", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/Braekel", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "notable_traits"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brakel&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose", "origin_year_or_period"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Brakel is a Belgian chicken with a long history; records trace it back to the early 1400s in Flanders, a region that once reached from northern France into Belgium and Holland. It takes its name from a village northwest of Brussels. For centuries it was a common farm bird, and it was long lumped together with the Campine until the two were split in 1884. Both World Wars cut numbers badly, and by the 1960s it was almost gone. A rescue started in 1971 with just two hens, two roosters and a dozen eggs. Brakels come in silver or gold, with a solid colored neck and barred body feathers. Cocks weigh about 4.5 to 5.5 pounds and hens about 4 to 5 pounds. Hens lay around 180 to 200 large white eggs a year. The birds are active, strong fliers and keen foragers, best suited to free range.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Braekel",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brakel/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BEL&specie=Chicken&breed=Brakel&lang=en"
+    ]
+  }
+}

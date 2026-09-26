@@ -1,0 +1,26 @@
+{
+  "breed_id": "mugellese",
+  "status": "fixed",
+  "changes": "Temperament was a list with a behavior note in it; set to the short phrase active, lively (Wikipedia; Agraria.org says very lively and always moving, though docile). Confirmed weights (cock 0.8 kg, hen 0.7 kg), Tuscan origin, true bantam status and strong broodiness against Agraria.org, which prints the draft Italian standard. FAO DAD-IS confirms Italy and egg plus meat use. Egg color (ivory white) and heat and cold hardiness rest on Wikipedia alone, so the record stays flagged for review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Mugellese",
+    "https://www.agraria.org/polli/mugellese.htm",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Mugellese&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, lively", "source_url": "https://en.wikipedia.org/wiki/Mugellese" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Mugellese", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "origin_country", "comb", "varieties", "skin_color", "earlobe_color", "notable_traits", "history_summary", "conservation_status"] },
+    { "url": "https://www.agraria.org/polli/mugellese.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "origin_country", "comb"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Mugellese&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Mugellese is a true bantam from the Mugello valley northeast of Florence, in Tuscany. Its origins are unclear, but it was once a common farm bird and was also kept in town gardens and on balconies. Grandparents often gave a pair to a child old enough to look after them. Numbers fell sharply after 1950, and breeders are now bringing it back, though Italy has not yet approved an official standard. Cocks weigh about 1.8 pounds and hens about 1.5 pounds. Most birds are dark gold partridge, and hens can also be wheaten. Hens lay small ivory eggs and are famous sitters that will go broody through much of the year. The birds are lively and always on the move, and cocks fight other cocks. They are tough, handle both heat and cold, and happily roost in trees.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mugellese",
+      "https://www.agraria.org/polli/mugellese.htm"
+    ]
+  }
+}

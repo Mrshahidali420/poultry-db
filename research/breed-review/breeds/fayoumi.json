@@ -1,0 +1,34 @@
+{
+  "breed_id": "fayoumi",
+  "status": "fixed",
+  "changes": "Temperament was a list of traits (hardy, vocal when handled, strong flier), not a temperament; replaced with \"flighty, lively\" from Omlet, which describes lively, very flighty birds that never fully tame, matching the Poultry Club note on strong fliers that are vocal when handled. Added missing weights: hen 1.4 kg (3 lb) and rooster 1.8 kg (4 lb) from Omlet; Agraria.org gives a close 1.6 and 2.0 kg. Confirmed small white or cream eggs (Star Milling says off white), heat tolerance (Wikipedia, Star Milling), low broodiness (Wikipedia, Omlet), egg purpose and Egypt origin.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Fayoumi",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/fayoumi/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.omlet.co.uk/breeds/chickens/fayoumi/",
+    "https://www.agraria.org/polli/egyptianphayoumi.htm"
+  ],
+  "fixes": {
+    "temperament": { "value": "flighty, lively", "source_url": "https://www.omlet.co.uk/breeds/chickens/fayoumi/" },
+    "hen_weight_kg": { "value": 1.4, "source_url": "https://www.omlet.co.uk/breeds/chickens/fayoumi/" },
+    "rooster_weight_kg": { "value": 1.8, "source_url": "https://www.omlet.co.uk/breeds/chickens/fayoumi/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Fayoumi", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "heat_tolerant", "broodiness", "purpose", "origin_country", "comb", "earlobe_color", "varieties", "bantam_available", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/fayoumi/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["temperament", "origin_country", "purpose", "notable_traits"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "heat_tolerant", "origin_country"] },
+    { "url": "https://www.omlet.co.uk/breeds/chickens/fayoumi/", "publisher": "Omlet", "source_confidence": "page", "supports": ["temperament", "hen_weight_kg", "rooster_weight_kg", "broodiness", "varieties"] },
+    { "url": "https://www.agraria.org/polli/egyptianphayoumi.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "comb"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Fayoumi is an old Egyptian chicken named for the Fayoum area southwest of Cairo. It is a small, light bird: roosters weigh about 4 pounds and hens about 3 pounds. Two colors are kept, silver penciled and gold penciled, and every chick hatches brown whatever its adult color. The comb is single and bright red. Hens mature very fast and can start laying at around four to five months. Their eggs are small and white to cream, they come in good numbers, and young hens seldom go broody. Fayoumis are lively and very flighty, fly well, like to roost in trees and complain loudly when picked up, so they rarely become pets. In return they are tough, forage well and need little feed. They handle hot climates well and suit free range keepers more than beginners who want a lap chicken.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fayoumi",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/fayoumi/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.omlet.co.uk/breeds/chickens/fayoumi/"
+    ]
+  }
+}

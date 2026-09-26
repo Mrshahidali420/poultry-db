@@ -1,0 +1,32 @@
+{
+  "breed_id": "thai-game",
+  "status": "fixed",
+  "changes": "Confirmed fighting purpose, Thailand origin, Malay type and the lighter build and higher tail compared with the Shamo (Wikipedia, Poultry Club of Great Britain, Omlet). Added weights: rooster 3.5 kg and hen 2.5 kg from the British standard figures on Wikipedia, with Omlet's rougher 7 lb (3.2 kg) and 6 lb (2.7 kg) kept as conflicting alternatives. Added egg color tinted, cold hardy yes and heat tolerant yes (Omlet: copes with extremes of temperature), and temperament agile, hens can be aggressive to each other (Omlet). Omlet gives about 100 eggs a year; left out of the egg count fields because only one publisher states it.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Thai_Game",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/thai-game/",
+    "https://www.omlet.us/breeds/chickens/thai_game/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 3.5, "source_url": "https://en.wikipedia.org/wiki/Thai_Game", "conflict": true, "alternatives": [{ "value": 3.2, "source_url": "https://www.omlet.us/breeds/chickens/thai_game/" }] },
+    "hen_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Thai_Game", "conflict": true, "alternatives": [{ "value": 2.7, "source_url": "https://www.omlet.us/breeds/chickens/thai_game/" }] },
+    "egg_color": { "value": "tinted", "source_url": "https://www.omlet.us/breeds/chickens/thai_game/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/thai_game/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/thai_game/" },
+    "temperament": { "value": "agile, hens can be aggressive to each other", "source_url": "https://www.omlet.us/breeds/chickens/thai_game/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Thai_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "origin_country", "purpose", "notable_traits", "history_summary"] },
+    { "url": "https://www.omlet.us/breeds/chickens/thai_game/", "publisher": "Omlet", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "egg_color", "cold_hardy", "heat_tolerant", "temperament", "origin_country", "purpose"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/thai-game/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "purpose", "notable_traits"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Thai Game is a hard feathered fighting chicken from Thailand, where it is called gai chon, meaning fighting chicken. Britain added it to its poultry standards in 2009. It is a Malay type bird that resembles the Shamo, but it is lighter, stands a little less upright and carries a full tail just above level. Standard weights are about 7.7 pounds for roosters and 5.5 pounds for hens. Red and black is the usual color, though any color is accepted, and the comb and wattles are small. Birds are fast, strong runners and keen foragers that handle heat, cold and rough weather. Hens lay around 100 tinted eggs a year and can be fierce toward one another, so many keepers house them in a mixed flock. They need a large range and strong, secure fencing, since they are clever at escaping.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thai_Game",
+      "https://www.omlet.us/breeds/chickens/thai_game/",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/thai-game/"
+    ]
+  }
+}

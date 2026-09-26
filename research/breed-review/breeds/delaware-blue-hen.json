@@ -1,0 +1,20 @@
+{
+  "breed_id": "delaware-blue-hen",
+  "status": "approved",
+  "changes": "Every filled field (fighting purpose of the original gamecock strain, white earlobes in the University of Delaware flock, Delaware origin, name dating from 1775, state bird status, Blue Andalusian crossing) matches Wikipedia. The Livestock Conservancy page cached for this record is about the Delaware chicken, a different breed, and was not used; its facts must not be copied here. The Blue Hen is a strain rather than a recognised breed, and no source gives egg, weight or temperament facts, so the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Delaware_Blue_Hen",
+    "https://livestockconservancy.org/delaware-chicken/"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Delaware_Blue_Hen", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["purpose", "earlobe_color", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Delaware Blue Hen is a blue strain of American game chicken rather than a recognized breed. Its name goes back to 1775 and the Revolutionary War, when soldiers of a Delaware regiment from Kent County were linked with blue fighting cocks, though several versions of the story exist. Delaware made the Blue Hen Chicken its official state bird in 1939, and the University of Delaware teams are named after it. In the 1960s a breeder gave the university twelve birds, not from the old Kent County line, and it has kept a small flock since, about forty birds in 2007. That flock was crossed with Blue Andalusians and now looks Mediterranean, with a different body, less gold in the neck feathers and white earlobes in place of red. No laying or weight figures are published for it.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Delaware_Blue_Hen"
+    ]
+  }
+}

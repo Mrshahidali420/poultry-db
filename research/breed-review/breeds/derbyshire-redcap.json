@@ -1,0 +1,31 @@
+{
+  "breed_id": "derbyshire-redcap",
+  "status": "fixed",
+  "changes": "Temperament changed from a list to the phrase active, alert (Livestock Conservancy breed facts); the page adds that birds can be shy and somewhat wild. Hen weight 2.75 to 2.7 kg and the conflict dropped: Livestock Conservancy's 6 lb is 2.7 kg and Wikipedia's 2.75 kg is the same weight rounded differently. Conservation status merged into one value, because the RBST Vulnerable rating (UK) and the Livestock Conservancy Critical rating (US) are two different lists, not a conflict. Confirmed 150 to 200 white eggs (Livestock Conservancy, Star Milling), medium to large size, rooster 7.5 lb (3.4 kg), low broodiness, cold hardy but not heat hardy, dual purpose and Derbyshire origin (Livestock Conservancy, Wikipedia, Poultry Club of Great Britain).",
+  "sources_checked": [
+    "https://livestockconservancy.org/redcap-chicken/",
+    "https://en.wikipedia.org/wiki/Derbyshire_Redcap",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-light/derbyshire-redcap/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": { "value": "active, alert", "source_url": "https://livestockconservancy.org/redcap-chicken/" },
+    "hen_weight_kg": { "value": 2.7, "source_url": "https://livestockconservancy.org/redcap-chicken/" },
+    "conservation_status": { "value": "Vulnerable (Rare Breeds Survival Trust, UK); Critical (Livestock Conservancy, US)", "source_url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/redcap-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "purpose", "comb", "skin_color", "conservation_status", "origin_country", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/Derbyshire_Redcap", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "comb", "earlobe_color", "conservation_status", "origin_country", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "comb", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-light/derbyshire-redcap/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "comb", "purpose"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Derbyshire Redcap is one of England's oldest farm breeds, raised for generations in Derbyshire and the southern Pennines. Its name comes from a huge red rose comb, covered in small points and finished with a spike at the back, which counts for a quarter of the judging points in British shows. Feathers are deep red to black with dark half moon tips, and there is only one color. Roosters weigh about 7.5 pounds and hens about 6. Unusually, the hens have red earlobes yet lay white eggs, around 150 to 200 a year, medium to large, and they keep laying for years. They seldom go broody. Redcaps are lively, alert and a little wild, fly well and forage hard. They need space and dislike being shut in. They handle cold well but not heat, and they suit roomy free range farms more than small yards.",
+    "sources": [
+      "https://livestockconservancy.org/redcap-chicken/",
+      "https://en.wikipedia.org/wiki/Derbyshire_Redcap",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-light/derbyshire-redcap/"
+    ]
+  }
+}

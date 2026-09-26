@@ -1,0 +1,29 @@
+{
+  "breed_id": "ayam-ketawa",
+  "status": "fixed",
+  "changes": "Added the facts the Wikipedia infobox carries but the extra record lacked: hen 1.5 kg and cock 2.5 kg (midpoints of 1 to 2 kg and 2 to 3 kg) and egg color white to light brown. Added single comb and white skin from the FAO DAD-IS record for Indonesia, which lists the breed as Gaga' with Ketawa as another name. Empty varieties field cleared. Purpose kept ornamental: the breed is kept for crowing contests and status, though DAD-IS also lists eggs and meat among its uses. Origin in Sidenreng Rappang, South Sulawesi, and the royal history confirmed by Wikipedia and DAD-IS. Weights and egg color rest on the Wikipedia infobox alone, and no source gives egg counts, temperament or climate, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ayam_Ketawa",
+    "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Gaga'&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 1.5, "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa" },
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa" },
+    "egg_color": { "value": "white to light brown", "source_url": "https://en.wikipedia.org/wiki/Ayam_Ketawa" },
+    "comb": { "value": "single", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Gaga'&lang=en" },
+    "skin_color": { "value": "white", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Gaga'&lang=en" },
+    "varieties": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ayam_Ketawa", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Gaga'&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "comb", "skin_color"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Ayam Ketawa, or laughing chicken, comes from Sidenreng Rappang in South Sulawesi, Indonesia, where it was developed from local junglefowl long ago. It belongs to the group of long-crowing breeds, and its cocks are famous for a crow that sounds much like a person laughing. In the Bugis language it is called Gaga, meaning a stammering chicken, and keepers sort birds by the speed and rhythm of the call, with names such as dangdut, gretek and disco. The breed was once a status symbol of the Bugis royal family and has spread more widely since the monarchy ended. It still stands for courage and social rank, and birds compete in crowing contests for the Governor's Cup. Birds have a single comb and white skin and come in several plumage colors. Hens weigh about 2 to 4.5 pounds and cocks about 4.5 to 6.5.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ayam_Ketawa",
+      "https://dadis-breed-datasheet-ws.web.app/?country=IDN&specie=Chicken&breed=Gaga'&lang=en"
+    ]
+  }
+}

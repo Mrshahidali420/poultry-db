@@ -1,0 +1,35 @@
+{
+  "breed_id": "starlight-green-egger",
+  "status": "fixed",
+  "changes": "The record cited only the Cackle Hatchery home page, which says nothing about this bird. Re-sourced to Hoover's Hatchery, which developed and sells the Starlight Green Egger (a Prairie Bluebell Egger crossed with a brown egg layer). Confirmed green eggs and egg-laying purpose. Added from Hoover's: 280 large eggs a year, temperament active, easy going, cold and heat hardy, broodiness low (rarely broody), pea comb. Cleared bantam_available (no source). Rewrote notable traits and history to match Hoover's. Hen and rooster weights left empty because Hoover's gives only a combined 5 to 6 lb. Only one publisher, and it is the seller, so it stays flagged.",
+  "sources_checked": [
+    "https://www.cacklehatchery.com/",
+    "https://www.hoovershatchery.com/starlight-green-egger"
+  ],
+  "fixes": {
+    "egg_color": { "value": "green", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "purpose": { "value": "eggs", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "origin_country": { "value": "United States", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "eggs_per_year_min": { "value": 280, "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "eggs_per_year_max": { "value": 280, "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "egg_size": { "value": "large", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "temperament": { "value": "active, easy going", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "broodiness": { "value": "low", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "comb": { "value": "pea comb", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "bantam_available": null,
+    "notable_traits": { "value": ["hatchery hybrid from a Prairie Bluebell Egger crossed with a brown egg layer", "lays green eggs, with a small chance of an occasional brown egg", "plumage color varies widely from bird to bird", "light, active bird that forages well on free range"], "source_url": "https://www.hoovershatchery.com/starlight-green-egger" },
+    "history_summary": { "value": "A trademarked hybrid from Hoover's Hatchery, made by crossing its Prairie Bluebell Egger with a brown egg laying bird so that the hens lay green eggs in high numbers.", "source_url": "https://www.hoovershatchery.com/starlight-green-egger" }
+  },
+  "sources": [
+    { "url": "https://www.hoovershatchery.com/starlight-green-egger", "publisher": "Hoover's Hatchery", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "comb", "purpose", "origin_country", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "Hoover's Hatchery in the United States developed the Starlight Green Egger as a crossbred laying hen. It comes from crossing the company's Prairie Bluebell Egger, a blue egg layer, with a brown egg laying bird, and the mix of shell colors gives green eggs. Hens lay around 280 large green eggs a year, and a small share of birds may lay brown instead. It is a light, active chicken that weighs about 5 to 6 pounds and forages well when allowed to roam. Feather colors vary a lot, so no two birds look quite alike. The birds are easy going, rarely go broody and carry a small pea comb. They are sold as hardy in both cold and hot weather. This bird suits backyard keepers who want a steady supply of colorful eggs rather than a show breed or a meat bird.",
+    "sources": [
+      "https://www.hoovershatchery.com/starlight-green-egger"
+    ]
+  }
+}

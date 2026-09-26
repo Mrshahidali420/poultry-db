@@ -1,0 +1,22 @@
+{
+  "breed_id": "stara-zagora-red",
+  "status": "approved",
+  "changes": "Confirmed every filled field against Wikipedia: 215 to 220 brown eggs a year, Bulgaria, about 1970, critical SAVE status, traits and history all match. The FAO DAD-IS record confirms the Bulgarian origin, the Rhode Island Red cross and an at risk status, but gives no egg or weight figures. Only a forum repeats the laying figures, so the key facts rest on one publisher and needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Stara_Zagora_Red",
+    "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Starozagorska%20chervena%20kokoshka&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Stara_Zagora_Red", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "conservation_status", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Starozagorska%20chervena%20kokoshka&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Stara Zagora Red is a rare laying chicken from the Stara Zagora region in south central Bulgaria. It was made around 1970 by mating local hens of mixed colors with Rhode Island Red roosters, and the even red plumage was fixed within two generations. The bird is of medium build, with bright red feathers, a broad flat back, a full breast and a large comb and wattles. Roosters weigh about 6.6 to 7.7 pounds and hens about 5 to 5.5 pounds. Pullets begin laying at around five and a half months, and a hen gives some 215 to 220 brown eggs a year, each about 2 ounces. Numbers are very low. The Bulgarian Poultry Institute and a small group of Bulgarian breeders keep the remaining flocks, and the breed is listed as at risk.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stara_Zagora_Red",
+      "https://dadis-breed-datasheet-ws.web.app/?country=BGR&specie=Chicken&breed=Starozagorska%20chervena%20kokoshka&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "breed_id": "potchefstroom-koekoek",
+  "status": "fixed",
+  "changes": "Confirmed purpose (dual), barred pattern, autosexing and South African origin against Wikipedia and a 2025 peer-reviewed review in Discover Animals (Springer). Added egg_color brown (both sources). Added hen and rooster weights from the Wikipedia infobox (3.6 kg and 4.2 kg); the Springer review gives much lighter weights (hens 2.1 kg, males about 3 to 4 kg), so the hen weight carries a conflict. The review dates the breed to the 1950s against Wikipedia's 1960s; left 1960s in place. Review reports about 196 to 198 eggs a year from one line of studies only, so no egg count was added. No source covers temperament or climate tolerance, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek",
+    "https://link.springer.com/article/10.1007/s44338-025-00083-w"
+  ],
+  "fixes": {
+    "egg_color": { "value": "brown", "source_url": "https://link.springer.com/article/10.1007/s44338-025-00083-w" },
+    "hen_weight_kg": { "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek", "conflict": true, "alternatives": [{ "value": 2.1, "source_url": "https://link.springer.com/article/10.1007/s44338-025-00083-w" }] },
+    "rooster_weight_kg": { "value": 4.2, "source_url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "autosexing", "varieties", "origin_year_or_period", "history_summary"] },
+    { "url": "https://link.springer.com/article/10.1007/s44338-025-00083-w", "publisher": "Discover Animals (Springer Nature)", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "origin_country", "purpose", "autosexing", "varieties"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Potchefstroom Koekoek is a South African dual-purpose chicken bred at the Potchefstroom Agricultural College by Chris Marais. He crossed Black Australorps, White Leghorns and Barred Plymouth Rocks to get a bird that lays well, carries enough body for the table and copes with local farm conditions. The name comes from the Afrikaans word for its barred pattern, and every pure bird is barred black and white. Chicks can be sexed soon after hatching because males and females show different markings. Hens lay brown eggs with deep yellow yolks, and studies put output at close to 200 eggs a year. Reported weights vary widely, from about 8 pounds for hens and 9 for roosters down to under 5 pounds for hens. The breed forages well, holds up on poor feed and is popular with small farmers in South Africa and Ethiopia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Potchefstroom_Koekoek",
+      "https://link.springer.com/article/10.1007/s44338-025-00083-w"
+    ]
+  }
+}

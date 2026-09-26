@@ -1,0 +1,26 @@
+{
+  "breed_id": "taiwanese-game",
+  "status": "fixed",
+  "changes": "Hen weight 4.5 kg to 4.8 kg, the midpoint of the 4 to 5.5 kg range Wikipedia gives (the rooster value of 6 kg is already the midpoint of 5 to 7 kg). Comb value red cleared: it is a color, not a comb type, and no source names the comb type. History summary reworded: Wikipedia says the breed is similar in type to the Malay, not closely related to it. Origin Taiwan, Malay type and the Saipan and Chinese Shamo trade names confirmed by the Poultry Club of Great Britain, which lists it as the Taiwan. Weights and eggs have only one publisher, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Taiwanese_Game",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/taiwan/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 4.8, "source_url": "https://en.wikipedia.org/wiki/Taiwanese_Game" },
+    "comb": null,
+    "history_summary": { "value": "This very large game breed comes from the island of Taiwan and is similar in type to the Malay and to large Japanese Shamo birds, though it is not Japanese. Big game fowl of uncertain breed are sometimes sold under the Taiwan name, or in the US as Saipan or Chinese Shamo.", "source_url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/taiwan/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Taiwanese_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/taiwan/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "history_summary", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Taiwanese Game, often just called the Taiwan, is a huge game chicken from the island of Taiwan. It belongs to the Malay family of upright Asian fighting fowl and looks a lot like the Japanese Shamo, but it is usually bigger and longer in the leg. Some people call it the Taiwan Shamo, though the breed has no Japanese roots. Roosters usually weigh about 11 to 15 pounds and hens about 9 to 12 pounds, and exceptional birds can top 22 pounds, which puts it among the heaviest chickens anywhere. Wheaten is the most common color, though any color is allowed. The legs are yellow, sometimes marked with black, and the face, comb, earlobes and throat are bright red. In Europe and the US, large game birds of unknown breeding are sometimes sold under this name or as Saipan, so a true bird should be strong, agile and upright.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Taiwanese_Game",
+      "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/taiwan/"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "breed_id": "barbu-de-watermael",
+  "status": "approved",
+  "changes": "All filled fields match Wikipedia: 0.65 kg male and 0.5 kg female are the midpoints of 600 to 700 g and 450 to 550 g, ornamental, Belgium, early 20th century (possibly 1915), three-spiked rose comb, crest, in danger in 2010. The two variety lists are both correct (colors usually seen in Belgium, and the six American Bantam Association colors), so the conflict is left for the site to show. Poultrykeeper and the Poultry Club of Great Britain confirm it as a standardised Belgian true bantam but give no breed-specific figures, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Barbu_de_Watermael",
+    "https://poultrykeeper.com/chicken-breeds/belgian-bantams/",
+    "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Barbu%20De%20Watermael&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Barbu_de_Watermael", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "comb", "crest", "origin_year_or_period", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://poultrykeeper.com/chicken-breeds/belgian-bantams/", "publisher": "Poultrykeeper", "source_confidence": "domain", "supports": ["origin_country", "purpose"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/true-bantam/belgian/", "publisher": "Poultry Club of Great Britain", "source_confidence": "domain", "supports": ["origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Barbu de Watermael is a Belgian bantam and one of the smallest chickens kept anywhere. Antoine Dresse developed it early in the 1900s on an estate at Watermael-Boitsfort, near Brussels, and it was first exhibited in 1922. He never said which breeds he used, though the Barbu d'Anvers was certainly one of them. The Watermael looks much like the d'Anvers but is smaller and carries a narrow crest swept back over the head, a three part beard and muff, and a rose comb ending in three little points. Cocks weigh about 1.3 to 1.5 pounds and hens 1 to 1.2 pounds. Belgium accepts more than thirty colors, and in the United States it is known as the Watermaal, shown in black, blue, buff, mottled, quail and white. It is kept almost only as an ornamental and show bird and is considered in danger in its home country.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbu_de_Watermael"
+    ]
+  }
+}

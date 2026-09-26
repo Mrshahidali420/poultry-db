@@ -1,0 +1,28 @@
+{
+  "breed_id": "p-poi",
+  "status": "fixed",
+  "changes": "Confirmed 160 to 180 eggs a year, pinkish eggs of 40 to 45 g, cock 1.3 to 1.5 kg, hen 1.0 to 1.1 kg, yellow skin and legs, gold plumage and north-east Italian origin with Agraria.org, which draws on the Veneto Agricoltura CO.VA. project. FAO DAD-IS lists a white shell, 140 to 180 eggs and slightly heavier birds (1.5 and 1.2 kg); two sources agree on pinkish eggs, so that value stays. Added egg size small (40 to 45 g) and broodiness high (Agraria.org: marked tendency to brood and rear chicks).",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/P%C3%A9poi",
+    "https://www.agraria.org/polli/pepoi.htm",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=pepoi&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "small", "source_url": "https://www.agraria.org/polli/pepoi.htm" },
+    "broodiness": { "value": "high", "source_url": "https://www.agraria.org/polli/pepoi.htm" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/P%C3%A9poi", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "varieties", "skin_color", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/pepoi.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "broodiness", "varieties", "skin_color"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=pepoi&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_max", "origin_country", "purpose", "skin_color"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Pepoi is a small, hardy farm chicken from northeast Italy, mostly Friuli-Venezia Giulia and the eastern Veneto. It is one of Italy's few true bantams, and a regional conservation project in the Veneto looks after it along with the Padovana and three other local breeds. Italy has not yet given it official breed status, partly because birds still vary a lot in type. Plumage is golden partridge, and the skin and legs are yellow. Roosters weigh about 3 pounds and hens a little over 2 pounds. Hens lay some 160 to 180 small, pinkish eggs a year and are keen sitters and good mothers. Young birds reach about 1.5 pounds at four months, a handy single serving or spit roast, and the meat is full of flavor. Numbers are low, with a few hundred breeding birds.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/P%C3%A9poi",
+      "https://www.agraria.org/polli/pepoi.htm",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=pepoi&lang=en"
+    ]
+  }
+}

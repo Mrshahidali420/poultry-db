@@ -1,0 +1,22 @@
+{
+  "breed_id": "ndio-gigante",
+  "status": "fixed",
+  "changes": "Existing origin, period, traits and history match Wikipedia. Added weights from the Wikipedia infobox, which gives breed-standard minimums of 4.5 kg for cocks and 3 kg for hens; stored as those minimums. No second reliable publisher was available (the session's web search budget ran out and no Livestock Conservancy, Oklahoma State or hatchery page exists for this Brazilian breed that could be guessed), so eggs, temperament and climate fields stay empty and the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 3.0, "source_url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante" },
+    "rooster_weight_kg": { "value": 4.5, "source_url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "origin_year_or_period", "hen_weight_kg", "rooster_weight_kg", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Indio Gigante, Portuguese for Giant Indian, is a Brazilian chicken known above all for its height; it ranks among the tallest chickens anywhere. Breeders in Minas Gerais and Goias, two inland Brazilian states, created it in the late 1980s or early 1990s. They mated big fighting breeds, among them Shamo, Malay and Indian Game, with caipira hens, the hardy mixed farm chickens of rural Brazil. The breed standard sets minimum weights of about 10 pounds for roosters and about 6.5 pounds for hens. A Brazilian breeders' association keeps that standard and is working toward official recognition. If it succeeds, the Indio Gigante would become the first pure chicken breed to come from Brazil. Reliable figures on egg laying and temperament are not yet available, so it is best seen as a large, upright bird for fanciers.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C3%8Dndio_Gigante"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "breed_id": "whiting-true-blue",
+  "status": "fixed",
+  "changes": "Added eggs_per_year_max 300 (Omlet: up to 300; Star Milling about 280, which stays as the min). Temperament list replaced with active, independent (Omlet: independent, slow to warm to people), with Star Milling's active, friendly kept as a conflicting alternative. Bantam available no cleared: no source mentions bantams. Added origin period 1990s and a fuller history from Omlet (developed in Colorado by Dr. Tom Whiting from White Leghorn and Ameraucana crosses, first for fly-tying feathers). Powder blue large eggs, egg purpose and US origin confirmed by Star Milling and Omlet. It is a modern developed breed, not a heritage breed.",
+  "sources_checked": [
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/"
+  ],
+  "fixes": {
+    "eggs_per_year_max": { "value": 300, "source_url": "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/" },
+    "temperament": { "value": "active, independent", "source_url": "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/", "conflict": true, "alternatives": [{ "value": "active, friendly", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }] },
+    "bantam_available": null,
+    "origin_year_or_period": { "value": "1990s", "source_url": "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/" },
+    "history_summary": { "value": "Poultry geneticist Dr. Tom Whiting developed the Whiting True Blue in Colorado in the 1990s by crossing White Leghorns with Ameraucanas, first in search of feathers for fly-tying. The result is a modern production layer bred to lay large blue eggs consistently, with a sister line, the True Green, that lays green eggs.", "source_url": "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/" }
+  },
+  "sources": [
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "temperament", "purpose", "varieties", "origin_country", "notable_traits"] },
+    { "url": "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "temperament", "origin_country", "origin_year_or_period", "history_summary", "varieties"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Whiting True Blue is a modern American laying breed, not a heritage one. Poultry geneticist Dr. Tom Whiting developed it in Colorado in the 1990s by crossing White Leghorns with Ameraucanas. He started out breeding for fly-tying feathers, and the birds turned out to be strong layers of blue eggs. Every True Blue lays a blue egg, while a sister line, the True Green, lays green ones. Feather colors vary widely, with chipmunk and gray patterns the most common. Hens lay about 280 to 300 large powder blue eggs a year. The birds are very active and do best on free range, where they eagerly hunt insects. Reports on their manner differ: one source calls them friendly and gentle, another says they are independent and slow to trust people unless handled young. They get along well with the rest of the flock.",
+    "sources": [
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.omlet.us/breeds/chickens/whiting_true_blue_green/"
+    ]
+  }
+}

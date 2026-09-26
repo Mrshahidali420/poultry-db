@@ -1,0 +1,33 @@
+{
+  "breed_id": "orloff-chicken",
+  "status": "fixed",
+  "changes": "Temperament list turned into the phrase calm, friendly (Livestock Conservancy: calm and friendly, though not docile; Wikipedia and Star Milling: relatively calm). Added egg size small to medium and about 100 eggs a year (eggs_per_year_max 100) from the Livestock Conservancy. Rooster weight kept at 3.6 kg (Wikipedia) with the Livestock Conservancy's 8.5 lb (3.9 kg) as a conflicting alternative; hen 3 kg matches its 6.5 lb (2.9 kg). Confirmed light brown eggs, low broodiness, cold hardiness, meat use and Persian (Gilan, Iran) origin with the Livestock Conservancy, Star Milling and the Poultry Club of Great Britain.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Orloff_chicken",
+    "https://livestockconservancy.org/orloff-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orloff/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ROU&specie=Chicken&breed=Orloff&lang=en"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, friendly", "source_url": "https://livestockconservancy.org/orloff-chicken/" },
+    "egg_size": { "value": "small to medium", "source_url": "https://livestockconservancy.org/orloff-chicken/" },
+    "eggs_per_year_max": { "value": 100, "source_url": "https://livestockconservancy.org/orloff-chicken/" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://en.wikipedia.org/wiki/Orloff_chicken", "conflict": true, "alternatives": [{ "value": 3.9, "source_url": "https://livestockconservancy.org/orloff-chicken/" }] }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/orloff-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "origin_country", "purpose", "varieties"] },
+    { "url": "https://en.wikipedia.org/wiki/Orloff_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "broodiness", "origin_country", "purpose", "varieties", "comb", "bantam_available", "conservation_status", "origin_year_or_period", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "temperament", "cold_hardy", "origin_country"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orloff/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "bantam_available"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Orloff is a tall, tough chicken that began in Gilan province in northern Iran and spread through eastern Europe and Asia by the 1600s. It carries the name of Count Alexei Orlov, who promoted it in Russia, which is why many people call it the Russian Orloff. It reached western Europe in the late 1800s, and German breeders made a bantam by 1925. The bird has a game-like build, a muff and beard, a heavily feathered neck, a tiny comb and very small wattles, so it copes with severe cold. Roosters weigh about 8 to 8.5 pounds and hens about 6.5 pounds. It was kept mostly for meat, and hens are modest layers, giving around 100 small to medium light brown eggs a year, and they seldom go broody. Orloffs are calm and friendly but not pushovers.",
+    "sources": [
+      "https://livestockconservancy.org/orloff-chicken/",
+      "https://en.wikipedia.org/wiki/Orloff_chicken",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/orloff/"
+    ]
+  }
+}

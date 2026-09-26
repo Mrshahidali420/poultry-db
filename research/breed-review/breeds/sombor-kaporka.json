@@ -1,0 +1,18 @@
+{
+  "breed_id": "sombor-kaporka",
+  "status": "approved",
+  "changes": "Confirmed every filled field against Wikipedia: 200 to 220 eggs a year, dual purpose, crested, Serbia, early 20th century, history and traits all match. No second publisher found with breed facts (the FAO DAD-IS datasheet did not load and no record is linked), so needs_review stays true. Egg color, egg size and temperament are not stated by any source and stay empty.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sombor_Kaporka",
+    "https://dadis-breed-datasheet-ws.web.app/?country=SRB&specie=Chicken&breed=Somborska%20kaporka&lang=en"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Sombor_Kaporka", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "purpose", "crest", "origin_country", "origin_year_or_period", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Sombor Kaporka, also called the Sombor Crested, is a rare chicken from Serbia. Breeders in Vojvodina, the northern province of the country, made it in the early 1900s and named it after the town of Sombor. They crossed local farm hens with Sulmtaler and Houdan birds brought in from abroad, and the tuft of feathers on the head comes from that mix. A written standard for the breed followed around 1918. It is a dual purpose bird, kept for both meat and eggs. Roosters weigh roughly 7.7 to 8.8 pounds and hens about 5.5 to 6.6 pounds. A good hen lays around 200 to 220 eggs a year, and the best layers can reach 260.",
+    "sources": ["https://en.wikipedia.org/wiki/Sombor_Kaporka"]
+  }
+}

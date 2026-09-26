@@ -1,0 +1,30 @@
+{
+  "breed_id": "ostfriesische-m-we",
+  "status": "fixed",
+  "changes": "Weights widened from single maximums to the full ranges in the Wikipedia infobox: cock 2.25 to 3 kg, hen 1.75 to 2.5 kg; FAO DAD-IS gives 2.75 kg and 2.2 kg, inside those ranges. Added egg color white and egg size medium (55 g eggs) from DAD-IS, purpose dual (DAD-IS lists eggs and meat), and bantam_available yes (DAD-IS has a separate Ostfriesische Zwerg-Mowen record). Confirmed about 170 eggs a year and north-west German origin with DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20M%C3%B6wen&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20Zwerg-M%C3%B6wen&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": { "min": 1.75, "max": 2.5 }, "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" },
+    "rooster_weight_kg": { "value": { "min": 2.25, "max": 3 }, "source_url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we" },
+    "egg_color": { "value": "white", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20M%C3%B6wen&lang=en" },
+    "egg_size": { "value": "medium", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20M%C3%B6wen&lang=en" },
+    "purpose": { "value": "dual", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20M%C3%B6wen&lang=en" },
+    "bantam_available": { "value": "yes", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20Zwerg-M%C3%B6wen&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "varieties", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20M%C3%B6wen&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ostfriesische Mowe, or East Frisian Gull, is an old German chicken that grew out of the farm flocks of East Friesland in northwest Germany and nearby West Friesland in the Netherlands. It is a close cousin of the Westfalische Totleger and the Braekel. Birds come in two pencilled colors, silver and gold. Roosters weigh about 5 to 6.5 pounds and hens about 4 to 5.5 pounds, and a bantam version is also kept. Hens lay around 170 white eggs a year, each about 55 grams, and the breed serves for both eggs and meat. It is rare and listed as endangered in Germany, where about 1,200 birds were recorded in 2016, so it mostly suits keepers who want an old regional farm breed and would like to help keep it going.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ostfriesische_M%C3%B6we",
+      "https://dadis-breed-datasheet-ws.web.app/?country=DEU&specie=Chicken&breed=Ostfriesische%20M%C3%B6wen&lang=en"
+    ]
+  }
+}

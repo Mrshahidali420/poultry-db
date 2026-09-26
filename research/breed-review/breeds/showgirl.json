@@ -1,0 +1,30 @@
+{
+  "breed_id": "showgirl",
+  "status": "needs-human",
+  "changes": "Every field cited https://en.wikipedia.org/wiki/Silkie, which is a disambiguation page with nothing about Showgirls, and the cached text is only a placeholder note. Re-sourced crest, purpose, notable traits and history to My Pet Chicken, which describes the Showgirl as a Silkie crossed with a Turken (naked neck) that keeps the Silkie look and sweet, docile nature. Added temperament sweet, docile. Cleared origin_country (United States), egg_color (tinted/cream), feathered_legs and bantam_available because no reliable source read says so. Only one reliable publisher found; it is a cross rather than a standardized breed, so a human should decide how much to show.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Silkie",
+    "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken"
+  ],
+  "fixes": {
+    "temperament": { "value": "sweet, docile", "source_url": "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken" },
+    "crest": { "value": true, "source_url": "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken" },
+    "purpose": { "value": "ornamental", "source_url": "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken" },
+    "origin_country": null,
+    "egg_color": null,
+    "feathered_legs": null,
+    "bantam_available": null,
+    "notable_traits": { "value": ["Silkie plumage, black skin, mulberry comb and turquoise earlobes combined with a bare Turken neck", "keeps a fluffy crest, sometimes with a small tuft of feathers on the neck", "males are also called Showgirls"], "source_url": "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken" },
+    "history_summary": { "value": "The Showgirl comes from crossing Silkies with Turkens (naked neck chickens), giving a bird with Silkie plumage and a bare neck.", "source_url": "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken" }
+  },
+  "sources": [
+    { "url": "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["temperament", "crest", "purpose", "notable_traits", "history_summary"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Showgirl is a cross between two odd looking chickens, the Silkie and the Turken, also called the naked neck. It carries the Silkie coat of soft, hair-like feathers that lack the tiny hooks that normally hold a feather together, so the bird looks and feels furry. It also keeps the Silkie's black skin, dark beak and eyes, deep mulberry comb and turquoise earlobes. From the Turken side it gets a bare neck, while a fluffy crest still sits on top of the head. Some birds keep a small patch of feathers on the neck that looks like a brooch. Both hens and roosters go by the name Showgirl. Most share the sweet, docile manner of the Silkie, so they are kept mainly as pets and show birds rather than for eggs or meat.",
+    "sources": [
+      "https://www.mypetchicken.com/blogs/faqs/what-is-a-showgirl-chicken"
+    ]
+  }
+}

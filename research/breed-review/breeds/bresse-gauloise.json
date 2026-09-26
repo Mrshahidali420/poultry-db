@@ -1,0 +1,26 @@
+{
+  "breed_id": "bresse-gauloise",
+  "status": "approved",
+  "changes": "All filled fields match Wikipedia: large white eggs, hens usually non-sitting (low broodiness), meat purpose, French origin, four color varieties. Meat purpose and French origin are also backed by the Poultry Club of Great Britain (renowned for table qualities, a decent layer), Star Milling and the FAO DAD-IS France records (use: meat, originated in Bresse). No second publisher confirms egg color or size, and no reliable weights were found, so weights stay empty and the record stays flagged.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Bresse_Gauloise",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/bresse-gauloise/",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {},
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Bresse_Gauloise", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "broodiness", "purpose", "origin_country", "varieties", "notable_traits", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/bresse-gauloise/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["purpose", "origin_country"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["origin_country", "purpose"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=FRA&specie=Chicken&breed=Bresse%20gauloise%20blanche&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["purpose", "origin_country"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Bresse Gauloise is a French chicken from the old province of Bresse in eastern France, famous as one of the finest table birds in the world. Only white birds raised inside the legally defined Bresse area may be sold under the Bresse name, as poulet de Bresse, and they fetch premium prices. The same birds raised elsewhere are called Gauloise. Four colors exist: white, black, grey with silver pencilling, and a newer blue. White birds show a red comb, white feathers and slate blue legs. Records of these chickens go back to 1591, and fanciers rebuilt the breed after it nearly vanished around 1900. Although prized for meat, hens also lay a good number of large white eggs and seldom go broody. The birds mature quickly and are hardy. They suit keepers who want a quality meat bird that still lays well.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bresse_Gauloise",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/bresse-gauloise/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

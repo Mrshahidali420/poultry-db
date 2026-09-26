@@ -1,0 +1,35 @@
+{
+  "breed_id": "vorwerk-chicken",
+  "status": "fixed",
+  "changes": "Weights rounded to one decimal: rooster 2.85 to 2.9 kg (Wikipedia 2.5 to 3.2 kg) and hen 2.25 to 2.3 kg (Wikipedia 2.0 to 2.5 kg). Temperament list replaced with alert, active, good natured (Wikipedia; Poultry Club of Great Britain: good natured, lively but not timid; Omlet: easy to tame). Added eggs_per_year_min 170 (Wikipedia and Star Milling both give about 170) and egg size large (Star Milling). Cold hardy yes cleared: Star Milling and Wikipedia only say hardy and adaptable, and no source speaks to cold. Cream eggs confirmed by Wikipedia and Star Milling (Omlet says white). Dual purpose, Germany, 1900 and 1913, single comb, white earlobes and history confirmed by Wikipedia, the Poultry Club, Omlet and FAO DAD-IS.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Vorwerk_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/vorwerk/",
+    "https://www.omlet.us/breeds/chickens/vorwerk/"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 2.9, "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken" },
+    "hen_weight_kg": { "value": 2.3, "source_url": "https://en.wikipedia.org/wiki/Vorwerk_chicken" },
+    "temperament": { "value": "alert, active, good natured", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/vorwerk/" },
+    "eggs_per_year_min": { "value": 170, "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "egg_size": { "value": "large", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": null
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Vorwerk_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "purpose", "bantam_available", "origin_country", "origin_year_or_period", "comb", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "temperament", "origin_country", "purpose"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/vorwerk/", "publisher": "The Poultry Club of Great Britain", "source_confidence": "page", "supports": ["temperament", "origin_country", "origin_year_or_period", "notable_traits"] },
+    { "url": "https://www.omlet.us/breeds/chickens/vorwerk/", "publisher": "Omlet", "source_confidence": "page", "supports": ["temperament", "origin_country", "comb", "earlobe_color", "bantam_available", "notable_traits"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Vorwerk is a German utility chicken created from 1900 by Oskar Vorwerk in Hamburg. He wanted a mid sized farm bird with the belted pattern of the Lakenvelder but a golden buff body in place of white, and he drew on Lakenvelder, Buff Orpington, Buff Sussex and Andalusian stock. It was first shown in 1912 and standardised in 1913. The head, neck and tail are black and the rest is buff, with a single comb and white earlobes. It is often mistaken for the Golden Lakenvelder, a separate breed. Roosters weigh about 5.5 to 7 pounds and hens 4.5 to 5.5 pounds, and there is a bantam. Hens lay about 170 large cream eggs a year. Vorwerks are alert, lively and good natured, eat little, forage well and mature fast. Roosters get along with each other, and the birds fly well, so fences need height.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vorwerk_chicken",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/vorwerk/",
+      "https://www.omlet.us/breeds/chickens/vorwerk/"
+    ]
+  }
+}

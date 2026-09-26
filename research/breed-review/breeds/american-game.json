@@ -1,0 +1,27 @@
+{
+  "breed_id": "american-game",
+  "status": "fixed",
+  "changes": "Added large fowl weights from the FAO DAD-IS record for Australia: hen 2.0 kg, cock 2.5 kg (the breeds.json weights are bantam figures, 765 g and 850 g, and were not used). Purpose kept as fighting and the duplicate fighting and ornamental alternatives dropped; Wikipedia says it was bred for cockfighting and may also be kept for ornament or the table. Brown eggs of medium to large size, single comb, the ten APA bantam colors plus brassy back and wheaten, United States origin and the Livestock Conservancy delisting confirmed against Wikipedia. Eggs rest on Wikipedia alone and weights on DAD-IS alone, and no source covers temperament or climate, so the record stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/American_Game",
+    "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=American%20Game&lang=en",
+    "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=American%20Game&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=American%20Game&lang=en" },
+    "rooster_weight_kg": { "value": 2.5, "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=American%20Game&lang=en" },
+    "purpose": { "value": "fighting", "source_url": "https://en.wikipedia.org/wiki/American_Game" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/American_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "egg_size", "origin_country", "purpose", "comb", "bantam_available", "varieties", "conservation_status", "notable_traits", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=American%20Game&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["hen_weight_kg", "rooster_weight_kg", "comb"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The American Game is a game fowl developed in the United States for cockfighting. The full size bird comes in a wide range of plumage colors, and cocks carry long, curved sickle feathers in the tail. Cocks weigh about 5.5 pounds and hens about 4.4. Major poultry standards do not list the large fowl, but the bantam version was accepted by the American Poultry Association in 2009 in ten colors, including birchen, black, black-breasted red, blue and white. That bantam has its own origin: a New Jersey breeder made it in the 1940s from wild red jungle fowl and small pit game birds. The hens produce medium to large brown eggs, and the birds make a decent table fowl. For shows, the comb, wattles and earlobes of males are trimmed off. Today the breed is kept mostly by game fowl fanciers and exhibitors.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/American_Game",
+      "https://dadis-breed-datasheet-ws.web.app/?country=AUS&specie=Chicken&breed=American%20Game&lang=en"
+    ]
+  }
+}

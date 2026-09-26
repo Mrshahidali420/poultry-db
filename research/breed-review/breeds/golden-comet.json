@@ -1,0 +1,27 @@
+{
+  "breed_id": "golden-comet",
+  "status": "fixed",
+  "changes": "Temperament array rewritten as calm, friendly, docile (Wikipedia: laid-back, relaxed, amiable; My Pet Chicken: sweet, docile, friendly). Eggs per year min changed from 330 to 260, from My Pet Chicken's rating of about 5 eggs a week (5 x 52); Wikipedia's 330 (up to 6 a week) kept as the max. Heat tolerant changed from partly to yes: My Pet Chicken rates it tolerates heat well and Wikipedia says it thrives in hot and cold weather given shade and water. Added egg color brown (My Pet Chicken; breeds.json already had brown). Confirmed cold hardy, low broodiness, egg purpose, sex-linked hybrid of US hatchery origin. Note: My Pet Chicken sells this bird as Golden Buff or Red Star and lists Golden Comet, Red Sex Link and ISA Brown as other names, so these records overlap. No reviewed source gives weights or egg size.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Golden_Comet",
+    "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star"
+  ],
+  "fixes": {
+    "temperament": { "value": "calm, friendly, docile", "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star" },
+    "eggs_per_year_min": { "value": 260, "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star" },
+    "egg_color": { "value": "brown", "source_url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Golden_Comet", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "temperament", "broodiness", "cold_hardy", "heat_tolerant", "purpose", "origin_country", "autosexing", "comb", "skin_color", "lifespan_years", "history_summary"] },
+    { "url": "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star", "publisher": "My Pet Chicken", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "temperament", "cold_hardy", "heat_tolerant", "autosexing"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Golden Comet is a sex-linked hybrid layer, not a true breed, first produced by the Hubbard hatchery in the United States. It comes from mating a New Hampshire Red rooster with a White Rock or Rhode Island White hen, and chicks can be sexed by color at hatch. It is sold under many names, including Red Star, Golden Buff and Cinnamon Queen. Hens are reddish brown to gold, with a single red comb and yellow, clean legs. They can start laying at about 16 weeks and give roughly 260 to 330 brown eggs a year, but output drops after about two years, and they rarely go broody. Golden Comets are calm, friendly and easy to handle. They manage both cold and hot weather if given shade and water, though the comb can frostbite. They suit beginners who mainly want eggs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Golden_Comet",
+      "https://www.mypetchicken.com/products/baby-chicks-golden-buff-red-star"
+    ]
+  }
+}

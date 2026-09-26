@@ -1,0 +1,32 @@
+{
+  "breed_id": "cubalaya",
+  "status": "fixed",
+  "changes": "Temperament was a list; replaced with the phrase tame, friendly, curious (Livestock Conservancy, Star Milling, Wikipedia). Hen and rooster weights now lead with the US standard from the Livestock Conservancy (4 lb = 1.8 kg hen, 6 lb = 2.7 kg cock), with the Wikipedia figures (1.6 kg and 2.4 kg) kept as a flagged alternative because the two standards really differ. Egg size kept small to medium (Livestock Conservancy) and the duplicate alternatives dropped. Purpose kept dual; the fighting and ornamental alternatives dropped since both sources describe a multi-purpose bird. Conservation status set to Critical, the value in the current Livestock Conservancy fact box; the Threatened value came from an older box on the same page. Egg color, egg count, heat tolerance, broodiness and origin confirmed.",
+  "sources_checked": [
+    "https://livestockconservancy.org/cubalaya-chicken/",
+    "https://en.wikipedia.org/wiki/Cubalaya",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "temperament": { "value": "tame, friendly, curious", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" },
+    "hen_weight_kg": { "value": 1.8, "source_url": "https://livestockconservancy.org/cubalaya-chicken/", "conflict": true, "alternatives": [{ "value": 1.6, "source_url": "https://en.wikipedia.org/wiki/Cubalaya" }] },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://livestockconservancy.org/cubalaya-chicken/", "conflict": true, "alternatives": [{ "value": 2.4, "source_url": "https://en.wikipedia.org/wiki/Cubalaya" }] },
+    "egg_size": { "value": "small to medium", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" },
+    "purpose": { "value": "dual", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" },
+    "conservation_status": { "value": "Critical (Livestock Conservancy)", "source_url": "https://livestockconservancy.org/cubalaya-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/cubalaya-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "heat_tolerant", "origin_country", "purpose", "conservation_status", "skin_color", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://en.wikipedia.org/wiki/Cubalaya", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "heat_tolerant", "broodiness", "origin_country", "origin_year_or_period", "comb", "varieties", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "heat_tolerant", "egg_size", "broodiness", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Cubalaya is the one chicken breed native to Cuba. Breeders there made it in the 1800s by mixing Malay and Sumatra game birds from the Philippines with European game stock, and it reached the American standard in 1939. Its best known feature is the long, drooping lobster tail, paired with a pea comb and a flowing mane of neck feathers. The US standard colors are black, white and black-breasted red. Cocks weigh about 6 pounds and hens about 4, and they can take up to three years to fill out. Hens lay roughly 125 to 175 small to medium white or tinted eggs a year and make good mothers. The birds are unusually tame with people but can pick on other chickens, and they can be noisy. They handle heat and humidity well, like to forage on grass, and suit warm regions and exhibition keepers.",
+    "sources": [
+      "https://livestockconservancy.org/cubalaya-chicken/",
+      "https://en.wikipedia.org/wiki/Cubalaya",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "breed_id": "h-chicken",
+  "status": "fixed",
+  "changes": "Origin Vietnam (Bac Ninh Province) confirmed by English Wikipedia and the FAO DAD-IS Viet Nam record. Added weights from Vietnamese Wikipedia: cocks 4.5 to 5.5 kg (set 5.0), hens 3.5 to 4.0 kg (set 3.8). Added purpose meat from FAO DAD-IS (uses: hobby, meat). No source read gives egg numbers, egg color or temperament. Weights rest on one publisher, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/H%E1%BB%93_chicken",
+    "https://vi.wikipedia.org/wiki/G%C3%A0_H%E1%BB%93",
+    "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Ho&lang=en"
+  ],
+  "fixes": {
+    "rooster_weight_kg": { "value": 5.0, "source_url": "https://vi.wikipedia.org/wiki/G%C3%A0_H%E1%BB%93" },
+    "hen_weight_kg": { "value": 3.8, "source_url": "https://vi.wikipedia.org/wiki/G%C3%A0_H%E1%BB%93" },
+    "purpose": { "value": "meat", "source_url": "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Ho&lang=en" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/H%E1%BB%93_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["origin_country", "history_summary"] },
+    { "url": "https://vi.wikipedia.org/wiki/G%C3%A0_H%E1%BB%93", "publisher": "Wikipedia (Vietnamese)", "source_confidence": "page", "supports": ["rooster_weight_kg", "hen_weight_kg", "origin_country", "comb"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Ho&lang=en", "publisher": "FAO", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Ho chicken, called ga Ho in Vietnamese, is a rare native breed from Bac Ninh Province in the Red River Delta of northern Vietnam. Most birds are kept in and around one village community near the town of Thuan Thanh. It is a big, heavy bird for a local Asian breed, with thick, short legs and a large frame. Cocks stand tall with a broad chest and weigh about 10 to 12 pounds, while hens weigh about 8 to 9 pounds. Cocks are either glossy greenish black or deep plum red, and hens come in muted clay, sparrow and dried longan shades. The comb is small, red and shaped a little like a strawberry. Because the hens are so heavy and slow, they make clumsy sitters and hatch few chicks. The breed is raised for prized meat and as a hobby bird, and local shows are held each spring.",
+    "sources": [
+      "https://vi.wikipedia.org/wiki/G%C3%A0_H%E1%BB%93",
+      "https://en.wikipedia.org/wiki/H%E1%BB%93_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=VNM&specie=Chicken&breed=Ga%20Ho&lang=en"
+    ]
+  }
+}

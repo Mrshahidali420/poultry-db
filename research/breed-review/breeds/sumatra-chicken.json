@@ -1,0 +1,35 @@
+{
+  "breed_id": "sumatra-chicken",
+  "status": "fixed",
+  "changes": "Eggs per year set to 100 to 130 (Livestock Conservancy about 100, Wikipedia about 130) instead of a lone minimum of 130. Egg color set to white to tinted (Livestock Conservancy and Star Milling agree; Wikipedia says white or cream). Broodiness conflict settled at high: Wikipedia, Star Milling and the Poultry Club of Great Britain all call the hens excellent sitters, and the Livestock Conservancy also says they can be excellent mothers; the low alternative dropped. Temperament list cut to active, alert, flighty. cold_hardy yes cleared: the sources call the birds hardy and easy to raise but none says they handle cold. Weights 2.3 kg and 1.8 kg (5 lb and 4 lb), small eggs, ornamental purpose, pea comb and Indonesian origin confirmed.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sumatra_chicken",
+    "https://livestockconservancy.org/sumatra-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sumatra/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 100, "source_url": "https://livestockconservancy.org/sumatra-chicken/" },
+    "eggs_per_year_max": { "value": 130, "source_url": "https://en.wikipedia.org/wiki/Sumatra_chicken" },
+    "egg_color": { "value": "white to tinted", "source_url": "https://livestockconservancy.org/sumatra-chicken/" },
+    "broodiness": { "value": "high", "source_url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sumatra/" },
+    "temperament": { "value": "active, alert, flighty", "source_url": "https://livestockconservancy.org/sumatra-chicken/" },
+    "cold_hardy": null
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/sumatra-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "comb", "skin_color", "varieties", "conservation_status", "notable_traits"] },
+    { "url": "https://en.wikipedia.org/wiki/Sumatra_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "broodiness", "origin_country", "purpose", "comb", "origin_year_or_period", "history_summary"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sumatra/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["egg_color", "broodiness", "origin_country", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "broodiness", "temperament", "origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Sumatra traces back to fowl from the islands of Sumatra, Java and Borneo in Indonesia, where men caught wild males for cockfights. The first birds reached Massachusetts in 1847, and the black variety entered the American standard in 1883. Today it is an ornamental and show breed with a long, flowing tail carried low, a pheasant-like way of moving and a green sheen on black feathers. It has a dark purple to black face, a small red pea comb, black skin, and often more than one spur on each leg. Blue, white and dun birds also exist. Cocks weigh about 5 pounds and hens about 4, though the feathers make them look bigger. Hens lay 100 to 130 small white or tinted eggs a year and are strong sitters, often used to hatch duck eggs. The birds are alert and flighty, fly well and dislike handling, so they suit fanciers more than families.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sumatra_chicken",
+      "https://livestockconservancy.org/sumatra-chicken/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/sumatra/",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

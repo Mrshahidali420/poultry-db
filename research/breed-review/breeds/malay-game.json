@@ -1,0 +1,33 @@
+{
+  "breed_id": "malay-game",
+  "status": "fixed",
+  "changes": "Egg color brownish or golden replaced with brown: Livestock Conservancy says brown and Oklahoma State says tinted brown. Egg max conflict dropped: Wikipedia's 80 falls inside the Livestock Conservancy range of 20 to 100, so it is not a real disagreement. Temperament was a list; replaced with active, quarrelsome, aggressive (Livestock Conservancy, Oklahoma State says rough with each other). Skin color yellow (legs) cleaned to yellow, which Oklahoma State gives as skin color. Weights of 9 lb cock and 7 lb hen (4.1 and 3.2 kg) confirmed by Livestock Conservancy and Oklahoma State. Purpose left as meat with exhibition as the flagged alternative, since Livestock Conservancy lists meat and Wikipedia says it is mostly shown. Cold hardy no and heat tolerant yes confirmed by Livestock Conservancy.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Malay_Game",
+    "https://livestockconservancy.org/malay-chicken/",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/asian-hard-feather/malay/",
+    "https://breeds.okstate.edu/poultry/chickens/malay-chickens.html"
+  ],
+  "fixes": {
+    "egg_color": { "value": "brown", "source_url": "https://livestockconservancy.org/malay-chicken/" },
+    "eggs_per_year_max": { "value": 100, "source_url": "https://livestockconservancy.org/malay-chicken/" },
+    "temperament": { "value": "active, quarrelsome, aggressive", "source_url": "https://livestockconservancy.org/malay-chicken/" },
+    "skin_color": { "value": "yellow", "source_url": "https://breeds.okstate.edu/poultry/chickens/malay-chickens.html" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/malay-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "beginner_friendly", "purpose", "origin_country"] },
+    { "url": "https://breeds.okstate.edu/poultry/chickens/malay-chickens.html", "publisher": "Oklahoma State University", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "broodiness", "purpose", "origin_country", "skin_color"] },
+    { "url": "https://en.wikipedia.org/wiki/Malay_Game", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "origin_country", "purpose", "varieties", "bantam_available"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Malay is an ancient Asian game fowl and one of the tallest chickens, often standing close to 3 feet. Large birds of this type were common from northern India to the Malay Peninsula, and English breeders, mostly in Devon and Cornwall, shaped the breed after imports began around 1830. It has long legs and neck, an upright stance, tight glossy feathers, yellow legs, a small walnut comb and heavy brows that give it a fierce look. Cocks weigh about 9 pounds and hens about 7. Hens are poor, seasonal layers of perhaps 20 to 100 medium brown eggs a year. They mother well, but males can be rough with chicks. Malays are active and quarrelsome and do badly in tight quarters or mixed flocks. They handle heat better than cold. The breed suits experienced keepers and exhibitors, not beginners or children.",
+    "sources": [
+      "https://livestockconservancy.org/malay-chicken/",
+      "https://breeds.okstate.edu/poultry/chickens/malay-chickens.html",
+      "https://en.wikipedia.org/wiki/Malay_Game"
+    ]
+  }
+}

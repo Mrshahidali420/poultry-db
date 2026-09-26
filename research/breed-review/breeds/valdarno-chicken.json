@@ -1,0 +1,27 @@
+{
+  "breed_id": "valdarno-chicken",
+  "status": "fixed",
+  "changes": "Weights rounded to one decimal from the Wikipedia ranges: hen 2.15 to 2.2 kg (2.0 to 2.3 kg) and rooster 2.65 to 2.7 kg (2.5 to 2.8 kg). Varieties black, white, buff, cuckoo to black: those four colors are what Pochini illustrated in 1900, but the breed today is the black Valdarno (Wikipedia: an Italian breed of black chicken; the 1905 standard noted the black predominated). Added comb single (Wikipedia infobox). Dual purpose and Tuscan origin confirmed by FAO DAD-IS (eggs and meat, both very good). White eggs, skin, earlobes, conservation status and history match Wikipedia. Weights rest on one publisher, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Valdarno_chicken",
+    "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Valdarno&lang=en"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.2, "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken" },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken" },
+    "varieties": { "value": ["black"], "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken" },
+    "comb": { "value": "single", "source_url": "https://en.wikipedia.org/wiki/Valdarno_chicken" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Valdarno_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "purpose", "varieties", "origin_country", "skin_color", "earlobe_color", "comb", "notable_traits", "conservation_status", "history_summary"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Valdarno&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "purpose"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Valdarno is a black dual purpose chicken from the lower Arno valley in Tuscany, in the farm country between Florence, Pisa and the sea. It should not be confused with the Valdarnese, a white breed from the upper valley. Writers praised it around 1900 for fast growth and good mothering, and a standard was set in 1905, when a local saying held that only a black chicken was a real one. Competition from the White Leghorn later pushed it almost to extinction. Breeders rebuilt it from a few birds found near Siena, crossed with Bresse and Castellana Negra, and showed the results in 1998. The bird is black with a green sheen, slate legs, white skin, a red single comb and white earlobes. Roosters weigh about 5.5 to 6.2 pounds and hens 4.4 to 5 pounds. Hens lay white eggs. Only about 200 breeding birds were counted in 2007.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Valdarno_chicken",
+      "https://dadis-breed-datasheet-ws.web.app/?country=ITA&specie=Chicken&breed=Valdarno&lang=en"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "breed_id": "iowa-blue",
+  "status": "fixed",
+  "changes": "Temperament was a list; replaced with fairly docile, can be skittish (Star Milling says fairly docile, Wikipedia says a little skittish). Weights (7 lb cock, 6 lb hen), brown eggs, broodiness, single comb, red earlobes, sex-link crossing, dual purpose and origin all confirmed against Wikipedia, and purpose, temperament, broodiness and origin also against Star Milling. The Livestock Conservancy has no Iowa Blue page (404), and the other pages found were forums and content sites, so egg color and weights rest on Wikipedia alone and the breed stays in review. No source gives an egg count or egg size.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Iowa_Blue",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/iowa-blue-chicken/"
+  ],
+  "fixes": {
+    "temperament": { "value": "fairly docile, can be skittish", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Iowa_Blue", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "purpose", "broodiness", "comb", "earlobe_color", "autosexing", "varieties", "conservation_status", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["temperament", "origin_country", "purpose", "broodiness", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Iowa Blue is a rare American dual-purpose chicken that first turned up near Decorah, Iowa, in the early 1900s. Its true origin is unknown, and the local story that a pheasant fathered the first chicks cannot be true, since pheasants and chickens do not interbreed. Despite the name, the birds are not blue: they have a silvery white head and a dark body with white penciling, plus a single comb and red earlobes. Roosters weigh about 7 pounds and hens about 6. Hens lay a fair number of brown eggs and often go broody and raise chicks well. The birds are fairly docile, though some are a bit skittish, and they forage well on free range. Roosters are known as bold guards against hawks. The breed nearly died out after Iowa hatcheries dropped it and has never been accepted into a show standard, so it suits homesteaders who want a working bird.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iowa_Blue",
+      "https://starmilling.com/poultry-chicken-breeds/"
+    ]
+  }
+}

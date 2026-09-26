@@ -1,0 +1,32 @@
+{
+  "breed_id": "barnevelder",
+  "status": "fixed",
+  "changes": "Added egg size large (Wikipedia and Omlet both say large brown eggs), temperament calm, docile (Star Milling says calm, Omlet says docile) and broodiness high (Omlet says hens go broody often). Confirmed 175 to 200 brown eggs a year (Wikipedia, Star Milling), Dutch origin (Wikipedia, Star Milling, Poultry Club of Great Britain, Omlet) and good winter laying. Purpose left as eggs: Wikipedia only describes egg use, though Star Milling calls it dual purpose. No source read gives weights or cold and heat tolerance, so those stay empty.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Barnevelder",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/barnevelder/",
+    "https://www.omlet.us/breeds/chickens/barnevelder/"
+  ],
+  "fixes": {
+    "egg_size": { "value": "large", "source_url": "https://en.wikipedia.org/wiki/Barnevelder" },
+    "temperament": { "value": "calm, docile", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "broodiness": { "value": "high", "source_url": "https://www.omlet.us/breeds/chickens/barnevelder/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Barnevelder", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "origin_country", "purpose", "bantam_available", "origin_year_or_period", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "temperament", "origin_country"] },
+    { "url": "https://www.omlet.us/breeds/chickens/barnevelder/", "publisher": "Omlet", "source_confidence": "page", "supports": ["egg_color", "egg_size", "temperament", "broodiness"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/barnevelder/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Barnevelder comes from the area around the town of Barneveld in the central Netherlands. Farmers there crossed their local hens with big Asian birds, then called Shanghai fowl, from the 1860s on, and the breed was named in 1911 and recognized in 1923. Britain began importing it around 1921 because shoppers there wanted brown eggs. The best known pattern is double laced, where each brown feather carries two rings of black with a green sheen; black, blue and silver forms also exist, and there are bantams. Hens lay about 175 to 200 large brown eggs a year and keep laying through the winter. The birds are calm and docile, hens often go broody, and they tend to be a little lazy, so free ranging helps keep them fit. They suit backyard keepers who want steady brown eggs from a quiet, good looking bird.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barnevelder",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.omlet.us/breeds/chickens/barnevelder/",
+      "https://www.poultryclub.org/breeds/chickens/soft-feather-heavy/barnevelder/"
+    ]
+  }
+}

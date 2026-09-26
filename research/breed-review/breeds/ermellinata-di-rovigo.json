@@ -1,0 +1,26 @@
+{
+  "breed_id": "ermellinata-di-rovigo",
+  "status": "fixed",
+  "changes": "Hen and rooster weights: the old alternatives were only the two ends of the Wikipedia range, not a real conflict. Wikipedia gives 3.4 to 3.9 kg cocks and 2.6 to 3.1 kg hens; Agraria.org gives 3.0 to 3.5 kg and 2.2 to 2.6 kg. Kept 3.4 kg and 2.6 kg, which fall inside both ranges, and dropped the alternatives. Added egg_size medium to large (both sources give 55 to 60 g). Confirmed 170 to 190 eggs a year, pinkish shell, dual purpose, Italy, single comb, red lobes and yellow skin with Agraria.org.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo",
+    "https://www.agraria.org/polli/ermellinatarovigo.htm"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.6, "source_url": "https://www.agraria.org/polli/ermellinatarovigo.htm" },
+    "rooster_weight_kg": { "value": 3.4, "source_url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo" },
+    "egg_size": { "value": "medium to large", "source_url": "https://www.agraria.org/polli/ermellinatarovigo.htm" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "skin_color", "varieties", "origin_year_or_period", "history_summary"] },
+    { "url": "https://www.agraria.org/polli/ermellinatarovigo.htm", "publisher": "Agraria.org", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "purpose", "comb", "earlobe_color", "skin_color", "origin_year_or_period"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ermellinata di Rovigo is a modern dual purpose chicken from Rovigo in the Veneto region of northeast Italy. Breeders at the local poultry research station made it between 1959 and 1965 from Sussex and Rhode Island Red birds. It looks much like a Light Sussex: a white body with black neck feathers, wing tips and tail. Unlike the Sussex, it has yellow skin and yellow legs, which Italian meat buyers prefer. The comb is a large single comb with five or six points, and the earlobes are red. Roosters weigh about 7 to 8.5 pounds and hens about 5 to 6.5 pounds. Hens lay some 170 to 190 pinkish brown eggs a year, each around 55 to 60 grams. Young birds grow quickly, and the hens are used to breed chicks that can be sexed by color. The breed is rare and is kept under a regional conservation program.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ermellinata_di_Rovigo",
+      "https://www.agraria.org/polli/ermellinatarovigo.htm"
+    ]
+  }
+}

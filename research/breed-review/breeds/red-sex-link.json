@@ -1,0 +1,34 @@
+{
+  "breed_id": "red-sex-link",
+  "status": "fixed",
+  "changes": "Eggs per year minimum 280 was not in the cited Wikipedia text; set to 240 from Omlet (240 plus a year), with the maximum of 300 confirmed by Star Milling. Temperament calm, productive layer was not in Star Milling and mixes in laying; replaced with friendly, docile from Omlet. Added egg size large, hen weight 2.7 kg (6 lb), rooster weight 3.6 kg (8 lb), cold hardy yes, heat tolerant yes and broodiness low, all from Omlet. Brown eggs and US origin confirmed by Omlet. Most key facts rest on Omlet alone, so it stays in review.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Sex-link",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.omlet.us/breeds/chickens/red_star/"
+  ],
+  "fixes": {
+    "eggs_per_year_min": { "value": 240, "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "temperament": { "value": "friendly, docile", "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "egg_size": { "value": "large", "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "hen_weight_kg": { "value": 2.7, "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "rooster_weight_kg": { "value": 3.6, "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "heat_tolerant": { "value": "yes", "source_url": "https://www.omlet.us/breeds/chickens/red_star/" },
+    "broodiness": { "value": "low", "source_url": "https://www.omlet.us/breeds/chickens/red_star/" }
+  },
+  "sources": [
+    { "url": "https://www.omlet.us/breeds/chickens/red_star/", "publisher": "Omlet", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "heat_tolerant", "broodiness", "autosexing"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_max", "autosexing", "purpose"] },
+    { "url": "https://en.wikipedia.org/wiki/Sex-link", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["autosexing", "notable_traits"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Red Sex Link, often sold as the Red Star, is a hybrid rather than a true breed. It comes from putting a male of a red breed, usually the Rhode Island Red or the New Hampshire, over a light-colored hen such as a White Rock, Delaware, Rhode Island White or Silver Laced Wyandotte, a cross American hatcheries were using by the 1950s. Several hatchery strains, including the Golden Comet, follow the same idea. Chicks can be sexed by down color at hatch: pullets are red and cockerels pale. Grown hens are red with some white, and roosters are mostly white. Hens weigh about 6 pounds and roosters about 8. A hen lays roughly 240 to 300 large brown eggs a year and rarely goes broody. The birds are friendly and docile and cope with cold and heat. They suit beginners who want a steady supply of eggs.",
+    "sources": [
+      "https://www.omlet.us/breeds/chickens/red_star/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Sex-link"
+    ]
+  }
+}

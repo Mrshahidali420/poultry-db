@@ -1,0 +1,32 @@
+{
+  "breed_id": "ancona-chicken",
+  "status": "fixed",
+  "changes": "Weights were stored as text ranges (1.8-2.1 and 2.5-2.8); set to numbers from Livestock Conservancy, hen 4.5 lb (2.0 kg) and cock 6 lb (2.7 kg), which fall inside the Wikipedia ranges, so there is no conflict. Added egg size medium to large, temperament active, lively, purpose eggs and cold hardy yes (Livestock Conservancy and Star Milling both say they stand frost and snow well, with care for single combs). Egg count 220, white eggs, low broodiness and Italian origin confirmed by Livestock Conservancy, Star Milling and Wikipedia.",
+  "sources_checked": [
+    "https://livestockconservancy.org/ancona-chicken/",
+    "https://en.wikipedia.org/wiki/Ancona_chicken",
+    "https://starmilling.com/poultry-chicken-breeds/"
+  ],
+  "fixes": {
+    "hen_weight_kg": { "value": 2.0, "source_url": "https://livestockconservancy.org/ancona-chicken/" },
+    "rooster_weight_kg": { "value": 2.7, "source_url": "https://livestockconservancy.org/ancona-chicken/" },
+    "egg_size": { "value": "medium to large", "source_url": "https://livestockconservancy.org/ancona-chicken/" },
+    "temperament": { "value": "active, lively", "source_url": "https://livestockconservancy.org/ancona-chicken/" },
+    "purpose": { "value": "eggs", "source_url": "https://livestockconservancy.org/ancona-chicken/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://livestockconservancy.org/ancona-chicken/" }
+  },
+  "sources": [
+    { "url": "https://livestockconservancy.org/ancona-chicken/", "publisher": "The Livestock Conservancy", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "temperament", "cold_hardy", "origin_country", "purpose", "broodiness", "comb", "earlobe_color"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "temperament", "cold_hardy", "origin_country", "broodiness"] },
+    { "url": "https://en.wikipedia.org/wiki/Ancona_chicken", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "eggs_per_year_max", "egg_color", "hen_weight_kg", "rooster_weight_kg", "temperament", "origin_country", "broodiness", "comb", "varieties", "bantam_available", "conservation_status"] }
+  ],
+  "needs_review": false,
+  "summary": {
+    "value": "The Ancona is a Mediterranean egg breed named for the port city of Ancona on the east coast of Italy. English fanciers took it up around 1850 and shaped the modern bird, and it reached America in 1888. Its black feathers carry small white V-shaped tips, giving a speckled look that grows whiter with age. Combs may be single or rose, and a hen's single comb flops to one side. It is a small, Leghorn-sized bird: hens weigh about 4.5 pounds and roosters about 6. Hens lay around 220 white eggs a year, medium to large, start at about five months and almost never go broody. Anconas are active, lively and a little wild; they fly well and like to range over wide ground. They handle frost and snow, though single combs need protection from frostbite. They suit keepers who want eggs and have space to let birds roam.",
+    "sources": [
+      "https://livestockconservancy.org/ancona-chicken/",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://en.wikipedia.org/wiki/Ancona_chicken"
+    ]
+  }
+}

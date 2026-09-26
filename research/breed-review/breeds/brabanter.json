@@ -1,0 +1,31 @@
+{
+  "breed_id": "brabanter",
+  "status": "fixed",
+  "changes": "Confirmed white eggs (Wikipedia, Star Milling), Netherlands origin (Wikipedia, Star Milling, Poultry Club of Great Britain), 170 eggs a year, 1.8 kg hen and 2.2 kg cock (midpoints of 1.6 to 2.0 and 1.9 to 2.5 kg), v-shaped comb, crest and bantam from 1934. Added egg_size medium from the 52 g average egg, temperament calm and cold_hardy yes from Star Milling (small comb and wattles resist frostbite). Note that FAO DAD-IS also lists a Belgian Brabanconne from the Belgian side of Brabant; the region straddles both countries. Weights, egg count and temperament rest on one publisher each, so needs_review stays true.",
+  "sources_checked": [
+    "https://en.wikipedia.org/wiki/Brabanter",
+    "https://starmilling.com/poultry-chicken-breeds/",
+    "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brabanter/",
+    "https://dadis-breed-datasheet-ws.web.app/?country=NLD&specie=Chicken&breed=Brabanter%20groot&lang=en"
+  ],
+  "fixes": {
+    "egg_size": { "value": "medium", "source_url": "https://en.wikipedia.org/wiki/Brabanter" },
+    "temperament": { "value": "calm", "source_url": "https://starmilling.com/poultry-chicken-breeds/" },
+    "cold_hardy": { "value": "yes", "source_url": "https://starmilling.com/poultry-chicken-breeds/" }
+  },
+  "sources": [
+    { "url": "https://en.wikipedia.org/wiki/Brabanter", "publisher": "Wikipedia", "source_confidence": "page", "supports": ["eggs_per_year_min", "egg_color", "egg_size", "hen_weight_kg", "rooster_weight_kg", "origin_country", "bantam_available", "varieties", "crest", "comb", "earlobe_color", "notable_traits", "history_summary"] },
+    { "url": "https://starmilling.com/poultry-chicken-breeds/", "publisher": "Star Milling Co.", "source_confidence": "page", "supports": ["egg_color", "temperament", "cold_hardy", "origin_country", "comb", "crest"] },
+    { "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brabanter/", "publisher": "Poultry Club of Great Britain", "source_confidence": "page", "supports": ["origin_country", "bantam_available", "crest"] },
+    { "url": "https://dadis-breed-datasheet-ws.web.app/?country=NLD&specie=Chicken&breed=Brabanter%20groot&lang=en", "publisher": "FAO DAD-IS", "source_confidence": "page", "supports": ["origin_country", "conservation_status"] }
+  ],
+  "needs_review": true,
+  "summary": {
+    "value": "The Brabanter is an old crested chicken from Brabant, a region split between the Netherlands and Belgium. Birds very like it appear in Dutch paintings from the 1600s. It nearly died out early in the 1900s and was rebuilt by crossing in other crested, bearded fowl. Its crest is narrow and stands up and slightly forward, like that of the Swiss Appenzeller Spitzhauben, and it also has a full three part beard that hides the small white earlobes. The comb is a small V shape. This is a light breed: cocks weigh about 4 to 5.5 pounds and hens about 3.5 to 4.5 pounds. Hens lay around 170 medium white eggs a year and keep laying fairly well in winter. Brabanters are calm and clever, and their tiny comb and wattles make them a good fit for cold climates. A bantam version has existed since about 1934.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brabanter",
+      "https://starmilling.com/poultry-chicken-breeds/",
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/brabanter/"
+    ]
+  }
+}
