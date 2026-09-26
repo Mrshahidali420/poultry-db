@@ -21258,21 +21258,21 @@
   {
     "id": "marsh-daisy-chicken",
     "eggs_per_year_min": {
-      "value": 200,
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
+      "value": 160,
+      "source_url": "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
       "origin": "review:claude-opus"
     },
     "eggs_per_year_max": {
-      "value": 200,
-      "source_url": "https://starmilling.com/poultry-chicken-breeds/",
-      "origin": "extract"
+      "value": 210,
+      "source_url": "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
+      "origin": "review:claude-opus"
     },
     "egg_size": {
       "value": null,
       "source_url": null
     },
     "temperament": {
-      "value": "active, generally calm",
+      "value": "calm but active, flighty",
       "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
       "origin": "review:claude-opus"
     },
@@ -21326,17 +21326,17 @@
     "needs_review": false,
     "egg_color": {
       "value": "tinted",
-      "source_url": "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/",
+      "source_url": "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
       "origin": "review:claude-opus"
     },
     "hen_weight_kg": {
-      "value": 2.5,
-      "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
-      "origin": "extract"
+      "value": 2.3,
+      "source_url": "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
+      "origin": "review:claude-opus"
     },
     "rooster_weight_kg": {
-      "value": 3,
-      "source_url": "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
+      "value": 2.7,
+      "source_url": "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
       "origin": "review:claude-opus"
     },
     "autosexing": {
@@ -21397,29 +21397,26 @@
           "hen_weight_kg",
           "rooster_weight_kg",
           "temperament",
-          "cold_hardy",
           "origin_country",
-          "purpose",
+          "origin_year_or_period",
           "comb",
           "earlobe_color",
           "varieties",
           "bantam_available",
-          "conservation_status",
-          "origin_year_or_period",
-          "history_summary"
+          "conservation_status"
         ]
       },
       {
-        "url": "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/",
-        "publisher": "Omlet",
+        "url": "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
+        "publisher": "Poultrykeeper",
         "source_confidence": "page",
         "supports": [
+          "eggs_per_year_min",
+          "eggs_per_year_max",
           "egg_color",
           "hen_weight_kg",
           "rooster_weight_kg",
-          "temperament",
-          "cold_hardy",
-          "broodiness",
+          "origin_country",
           "varieties",
           "bantam_available"
         ]
@@ -21429,43 +21426,28 @@
         "publisher": "Star Milling Co.",
         "source_confidence": "page",
         "supports": [
-          "eggs_per_year_min",
           "eggs_per_year_max",
           "egg_color",
           "origin_country",
-          "cold_hardy"
+          "notable_traits"
         ]
       },
       {
-        "url": "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/",
-        "publisher": "Poultry Club of Great Britain",
+        "url": "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Marsh%20Daisy&lang=en",
+        "publisher": "FAO",
         "source_confidence": "page",
         "supports": [
-          "origin_country",
-          "origin_year_or_period",
-          "bantam_available",
-          "history_summary"
-        ]
-      },
-      {
-        "url": "https://www.agraria.org/polli/marshdaisy.htm",
-        "publisher": "Agraria.org",
-        "source_confidence": "page",
-        "supports": [
-          "origin_country",
-          "comb",
-          "earlobe_color",
-          "varieties"
+          "purpose",
+          "origin_country"
         ]
       }
     ],
     "summary": {
-      "value": "The Marsh Daisy is a rare English chicken from Southport in Lancashire. Breeders built it between the 1880s and 1913 from Old English Game, Malay, Hamburgh, Leghorn and Sicilian Buttercup stock. It is a light breed: roosters weigh around 6.5 pounds and hens around 5.5 pounds, and no bantam form exists. Its big comb is a rose type, its lobes are white and its legs have a green willow tint. Wheaten and brown are the most common colors, with buff, black and white much harder to find. Hens lay about 200 tinted eggs a year and often make good broody mothers. The birds are active and fly well, though most are fairly calm. They grow slowly but become tough, hardy adults that forage well and do best on free range. The breed never spread much beyond Britain and is listed as endangered there, so it appeals mostly to keepers who want to help save a rare line.",
+      "value": "The Marsh Daisy is a rare English chicken from Southport in Lancashire. Breeding began in the 1880s with an Old English Game cock and Malay hens, and Hamburgh, Leghorn and Sicilian Buttercup blood was added later; the type was settled by 1913. The name may come from its marshy home or from its large rose comb, said to look like the sea thrift flower. It has white earlobes and willow green legs, and the usual colors are wheaten, brown, buff and black. It is a light bird: cocks weigh about 5.5 to 6.5 pounds and hens about 4.5 to 5.5. Hens lay around 160 to 210 tinted eggs a year. Birds grow slowly but are hardy once grown, forage well and do best on free range. They are mostly calm but active, can fly and may be flighty. There is no bantam form.",
       "sources": [
         "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
-        "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/",
-        "https://starmilling.com/poultry-chicken-breeds/",
-        "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/"
+        "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
+        "https://starmilling.com/poultry-chicken-breeds/"
       ]
     }
   },

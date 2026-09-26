@@ -1860,15 +1860,15 @@
   {
     "breed_id": "marsh-daisy-chicken",
     "status": "fixed",
-    "changes": "Temperament was a list (calm, active, can fly, flighty); replaced with \"active, generally calm\" (Wikipedia says generally calm but active and able to fly; Omlet calls them upright, active birds). Egg color conflict dropped: tinted (Wikipedia, Omlet) and cream (Star Milling) describe the same pale shell, so the value stays tinted. Rooster weight rounded from 2.95 to 3.0 kg; Omlet's 6 to 7 lb males and 5 to 6 lb hens agree with Wikipedia's 6.5 lb and 5.5 lb. Added broodiness high (Omlet: excellent broodies) and eggs_per_year_min 200 alongside the existing max, since Star Milling gives about 200 eggs. Rose comb, white lobes, willow legs, no bantam and English origin confirmed by the Poultry Club and Agraria.org.",
+    "changes": "Temperament list (mixed in 'can fly') replaced with calm but active, flighty (Wikipedia: generally calm, active, can fly, known for being flighty). Egg color conflict dropped: tinted (Wikipedia, Poultrykeeper) and cream (Star Milling) describe the same shell. Weights were the standard maximums (2.95 kg cock, 2.5 kg hen); Poultrykeeper gives cock 2.5 to 2.95 kg and hen 2.0 to 2.5 kg, so set rooster 2.7 kg and hen 2.3 kg. Eggs set to 160 to 210 a year from Poultrykeeper, consistent with Star Milling's about 200. Rose comb, white earlobes, green legs, no bantam, egg-laying purpose and Southport, Lancashire origin confirmed by Wikipedia, Poultrykeeper, Star Milling and FAO DAD-IS.",
     "reviewed_by": "claude-opus",
     "reviewed_on": "2026-09-26",
     "sources_checked": [
       "https://en.wikipedia.org/wiki/Marsh_Daisy_chicken",
-      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/",
       "https://starmilling.com/poultry-chicken-breeds/",
-      "https://www.omlet.co.uk/breeds/chickens/marsh_daisy/",
-      "https://www.agraria.org/polli/marshdaisy.htm"
+      "https://www.poultryclub.org/breeds/chickens/rare-soft-feather-light/marsh-daisy/",
+      "https://poultrykeeper.com/chicken-breeds/marsh-daisy-chickens/",
+      "https://dadis-breed-datasheet-ws.web.app/?country=GBR&specie=Chicken&breed=Marsh%20Daisy&lang=en"
     ]
   },
   {
