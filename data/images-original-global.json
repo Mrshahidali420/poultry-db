@@ -1,0 +1,1657 @@
+{
+  "generated_at": "2026-09-29T09:26:02.345Z",
+  "method": "en.wikipedia API match + imageinfo, 1920px rendition",
+  "count": 91,
+  "photos": [
+    {
+      "key": "andalusier",
+      "dadis_ids": [
+        "deu-andalusier"
+      ],
+      "file": "images-original/global/andalusier.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Blue_Andalusian",
+      "wikipedia_title": "Blue Andalusian",
+      "shortdesc": "Spanish breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Andalusian_gallus_(hen).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Andalusian_gallus_%28hen%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Andalusian_gallus_%28hen%29.jpg/1920px-Andalusian_gallus_%28hen%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Костюшко",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "appenzeller barthuhner",
+      "dadis_ids": [
+        "deu-appenzeller-barthuhner"
+      ],
+      "file": "images-original/global/appenzeller-barthuhner.jpg",
+      "width": 1536,
+      "wikipedia": "https://en.wikipedia.org/wiki/Appenzeller_Barthuhn",
+      "wikipedia_title": "Appenzeller Barthuhn",
+      "shortdesc": "Swiss breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Appenzeller_Barthuhn_(8).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Appenzeller_Barthuhn_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Appenzeller_Barthuhn_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Caumasee",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "ardennaise sans queue",
+      "dadis_ids": [
+        "fra-ardennaise-sans-queue"
+      ],
+      "file": "images-original/global/ardenner-bolstaart.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ardennaise",
+      "wikipedia_title": "Ardennaise",
+      "shortdesc": "Belgian/French breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coq_ardennais.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coq_ardennais.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Coq_ardennais.jpg/1920px-Coq_ardennais.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomon",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "ardenner bolstaart",
+      "dadis_ids": [
+        "bel-ardenner-bolstaart"
+      ],
+      "file": "images-original/global/ardenner-bolstaart.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ardennaise",
+      "wikipedia_title": "Ardennaise",
+      "shortdesc": "Belgian/French breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coq_ardennais.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coq_ardennais.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Coq_ardennais.jpg/1920px-Coq_ardennais.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomon",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "australorps",
+      "dadis_ids": [
+        "deu-australorps"
+      ],
+      "file": "images-original/global/australorps.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Australorp",
+      "wikipedia_title": "Australorp",
+      "shortdesc": "Australian breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Australorps_henne.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Australorps_henne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Australorps_henne.jpg/1920px-Australorps_henne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Palauenc05",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "barnevelder bantam",
+      "dadis_ids": [
+        "gbr-barnevelder-miniature",
+        "nld-barnevelder-kriel",
+        "rou-barnevelder-dublu-locat-pitica"
+      ],
+      "file": "images-original/global/zwerg-barnevelder.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Barnevelder",
+      "wikipedia_title": "Barnevelder",
+      "shortdesc": "Dutch breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Barnevelder_Hen_Head.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Barnevelder_Hen_Head.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Barnevelder_Hen_Head.jpg/1920px-Barnevelder_Hen_Head.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Air55",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "belgian barbu d anvers",
+      "dadis_ids": [
+        "aus-belgian-barbu-d-anvers"
+      ],
+      "file": "images-original/global/belgian-barbu-d-anvers.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbu_d'Anvers",
+      "wikipedia_title": "Barbu d'Anvers",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coq_barbu_d%27Anvers_fauve_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coq_barbu_d%27Anvers_fauve_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Coq_barbu_d%27Anvers_fauve_%28cropped%29.jpg/1920px-Coq_barbu_d%27Anvers_fauve_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomon",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "bergische schlotterkamme",
+      "dadis_ids": [
+        "deu-bergische-schlotterkamme"
+      ],
+      "file": "images-original/global/bergische-schlotterkamme.jpg",
+      "width": 1611,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm",
+      "wikipedia_title": "Bergische Schlotterkamm",
+      "shortdesc": "German breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Schlotterkamm_Hahn1_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Schlotterkamm_Hahn1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Schlotterkamm_Hahn1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "JürnC (Diskussion) 13:57, 7. Jul. 2013 (CEST)",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "bergische zwerg schlotterkamme",
+      "dadis_ids": [
+        "deu-bergische-zwerg-schlotterkamme"
+      ],
+      "file": "images-original/global/bergische-schlotterkamme.jpg",
+      "width": 1611,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bergische_Schlotterkamm",
+      "wikipedia_title": "Bergische Schlotterkamm",
+      "shortdesc": "German breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Schlotterkamm_Hahn1_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Schlotterkamm_Hahn1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Schlotterkamm_Hahn1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "JürnC (Diskussion) 13:57, 7. Jul. 2013 (CEST)",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "bielefelder kennhuhner",
+      "dadis_ids": [
+        "deu-bielefelder-kennhuhner"
+      ],
+      "file": "images-original/global/bielefelder-kennhuhner.jpg",
+      "width": 1024,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn",
+      "wikipedia_title": "Bielefelder Kennhuhn",
+      "shortdesc": "German breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bielefelder-kennhuhn.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bielefelder-kennhuhn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bielefelder-kennhuhn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Stuhlgockel",
+      "licence": "CC BY 3.0"
+    },
+    {
+      "key": "bielefelder zwerg kennhuhner",
+      "dadis_ids": [
+        "deu-bielefelder-zwerg-kennhuhner"
+      ],
+      "file": "images-original/global/bielefelder-kennhuhner.jpg",
+      "width": 1024,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bielefelder_Kennhuhn",
+      "wikipedia_title": "Bielefelder Kennhuhn",
+      "shortdesc": "German breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bielefelder-kennhuhn.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bielefelder-kennhuhn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bielefelder-kennhuhn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Stuhlgockel",
+      "licence": "CC BY 3.0"
+    },
+    {
+      "key": "bohuslan dals svarthona",
+      "dadis_ids": [
+        "swe-bohuslan-dals-svarthona"
+      ],
+      "file": "images-original/global/bohuslan-dals-svarthona.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Svarth%C3%B6na",
+      "wikipedia_title": "Svarthöna",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Swedish_Black_Chicken_2011-11-12_001.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Swedish_Black_Chicken_2011-11-12_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Swedish_Black_Chicken_2011-11-12_001.jpg/1920px-Swedish_Black_Chicken_2011-11-12_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Freyja Imsland",
+      "licence": "CC BY 3.0"
+    },
+    {
+      "key": "booted",
+      "dadis_ids": [
+        "gbr-booted"
+      ],
+      "file": "images-original/global/booted.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Booted_Bantam",
+      "wikipedia_title": "Booted Bantam",
+      "shortdesc": "European breed of bantam chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Booted_Bantam_-peting_zoo,_The_Hague,_Netherlands_-two-8a.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg/1920px-Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "-JvL- from Netherlands",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "broiler 6",
+      "dadis_ids": [
+        "mda-broiler-6",
+        "rus-broiler-6"
+      ],
+      "file": "images-original/global/commercial-strain-broiler-avian.jpg",
+      "width": 1112,
+      "wikipedia": "https://en.wikipedia.org/wiki/Broiler",
+      "wikipedia_title": "Broiler",
+      "shortdesc": "Chicken bred for meat",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Broilers_Australia_June_2018.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Broilers_Australia_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Broilers_Australia_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Animals Uncovered",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "buff sussex",
+      "dadis_ids": [
+        "gbr-buff-sussex"
+      ],
+      "file": "images-original/global/buff-sussex.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sussex_chicken",
+      "wikipedia_title": "Sussex chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg/1920px-Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Chefsbird",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "cemani",
+      "dadis_ids": [
+        "deu-cemani"
+      ],
+      "file": "images-original/global/cemani.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ayam_Cemani",
+      "wikipedia_title": "Ayam Cemani",
+      "shortdesc": "Breed of chicken from Indonesia",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poule_cemani.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Poule_cemani.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Poule_cemani.jpg/1920px-Poule_cemani.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomon",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "columbian rock",
+      "dadis_ids": [
+        "can-columbian-rock"
+      ],
+      "file": "images-original/global/columbian-rock.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken",
+      "wikipedia_title": "Plymouth Rock chicken",
+      "shortdesc": "American breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sophia_and_ZsuZsu_walking_the_property.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sophia_and_ZsuZsu_walking_the_property.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sophia_and_ZsuZsu_walking_the_property.jpg/1920px-Sophia_and_ZsuZsu_walking_the_property.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomas Kriese",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "commercial strain broiler avian",
+      "dadis_ids": [
+        "chn-avian",
+        "tza-commercial-broiler-hybrids",
+        "ven-avian-farms"
+      ],
+      "file": "images-original/global/commercial-strain-broiler-avian.jpg",
+      "width": 1112,
+      "wikipedia": "https://en.wikipedia.org/wiki/Broiler",
+      "wikipedia_title": "Broiler",
+      "shortdesc": "Chicken bred for meat",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Broilers_Australia_June_2018.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Broilers_Australia_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Broilers_Australia_June_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Animals Uncovered",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "commercial strain broiler ross",
+      "dadis_ids": [
+        "bgd-ross",
+        "blr-ross",
+        "bol-ross",
+        "bwa-ross",
+        "chl-ross",
+        "cod-ross",
+        "col-ross",
+        "est-ross-508",
+        "gha-ross",
+        "gtm-ross",
+        "hti-ross",
+        "hun-ross-308",
+        "idn-gunsi-beta",
+        "idn-ross",
+        "irn-ross",
+        "lso-ross-one",
+        "mar-ross",
+        "mda-rosso-sl",
+        "mwi-ross",
+        "nic-ross",
+        "per-ross",
+        "tto-ross",
+        "ven-ross",
+        "zaf-sa-ross",
+        "zwe-ross"
+      ],
+      "file": "images-original/global/commercial-strain-broiler-ross.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ross_308",
+      "wikipedia_title": "Ross 308",
+      "shortdesc": "Breed of fast-growing chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ross_308,_30_weken,_6400_gram.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ross_308%2C_30_weken%2C_6400_gram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ross_308%2C_30_weken%2C_6400_gram.jpg/1920px-Ross_308%2C_30_weken%2C_6400_gram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Arie m den toom",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "commercial strain broiler ross 308",
+      "dadis_ids": [
+        "mda-ross-308",
+        "syc-ross-308",
+        "ukr-ross-308"
+      ],
+      "file": "images-original/global/commercial-strain-broiler-ross.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ross_308",
+      "wikipedia_title": "Ross 308",
+      "shortdesc": "Breed of fast-growing chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ross_308,_30_weken,_6400_gram.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ross_308%2C_30_weken%2C_6400_gram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ross_308%2C_30_weken%2C_6400_gram.jpg/1920px-Ross_308%2C_30_weken%2C_6400_gram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Arie m den toom",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "commercial strain layer lohmann",
+      "dadis_ids": [
+        "alb-lohmann",
+        "bol-lohmann",
+        "chl-lohmann",
+        "chn-roman-layer",
+        "cod-lohman",
+        "col-lohmann",
+        "fin-lsl",
+        "gtm-lohmann",
+        "idn-lohmann",
+        "nic-lohmann",
+        "phl-lohmann",
+        "sen-lohmann",
+        "tun-lohmann",
+        "zwe-lohmann"
+      ],
+      "file": "images-original/global/commercial-strain-layer-lohmann.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lohmann_Brown",
+      "wikipedia_title": "Lohmann Brown",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg/1920px-Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Konstantin Nikiforov",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "commercial strain layer lohmann brown",
+      "dadis_ids": [
+        "arm-lohman-brown",
+        "bgd-lohman-brown",
+        "bwa-lohmann-brown",
+        "bwa-lohmann-silver",
+        "est-lohman-brown",
+        "eth-lohman-brown",
+        "gha-lohman-brown",
+        "idn-lohman-brown",
+        "lso-lohman-brown",
+        "npl-lohman-brown",
+        "rus-lohman-brown",
+        "ukr-lohman-brown",
+        "uzb-brown-lohmann"
+      ],
+      "file": "images-original/global/commercial-strain-layer-lohmann.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lohmann_Brown",
+      "wikipedia_title": "Lohmann Brown",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg/1920px-Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Konstantin Nikiforov",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "cornish game miniature",
+      "dadis_ids": [
+        "gbr-cornish-game-miniature"
+      ],
+      "file": "images-original/global/cornish-game-miniature.jpg",
+      "width": 800,
+      "wikipedia": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)",
+      "wikipedia_title": "Indian Game (poultry)",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:DkCornishHen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/DkCornishHen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/DkCornishHen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Taceas at English Wikipedia",
+      "licence": "Public domain"
+    },
+    {
+      "key": "coucou de maline",
+      "dadis_ids": [
+        "cod-coucou-de-maline"
+      ],
+      "file": "images-original/global/mechelse-kalkoenkop.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malines_chicken",
+      "wikipedia_title": "Malines chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rooster_in_Domein_Scheyvaerts,_cropped_(DSC_2569).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg/1920px-Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "coucou de rennes",
+      "dadis_ids": [
+        "fra-coucou-de-rennes"
+      ],
+      "file": "images-original/global/coucou-de-france.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Coucou_de_Rennes",
+      "wikipedia_title": "Coucou de Rennes",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coq_coucou_de_Rennes-2.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coq_coucou_de_Rennes-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Coq_coucou_de_Rennes-2.jpg/1920px-Coq_coucou_de_Rennes-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Édouard Hue (User:EdouardHue)",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "crested legbar",
+      "dadis_ids": [
+        "gbr-crested-legbar"
+      ],
+      "file": "images-original/global/crested-legbar.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Legbar",
+      "wikipedia_title": "Legbar",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cream_Legbar.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cream_Legbar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cream_Legbar.jpg/1920px-Cream_Legbar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jack Berry",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "derbyshire redcap miniature",
+      "dadis_ids": [
+        "gbr-derbyshire-redcap-miniature"
+      ],
+      "file": "images-original/global/derbyshire-redcap-miniature.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Derbyshire_Redcap",
+      "wikipedia_title": "Derbyshire Redcap",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Derbyshire_Red_Cap,_from_the_Prize_and_Game_Chickens_series_(N20)_for_Allen_%26_Ginter_Cigarettes_MET_DP835066.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Derbyshire_Red_Cap%2C_from_the_Prize_and_Game_Chickens_series_%28N20%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835066.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Derbyshire_Red_Cap%2C_from_the_Prize_and_Game_Chickens_series_%28N20%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835066.jpg/1920px-Derbyshire_Red_Cap%2C_from_the_Prize_and_Game_Chickens_series_%28N20%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835066.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Allen &amp; Ginter / August Gast",
+      "licence": "CC0"
+    },
+    {
+      "key": "deutsche langschan",
+      "dadis_ids": [
+        "deu-deutsche-langschan"
+      ],
+      "file": "images-original/global/new-langshan.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/German_Langshan",
+      "wikipedia_title": "German Langshan",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1,0_Deutsches_Langschan,_braunbr%C3%BCstig.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1%2C0_Deutsches_Langschan%2C_braunbr%C3%BCstig.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/1%2C0_Deutsches_Langschan%2C_braunbr%C3%BCstig.JPG/1920px-1%2C0_Deutsches_Langschan%2C_braunbr%C3%BCstig.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "F. Kunz, Greifenstein",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "dorking dark",
+      "dadis_ids": [
+        "gbr-dorking-dark"
+      ],
+      "file": "images-original/global/dorking-dark.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorking_chicken",
+      "wikipedia_title": "Dorking chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dorking_Hahn.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dorking_Hahn.JPG/1920px-Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "3268zauber",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "dorking miniature",
+      "dadis_ids": [
+        "gbr-dorking-miniature"
+      ],
+      "file": "images-original/global/dorking-dark.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorking_chicken",
+      "wikipedia_title": "Dorking chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dorking_Hahn.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dorking_Hahn.JPG/1920px-Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "3268zauber",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "dorking red",
+      "dadis_ids": [
+        "gbr-dorking-red"
+      ],
+      "file": "images-original/global/dorking-dark.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorking_chicken",
+      "wikipedia_title": "Dorking chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dorking_Hahn.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dorking_Hahn.JPG/1920px-Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "3268zauber",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "dorking silver grey",
+      "dadis_ids": [
+        "gbr-dorking-silver-grey"
+      ],
+      "file": "images-original/global/dorking-dark.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorking_chicken",
+      "wikipedia_title": "Dorking chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dorking_Hahn.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dorking_Hahn.JPG/1920px-Dorking_Hahn.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "3268zauber",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "faverolles salmon",
+      "dadis_ids": [
+        "rou-faverolles-salmon"
+      ],
+      "file": "images-original/global/faverolles-salmon.jpg",
+      "width": 997,
+      "wikipedia": "https://en.wikipedia.org/wiki/Faverolles_chicken",
+      "wikipedia_title": "Faverolles chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Faverolles_cock_and_hen_close-up.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Faverolles_cock_and_hen_close-up.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Faverolles_cock_and_hen_close-up.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "stephen jones from uk",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "friesenhuhner",
+      "dadis_ids": [
+        "deu-friesenhuhner"
+      ],
+      "file": "images-original/global/friesenhuhner.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Friesian_chicken",
+      "wikipedia_title": "Friesian chicken",
+      "shortdesc": "Dutch breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2014nr103_%E2%80%93_RGZV_Frankenthal_IMG043_%E2%80%93_Friesenh%C3%BChner,_gelb-wei%C3%9Fgeflockt.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/2014nr103_%E2%80%93_RGZV_Frankenthal_IMG043_%E2%80%93_Friesenh%C3%BChner%2C_gelb-wei%C3%9Fgeflockt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2014nr103_%E2%80%93_RGZV_Frankenthal_IMG043_%E2%80%93_Friesenh%C3%BChner%2C_gelb-wei%C3%9Fgeflockt.jpg/1920px-2014nr103_%E2%80%93_RGZV_Frankenthal_IMG043_%E2%80%93_Friesenh%C3%BChner%2C_gelb-wei%C3%9Fgeflockt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "RGZV Frankenthal",
+      "licence": "CC BY 3.0"
+    },
+    {
+      "key": "frizzle feathered",
+      "dadis_ids": [
+        "ken-frizzle-feathered"
+      ],
+      "file": "images-original/global/frizzle-feathered.jpg",
+      "width": 1296,
+      "wikipedia": "https://en.wikipedia.org/wiki/Frizzle_(chicken_breed)",
+      "wikipedia_title": "Frizzle (chicken breed)",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:White_Frizzle_Chicken.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/White_Frizzle_Chicken.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/White_Frizzle_Chicken.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Wurstmaster",
+      "licence": "CC0"
+    },
+    {
+      "key": "gallina del prat",
+      "dadis_ids": [
+        "esp-gallina-del-prat"
+      ],
+      "file": "images-original/global/gallina-del-prat.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Catalana",
+      "wikipedia_title": "Catalana",
+      "shortdesc": "Spanish breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PratPotaBlava.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PratPotaBlava.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/PratPotaBlava.JPG/1920px-PratPotaBlava.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Preconsat",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "gauloise",
+      "dadis_ids": [
+        "fra-gauloise"
+      ],
+      "file": "images-original/global/gauloise.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bresse_Gauloise",
+      "wikipedia_title": "Bresse Gauloise",
+      "shortdesc": "French breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bresse-Gauloise_noire.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bresse-Gauloise_noire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bresse-Gauloise_noire.jpg/1920px-Bresse-Gauloise_noire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Uikitireza",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "hamburger",
+      "dadis_ids": [
+        "aus-hamburgh"
+      ],
+      "file": "images-original/global/hamburger.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hamburg_chicken",
+      "wikipedia_title": "Hamburg chicken",
+      "shortdesc": "Dutch/British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Silver-Spangled_Hamburg_Sam_dinner_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg/1920px-Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ospr3yy at en.wikipedia",
+      "licence": "FAL"
+    },
+    {
+      "key": "hamburgh",
+      "dadis_ids": [
+        "nzl-hamburgh"
+      ],
+      "file": "images-original/global/hamburger.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hamburg_chicken",
+      "wikipedia_title": "Hamburg chicken",
+      "shortdesc": "Dutch/British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Silver-Spangled_Hamburg_Sam_dinner_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg/1920px-Silver-Spangled_Hamburg_Sam_dinner_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ospr3yy at en.wikipedia",
+      "licence": "FAL"
+    },
+    {
+      "key": "houdan bantam",
+      "dadis_ids": [
+        "gbr-houdan-miniature"
+      ],
+      "file": "images-original/global/houdan-bantam.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Houdan_chicken",
+      "wikipedia_title": "Houdan chicken",
+      "shortdesc": "French breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:PC041327_Little_Mont_Blanc_at_the_feed_machine,_French_Houdan,_Minder_of_the_chicks.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/PC041327_Little_Mont_Blanc_at_the_feed_machine%2C_French_Houdan%2C_Minder_of_the_chicks.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/PC041327_Little_Mont_Blanc_at_the_feed_machine%2C_French_Houdan%2C_Minder_of_the_chicks.jpg/1920px-PC041327_Little_Mont_Blanc_at_the_feed_machine%2C_French_Houdan%2C_Minder_of_the_chicks.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ann Porteus",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "jersey black giant",
+      "dadis_ids": [
+        "slv-jersey-black-giant"
+      ],
+      "file": "images-original/global/jersey-giants.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jersey_Giant",
+      "wikipedia_title": "Jersey Giant",
+      "shortdesc": "American breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:OntarioCountyFair2018JerseyGiantCockerel.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/OntarioCountyFair2018JerseyGiantCockerel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/OntarioCountyFair2018JerseyGiantCockerel.jpg/1920px-OntarioCountyFair2018JerseyGiantCockerel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "DanielPenfield",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "jersey giants",
+      "dadis_ids": [
+        "deu-jersey-giants"
+      ],
+      "file": "images-original/global/jersey-giants.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jersey_Giant",
+      "wikipedia_title": "Jersey Giant",
+      "shortdesc": "American breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:OntarioCountyFair2018JerseyGiantCockerel.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/OntarioCountyFair2018JerseyGiantCockerel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/OntarioCountyFair2018JerseyGiantCockerel.jpg/1920px-OntarioCountyFair2018JerseyGiantCockerel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "DanielPenfield",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "ko shamo",
+      "dadis_ids": [
+        "deu-ko-shamo"
+      ],
+      "file": "images-original/global/ko-shamo.jpg",
+      "width": 1200,
+      "wikipedia": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "wikipedia_title": "Shamo chickens",
+      "shortdesc": "Group of Japanese chicken breeds",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ko_Shamo_1,0_Junghahn_7.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ko_Shamo_1%2C0_Junghahn_7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ko_Shamo_1%2C0_Junghahn_7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Beegfood",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "kraienkoppe",
+      "dadis_ids": [
+        "deu-kraienkoppe",
+        "gbr-kraienkoppe",
+        "nld-kraaikop-groot"
+      ],
+      "file": "images-original/global/kraienkoppe.jpg",
+      "width": 1788,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kraienkopp",
+      "wikipedia_title": "Kraienkopp",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1,0_Kraienkopp_cropped.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1%2C0_Kraienkopp_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1%2C0_Kraienkopp_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bomme herrmann",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "la fleche bantam",
+      "dadis_ids": [
+        "gbr-la-fleche-miniature"
+      ],
+      "file": "images-original/global/la-fleche-bantam.jpg",
+      "width": 1772,
+      "wikipedia": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_chicken",
+      "wikipedia_title": "La Flèche chicken",
+      "shortdesc": "French breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poule_de_La_Fl%C3%A8che_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Poule_de_La_Fl%C3%A8che_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Poule_de_La_Fl%C3%A8che_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Édouard Hue (User:EdouardHue)",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "legbar miniature",
+      "dadis_ids": [
+        "gbr-legbar-miniature"
+      ],
+      "file": "images-original/global/crested-legbar.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Legbar",
+      "wikipedia_title": "Legbar",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cream_Legbar.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cream_Legbar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cream_Legbar.jpg/1920px-Cream_Legbar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jack Berry",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "leghorn brown",
+      "dadis_ids": [
+        "svk-leghorn-brown"
+      ],
+      "file": "images-original/global/white-dark-brown-leghorn.jpg",
+      "width": 1718,
+      "wikipedia": "https://en.wikipedia.org/wiki/Leghorn_chicken",
+      "wikipedia_title": "Leghorn chicken",
+      "shortdesc": "Italian breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leghorn_cockerel_and_hen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bodlina",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "leghorn light brown italian partridge",
+      "dadis_ids": [
+        "rus-leghorn-light-brown-italian-partridge"
+      ],
+      "file": "images-original/global/white-dark-brown-leghorn.jpg",
+      "width": 1718,
+      "wikipedia": "https://en.wikipedia.org/wiki/Leghorn_chicken",
+      "wikipedia_title": "Leghorn chicken",
+      "shortdesc": "Italian breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leghorn_cockerel_and_hen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bodlina",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "lohmann brown",
+      "dadis_ids": [
+        "rwa-lohmann-brown"
+      ],
+      "file": "images-original/global/commercial-strain-layer-lohmann.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lohmann_Brown",
+      "wikipedia_title": "Lohmann Brown",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg/1920px-Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Konstantin Nikiforov",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "lohmann classic",
+      "dadis_ids": [
+        "ukr-lohmann-classic"
+      ],
+      "file": "images-original/global/commercial-strain-layer-lohmann.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lohmann_Brown",
+      "wikipedia_title": "Lohmann Brown",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg/1920px-Lohmann_Brown_adult_hen_in_homebird-yard_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Konstantin Nikiforov",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "marans bantam",
+      "dadis_ids": [
+        "gbr-marans-miniature"
+      ],
+      "file": "images-original/global/marans-bantam.jpg",
+      "width": 1667,
+      "wikipedia": "https://en.wikipedia.org/wiki/Marans",
+      "wikipedia_title": "Marans",
+      "shortdesc": "French breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poule_Marans_blanche.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Poule_Marans_blanche.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Poule_Marans_blanche.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Uikitireza",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "mechelse kalkoenkop",
+      "dadis_ids": [
+        "bel-mechelse-kalkoenkop"
+      ],
+      "file": "images-original/global/mechelse-kalkoenkop.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malines_chicken",
+      "wikipedia_title": "Malines chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rooster_in_Domein_Scheyvaerts,_cropped_(DSC_2569).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg/1920px-Rooster_in_Domein_Scheyvaerts%2C_cropped_%28DSC_2569%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "minorka",
+      "dadis_ids": [
+        "deu-minorka"
+      ],
+      "file": "images-original/global/minorka.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Minorca_chicken",
+      "wikipedia_title": "Minorca chicken",
+      "shortdesc": "Spanish breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rooster_at_Scottish_poultry_show.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rooster_at_Scottish_poultry_show.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Rooster_at_Scottish_poultry_show.jpg/1920px-Rooster_at_Scottish_poultry_show.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Erik Fitzpatrick",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "o shamo",
+      "dadis_ids": [
+        "jpn-o-shamo"
+      ],
+      "file": "images-original/global/ko-shamo.jpg",
+      "width": 1200,
+      "wikipedia": "https://en.wikipedia.org/wiki/Shamo_chickens",
+      "wikipedia_title": "Shamo chickens",
+      "shortdesc": "Group of Japanese chicken breeds",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ko_Shamo_1,0_Junghahn_7.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ko_Shamo_1%2C0_Junghahn_7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ko_Shamo_1%2C0_Junghahn_7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Beegfood",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "old english game bantam",
+      "dadis_ids": [
+        "bmu-old-english-game-bantam",
+        "gbr-old-english-game-miniature"
+      ],
+      "file": "images-original/global/old-english-game-bantam.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Old_English_Game",
+      "wikipedia_title": "Old English Game",
+      "shortdesc": "British breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bunter_Hahn_Altenglischer_Zwergk%C3%A4mpfer_(cropped).JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bunter_Hahn_Altenglischer_Zwergk%C3%A4mpfer_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bunter_Hahn_Altenglischer_Zwergk%C3%A4mpfer_%28cropped%29.JPG/1920px-Bunter_Hahn_Altenglischer_Zwergk%C3%A4mpfer_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "4028mdk09",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "orloff miniature",
+      "dadis_ids": [
+        "gbr-orloff-miniature"
+      ],
+      "file": "images-original/global/orloff-miniature.jpg",
+      "width": 983,
+      "wikipedia": "https://en.wikipedia.org/wiki/Orloff_chicken",
+      "wikipedia_title": "Orloff chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Russian_Orloff_in_winter.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Russian_Orloff_in_winter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Russian_Orloff_in_winter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "soapydishwater",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "orpington miniature",
+      "dadis_ids": [
+        "gbr-orpington-miniature"
+      ],
+      "file": "images-original/global/orpington-miniature.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Orpington_chicken",
+      "wikipedia_title": "Orpington chicken",
+      "shortdesc": "British breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poule_orpington_naine_noire.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Poule_orpington_naine_noire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Poule_orpington_naine_noire.jpg/1920px-Poule_orpington_naine_noire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomon",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "pekin",
+      "dadis_ids": [
+        "aus-pekin",
+        "gbr-pekin"
+      ],
+      "file": "images-original/global/pekin.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pekin_Bantam",
+      "wikipedia_title": "Pekin Bantam",
+      "shortdesc": "British breed of bantam chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paulx_-_Bantam_rooster_(1).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Paulx_-_Bantam_rooster_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Paulx_-_Bantam_rooster_%281%29.jpg/1920px-Paulx_-_Bantam_rooster_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Selbymay",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "pelung",
+      "dadis_ids": [
+        "idn-pelung"
+      ],
+      "file": "images-original/global/pelung.jpg",
+      "width": 1591,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ayam_Pelung",
+      "wikipedia_title": "Ayam Pelung",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ayam_Pelung.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ayam_Pelung.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ayam_Pelung.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Kangwira",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "penedesencas",
+      "dadis_ids": [
+        "gbr-penedesencas"
+      ],
+      "file": "images-original/global/penedesencas.jpg",
+      "width": 1144,
+      "wikipedia": "https://en.wikipedia.org/wiki/Penedesenca",
+      "wikipedia_title": "Penedesenca",
+      "shortdesc": "Spanish breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Galls_del_Pened%C3%A8s.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Galls_del_Pened%C3%A8s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Galls_del_Pened%C3%A8s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Maria Antònia Udina Castell",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "poltava clay",
+      "dadis_ids": [
+        "rus-poltava-clay"
+      ],
+      "file": "images-original/global/poltava-clay.jpg",
+      "width": 1274,
+      "wikipedia": "https://en.wikipedia.org/wiki/Poltava_(chicken)",
+      "wikipedia_title": "Poltava (chicken)",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poltava_chicken_breed_male_and_female.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Poltava_chicken_breed_male_and_female.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Poltava_chicken_breed_male_and_female.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Photo made by Timophey Tkachik (Ukraine). Taken in Borky, Kharkiv Region, Ukraine, Summer 2007.",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "red leghorn",
+      "dadis_ids": [
+        "ken-red-leghorn"
+      ],
+      "file": "images-original/global/white-dark-brown-leghorn.jpg",
+      "width": 1718,
+      "wikipedia": "https://en.wikipedia.org/wiki/Leghorn_chicken",
+      "wikipedia_title": "Leghorn chicken",
+      "shortdesc": "Italian breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leghorn_cockerel_and_hen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bodlina",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "rhode island",
+      "dadis_ids": [
+        "tza-rhode-island"
+      ],
+      "file": "images-original/global/rhode-island-red-bantam.jpg",
+      "width": 1652,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rhode_Island_Red",
+      "wikipedia_title": "Rhode Island Red",
+      "shortdesc": "American breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rhode_Island_Red_cock,_cropped.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rhode_Island_Red_cock%2C_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rhode_Island_Red_cock%2C_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "HeatherLion",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "rhode island red bantam",
+      "dadis_ids": [
+        "gbr-rhode-island-red-miniature",
+        "rou-rhode-island-rosu-pitic"
+      ],
+      "file": "images-original/global/rhode-island-red-bantam.jpg",
+      "width": 1652,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rhode_Island_Red",
+      "wikipedia_title": "Rhode Island Red",
+      "shortdesc": "American breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rhode_Island_Red_cock,_cropped.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rhode_Island_Red_cock%2C_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rhode_Island_Red_cock%2C_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "HeatherLion",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "ross 308",
+      "dadis_ids": [
+        "kaz-ross-308",
+        "rwa-ross-308"
+      ],
+      "file": "images-original/global/commercial-strain-broiler-ross.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ross_308",
+      "wikipedia_title": "Ross 308",
+      "shortdesc": "Breed of fast-growing chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ross_308,_30_weken,_6400_gram.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ross_308%2C_30_weken%2C_6400_gram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ross_308%2C_30_weken%2C_6400_gram.jpg/1920px-Ross_308%2C_30_weken%2C_6400_gram.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Arie m den toom",
+      "licence": "CC BY 4.0"
+    },
+    {
+      "key": "sabelpoot",
+      "dadis_ids": [
+        "gbr-sabelpoot"
+      ],
+      "file": "images-original/global/booted.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Booted_Bantam",
+      "wikipedia_title": "Booted Bantam",
+      "shortdesc": "European breed of bantam chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Booted_Bantam_-peting_zoo,_The_Hague,_Netherlands_-two-8a.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg/1920px-Booted_Bantam_-peting_zoo%2C_The_Hague%2C_Netherlands_-two-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "-JvL- from Netherlands",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "schweizer huhn",
+      "dadis_ids": [
+        "che-schweizer-huhn"
+      ],
+      "file": "images-original/global/schweizer-huhn.jpg",
+      "width": 1000,
+      "wikipedia": "https://en.wikipedia.org/wiki/Schweizer_chicken",
+      "wikipedia_title": "Schweizer chicken",
+      "shortdesc": "Swiss breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Schweizerhuhn2_PSR.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Schweizerhuhn2_PSR.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Schweizerhuhn2_PSR.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Nienetwiler  [Ticket#2010090810003831]",
+      "licence": "CC BY 2.5 ch"
+    },
+    {
+      "key": "scots dumpy miniature",
+      "dadis_ids": [
+        "gbr-scots-dumpy-miniature"
+      ],
+      "file": "images-original/global/scots-dumpy-miniature.jpg",
+      "width": 1495,
+      "wikipedia": "https://en.wikipedia.org/wiki/Scots_Dumpy",
+      "wikipedia_title": "Scots Dumpy",
+      "shortdesc": "Scottish breed of creeper chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dumpies_belonging_to_J._Fairlie,_Esq,_Wingfield_1853.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dumpies_belonging_to_J._Fairlie%2C_Esq%2C_Wingfield_1853.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dumpies_belonging_to_J._Fairlie%2C_Esq%2C_Wingfield_1853.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Unknown authorUnknown author",
+      "licence": "Public domain"
+    },
+    {
+      "key": "silkie white",
+      "dadis_ids": [
+        "rus-silkie-white"
+      ],
+      "file": "images-original/global/silkie-white.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Silkie_(chicken_breed)",
+      "wikipedia_title": "Silkie (chicken breed)",
+      "shortdesc": "Chinese fluffy breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Silky_bantam.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Silky_bantam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Silky_bantam.jpg/1920px-Silky_bantam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Benjamint444",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "sombor crested",
+      "dadis_ids": [
+        "srb-sombor-crested"
+      ],
+      "file": "images-original/global/sombor-crested.jpg",
+      "width": 1594,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sombor_Kaporka",
+      "wikipedia_title": "Sombor Kaporka",
+      "shortdesc": "Serbian breed of crested chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sombor_kaporka_(cropped).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sombor_kaporka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sombor_kaporka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "محمد بوعلام عصامي",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "spanish",
+      "dadis_ids": [
+        "aus-spanish",
+        "gbr-spanish",
+        "irl-spanish",
+        "nzl-spanish",
+        "per-espanola",
+        "usa-spanish"
+      ],
+      "file": "images-original/global/spanish.jpg",
+      "width": 800,
+      "wikipedia": "https://en.wikipedia.org/wiki/White-faced_Black_Spanish",
+      "wikipedia_title": "White-faced Black Spanish",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:White-faced-black-spanish.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/White-faced-black-spanish.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/White-faced-black-spanish.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Galloramenu",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "stajerska kokos",
+      "dadis_ids": [
+        "svn-stajerska-kokos"
+      ],
+      "file": "images-original/global/stajerska-kokos.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Altsteirer",
+      "wikipedia_title": "Altsteirer",
+      "shortdesc": "Chicken breed",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Altsteirerhahn.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Altsteirerhahn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Altsteirerhahn.jpg/1920px-Altsteirerhahn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "www.newsserver.at / Oswald Hicker",
+      "licence": "CC BY-SA 2.5"
+    },
+    {
+      "key": "sussex miniature",
+      "dadis_ids": [
+        "gbr-sussex-miniature"
+      ],
+      "file": "images-original/global/buff-sussex.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sussex_chicken",
+      "wikipedia_title": "Sussex chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg/1920px-Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Chefsbird",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "sussex white",
+      "dadis_ids": [
+        "svk-sussex-white"
+      ],
+      "file": "images-original/global/buff-sussex.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sussex_chicken",
+      "wikipedia_title": "Sussex chicken",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg/1920px-Speckled_Sussex_cock_at_two_years_old_UK_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Chefsbird",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "transylvanian naked neck bantam",
+      "dadis_ids": [
+        "gbr-transylvanian-miniature",
+        "rou-git-golas-de-transilvania-negru-pitica"
+      ],
+      "file": "images-original/global/transylvanian-naked-neck-bantam.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Naked_Neck",
+      "wikipedia_title": "Naked Neck",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Naked_neck_rooster.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Naked_neck_rooster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Naked_neck_rooster.jpg/1920px-Naked_neck_rooster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Demontux",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "valdarnese bianca",
+      "dadis_ids": [
+        "ita-valdarnese-bianca"
+      ],
+      "file": "images-original/global/valdarnese-bianca.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Valdarnese",
+      "wikipedia_title": "Valdarnese",
+      "shortdesc": "Italian breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Valdarnese_Bianca_10.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Valdarnese_Bianca_10.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Valdarnese_Bianca_10.jpg/1920px-Valdarnese_Bianca_10.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Justlettersandnumbers",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "vorwerk miniature",
+      "dadis_ids": [
+        "gbr-vorwerk-miniature"
+      ],
+      "file": "images-original/global/vorwerk-miniature.jpg",
+      "width": 1652,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vorwerk_chicken",
+      "wikipedia_title": "Vorwerk chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vorwerkhuhn_at_the_BUGA_2009.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Vorwerkhuhn_at_the_BUGA_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Vorwerkhuhn_at_the_BUGA_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rimshot",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "welsummer bantam",
+      "dadis_ids": [
+        "gbr-welsummer-miniature",
+        "nld-welsumer-roodpatrijs-kriel"
+      ],
+      "file": "images-original/global/zwerg-welsumer.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Welsummer",
+      "wikipedia_title": "Welsummer",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Welsummer_hen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Welsummer_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Welsummer_hen.jpg/1920px-Welsummer_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Josh Larios from Seattle, US",
+      "licence": "CC BY-SA 2.0"
+    },
+    {
+      "key": "westfalische totleger",
+      "dadis_ids": [
+        "deu-westfalische-totleger"
+      ],
+      "file": "images-original/global/westfalische-totleger.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Westf%C3%A4lischer_Totleger",
+      "wikipedia_title": "Westfälischer Totleger",
+      "shortdesc": "German breed of domestic chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Wilhelma_Westf%C3%A4lischer_Totleger.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Wilhelma_Westf%C3%A4lischer_Totleger.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Wilhelma_Westf%C3%A4lischer_Totleger.jpg/1920px-Wilhelma_Westf%C3%A4lischer_Totleger.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "--Xocolatl (talk) 18:53, 26 April 2010 (UTC)",
+      "licence": "Public domain"
+    },
+    {
+      "key": "white cornish",
+      "dadis_ids": [
+        "jpn-white-cornish",
+        "phl-white-cornish",
+        "rou-cornish-alb-c",
+        "rus-white-cornish"
+      ],
+      "file": "images-original/global/cornish-game-miniature.jpg",
+      "width": 800,
+      "wikipedia": "https://en.wikipedia.org/wiki/Indian_Game_(poultry)",
+      "wikipedia_title": "Indian Game (poultry)",
+      "shortdesc": "British breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:DkCornishHen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/DkCornishHen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/DkCornishHen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Taceas at English Wikipedia",
+      "licence": "Public domain"
+    },
+    {
+      "key": "white dark brown leghorn",
+      "dadis_ids": [
+        "bmu-white-dark-brown-leghorn"
+      ],
+      "file": "images-original/global/white-dark-brown-leghorn.jpg",
+      "width": 1718,
+      "wikipedia": "https://en.wikipedia.org/wiki/Leghorn_chicken",
+      "wikipedia_title": "Leghorn chicken",
+      "shortdesc": "Italian breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leghorn_cockerel_and_hen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Leghorn_cockerel_and_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bodlina",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "white plymouth rock silver",
+      "dadis_ids": [
+        "rou-white-plymouth-rock-silver"
+      ],
+      "file": "images-original/global/columbian-rock.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Plymouth_Rock_chicken",
+      "wikipedia_title": "Plymouth Rock chicken",
+      "shortdesc": "American breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sophia_and_ZsuZsu_walking_the_property.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sophia_and_ZsuZsu_walking_the_property.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sophia_and_ZsuZsu_walking_the_property.jpg/1920px-Sophia_and_ZsuZsu_walking_the_property.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomas Kriese",
+      "licence": "CC BY 2.0"
+    },
+    {
+      "key": "white sultan",
+      "dadis_ids": [
+        "rou-white-sultan"
+      ],
+      "file": "images-original/global/white-sultan.jpg",
+      "width": 1101,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sultan_chicken",
+      "wikipedia_title": "Sultan chicken",
+      "shortdesc": "Turkish breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sultan_cock_(cropped).JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sultan_cock_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sultan_cock_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Antekbojar",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "wyandotte white",
+      "dadis_ids": [
+        "can-wyandotte-white",
+        "cog-wyandotte-blanche",
+        "rou-wyandotte-alb",
+        "ury-wyandotte-blanca"
+      ],
+      "file": "images-original/global/wyandotte-white.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Wyandotte_chicken",
+      "wikipedia_title": "Wyandotte chicken",
+      "shortdesc": "American breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Poule_wyandotte_noire.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Poule_wyandotte_noire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Poule_wyandotte_noire.jpg/1920px-Poule_wyandotte_noire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Thomon",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "yokohama british type",
+      "dadis_ids": [
+        "gbr-yokohama-british-type"
+      ],
+      "file": "images-original/global/zwerg-yokohama.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Yokohama_chicken",
+      "wikipedia_title": "Yokohama chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2017-07-02_AT_Wien_13_Hietzing,_Tiergarten_Sch%C3%B6nbrunn,_Gallus_gallus_domesticus_(%3F)_(49837337048).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg/1920px-2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Paul Korecky",
+      "licence": "CC BY-SA 2.0"
+    },
+    {
+      "key": "yurlov crower",
+      "dadis_ids": [
+        "rus-yurlov-crower"
+      ],
+      "file": "images-original/global/yurlov-crower.jpg",
+      "width": 824,
+      "wikipedia": "https://en.wikipedia.org/wiki/Yurlov_Crower",
+      "wikipedia_title": "Yurlov Crower",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:YurlovCrower_Golden1.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/YurlovCrower_Golden1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/YurlovCrower_Golden1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Photo made by Timophey Tkachik (Ukraine). Taken in Borky, Kharkiv Region, Ukraine, July 22, 2005.",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "zwerg barnevelder",
+      "dadis_ids": [
+        "deu-zwerg-barnevelder"
+      ],
+      "file": "images-original/global/zwerg-barnevelder.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Barnevelder",
+      "wikipedia_title": "Barnevelder",
+      "shortdesc": "Dutch breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Barnevelder_Hen_Head.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Barnevelder_Hen_Head.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Barnevelder_Hen_Head.jpg/1920px-Barnevelder_Hen_Head.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Air55",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "zwerg kruper",
+      "dadis_ids": [
+        "deu-zwerg-kruper"
+      ],
+      "file": "images-original/global/zwerg-kruper.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kr%C3%BCper",
+      "wikipedia_title": "Krüper",
+      "shortdesc": "German breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kr%C3%BCper_Hahn_Gesperbert.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kr%C3%BCper_Hahn_Gesperbert.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kr%C3%BCper_Hahn_Gesperbert.JPG/1920px-Kr%C3%BCper_Hahn_Gesperbert.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jörg Erich",
+      "licence": "CC BY-SA 3.0"
+    },
+    {
+      "key": "zwerg niederrheiner",
+      "dadis_ids": [
+        "deu-zwerg-niederrheiner"
+      ],
+      "file": "images-original/global/zwerg-niederrheiner.jpg",
+      "width": 1313,
+      "wikipedia": "https://en.wikipedia.org/wiki/Niederrheiner",
+      "wikipedia_title": "Niederrheiner",
+      "shortdesc": "German breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Niederrheiner_Gelbsperber_03.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Niederrheiner_Gelbsperber_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Niederrheiner_Gelbsperber_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Michi012",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "key": "zwerg welsumer",
+      "dadis_ids": [
+        "deu-zwerg-welsumer"
+      ],
+      "file": "images-original/global/zwerg-welsumer.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Welsummer",
+      "wikipedia_title": "Welsummer",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Welsummer_hen.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Welsummer_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Welsummer_hen.jpg/1920px-Welsummer_hen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Josh Larios from Seattle, US",
+      "licence": "CC BY-SA 2.0"
+    },
+    {
+      "key": "zwerg yokohama",
+      "dadis_ids": [
+        "deu-zwerg-yokohama"
+      ],
+      "file": "images-original/global/zwerg-yokohama.jpg",
+      "width": 1920,
+      "wikipedia": "https://en.wikipedia.org/wiki/Yokohama_chicken",
+      "wikipedia_title": "Yokohama chicken",
+      "shortdesc": "Breed of chicken",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2017-07-02_AT_Wien_13_Hietzing,_Tiergarten_Sch%C3%B6nbrunn,_Gallus_gallus_domesticus_(%3F)_(49837337048).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg/1920px-2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Gallus_gallus_domesticus_%28%3F%29_%2849837337048%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Paul Korecky",
+      "licence": "CC BY-SA 2.0"
+    }
+  ],
+  "matched_without_photo": [
+    {
+      "key": "belgisch kriel",
+      "page": "Belgian Bantam"
+    },
+    {
+      "key": "grubbe baardkriel",
+      "page": "Barbu de Grubbe"
+    },
+    {
+      "key": "commercial strain layer cobb 500",
+      "page": "Cobb 500"
+    },
+    {
+      "key": "langshan",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "nixi",
+      "page": "Nixi chicken"
+    },
+    {
+      "key": "taiwan country",
+      "page": "Taiwanese Game"
+    },
+    {
+      "key": "croad langschan",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "ostfriesische mowen",
+      "page": "Ostfriesische Möwe"
+    },
+    {
+      "key": "redcaps",
+      "page": "Derbyshire Redcap"
+    },
+    {
+      "key": "cambar",
+      "page": "Cambar"
+    },
+    {
+      "key": "croad langshan miniature",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "german langshan miniature",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "ixworth miniature",
+      "page": "Ixworth chicken"
+    },
+    {
+      "key": "langshan black croad",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "langshan white croad",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "modern langshan miniature",
+      "page": "Croad Langshan"
+    },
+    {
+      "key": "scots grey miniature",
+      "page": "Scots Grey"
+    },
+    {
+      "key": "taiwanese shamo",
+      "page": "Taiwanese Game"
+    },
+    {
+      "key": "cobb 500",
+      "page": "Cobb 500"
+    },
+    {
+      "key": "kedu",
+      "page": "Ayam Kedu"
+    },
+    {
+      "key": "gramapriya",
+      "page": "Gramapriya"
+    },
+    {
+      "key": "kaunayen",
+      "page": "Kaunayen chicken"
+    },
+    {
+      "key": "romagnolo",
+      "page": "Romagnola chicken"
+    },
+    {
+      "key": "potchefstroom koekoeks",
+      "page": "Potchefstroom Koekoek"
+    },
+    {
+      "key": "koekoek",
+      "page": "Potchefstroom Koekoek"
+    },
+    {
+      "key": "russian crested",
+      "page": "Crested chickens"
+    },
+    {
+      "key": "slovenska pozno operjena kokos",
+      "page": "Slovene Late-feathered Hen"
+    },
+    {
+      "key": "skansk blommehona",
+      "page": "Swedish Flower Hen"
+    },
+    {
+      "key": "manx rumpy",
+      "page": "Rumpless Game"
+    }
+  ],
+  "failed": []
+}

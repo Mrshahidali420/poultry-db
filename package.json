@@ -23,6 +23,8 @@
     "import:github": "node scripts/import-github-datasets.mjs",
     "import:dadis": "node scripts/import-dadis.mjs",
     "fetch:dadis": "node scripts/fetch-dadis.mjs",
+    "fetch:dadis-full": "node scripts/fetch-dadis-full.mjs",
+    "fetch:global-photos": "node scripts/fetch-global-photos.mjs",
     "merge:imports": "node scripts/merge-imports.mjs",
     "merge:extracts": "node scripts/merge-extracts.mjs",
     "enrich": "node scripts/enrich-llm.mjs",
