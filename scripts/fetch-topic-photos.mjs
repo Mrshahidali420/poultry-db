@@ -71,6 +71,15 @@ export const TOPICS = [
   ["white-chick-straw", "Gallus gallus domesticus - Vogelpark Steinen 03.jpg"],
   ["young-hen-grass", "G. gallus domesticus, Neuss (DE) -- 2023 -- 0062.jpg"],
   ["farm-coop", "Hen run, Cotton Stones - geograph.org.uk - 3793882.jpg"],
+  // Added for the health/symptoms + faq/tools photo pass (29 Sep 2026):
+  // one close-up hen face/comb, one bumblefoot foot, one egg incubator, one
+  // crowing rooster. These four plus the reused ids appended by
+  // wire-reuse-photos.mjs cover the symptom checker's 45 symptom pages and
+  // a handful of faq/tools pages.
+  ["hen-comb-closeup", "A close-up view of a hen inside a barn coop, showcasing its vibrant comb and eye.jpg"],
+  ["bumblefoot-foot", "Pododermatitis (Bumblefoot) in a rooster.jpg"],
+  ["egg-incubator", "Small Chicken Egg Incubator overhead.jpg"],
+  ["rooster-crowing", "Rooster crowing close-up.jpg"],
 ];
 
 // Some networks reset TLS for the commons.wikimedia.org name only. Every
